@@ -1,0 +1,31 @@
+{
+  "edition": "bounded-golden-v1",
+  "approved": true,
+  "reviewer": "Coordinating agent, following separate aggregate review by /root/golden_base_review and actual-output audit by /root/golden_pipeline",
+  "review": "All eight fixed chapter releases and every original anchor are preserved exactly. Closed finite queues, scan-supported changes, source roles, attribution and explicit limitations accepted. No new native full-text proofreading or human certification claimed.",
+  "review_path": "golden/FINAL-REVIEW.md",
+  "review_sha256": "6185a8427830fa01d744fe46ce14a279db13265a2e1dc705930f6f1efc5ec94b",
+  "build_manifest_sha256": "66a085a74cf3420c832bcc338cbdf43696cb950d8113ee388992c51c4e361d20",
+  "output_sha256": {
+    "reading.md": "75fc6f052921f547e30fabb19e4fb4cc2db232c67c5e04a3449855ea844f7c36",
+    "reading.json": "dc371e71f4eb0fa842963eebf3ebb0bb7c60e9623a038cf1cdcd3339855be2c1",
+    "coverage.json": "6b2867ee4d62762787c6c12cda5509820f5fa4669fd2f1bf4e933c840f4bfd35",
+    "README.md": "9c6214951ff148636122190713d6e06db10a1cb57333c41ef3cc1c7b9cf3a705"
+  },
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "supporting_sha256": {
+    "golden/contract.json": "12a0374edc767f769f54d938ae8760cedd6936ef7fa4a2feb258d971d05333d1",
+    "golden/PIPELINE-REVIEW.md": "a2f074d88708ede13154dc0faab0c9ff7ca1017f6ecc044857e38c7de9383d33",
+    "golden/audit/test-results.json": "9dbed5116b19d8713a343583d2c93881fb9d541deae58cb963a628c947c84057",
+    "golden/audit/tests.txt": "a4b64e249baad7fc10d315cc4028d9460e0a621a9224035b9958e06cb42948f1",
+    "golden/audit/unsigned-final-check.txt": "e63f02abf8807d4e4ed0b035feae331adc4ec821f124993f0ad79cd9e09da091",
+    "golden/audit/intake-integrity.json": "05cd90f043400603480a4e0dbe5eb5f4ad34fe7bdb111d2e30bdbe5c77fa0aa7",
+    "golden/audit/README.md": "327153513e1fb94ee722218886e7ea2a6f33e8d38bd9e7f1f050114f84d85bb7",
+    "scripts/publish_golden_aggregate.py": "27445f887a0a972d89993b7363d787010f54bac5351870c7c24b420b3a64d50e"
+  }
+}

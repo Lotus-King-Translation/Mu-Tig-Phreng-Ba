@@ -1,0 +1,23 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-m",
+    "unittest",
+    "discover",
+    "-s",
+    "scripts",
+    "-p",
+    "test_golden*.py"
+  ],
+  "passed": true,
+  "tests_run": 36,
+  "failures": 0,
+  "errors": 0,
+  "file_sha256": {
+    "scripts/golden_pipeline.py": "97daf4831e33d4ce123edd532a932e95883c2939129c6fb31ad79817920249f8",
+    "scripts/test_golden_pipeline.py": "4318e2edf986a5f25afeb77c6e3cdf48e62206b196a7a976e7e2d4dd773cc79a",
+    "scripts/build_golden_aggregate.py": "9f5dc66d3289bb8bbec45982fc0f56b147e17bce573d854bfd70d145535ec491",
+    "scripts/test_golden_aggregate.py": "7f4e59c56d367ecc9f8a26383b8cd2f74e6164f594c62cd586c26b2f3d63f537"
+  },
+  "scope": "Chapter and whole-book structural/reconstruction gates and deliberate corruption fixtures; not semantic or palaeographic certification."
+}

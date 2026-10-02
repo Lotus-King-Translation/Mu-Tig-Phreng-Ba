@@ -4,7 +4,11 @@ Tibetan edition and source research for the Dzogchen tantra **མུ་ཏིག
 
 ## Current scope
 
-Golden Tibetan edition in progress. The Adzom1973–77 printing (W1KG892/I1KG895, printed417–537) governs the reading. Eight bounded chapters are reviewed and published sequentially; current counts are in the project status. The two electronic renditions belong to one transcript family. Targeted source review does not constitute full scan proofreading or exhaustive witness collation. Translation has not begun.
+**Golden Tibetan v1 is complete:** eight fixed chapters, 2,053 original anchors preserved, 102 targeted source checks and 30 corrected passages.
+
+[Read the complete Tibetan edition](golden/reading.md) · [Machine-readable text](golden/reading.json) · [Coverage and uncertainty](golden/coverage.json) · [Fixed release](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-v1)
+
+The Adzom1973–77 printing (W1KG892/I1KG895, printed417–537) governs this maintained reading. All corrections have scan evidence and explicit decisions. The two electronic renditions belong to one transcript family. Full scan proofreading and exhaustive witness collation were not performed: 1,870 anchors retain unreviewed-transcript status, and 96 anchor-level uncertainty records remain visible. Translation has not begun.
 
 - [Project status](PROJECT-STATUS.md)
 - [Golden edition method](guidelines/golden_edition_method.md)

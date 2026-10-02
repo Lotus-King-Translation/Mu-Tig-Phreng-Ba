@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "remote": "origin",
+  "refs": {
+    "refs/tags/golden-ch01-v1": "d56fe35ef78cc31c52696c9c8c29e77790ac04d9",
+    "refs/tags/golden-ch01-v1^{}": "405bd61c6afac6cded17f70a9b661eae028f8fa9",
+    "refs/tags/golden-ch02-v1": "b72c8dffc1edc477a4daf371306a26a0d3242ba0",
+    "refs/tags/golden-ch02-v1^{}": "4bd85fee1d157380051acf97a7614fc3c4d16519",
+    "refs/tags/golden-ch03-v1": "1fb0a8c8146710f6e943bb736d1c193171641f63",
+    "refs/tags/golden-ch03-v1^{}": "2ede3f022d1af504d3c75942d2280896f590aad9",
+    "refs/tags/golden-ch04-v1": "c693ad02281629367569405d6ba9037e8121168c",
+    "refs/tags/golden-ch04-v1^{}": "7c1da84cc1d0de731a517957d7a6b62a176a5a3f",
+    "refs/tags/golden-ch05-v1": "ea9cc55c97e89f2133889799fdba2ca6c2ed89cc",
+    "refs/tags/golden-ch05-v1^{}": "916131f5a1eed2ce3dcc4eeb56af098f173fc8bd",
+    "refs/tags/golden-ch06-v1": "9a70b49dd2282111d14021b3efd525f61f3ac6e0",
+    "refs/tags/golden-ch06-v1^{}": "3ba32292c566d225bcd57394a6d454f81aafc033",
+    "refs/tags/golden-ch07-v1": "a0a8d3dfe2d497f0cfd2b5a7cc5107dca68eff70",
+    "refs/tags/golden-ch07-v1^{}": "0129fc7224d0af8379051716abd7b05265c5ddf9",
+    "refs/tags/golden-ch08-v1": "3391bb302e11092f0d3e400113a8707ca25c5d95",
+    "refs/tags/golden-ch08-v1^{}": "360c900eeb8eb5b5c4b451901403d7a4f6c2920f"
+  },
+  "method": "Fresh git ls-remote comparison with all eight signed chapter release identities before aggregate publication."
+}

@@ -1,13 +1,19 @@
 {
-  "phase": "golden aggregate",
+  "phase": "bounded golden v1 complete",
+  "release": "golden-v1",
   "chapter_publications_complete": 8,
   "contract": "golden/contract.json",
-  "generated_outputs_complete": 0,
-  "generated_outputs_required": 5,
-  "remaining": [
-    "build and verify aggregate",
-    "final review and hash-bound signoff",
-    "publish golden-v1 and remote receipt"
-  ],
+  "generated_outputs_complete": 5,
+  "required_decisions_completed": 183,
+  "required_decisions_remaining": 0,
+  "source_checks_completed": 102,
+  "source_checks_remaining": 0,
+  "changed_passages": 30,
+  "restorations": 0,
+  "uncertainty_anchors": 96,
+  "retained_unreviewed_transcript_anchors": 1870,
+  "remaining": [],
+  "full_scan_proofreading": false,
+  "exhaustive_witness_collation": false,
   "translation_started": false
 }

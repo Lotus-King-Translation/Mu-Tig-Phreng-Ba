@@ -1,18 +1,16 @@
 # Golden edition state
 
-All eight chapter releases are published with signed validation, annotated tags, remote verification and receipts.
+Bounded golden Tibetan v1 is complete, aggregating eight signed and published chapter readings governed by Adzom1973–77 W1KG892/I1KG895.
 
-Current phase: aggregate golden v1; finite contract: golden/contract.json.
+- Original anchors: 2,053/2,053; restorations: 0; changed passages: 30.
+- Required editorial decisions: 183 completed, 0 remaining.
+- Targeted source checks: 102 completed, 0 remaining.
+- Generated aggregate deliverables: 5/5; exact immutable chapter concatenation verified.
+- Uncertainty records: 96; retained-unreviewed transcript anchors: 1,870. See golden/coverage.json and linked chapter evidence.
+- Negative tests: 36 passed; unsigned publication rejected before mutation. Audit: golden/audit/.
+- Final review/signoff/validation: golden/FINAL-REVIEW.md, golden/signoff.json, golden/validation.json.
+- Fixed release: golden-v1. Remote tag object/peeled verification receipt is committed afterward at diplomatic/publication/golden-v1.json; the tag is not moved.
+- Full scan proofreading, exhaustive witness collation and independent human certification: false.
+- Translation has not started. No further golden work remains inside this contract.
 
-- anchor_count: 2053
-- editorial_decisions_completed: 183
-- required_decisions_remaining: 0
-- source_checks_completed: 102
-- source_checks_remaining: 0
-- changed_text_anchors: 30
-- restoration_count: 0
-- retained_unreviewed_transcript_anchors: 1870
-- uncertainty_anchors: 96
-
-Generated aggregate deliverables: 0/5. Final aggregate review, signoff and publication pending.
-Full scan proofreading and exhaustive witness collation: false. Translation has not started.
+Read AGENTS.md first. Do not modify released chapter or aggregate bytes. Translation, when separately authorized, must use golden-v1 and establish paired/source.md with stable pair IDs and format fields before translating.

@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/Users/mikkokotila/dev/Mu-Tig-Phreng-Ba/scripts/publish_golden_aggregate.py", line 18, in <module>
+    s=json.loads((g/'signoff.json').read_text());m=json.loads((g/'build-manifest.json').read_text())
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mikkokotila/.local/share/uv/python/cpython-3.12.12-macos-aarch64-none/lib/python3.12/pathlib.py", line 1027, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mikkokotila/.local/share/uv/python/cpython-3.12.12-macos-aarch64-none/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/mikkokotila/dev/Mu-Tig-Phreng-Ba/golden/signoff.json'

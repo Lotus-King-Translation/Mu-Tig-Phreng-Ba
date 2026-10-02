@@ -1,0 +1,762 @@
+{
+  "schema_version": 1,
+  "scope": "Whole-book bounded golden v1; aggregation of eight fixed chapter releases",
+  "chapters_released": 8,
+  "original_anchors": 2053,
+  "restorations": 0,
+  "reading_objects": 2053,
+  "totals": {
+    "anchor_count": 2053,
+    "accounted_original_anchors": 2053,
+    "restoration_count": 0,
+    "changed_text_anchors": 30,
+    "layer_or_text_changed_anchors": 50,
+    "editorial_decisions_completed": 183,
+    "required_decisions_completed": 183,
+    "required_decisions_remaining": 0,
+    "source_checks_completed": 102,
+    "source_checks_remaining": 0,
+    "electronic_loci_compared": 2053,
+    "electronic_difference_count": 0,
+    "retained_unreviewed_transcript_anchors": 1870,
+    "accepted_evidence_records": 161,
+    "excluded_evidence_records": 10
+  },
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "limits": [
+    "Maintained reading of the selected Adzom printing; not an eclectic reconstruction or an infallible text.",
+    "Targeted governing-scan checks were performed; full scan proofreading was not performed.",
+    "The Tibetan and Wylie e-texts belong to one transcription family; their mechanical equivalence is not independent witness agreement.",
+    "Exhaustive witness collation and independent human palaeographic certification were not performed.",
+    "Visible source gaps, unresolved annotations and other uncertainties remain explicit. No unattested wording is silently restored.",
+    "Untargeted source punctuation and decorative signs are not silently supplied or normalized.",
+    "No English translation is included in this release."
+  ],
+  "unresolved": [
+    {
+      "chapter": 1,
+      "id": "MTP-S000006",
+      "uncertainty": [
+        "A Sanskrit title is present after this heading in governing image428 but absent from both electronic renditions. Full grapheme transcription remains unresolved; no unattested Sanskrit text is inserted."
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "MTP-S000010",
+      "uncertainty": [
+        "Smaller source annotations on image428 are distinct from this main-text sequence; their full wording is not transcribed in bounded v1."
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "MTP-S000014",
+      "uncertainty": [
+        "This electronic anchor crosses images428–429; its final དེ begins429. Smaller adjacent annotations remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "MTP-S000016",
+      "uncertainty": [
+        "Smaller source annotations on image429 remain a separate unresolved layer; they are not silently promoted to root text."
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "MTP-S000021",
+      "uncertainty": [
+        "This electronic anchor crosses images429–430; its page419 marker is only a locator hint."
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "MTP-S000023",
+      "uncertainty": [
+        "Smaller source annotations on image430 remain outside the fully transcribed main-text layer."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000099",
+      "uncertainty": [
+        "Smaller source annotations interleaved with this opening remain untranscribed; source punctuation is not silently supplied."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000117",
+      "uncertainty": [
+        "Smaller text intervenes near the འདས / ཤེས transition. The relation of supplied འདས་ཤེས to apparent ཡེ་ཤེས after smaller text remains unresolved, including note attachment and exact wording. Retain the supplied string without claiming complete glyph-by-glyph confirmation."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000124",
+      "uncertainty": [
+        "Whether བར་དོར belongs to the main line or a raised source annotation remains unresolved. Conflicting initial size impressions were withdrawn; retain the exact supplied string pending stronger evidence."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000128",
+      "uncertainty": [
+        "Smaller adjacent source text near the end of this span remains untranscribed; the short electronic segmentation is preserved."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000129",
+      "uncertainty": [
+        "The short span is retained in the main reading; the preceding smaller source note is not expanded or attached conjecturally."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000178",
+      "uncertainty": [
+        "The complete supplied span is classified as a smaller source annotation; its exact attachment scope and untargeted source punctuation remain unresolved."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000183",
+      "uncertainty": [
+        "Exact allocation and glyph reading of the opening ད་ལྟར amid larger glyphs and smaller source text on image437 line3 remain uncertain. No alternative wording is substituted."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000184",
+      "uncertainty": [
+        "Adjacent smaller source notes remain untranscribed; no omitted quotation wording is reconstructed."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000185",
+      "uncertainty": [
+        "The literal ཞེས་པ་ནས is preserved as a source abbreviation/cross-reference marker within the transmitted sequence. Its intervening scope is unresolved; no parallel text is supplied."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000188",
+      "uncertainty": [
+        "Whether final སྟེ is main text or a smaller source annotation remains unresolved. The exact supplied wording is retained; image437 line6, not line5 alone, contains the final segment."
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "MTP-S000193",
+      "uncertainty": [
+        "The unusual final ཞ is retained from the supplied text at the native locus; no expected spelling is substituted."
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "MTP-S000223",
+      "uncertainty": [
+        "Smaller running annotations alongside the chapter opening remain untranscribed; source punctuation is not silently supplied."
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "MTP-S000228",
+      "uncertainty": [
+        "Smaller intervening source wording is not expanded or merged into the main reading."
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "MTP-S000229",
+      "uncertainty": [
+        "The compact glyph/stack details of the formula are not securely resolved. Supplied སར་བ་འདུས་ཧ is retained; it is not certified as an exact diplomatic encoding of every printed stack."
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "MTP-S000315",
+      "uncertainty": [
+        "Smaller source wording intervening within the printed line remains untranscribed; only the supported first-syllable correction is made."
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "MTP-S000316",
+      "uncertainty": [
+        "Final consonant/type details around གསུམ and adjacent smaller source wording remain imperfectly clear. No alternate reading or note expansion is accepted."
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "MTP-S000343",
+      "uncertainty": [
+        "Smaller source wording around the opening remains untranscribed; no punctuation or expansion is silently supplied."
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "MTP-S000355",
+      "uncertainty": [
+        "Smaller adjacent source text is not incorporated; the electronic boundary after དུར is preserved rather than presented as source physical lineation."
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "MTP-S000356",
+      "uncertainty": [
+        "Smaller intervening source notes remain untranscribed; no conjectural alteration or anchor merge is made."
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "MTP-S000446",
+      "uncertainty": [
+        "Smaller explanatory source material is interleaved in this printed verse and remains untranscribed; the checked large main-text reading is retained."
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "MTP-S000456",
+      "uncertainty": [
+        "The smaller source annotation after ཡིད་བཞིན remains untranscribed in this bounded check; no uncertain annotation is incorporated into the main reading."
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "MTP-S000469",
+      "uncertainty": [
+        "A smaller annotation intervenes between the printed དྲི and its large-type continuation མ་རྣམས་ནི་རང་དག་པས; its full wording is not transcribed here."
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "MTP-S000618",
+      "uncertainty": [
+        "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "MTP-S000619",
+      "uncertainty": [
+        "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000640",
+      "uncertainty": [
+        "Smaller source explanation between སེམས་ཅན་རྣམས་ལ and ཇི་ལྟར་གནས remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000645",
+      "uncertainty": [
+        "Smaller source wording between the main words and across the row5/6 break remains untranscribed; no explanatory words are merged into the root verse."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000651",
+      "uncertainty": [
+        "Smaller source explanation after the main ཁྱད་པར་ལས remains untranscribed and its exact attachment is not certified."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000721",
+      "uncertainty": [
+        "Smaller source explanation interleaved after the opening གསོག remains untranscribed in this bounded check."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000756",
+      "uncertainty": [
+        "The smaller source annotation between the opening phrase and its continuation remains untranscribed; no annotation wording is silently added to this main verse."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000793",
+      "uncertainty": [
+        "Smaller printed explanatory material after བཅུང་དུ་དྲིལ is not fully transcribed here; it remains separate from the selected main reading."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000803",
+      "uncertainty": [
+        "Smaller source explanations interleaved within this printed verse remain untranscribed and are not merged into the main text."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000838",
+      "uncertainty": [
+        "The anchor crosses a physical line boundary within image476; smaller annotations after འཁོར and འདས remain untranscribed in this bounded check."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000902",
+      "uncertainty": [
+        "Smaller source annotation between གྲུབ་མཐས and the line2 continuation remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S000994",
+      "uncertainty": [
+        "Smaller annotations separate the main list items and carry across the image485/486 boundary; their wording remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "MTP-S001027",
+      "uncertainty": [
+        "Smaller source wording after དོན་དམ and ཀུན་རྫོབ remains untranscribed and is not merged into the main sequence."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001056",
+      "uncertainty": [
+        "Smaller source explanation after དགོངས་པ remains untranscribed and separate from the main continuation ཇི་ལྟར་ལགས."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001085",
+      "uncertainty": [
+        "Smaller source explanation after དཀོན་མཆོག remains untranscribed; the main anchor crosses the image491/492 boundary."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001089",
+      "uncertainty": [
+        "Smaller source explanation after སྤྱོད་པ remains untranscribed before final main ང."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001199",
+      "uncertainty": [
+        "Smaller source explanation after དམྱལ་བ་པར་ནི remains untranscribed in this bounded review and is not merged into the main verse."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001216",
+      "uncertainty": [
+        "Smaller source explanation after ཤེས་རབ remains untranscribed and separate from the main-text continuation ཉིད་དུ་གྲོལ."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001256",
+      "uncertainty": [
+        "Smaller source explanation between the main incipit and མྱ་ངན་འདས remains untranscribed across the line5/6 boundary."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001306",
+      "uncertainty": [
+        "The layer status of པ་རོ་མ is not securely distinguished from main text by this inspection; the exact supplied phrase remains selected without separation.",
+        "A further smaller source explanation follows the line4 continuation ལེ་སྟེ; its wording and exact attachment remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001311",
+      "uncertainty": [
+        "Smaller source explanation after དོན་དམ remains untranscribed and is not included in the main sequence."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001312",
+      "uncertainty": [
+        "Smaller source explanation after སྟོང་གསལ remains untranscribed and is not included in the main sequence."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001364",
+      "uncertainty": [
+        "Smaller source wording following the main རྟ་ཕོ་ལ remains untranscribed; its exact attachment is not certified."
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "MTP-S001371",
+      "uncertainty": [
+        "Smaller source explanation after དབང་པོའི remains untranscribed and is not merged into the main reading."
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "MTP-S001499",
+      "uncertainty": [
+        "The anchor crosses physical rows5–6 on image515. Smaller explanation after འཕན་ནི remains untranscribed in this bounded check."
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "MTP-S001506",
+      "uncertainty": [
+        "The anchor crosses physical rows1–2 on image516; smaller annotations around དངོས and བོ་ཡི remain untranscribed and outside the selected main text."
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "MTP-S001522",
+      "uncertainty": [
+        "Smaller source explanations after སྟོབས and སྨོན་ལམ remain untranscribed; they are not silently incorporated into this main verse."
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "MTP-S001534",
+      "uncertainty": [
+        "The final ཆེ continues at the beginning of physical row2 on image518. Smaller explanation after རང་བཞིན remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "MTP-S001751",
+      "uncertainty": [
+        "Smaller source explanation after དུམ remains untranscribed; its exact attachment is not certified. The main anchor crosses physical lines3–4."
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "MTP-S001753",
+      "uncertainty": [
+        "Smaller source explanation within the printed light-list sentence remains untranscribed; its exact attachment and every interleaved glyph are not certified. The supplied main sequence is retained across lines4–5."
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "MTP-S001767",
+      "uncertainty": [
+        "Smaller source explanation interleaved after དེ་ཕྱིར, འབྱུང་བ and དངས་སྙིགས remains untranscribed and is not merged into the main reading."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001823",
+      "uncertainty": [
+        "Smaller source explanations between གནད་ནི and རྣམ་པ་གསུམ remain untranscribed. Their presence is recorded, not flattened into the main verse."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001825",
+      "uncertainty": [
+        "The reading remains ལུས་དང་དང་ཡུལ་ཉིད་དོ. The apparent missing member is unresolved: the governing image does not securely establish a main-text མིག to restore. No restoration is made.",
+        "Smaller source notes after ལུས་དང and ཡུལ remain untranscribed; their exact wording and relation to the apparent missing member are not established."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001826",
+      "uncertainty": [
+        "The smaller source explanation after ལུས་ཀྱི remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001873",
+      "uncertainty": [
+        "The unusual རྒྱད is retained; the expected རྒྱུད is not silently supplied. The final syllable is on printed 527, despite the anchor page hint 526.",
+        "Smaller source explanation after སྙིང་པོ on printed 526 remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001877",
+      "uncertainty": [
+        "The printed initial consonant remains uncertain between ca and tsa. The selected ཅིཏྟའི retains supplied ca and does not claim to settle that distinction; only the tta stack is securely supported."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001896",
+      "uncertainty": [
+        "Smaller source explanation between དངས་མ and the large-type གསུམ remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001903",
+      "uncertainty": [
+        "Smaller source explanations after གཞི and འབྲས་བུ remain untranscribed. Their wording is not silently merged into the main verse.",
+        "The expanded source sequence ལམ་དང་པོ is retained. This bounded typography check does not establish its earlier textual history."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001939",
+      "uncertainty": [
+        "Smaller explanations after the two named items remain untranscribed; the second note continues on physical line6."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001940",
+      "uncertainty": [
+        "Smaller explanations following སེང་གེ and རི་རྒྱལ remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001942",
+      "uncertainty": [
+        "Smaller explanations following འཁོར་ལོ and ལྡེ་མིག remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001943",
+      "uncertainty": [
+        "Smaller explanations following རལ་གྲི and གསལ་ཤིང remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001944",
+      "uncertainty": [
+        "Smaller explanations following གསེར་ཞུན and མ་བུ་འབྲེལ remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001945",
+      "uncertainty": [
+        "Smaller explanations following མེ་ལོང and མུ་ཏིག་བརྒྱུས remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001946",
+      "uncertainty": [
+        "Smaller explanations following སྦྲུལ་མདུད and ཁྱུང་ཆེན remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001947",
+      "uncertainty": [
+        "Smaller explanations following ཆུ་རྒྱུན and སྤུ་གྲི remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001948",
+      "uncertainty": [
+        "Smaller explanations following རྒྱལ་པོས and བང་མཛོད remain untranscribed; the unusual exact supplied name forms are retained."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001957",
+      "uncertainty": [
+        "Smaller source explanation interrupts དངས་མ and གསུམ on lines1–2 and remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001977",
+      "uncertainty": [
+        "Smaller source explanation after སྒོ་བསྲུང remains untranscribed; final འདྲ continues at physical line3left."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001982",
+      "uncertainty": [
+        "Smaller explanation between རྒྱུད་ནི and the printed གཉིས remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001983",
+      "uncertainty": [
+        "Smaller explanation after ཆོས་ཀུན remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001984",
+      "uncertainty": [
+        "Smaller explanation between བཤད་རྒྱུད and མ་བུ remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001986",
+      "uncertainty": [
+        "Smaller explanation between ཡན་ལག་རྒྱུད་ནི and གཉིས remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001987",
+      "uncertainty": [
+        "Smaller explanation between ཤར་བཞིན and བཤད remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001988",
+      "uncertainty": [
+        "Smaller explanation between རྒྱུད and གཉིས remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001990",
+      "uncertainty": [
+        "Smaller source explanations before and after the printed བཞི་ཡིས་ནི remain untranscribed; the numeral occurs at image544 line1 left."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001993",
+      "uncertainty": [
+        "Smaller source explanations between རྒྱུད and the line2 གསུམ་གྱིས remain untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001994",
+      "uncertainty": [
+        "Smaller source explanation before final བཤད remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001995",
+      "uncertainty": [
+        "Smaller source explanation between རང་གྲོལ and རྒྱུད remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001996",
+      "uncertainty": [
+        "Smaller source explanation between སྙིང་གི and ཚུལ་དུ་བཤད remains untranscribed."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001997",
+      "uncertainty": [
+        "Smaller source explanation between ཆོ་གའི and རྒྱུད་ཀྱིས་ནི remains untranscribed. The single final category is not an explicitly printed numeral གཅིག."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S001998",
+      "uncertainty": [
+        "Interleaved smaller explanation before ལྟར་བཤད remains untranscribed. Exact main-text versus note allocation around supplied ཁྱེ is not securely resolved; retain the entire supplied string without deletion or conjectural reconstruction."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S002020",
+      "uncertainty": [
+        "Smaller source explanation after དོན remains untranscribed and separate from the main continuation དུ་བསྡུ."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S002026",
+      "uncertainty": [
+        "The Sanskrit initial ca/tsa distinction is not securely resolved; supplied ca is retained while the clearly printed tta stack is encoded.",
+        "Smaller source wording after the main དཀྱིལ remains untranscribed and separate from this selected main phrase."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S002037",
+      "uncertainty": [
+        "Smaller explanatory wording after ལ་སོགས་པ remains untranscribed; the exact attachment and layer scope of its ending are not certified."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S002042",
+      "uncertainty": [
+        "Smaller source explanation after this list item continues at row2 left and remains untranscribed; it is not merged into the selected main string."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S002043",
+      "uncertainty": [
+        "Smaller printed wording between དཔག and ཏུ་མེད་པ་དང remains untranscribed and separate from the main list."
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "MTP-S002047",
+      "uncertainty": [
+        "Smaller source explanation within the long colophon, after the numeral phrase and near ཁྱད་པར་དུ, remains untranscribed; exact annotation attachment is not certified."
+      ]
+    }
+  ],
+  "chapter_coverage": [
+    {
+      "chapter": 1,
+      "path": "diplomatic/chapters/01/coverage.json",
+      "sha256": "90c1db80623b55d1e37a51f1435b467970e10dbc0868d225e63a3c0190f628a7"
+    },
+    {
+      "chapter": 2,
+      "path": "diplomatic/chapters/02/coverage.json",
+      "sha256": "0e473efd618e1efc9b350b9aeca58b515afa011f89cc16e79f1e6c3ae8e8b722"
+    },
+    {
+      "chapter": 3,
+      "path": "diplomatic/chapters/03/coverage.json",
+      "sha256": "5d924c097de470c307853aaa8c29fb8ba945b62f379475612c3c51b71ca526a9"
+    },
+    {
+      "chapter": 4,
+      "path": "diplomatic/chapters/04/coverage.json",
+      "sha256": "c0a26857e63dbc3005546771890b45ed85c4f5aa075924d1e6dfe55a18291495"
+    },
+    {
+      "chapter": 5,
+      "path": "diplomatic/chapters/05/coverage.json",
+      "sha256": "ed65d2edbc7cd1d1de51c79adc46da408ef2b648337e0aefa0754a4f28367366"
+    },
+    {
+      "chapter": 6,
+      "path": "diplomatic/chapters/06/coverage.json",
+      "sha256": "2c526ae147dc735b5d7dfee882ef28000ec8667a809a7b88b278476b79d4e8de"
+    },
+    {
+      "chapter": 7,
+      "path": "diplomatic/chapters/07/coverage.json",
+      "sha256": "716a2a8b64fb443d1a9a07c897a437f1a0a98d0661daf4fb6e944db095356961"
+    },
+    {
+      "chapter": 8,
+      "path": "diplomatic/chapters/08/coverage.json",
+      "sha256": "73e04097bcc3b001a3212280b0e290cd88b58174bce8a52421a909f97ac01642"
+    }
+  ],
+  "count_note": "Evidence records are summed per chapter; the same source image may support multiple chapters. Counts are not accuracy percentages."
+}

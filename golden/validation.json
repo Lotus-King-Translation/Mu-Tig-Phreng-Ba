@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "read_only": true,
+  "chapters": 8,
+  "original_anchors": 2053,
+  "build_manifest_sha256": "66a085a74cf3420c832bcc338cbdf43696cb950d8113ee388992c51c4e361d20",
+  "mode": "final",
+  "signoff_hash_binding": true,
+  "signoff_sha256": "5b05fb30b2372b29524646f3aecb4e3a572f05825db17111cbc5b2bd9040452c",
+  "review_hash_binding": true,
+  "fresh_remote_chapter_refs": true,
+  "remote_chapter_verification_sha256": "24bf3251d0c86c87bd13f4064c9f82ce67b55cd735859980ab5c7e7a4b4a17a6",
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "final_gate_method": "Coordinator assertions in scripts/publish_golden_aggregate.py, following read-only aggregate verification."
+}
