@@ -1,0 +1,29 @@
+{
+  "selected_date": "2026-10-02",
+  "authority": "User authorized creation of the golden edition; governing-witness selection is an explicit editorial implementation decision by the coordinating agent, not a claim that the user named this exemplar.",
+  "base_scan_source_id": "adzom-1973",
+  "bdrc_instance": "W1KG892",
+  "image_group": "I1KG895",
+  "printed_page_range": [417, 537],
+  "image_range": [427, 547],
+  "image_manifest": "editions/scans/adzom-1973/image-manifest.json",
+  "base_transcript_source_id": "valby-tibetan",
+  "base_transcript": "editions/research/etexts-translations/wikisource/tibetan-raw.wiki",
+  "base_revision": 1028862,
+  "comparison_transcript_source_id": "valby-wylie",
+  "comparison_transcript": "editions/research/etexts-translations/wikisource/wylie-raw.wiki",
+  "comparison_revision": 274319,
+  "comparison_independence": "Two script renditions of one Valby/Adzom-attributed transcript family; no independent physical agreement inferred.",
+  "same_print_reference": "adzom-2000",
+  "selection_reasons": [
+    "The transcript's attribution and printed pagination417–537 correspond to this reproduction.",
+    "Every scan index427–547 is available and its response bytes preserved.",
+    "BDRC explicitly identifies the same printing base as the separate Adzom2000 reproduction, which can clarify source allocation without being counted as an independent witness."
+  ],
+  "edition_type": "Maintained reading of the selected governing printing; not an eclectic critical reconstruction.",
+  "scope": "Eight sequential bounded chapter releases followed by an aggregate golden v1 release.",
+  "punctuation_policy": "Preserve the electronic base's characters and segmentation except explicit scan-supported decisions. Untargeted print punctuation and decorative graphics are outside bounded v1; disclose this instead of silently normalizing.",
+  "full_scan_proofreading_required": false,
+  "exhaustive_witness_collation_required": false,
+  "other_witness_gaps": "Unexposed images in W1ER119 and Langtang belong to comparison witnesses, not the selected base; retained intake uncertainties do not imply gaps in Adzom."
+}
