@@ -1,0 +1,14 @@
+# Chapter 3 final editorial review — 2026-10-02
+
+**Approved for bounded release**, subject to coordinator signoff and publication gates. Reviewer: `/root/golden_base_review`, distinct from the authored-reading agent. No blocking editorial issue remains.
+Build-manifest SHA-256: `e060be4a73c4214ee96bed03c5fe558eb8334bf86663332c9b6d267ad4eec30e`.
+
+Direct native review covered the ten required anchor dispositions and six frozen questions on governing images 439, 444 and 446 (printed pages 429, 434 and 436), using the originals and seven exact-pixel crops. The three originals match the acquired native files; all ten evidence hashes and seven crop pixel identities passed. This establishes identity separately from the visibly checked locus allocations.
+The sole text correction is supported on image 444 line 5: S000315 `སྙིན་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན` → `སྙིང་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན`. Only the first syllable changes; adjacent smaller wording remains explicitly untranscribed.
+S000309 retains the source form `ལུག་རྒྱུད` without expansion. S000316 retains `གསུམ` with visible graphic uncertainty; an initial alternative impression was withdrawn after the focused crop. No numeral or wording is corrected from semantic expectation.
+S000228–S000230 follow the standing sentence, compact formula and assembly address on image 439 lines 5–6. S000229 retains `སར་བ་འདུས་ཧ` with explicit stack uncertainty. An apparent stacked form is not certified strongly enough here to replace the supplied encoding; no Sanskrit reconstruction is adopted.
+The chapter opens on image 439 lines 3–4 after the preceding closure. S000222 remains electronic metadata, without claiming it is a printed ornament. S000340–S000341 are the chapter colophon on image 446 line 2; the following chapter is excluded. Smaller opening annotations remain untranscribed.
+
+Read-only review verified all eleven manifest input hashes and five output hashes, exact order of 120 original anchors, 10/10 required decisions, 6/6 closed checks, one text correction, zero restorations and five visible uncertainty records. The other 110 anchors retain unreviewed-transcript status. The readable and machine outputs preserve the same dispositions.
+Candidate-mode validation passed reproducible build, exact source preservation, whole-locus and opcode reconstruction, and evidence hashes/allocation fields. Source-check closure includes unresolved readings; it does not certify successful decipherment of every glyph.
+Full scan proofreading, exhaustive witness collation, independent-witness electronic collation and independent human palaeographic certification remain false. This review binds only the build hash above and does not replace final-mode validation, corruption tests, release-signoff or remote-publication checks. No later chapter was reviewed.

@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "id": "MTP-C03-CHECK-001",
+    "status": "closed",
+    "finding": "The chapter opens with de nas khro boi rgyal po rta mgrin gyis across native lines3–4, after the preceding numbered closure. Retain the supplied main string.",
+    "evidence_ids": [
+      "CH03-IMG-439"
+    ],
+    "uncertainty": [
+      "Smaller running annotations alongside the chapter opening remain untranscribed; source punctuation is not silently supplied."
+    ]
+  },
+  {
+    "id": "MTP-C03-CHECK-002",
+    "status": "closed",
+    "finding": "Native line2 expressly names chapter three and ends before following de nas. The following chapter is excluded from this release.",
+    "evidence_ids": [
+      "CH03-IMG-446",
+      "CH03-CROP-05"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-C03-CHECK-003",
+    "status": "closed",
+    "finding": "Preserve the @3-derived electronic control token as metadata; it is not asserted to transcribe a printed ornament or numeral.",
+    "evidence_ids": [
+      "CH03-IMG-439"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-TRIAGE-008",
+    "status": "closed",
+    "finding": "The standing sentence is visible in the main sequence on native line5. Preserve its exact supplied wording and electronic segmentation. A compact ritual formula followed by sgra brjod nas is printed in the expected sequence. Preserve supplied sar ba dus ha without Sanskrit reconstruction or inferred stack normalization. The address to the gathered assembly follows the formula at native line6 left; retain the exact supplied string.",
+    "evidence_ids": [
+      "CH03-IMG-439",
+      "CH03-CROP-06"
+    ],
+    "uncertainty": [
+      "Smaller intervening source wording is not expanded or merged into the main reading.",
+      "The compact glyph/stack details of the formula are not securely resolved. Supplied སར་བ་འདུས་ཧ is retained; it is not certified as an exact diplomatic encoding of every printed stack."
+    ]
+  },
+  {
+    "id": "MTP-TRIAGE-009",
+    "status": "closed",
+    "finding": "Native line3 supports the contracted-looking ལུག་རྒྱུད. Preserve this source form; do not expand it to a smoother lu gu rgyud. Native line5 clearly reads initial སྙིང་པོ, correcting supplied སྙིན་པོ. The later སྙིང་པོ་བརྟན stays unchanged. The verse spans native lines5–6. Preserve supplied གསུམ and avoid changing a numeral on semantic grounds or from an uncertain alternative impression.",
+    "evidence_ids": [
+      "CH03-IMG-444",
+      "CH03-CROP-03",
+      "CH03-CROP-04",
+      "CH03-CROP-07"
+    ],
+    "uncertainty": [
+      "Smaller source wording intervening within the printed line remains untranscribed; only the supported first-syllable correction is made.",
+      "Final consonant/type details around གསུམ and adjacent smaller source wording remain imperfectly clear. No alternate reading or note expansion is accepted."
+    ]
+  },
+  {
+    "id": "MTP-TRIAGE-010",
+    "status": "closed",
+    "finding": "Native line2 introduces the title formula closing chapter three. Preserve its exact string under the chapter-colophon role. Native line2 expressly names chapter three and ends before following de nas. The following chapter is excluded from this release.",
+    "evidence_ids": [
+      "CH03-IMG-446",
+      "CH03-CROP-05"
+    ],
+    "uncertainty": []
+  }
+]

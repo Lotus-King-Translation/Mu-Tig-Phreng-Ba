@@ -1,57 +1,5 @@
 [
   {
-    "id": "CH03-IMG-439",
-    "path": "evidence/golden/03/00439.png",
-    "sha256": "3fb1a38345f93668e2c0165da7e18f32d691c2ceb82bbda2f430374801777ab9",
-    "source_id": "adzom-1973",
-    "image_index": 439,
-    "printed_page": 429,
-    "anchor_ids": [
-      "MTP-S000222",
-      "MTP-S000223",
-      "MTP-S000228",
-      "MTP-S000229",
-      "MTP-S000230"
-    ],
-    "status": "accepted",
-    "inspection": "native_image_direct",
-    "allocation_reason": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6. Allocation established from visible text; no complete-page proofreading is claimed.",
-    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950439.TIF/full/max/0/default.png"
-  },
-  {
-    "id": "CH03-IMG-444",
-    "path": "evidence/golden/03/00444.png",
-    "sha256": "87e589f356e7c17a643f59097dcde8c9875c6c95a109b23c0cc2f89ab0ec6b21",
-    "source_id": "adzom-1973",
-    "image_index": 444,
-    "printed_page": 434,
-    "anchor_ids": [
-      "MTP-S000309",
-      "MTP-S000315",
-      "MTP-S000316"
-    ],
-    "status": "accepted",
-    "inspection": "native_image_direct",
-    "allocation_reason": "S309 across line3; S315 across line5; S316 across lines5–6, among smaller running notes. Allocation established from visible text; no complete-page proofreading is claimed.",
-    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950444.TIF/full/max/0/default.png"
-  },
-  {
-    "id": "CH03-IMG-446",
-    "path": "evidence/golden/03/00446.png",
-    "sha256": "06098a5872c68fbdbbd794ce053bb1401b214839144022a885fd6b8af6edd096",
-    "source_id": "adzom-1973",
-    "image_index": 446,
-    "printed_page": 436,
-    "anchor_ids": [
-      "MTP-S000340",
-      "MTP-S000341"
-    ],
-    "status": "accepted",
-    "inspection": "native_image_direct",
-    "allocation_reason": "Chapter-three title and closing formula on line2; following de nas begins the next chapter and is excluded. Allocation established from visible text; no complete-page proofreading is claimed.",
-    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950446.TIF/full/max/0/default.png"
-  },
-  {
     "id": "CH03-CROP-01",
     "path": "evidence/golden/03/00439-left-lower.png",
     "sha256": "9f51b777dd652aa8e4befd30d456c04b8656e635c8c16b2492cae61e4a64c435",

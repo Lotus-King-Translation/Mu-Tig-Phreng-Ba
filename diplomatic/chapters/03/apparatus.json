@@ -1,0 +1,2880 @@
+{
+  "schema_version": 1,
+  "chapter": 3,
+  "source_roles": {
+    "governing_scan": "adzom-1973 / W1KG892 / I1KG895",
+    "base_transcript": "valby-tibetan",
+    "comparison_transcript": "valby-wylie",
+    "relationship": "Two electronic renditions of the same Valby/Adzom transcription family; not independent witnesses."
+  },
+  "electronic_loci": [
+    {
+      "id": "MTP-L000222",
+      "anchor_id": "MTP-S000222",
+      "base": "༄༣\n",
+      "wylie": "@3\n",
+      "derived_tibetan": "༄༣\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 3,
+          "comparison_start": 0,
+          "comparison_end": 3,
+          "old": "༄༣\n",
+          "new": "༄༣\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000223",
+      "anchor_id": "MTP-S000223",
+      "base": "དེ་ནས་ཁྲོ་བོའི་རྒྱལ་པོ་རྟ་མགྲིན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏེ\n",
+      "wylie": "de nas khro bo'i rgyal po rta mgrin gyis 'di skad ces gsol te\n",
+      "derived_tibetan": "དེ་ནས་ཁྲོ་བོའི་རྒྱལ་པོ་རྟ་མགྲིན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏེ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 57,
+          "comparison_start": 0,
+          "comparison_end": 57,
+          "old": "དེ་ནས་ཁྲོ་བོའི་རྒྱལ་པོ་རྟ་མགྲིན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏེ\n",
+          "new": "དེ་ནས་ཁྲོ་བོའི་རྒྱལ་པོ་རྟ་མགྲིན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏེ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000224",
+      "anchor_id": "MTP-S000224",
+      "base": "ཀྱེ་ཀྱེ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང\n",
+      "wylie": "kye kye bcom ldan rdo rje 'chang\n",
+      "derived_tibetan": "ཀྱེ་ཀྱེ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཀྱེ་ཀྱེ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང\n",
+          "new": "ཀྱེ་ཀྱེ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000225",
+      "anchor_id": "MTP-S000225",
+      "base": "རང་རིག་ཡེ་ཤེས་ཆེན་པོའི་ལུང\n",
+      "wylie": "rang rig ye shes chen po'i lung\n",
+      "derived_tibetan": "རང་རིག་ཡེ་ཤེས་ཆེན་པོའི་ལུང\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "རང་རིག་ཡེ་ཤེས་ཆེན་པོའི་ལུང\n",
+          "new": "རང་རིག་ཡེ་ཤེས་ཆེན་པོའི་ལུང\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000226",
+      "anchor_id": "MTP-S000226",
+      "base": "ངེས་པའི་རྒྱལ་པོས་བཀའ་སྩོལ་ཅིག\n",
+      "wylie": "nges pa'i rgyal pos bka' stsol cig\n",
+      "derived_tibetan": "ངེས་པའི་རྒྱལ་པོས་བཀའ་སྩོལ་ཅིག\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 30,
+          "comparison_start": 0,
+          "comparison_end": 30,
+          "old": "ངེས་པའི་རྒྱལ་པོས་བཀའ་སྩོལ་ཅིག\n",
+          "new": "ངེས་པའི་རྒྱལ་པོས་བཀའ་སྩོལ་ཅིག\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000227",
+      "anchor_id": "MTP-S000227",
+      "base": "དེ་ནས་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང\n",
+      "wylie": "de nas bcom ldan rdo rje 'chang\n",
+      "derived_tibetan": "དེ་ནས་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "དེ་ནས་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང\n",
+          "new": "དེ་ནས་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000228",
+      "anchor_id": "MTP-S000228",
+      "base": "མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས\n",
+      "wylie": "ma bzhugs pa yi stan las langs\n",
+      "derived_tibetan": "མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 24,
+          "comparison_start": 0,
+          "comparison_end": 24,
+          "old": "མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས\n",
+          "new": "མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000229",
+      "anchor_id": "MTP-S000229",
+      "base": "སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས\n",
+      "wylie": "sar ba 'dus ha sgra brjod nas\n",
+      "derived_tibetan": "སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས\n",
+          "new": "སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000230",
+      "anchor_id": "MTP-S000230",
+      "base": "འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ\n",
+      "wylie": "'dus pa'i tshogs la bka' stsal pa\n",
+      "derived_tibetan": "འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ\n",
+          "new": "འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000231",
+      "anchor_id": "MTP-S000231",
+      "base": "ཀྱེ་ཀྱེ་ཉོན་ཅིག་འདུས་པའི་འཁོར\n",
+      "wylie": "kye kye nyon cig 'dus pa'i 'khor\n",
+      "derived_tibetan": "ཀྱེ་ཀྱེ་ཉོན་ཅིག་འདུས་པའི་འཁོར\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 30,
+          "comparison_start": 0,
+          "comparison_end": 30,
+          "old": "ཀྱེ་ཀྱེ་ཉོན་ཅིག་འདུས་པའི་འཁོར\n",
+          "new": "ཀྱེ་ཀྱེ་ཉོན་ཅིག་འདུས་པའི་འཁོར\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000232",
+      "anchor_id": "MTP-S000232",
+      "base": "སྣང་བྱེད་སྒྲོན་མ་འབར་བ་འདི\n",
+      "wylie": "snang byed sgron ma 'bar ba 'di\n",
+      "derived_tibetan": "སྣང་བྱེད་སྒྲོན་མ་འབར་བ་འདི\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "སྣང་བྱེད་སྒྲོན་མ་འབར་བ་འདི\n",
+          "new": "སྣང་བྱེད་སྒྲོན་མ་འབར་བ་འདི\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000233",
+      "anchor_id": "MTP-S000233",
+      "base": "༤༣༠\n",
+      "wylie": "430\n",
+      "derived_tibetan": "༤༣༠\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 4,
+          "comparison_start": 0,
+          "comparison_end": 4,
+          "old": "༤༣༠\n",
+          "new": "༤༣༠\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000234",
+      "anchor_id": "MTP-S000234",
+      "base": "ཆོས་ཀྱི་སྐུ་དང་དབྱེར་མེད་པས\n",
+      "wylie": "chos kyi sku dang dbyer med pas\n",
+      "derived_tibetan": "ཆོས་ཀྱི་སྐུ་དང་དབྱེར་མེད་པས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "ཆོས་ཀྱི་སྐུ་དང་དབྱེར་མེད་པས\n",
+          "new": "ཆོས་ཀྱི་སྐུ་དང་དབྱེར་མེད་པས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000235",
+      "anchor_id": "MTP-S000235",
+      "base": "རང་རིག་ཡུལ་གྱི་སྤྱོད་ལམ་ནི\n",
+      "wylie": "rang rig yul gyi spyod lam ni\n",
+      "derived_tibetan": "རང་རིག་ཡུལ་གྱི་སྤྱོད་ལམ་ནི\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "རང་རིག་ཡུལ་གྱི་སྤྱོད་ལམ་ནི\n",
+          "new": "རང་རིག་ཡུལ་གྱི་སྤྱོད་ལམ་ནི\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000236",
+      "anchor_id": "MTP-S000236",
+      "base": "ཐབས་ཀྱི་སྐུ་ལས་ཤེས་རབ་ཉིད\n",
+      "wylie": "thabs kyi sku las shes rab nyid\n",
+      "derived_tibetan": "ཐབས་ཀྱི་སྐུ་ལས་ཤེས་རབ་ཉིད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "ཐབས་ཀྱི་སྐུ་ལས་ཤེས་རབ་ཉིད\n",
+          "new": "ཐབས་ཀྱི་སྐུ་ལས་ཤེས་རབ་ཉིད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000237",
+      "anchor_id": "MTP-S000237",
+      "base": "འགག་མེད་ཀློང་དུ་ཐམས་ཅད་རོལ\n",
+      "wylie": "'gag med klong du thams cad rol\n",
+      "derived_tibetan": "འགག་མེད་ཀློང་དུ་ཐམས་ཅད་རོལ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "འགག་མེད་ཀློང་དུ་ཐམས་ཅད་རོལ\n",
+          "new": "འགག་མེད་ཀློང་དུ་ཐམས་ཅད་རོལ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000238",
+      "anchor_id": "MTP-S000238",
+      "base": "གསང་བའི་ཡེ་ཤེས་འགྱུར་མེད་པས\n",
+      "wylie": "gsang ba'i ye shes 'gyur med pas\n",
+      "derived_tibetan": "གསང་བའི་ཡེ་ཤེས་འགྱུར་མེད་པས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "གསང་བའི་ཡེ་ཤེས་འགྱུར་མེད་པས\n",
+          "new": "གསང་བའི་ཡེ་ཤེས་འགྱུར་མེད་པས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000239",
+      "anchor_id": "MTP-S000239",
+      "base": "རང་བཞིན་སྣང་བ་མ་འགགས་པ\n",
+      "wylie": "rang bzhin snang ba ma 'gags pa\n",
+      "derived_tibetan": "རང་བཞིན་སྣང་བ་མ་འགགས་པ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 23,
+          "comparison_start": 0,
+          "comparison_end": 23,
+          "old": "རང་བཞིན་སྣང་བ་མ་འགགས་པ\n",
+          "new": "རང་བཞིན་སྣང་བ་མ་འགགས་པ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000240",
+      "anchor_id": "MTP-S000240",
+      "base": "ངོ་བོ་ཉིད་ཀྱི་སྐུ་ལྟར་འཕྲོ\n",
+      "wylie": "ngo bo nyid kyi sku ltar 'phro\n",
+      "derived_tibetan": "ངོ་བོ་ཉིད་ཀྱི་སྐུ་ལྟར་འཕྲོ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "ངོ་བོ་ཉིད་ཀྱི་སྐུ་ལྟར་འཕྲོ\n",
+          "new": "ངོ་བོ་ཉིད་ཀྱི་སྐུ་ལྟར་འཕྲོ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000241",
+      "anchor_id": "MTP-S000241",
+      "base": "བྱ་བྱེད་གཉིས་ལས་རབ་འདས་པས\n",
+      "wylie": "bya byed gnyis las rab 'das pas\n",
+      "derived_tibetan": "བྱ་བྱེད་གཉིས་ལས་རབ་འདས་པས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "བྱ་བྱེད་གཉིས་ལས་རབ་འདས་པས\n",
+          "new": "བྱ་བྱེད་གཉིས་ལས་རབ་འདས་པས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000242",
+      "anchor_id": "MTP-S000242",
+      "base": "ཆོས་ཉིད་ཡུལ་ལ་གཟིགས་སྣང་མཁྱེན\n",
+      "wylie": "chos nyid yul la gzigs snang mkhyen\n",
+      "derived_tibetan": "ཆོས་ཉིད་ཡུལ་ལ་གཟིགས་སྣང་མཁྱེན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 30,
+          "comparison_start": 0,
+          "comparison_end": 30,
+          "old": "ཆོས་ཉིད་ཡུལ་ལ་གཟིགས་སྣང་མཁྱེན\n",
+          "new": "ཆོས་ཉིད་ཡུལ་ལ་གཟིགས་སྣང་མཁྱེན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000243",
+      "anchor_id": "MTP-S000243",
+      "base": "སྒྲོན་མའི་ཡེ་ཤེས་ཐིག་ལེ་གསལ\n",
+      "wylie": "sgron ma'i ye shes thig le gsal\n",
+      "derived_tibetan": "སྒྲོན་མའི་ཡེ་ཤེས་ཐིག་ལེ་གསལ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "སྒྲོན་མའི་ཡེ་ཤེས་ཐིག་ལེ་གསལ\n",
+          "new": "སྒྲོན་མའི་ཡེ་ཤེས་ཐིག་ལེ་གསལ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000244",
+      "anchor_id": "MTP-S000244",
+      "base": "རིག་པའི་སྐུ་ལ་ཆོས་ཉིད་གསལ\n",
+      "wylie": "rig pa'i sku la chos nyid gsal\n",
+      "derived_tibetan": "རིག་པའི་སྐུ་ལ་ཆོས་ཉིད་གསལ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "རིག་པའི་སྐུ་ལ་ཆོས་ཉིད་གསལ\n",
+          "new": "རིག་པའི་སྐུ་ལ་ཆོས་ཉིད་གསལ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000245",
+      "anchor_id": "MTP-S000245",
+      "base": "སྒྲོན་མ་ཉིད་ཀྱི་སྣང་བ་ཡིན\n",
+      "wylie": "sgron ma nyid kyi snang ba yin\n",
+      "derived_tibetan": "སྒྲོན་མ་ཉིད་ཀྱི་སྣང་བ་ཡིན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "སྒྲོན་མ་ཉིད་ཀྱི་སྣང་བ་ཡིན\n",
+          "new": "སྒྲོན་མ་ཉིད་ཀྱི་སྣང་བ་ཡིན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000246",
+      "anchor_id": "MTP-S000246",
+      "base": "དེ་ནས་སྣང་བའི་གོ་འབྱེད་པས\n",
+      "wylie": "de nas snang ba'i go 'byed pas\n",
+      "derived_tibetan": "དེ་ནས་སྣང་བའི་གོ་འབྱེད་པས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "དེ་ནས་སྣང་བའི་གོ་འབྱེད་པས\n",
+          "new": "དེ་ནས་སྣང་བའི་གོ་འབྱེད་པས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000247",
+      "anchor_id": "MTP-S000247",
+      "base": "རིག་པའི་སྣང་བ་ཐ་དད་མིན\n",
+      "wylie": "rig pa'i snang ba tha dad min\n",
+      "derived_tibetan": "རིག་པའི་སྣང་བ་ཐ་དད་མིན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 23,
+          "comparison_start": 0,
+          "comparison_end": 23,
+          "old": "རིག་པའི་སྣང་བ་ཐ་དད་མིན\n",
+          "new": "རིག་པའི་སྣང་བ་ཐ་དད་མིན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000248",
+      "anchor_id": "MTP-S000248",
+      "base": "གསང་བའི་སྤྱི་རྒྱ་རླབ་ཆེན་འདི\n",
+      "wylie": "gsang ba'i spyi rgya rlab chen 'di\n",
+      "derived_tibetan": "གསང་བའི་སྤྱི་རྒྱ་རླབ་ཆེན་འདི\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "གསང་བའི་སྤྱི་རྒྱ་རླབ་ཆེན་འདི\n",
+          "new": "གསང་བའི་སྤྱི་རྒྱ་རླབ་ཆེན་འདི\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000249",
+      "anchor_id": "MTP-S000249",
+      "base": "སངས་རྒྱས་ཀུན་དང་མཉམ་སྦྱོར་པས\n",
+      "wylie": "sangs rgyas kun dang mnyam sbyor pas\n",
+      "derived_tibetan": "སངས་རྒྱས་ཀུན་དང་མཉམ་སྦྱོར་པས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "སངས་རྒྱས་ཀུན་དང་མཉམ་སྦྱོར་པས\n",
+          "new": "སངས་རྒྱས་ཀུན་དང་མཉམ་སྦྱོར་པས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000250",
+      "anchor_id": "MTP-S000250",
+      "base": "མཐའ་ཡས་ཉིད་ལས་དབུས་མི་དམིགས\n",
+      "wylie": "mtha' yas nyid las dbus mi dmigs\n",
+      "derived_tibetan": "མཐའ་ཡས་ཉིད་ལས་དབུས་མི་དམིགས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "མཐའ་ཡས་ཉིད་ལས་དབུས་མི་དམིགས\n",
+          "new": "མཐའ་ཡས་ཉིད་ལས་དབུས་མི་དམིགས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000251",
+      "anchor_id": "MTP-S000251",
+      "base": "༤༣༡\n",
+      "wylie": "431\n",
+      "derived_tibetan": "༤༣༡\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 4,
+          "comparison_start": 0,
+          "comparison_end": 4,
+          "old": "༤༣༡\n",
+          "new": "༤༣༡\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000252",
+      "anchor_id": "MTP-S000252",
+      "base": "དོན་དམ་ཡེ་ཤེས་ལྔར་སྣང་བས\n",
+      "wylie": "don dam ye shes lngar snang bas\n",
+      "derived_tibetan": "དོན་དམ་ཡེ་ཤེས་ལྔར་སྣང་བས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "དོན་དམ་ཡེ་ཤེས་ལྔར་སྣང་བས\n",
+          "new": "དོན་དམ་ཡེ་ཤེས་ལྔར་སྣང་བས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000253",
+      "anchor_id": "MTP-S000253",
+      "base": "ཀུན་རྫོབ་ཡེ་ཤེས་སྣ་ཚོགས་ཏེ\n",
+      "wylie": "kun rdzob ye shes sna tshogs te\n",
+      "derived_tibetan": "ཀུན་རྫོབ་ཡེ་ཤེས་སྣ་ཚོགས་ཏེ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "ཀུན་རྫོབ་ཡེ་ཤེས་སྣ་ཚོགས་ཏེ\n",
+          "new": "ཀུན་རྫོབ་ཡེ་ཤེས་སྣ་ཚོགས་ཏེ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000254",
+      "anchor_id": "MTP-S000254",
+      "base": "སྐུ་ལྟར་སྣང་ཞིང་རིག་པ་འདུས\n",
+      "wylie": "sku ltar snang zhing rig pa 'dus\n",
+      "derived_tibetan": "སྐུ་ལྟར་སྣང་ཞིང་རིག་པ་འདུས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "སྐུ་ལྟར་སྣང་ཞིང་རིག་པ་འདུས\n",
+          "new": "སྐུ་ལྟར་སྣང་ཞིང་རིག་པ་འདུས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000255",
+      "anchor_id": "MTP-S000255",
+      "base": "ཕྲ་རགས་སྣ་ཚོགས་སྣང་བ་ཡང\n",
+      "wylie": "phra rags sna tshogs snang ba yang\n",
+      "derived_tibetan": "ཕྲ་རགས་སྣ་ཚོགས་སྣང་བ་ཡང\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 24,
+          "comparison_start": 0,
+          "comparison_end": 24,
+          "old": "ཕྲ་རགས་སྣ་ཚོགས་སྣང་བ་ཡང\n",
+          "new": "ཕྲ་རགས་སྣ་ཚོགས་སྣང་བ་ཡང\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000256",
+      "anchor_id": "MTP-S000256",
+      "base": "ཡེ་ཤེས་དོན་ལ་བསྒྲིབ་མི་འགྱུར\n",
+      "wylie": "ye shes don la bsgrib mi 'gyur\n",
+      "derived_tibetan": "ཡེ་ཤེས་དོན་ལ་བསྒྲིབ་མི་འགྱུར\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཡེ་ཤེས་དོན་ལ་བསྒྲིབ་མི་འགྱུར\n",
+          "new": "ཡེ་ཤེས་དོན་ལ་བསྒྲིབ་མི་འགྱུར\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000257",
+      "anchor_id": "MTP-S000257",
+      "base": "རིན་ཆེན་གཙུག་གི་མར་མེ་བཞིན\n",
+      "wylie": "rin chen gtsug gi mar me bzhin\n",
+      "derived_tibetan": "རིན་ཆེན་གཙུག་གི་མར་མེ་བཞིན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "རིན་ཆེན་གཙུག་གི་མར་མེ་བཞིན\n",
+          "new": "རིན་ཆེན་གཙུག་གི་མར་མེ་བཞིན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000258",
+      "anchor_id": "MTP-S000258",
+      "base": "སྣང་བའི་འོད་འདི་དཔག་ཏུ་མེད\n",
+      "wylie": "snang ba'i 'od 'di dpag tu med\n",
+      "derived_tibetan": "སྣང་བའི་འོད་འདི་དཔག་ཏུ་མེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "སྣང་བའི་འོད་འདི་དཔག་ཏུ་མེད\n",
+          "new": "སྣང་བའི་འོད་འདི་དཔག་ཏུ་མེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000259",
+      "anchor_id": "MTP-S000259",
+      "base": "རིག་པའི་སྣང་བ་འོད་གསལ་བས\n",
+      "wylie": "rig pa'i snang ba 'od gsal bas\n",
+      "derived_tibetan": "རིག་པའི་སྣང་བ་འོད་གསལ་བས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "རིག་པའི་སྣང་བ་འོད་གསལ་བས\n",
+          "new": "རིག་པའི་སྣང་བ་འོད་གསལ་བས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000260",
+      "anchor_id": "MTP-S000260",
+      "base": "སྐུ་གསུམ་རྒྱལ་བའི་ཞིང་ཁམས་གསལ\n",
+      "wylie": "sku gsum rgyal ba'i zhing khams gsal\n",
+      "derived_tibetan": "སྐུ་གསུམ་རྒྱལ་བའི་ཞིང་ཁམས་གསལ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 30,
+          "comparison_start": 0,
+          "comparison_end": 30,
+          "old": "སྐུ་གསུམ་རྒྱལ་བའི་ཞིང་ཁམས་གསལ\n",
+          "new": "སྐུ་གསུམ་རྒྱལ་བའི་ཞིང་ཁམས་གསལ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000261",
+      "anchor_id": "MTP-S000261",
+      "base": "མན་ངག་རིན་ཆེན་མངོན་སྣང་བས\n",
+      "wylie": "man ngag rin chen mngon snang bas\n",
+      "derived_tibetan": "མན་ངག་རིན་ཆེན་མངོན་སྣང་བས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "མན་ངག་རིན་ཆེན་མངོན་སྣང་བས\n",
+          "new": "མན་ངག་རིན་ཆེན་མངོན་སྣང་བས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000262",
+      "anchor_id": "MTP-S000262",
+      "base": "བྱང་ཆུབ་ས་ལ་ཕ་རོལ་ཕྱིན\n",
+      "wylie": "byang chub sa la pha rol phyin\n",
+      "derived_tibetan": "བྱང་ཆུབ་ས་ལ་ཕ་རོལ་ཕྱིན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 23,
+          "comparison_start": 0,
+          "comparison_end": 23,
+          "old": "བྱང་ཆུབ་ས་ལ་ཕ་རོལ་ཕྱིན\n",
+          "new": "བྱང་ཆུབ་ས་ལ་ཕ་རོལ་ཕྱིན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000263",
+      "anchor_id": "MTP-S000263",
+      "base": "བརྗོད་དུ་མེད་ཅིང་སྣང་བའོ\n",
+      "wylie": "brjod du med cing snang ba'o\n",
+      "derived_tibetan": "བརྗོད་དུ་མེད་ཅིང་སྣང་བའོ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "བརྗོད་དུ་མེད་ཅིང་སྣང་བའོ\n",
+          "new": "བརྗོད་དུ་མེད་ཅིང་སྣང་བའོ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000264",
+      "anchor_id": "MTP-S000264",
+      "base": "ཀྱེ་ཀྱེ་གསང་བདག་རྡོ་རྗེ་འཛིན\n",
+      "wylie": "kye kye gsang bdag rdo rje 'dzin\n",
+      "derived_tibetan": "ཀྱེ་ཀྱེ་གསང་བདག་རྡོ་རྗེ་འཛིན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཀྱེ་ཀྱེ་གསང་བདག་རྡོ་རྗེ་འཛིན\n",
+          "new": "ཀྱེ་ཀྱེ་གསང་བདག་རྡོ་རྗེ་འཛིན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000265",
+      "anchor_id": "MTP-S000265",
+      "base": "འཁོར་བ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+      "wylie": "'khor ba nyid kyi don rtogs na\n",
+      "derived_tibetan": "འཁོར་བ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "འཁོར་བ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+          "new": "འཁོར་བ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000266",
+      "anchor_id": "MTP-S000266",
+      "base": "མྱ་ངན་འདས་ཞེས་ཡོད་མ་ཡིན\n",
+      "wylie": "mya ngan 'das zhes yod ma yin\n",
+      "derived_tibetan": "མྱ་ངན་འདས་ཞེས་ཡོད་མ་ཡིན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 24,
+          "comparison_start": 0,
+          "comparison_end": 24,
+          "old": "མྱ་ངན་འདས་ཞེས་ཡོད་མ་ཡིན\n",
+          "new": "མྱ་ངན་འདས་ཞེས་ཡོད་མ་ཡིན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000267",
+      "anchor_id": "MTP-S000267",
+      "base": "ཉོན་མོངས་ལྔ་ཡི་དོན་རྟོགས་ན\n",
+      "wylie": "nyon mongs lnga yi don rtogs na\n",
+      "derived_tibetan": "ཉོན་མོངས་ལྔ་ཡི་དོན་རྟོགས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "ཉོན་མོངས་ལྔ་ཡི་དོན་རྟོགས་ན\n",
+          "new": "ཉོན་མོངས་ལྔ་ཡི་དོན་རྟོགས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000268",
+      "anchor_id": "MTP-S000268",
+      "base": "༤༣༢\n",
+      "wylie": "432\n",
+      "derived_tibetan": "༤༣༢\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 4,
+          "comparison_start": 0,
+          "comparison_end": 4,
+          "old": "༤༣༢\n",
+          "new": "༤༣༢\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000269",
+      "anchor_id": "MTP-S000269",
+      "base": "ཡེ་ཤེས་མིང་དུ་ཡོད་མ་ཡིན\n",
+      "wylie": "ye shes ming du yod ma yin\n",
+      "derived_tibetan": "ཡེ་ཤེས་མིང་དུ་ཡོད་མ་ཡིན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 24,
+          "comparison_start": 0,
+          "comparison_end": 24,
+          "old": "ཡེ་ཤེས་མིང་དུ་ཡོད་མ་ཡིན\n",
+          "new": "ཡེ་ཤེས་མིང་དུ་ཡོད་མ་ཡིན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000270",
+      "anchor_id": "MTP-S000270",
+      "base": "སྡུག་བསྔལ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+      "wylie": "sdug bsngal nyid kyi don rtogs na\n",
+      "derived_tibetan": "སྡུག་བསྔལ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 30,
+          "comparison_start": 0,
+          "comparison_end": 30,
+          "old": "སྡུག་བསྔལ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+          "new": "སྡུག་བསྔལ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000271",
+      "anchor_id": "MTP-S000271",
+      "base": "བདེ་བ་ཆེན་པོ་བཙལ་དུ་མེད\n",
+      "wylie": "bde ba chen po btsal du med\n",
+      "derived_tibetan": "བདེ་བ་ཆེན་པོ་བཙལ་དུ་མེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 24,
+          "comparison_start": 0,
+          "comparison_end": 24,
+          "old": "བདེ་བ་ཆེན་པོ་བཙལ་དུ་མེད\n",
+          "new": "བདེ་བ་ཆེན་པོ་བཙལ་དུ་མེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000272",
+      "anchor_id": "MTP-S000272",
+      "base": "སྐྱོན་གྱི་མཐའ་ཉིད་རབ་རྟོགས་ན\n",
+      "wylie": "skyon gyi mtha' nyid rab rtogs na\n",
+      "derived_tibetan": "སྐྱོན་གྱི་མཐའ་ཉིད་རབ་རྟོགས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "སྐྱོན་གྱི་མཐའ་ཉིད་རབ་རྟོགས་ན\n",
+          "new": "སྐྱོན་གྱི་མཐའ་ཉིད་རབ་རྟོགས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000273",
+      "anchor_id": "MTP-S000273",
+      "base": "ཡོན་ཏན་ཆེན་པོ་བཙལ་མི་དགོས\n",
+      "wylie": "yon tan chen po btsal mi dgos\n",
+      "derived_tibetan": "ཡོན་ཏན་ཆེན་པོ་བཙལ་མི་དགོས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "ཡོན་ཏན་ཆེན་པོ་བཙལ་མི་དགོས\n",
+          "new": "ཡོན་ཏན་ཆེན་པོ་བཙལ་མི་དགོས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000274",
+      "anchor_id": "MTP-S000274",
+      "base": "འཁྲུལ་པ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+      "wylie": "'khrul pa nyid kyi don rtogs na\n",
+      "derived_tibetan": "འཁྲུལ་པ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "འཁྲུལ་པ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+          "new": "འཁྲུལ་པ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000275",
+      "anchor_id": "MTP-S000275",
+      "base": "འཁྲུལ་མེད་རིག་པ་བཙལ་མི་དགོས\n",
+      "wylie": "'khrul med rig pa btsal mi dgos\n",
+      "derived_tibetan": "འཁྲུལ་མེད་རིག་པ་བཙལ་མི་དགོས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "འཁྲུལ་མེད་རིག་པ་བཙལ་མི་དགོས\n",
+          "new": "འཁྲུལ་མེད་རིག་པ་བཙལ་མི་དགོས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000276",
+      "anchor_id": "MTP-S000276",
+      "base": "འབྱུང་ལྔ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+      "wylie": "'byung lnga nyid kyi don rtogs na\n",
+      "derived_tibetan": "འབྱུང་ལྔ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "འབྱུང་ལྔ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n",
+          "new": "འབྱུང་ལྔ་ཉིད་ཀྱི་དོན་རྟོགས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000277",
+      "anchor_id": "MTP-S000277",
+      "base": "ཆེན་པོ་ལྔ་ཉིད་བབས་ཀྱིས་འགྲུབ\n",
+      "wylie": "chen po lnga nyid babs kyis 'grub\n",
+      "derived_tibetan": "ཆེན་པོ་ལྔ་ཉིད་བབས་ཀྱིས་འགྲུབ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཆེན་པོ་ལྔ་ཉིད་བབས་ཀྱིས་འགྲུབ\n",
+          "new": "ཆེན་པོ་ལྔ་ཉིད་བབས་ཀྱིས་འགྲུབ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000278",
+      "anchor_id": "MTP-S000278",
+      "base": "མ་རིག་ཉིད་ཀྱི་རྩད་ཆོད་ན\n",
+      "wylie": "ma rig nyid kyi rtsad chod na\n",
+      "derived_tibetan": "མ་རིག་ཉིད་ཀྱི་རྩད་ཆོད་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 24,
+          "comparison_start": 0,
+          "comparison_end": 24,
+          "old": "མ་རིག་ཉིད་ཀྱི་རྩད་ཆོད་ན\n",
+          "new": "མ་རིག་ཉིད་ཀྱི་རྩད་ཆོད་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000279",
+      "anchor_id": "MTP-S000279",
+      "base": "རིག་པའི་སྐུ་ཉིད་མ་བསྒྲུབས་འགྲུབ\n",
+      "wylie": "rig pa'i sku nyid ma bsgrubs 'grub\n",
+      "derived_tibetan": "རིག་པའི་སྐུ་ཉིད་མ་བསྒྲུབས་འགྲུབ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 32,
+          "comparison_start": 0,
+          "comparison_end": 32,
+          "old": "རིག་པའི་སྐུ་ཉིད་མ་བསྒྲུབས་འགྲུབ\n",
+          "new": "རིག་པའི་སྐུ་ཉིད་མ་བསྒྲུབས་འགྲུབ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000280",
+      "anchor_id": "MTP-S000280",
+      "base": "སེམས་ཅན་ཉིད་ཀྱི་དོན་ཤེས་ན\n",
+      "wylie": "sems can nyid kyi don shes na\n",
+      "derived_tibetan": "སེམས་ཅན་ཉིད་ཀྱི་དོན་ཤེས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "སེམས་ཅན་ཉིད་ཀྱི་དོན་ཤེས་ན\n",
+          "new": "སེམས་ཅན་ཉིད་ཀྱི་དོན་ཤེས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000281",
+      "anchor_id": "MTP-S000281",
+      "base": "སངས་རྒྱས་ཉིད་ཀྱང་མ་བཙལ་རྙེད\n",
+      "wylie": "sangs rgyas nyid kyang ma btsal rnyed\n",
+      "derived_tibetan": "སངས་རྒྱས་ཉིད་ཀྱང་མ་བཙལ་རྙེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "སངས་རྒྱས་ཉིད་ཀྱང་མ་བཙལ་རྙེད\n",
+          "new": "སངས་རྒྱས་ཉིད་ཀྱང་མ་བཙལ་རྙེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000282",
+      "anchor_id": "MTP-S000282",
+      "base": "སྣ་ཚོགས་སྣང་བའི་དོན་རྟོགས་ན\n",
+      "wylie": "sna tshogs snang ba'i don rtogs na\n",
+      "derived_tibetan": "སྣ་ཚོགས་སྣང་བའི་དོན་རྟོགས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "སྣ་ཚོགས་སྣང་བའི་དོན་རྟོགས་ན\n",
+          "new": "སྣ་ཚོགས་སྣང་བའི་དོན་རྟོགས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000283",
+      "anchor_id": "MTP-S000283",
+      "base": "རང་རིག་འོད་སྣང་མ་བཙལ་རྙེད\n",
+      "wylie": "rang rig 'od snang ma btsal rnyed\n",
+      "derived_tibetan": "རང་རིག་འོད་སྣང་མ་བཙལ་རྙེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "རང་རིག་འོད་སྣང་མ་བཙལ་རྙེད\n",
+          "new": "རང་རིག་འོད་སྣང་མ་བཙལ་རྙེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000284",
+      "anchor_id": "MTP-S000284",
+      "base": "རྟོག་པ་ཉིད་ཀྱི་རྗེས་ཆོད་ན\n",
+      "wylie": "rtog pa nyid kyi rjes chod na\n",
+      "derived_tibetan": "རྟོག་པ་ཉིད་ཀྱི་རྗེས་ཆོད་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "རྟོག་པ་ཉིད་ཀྱི་རྗེས་ཆོད་ན\n",
+          "new": "རྟོག་པ་ཉིད་ཀྱི་རྗེས་ཆོད་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000285",
+      "anchor_id": "MTP-S000285",
+      "base": "༤༣༣\n",
+      "wylie": "433\n",
+      "derived_tibetan": "༤༣༣\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 4,
+          "comparison_start": 0,
+          "comparison_end": 4,
+          "old": "༤༣༣\n",
+          "new": "༤༣༣\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000286",
+      "anchor_id": "MTP-S000286",
+      "base": "འཁྲུལ་པ་དེ་ཉིད་རང་སར་གྲོལ\n",
+      "wylie": "'khrul pa de nyid rang sar grol\n",
+      "derived_tibetan": "འཁྲུལ་པ་དེ་ཉིད་རང་སར་གྲོལ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "འཁྲུལ་པ་དེ་ཉིད་རང་སར་གྲོལ\n",
+          "new": "འཁྲུལ་པ་དེ་ཉིད་རང་སར་གྲོལ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000287",
+      "anchor_id": "MTP-S000287",
+      "base": "སྟོང་པ་སྣང་བའི་དོན་རྟོགས་ན\n",
+      "wylie": "stong pa snang ba'i don rtogs na\n",
+      "derived_tibetan": "སྟོང་པ་སྣང་བའི་དོན་རྟོགས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "སྟོང་པ་སྣང་བའི་དོན་རྟོགས་ན\n",
+          "new": "སྟོང་པ་སྣང་བའི་དོན་རྟོགས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000288",
+      "anchor_id": "MTP-S000288",
+      "base": "ཡེ་ཤེས་སྐུ་ཡང་ལྷུན་གྱིས་གྲུབ\n",
+      "wylie": "ye shes sku yang lhun gyis grub\n",
+      "derived_tibetan": "ཡེ་ཤེས་སྐུ་ཡང་ལྷུན་གྱིས་གྲུབ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཡེ་ཤེས་སྐུ་ཡང་ལྷུན་གྱིས་གྲུབ\n",
+          "new": "ཡེ་ཤེས་སྐུ་ཡང་ལྷུན་གྱིས་གྲུབ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000289",
+      "anchor_id": "MTP-S000289",
+      "base": "དངོས་པོར་སྣང་བའི་ཕུགས་མཐོང་ན\n",
+      "wylie": "dngos por snang ba'i phugs mthong na\n",
+      "derived_tibetan": "དངོས་པོར་སྣང་བའི་ཕུགས་མཐོང་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "དངོས་པོར་སྣང་བའི་ཕུགས་མཐོང་ན\n",
+          "new": "དངོས་པོར་སྣང་བའི་ཕུགས་མཐོང་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000290",
+      "anchor_id": "MTP-S000290",
+      "base": "སྟོང་པ་ཉིད་ཀྱང་མ་བསྒྲུབས་རྫོགས\n",
+      "wylie": "stong pa nyid kyang ma bsgrubs rdzogs\n",
+      "derived_tibetan": "སྟོང་པ་ཉིད་ཀྱང་མ་བསྒྲུབས་རྫོགས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 31,
+          "comparison_start": 0,
+          "comparison_end": 31,
+          "old": "སྟོང་པ་ཉིད་ཀྱང་མ་བསྒྲུབས་རྫོགས\n",
+          "new": "སྟོང་པ་ཉིད་ཀྱང་མ་བསྒྲུབས་རྫོགས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000291",
+      "anchor_id": "MTP-S000291",
+      "base": "ཆོས་ཉིད་ཨ་ཡི་དོན་རྟོགས་ན\n",
+      "wylie": "chos nyid a yi don rtogs na\n",
+      "derived_tibetan": "ཆོས་ཉིད་ཨ་ཡི་དོན་རྟོགས་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "ཆོས་ཉིད་ཨ་ཡི་དོན་རྟོགས་ན\n",
+          "new": "ཆོས་ཉིད་ཨ་ཡི་དོན་རྟོགས་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000292",
+      "anchor_id": "MTP-S000292",
+      "base": "སྐྱེ་མེད་ཆོས་ཉིད་ཕ་རོལ་ཕྱིན\n",
+      "wylie": "skye med chos nyid pha rol phyin\n",
+      "derived_tibetan": "སྐྱེ་མེད་ཆོས་ཉིད་ཕ་རོལ་ཕྱིན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "སྐྱེ་མེད་ཆོས་ཉིད་ཕ་རོལ་ཕྱིན\n",
+          "new": "སྐྱེ་མེད་ཆོས་ཉིད་ཕ་རོལ་ཕྱིན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000293",
+      "anchor_id": "MTP-S000293",
+      "base": "ཨེ་མ་ཧོ\n",
+      "wylie": "e ma ho\n",
+      "derived_tibetan": "ཨེ་མ་ཧོ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 8,
+          "comparison_start": 0,
+          "comparison_end": 8,
+          "old": "ཨེ་མ་ཧོ\n",
+          "new": "ཨེ་མ་ཧོ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000294",
+      "anchor_id": "MTP-S000294",
+      "base": "རང་སྣང་སྟོང་པ་ཉིད་ཀྱི་རྒྱ\n",
+      "wylie": "rang snang stong pa nyid kyi rgya\n",
+      "derived_tibetan": "རང་སྣང་སྟོང་པ་ཉིད་ཀྱི་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "རང་སྣང་སྟོང་པ་ཉིད་ཀྱི་རྒྱ\n",
+          "new": "རང་སྣང་སྟོང་པ་ཉིད་ཀྱི་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000295",
+      "anchor_id": "MTP-S000295",
+      "base": "ཤེས་ཀྱི་རྒྱས་བཏབ་པ་བསྟན\n",
+      "wylie": "shes kyi rgyas btab pa bstan\n",
+      "derived_tibetan": "ཤེས་ཀྱི་རྒྱས་བཏབ་པ་བསྟན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 24,
+          "comparison_start": 0,
+          "comparison_end": 24,
+          "old": "ཤེས་ཀྱི་རྒྱས་བཏབ་པ་བསྟན\n",
+          "new": "ཤེས་ཀྱི་རྒྱས་བཏབ་པ་བསྟན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000296",
+      "anchor_id": "MTP-S000296",
+      "base": "སྟོང་འབྱམས་ཡེ་ཤེས་སྐུ་ཡི་རྒྱ\n",
+      "wylie": "stong 'byams ye shes sku yi rgya\n",
+      "derived_tibetan": "སྟོང་འབྱམས་ཡེ་ཤེས་སྐུ་ཡི་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "སྟོང་འབྱམས་ཡེ་ཤེས་སྐུ་ཡི་རྒྱ\n",
+          "new": "སྟོང་འབྱམས་ཡེ་ཤེས་སྐུ་ཡི་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000297",
+      "anchor_id": "MTP-S000297",
+      "base": "སྣ་ཚོགས་སེམས་ཉིད་རིག་པའི་རྒྱ\n",
+      "wylie": "sna tshogs sems nyid rig pa'i rgya\n",
+      "derived_tibetan": "སྣ་ཚོགས་སེམས་ཉིད་རིག་པའི་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "སྣ་ཚོགས་སེམས་ཉིད་རིག་པའི་རྒྱ\n",
+          "new": "སྣ་ཚོགས་སེམས་ཉིད་རིག་པའི་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000298",
+      "anchor_id": "MTP-S000298",
+      "base": "རྣམ་དག་ཀློང་ཡངས་ཡེ་ཤེས་རྒྱ\n",
+      "wylie": "rnam dag klong yangs ye shes rgya\n",
+      "derived_tibetan": "རྣམ་དག་ཀློང་ཡངས་ཡེ་ཤེས་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "རྣམ་དག་ཀློང་ཡངས་ཡེ་ཤེས་རྒྱ\n",
+          "new": "རྣམ་དག་ཀློང་ཡངས་ཡེ་ཤེས་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000299",
+      "anchor_id": "MTP-S000299",
+      "base": "མཚན་མ་དངོས་དག་རང་རིག་རྒྱ\n",
+      "wylie": "mtshan ma dngos dag rang rig rgya\n",
+      "derived_tibetan": "མཚན་མ་དངོས་དག་རང་རིག་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "མཚན་མ་དངོས་དག་རང་རིག་རྒྱ\n",
+          "new": "མཚན་མ་དངོས་དག་རང་རིག་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000300",
+      "anchor_id": "MTP-S000300",
+      "base": "སྣང་བ་རང་རྫོགས་དབྱིངས་ཀྱི་རྒྱ\n",
+      "wylie": "snang ba rang rdzogs dbyings kyi rgya\n",
+      "derived_tibetan": "སྣང་བ་རང་རྫོགས་དབྱིངས་ཀྱི་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 30,
+          "comparison_start": 0,
+          "comparison_end": 30,
+          "old": "སྣང་བ་རང་རྫོགས་དབྱིངས་ཀྱི་རྒྱ\n",
+          "new": "སྣང་བ་རང་རྫོགས་དབྱིངས་ཀྱི་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000301",
+      "anchor_id": "MTP-S000301",
+      "base": "སྤྱོད་པ་རྨད་བྱུང་སྣང་བའི་རྒྱ\n",
+      "wylie": "spyod pa rmad byung snang ba'i rgya\n",
+      "derived_tibetan": "སྤྱོད་པ་རྨད་བྱུང་སྣང་བའི་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "སྤྱོད་པ་རྨད་བྱུང་སྣང་བའི་རྒྱ\n",
+          "new": "སྤྱོད་པ་རྨད་བྱུང་སྣང་བའི་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000302",
+      "anchor_id": "MTP-S000302",
+      "base": "བསྒོམ་པ་རྨད་བྱུང་སེམས་ཀྱི་རྒྱ\n",
+      "wylie": "bsgom pa rmad byung sems kyi rgya\n",
+      "derived_tibetan": "བསྒོམ་པ་རྨད་བྱུང་སེམས་ཀྱི་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 30,
+          "comparison_start": 0,
+          "comparison_end": 30,
+          "old": "བསྒོམ་པ་རྨད་བྱུང་སེམས་ཀྱི་རྒྱ\n",
+          "new": "བསྒོམ་པ་རྨད་བྱུང་སེམས་ཀྱི་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000303",
+      "anchor_id": "MTP-S000303",
+      "base": "༤༣༤\n",
+      "wylie": "434\n",
+      "derived_tibetan": "༤༣༤\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 4,
+          "comparison_start": 0,
+          "comparison_end": 4,
+          "old": "༤༣༤\n",
+          "new": "༤༣༤\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000304",
+      "anchor_id": "MTP-S000304",
+      "base": "ལྟ་བ་རྨད་བྱུང་ནམ་མཁའི་རྒྱ\n",
+      "wylie": "lta ba rmad byung nam mkha'i rgya\n",
+      "derived_tibetan": "ལྟ་བ་རྨད་བྱུང་ནམ་མཁའི་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "ལྟ་བ་རྨད་བྱུང་ནམ་མཁའི་རྒྱ\n",
+          "new": "ལྟ་བ་རྨད་བྱུང་ནམ་མཁའི་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000305",
+      "anchor_id": "MTP-S000305",
+      "base": "འབྲས་བུ་རྨད་བྱུང་ཆིག་ཆོད་རྒྱ\n",
+      "wylie": "'bras bu rmad byung chig chod rgya\n",
+      "derived_tibetan": "འབྲས་བུ་རྨད་བྱུང་ཆིག་ཆོད་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "འབྲས་བུ་རྨད་བྱུང་ཆིག་ཆོད་རྒྱ\n",
+          "new": "འབྲས་བུ་རྨད་བྱུང་ཆིག་ཆོད་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000306",
+      "anchor_id": "MTP-S000306",
+      "base": "ཡེ་ཤེས་རྨད་བྱུང་སྟོང་པའི་རྒྱ\n",
+      "wylie": "ye shes rmad byung stong pa'i rgya\n",
+      "derived_tibetan": "ཡེ་ཤེས་རྨད་བྱུང་སྟོང་པའི་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཡེ་ཤེས་རྨད་བྱུང་སྟོང་པའི་རྒྱ\n",
+          "new": "ཡེ་ཤེས་རྨད་བྱུང་སྟོང་པའི་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000307",
+      "anchor_id": "MTP-S000307",
+      "base": "ཆོས་ཉིད་རྨད་བྱུང་རོལ་པའི་རྒྱ\n",
+      "wylie": "chos nyid rmad byung rol pa'i rgya\n",
+      "derived_tibetan": "ཆོས་ཉིད་རྨད་བྱུང་རོལ་པའི་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཆོས་ཉིད་རྨད་བྱུང་རོལ་པའི་རྒྱ\n",
+          "new": "ཆོས་ཉིད་རྨད་བྱུང་རོལ་པའི་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000308",
+      "anchor_id": "MTP-S000308",
+      "base": "རྟོགས་པ་རྨད་བྱུང་ཤེས་རབ་རྒྱ\n",
+      "wylie": "rtogs pa rmad byung shes rab rgya\n",
+      "derived_tibetan": "རྟོགས་པ་རྨད་བྱུང་ཤེས་རབ་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "རྟོགས་པ་རྨད་བྱུང་ཤེས་རབ་རྒྱ\n",
+          "new": "རྟོགས་པ་རྨད་བྱུང་ཤེས་རབ་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000309",
+      "anchor_id": "MTP-S000309",
+      "base": "ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ\n",
+      "wylie": "ngo bo rmad byung lug rgyud rgya\n",
+      "derived_tibetan": "ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ\n",
+          "new": "ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000310",
+      "anchor_id": "MTP-S000310",
+      "base": "ཡང་དག་རྨད་བྱུང་རིག་པའི་རྒྱའོ\n",
+      "wylie": "yang dag rmad byung rig pa'i rgya'o\n",
+      "derived_tibetan": "ཡང་དག་རྨད་བྱུང་རིག་པའི་རྒྱའོ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཡང་དག་རྨད་བྱུང་རིག་པའི་རྒྱའོ\n",
+          "new": "ཡང་དག་རྨད་བྱུང་རིག་པའི་རྒྱའོ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000311",
+      "anchor_id": "MTP-S000311",
+      "base": "ཨེ་མ་ཧོ\n",
+      "wylie": "e ma ho\n",
+      "derived_tibetan": "ཨེ་མ་ཧོ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 8,
+          "comparison_start": 0,
+          "comparison_end": 8,
+          "old": "ཨེ་མ་ཧོ\n",
+          "new": "ཨེ་མ་ཧོ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000312",
+      "anchor_id": "MTP-S000312",
+      "base": "གསང་བའི་བདག་པོ་ཆེན་པོ་ཉོན\n",
+      "wylie": "gsang ba'i bdag po chen po nyon\n",
+      "derived_tibetan": "གསང་བའི་བདག་པོ་ཆེན་པོ་ཉོན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "གསང་བའི་བདག་པོ་ཆེན་པོ་ཉོན\n",
+          "new": "གསང་བའི་བདག་པོ་ཆེན་པོ་ཉོན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000313",
+      "anchor_id": "MTP-S000313",
+      "base": "གསང་བའི་དབང་ཉིད་རབ་རྫོགས་པ\n",
+      "wylie": "gsang ba'i dbang nyid rab rdzogs pa\n",
+      "derived_tibetan": "གསང་བའི་དབང་ཉིད་རབ་རྫོགས་པ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "གསང་བའི་དབང་ཉིད་རབ་རྫོགས་པ\n",
+          "new": "གསང་བའི་དབང་ཉིད་རབ་རྫོགས་པ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000314",
+      "anchor_id": "MTP-S000314",
+      "base": "སྙིང་པོ་བཅུད་ཀྱི་གདམས་ངག་འདི\n",
+      "wylie": "snying po bcud kyi gdams ngag 'di\n",
+      "derived_tibetan": "སྙིང་པོ་བཅུད་ཀྱི་གདམས་ངག་འདི\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "སྙིང་པོ་བཅུད་ཀྱི་གདམས་ངག་འདི\n",
+          "new": "སྙིང་པོ་བཅུད་ཀྱི་གདམས་ངག་འདི\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000315",
+      "anchor_id": "MTP-S000315",
+      "base": "སྙིན་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན\n",
+      "wylie": "snyin po nyid la snying po brtan\n",
+      "derived_tibetan": "སྙིན་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "སྙིན་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན\n",
+          "new": "སྙིན་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000316",
+      "anchor_id": "MTP-S000316",
+      "base": "ངེས་པའི་གསུམ་མན་ངག་འདི\n",
+      "wylie": "nges pa'i gsum man ngag 'di\n",
+      "derived_tibetan": "ངེས་པའི་གསུམ་མན་ངག་འདི\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 23,
+          "comparison_start": 0,
+          "comparison_end": 23,
+          "old": "ངེས་པའི་གསུམ་མན་ངག་འདི\n",
+          "new": "ངེས་པའི་གསུམ་མན་ངག་འདི\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000317",
+      "anchor_id": "MTP-S000317",
+      "base": "རྒྱུད་ཀྱི་གཙོ་བོ་མཐར་ཐུག་འགྱུར\n",
+      "wylie": "rgyud kyi gtso bo mthar thug 'gyur\n",
+      "derived_tibetan": "རྒྱུད་ཀྱི་གཙོ་བོ་མཐར་ཐུག་འགྱུར\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 31,
+          "comparison_start": 0,
+          "comparison_end": 31,
+          "old": "རྒྱུད་ཀྱི་གཙོ་བོ་མཐར་ཐུག་འགྱུར\n",
+          "new": "རྒྱུད་ཀྱི་གཙོ་བོ་མཐར་ཐུག་འགྱུར\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000318",
+      "anchor_id": "MTP-S000318",
+      "base": "དོན་དམ་ཀུན་རྫོབ་གཉིས་མེད་པས\n",
+      "wylie": "don dam kun rdzob gnyis med pas\n",
+      "derived_tibetan": "དོན་དམ་ཀུན་རྫོབ་གཉིས་མེད་པས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "དོན་དམ་ཀུན་རྫོབ་གཉིས་མེད་པས\n",
+          "new": "དོན་དམ་ཀུན་རྫོབ་གཉིས་མེད་པས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000319",
+      "anchor_id": "MTP-S000319",
+      "base": "༤༣༥\n",
+      "wylie": "435\n",
+      "derived_tibetan": "༤༣༥\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 4,
+          "comparison_start": 0,
+          "comparison_end": 4,
+          "old": "༤༣༥\n",
+          "new": "༤༣༥\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000320",
+      "anchor_id": "MTP-S000320",
+      "base": "རང་སྣང་ཡུལ་ན་བདེ་བ་ཆེ\n",
+      "wylie": "rang snang yul na bde ba che\n",
+      "derived_tibetan": "རང་སྣང་ཡུལ་ན་བདེ་བ་ཆེ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 22,
+          "comparison_start": 0,
+          "comparison_end": 22,
+          "old": "རང་སྣང་ཡུལ་ན་བདེ་བ་ཆེ\n",
+          "new": "རང་སྣང་ཡུལ་ན་བདེ་བ་ཆེ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000321",
+      "anchor_id": "MTP-S000321",
+      "base": "ཆོས་ཉིད་གཉིས་སུ་མེད་པའི་རྟགས\n",
+      "wylie": "chos nyid gnyis su med pa'i rtags\n",
+      "derived_tibetan": "ཆོས་ཉིད་གཉིས་སུ་མེད་པའི་རྟགས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཆོས་ཉིད་གཉིས་སུ་མེད་པའི་རྟགས\n",
+          "new": "ཆོས་ཉིད་གཉིས་སུ་མེད་པའི་རྟགས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000322",
+      "anchor_id": "MTP-S000322",
+      "base": "སྣང་བའི་རྗེས་སུ་མི་འབྲང་ཞིང\n",
+      "wylie": "snang ba'i rjes su mi 'brang zhing\n",
+      "derived_tibetan": "སྣང་བའི་རྗེས་སུ་མི་འབྲང་ཞིང\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "སྣང་བའི་རྗེས་སུ་མི་འབྲང་ཞིང\n",
+          "new": "སྣང་བའི་རྗེས་སུ་མི་འབྲང་ཞིང\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000323",
+      "anchor_id": "MTP-S000323",
+      "base": "ཀུན་ཏུ་སྣང་ཞིང་གཉིས་སུ་མེད\n",
+      "wylie": "kun tu snang zhing gnyis su med\n",
+      "derived_tibetan": "ཀུན་ཏུ་སྣང་ཞིང་གཉིས་སུ་མེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "ཀུན་ཏུ་སྣང་ཞིང་གཉིས་སུ་མེད\n",
+          "new": "ཀུན་ཏུ་སྣང་ཞིང་གཉིས་སུ་མེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000324",
+      "anchor_id": "MTP-S000324",
+      "base": "བྱ་བྱེད་ཆོས་ལ་མི་གནས་པ\n",
+      "wylie": "bya byed chos la mi gnas pa\n",
+      "derived_tibetan": "བྱ་བྱེད་ཆོས་ལ་མི་གནས་པ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 23,
+          "comparison_start": 0,
+          "comparison_end": 23,
+          "old": "བྱ་བྱེད་ཆོས་ལ་མི་གནས་པ\n",
+          "new": "བྱ་བྱེད་ཆོས་ལ་མི་གནས་པ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000325",
+      "anchor_id": "MTP-S000325",
+      "base": "རང་སྣང་ཡུལ་ལ་གཉིས་སུ་མེད\n",
+      "wylie": "rang snang yul la gnyis su med\n",
+      "derived_tibetan": "རང་སྣང་ཡུལ་ལ་གཉིས་སུ་མེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "རང་སྣང་ཡུལ་ལ་གཉིས་སུ་མེད\n",
+          "new": "རང་སྣང་ཡུལ་ལ་གཉིས་སུ་མེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000326",
+      "anchor_id": "MTP-S000326",
+      "base": "གཅིག་དང་དུ་མར་མི་འབྱེད་པས\n",
+      "wylie": "gcig dang du mar mi 'byed pas\n",
+      "derived_tibetan": "གཅིག་དང་དུ་མར་མི་འབྱེད་པས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "གཅིག་དང་དུ་མར་མི་འབྱེད་པས\n",
+          "new": "གཅིག་དང་དུ་མར་མི་འབྱེད་པས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000327",
+      "anchor_id": "MTP-S000327",
+      "base": "རྟོགས་པའི་དུས་ན་གཉིས་སུ་མེད\n",
+      "wylie": "rtogs pa'i dus na gnyis su med\n",
+      "derived_tibetan": "རྟོགས་པའི་དུས་ན་གཉིས་སུ་མེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "རྟོགས་པའི་དུས་ན་གཉིས་སུ་མེད\n",
+          "new": "རྟོགས་པའི་དུས་ན་གཉིས་སུ་མེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000328",
+      "anchor_id": "MTP-S000328",
+      "base": "གསང་སྔགས་ཐབས་ལ་ཚེགས་མེད་པས\n",
+      "wylie": "gsang sngags thabs la tshegs med pas\n",
+      "derived_tibetan": "གསང་སྔགས་ཐབས་ལ་ཚེགས་མེད་པས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "གསང་སྔགས་ཐབས་ལ་ཚེགས་མེད་པས\n",
+          "new": "གསང་སྔགས་ཐབས་ལ་ཚེགས་མེད་པས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000329",
+      "anchor_id": "MTP-S000329",
+      "base": "གོ་བའི་དུས་ན་གཉིས་སུ་མེད\n",
+      "wylie": "go ba'i dus na gnyis su med\n",
+      "derived_tibetan": "གོ་བའི་དུས་ན་གཉིས་སུ་མེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "གོ་བའི་དུས་ན་གཉིས་སུ་མེད\n",
+          "new": "གོ་བའི་དུས་ན་གཉིས་སུ་མེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000330",
+      "anchor_id": "MTP-S000330",
+      "base": "འཁྲུལ་པའི་ཡུལ་ལ་སྣ་ཚོགས་ཀྱང\n",
+      "wylie": "'khrul pa'i yul la sna tshogs kyang\n",
+      "derived_tibetan": "འཁྲུལ་པའི་ཡུལ་ལ་སྣ་ཚོགས་ཀྱང\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "འཁྲུལ་པའི་ཡུལ་ལ་སྣ་ཚོགས་ཀྱང\n",
+          "new": "འཁྲུལ་པའི་ཡུལ་ལ་སྣ་ཚོགས་ཀྱང\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000331",
+      "anchor_id": "MTP-S000331",
+      "base": "དོན་དམ་ཉིད་ལ་གཅིག་གཉིས་མེད\n",
+      "wylie": "don dam nyid la gcig gnyis med\n",
+      "derived_tibetan": "དོན་དམ་ཉིད་ལ་གཅིག་གཉིས་མེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 27,
+          "comparison_start": 0,
+          "comparison_end": 27,
+          "old": "དོན་དམ་ཉིད་ལ་གཅིག་གཉིས་མེད\n",
+          "new": "དོན་དམ་ཉིད་ལ་གཅིག་གཉིས་མེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000332",
+      "anchor_id": "MTP-S000332",
+      "base": "ཕྱི་ནང་ཡུལ་ལ་གཅིག་ཀྱང་མེད\n",
+      "wylie": "phyi nang yul la gcig kyang med\n",
+      "derived_tibetan": "ཕྱི་ནང་ཡུལ་ལ་གཅིག་ཀྱང་མེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "ཕྱི་ནང་ཡུལ་ལ་གཅིག་ཀྱང་མེད\n",
+          "new": "ཕྱི་ནང་ཡུལ་ལ་གཅིག་ཀྱང་མེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000333",
+      "anchor_id": "MTP-S000333",
+      "base": "ཤེས་པའི་དུས་ན་སྣ་ཚོགས་འབྱུང\n",
+      "wylie": "shes pa'i dus na sna tshogs 'byung\n",
+      "derived_tibetan": "ཤེས་པའི་དུས་ན་སྣ་ཚོགས་འབྱུང\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "ཤེས་པའི་དུས་ན་སྣ་ཚོགས་འབྱུང\n",
+          "new": "ཤེས་པའི་དུས་ན་སྣ་ཚོགས་འབྱུང\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000334",
+      "anchor_id": "MTP-S000334",
+      "base": "སྣ་ཚོགས་ཞེན་པ་རང་གྲོལ་ཏེ\n",
+      "wylie": "sna tshogs zhen pa rang grol te\n",
+      "derived_tibetan": "སྣ་ཚོགས་ཞེན་པ་རང་གྲོལ་ཏེ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "སྣ་ཚོགས་ཞེན་པ་རང་གྲོལ་ཏེ\n",
+          "new": "སྣ་ཚོགས་ཞེན་པ་རང་གྲོལ་ཏེ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000335",
+      "anchor_id": "MTP-S000335",
+      "base": "ཆོས་ཉིད་གོ་ནས་གཉིས་མེད་དང\n",
+      "wylie": "chos nyid go nas gnyis med dang\n",
+      "derived_tibetan": "ཆོས་ཉིད་གོ་ནས་གཉིས་མེད་དང\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 26,
+          "comparison_start": 0,
+          "comparison_end": 26,
+          "old": "ཆོས་ཉིད་གོ་ནས་གཉིས་མེད་དང\n",
+          "new": "ཆོས་ཉིད་གོ་ནས་གཉིས་མེད་དང\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000336",
+      "anchor_id": "MTP-S000336",
+      "base": "༤༣༦\n",
+      "wylie": "436\n",
+      "derived_tibetan": "༤༣༦\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 4,
+          "comparison_start": 0,
+          "comparison_end": 4,
+          "old": "༤༣༦\n",
+          "new": "༤༣༦\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000337",
+      "anchor_id": "MTP-S000337",
+      "base": "འཁྲུལ་སྣང་རིགས་ནི་རྩད་ཆོད་ན\n",
+      "wylie": "'khrul snang rigs ni rtsad chod na\n",
+      "derived_tibetan": "འཁྲུལ་སྣང་རིགས་ནི་རྩད་ཆོད་ན\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 28,
+          "comparison_start": 0,
+          "comparison_end": 28,
+          "old": "འཁྲུལ་སྣང་རིགས་ནི་རྩད་ཆོད་ན\n",
+          "new": "འཁྲུལ་སྣང་རིགས་ནི་རྩད་ཆོད་ན\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000338",
+      "anchor_id": "MTP-S000338",
+      "base": "རང་རིག་ངོ་བོ་གཉིས་སུ་མེད\n",
+      "wylie": "rang rig ngo bo gnyis su med\n",
+      "derived_tibetan": "རང་རིག་ངོ་བོ་གཉིས་སུ་མེད\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 25,
+          "comparison_start": 0,
+          "comparison_end": 25,
+          "old": "རང་རིག་ངོ་བོ་གཉིས་སུ་མེད\n",
+          "new": "རང་རིག་ངོ་བོ་གཉིས་སུ་མེད\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000339",
+      "anchor_id": "MTP-S000339",
+      "base": "ཞིང་ཁམས་རྣམ་དག་ལྷུན་གྲུབ་པའོ\n",
+      "wylie": "zhing khams rnam dag lhun grub pa'o\n",
+      "derived_tibetan": "ཞིང་ཁམས་རྣམ་དག་ལྷུན་གྲུབ་པའོ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 29,
+          "comparison_start": 0,
+          "comparison_end": 29,
+          "old": "ཞིང་ཁམས་རྣམ་དག་ལྷུན་གྲུབ་པའོ\n",
+          "new": "ཞིང་ཁམས་རྣམ་དག་ལྷུན་གྲུབ་པའོ\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000340",
+      "anchor_id": "MTP-S000340",
+      "base": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས\n",
+      "wylie": "zhes mu tig phreng ba rin po che'i rgyud gsang ba las\n",
+      "derived_tibetan": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 45,
+          "comparison_start": 0,
+          "comparison_end": 45,
+          "old": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས\n",
+          "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས\n"
+        }
+      ]
+    },
+    {
+      "id": "MTP-L000341",
+      "anchor_id": "MTP-S000341",
+      "base": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ\n",
+      "wylie": "'khrul pa la bzla bar bstan pa'i le'u ste gsum pa'o\n",
+      "derived_tibetan": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ\n",
+      "warnings": [],
+      "equal": true,
+      "opcodes": [
+        {
+          "tag": "equal",
+          "base_start": 0,
+          "base_end": 44,
+          "comparison_start": 0,
+          "comparison_end": 44,
+          "old": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ\n",
+          "new": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ\n"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "id": "CH03-D000222",
+      "anchor_id": "MTP-S000222",
+      "old": "༄༣",
+      "new": "༄༣",
+      "role": "metadata",
+      "treatment": "classify_layer",
+      "reason": "Preserve the @3-derived electronic control token as metadata; it is not asserted to transcribe a printed ornament or numeral.",
+      "evidence_ids": [
+        "CH03-IMG-439"
+      ],
+      "uncertainty": [],
+      "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+    },
+    {
+      "id": "CH03-D000223",
+      "anchor_id": "MTP-S000223",
+      "old": "དེ་ནས་ཁྲོ་བོའི་རྒྱལ་པོ་རྟ་མགྲིན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏེ",
+      "new": "དེ་ནས་ཁྲོ་བོའི་རྒྱལ་པོ་རྟ་མགྲིན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏེ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The chapter opens with de nas khro boi rgyal po rta mgrin gyis across native lines3–4, after the preceding numbered closure. Retain the supplied main string.",
+      "evidence_ids": [
+        "CH03-IMG-439"
+      ],
+      "uncertainty": [
+        "Smaller running annotations alongside the chapter opening remain untranscribed; source punctuation is not silently supplied."
+      ],
+      "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+    },
+    {
+      "id": "CH03-D000228",
+      "anchor_id": "MTP-S000228",
+      "old": "མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས",
+      "new": "མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The standing sentence is visible in the main sequence on native line5. Preserve its exact supplied wording and electronic segmentation.",
+      "evidence_ids": [
+        "CH03-IMG-439"
+      ],
+      "uncertainty": [
+        "Smaller intervening source wording is not expanded or merged into the main reading."
+      ],
+      "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+    },
+    {
+      "id": "CH03-D000229",
+      "anchor_id": "MTP-S000229",
+      "old": "སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས",
+      "new": "སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "A compact ritual formula followed by sgra brjod nas is printed in the expected sequence. Preserve supplied sar ba dus ha without Sanskrit reconstruction or inferred stack normalization.",
+      "evidence_ids": [
+        "CH03-IMG-439",
+        "CH03-CROP-06"
+      ],
+      "uncertainty": [
+        "The compact glyph/stack details of the formula are not securely resolved. Supplied སར་བ་འདུས་ཧ is retained; it is not certified as an exact diplomatic encoding of every printed stack."
+      ],
+      "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+    },
+    {
+      "id": "CH03-D000230",
+      "anchor_id": "MTP-S000230",
+      "old": "འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ",
+      "new": "འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ",
+      "role": "main_text",
+      "treatment": "retain_base",
+      "reason": "The address to the gathered assembly follows the formula at native line6 left; retain the exact supplied string.",
+      "evidence_ids": [
+        "CH03-IMG-439"
+      ],
+      "uncertainty": [],
+      "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+    },
+    {
+      "id": "CH03-D000309",
+      "anchor_id": "MTP-S000309",
+      "old": "ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ",
+      "new": "ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ",
+      "role": "main_text",
+      "treatment": "retain_base",
+      "reason": "Native line3 supports the contracted-looking ལུག་རྒྱུད. Preserve this source form; do not expand it to a smoother lu gu rgyud.",
+      "evidence_ids": [
+        "CH03-IMG-444",
+        "CH03-CROP-03",
+        "CH03-CROP-04"
+      ],
+      "uncertainty": [],
+      "source_locus": "S309 across line3; S315 across line5; S316 across lines5–6, among smaller running notes."
+    },
+    {
+      "id": "CH03-D000315",
+      "anchor_id": "MTP-S000315",
+      "old": "སྙིན་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན",
+      "new": "སྙིང་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native line5 clearly reads initial སྙིང་པོ, correcting supplied སྙིན་པོ. The later སྙིང་པོ་བརྟན stays unchanged.",
+      "evidence_ids": [
+        "CH03-IMG-444",
+        "CH03-CROP-03",
+        "CH03-CROP-04"
+      ],
+      "uncertainty": [
+        "Smaller source wording intervening within the printed line remains untranscribed; only the supported first-syllable correction is made."
+      ],
+      "source_locus": "S309 across line3; S315 across line5; S316 across lines5–6, among smaller running notes."
+    },
+    {
+      "id": "CH03-D000316",
+      "anchor_id": "MTP-S000316",
+      "old": "ངེས་པའི་གསུམ་མན་ངག་འདི",
+      "new": "ངེས་པའི་གསུམ་མན་ངག་འདི",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The verse spans native lines5–6. Preserve supplied གསུམ and avoid changing a numeral on semantic grounds or from an uncertain alternative impression.",
+      "evidence_ids": [
+        "CH03-IMG-444",
+        "CH03-CROP-03",
+        "CH03-CROP-04",
+        "CH03-CROP-07"
+      ],
+      "uncertainty": [
+        "Final consonant/type details around གསུམ and adjacent smaller source wording remain imperfectly clear. No alternate reading or note expansion is accepted."
+      ],
+      "source_locus": "S309 across line3; S315 across line5; S316 across lines5–6, among smaller running notes."
+    },
+    {
+      "id": "CH03-D000340",
+      "anchor_id": "MTP-S000340",
+      "old": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས",
+      "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས",
+      "role": "chapter_colophon",
+      "treatment": "classify_layer",
+      "reason": "Native line2 introduces the title formula closing chapter three. Preserve its exact string under the chapter-colophon role.",
+      "evidence_ids": [
+        "CH03-IMG-446",
+        "CH03-CROP-05"
+      ],
+      "uncertainty": [],
+      "source_locus": "Chapter-three title and closing formula on line2; following de nas begins the next chapter and is excluded."
+    },
+    {
+      "id": "CH03-D000341",
+      "anchor_id": "MTP-S000341",
+      "old": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ",
+      "new": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ",
+      "role": "chapter_colophon",
+      "treatment": "classify_layer",
+      "reason": "Native line2 expressly names chapter three and ends before following de nas. The following chapter is excluded from this release.",
+      "evidence_ids": [
+        "CH03-IMG-446",
+        "CH03-CROP-05"
+      ],
+      "uncertainty": [],
+      "source_locus": "Chapter-three title and closing formula on line2; following de nas begins the next chapter and is excluded."
+    }
+  ],
+  "restorations": [],
+  "evidence": [
+    {
+      "id": "CH03-IMG-439",
+      "path": "evidence/golden/03/00439.png",
+      "sha256": "3fb1a38345f93668e2c0165da7e18f32d691c2ceb82bbda2f430374801777ab9",
+      "source_id": "adzom-1973",
+      "image_index": 439,
+      "printed_page": 429,
+      "anchor_ids": [
+        "MTP-S000222",
+        "MTP-S000223",
+        "MTP-S000228",
+        "MTP-S000229",
+        "MTP-S000230"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6. Allocation established from visible text; no complete-page proofreading is claimed.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950439.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH03-IMG-444",
+      "path": "evidence/golden/03/00444.png",
+      "sha256": "87e589f356e7c17a643f59097dcde8c9875c6c95a109b23c0cc2f89ab0ec6b21",
+      "source_id": "adzom-1973",
+      "image_index": 444,
+      "printed_page": 434,
+      "anchor_ids": [
+        "MTP-S000309",
+        "MTP-S000315",
+        "MTP-S000316"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "S309 across line3; S315 across line5; S316 across lines5–6, among smaller running notes. Allocation established from visible text; no complete-page proofreading is claimed.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950444.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH03-IMG-446",
+      "path": "evidence/golden/03/00446.png",
+      "sha256": "06098a5872c68fbdbbd794ce053bb1401b214839144022a885fd6b8af6edd096",
+      "source_id": "adzom-1973",
+      "image_index": 446,
+      "printed_page": 436,
+      "anchor_ids": [
+        "MTP-S000340",
+        "MTP-S000341"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "Chapter-three title and closing formula on line2; following de nas begins the next chapter and is excluded. Allocation established from visible text; no complete-page proofreading is claimed.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950446.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH03-CROP-01",
+      "path": "evidence/golden/03/00439-left-lower.png",
+      "sha256": "9f51b777dd652aa8e4befd30d456c04b8656e635c8c16b2492cae61e4a64c435",
+      "source_id": "adzom-1973",
+      "image_index": 439,
+      "printed_page": 429,
+      "anchor_ids": [
+        "MTP-S000223",
+        "MTP-S000228",
+        "MTP-S000230"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "Opening continuation and the standing/address sequence; first portion of the opening is in the full image.",
+      "crop": [
+        500,
+        275,
+        2350,
+        645
+      ],
+      "original_sha256": "3fb1a38345f93668e2c0165da7e18f32d691c2ceb82bbda2f430374801777ab9",
+      "original_path": "evidence/golden/03/00439.png",
+      "transformation": "Exact pixel crop only; no resizing, enhancement or OCR"
+    },
+    {
+      "id": "CH03-CROP-02",
+      "path": "evidence/golden/03/00439-right-lower.png",
+      "sha256": "16f46d465edba323479f5ad7fcfd456559701e1077d9d627ea0983740c4f8755",
+      "source_id": "adzom-1973",
+      "image_index": 439,
+      "printed_page": 429,
+      "anchor_ids": [
+        "MTP-S000223",
+        "MTP-S000229"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "Opening and literal ritual formula; complete spans are allocated through full governing image.",
+      "crop": [
+        2200,
+        240,
+        3690,
+        645
+      ],
+      "original_sha256": "3fb1a38345f93668e2c0165da7e18f32d691c2ceb82bbda2f430374801777ab9",
+      "original_path": "evidence/golden/03/00439.png",
+      "transformation": "Exact pixel crop only; no resizing, enhancement or OCR"
+    },
+    {
+      "id": "CH03-CROP-03",
+      "path": "evidence/golden/03/00444-left.png",
+      "sha256": "405c70e06c87c1e415668d3ab9ca7df17800a246675c56da6e5ecd9f949fc757",
+      "source_id": "adzom-1973",
+      "image_index": 444,
+      "printed_page": 434,
+      "anchor_ids": [
+        "MTP-S000309",
+        "MTP-S000315",
+        "MTP-S000316"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "Main-text/annotation distinctions and first or last portions of the three targeted anchors; full image provides their continuations.",
+      "crop": [
+        380,
+        145,
+        2280,
+        730
+      ],
+      "original_sha256": "87e589f356e7c17a643f59097dcde8c9875c6c95a109b23c0cc2f89ab0ec6b21",
+      "original_path": "evidence/golden/03/00444.png",
+      "transformation": "Exact pixel crop only; no resizing, enhancement or OCR"
+    },
+    {
+      "id": "CH03-CROP-04",
+      "path": "evidence/golden/03/00444-right.png",
+      "sha256": "467f7de5b3d59038dc870325a53ed029d1673c318437b06c01f4d30c69662249",
+      "source_id": "adzom-1973",
+      "image_index": 444,
+      "printed_page": 434,
+      "anchor_ids": [
+        "MTP-S000309",
+        "MTP-S000315",
+        "MTP-S000316"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "Complementary right-side portions of the targeted lines; not an independent witness.",
+      "crop": [
+        2110,
+        145,
+        3660,
+        730
+      ],
+      "original_sha256": "87e589f356e7c17a643f59097dcde8c9875c6c95a109b23c0cc2f89ab0ec6b21",
+      "original_path": "evidence/golden/03/00444.png",
+      "transformation": "Exact pixel crop only; no resizing, enhancement or OCR"
+    },
+    {
+      "id": "CH03-CROP-05",
+      "path": "evidence/golden/03/00446-closure.png",
+      "sha256": "7f176fa2b7581ec586effeb178e47df1532d634f9352c125777460fa80aa0559",
+      "source_id": "adzom-1973",
+      "image_index": 446,
+      "printed_page": 436,
+      "anchor_ids": [
+        "MTP-S000340",
+        "MTP-S000341"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "Exact-pixel locator for chapter-three closing title and numbered colophon.",
+      "crop": [
+        450,
+        120,
+        2870,
+        305
+      ],
+      "original_sha256": "06098a5872c68fbdbbd794ce053bb1401b214839144022a885fd6b8af6edd096",
+      "original_path": "evidence/golden/03/00446.png",
+      "transformation": "Exact pixel crop only; no resizing, enhancement or OCR"
+    },
+    {
+      "id": "CH03-CROP-06",
+      "path": "evidence/golden/03/00439-formula.png",
+      "sha256": "cf037572297c58fcebaf65d64d3fc7f600f121c9cdb32be423e2636537bd1971",
+      "source_id": "adzom-1973",
+      "image_index": 439,
+      "printed_page": 429,
+      "anchor_ids": [
+        "MTP-S000228",
+        "MTP-S000229",
+        "MTP-S000230"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "Enlargement-free locator for standing sentence, compact formula and address continuation; partial-line crop, full image governs.",
+      "crop": [
+        1160,
+        433,
+        3250,
+        642
+      ],
+      "original_sha256": "3fb1a38345f93668e2c0165da7e18f32d691c2ceb82bbda2f430374801777ab9",
+      "original_path": "evidence/golden/03/00439.png",
+      "transformation": "Exact pixel crop only; no resizing, enhancement or OCR"
+    },
+    {
+      "id": "CH03-CROP-07",
+      "path": "evidence/golden/03/00444-315-316.png",
+      "sha256": "74fc63bb6003ab393fbc6b39fdf7eea7a6df581b4f7f770b9ec512a037a3425d",
+      "source_id": "adzom-1973",
+      "image_index": 444,
+      "printed_page": 434,
+      "anchor_ids": [
+        "MTP-S000316"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "Line6-left final portion gsum man ngag di; line5 wording begins outside crop and is governed by full image.",
+      "crop": [
+        315,
+        565,
+        2150,
+        750
+      ],
+      "original_sha256": "87e589f356e7c17a643f59097dcde8c9875c6c95a109b23c0cc2f89ab0ec6b21",
+      "original_path": "evidence/golden/03/00444.png",
+      "transformation": "Exact pixel crop only; no resizing, enhancement or OCR"
+    }
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C03-CHECK-001",
+      "status": "closed",
+      "finding": "The chapter opens with de nas khro boi rgyal po rta mgrin gyis across native lines3–4, after the preceding numbered closure. Retain the supplied main string.",
+      "evidence_ids": [
+        "CH03-IMG-439"
+      ],
+      "uncertainty": [
+        "Smaller running annotations alongside the chapter opening remain untranscribed; source punctuation is not silently supplied."
+      ]
+    },
+    {
+      "id": "MTP-C03-CHECK-002",
+      "status": "closed",
+      "finding": "Native line2 expressly names chapter three and ends before following de nas. The following chapter is excluded from this release.",
+      "evidence_ids": [
+        "CH03-IMG-446",
+        "CH03-CROP-05"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-C03-CHECK-003",
+      "status": "closed",
+      "finding": "Preserve the @3-derived electronic control token as metadata; it is not asserted to transcribe a printed ornament or numeral.",
+      "evidence_ids": [
+        "CH03-IMG-439"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-TRIAGE-008",
+      "status": "closed",
+      "finding": "The standing sentence is visible in the main sequence on native line5. Preserve its exact supplied wording and electronic segmentation. A compact ritual formula followed by sgra brjod nas is printed in the expected sequence. Preserve supplied sar ba dus ha without Sanskrit reconstruction or inferred stack normalization. The address to the gathered assembly follows the formula at native line6 left; retain the exact supplied string.",
+      "evidence_ids": [
+        "CH03-IMG-439",
+        "CH03-CROP-06"
+      ],
+      "uncertainty": [
+        "Smaller intervening source wording is not expanded or merged into the main reading.",
+        "The compact glyph/stack details of the formula are not securely resolved. Supplied སར་བ་འདུས་ཧ is retained; it is not certified as an exact diplomatic encoding of every printed stack."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-009",
+      "status": "closed",
+      "finding": "Native line3 supports the contracted-looking ལུག་རྒྱུད. Preserve this source form; do not expand it to a smoother lu gu rgyud. Native line5 clearly reads initial སྙིང་པོ, correcting supplied སྙིན་པོ. The later སྙིང་པོ་བརྟན stays unchanged. The verse spans native lines5–6. Preserve supplied གསུམ and avoid changing a numeral on semantic grounds or from an uncertain alternative impression.",
+      "evidence_ids": [
+        "CH03-IMG-444",
+        "CH03-CROP-03",
+        "CH03-CROP-04",
+        "CH03-CROP-07"
+      ],
+      "uncertainty": [
+        "Smaller source wording intervening within the printed line remains untranscribed; only the supported first-syllable correction is made.",
+        "Final consonant/type details around གསུམ and adjacent smaller source wording remain imperfectly clear. No alternate reading or note expansion is accepted."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-010",
+      "status": "closed",
+      "finding": "Native line2 introduces the title formula closing chapter three. Preserve its exact string under the chapter-colophon role. Native line2 expressly names chapter three and ends before following de nas. The following chapter is excluded from this release.",
+      "evidence_ids": [
+        "CH03-IMG-446",
+        "CH03-CROP-05"
+      ],
+      "uncertainty": []
+    }
+  ],
+  "anomalies": [
+    {
+      "id": "MTP-A000222-GRAPHIC",
+      "anchor_id": "MTP-S000222",
+      "kind": "electronic_chapter_marker",
+      "details": [
+        "@3 -> ༄༣; electronic control token, not presumed printed body text."
+      ]
+    }
+  ]
+}

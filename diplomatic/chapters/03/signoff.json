@@ -1,0 +1,22 @@
+{
+  "chapter": 3,
+  "approved": true,
+  "reviewer": "Coordinating agent; separate editorial review as named in FINAL-REVIEW.md",
+  "review": "Bounded queues and independent agent review checked; exact source readings, layers, evidence and remaining uncertainty accepted within declared scope. No independent human certification.",
+  "review_path": "diplomatic/chapters/03/FINAL-REVIEW.md",
+  "review_sha256": "01c4d3c6c95ac0a549b6ea944415cfc170c12cf8615bd565ab8891dc716a48e5",
+  "build_manifest_sha256": "e060be4a73c4214ee96bed03c5fe558eb8334bf86663332c9b6d267ad4eec30e",
+  "output_sha256": {
+    "reading.md": "b9c89575c48fc1dd6089cd76e2365e4de25542f45fb38e9639a40aee959dd43e",
+    "reading.json": "5161bfc83f01fcc877f72d07aa55daa16dfc222b4147f24a8d30158c890165ec",
+    "apparatus.json": "a3bd42f0e0ed1d4333541da6a267e7fb2419f8414b8f5a022406e6e6320ae57f",
+    "changes.json": "069cb7a1bfd7aa86c774c1fc204fc9cb452dbd38b28e943a18917d6cb15c9592",
+    "coverage.json": "5d924c097de470c307853aaa8c29fb8ba945b62f379475612c3c51b71ca526a9"
+  },
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  }
+}

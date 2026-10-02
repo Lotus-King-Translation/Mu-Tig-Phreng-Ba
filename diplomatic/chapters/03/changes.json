@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "chapter": 3,
+  "changes": [
+    {
+      "id": "CH03-D000315",
+      "anchor_id": "MTP-S000315",
+      "old": "སྙིན་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན",
+      "new": "སྙིང་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native line5 clearly reads initial སྙིང་པོ, correcting supplied སྙིན་པོ. The later སྙིང་པོ་བརྟན stays unchanged.",
+      "evidence_ids": [
+        "CH03-IMG-444",
+        "CH03-CROP-03",
+        "CH03-CROP-04"
+      ],
+      "uncertainty": [
+        "Smaller source wording intervening within the printed line remains untranscribed; only the supported first-syllable correction is made."
+      ],
+      "source_locus": "S309 across line3; S315 across line5; S316 across lines5–6, among smaller running notes."
+    },
+    {
+      "id": "CH03-D000340",
+      "anchor_id": "MTP-S000340",
+      "old": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས",
+      "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས",
+      "role": "chapter_colophon",
+      "treatment": "classify_layer",
+      "reason": "Native line2 introduces the title formula closing chapter three. Preserve its exact string under the chapter-colophon role.",
+      "evidence_ids": [
+        "CH03-IMG-446",
+        "CH03-CROP-05"
+      ],
+      "uncertainty": [],
+      "source_locus": "Chapter-three title and closing formula on line2; following de nas begins the next chapter and is excluded."
+    }
+  ],
+  "restorations": []
+}

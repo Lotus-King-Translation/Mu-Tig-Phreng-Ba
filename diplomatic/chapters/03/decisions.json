@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "id": "CH03-D000222",
+    "anchor_id": "MTP-S000222",
+    "old": "༄༣",
+    "new": "༄༣",
+    "role": "metadata",
+    "treatment": "classify_layer",
+    "reason": "Preserve the @3-derived electronic control token as metadata; it is not asserted to transcribe a printed ornament or numeral.",
+    "evidence_ids": [
+      "CH03-IMG-439"
+    ],
+    "uncertainty": [],
+    "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+  },
+  {
+    "id": "CH03-D000223",
+    "anchor_id": "MTP-S000223",
+    "old": "དེ་ནས་ཁྲོ་བོའི་རྒྱལ་པོ་རྟ་མགྲིན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏེ",
+    "new": "དེ་ནས་ཁྲོ་བོའི་རྒྱལ་པོ་རྟ་མགྲིན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏེ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The chapter opens with de nas khro boi rgyal po rta mgrin gyis across native lines3–4, after the preceding numbered closure. Retain the supplied main string.",
+    "evidence_ids": [
+      "CH03-IMG-439"
+    ],
+    "uncertainty": [
+      "Smaller running annotations alongside the chapter opening remain untranscribed; source punctuation is not silently supplied."
+    ],
+    "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+  },
+  {
+    "id": "CH03-D000228",
+    "anchor_id": "MTP-S000228",
+    "old": "མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས",
+    "new": "མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The standing sentence is visible in the main sequence on native line5. Preserve its exact supplied wording and electronic segmentation.",
+    "evidence_ids": [
+      "CH03-IMG-439"
+    ],
+    "uncertainty": [
+      "Smaller intervening source wording is not expanded or merged into the main reading."
+    ],
+    "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+  },
+  {
+    "id": "CH03-D000229",
+    "anchor_id": "MTP-S000229",
+    "old": "སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས",
+    "new": "སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "A compact ritual formula followed by sgra brjod nas is printed in the expected sequence. Preserve supplied sar ba dus ha without Sanskrit reconstruction or inferred stack normalization.",
+    "evidence_ids": [
+      "CH03-IMG-439",
+      "CH03-CROP-06"
+    ],
+    "uncertainty": [
+      "The compact glyph/stack details of the formula are not securely resolved. Supplied སར་བ་འདུས་ཧ is retained; it is not certified as an exact diplomatic encoding of every printed stack."
+    ],
+    "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+  },
+  {
+    "id": "CH03-D000230",
+    "anchor_id": "MTP-S000230",
+    "old": "འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ",
+    "new": "འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "The address to the gathered assembly follows the formula at native line6 left; retain the exact supplied string.",
+    "evidence_ids": [
+      "CH03-IMG-439"
+    ],
+    "uncertainty": [],
+    "source_locus": "Chapter-two closing then chapter-three opening on lines3–4; standing/formula/address sequence at lines5–6."
+  },
+  {
+    "id": "CH03-D000309",
+    "anchor_id": "MTP-S000309",
+    "old": "ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ",
+    "new": "ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Native line3 supports the contracted-looking ལུག་རྒྱུད. Preserve this source form; do not expand it to a smoother lu gu rgyud.",
+    "evidence_ids": [
+      "CH03-IMG-444",
+      "CH03-CROP-03",
+      "CH03-CROP-04"
+    ],
+    "uncertainty": [],
+    "source_locus": "S309 across line3; S315 across line5; S316 across lines5–6, among smaller running notes."
+  },
+  {
+    "id": "CH03-D000315",
+    "anchor_id": "MTP-S000315",
+    "old": "སྙིན་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན",
+    "new": "སྙིང་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "Native line5 clearly reads initial སྙིང་པོ, correcting supplied སྙིན་པོ. The later སྙིང་པོ་བརྟན stays unchanged.",
+    "evidence_ids": [
+      "CH03-IMG-444",
+      "CH03-CROP-03",
+      "CH03-CROP-04"
+    ],
+    "uncertainty": [
+      "Smaller source wording intervening within the printed line remains untranscribed; only the supported first-syllable correction is made."
+    ],
+    "source_locus": "S309 across line3; S315 across line5; S316 across lines5–6, among smaller running notes."
+  },
+  {
+    "id": "CH03-D000316",
+    "anchor_id": "MTP-S000316",
+    "old": "ངེས་པའི་གསུམ་མན་ངག་འདི",
+    "new": "ངེས་པའི་གསུམ་མན་ངག་འདི",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The verse spans native lines5–6. Preserve supplied གསུམ and avoid changing a numeral on semantic grounds or from an uncertain alternative impression.",
+    "evidence_ids": [
+      "CH03-IMG-444",
+      "CH03-CROP-03",
+      "CH03-CROP-04",
+      "CH03-CROP-07"
+    ],
+    "uncertainty": [
+      "Final consonant/type details around གསུམ and adjacent smaller source wording remain imperfectly clear. No alternate reading or note expansion is accepted."
+    ],
+    "source_locus": "S309 across line3; S315 across line5; S316 across lines5–6, among smaller running notes."
+  },
+  {
+    "id": "CH03-D000340",
+    "anchor_id": "MTP-S000340",
+    "old": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས",
+    "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "Native line2 introduces the title formula closing chapter three. Preserve its exact string under the chapter-colophon role.",
+    "evidence_ids": [
+      "CH03-IMG-446",
+      "CH03-CROP-05"
+    ],
+    "uncertainty": [],
+    "source_locus": "Chapter-three title and closing formula on line2; following de nas begins the next chapter and is excluded."
+  },
+  {
+    "id": "CH03-D000341",
+    "anchor_id": "MTP-S000341",
+    "old": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ",
+    "new": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "Native line2 expressly names chapter three and ends before following de nas. The following chapter is excluded from this release.",
+    "evidence_ids": [
+      "CH03-IMG-446",
+      "CH03-CROP-05"
+    ],
+    "uncertainty": [],
+    "source_locus": "Chapter-three title and closing formula on line2; following de nas begins the next chapter and is excluded."
+  }
+]
