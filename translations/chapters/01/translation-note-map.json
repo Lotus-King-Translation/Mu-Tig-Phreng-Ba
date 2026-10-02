@@ -1,0 +1,319 @@
+[
+  {
+    "id": "T01-001",
+    "pair_ids": [
+      "MTP-000002",
+      "MTP-000005",
+      "MTP-000030"
+    ],
+    "golden_ids": [
+      "MTP-S000004",
+      "MTP-S000008",
+      "MTP-S000096"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-002",
+    "pair_ids": [
+      "MTP-000006",
+      "MTP-000008"
+    ],
+    "golden_ids": [
+      "MTP-S000009",
+      "MTP-S000011",
+      "MTP-S000014"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-003",
+    "pair_ids": [
+      "MTP-000007",
+      "MTP-000015"
+    ],
+    "golden_ids": [
+      "MTP-S000010",
+      "MTP-S000024"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T01-004",
+    "pair_ids": [
+      "MTP-000008"
+    ],
+    "golden_ids": [
+      "MTP-S000012",
+      "MTP-S000013",
+      "MTP-S000014"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T01-005",
+    "pair_ids": [
+      "MTP-000010"
+    ],
+    "golden_ids": [
+      "MTP-S000016",
+      "MTP-S000017"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T01-006",
+    "pair_ids": [
+      "MTP-000011",
+      "MTP-000024"
+    ],
+    "golden_ids": [
+      "MTP-S000018",
+      "MTP-S000019",
+      "MTP-S000070"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-007",
+    "pair_ids": [
+      "MTP-000012"
+    ],
+    "golden_ids": [
+      "MTP-S000020",
+      "MTP-S000021"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T01-008",
+    "pair_ids": [
+      "MTP-000014"
+    ],
+    "golden_ids": [
+      "MTP-S000023"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-009",
+    "pair_ids": [
+      "MTP-000015"
+    ],
+    "golden_ids": [
+      "MTP-S000025",
+      "MTP-S000026"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-010",
+    "pair_ids": [
+      "MTP-000016",
+      "MTP-000019"
+    ],
+    "golden_ids": [
+      "MTP-S000027",
+      "MTP-S000028",
+      "MTP-S000029",
+      "MTP-S000030",
+      "MTP-S000031",
+      "MTP-S000032",
+      "MTP-S000033",
+      "MTP-S000041"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-011",
+    "pair_ids": [
+      "MTP-000016",
+      "MTP-000017",
+      "MTP-000019",
+      "MTP-000020",
+      "MTP-000021",
+      "MTP-000024",
+      "MTP-000025",
+      "MTP-000029"
+    ],
+    "golden_ids": [
+      "MTP-S000027",
+      "MTP-S000033",
+      "MTP-S000034",
+      "MTP-S000037",
+      "MTP-S000039",
+      "MTP-S000050",
+      "MTP-S000053",
+      "MTP-S000062",
+      "MTP-S000077",
+      "MTP-S000080",
+      "MTP-S000094",
+      "MTP-S000095"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T01-012",
+    "pair_ids": [
+      "MTP-000019"
+    ],
+    "golden_ids": [
+      "MTP-S000039",
+      "MTP-S000040",
+      "MTP-S000041",
+      "MTP-S000042",
+      "MTP-S000043",
+      "MTP-S000044",
+      "MTP-S000045",
+      "MTP-S000046",
+      "MTP-S000047",
+      "MTP-S000048",
+      "MTP-S000049"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-013",
+    "pair_ids": [
+      "MTP-000020"
+    ],
+    "golden_ids": [
+      "MTP-S000050",
+      "MTP-S000051",
+      "MTP-S000052"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T01-014",
+    "pair_ids": [
+      "MTP-000021",
+      "MTP-000023"
+    ],
+    "golden_ids": [
+      "MTP-S000053",
+      "MTP-S000054",
+      "MTP-S000055",
+      "MTP-S000056",
+      "MTP-S000057",
+      "MTP-S000059",
+      "MTP-S000060",
+      "MTP-S000061"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-015",
+    "pair_ids": [
+      "MTP-000024"
+    ],
+    "golden_ids": [
+      "MTP-S000072"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-016",
+    "pair_ids": [
+      "MTP-000010",
+      "MTP-000019",
+      "MTP-000020",
+      "MTP-000024"
+    ],
+    "golden_ids": [
+      "MTP-S000017",
+      "MTP-S000039",
+      "MTP-S000050",
+      "MTP-S000062",
+      "MTP-S000063",
+      "MTP-S000066",
+      "MTP-S000067",
+      "MTP-S000068",
+      "MTP-S000069",
+      "MTP-S000071",
+      "MTP-S000073",
+      "MTP-S000074",
+      "MTP-S000075",
+      "MTP-S000076"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-017",
+    "pair_ids": [
+      "MTP-000025",
+      "MTP-000026",
+      "MTP-000027",
+      "MTP-000029"
+    ],
+    "golden_ids": [
+      "MTP-S000078",
+      "MTP-S000079",
+      "MTP-S000080",
+      "MTP-S000081",
+      "MTP-S000082",
+      "MTP-S000083",
+      "MTP-S000085",
+      "MTP-S000086",
+      "MTP-S000087",
+      "MTP-S000088",
+      "MTP-S000089",
+      "MTP-S000091",
+      "MTP-S000092",
+      "MTP-S000093",
+      "MTP-S000094"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T01-018",
+    "pair_ids": [
+      "MTP-000027"
+    ],
+    "golden_ids": [
+      "MTP-S000084"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T01-019",
+    "pair_ids": [
+      "MTP-000029"
+    ],
+    "golden_ids": [
+      "MTP-S000092"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T01-020",
+    "pair_ids": [
+      "MTP-000030"
+    ],
+    "golden_ids": [
+      "MTP-S000096",
+      "MTP-S000097"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  }
+]

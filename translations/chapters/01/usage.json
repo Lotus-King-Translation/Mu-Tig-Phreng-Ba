@@ -1,0 +1,1995 @@
+[
+  {
+    "id": "T01-U001",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000010",
+        "golden_id": "MTP-S000016",
+        "exact_tibetan_span": "དེ་ལས་དེ་མ་དག་པ་ལས་འདི་ལྟར་སྣང་བའི་ཆོ་འཕྲུལ་ཆེན་པོ་ཆེར་བྱུང་སྟེ"
+      }
+    ],
+    "attested_form": "ཆོ་འཕྲུལ",
+    "canonical_entry": {
+      "Tibetan": "ཆོ་འཕྲུལ་",
+      "English": "Magical display",
+      "provenance": "G, line 29"
+    },
+    "english_realization": "magical display",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U002",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000011",
+        "golden_id": "MTP-S000019",
+        "exact_tibetan_span": "སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ"
+      },
+      {
+        "pair_id": "MTP-000023",
+        "golden_id": "MTP-S000060",
+        "exact_tibetan_span": "རྟོག་པ་དང"
+      }
+    ],
+    "attested_form": "རྟོག་པ",
+    "canonical_entry": {
+      "Tibetan": "རྟོག་པ་",
+      "English": "Conceptual thought",
+      "provenance": "G, line 46; Related mappings: G lines 45, 139, 204; U1, rules 1, 4 and 7"
+    },
+    "english_realization": "conceptual thoughts; conceptual thought",
+    "category": "grammatical",
+    "condition_evidence": "Plural conceptual thoughts follows དུ་མ in S19; S60 retains singular/mass canonical form. Do not match the shorter རྟོག entry inside this whole expression.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U003",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000010",
+        "golden_id": "MTP-S000016",
+        "exact_tibetan_span": "དེ་ལས་དེ་མ་དག་པ་ལས་འདི་ལྟར་སྣང་བའི་ཆོ་འཕྲུལ་ཆེན་པོ་ཆེར་བྱུང་སྟེ"
+      },
+      {
+        "pair_id": "MTP-000011",
+        "golden_id": "MTP-S000018",
+        "exact_tibetan_span": "དེའི་ཚེ་སྣང་བ་འདུ་བྱེད་ཀྱི་རྒྱལ་པོ"
+      },
+      {
+        "pair_id": "MTP-000011",
+        "golden_id": "MTP-S000019",
+        "exact_tibetan_span": "སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ"
+      },
+      {
+        "pair_id": "MTP-000012",
+        "golden_id": "MTP-S000020",
+        "exact_tibetan_span": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས"
+      },
+      {
+        "pair_id": "MTP-000020",
+        "golden_id": "MTP-S000050",
+        "exact_tibetan_span": "ཕྱི་ཡུལ་ལ་སྣང་བ་འདུལ་བའི་འཁོར་ཐུབ་པ་དྲུག་དང"
+      },
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000062",
+        "exact_tibetan_span": "དེའི་སྣང་བའི་འཁོར་འདི་ལྟ་སྟེ"
+      },
+      {
+        "pair_id": "MTP-000029",
+        "golden_id": "MTP-S000094",
+        "exact_tibetan_span": "ཨ་ཏི་ལ་སོགས་ཏེ་དཔག་ཏུ་མེད་པའི་འཁོར་སྣ་ཚོགས་སུ་སྣང་བ་དང"
+      }
+    ],
+    "attested_form": "སྣང་བ",
+    "canonical_entry": {
+      "Tibetan": "སྣང་བ་",
+      "English": "Appearance",
+      "provenance": "G, line 64; Related mappings: G lines 32, 33, 37, 65, 94, 224; G, lines 32–33, 37, 64–65 and 94; G observation: shared English output retained; relationship rationale not supplied"
+    },
+    "english_realization": "appearance; appearances; appearing",
+    "category": "grammatical",
+    "condition_evidence": "Appearance remains identifiable; appearing in S94 realizes the verbal appearing-as relation, not identity. Repeated instances of appearance in S19 are all retained.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U004",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000054",
+        "exact_tibetan_span": "མ་རིག་པ་དང"
+      }
+    ],
+    "attested_form": "མ་རིག་པ",
+    "canonical_entry": {
+      "Tibetan": "མ་རིག་པ་",
+      "English": "Ignorance",
+      "provenance": "G, line 84; Related mappings: G lines 6, 128"
+    },
+    "english_realization": "ignorance",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U005",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000023",
+        "golden_id": "MTP-S000059",
+        "exact_tibetan_span": "འཛིན་པ་དང"
+      }
+    ],
+    "attested_form": "འཛིན་པ",
+    "canonical_entry": {
+      "Tibetan": "འཛིན་པ་",
+      "English": "Apprehending subject",
+      "provenance": "G, line 97; Related mappings: G lines 95, 96; U1, rule 5"
+    },
+    "english_realization": "apprehending subject",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U006",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000056",
+        "exact_tibetan_span": "ཡིད་དང"
+      }
+    ],
+    "attested_form": "ཡིད",
+    "canonical_entry": {
+      "Tibetan": "ཡིད་",
+      "English": "Mental faculty",
+      "provenance": "G, line 99; Related mappings: G lines 79, 100, 101, 137; U2, terminology preservation"
+    },
+    "english_realization": "mental faculty",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U007",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000047",
+        "exact_tibetan_span": "ཡེ་ཤེས་ཀྱི་གཤིན་རྗེ་དང"
+      }
+    ],
+    "attested_form": "ཡེ་ཤེས",
+    "canonical_entry": {
+      "Tibetan": "ཡེ་ཤེས་",
+      "English": "Primordial knowing",
+      "provenance": "G, line 104; Related mappings: G lines 11, 110, 139, 218; U1, rules 2, 4 and 8"
+    },
+    "english_realization": "primordial knowing",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U008",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000029",
+        "exact_tibetan_span": "རིག་པ་རང་སྣང་གི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000017",
+        "golden_id": "MTP-S000037",
+        "exact_tibetan_span": "ནང་རང་སྣང་གི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང"
+      }
+    ],
+    "attested_form": "རང་སྣང",
+    "canonical_entry": {
+      "Tibetan": "རང་སྣང་",
+      "English": "Self-appearance",
+      "provenance": "G, line 109"
+    },
+    "english_realization": "self-appearance",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U009",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000006",
+        "golden_id": "MTP-S000009",
+        "exact_tibetan_span": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ"
+      },
+      {
+        "pair_id": "MTP-000008",
+        "golden_id": "MTP-S000013",
+        "exact_tibetan_span": "འཁྲུལ་པ་མེད་པའི་རིག་པ"
+      },
+      {
+        "pair_id": "MTP-000011",
+        "golden_id": "MTP-S000019",
+        "exact_tibetan_span": "སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ"
+      },
+      {
+        "pair_id": "MTP-000012",
+        "golden_id": "MTP-S000020",
+        "exact_tibetan_span": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000027",
+        "exact_tibetan_span": "རིག་པ་རྡོ་རྗེ་རྣོན་པོའི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000028",
+        "exact_tibetan_span": "རིག་པ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད་ཀྱི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000029",
+        "exact_tibetan_span": "རིག་པ་རང་སྣང་གི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000030",
+        "exact_tibetan_span": "རིག་པ་ཅོག་བཞག་གི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000031",
+        "exact_tibetan_span": "རིག་པ་ཐོགས་པ་མེད་པའི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000032",
+        "exact_tibetan_span": "རིག་པ་གཅེར་སྣང་གི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000033",
+        "exact_tibetan_span": "དེ་ཐམས་ཅད་ཀྱང་རིག་པ་ངོ་བོའི་སྐུ་ལས་མ་གཡོས་ཏེ"
+      }
+    ],
+    "attested_form": "རིག་པ",
+    "canonical_entry": {
+      "Tibetan": "རིག་པ་",
+      "English": "Awareness",
+      "provenance": "G, line 115; Related mappings: G lines 63, 94, 132, 137; U2, terminology preservation"
+    },
+    "english_realization": "awareness",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U010",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000064",
+        "exact_tibetan_span": "ཤེས་པ་དང"
+      }
+    ],
+    "attested_form": "ཤེས་པ",
+    "canonical_entry": {
+      "Tibetan": "ཤེས་པ་",
+      "English": "Knowing",
+      "provenance": "G, line 132; Related mappings: G lines 63, 115, 137, 169; U2, terminology preservation"
+    },
+    "english_realization": "knowing",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U011",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000055",
+        "exact_tibetan_span": "སེམས་དང"
+      }
+    ],
+    "attested_form": "སེམས",
+    "canonical_entry": {
+      "Tibetan": "སེམས་",
+      "English": "Ordinary mind",
+      "provenance": "G, line 137; Related mappings: G lines 63, 79, 99, 115, 120, 132, 169; U2, discussion of 2.1; T, pp. 276 and 286 (lines 3 and 23)"
+    },
+    "english_realization": "ordinary mind",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U012",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000012",
+        "golden_id": "MTP-S000020",
+        "exact_tibetan_span": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས"
+      }
+    ],
+    "attested_form": "གཞི",
+    "canonical_entry": {
+      "Tibetan": "གཞི་",
+      "English": "The Ground",
+      "provenance": "G, line 144; Related mappings: G lines 145"
+    },
+    "english_realization": "the Ground",
+    "category": "grammatical",
+    "condition_evidence": "The lexical assignment is unchanged. Lower-case article and preserved internal capital are a pending presentation choice recorded once; no match is inferred inside གླེང་གཞི.",
+    "approval_or_note_ids": [
+      "T01-007"
+    ],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U013",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000033",
+        "exact_tibetan_span": "དེ་ཐམས་ཅད་ཀྱང་རིག་པ་ངོ་བོའི་སྐུ་ལས་མ་གཡོས་ཏེ"
+      },
+      {
+        "pair_id": "MTP-000017",
+        "golden_id": "MTP-S000034",
+        "exact_tibetan_span": "ངོ་བོའི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང"
+      }
+    ],
+    "attested_form": "ངོ་བོ",
+    "canonical_entry": {
+      "Tibetan": "ངོ་བོ་",
+      "English": "Essence",
+      "provenance": "G, line 157; T, p. 286 (line 23); Related mappings: G lines 40, 178"
+    },
+    "english_realization": "essence",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U014",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000065",
+        "exact_tibetan_span": "དྲན་པ་དང"
+      }
+    ],
+    "attested_form": "དྲན་པ",
+    "canonical_entry": {
+      "Tibetan": "དྲན་པ་",
+      "English": "Mindfulness",
+      "provenance": "G, line 158; Related mappings: G lines 185, 186"
+    },
+    "english_realization": "mindfulness",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U015",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000014",
+        "golden_id": "MTP-S000023",
+        "exact_tibetan_span": "དེ་ནས་གསང་བའི་བདག་པོས་ཇི་ལྟར་གསུངས་པའི་དོན་ཁོང་དུ་ཆུད་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ"
+      }
+    ],
+    "attested_form": "དོན",
+    "canonical_entry": {
+      "Tibetan": "དོན་",
+      "English": "Meaning",
+      "provenance": "G, line 199; Related mappings: G lines 23, 55, 86, 200, 201"
+    },
+    "english_realization": "meaning",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U016",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000006",
+        "golden_id": "MTP-S000009",
+        "exact_tibetan_span": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ"
+      },
+      {
+        "pair_id": "MTP-000008",
+        "golden_id": "MTP-S000011",
+        "exact_tibetan_span": "ཀྱེ་མ་འཁྲུལ་པའི་བདག་ཉིད་ཆེན་པོ་རྣམས་ཉོན་ཅིག"
+      },
+      {
+        "pair_id": "MTP-000008",
+        "golden_id": "MTP-S000013",
+        "exact_tibetan_span": "འཁྲུལ་པ་མེད་པའི་རིག་པ"
+      },
+      {
+        "pair_id": "MTP-000008",
+        "golden_id": "MTP-S000014",
+        "exact_tibetan_span": "འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ"
+      },
+      {
+        "pair_id": "MTP-000010",
+        "golden_id": "MTP-S000017",
+        "exact_tibetan_span": "འཁྲུལ་པས་མ་བགོས་པའི་ཡུལ་སོ་སོར་ཤར་རོ"
+      },
+      {
+        "pair_id": "MTP-000012",
+        "golden_id": "MTP-S000020",
+        "exact_tibetan_span": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས"
+      },
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000053",
+        "exact_tibetan_span": "འཛིན་བྱེད་འཁྲུལ་པའི་འཁོར་འདི་ལྟ་སྟེ"
+      }
+    ],
+    "attested_form": "འཁྲུལ་པ",
+    "canonical_entry": {
+      "Tibetan": "འཁྲུལ་པ་",
+      "English": "Delusion",
+      "provenance": "G, line 203; Related mappings: G lines 54, 150, 151, 152"
+    },
+    "english_realization": "delusion",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U017",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000044",
+        "exact_tibetan_span": "བྱ་བ་དང་བྲལ་ཀྱི་རིགས་དང"
+      }
+    ],
+    "attested_form": "བྱ་བ",
+    "canonical_entry": {
+      "Tibetan": "བྱ་བ་",
+      "English": "Doing",
+      "provenance": "G, line 205; Related mappings: G lines 76; U1, rule 5; U2, discussion of 4.2"
+    },
+    "english_realization": "doing",
+    "category": "grammatical",
+    "condition_evidence": "The expressed doing/free-from relation is retained. The naming formula ཅེས་བྱ་བ in titles is a different construction and is not mechanically translated as doing.",
+    "approval_or_note_ids": [
+      "T01-012"
+    ],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U018",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000044",
+        "exact_tibetan_span": "བྱ་བ་དང་བྲལ་ཀྱི་རིགས་དང"
+      }
+    ],
+    "attested_form": "བྱ་བྲལ",
+    "canonical_entry": {
+      "Tibetan": "བྱ་བྲལ་",
+      "English": "Free from doing",
+      "provenance": "G, line 76; Related mappings: G lines 205; U1, rule 5; U2, discussion of 4.2"
+    },
+    "english_realization": "free from doing",
+    "category": "grammatical",
+    "condition_evidence": "Expanded source བྱ་བ་དང་བྲལ preserves both doing and separation; no conventional fifth-family label replaces it.",
+    "approval_or_note_ids": [
+      "T01-012"
+    ],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U019",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000020",
+        "golden_id": "MTP-S000051",
+        "exact_tibetan_span": "འགྲོ་བ་འདུལ་བའི་སྤྲུལ་པའི་སྐུ"
+      }
+    ],
+    "attested_form": "སྤྲུལ་པའི་སྐུ",
+    "canonical_entry": {
+      "Tibetan": "སྤྲུལ་པའི་སྐུ་",
+      "English": "Emanation embodiment",
+      "provenance": "G, line 221; Related mappings: G lines 222"
+    },
+    "english_realization": "emanation embodiments",
+    "category": "grammatical",
+    "condition_evidence": "Canonical whole expression takes plural with the following inconceivable quantity; not reduced to bodies.",
+    "approval_or_note_ids": [
+      "T01-013"
+    ],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U020",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000027",
+        "exact_tibetan_span": "རིག་པ་རྡོ་རྗེ་རྣོན་པོའི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000028",
+        "exact_tibetan_span": "རིག་པ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད་ཀྱི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000029",
+        "exact_tibetan_span": "རིག་པ་རང་སྣང་གི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000030",
+        "exact_tibetan_span": "རིག་པ་ཅོག་བཞག་གི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000031",
+        "exact_tibetan_span": "རིག་པ་ཐོགས་པ་མེད་པའི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000032",
+        "exact_tibetan_span": "རིག་པ་གཅེར་སྣང་གི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000033",
+        "exact_tibetan_span": "དེ་ཐམས་ཅད་ཀྱང་རིག་པ་ངོ་བོའི་སྐུ་ལས་མ་གཡོས་ཏེ"
+      }
+    ],
+    "attested_form": "སྐུ",
+    "canonical_entry": {
+      "Tibetan": "སྐུ་",
+      "English": "Embodiment",
+      "provenance": "G, line 222; Related mappings: G lines 10, 11, 30, 220, 221; U1, rule 2; G, lines 10–11 and 220–222"
+    },
+    "english_realization": "embodiment",
+    "category": "canonical",
+    "condition_evidence": "Applicable original assignment preserved; articles, number and prose case follow source grammar.",
+    "approval_or_note_ids": [],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U021",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000032",
+        "exact_tibetan_span": "རིག་པ་གཅེར་སྣང་གི་སྐུ་དང"
+      }
+    ],
+    "attested_form": "སྣང",
+    "canonical_entry": {
+      "Tibetan": "སྣང་",
+      "English": "Appearance",
+      "provenance": "G, line 224; Related mappings: G lines 64; G observation: shared English output retained; relationship rationale not supplied"
+    },
+    "english_realization": "appearance",
+    "category": "grammatical",
+    "condition_evidence": "The appearance component of the proposed whole expression naked appearance remains visible; do not substitute seeing.",
+    "approval_or_note_ids": [
+      "T01-010"
+    ],
+    "proposal_headword": null,
+    "status": "Established assignment or source-supported grammatical realization; not a glossary amendment"
+  },
+  {
+    "id": "T01-U022",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000002",
+        "golden_id": "MTP-S000004",
+        "exact_tibetan_span": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས"
+      },
+      {
+        "pair_id": "MTP-000005",
+        "golden_id": "MTP-S000008",
+        "exact_tibetan_span": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ"
+      },
+      {
+        "pair_id": "MTP-000030",
+        "golden_id": "MTP-S000096",
+        "exact_tibetan_span": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས"
+      }
+    ],
+    "attested_form": "རྒྱུད",
+    "canonical_entry": {
+      "Tibetan": "རྒྱུད་",
+      "English": "Continuum",
+      "Meaning and scope": "Keep the listed 'continuum' entry. Do not assume that the differently written རྒྱུན་ has already been assigned the same English technical term.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "",
+      "Rationale and sources": "G, line 188; U2, terminology preservation; G, coverage observation",
+      "Status and open questions": "Established; རྒྱུན་ is absent from the supplied glossary and requires its own reviewed treatment"
+    },
+    "english_realization": "tantra",
+    "category": "provisional",
+    "condition_evidence": "Text-title and chapter-colophon genre usage only; not a replacement for continuum in descriptions of a continuum. Related/collision checks: Canonical རྒྱུད → Continuum; distinguish whole ལུ་གུ་རྒྱུད → Vajra chains. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-001"
+    ],
+    "proposal_headword": "རྒྱུད་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U023",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000072",
+        "exact_tibetan_span": "སྒྲ་དང"
+      }
+    ],
+    "attested_form": "སྒྲ",
+    "canonical_entry": {
+      "Tibetan": "སྒྲ་",
+      "English": "Word",
+      "Meaning and scope": "",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "Component of: སྒྲ་དོན་; སྒྲ་དོན་འདྲེས་རུང་",
+      "Rationale and sources": "G, line 198; Related mappings: G lines 23, 200",
+      "Status and open questions": "Established"
+    },
+    "english_realization": "sounds",
+    "category": "provisional",
+    "condition_evidence": "Sensory-object enumeration between forms and smells, with hearing earlier in the same list. Related/collision checks: Canonical སྒྲ → Word; preserve སྒྲ་དོན and སྒྲ་དོན་འདྲེས་རུང. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-015"
+    ],
+    "proposal_headword": "སྒྲ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U024",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000006",
+        "golden_id": "MTP-S000009",
+        "exact_tibetan_span": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ"
+      }
+    ],
+    "attested_form": "བཅོམ་ལྡན་འདས",
+    "canonical_entry": null,
+    "english_realization": "Bhagavān",
+    "category": "provisional",
+    "condition_evidence": "Provisional conventional name for this honorific; not a reconstructed Sanskrit source reading. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-002"
+    ],
+    "proposal_headword": "བཅོམ་ལྡན་འདས་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U025",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000006",
+        "golden_id": "MTP-S000009",
+        "exact_tibetan_span": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ"
+      },
+      {
+        "pair_id": "MTP-000008",
+        "golden_id": "MTP-S000011",
+        "exact_tibetan_span": "ཀྱེ་མ་འཁྲུལ་པའི་བདག་ཉིད་ཆེན་པོ་རྣམས་ཉོན་ཅིག"
+      },
+      {
+        "pair_id": "MTP-000008",
+        "golden_id": "MTP-S000014",
+        "exact_tibetan_span": "འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ"
+      }
+    ],
+    "attested_form": "བདག་ཉིད",
+    "canonical_entry": null,
+    "english_realization": "identity",
+    "category": "provisional",
+    "condition_evidence": "These awareness/delusion constructions only; essential-character and personification alternatives remain open. Related/collision checks: Avoid reassignment of ངོ་བོ → Essence or སྐུ → Embodiment. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-002"
+    ],
+    "proposal_headword": "བདག་ཉིད་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U026",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000011",
+        "golden_id": "MTP-S000018",
+        "exact_tibetan_span": "དེའི་ཚེ་སྣང་བ་འདུ་བྱེད་ཀྱི་རྒྱལ་པོ"
+      },
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000070",
+        "exact_tibetan_span": "འདུ་བྱེད་དང"
+      }
+    ],
+    "attested_form": "འདུ་བྱེད",
+    "canonical_entry": null,
+    "english_realization": "form",
+    "category": "provisional",
+    "condition_evidence": "Provisional verbal family in king that forms appearance and that which forms; substantive technical definition unresolved. Related/collision checks: Keep distinct from བཟོ་བྱེད → Contriver, བྱ་བ → Doing, སྤྱོད་པ → Activity, འདུ་ཤེས → Perception and proposed གཟུགས → forms. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-006"
+    ],
+    "proposal_headword": "འདུ་བྱེད་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U027",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000012",
+        "golden_id": "MTP-S000020",
+        "exact_tibetan_span": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས"
+      }
+    ],
+    "attested_form": "ཞིང་ཁམས",
+    "canonical_entry": null,
+    "english_realization": "realm",
+    "category": "provisional",
+    "condition_evidence": "No buddha qualifier is supplied; locative/resultative relation remains uncertain. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-007"
+    ],
+    "proposal_headword": "ཞིང་ཁམས་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U028",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000014",
+        "golden_id": "MTP-S000023",
+        "exact_tibetan_span": "དེ་ནས་གསང་བའི་བདག་པོས་ཇི་ལྟར་གསུངས་པའི་དོན་ཁོང་དུ་ཆུད་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ"
+      }
+    ],
+    "attested_form": "གསང་བའི་བདག་པོ",
+    "canonical_entry": null,
+    "english_realization": "Lord of Secrets",
+    "category": "provisional",
+    "condition_evidence": "This speaker epithet only; no identification with a named figure added. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-008"
+    ],
+    "proposal_headword": "གསང་བའི་བདག་པོ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U029",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000015",
+        "golden_id": "MTP-S000026",
+        "exact_tibetan_span": "ཐུགས་ཙིཏྟའི་དཀྱིལ་འཁོར་ན"
+      }
+    ],
+    "attested_form": "ཐུགས",
+    "canonical_entry": null,
+    "english_realization": "heart",
+    "category": "provisional",
+    "condition_evidence": "Provisional in the single thugs-citta construction; mind-related interpretation remains open. Related/collision checks: Standalone absent; do not infer from ཐུགས་རྗེ → Compassionate responsiveness or replace དགོངས་པ → Enlightened intent; distinguish ordinary mind, conceptual mind and mental faculty. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-009"
+    ],
+    "proposal_headword": "ཐུགས་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U030",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000015",
+        "golden_id": "MTP-S000026",
+        "exact_tibetan_span": "ཐུགས་ཙིཏྟའི་དཀྱིལ་འཁོར་ན"
+      }
+    ],
+    "attested_form": "ཙིཏྟ",
+    "canonical_entry": null,
+    "english_realization": "citta",
+    "category": "provisional",
+    "condition_evidence": "Conventional Roman representation of this Tibetan transliterated term only; not a reconstructed Sanskrit title or source correction. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-009"
+    ],
+    "proposal_headword": "ཙིཏྟ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U031",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000015",
+        "golden_id": "MTP-S000026",
+        "exact_tibetan_span": "ཐུགས་ཙིཏྟའི་དཀྱིལ་འཁོར་ན"
+      }
+    ],
+    "attested_form": "དཀྱིལ་འཁོར",
+    "canonical_entry": null,
+    "english_realization": "maṇḍala",
+    "category": "provisional",
+    "condition_evidence": "This locative whole expression; do not decompose by assigning retinue to its final component. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-009"
+    ],
+    "proposal_headword": "དཀྱིལ་འཁོར་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U032",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000027",
+        "exact_tibetan_span": "རིག་པ་རྡོ་རྗེ་རྣོན་པོའི་སྐུ་དང"
+      },
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000041",
+        "exact_tibetan_span": "རྡོ་རྗེའི་རིགས་དང"
+      }
+    ],
+    "attested_form": "རྡོ་རྗེ",
+    "canonical_entry": null,
+    "english_realization": "vajra",
+    "category": "provisional",
+    "condition_evidence": "Provisional representation in sharp-vajra embodiment and family; proper names and longer expressions have separate scope. Related/collision checks: Existing རྡོ་རྗེའི་གནས་བཅུ་གཅིག → Eleven vajra topics; ལུ་གུ་རྒྱུད → Vajra chains. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-010"
+    ],
+    "proposal_headword": "རྡོ་རྗེ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U033",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000028",
+        "exact_tibetan_span": "རིག་པ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད་ཀྱི་སྐུ་དང"
+      }
+    ],
+    "attested_form": "རྡོ་རྗེ་ལུ་གུ་རྒྱུད",
+    "canonical_entry": null,
+    "english_realization": "vajra chains",
+    "category": "provisional",
+    "condition_evidence": "Proposed whole-expression realization preserves canonical vajra chains while representing source explicit vajra once; overlap needs approval. Related/collision checks: Canonical ལུ་གུ་རྒྱུད → Vajra chains already contains vajra; non-visionary delusion-chain exception not invoked. Exact-English matches: [{\"Tibetan\": \"ལུ་གུ་རྒྱུད་\", \"English\": \"Vajra chains\"}].",
+    "approval_or_note_ids": [
+      "T01-010"
+    ],
+    "proposal_headword": "རྡོ་རྗེ་ལུ་གུ་རྒྱུད་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U034",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000030",
+        "exact_tibetan_span": "རིག་པ་ཅོག་བཞག་གི་སྐུ་དང"
+      }
+    ],
+    "attested_form": "ཅོག་བཞག",
+    "canonical_entry": null,
+    "english_realization": "leaving as it is",
+    "category": "provisional",
+    "condition_evidence": "Proposed form-linked usage; English awareness left as it is realizes the nominal construction. No source spelling correction. Related/collision checks: Canonical differently written ཅོག་གཞག → Leaving as it is; distinguish ལྷུག་པ → Letting be and ཅེར་གཞག → Naked resting. Exact-English matches: [{\"Tibetan\": \"ཅོག་གཞག་\", \"English\": \"Leaving as it is\"}].",
+    "approval_or_note_ids": [
+      "T01-010"
+    ],
+    "proposal_headword": "ཅོག་བཞག་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U035",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000031",
+        "exact_tibetan_span": "རིག་པ་ཐོགས་པ་མེད་པའི་སྐུ་དང"
+      }
+    ],
+    "attested_form": "ཐོགས་པ་མེད་པ",
+    "canonical_entry": null,
+    "english_realization": "unobstructed",
+    "category": "provisional",
+    "condition_evidence": "Modifier of awareness in the embodiment list only. Related/collision checks: Do not collapse མ་འགགས་པ → Unceasing or ཟང་ཐལ → Unimpeded penetration. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-010"
+    ],
+    "proposal_headword": "ཐོགས་པ་མེད་པ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U036",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000016",
+        "golden_id": "MTP-S000032",
+        "exact_tibetan_span": "རིག་པ་གཅེར་སྣང་གི་སྐུ་དང"
+      }
+    ],
+    "attested_form": "གཅེར་སྣང",
+    "canonical_entry": null,
+    "english_realization": "naked appearance",
+    "category": "provisional",
+    "condition_evidence": "Appearance modifier in the embodiment list only. Related/collision checks: Preserve སྣང → Appearance; distinguish ཅེར་མཐོང → Naked seeing and ཅེར་གཞག → Naked resting. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-010"
+    ],
+    "proposal_headword": "གཅེར་སྣང་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U037",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000017",
+        "golden_id": "MTP-S000034",
+        "exact_tibetan_span": "ངོ་བོའི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང"
+      },
+      {
+        "pair_id": "MTP-000017",
+        "golden_id": "MTP-S000037",
+        "exact_tibetan_span": "ནང་རང་སྣང་གི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང"
+      },
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000039",
+        "exact_tibetan_span": "ཕྱི་ཡུལ་གྱི་འཁོར་འདི་ལྟ་སྟེ"
+      },
+      {
+        "pair_id": "MTP-000020",
+        "golden_id": "MTP-S000050",
+        "exact_tibetan_span": "ཕྱི་ཡུལ་ལ་སྣང་བ་འདུལ་བའི་འཁོར་ཐུབ་པ་དྲུག་དང"
+      },
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000053",
+        "exact_tibetan_span": "འཛིན་བྱེད་འཁྲུལ་པའི་འཁོར་འདི་ལྟ་སྟེ"
+      },
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000062",
+        "exact_tibetan_span": "དེའི་སྣང་བའི་འཁོར་འདི་ལྟ་སྟེ"
+      },
+      {
+        "pair_id": "MTP-000025",
+        "golden_id": "MTP-S000080",
+        "exact_tibetan_span": "བྱང་ཆུབ་སེམས་དཔའི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང"
+      },
+      {
+        "pair_id": "MTP-000029",
+        "golden_id": "MTP-S000094",
+        "exact_tibetan_span": "ཨ་ཏི་ལ་སོགས་ཏེ་དཔག་ཏུ་མེད་པའི་འཁོར་སྣ་ཚོགས་སུ་སྣང་བ་དང"
+      }
+    ],
+    "attested_form": "འཁོར",
+    "canonical_entry": null,
+    "english_realization": "retinue",
+    "category": "provisional",
+    "condition_evidence": "Assembly/contextual relational grouping, including appearances and faculties; not a general cycle rendering. Related/collision checks: Do not decompose དཀྱིལ་འཁོར by this proposed standalone usage. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-011"
+    ],
+    "proposal_headword": "འཁོར་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U038",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000040",
+        "exact_tibetan_span": "དེ་བཞིན་གཤེགས་པའི་རིགས་དང"
+      },
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000041",
+        "exact_tibetan_span": "རྡོ་རྗེའི་རིགས་དང"
+      },
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000042",
+        "exact_tibetan_span": "རིན་པོ་ཆེའི་རིགས་དང"
+      },
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000043",
+        "exact_tibetan_span": "པད་མའི་རིགས་དང"
+      },
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000044",
+        "exact_tibetan_span": "བྱ་བ་དང་བྲལ་ཀྱི་རིགས་དང"
+      }
+    ],
+    "attested_form": "རིགས",
+    "canonical_entry": null,
+    "english_realization": "family",
+    "category": "provisional",
+    "condition_evidence": "The five enumerated external-retinue families only. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-012"
+    ],
+    "proposal_headword": "རིགས་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U039",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000040",
+        "exact_tibetan_span": "དེ་བཞིན་གཤེགས་པའི་རིགས་དང"
+      }
+    ],
+    "attested_form": "དེ་བཞིན་གཤེགས་པ",
+    "canonical_entry": null,
+    "english_realization": "Tathāgata",
+    "category": "provisional",
+    "condition_evidence": "Conventional name in this family designation; no inferred Sanskrit witness. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-012"
+    ],
+    "proposal_headword": "དེ་བཞིན་གཤེགས་པ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U040",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000045",
+        "exact_tibetan_span": "ཁྲོ་བོ་ཕྱག་ན་རྡོ་རྗེ་དང"
+      }
+    ],
+    "attested_form": "ཕྱག་ན་རྡོ་རྗེ",
+    "canonical_entry": null,
+    "english_realization": "Vajrapāṇi",
+    "category": "provisional",
+    "condition_evidence": "Conventional proper-name representation in the wrathful figure list. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-012"
+    ],
+    "proposal_headword": "ཕྱག་ན་རྡོ་རྗེ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U041",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000046",
+        "exact_tibetan_span": "རྟ་མགྲིན་དང"
+      }
+    ],
+    "attested_form": "རྟ་མགྲིན",
+    "canonical_entry": null,
+    "english_realization": "Hayagrīva",
+    "category": "provisional",
+    "condition_evidence": "Conventional proper-name representation in this figure list. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-012"
+    ],
+    "proposal_headword": "རྟ་མགྲིན་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U042",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000047",
+        "exact_tibetan_span": "ཡེ་ཤེས་ཀྱི་གཤིན་རྗེ་དང"
+      }
+    ],
+    "attested_form": "གཤིན་རྗེ",
+    "canonical_entry": null,
+    "english_realization": "Lord of Death",
+    "category": "provisional",
+    "condition_evidence": "This named figure, qualified by primordial knowing. Related/collision checks: Keep ཡེ་ཤེས → Primordial knowing, rather than wisdom, visible. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-012"
+    ],
+    "proposal_headword": "གཤིན་རྗེ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U043",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000048",
+        "exact_tibetan_span": "ལས་ཀྱི་མཁའ་འགྲོ་མའི་ཚོགས་ལ་སོགས་ཏེ"
+      }
+    ],
+    "attested_form": "མཁའ་འགྲོ་མ",
+    "canonical_entry": null,
+    "english_realization": "ḍākinī",
+    "category": "provisional",
+    "condition_evidence": "Conventional name for the feminine plural class in the hosts here. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-012"
+    ],
+    "proposal_headword": "མཁའ་འགྲོ་མ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U044",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000048",
+        "exact_tibetan_span": "ལས་ཀྱི་མཁའ་འགྲོ་མའི་ཚོགས་ལ་སོགས་ཏེ"
+      }
+    ],
+    "attested_form": "ལས",
+    "canonical_entry": null,
+    "english_realization": "action",
+    "category": "provisional",
+    "condition_evidence": "Qualifier in hosts of dakinis of action only; karmic interpretation remains open. Related/collision checks: Do not replace བྱ་བ → Doing; existing ལས་ཀྱི་རླུང → Karmic wind does not establish every standalone occurrence. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-012"
+    ],
+    "proposal_headword": "ལས་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U045",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000020",
+        "golden_id": "MTP-S000050",
+        "exact_tibetan_span": "ཕྱི་ཡུལ་ལ་སྣང་བ་འདུལ་བའི་འཁོར་ཐུབ་པ་དྲུག་དང"
+      }
+    ],
+    "attested_form": "ཐུབ་པ",
+    "canonical_entry": null,
+    "english_realization": "sage",
+    "category": "provisional",
+    "condition_evidence": "Six figures are expressed; neither their names nor their distribution among realms is supplied. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-013"
+    ],
+    "proposal_headword": "ཐུབ་པ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U046",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000057",
+        "exact_tibetan_span": "ཉོན་མོངས་པ་ལྔ་དང"
+      }
+    ],
+    "attested_form": "ཉོན་མོངས་པ",
+    "canonical_entry": null,
+    "english_realization": "affliction",
+    "category": "provisional",
+    "condition_evidence": "The five afflictions in fixed golden text; print-only names stay in the source apparatus. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-014"
+    ],
+    "proposal_headword": "ཉོན་མོངས་པ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U047",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000023",
+        "golden_id": "MTP-S000061",
+        "exact_tibetan_span": "མི་དགེ་བ་ལ་སོགས་པ་དང"
+      }
+    ],
+    "attested_form": "མི་དགེ་བ",
+    "canonical_entry": null,
+    "english_realization": "nonvirtue",
+    "category": "provisional",
+    "condition_evidence": "Negative member of the deluded retinue list, not a universal nominalization decision. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-014"
+    ],
+    "proposal_headword": "མི་དགེ་བ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U048",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000010",
+        "golden_id": "MTP-S000017",
+        "exact_tibetan_span": "འཁྲུལ་པས་མ་བགོས་པའི་ཡུལ་སོ་སོར་ཤར་རོ"
+      },
+      {
+        "pair_id": "MTP-000019",
+        "golden_id": "MTP-S000039",
+        "exact_tibetan_span": "ཕྱི་ཡུལ་གྱི་འཁོར་འདི་ལྟ་སྟེ"
+      },
+      {
+        "pair_id": "MTP-000020",
+        "golden_id": "MTP-S000050",
+        "exact_tibetan_span": "ཕྱི་ཡུལ་ལ་སྣང་བ་འདུལ་བའི་འཁོར་ཐུབ་པ་དྲུག་དང"
+      },
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000063",
+        "exact_tibetan_span": "ཡུལ་དང"
+      }
+    ],
+    "attested_form": "ཡུལ",
+    "canonical_entry": null,
+    "english_realization": "object",
+    "category": "provisional",
+    "condition_evidence": "Provisional object/domain reading; locative relation in S17 and S50 remains open. Related/collision checks: Do not silently add apprehended from distinct གཟུང་བ → Apprehended object. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-016"
+    ],
+    "proposal_headword": "ཡུལ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U049",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000069",
+        "exact_tibetan_span": "མྱོན་བྱེད་དང"
+      }
+    ],
+    "attested_form": "མྱོན་བྱེད",
+    "canonical_entry": null,
+    "english_realization": "that which tastes",
+    "category": "provisional",
+    "condition_evidence": "Agentive member following seeing, hearing and smelling; general experiencing alternative remains open. Related/collision checks: Do not silently reassign ཉམས → Experience or ཉམས་མྱོང → Experiential acquaintance. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-016"
+    ],
+    "proposal_headword": "མྱོན་བྱེད་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U050",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000071",
+        "exact_tibetan_span": "གཟུགས་དང"
+      }
+    ],
+    "attested_form": "གཟུགས",
+    "canonical_entry": null,
+    "english_realization": "forms",
+    "category": "provisional",
+    "condition_evidence": "Sensory-object list member; distinct from preceding forming function. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-016"
+    ],
+    "proposal_headword": "གཟུགས་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U051",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000073",
+        "exact_tibetan_span": "དྲི་དང"
+      }
+    ],
+    "attested_form": "དྲི",
+    "canonical_entry": null,
+    "english_realization": "smells",
+    "category": "provisional",
+    "condition_evidence": "Sensory-object noun, distinguished from the smelling function in S68. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-016"
+    ],
+    "proposal_headword": "དྲི་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U052",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000074",
+        "exact_tibetan_span": "རོ་དང"
+      }
+    ],
+    "attested_form": "རོ",
+    "canonical_entry": null,
+    "english_realization": "tastes",
+    "category": "provisional",
+    "condition_evidence": "Sensory-object noun, distinguished from the tasting function in S69. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-016"
+    ],
+    "proposal_headword": "རོ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U053",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000075",
+        "exact_tibetan_span": "རེག་བྱ་དང"
+      }
+    ],
+    "attested_form": "རེག་བྱ",
+    "canonical_entry": null,
+    "english_realization": "tangible objects",
+    "category": "provisional",
+    "condition_evidence": "Literal object-to-be-touched member; no missing tactile organ added to the preceding list. Related/collision checks: No governing whole-expression entry found in the full current glossary. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-016"
+    ],
+    "proposal_headword": "རེག་བྱ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U054",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000076",
+        "exact_tibetan_span": "ཆོས་ལ་སོགས་པ་དང"
+      }
+    ],
+    "attested_form": "ཆོས",
+    "canonical_entry": null,
+    "english_realization": "phenomena",
+    "category": "provisional",
+    "condition_evidence": "Object-list member; mental qualifier not supplied; neither doctrine nor teaching asserted here. Related/collision checks: Related whole entries ཆོས་ཉིད → Nature of phenomena; ཆོས་དབྱིངས → Basic space of phenomena; no bare canonical entry. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-016"
+    ],
+    "proposal_headword": "ཆོས་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U055",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000025",
+        "golden_id": "MTP-S000078",
+        "exact_tibetan_span": "ལྷ་མ་ཡིན་དང"
+      }
+    ],
+    "attested_form": "ལྷ་མ་ཡིན",
+    "canonical_entry": null,
+    "english_realization": "asura",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "ལྷ་མ་ཡིན་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U056",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000025",
+        "golden_id": "MTP-S000079",
+        "exact_tibetan_span": "དྲི་ཟ་དང"
+      }
+    ],
+    "attested_form": "དྲི་ཟ",
+    "canonical_entry": null,
+    "english_realization": "gandharva",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "དྲི་ཟ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U057",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000025",
+        "golden_id": "MTP-S000080",
+        "exact_tibetan_span": "བྱང་ཆུབ་སེམས་དཔའི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང"
+      },
+      {
+        "pair_id": "MTP-000027",
+        "golden_id": "MTP-S000087",
+        "exact_tibetan_span": "བྱང་ཆུབ་སེམས་དཔའ་དང"
+      }
+    ],
+    "attested_form": "བྱང་ཆུབ་སེམས་དཔའ",
+    "canonical_entry": null,
+    "english_realization": "bodhisattva",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "བྱང་ཆུབ་སེམས་དཔའ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U058",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000026",
+        "golden_id": "MTP-S000081",
+        "exact_tibetan_span": "འདུལ་བ་དང"
+      }
+    ],
+    "attested_form": "འདུལ་བ",
+    "canonical_entry": null,
+    "english_realization": "Vinaya",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "འདུལ་བ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U059",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000026",
+        "golden_id": "MTP-S000082",
+        "exact_tibetan_span": "མདོ་སྡེ་དང"
+      }
+    ],
+    "attested_form": "མདོ་སྡེ",
+    "canonical_entry": null,
+    "english_realization": "Sūtra",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "མདོ་སྡེ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U060",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000026",
+        "golden_id": "MTP-S000083",
+        "exact_tibetan_span": "མངོན་པ་ལ་སོགས་པ་དང"
+      }
+    ],
+    "attested_form": "མངོན་པ",
+    "canonical_entry": null,
+    "english_realization": "Abhidharma",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "མངོན་པ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U061",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000027",
+        "golden_id": "MTP-S000085",
+        "exact_tibetan_span": "ཉན་ཐོས་དང"
+      }
+    ],
+    "attested_form": "ཉན་ཐོས",
+    "canonical_entry": null,
+    "english_realization": "hearer",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "ཉན་ཐོས་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U062",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000027",
+        "golden_id": "MTP-S000086",
+        "exact_tibetan_span": "རང་རྒྱལ་དང"
+      }
+    ],
+    "attested_form": "རང་རྒྱལ",
+    "canonical_entry": null,
+    "english_realization": "solitary victor",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "རང་རྒྱལ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U063",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000027",
+        "golden_id": "MTP-S000088",
+        "exact_tibetan_span": "ཀྲི་ཡ་དང"
+      }
+    ],
+    "attested_form": "ཀྲི་ཡ",
+    "canonical_entry": null,
+    "english_realization": "Kriyā",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "ཀྲི་ཡ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U064",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000027",
+        "golden_id": "MTP-S000089",
+        "exact_tibetan_span": "ཨུ་པ་དང"
+      }
+    ],
+    "attested_form": "ཨུ་པ",
+    "canonical_entry": null,
+    "english_realization": "Upa",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "ཨུ་པ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U065",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000029",
+        "golden_id": "MTP-S000091",
+        "exact_tibetan_span": "ཡོ་ག་དང"
+      }
+    ],
+    "attested_form": "ཡོ་ག",
+    "canonical_entry": null,
+    "english_realization": "Yoga",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "ཡོ་ག་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U066",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000029",
+        "golden_id": "MTP-S000092",
+        "exact_tibetan_span": "ནང་ལྟར་མ་ཧ་དང"
+      }
+    ],
+    "attested_form": "མ་ཧ",
+    "canonical_entry": null,
+    "english_realization": "Mahā",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "མ་ཧ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U067",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000029",
+        "golden_id": "MTP-S000093",
+        "exact_tibetan_span": "ཨ་ནུ་དང"
+      }
+    ],
+    "attested_form": "ཨ་ནུ",
+    "canonical_entry": null,
+    "english_realization": "Anu",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "ཨ་ནུ་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U068",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000029",
+        "golden_id": "MTP-S000094",
+        "exact_tibetan_span": "ཨ་ཏི་ལ་སོགས་ཏེ་དཔག་ཏུ་མེད་པའི་འཁོར་སྣ་ཚོགས་སུ་སྣང་བ་དང"
+      }
+    ],
+    "attested_form": "ཨ་ཏི",
+    "canonical_entry": null,
+    "english_realization": "Ati",
+    "category": "provisional",
+    "condition_evidence": "Occurrence-specific name or class in the mixed assembly enumeration. Supplied short names are not expanded; no additional taxonomy inserted. Related/collision checks: For bodhisattva, whole-expression treatment does not change standalone སེམས → Ordinary mind. Taming as an ordinary verb is not automatically the scripture name Vinaya. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-017"
+    ],
+    "proposal_headword": "ཨ་ཏི་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U069",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000027",
+        "golden_id": "MTP-S000084",
+        "exact_tibetan_span": "འཇིག་ཚོགས་སུ་བལྟ་བ་དང"
+      }
+    ],
+    "attested_form": "འཇིག་ཚོགས",
+    "canonical_entry": null,
+    "english_realization": "perishing aggregate",
+    "category": "provisional",
+    "condition_evidence": "Only the uncertain འཇིག་ཚོགས་སུ་བལྟ་བ construction; no philosophical school name or full self-view definition supplied. Related/collision checks: Related but not identical form ལྟ་བ → View; source བལྟ་བ remains unchanged. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-018"
+    ],
+    "proposal_headword": "འཇིག་ཚོགས་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U070",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000030",
+        "golden_id": "MTP-S000097",
+        "exact_tibetan_span": "གླེང་གཞིའི་ལེའུ་སྟེ་དང་པོའོ"
+      }
+    ],
+    "attested_form": "གླེང་གཞི",
+    "canonical_entry": null,
+    "english_realization": "setting",
+    "category": "provisional",
+    "condition_evidence": "Whole narrative title expression in this chapter colophon only. Related/collision checks: Do not force standalone གཞི → The Ground into this whole expression. Exact-English matches: none.",
+    "approval_or_note_ids": [
+      "T01-020"
+    ],
+    "proposal_headword": "གླེང་གཞི་",
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U071",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000007",
+        "golden_id": "MTP-S000010",
+        "exact_tibetan_span": "འདི་སྐད་བདག་གིས་བསྟན་པའི་དུས་གཅིག་ན"
+      }
+    ],
+    "attested_form": "འདི་སྐད་བདག་གིས་བསྟན་པའི་དུས་གཅིག་ན",
+    "canonical_entry": null,
+    "english_realization": "At one time when I taught thus",
+    "category": "provisional",
+    "condition_evidence": "bstan teaching formula retained; not normalized to hearing formula",
+    "approval_or_note_ids": [
+      "T01-003"
+    ],
+    "proposal_headword": null,
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U072",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000008",
+        "golden_id": "MTP-S000012",
+        "exact_tibetan_span": "ང་མེད་པའི་སྔོན་རོལ་ན"
+      },
+      {
+        "pair_id": "MTP-000008",
+        "golden_id": "MTP-S000013",
+        "exact_tibetan_span": "འཁྲུལ་པ་མེད་པའི་རིག་པ"
+      },
+      {
+        "pair_id": "MTP-000008",
+        "golden_id": "MTP-S000014",
+        "exact_tibetan_span": "འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ"
+      }
+    ],
+    "attested_form": "ང་མེད་པའི་སྔོན་རོལ་ན / འཁྲུལ་པ་མེད་པའི་རིག་པ / འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ",
+    "canonical_entry": null,
+    "english_realization": "Before my nonexistence ... awareness free from delusion, called that which has the identity of delusion",
+    "category": "provisional",
+    "condition_evidence": "Revised after independent QC: explicit negation retained within the phrase governed by before; temporal relation unresolved. Earlier draft preserved in revisions/translation-draft-01.md.",
+    "approval_or_note_ids": [
+      "T01-004"
+    ],
+    "proposal_headword": null,
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U073",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000010",
+        "golden_id": "MTP-S000016",
+        "exact_tibetan_span": "དེ་ལས་དེ་མ་དག་པ་ལས་འདི་ལྟར་སྣང་བའི་ཆོ་འཕྲུལ་ཆེན་པོ་ཆེར་བྱུང་སྟེ"
+      },
+      {
+        "pair_id": "MTP-000010",
+        "golden_id": "MTP-S000017",
+        "exact_tibetan_span": "འཁྲུལ་པས་མ་བགོས་པའི་ཡུལ་སོ་སོར་ཤར་རོ"
+      }
+    ],
+    "attested_form": "དེ་ལས་དེ་མ་དག་པ་ལས་འདི་ལྟར་སྣང་བའི་ཆོ་འཕྲུལ་ཆེན་པོ་ཆེར་བྱུང་སྟེ / འཁྲུལ་པས་མ་བགོས་པའི་ཡུལ་སོ་སོར་ཤར་རོ",
+    "canonical_entry": null,
+    "english_realization": "from that—from that not being pure ... it dawned in individual objects",
+    "category": "provisional",
+    "condition_evidence": "Two las constructions and de reference left visibly uncertain; it and locative relation disclosed",
+    "approval_or_note_ids": [
+      "T01-005"
+    ],
+    "proposal_headword": null,
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U074",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000011",
+        "golden_id": "MTP-S000018",
+        "exact_tibetan_span": "དེའི་ཚེ་སྣང་བ་འདུ་བྱེད་ཀྱི་རྒྱལ་པོ"
+      },
+      {
+        "pair_id": "MTP-000011",
+        "golden_id": "MTP-S000019",
+        "exact_tibetan_span": "སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ"
+      }
+    ],
+    "attested_form": "དེའི་ཚེ་སྣང་བ་འདུ་བྱེད་ཀྱི་རྒྱལ་པོ / སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ",
+    "canonical_entry": null,
+    "english_realization": "king that forms appearance ... through awareness",
+    "category": "provisional",
+    "condition_evidence": "Subject/instrumental attachment provisional",
+    "approval_or_note_ids": [
+      "T01-006"
+    ],
+    "proposal_headword": null,
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U075",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000012",
+        "golden_id": "MTP-S000020",
+        "exact_tibetan_span": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས"
+      },
+      {
+        "pair_id": "MTP-000012",
+        "golden_id": "MTP-S000021",
+        "exact_tibetan_span": "ལེགས་པའི་ཚུལ་གསུམ་གྱིས་ཉོན་ཅིག"
+      }
+    ],
+    "attested_form": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས / ལེགས་པའི་ཚུལ་གསུམ་གྱིས་ཉོན་ཅིག",
+    "canonical_entry": null,
+    "english_realization": "I teach [this] ... in the realm ... three good ways",
+    "category": "provisional",
+    "condition_evidence": "Supplied object bracketed; realm case and unexpanded threefold instruction visible",
+    "approval_or_note_ids": [
+      "T01-007"
+    ],
+    "proposal_headword": null,
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U076",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000053",
+        "exact_tibetan_span": "འཛིན་བྱེད་འཁྲུལ་པའི་འཁོར་འདི་ལྟ་སྟེ"
+      }
+    ],
+    "attested_form": "འཛིན་བྱེད་འཁྲུལ་པའི་འཁོར་འདི་ལྟ་སྟེ",
+    "canonical_entry": null,
+    "english_realization": "retinue of delusion that apprehends",
+    "category": "provisional",
+    "condition_evidence": "Agentive term not silently conflated with later apprehending subject",
+    "approval_or_note_ids": [
+      "T01-014"
+    ],
+    "proposal_headword": null,
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U077",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000027",
+        "golden_id": "MTP-S000084",
+        "exact_tibetan_span": "འཇིག་ཚོགས་སུ་བལྟ་བ་དང"
+      }
+    ],
+    "attested_form": "འཇིག་ཚོགས་སུ་བལྟ་བ་དང",
+    "canonical_entry": null,
+    "english_realization": "viewing [things] as a perishing aggregate",
+    "category": "provisional",
+    "condition_evidence": "Supplied object bracketed; case relation provisional",
+    "approval_or_note_ids": [
+      "T01-018"
+    ],
+    "proposal_headword": null,
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "T01-U078",
+    "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_units": [
+      {
+        "pair_id": "MTP-000029",
+        "golden_id": "MTP-S000092",
+        "exact_tibetan_span": "ནང་ལྟར་མ་ཧ་དང"
+      }
+    ],
+    "attested_form": "ནང་ལྟར་མ་ཧ་དང",
+    "canonical_entry": null,
+    "english_realization": "on the inner side",
+    "category": "provisional",
+    "condition_evidence": "No Tibetan emendation or Mahayoga expansion",
+    "approval_or_note_ids": [
+      "T01-019"
+    ],
+    "proposal_headword": null,
+    "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  }
+]

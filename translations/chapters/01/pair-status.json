@@ -1,0 +1,244 @@
+[
+  {
+    "id": "MTP-000001",
+    "status": "nontranslatable",
+    "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
+    "note_ids": []
+  },
+  {
+    "id": "MTP-000002",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-001"
+    ]
+  },
+  {
+    "id": "MTP-000003",
+    "status": "nontranslatable",
+    "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
+    "note_ids": []
+  },
+  {
+    "id": "MTP-000004",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": []
+  },
+  {
+    "id": "MTP-000005",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-001"
+    ]
+  },
+  {
+    "id": "MTP-000006",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-002"
+    ]
+  },
+  {
+    "id": "MTP-000007",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-003"
+    ]
+  },
+  {
+    "id": "MTP-000008",
+    "status": "unresolved",
+    "reason": "English represents the whole fixed source, but the temporal relation in MTP-S000012 remains unresolved; literal negation is preserved and T01-004 states the problem. Independent QC required before release.",
+    "note_ids": [
+      "T01-002",
+      "T01-004"
+    ]
+  },
+  {
+    "id": "MTP-000009",
+    "status": "nontranslatable",
+    "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
+    "note_ids": []
+  },
+  {
+    "id": "MTP-000010",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-005",
+      "T01-016"
+    ]
+  },
+  {
+    "id": "MTP-000011",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-006"
+    ]
+  },
+  {
+    "id": "MTP-000012",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-007"
+    ]
+  },
+  {
+    "id": "MTP-000013",
+    "status": "nontranslatable",
+    "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
+    "note_ids": []
+  },
+  {
+    "id": "MTP-000014",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-008"
+    ]
+  },
+  {
+    "id": "MTP-000015",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-003",
+      "T01-009"
+    ]
+  },
+  {
+    "id": "MTP-000016",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-010",
+      "T01-011"
+    ]
+  },
+  {
+    "id": "MTP-000017",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-011"
+    ]
+  },
+  {
+    "id": "MTP-000018",
+    "status": "nontranslatable",
+    "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
+    "note_ids": []
+  },
+  {
+    "id": "MTP-000019",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-012",
+      "T01-016",
+      "T01-010",
+      "T01-011"
+    ]
+  },
+  {
+    "id": "MTP-000020",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-011",
+      "T01-013",
+      "T01-016"
+    ]
+  },
+  {
+    "id": "MTP-000021",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-014",
+      "T01-011"
+    ]
+  },
+  {
+    "id": "MTP-000022",
+    "status": "nontranslatable",
+    "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
+    "note_ids": []
+  },
+  {
+    "id": "MTP-000023",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-014"
+    ]
+  },
+  {
+    "id": "MTP-000024",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-006",
+      "T01-015",
+      "T01-016",
+      "T01-011"
+    ]
+  },
+  {
+    "id": "MTP-000025",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-011",
+      "T01-017"
+    ]
+  },
+  {
+    "id": "MTP-000026",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-017"
+    ]
+  },
+  {
+    "id": "MTP-000027",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-017",
+      "T01-018"
+    ]
+  },
+  {
+    "id": "MTP-000028",
+    "status": "nontranslatable",
+    "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
+    "note_ids": []
+  },
+  {
+    "id": "MTP-000029",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-011",
+      "T01-017",
+      "T01-019"
+    ]
+  },
+  {
+    "id": "MTP-000030",
+    "status": "translated",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "note_ids": [
+      "T01-001",
+      "T01-020"
+    ]
+  }
+]
