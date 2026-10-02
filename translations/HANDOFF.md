@@ -1,45 +1,10 @@
 # Translation handoff
 
-Update this file before handing translation or QC work to another agent.
+Current task: complete the English working translation of `golden-v1` with Adzom comparison endnotes. User authorization is recorded in DECISIONS.md.
 
-## Fixed inputs
-
-- golden release:
-- golden commit/tag:
-- glossary version/hash:
-- translation guideline version:
-- explicit project decisions:
-
-## Current coverage
-
-- source pair/anchor range:
-- translated segments completed:
-- translated segments remaining:
-- unresolved translation notes:
-- provisional terminology usages:
-- independent QC performed: false
-
-## Release state
-
-- candidate commit:
-- validation:
-- negative tests:
-- final signoff:
-- release tag:
-- publication receipt:
-- remote verification:
-- clean tree:
-
-## Paired-text state
-
-- source release pinned:
-- translation release pinned:
-- pair IDs defined:
-- pair formats classified (prose/verse/h1/h2/h3):
-- unmatched source pairs:
-- unmatched translation pairs:
-- paired validation:
-
-## Next finite task
-
-State one bounded next task and the exact source range it covers.
+Fixed source commit: 4d6ba07e1b3379183633127cd387d98d8195eb95. Exact source/glossary/standard hashes: PLAN.json.
+Current chapter: 1, MTP-S000001–MTP-S000097; 97 original objects and seven native image pages427–433.
+Source pair segmentation is pending; translated objects0/2,053; completed chapter releases0/8.
+Finite next task: freeze chapter1 source pairs, translate all of them, compare all chapter1 main-text spans against Adzom, attach all required endnotes, perform separate QC and close the chapter release gate.
+No chapter2 work has begun. No golden or glossary edits are authorized by the translation workflow.
+See ENDNOTE-POLICY.md. Transcript corrections that agree with Adzom must not be mislabeled as departures. Native omissions and uncertain readings require explicit local notes.

@@ -13,3 +13,11 @@ The user instructed: “excellent. So next, create the golden edition.” This a
 The coordinator explicitly selects Adzom/Sanje Dorje1973–77 (W1KG892, I1KG895, printed417–537) as governing scan and the preserved Tibetan Wikisource rendition as electronic base. The Wylie rendition is a same-family electronic comparator; Adzom2000 is a same-print reference. Selection rationale and limits are recorded in diplomatic/GOVERNING-WITNESS.json. This is an editorial choice within the authorized task, not a representation that the user specified the exemplar.
 
 Eight bounded chapter releases will preserve all original anchors, scan-supported decisions, separate restorations/layers and explicit uncertainty. This does not authorize eclectic smoothing, Sanskrit reconstruction without scan evidence, unrecorded punctuation changes or claims of exhaustive collation.
+
+## 2026-10-02 — Translate the fixed golden edition with Adzom endnotes
+
+The user instructed: “Now translate the golden edition, but mark to endnotes in the translation every time the golden edition is different from adzom and how.” This authorizes the complete English working translation of `golden-v1`, source-linked endnotes, necessary comparison with the governing Adzom scans, terminology-controlled drafting, separate QC, and repository publication.
+
+The fixed Tibetan remains unchanged. The 30 recorded transcript corrections restore the Adzom reading and must not be mislabeled as departures from the print. Actual golden-versus-print differences and omissions, transcript corrections, source-layer/display choices, and unresolved source readings receive distinct note categories. To meet the new completeness requirement, a page-by-page comparison of the governing main text is included; undeciphered or untranscribed source material remains explicit rather than being counted as agreement. Typography and electronic metadata conventions are documented separately from lexical content.
+
+The established glossary remains authoritative. Occurrence-specific uncovered senses and technical gaps may be used provisionally with notes under the translation standard; they do not amend the canonical glossary. The translation is released as an annotated agent-produced working edition for human review, not as independent human certification.

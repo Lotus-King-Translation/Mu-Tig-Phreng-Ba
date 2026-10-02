@@ -1,7 +1,7 @@
 # Project status — 2026-10-02
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: bounded golden Tibetan v1 complete; 8/8 chapter publications complete
+- Phase: English translation with Adzom endnotes; golden v1 fixed; translated chapters0/8
 - Repository: created from Lotus-King-Translation/tibetan-text-project-template
 - Discovery streams: 3/3 bounded surveys completed; BDRC, external catalogues, electronic texts/translations
 - Registered source/research records: 43; this includes unresolved leads and reference works
@@ -21,4 +21,4 @@ Resolve the eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtan
 
 Golden output: [complete reading](golden/reading.md), [machine reading](golden/reading.json), [coverage](golden/coverage.json). Fixed whole-book release: `golden-v1`; publication receipt: `diplomatic/publication/golden-v1.json` on main after the fixed tag.
 
-Golden editorial/source queues are closed. Translation has not started and requires a separate instruction. Unresolved witness-research leads above remain outside this bounded edition. The discovery inventory does not certify that all extant witnesses are known.
+Golden editorial/source queues are closed. The user has now authorized the complete English translation with endnotes for differences from Adzom; see translations/PLAN.json and translations/HANDOFF.md. Chapter1 pairing and full main-text scan comparison are active; translated objects0/2,053. Unresolved witness-research leads above remain outside this bounded edition. The discovery inventory does not certify that all extant witnesses are known.
