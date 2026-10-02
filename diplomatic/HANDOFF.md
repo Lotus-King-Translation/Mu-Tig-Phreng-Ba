@@ -1,15 +1,11 @@
 # Golden edition state
 
-Governing scan: Adzom1973 W1KG892/I1KG895. Electronic base: preserved Tibetan Wikisource; Wylie comparison is the same transcript family.
-
-- Current chapter: 5; completed chapter publications: 5/8.
-- Anchors in current release: 416; changed text anchors: 6; restorations: 0.
-- Decisions completed/remaining: 17/0.
-- Targeted source checks completed/remaining: 15/0.
-- Current deliverable groups: 6/6 built; bounded validation/signoff passed before publication.
-- Unresolved records: 11; exact loci in chapters/05/coverage.json.
-- Full scan proofreading, exhaustive witness collation and independent human certification: false.
-- Publication receipts: diplomatic/publication/. Prior chapter files remain fixed at their annotated tags.
-- Next finite task: Freeze chapter6 contract. Translation has not begun.
-
-Read RELEASE-POLICY.md, GOVERNING-WITNESS.json and the next chapter contract before substantive work. Never infer physical agreement from electronic equality.
+- Phase: golden Tibetan; current chapter6; completed publications5/8.
+- Governing scan: Adzom1973 W1KG892/I1KG895.
+- Previous clean remote verification: c8d0ebf4263c92df20bced0b9dcac4ec0367ac4d.
+- Frozen current chapter: 376 anchors; 0 electronic differences; 5 anomalies.
+- Required decisions:0/21; source checks:0/16.
+- Deliverables:0/6; validation/signoff/publication pending.
+- Changed/restored counts pending native review; no full scan proofreading or exhaustive collation.
+- Next: close current frozen native checks; the next chapter has not started.
+- Translation not started.

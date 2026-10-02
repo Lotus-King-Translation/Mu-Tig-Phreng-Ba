@@ -1,0 +1,71 @@
+[
+  {
+    "id": "MTP-TRIAGE-026",
+    "anchor_ids": [
+      "MTP-S001056"
+    ],
+    "question": "gongs pa spelling in question: check exact printed form."
+  },
+  {
+    "id": "MTP-TRIAGE-027",
+    "anchor_ids": [
+      "MTP-S001085",
+      "MTP-S001089"
+    ],
+    "question": "sags and skom in formulaic enumerations; check against governing scan, not merely parallel wording."
+  },
+  {
+    "id": "MTP-TRIAGE-028",
+    "anchor_ids": [
+      "MTP-S001150"
+    ],
+    "question": "sungs in recurring request formula; verify printed initial cluster."
+  },
+  {
+    "id": "MTP-TRIAGE-029",
+    "anchor_ids": [
+      "MTP-S001199",
+      "MTP-S001201"
+    ],
+    "question": "dmyal ba par and rnams lan bun ltar: check allocation/word division and unusual spellings."
+  },
+  {
+    "id": "MTP-TRIAGE-030",
+    "anchor_ids": [
+      "MTP-S001216"
+    ],
+    "question": "shes krab: unusual cluster requires scan evidence."
+  },
+  {
+    "id": "MTP-TRIAGE-031",
+    "anchor_ids": [
+      "MTP-S001256"
+    ],
+    "question": "mya ngang 'das: verify nasal ending in recurring phrase."
+  },
+  {
+    "id": "MTP-TRIAGE-032",
+    "anchor_ids": [
+      "MTP-S001306",
+      "MTP-S001307",
+      "MTP-S001311",
+      "MTP-S001312"
+    ],
+    "question": "g.yas pa ro ma is an expanded phrase; yan lag ca is truncated-looking. Inspect source layers and exact ending without silently rewriting either."
+  },
+  {
+    "id": "MTP-TRIAGE-033",
+    "anchor_ids": [
+      "MTP-S001364"
+    ],
+    "question": "rgyad occurs in an explanation of lamp terminology; verify exact glyph."
+  },
+  {
+    "id": "MTP-TRIAGE-034",
+    "anchor_ids": [
+      "MTP-S001426",
+      "MTP-S001427"
+    ],
+    "question": "Classify chapter-six closing formula."
+  }
+]
