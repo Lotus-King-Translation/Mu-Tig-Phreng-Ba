@@ -1,0 +1,38 @@
+{ 
+  "http://purl.bdrc.io/resource/I1KG895" : { 
+    "http://purl.bdrc.io/ontology/core/volumePagesTbrcIntro" : [ { 
+      "type" : "literal" ,
+      "value" : "2" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/ImageGroup"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/volumeNumber" : [ { 
+      "type" : "literal" ,
+      "value" : "2" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "Volume 2 of rngying ma'i rgyud bcu bdun" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/volumePagesTotal" : [ { 
+      "type" : "literal" ,
+      "value" : "549" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/volumeOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W1KG892"
+    }
+     ]
+  }
+}

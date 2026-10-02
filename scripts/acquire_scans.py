@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Acquire catalogue-bounded, public-domain BDRC facsimiles without altering pixels.
+"""Acquire catalogue-bounded, licensed BDRC facsimiles without altering pixels.
 
 Requires Pillow, img2pdf, pikepdf. Inputs: editions/ACQUISITION-PLAN.json and saved
 IIIF volume/collection metadata. Downloaded response bytes are archived verbatim.
@@ -26,7 +26,12 @@ def canvases(spec):
     md=ROOT/'editions/metadata'/spec['edition']
     rights=json.loads((md/'collection.json').read_text())
     license=rights.get('license','')
-    if license!='https://creativecommons.org/publicdomain/mark/1.0/': raise ValueError('Public-domain mark not verified')
+    if spec['edition']=='gadkar-manuscript':
+        record=json.loads((ROOT/'editions/research/bdrc/batch-03-access-and-provenance/W1BL6.json').read_text())
+        notes=record['http://purl.bdrc.io/resource/W1BL6']['http://purl.bdrc.io/ontology/core/scanInfo']
+        if not any('CC BY-NC 4.0' in n.get('value','') for n in notes):raise ValueError('Gadkar image licence missing')
+        license='https://creativecommons.org/licenses/by-nc/4.0/'
+    if license not in ('https://creativecommons.org/licenses/by-nc/4.0/','https://creativecommons.org/publicdomain/mark/1.0/'): raise ValueError('Supported source licence not verified')
     d=json.loads((md/'volume-manifest.json').read_text()); out={}
     for c in d['sequences'][0]['canvases']:
         m=re.search(r'img\. (\d+)',str(c.get('label')))
@@ -58,7 +63,7 @@ def acquire(spec,samples=False):
         for r in pool.map(download,jobs):
             records.append(r)
             if not samples and len(records)%25==0:print(ed,len(records),'/',len(chosen),flush=True)
-    manifest={'edition':ed,'source_group':spec['group'],'source_manifest':f'editions/metadata/{ed}/volume-manifest.json','retrieved_date':'2026-10-02','attribution':'Buddhist Digital Resource Center','rights':license,'requested_range':[a,b],'boundary_samples':samples,'images':records,'new_ocr':False,'full_scan_proofreading':False,'visual_boundary_verification':'See BOUNDARIES.md; acquisition alone does not verify text extent.'}
+    manifest={'edition':ed,'source_group':spec['group'],'source_manifest':f'editions/metadata/{ed}/volume-manifest.json','retrieved_date':'2026-10-02','attribution':('Tibetan Manuscript Project Vienna, photographs 2023; distributed by BDRC; unchanged response images; lossless PDF packaging by Lotus King Translation' if ed=='gadkar-manuscript' else 'Buddhist Digital Resource Center'),'rights':license,'requested_range':[a,b],'boundary_samples':samples,'images':records,'new_ocr':False,'full_scan_proofreading':False,'visual_boundary_verification':'See BOUNDARIES.md; acquisition alone does not verify text extent.'}
     if samples:
         write_json(out/'boundary-manifest.json',manifest);print('SAMPLES',ed,len(records),flush=True);return
     zp=out/'iiif-response-images.zip';pdf=out/'mu-tig-phreng-ba.pdf'

@@ -35,8 +35,9 @@
   {
     "edition": "gadkar-manuscript",
     "group": "I1ER907",
-    "start": 926,
-    "end": 1014
+    "start": 925,
+    "end": 1014,
+    "range_basis": "Title925;opening926;closing1014 visually inspected. CC BY-NC4.0 images, TMPV2023."
   },
   {
     "edition": "ngmpp-W1ER119",
@@ -71,5 +72,19 @@
     "group": "I1ER139",
     "start": null,
     "end": null
+  },
+  {
+    "edition": "adzom-1973",
+    "group": "I1KG895",
+    "start": 427,
+    "end": 547,
+    "range_basis": "Visually inspected title427,opening428,closing547; printed417–537. See bdrc batch05."
+  },
+  {
+    "edition": "tsamdrak-1982",
+    "group": "I0615",
+    "start": 306,
+    "end": 395,
+    "range_basis": "Root title begins at bottom306 after preceding work; closing395 then next text. See bdrc batch05."
   }
 ]

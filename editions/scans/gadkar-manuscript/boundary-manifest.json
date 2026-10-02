@@ -1,0 +1,186 @@
+{
+  "edition": "gadkar-manuscript",
+  "source_group": "I1ER907",
+  "source_manifest": "editions/metadata/gadkar-manuscript/volume-manifest.json",
+  "retrieved_date": "2026-10-02",
+  "attribution": "Tibetan Manuscript Project Vienna, photographs 2023; distributed by BDRC; unchanged response images; lossless PDF packaging by Lotus King Translation",
+  "rights": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "requested_range": [
+    926,
+    1014
+  ],
+  "boundary_samples": true,
+  "images": [
+    {
+      "image_index": 925,
+      "file": "00925.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I1BL909::I1BL9090574.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1BL909/canvas/I1BL9090574.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "1a"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 925"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "1na/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _925"
+        }
+      ],
+      "bytes": 614286,
+      "sha256": "b55900b2593558ac3c6ced4d777ef71afc05dc8ec1a7ad93fe3dfd36be4bb2fe",
+      "width": 4000,
+      "height": 721
+    },
+    {
+      "image_index": 926,
+      "file": "00926.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I1BL909::I1BL9090575.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1BL909/canvas/I1BL9090575.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "1b"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 926"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "1ba/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _926"
+        }
+      ],
+      "bytes": 631741,
+      "sha256": "05db04d068e794b8dad48d229ff480f9b5cafda203e10b65ea3f3752fcc58fcb",
+      "width": 4000,
+      "height": 724
+    },
+    {
+      "image_index": 927,
+      "file": "00927.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I1BL909::I1BL9090576.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1BL909/canvas/I1BL9090576.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "2a"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 927"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "2na/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _927"
+        }
+      ],
+      "bytes": 630321,
+      "sha256": "d49a0de5a6d9695131030136541d034bc9235c08bb3e8af8f6476916f1a43095",
+      "width": 4000,
+      "height": 712
+    },
+    {
+      "image_index": 1013,
+      "file": "01013.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I1BL909::I1BL9090662.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1BL909/canvas/I1BL9090662.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "45a"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 1013"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "45na/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _1013"
+        }
+      ],
+      "bytes": 663669,
+      "sha256": "2ee3c554b0845734f73424e9e7ae85836b2dc642b914b39236e00f29b0d3a2ed",
+      "width": 4000,
+      "height": 728
+    },
+    {
+      "image_index": 1014,
+      "file": "01014.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I1BL909::I1BL9090663.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1BL909/canvas/I1BL9090663.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "45b"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 1014"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "45ba/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _1014"
+        }
+      ],
+      "bytes": 719344,
+      "sha256": "c52019759d12e6132c644d952684e25d4f7a58fddf29492184c614ef693328be",
+      "width": 4000,
+      "height": 796
+    },
+    {
+      "image_index": 1015,
+      "file": "01015.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I1BL909::I1BL9090664.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1BL909/canvas/I1BL9090664.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "1a"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 1015"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "1na/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _1015"
+        }
+      ],
+      "bytes": 592155,
+      "sha256": "162e97b8874c6e1dba3e9438453cdd4b1b8a44d2e4f754c9f9fa3e391ef3d3e1",
+      "width": 4000,
+      "height": 729
+    }
+  ],
+  "new_ocr": false,
+  "full_scan_proofreading": false,
+  "visual_boundary_verification": "See BOUNDARIES.md; acquisition alone does not verify text extent."
+}

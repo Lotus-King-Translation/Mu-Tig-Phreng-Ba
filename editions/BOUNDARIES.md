@@ -10,8 +10,9 @@ Checks locate starts/ends; they are not full proofreading or collation. Entire s
 | Tingkye1973 | 531–585 | Root opening partway down531 after previous work; concluding585. Printed523–577. |
 | Zhichen | 217–292 | Title217; opening218; closing292. Catalogue body starts218. |
 | W1ER119 | 2–84 | Title2; opening3; closing84 inspected. Collection/manuscript origin remains unresolved. |
-| Langtang | 2–152 | Title2 and final152 inspected; rKTs root1b–75a and manifest labels govern range. Two indices absent from manifest; this alone does not prove missing text. |
+| Langtang | 2–152 | Title2 and final152 inspected; rKTs root1b–75a and manifest labels govern range. Indices84 and85 absent from manifest; this alone does not prove missing text. |
 | Degé W21939 | 101–160 | rKTs50a–79b mapped by manifest labels; first101 and last160 inspected. Source print is faint/obscured. |
+| Gadkar | 925–1014 | Title925, opening926 and closing1014 inspected. Image rights CC BY-NC4.0/TMPV2023. |
 | Degé W1ER7 | unresolved | Exploratory samples98–100 and160–161 do not yet securely map50a–79b. No full root extract acquired on this evidence. |
 
 Additional verified ranges appear in the acquisition plan and BDRC acquisition-boundary research. Where a catalogue range is retained, no stronger visual reading is implied.
