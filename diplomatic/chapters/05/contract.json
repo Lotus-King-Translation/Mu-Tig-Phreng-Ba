@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "chapter": 5,
+  "first_index": 636,
+  "last_index": 1051,
+  "first_anchor": "MTP-S000636",
+  "last_anchor": "MTP-S001051",
+  "closing_anchor": "MTP-S001051",
+  "anchor_count": 416,
+  "raw_start": 16014,
+  "raw_end": 26544,
+  "page_hints": [
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480
+  ],
+  "boundary_status": "Mechanical colophon locator; requires authored scan review.",
+  "includes_post_chapter_colophon": false,
+  "source_files": {
+    "diplomatic/source-anchors.json": "83875fc89625068a7ccc2e7ed823695abf77d9dd7aee7abc8db290d53eb447a9",
+    "diplomatic/electronic-collation.json": "963157f0ed195706a0750e5bd48d3402e11d82b2cb4972e1b02babccaa353ed4",
+    "diplomatic/chapter-map.json": "7dc731991db28074fd108012597f6dc16f8d269e39f4b1422a9499bfb32b838a",
+    "diplomatic/anomalies.json": "67c593d039dc683cfdda8b3541978f8f40f6e9bff776722e1c3990eb69079b85"
+  },
+  "difference_ids": [],
+  "anomaly_ids": [
+    "MTP-A000636-GRAPHIC",
+    "MTP-A000803-EWTS",
+    "MTP-A000994-EWTS"
+  ],
+  "required_decision_anchors": [
+    "MTP-S000636",
+    "MTP-S000637",
+    "MTP-S000640",
+    "MTP-S000645",
+    "MTP-S000651",
+    "MTP-S000721",
+    "MTP-S000756",
+    "MTP-S000793",
+    "MTP-S000803",
+    "MTP-S000838",
+    "MTP-S000902",
+    "MTP-S000944",
+    "MTP-S000994",
+    "MTP-S001027",
+    "MTP-S001032",
+    "MTP-S001049",
+    "MTP-S001051"
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C05-CHECK-001",
+      "anchor_ids": [
+        "MTP-S000637"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C05-CHECK-002",
+      "anchor_ids": [
+        "MTP-S001051"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C05-CHECK-003",
+      "anchor_ids": [
+        "MTP-S000636"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C05-CHECK-004",
+      "anchor_ids": [
+        "MTP-S000803"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C05-CHECK-005",
+      "anchor_ids": [
+        "MTP-S000994"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-TRIAGE-016",
+      "anchor_ids": [
+        "MTP-S000640",
+        "MTP-S000645"
+      ],
+      "question": "ji ltar ngas and short bdag cag rnams ni gyur na warrant checking against the scan; no absent word is inferred as fact."
+    },
+    {
+      "id": "MTP-TRIAGE-017",
+      "anchor_ids": [
+        "MTP-S000651"
+      ],
+      "question": "gnyis ni gzhi ngo bo gcig khyad par las is unusually expanded against adjacent verse units. Check for smaller interlinear words; no automatic deletion."
+    },
+    {
+      "id": "MTP-TRIAGE-018",
+      "anchor_ids": [
+        "MTP-S000721"
+      ],
+      "question": "ya ma brla: unusual consonant sequence in both renditions."
+    },
+    {
+      "id": "MTP-TRIAGE-019",
+      "anchor_ids": [
+        "MTP-S000756"
+      ],
+      "question": "dum grags in this repeated negative sequence merits checking; retain if source-supported."
+    },
+    {
+      "id": "MTP-TRIAGE-020",
+      "anchor_ids": [
+        "MTP-S000793"
+      ],
+      "question": "bcung du dril: check unusual initial cluster."
+    },
+    {
+      "id": "MTP-TRIAGE-021",
+      "anchor_ids": [
+        "MTP-S000838"
+      ],
+      "question": "gnyis lang mi ltos contrasts nearby recurring list structure; inspect exact source and word division."
+    },
+    {
+      "id": "MTP-TRIAGE-022",
+      "anchor_ids": [
+        "MTP-S000902"
+      ],
+      "question": "pe nas occurs amid recurring ye nas phrases; evidence must decide."
+    },
+    {
+      "id": "MTP-TRIAGE-023",
+      "anchor_ids": [
+        "MTP-S000944"
+      ],
+      "question": "dril sogs: verify consonant and word division, without introducing an expected term."
+    },
+    {
+      "id": "MTP-TRIAGE-024",
+      "anchor_ids": [
+        "MTP-S001027",
+        "MTP-S001032"
+      ],
+      "question": "kun rdzog occurs twice on the same page; check repeated spelling against scan."
+    },
+    {
+      "id": "MTP-TRIAGE-025",
+      "anchor_ids": [
+        "MTP-S001049",
+        "MTP-S001051"
+      ],
+      "question": "mu ting in work title plus closure split over page markers479/480; classify both title formula and chapter-five closure."
+    }
+  ],
+  "scope": "Bounded governing-Adzom reading; same-family electronic comparison and targeted scan checks.",
+  "required_outputs": [
+    "reading.md",
+    "reading.json",
+    "apparatus.json",
+    "changes.json",
+    "coverage.json",
+    "build-manifest.json"
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "outside_scope": [
+    "Full scan proofreading",
+    "Exhaustive witness collation",
+    "Unattested repair",
+    "Translation"
+  ],
+  "freeze_note": "No timestamp in deterministic contract. Exact bytes fixed by contract.sha256; changes require a new edition contract."
+}

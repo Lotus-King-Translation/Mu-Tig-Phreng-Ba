@@ -1,0 +1,75 @@
+[
+  {
+    "id": "MTP-TRIAGE-016",
+    "anchor_ids": [
+      "MTP-S000640",
+      "MTP-S000645"
+    ],
+    "question": "ji ltar ngas and short bdag cag rnams ni gyur na warrant checking against the scan; no absent word is inferred as fact."
+  },
+  {
+    "id": "MTP-TRIAGE-017",
+    "anchor_ids": [
+      "MTP-S000651"
+    ],
+    "question": "gnyis ni gzhi ngo bo gcig khyad par las is unusually expanded against adjacent verse units. Check for smaller interlinear words; no automatic deletion."
+  },
+  {
+    "id": "MTP-TRIAGE-018",
+    "anchor_ids": [
+      "MTP-S000721"
+    ],
+    "question": "ya ma brla: unusual consonant sequence in both renditions."
+  },
+  {
+    "id": "MTP-TRIAGE-019",
+    "anchor_ids": [
+      "MTP-S000756"
+    ],
+    "question": "dum grags in this repeated negative sequence merits checking; retain if source-supported."
+  },
+  {
+    "id": "MTP-TRIAGE-020",
+    "anchor_ids": [
+      "MTP-S000793"
+    ],
+    "question": "bcung du dril: check unusual initial cluster."
+  },
+  {
+    "id": "MTP-TRIAGE-021",
+    "anchor_ids": [
+      "MTP-S000838"
+    ],
+    "question": "gnyis lang mi ltos contrasts nearby recurring list structure; inspect exact source and word division."
+  },
+  {
+    "id": "MTP-TRIAGE-022",
+    "anchor_ids": [
+      "MTP-S000902"
+    ],
+    "question": "pe nas occurs amid recurring ye nas phrases; evidence must decide."
+  },
+  {
+    "id": "MTP-TRIAGE-023",
+    "anchor_ids": [
+      "MTP-S000944"
+    ],
+    "question": "dril sogs: verify consonant and word division, without introducing an expected term."
+  },
+  {
+    "id": "MTP-TRIAGE-024",
+    "anchor_ids": [
+      "MTP-S001027",
+      "MTP-S001032"
+    ],
+    "question": "kun rdzog occurs twice on the same page; check repeated spelling against scan."
+  },
+  {
+    "id": "MTP-TRIAGE-025",
+    "anchor_ids": [
+      "MTP-S001049",
+      "MTP-S001051"
+    ],
+    "question": "mu ting in work title plus closure split over page markers479/480; classify both title formula and chapter-five closure."
+  }
+]
