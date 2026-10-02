@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "chapter": 7,
+  "first_index": 1428,
+  "last_index": 1769,
+  "first_anchor": "MTP-S001428",
+  "last_anchor": "MTP-S001769",
+  "closing_anchor": "MTP-S001769",
+  "anchor_count": 342,
+  "raw_start": 36386,
+  "raw_end": 45110,
+  "page_hints": [
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520
+  ],
+  "boundary_status": "Mechanical colophon locator; requires authored scan review.",
+  "includes_post_chapter_colophon": false,
+  "source_files": {
+    "diplomatic/source-anchors.json": "83875fc89625068a7ccc2e7ed823695abf77d9dd7aee7abc8db290d53eb447a9",
+    "diplomatic/electronic-collation.json": "963157f0ed195706a0750e5bd48d3402e11d82b2cb4972e1b02babccaa353ed4",
+    "diplomatic/chapter-map.json": "7dc731991db28074fd108012597f6dc16f8d269e39f4b1422a9499bfb32b838a",
+    "diplomatic/anomalies.json": "67c593d039dc683cfdda8b3541978f8f40f6e9bff776722e1c3990eb69079b85"
+  },
+  "difference_ids": [],
+  "anomaly_ids": [
+    "MTP-A001428-GRAPHIC",
+    "MTP-A001499-EWTS",
+    "MTP-A001534-EWTS",
+    "MTP-A001753-EWTS",
+    "MTP-A001767-EWTS"
+  ],
+  "required_decision_anchors": [
+    "MTP-S001428",
+    "MTP-S001429",
+    "MTP-S001451",
+    "MTP-S001499",
+    "MTP-S001506",
+    "MTP-S001507",
+    "MTP-S001522",
+    "MTP-S001534",
+    "MTP-S001549",
+    "MTP-S001661",
+    "MTP-S001700",
+    "MTP-S001751",
+    "MTP-S001753",
+    "MTP-S001767",
+    "MTP-S001768",
+    "MTP-S001769"
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C07-CHECK-001",
+      "anchor_ids": [
+        "MTP-S001429"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C07-CHECK-002",
+      "anchor_ids": [
+        "MTP-S001769"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C07-CHECK-003",
+      "anchor_ids": [
+        "MTP-S001428"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C07-CHECK-004",
+      "anchor_ids": [
+        "MTP-S001499"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C07-CHECK-005",
+      "anchor_ids": [
+        "MTP-S001534"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C07-CHECK-006",
+      "anchor_ids": [
+        "MTP-S001753"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C07-CHECK-007",
+      "anchor_ids": [
+        "MTP-S001767"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-TRIAGE-035",
+      "anchor_ids": [
+        "MTP-S001451"
+      ],
+      "question": "rol in a sensory list; may be source wording, so do not harmonize to an expected list."
+    },
+    {
+      "id": "MTP-TRIAGE-036",
+      "anchor_ids": [
+        "MTP-S001506",
+        "MTP-S001507"
+      ],
+      "question": "dngos bo and brgags: verify unusual forms and any source-layer distinction."
+    },
+    {
+      "id": "MTP-TRIAGE-037",
+      "anchor_ids": [
+        "MTP-S001522"
+      ],
+      "question": "smin lam in a list of perfections; exact source evidence controls treatment."
+    },
+    {
+      "id": "MTP-TRIAGE-038",
+      "anchor_ids": [
+        "MTP-S001549"
+      ],
+      "question": "brag pa bcas in a paired phrase with zag med; verify printed glyphs."
+    },
+    {
+      "id": "MTP-TRIAGE-039",
+      "anchor_ids": [
+        "MTP-S001661"
+      ],
+      "question": "rtos: unusual contracted-looking ending; do not add a letter without source support."
+    },
+    {
+      "id": "MTP-TRIAGE-040",
+      "anchor_ids": [
+        "MTP-S001700"
+      ],
+      "question": "lgas: unexpected consonant order in recurring ma ... na formula."
+    },
+    {
+      "id": "MTP-TRIAGE-041",
+      "anchor_ids": [
+        "MTP-S001751"
+      ],
+      "question": "dum gzugs: check exact wording without doctrinal harmonization."
+    },
+    {
+      "id": "MTP-TRIAGE-042",
+      "anchor_ids": [
+        "MTP-S001768",
+        "MTP-S001769"
+      ],
+      "question": "Classify chapter-seven closing formula."
+    }
+  ],
+  "scope": "Bounded governing-Adzom reading; same-family electronic comparison and targeted scan checks.",
+  "required_outputs": [
+    "reading.md",
+    "reading.json",
+    "apparatus.json",
+    "changes.json",
+    "coverage.json",
+    "build-manifest.json"
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "outside_scope": [
+    "Full scan proofreading",
+    "Exhaustive witness collation",
+    "Unattested repair",
+    "Translation"
+  ],
+  "freeze_note": "No timestamp in deterministic contract. Exact bytes fixed by contract.sha256; changes require a new edition contract."
+}

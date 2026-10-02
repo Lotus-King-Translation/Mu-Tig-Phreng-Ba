@@ -1,0 +1,60 @@
+[
+  {
+    "id": "MTP-TRIAGE-035",
+    "anchor_ids": [
+      "MTP-S001451"
+    ],
+    "question": "rol in a sensory list; may be source wording, so do not harmonize to an expected list."
+  },
+  {
+    "id": "MTP-TRIAGE-036",
+    "anchor_ids": [
+      "MTP-S001506",
+      "MTP-S001507"
+    ],
+    "question": "dngos bo and brgags: verify unusual forms and any source-layer distinction."
+  },
+  {
+    "id": "MTP-TRIAGE-037",
+    "anchor_ids": [
+      "MTP-S001522"
+    ],
+    "question": "smin lam in a list of perfections; exact source evidence controls treatment."
+  },
+  {
+    "id": "MTP-TRIAGE-038",
+    "anchor_ids": [
+      "MTP-S001549"
+    ],
+    "question": "brag pa bcas in a paired phrase with zag med; verify printed glyphs."
+  },
+  {
+    "id": "MTP-TRIAGE-039",
+    "anchor_ids": [
+      "MTP-S001661"
+    ],
+    "question": "rtos: unusual contracted-looking ending; do not add a letter without source support."
+  },
+  {
+    "id": "MTP-TRIAGE-040",
+    "anchor_ids": [
+      "MTP-S001700"
+    ],
+    "question": "lgas: unexpected consonant order in recurring ma ... na formula."
+  },
+  {
+    "id": "MTP-TRIAGE-041",
+    "anchor_ids": [
+      "MTP-S001751"
+    ],
+    "question": "dum gzugs: check exact wording without doctrinal harmonization."
+  },
+  {
+    "id": "MTP-TRIAGE-042",
+    "anchor_ids": [
+      "MTP-S001768",
+      "MTP-S001769"
+    ],
+    "question": "Classify chapter-seven closing formula."
+  }
+]
