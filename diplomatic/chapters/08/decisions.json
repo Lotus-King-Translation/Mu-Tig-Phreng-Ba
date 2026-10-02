@@ -1,1 +1,1241 @@
-[]
+[
+  {
+    "id": "MTP-C08-TR-D001770",
+    "anchor_id": "MTP-S001770",
+    "old": "༄༨",
+    "new": "༄༨",
+    "role": "metadata",
+    "treatment": "classify_layer",
+    "reason": "Preserve supplied ༄༨ as electronic @8 chapter metadata at the supported source boundary, not a transcribed root-text phrase.",
+    "evidence_ids": [
+      "MTP-C08-TR-E530"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D001771",
+    "anchor_id": "MTP-S001771",
+    "old": "དེ་ནས་རྡོ་རྗེ་འཛིན་པ་དེས",
+    "new": "དེ་ནས་རྡོ་རྗེ་འཛིན་པ་དེས",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Native image530 row4 right supports the exact chapter8 opening immediately following chapter7 closure.",
+    "evidence_ids": [
+      "MTP-C08-TR-E530",
+      "MTP-C08-TR-C530-1771"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001811",
+    "anchor_id": "MTP-S001811",
+    "old": "དྲི་མ་མེད་དང་སོ་སོར་དངས",
+    "new": "དྲི་མ་མེད་དང་སོ་སོར་དངས",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "The main printed phrase supports དངས. Preserve the source spelling; the EWTS warning is not evidence for changing it to དྭངས or another form.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E532",
+      "MTP-C08-PIPE-CROP-pipeline-S1811-detail"
+    ],
+    "uncertainty": [],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001823",
+    "anchor_id": "MTP-S001823",
+    "old": "གནད་ནི་རྣམ་པ་གསུམ་དག་གིས",
+    "new": "གནད་ནི་རྣམ་པ་གསུམ་དག་གིས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The main text is interrupted by smaller source explanations but supports the supplied sequence གནད་ནི་རྣམ་པ་གསུམ་དག་གིས. Retain this anchor without manufacturing material to complete the following list.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E533",
+      "MTP-C08-PIPE-CROP-pipeline-S1823-1824-detail"
+    ],
+    "uncertainty": [
+      "Smaller source explanations between གནད་ནི and རྣམ་པ་གསུམ remain untranscribed. Their presence is recorded, not flattened into the main verse."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001824",
+    "anchor_id": "MTP-S001824",
+    "old": "དེ་ཡི་དོན་ཉིད་ཉམས་སུ་བླངས",
+    "new": "དེ་ཡི་དོན་ཉིད་ཉམས་སུ་བླངས",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "The large-type printed phrase supports the supplied དེ་ཡི་དོན་ཉིད་ཉམས་སུ་བླངས. No source-supported change is required.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E533",
+      "MTP-C08-PIPE-CROP-pipeline-S1823-1824-detail"
+    ],
+    "uncertainty": [],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001825",
+    "anchor_id": "MTP-S001825",
+    "old": "ལུས་དང་དང་ཡུལ་ཉིད་དོ",
+    "new": "ལུས་དང་དང་ཡུལ་ཉིད་དོ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The native image shows large-type ལུས་དང, then smaller source explanation, then large-type དང་ཡུལ; ཉིད་དོ continues in the following physical row. A main-text མིག between the two དང is not securely attested. Retain the exact repeated དང rather than restore a noun from the expected threefold list.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E533",
+      "MTP-C08-PIPE-CROP-pipeline-S1825-detail",
+      "MTP-C08-PIPE-CROP-pipeline-S1823-1826-rows"
+    ],
+    "uncertainty": [
+      "The reading remains ལུས་དང་དང་ཡུལ་ཉིད་དོ. The apparent missing member is unresolved: the governing image does not securely establish a main-text མིག to restore. No restoration is made.",
+      "Smaller source notes after ལུས་དང and ཡུལ remain untranscribed; their exact wording and relation to the apparent missing member are not established."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001826",
+    "anchor_id": "MTP-S001826",
+    "old": "ལུས་ཀྱི་གནད་ནི་རྣམ་གསུམ་སྟེ",
+    "new": "ལུས་ཀྱི་གནད་ནི་རྣམ་གསུམ་སྟེ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The main printed sequence supports ལུས་ཀྱི་གནད་ནི་རྣམ་གསུམ་སྟེ. The smaller text after ལུས་ཀྱི is a distinct source layer, not an omitted main-text member inferred from context.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E533",
+      "MTP-C08-PIPE-CROP-pipeline-S1826-detail"
+    ],
+    "uncertainty": [
+      "The smaller source explanation after ལུས་ཀྱི remains untranscribed."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001861",
+    "anchor_id": "MTP-S001861",
+    "old": "རང་བཞིན་རྒྱུད་ནི་འདི་ལྟ་སེ",
+    "new": "རང་བཞིན་རྒྱུད་ནི་འདི་ལྟ་སྟེ",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "The native final syllable visibly has the subjoined ཏ in སྟེ. Correct transcript སེ to source-attested སྟེ.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E536",
+      "MTP-C08-PIPE-CROP-pipeline-S1861-detail"
+    ],
+    "uncertainty": [],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001873",
+    "anchor_id": "MTP-S001873",
+    "old": "སྙིང་པོ་རྫོགས་པའི་རང་བཞིན་རྒྱད",
+    "new": "སྙིང་པོ་རྫོགས་པའི་རང་བཞིན་རྒྱད",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The final word belongs to printed 527/image 537 row 1, continuing the anchor from printed 526. Its visible form supports retention of transcript རྒྱད; no secure separate u-vowel is established here. Do not normalize the word to རྒྱུད from parallel vocabulary.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E536",
+      "MTP-C08-PIPE-E537",
+      "MTP-C08-PIPE-CROP-pipeline-S1873-detail",
+      "MTP-C08-PIPE-CROP-pipeline-S1873-continuation"
+    ],
+    "uncertainty": [
+      "The unusual རྒྱད is retained; the expected རྒྱུད is not silently supplied. The final syllable is on printed 527, despite the anchor page hint 526.",
+      "Smaller source explanation after སྙིང་པོ on printed 526 remains untranscribed."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001877",
+    "anchor_id": "MTP-S001877",
+    "old": "རང་བཞིན་ཅིཏ་ཏའི་དཀྱིལ་འཁོར་དུ",
+    "new": "རང་བཞིན་ཅིཏྟའི་དཀྱིལ་འཁོར་དུ",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "The native syllable visibly stacks tta rather than the transcript’s separated ཅིཏ་ཏའི. Correct only the supported stack to ཅིཏྟའི; preserve the supplied initial ca because its distinction from tsa is not securely resolved in this bounded native examination.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E537",
+      "MTP-C08-PIPE-CROP-pipeline-S1877-detail"
+    ],
+    "uncertainty": [
+      "The printed initial consonant remains uncertain between ca and tsa. The selected ཅིཏྟའི retains supplied ca and does not claim to settle that distinction; only the tta stack is securely supported."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001896",
+    "anchor_id": "MTP-S001896",
+    "old": "སྙིང་པོ་བསྡུས་པས་དངས་མ་གསུམ",
+    "new": "སྙིང་པོ་བསྡུས་པས་དངས་མ་གསུམ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The main printed phrase supports དངས་མ. Preserve that source spelling; the converter warning does not establish corruption.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E538",
+      "MTP-C08-PIPE-CROP-pipeline-S1896-row"
+    ],
+    "uncertainty": [
+      "Smaller source explanation between དངས་མ and the large-type གསུམ remains untranscribed."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-PIPE-D001903",
+    "anchor_id": "MTP-S001903",
+    "old": "གཞི་དང་ལམ་དྲང་པོ་དང་འབྲས་བུ་ཡིས",
+    "new": "གཞི་དང་ལམ་དང་པོ་དང་འབྲས་བུ་ཡིས",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "The source shows full-size དང་པོ without the transcript’s subjoined r. Retain both words in the main sequence and correct only དྲང to དང. The surrounding distinctly smaller notes do not justify deleting this larger text.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E538",
+      "MTP-C08-PIPE-CROP-pipeline-S1903-detail"
+    ],
+    "uncertainty": [
+      "Smaller source explanations after གཞི and འབྲས་བུ remain untranscribed. Their wording is not silently merged into the main verse.",
+      "The expanded source sequence ལམ་དང་པོ is retained. This bounded typography check does not establish its earlier textual history."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "CH08-BASE-D001939",
+    "anchor_id": "MTP-S001939",
+    "old": "རྒྱ་མཚོ་དང་ནི་ཉི་མ་དང",
+    "new": "རྒྱ་མཚོ་དང་ནི་ཉི་མ་དང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E540"
+    ],
+    "uncertainty": [
+      "Smaller explanations after the two named items remain untranscribed; the second note continues on physical line6."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image540, printed530, line5 right, with note continuation on line6 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001940",
+    "anchor_id": "MTP-S001940",
+    "old": "སེང་གེ་དང་ནི་རི་རྒྱལ་དང",
+    "new": "སེང་གེ་དང་ནི་རི་རྒྱལ་དང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E540"
+    ],
+    "uncertainty": [
+      "Smaller explanations following སེང་གེ and རི་རྒྱལ remain untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image540, printed530, line6 center to right.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001941",
+    "anchor_id": "MTP-S001941",
+    "old": "༥༣༡",
+    "new": "༥༣༡",
+    "role": "metadata",
+    "treatment": "classify_layer",
+    "reason": "Preserve the supplied numeric page marker as metadata; it is not main root text.",
+    "evidence_ids": [
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image541, printed531, printed page number531 in upper left margin.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001942",
+    "anchor_id": "MTP-S001942",
+    "old": "འཁོར་ལོ་དང་ནི་ལྡེ་མིག་དང",
+    "new": "འཁོར་ལོ་དང་ནི་ལྡེ་མིག་དང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [
+      "Smaller explanations following འཁོར་ལོ and ལྡེ་མིག remain untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image541, printed531, line1 center.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001943",
+    "anchor_id": "MTP-S001943",
+    "old": "རལ་གྲི་དང་ནི་གསལ་ཤིང་དང",
+    "new": "རལ་གྲི་དང་ནི་གསལ་ཤིང་དང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [
+      "Smaller explanations following རལ་གྲི and གསལ་ཤིང remain untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image541, printed531, line1 right through line2 center.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001944",
+    "anchor_id": "MTP-S001944",
+    "old": "གསེར་ཞུན་དང་ནི་མ་བུ་འབྲེལ",
+    "new": "གསེར་ཞུན་དང་ནི་མ་བུ་འབྲེལ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [
+      "Smaller explanations following གསེར་ཞུན and མ་བུ་འབྲེལ remain untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image541, printed531, line2 right through line3 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001945",
+    "anchor_id": "MTP-S001945",
+    "old": "མེ་ལོང་དང་ནི་མུ་ཏིག་བརྒྱུས",
+    "new": "མེ་ལོང་དང་ནི་མུ་ཏིག་བརྒྱུས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [
+      "Smaller explanations following མེ་ལོང and མུ་ཏིག་བརྒྱུས remain untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image541, printed531, line3 center to right.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001946",
+    "anchor_id": "MTP-S001946",
+    "old": "སྦྲུལ་མདུད་དང་ནི་ཁྱུང་ཆེན་དང",
+    "new": "སྦྲུལ་མདུད་དང་ནི་ཁྱུང་ཆེན་དང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [
+      "Smaller explanations following སྦྲུལ་མདུད and ཁྱུང་ཆེན remain untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image541, printed531, line3 right through line4 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001947",
+    "anchor_id": "MTP-S001947",
+    "old": "ཆུ་རྒྱུན་དང་ནི་སྤུ་གྲི་དང",
+    "new": "ཆུ་རྒྱུན་དང་ནི་སྤུ་གྲི་དང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [
+      "Smaller explanations following ཆུ་རྒྱུན and སྤུ་གྲི remain untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image541, printed531, line4 center to right.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001948",
+    "anchor_id": "MTP-S001948",
+    "old": "རྒྱལ་པོས་དང་ནི་བང་མཛོད་དང",
+    "new": "རྒྱལ་པོས་དང་ནི་བང་མཛོད་དང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [
+      "Smaller explanations following རྒྱལ་པོས and བང་མཛོད remain untranscribed; the unusual exact supplied name forms are retained."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image541, printed531, line5 left through center-right.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001949",
+    "anchor_id": "MTP-S001949",
+    "old": "དེ་ལྟར་རྣམ་པར་ཕྱེ་བས་ནི",
+    "new": "དེ་ལྟར་རྣམ་པར་ཕྱེ་བས་ནི",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image541, printed531, line5 right.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001957",
+    "anchor_id": "MTP-S001957",
+    "old": "རྒྱུད་ཀྱི་དངས་མ་གསུམ་ཤེས་ན",
+    "new": "རྒྱུད་ཀྱི་དངས་མ་གསུམ་ཤེས་ན",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain printed དངས in the supplied main sequence. The EWTS warning does not authorize spelling repair.",
+    "evidence_ids": [
+      "CH08-BASE-E542"
+    ],
+    "uncertainty": [
+      "Smaller source explanation interrupts དངས་མ and གསུམ on lines1–2 and remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image542, printed532, line1 right through line2 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-ROOT-D1977",
+    "anchor_id": "MTP-S001977",
+    "old": "གོ་ཞུབ་ལྡན་པའི་སྒོ་བསྲུང་འདྲ",
+    "new": "གོ་ཞུབ་ལྡན་པའི་སྒོ་བསྲུང་འདྲ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the unusual supplied spelling གོ་ཞུབ supported by native image543 line2right; do not harmonize the source to a more familiar armor spelling.",
+    "evidence_ids": [
+      "CH08-ROOT-E543",
+      "CH08-ROOT-C1977"
+    ],
+    "uncertainty": [
+      "Smaller source explanation after སྒོ་བསྲུང remains untranscribed; final འདྲ continues at physical line3left."
+    ],
+    "native_inspector": "/root coordinating agent",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001981",
+    "anchor_id": "MTP-S001981",
+    "old": "དེ་ཡང་རྒྱུད་ཀྱི་རིམ་པ་ནི",
+    "new": "དེ་ཡང་རྒྱུད་ཀྱི་རིམ་པ་ནི",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line3 right.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001982",
+    "anchor_id": "MTP-S001982",
+    "old": "རྩ་བའི་རྒྱུད་ནི་གཉིས་ཀྱིས་ནི",
+    "new": "རྩ་བའི་རྒྱུད་ནི་གཉིས་ཀྱིས་ནི",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543"
+    ],
+    "uncertainty": [
+      "Smaller explanation between རྒྱུད་ནི and the printed གཉིས remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line3 far right through line4 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001983",
+    "anchor_id": "MTP-S001983",
+    "old": "ཆོས་ཀུན་གཅིག་པ་ཉིད་དུ་བཤད",
+    "new": "ཆོས་ཀུན་གཅིག་པ་ཉིད་དུ་བཤད",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543"
+    ],
+    "uncertainty": [
+      "Smaller explanation after ཆོས་ཀུན remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line4 center.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001984",
+    "anchor_id": "MTP-S001984",
+    "old": "བཤད་རྒྱུད་མ་བུ་གཉིས་ཀྱིས་ནི",
+    "new": "བཤད་རྒྱུད་མ་བུ་གཉིས་ཀྱིས་ནི",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543"
+    ],
+    "uncertainty": [
+      "Smaller explanation between བཤད་རྒྱུད and མ་བུ remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line4 right.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001985",
+    "anchor_id": "MTP-S001985",
+    "old": "ལོ་འདབ་རྒྱས་པའི་ཚུལ་དུ་བཤད",
+    "new": "ལོ་འདབ་རྒྱས་པའི་ཚུལ་དུ་བཤད",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line4 far right through line5 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001986",
+    "anchor_id": "MTP-S001986",
+    "old": "ཡན་ལག་རྒྱུད་ནི་གཉིས་དག་གིས",
+    "new": "ཡན་ལག་རྒྱུད་ནི་གཉིས་དག་གིས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543"
+    ],
+    "uncertainty": [
+      "Smaller explanation between ཡན་ལག་རྒྱུད་ནི and གཉིས remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line5 left through center.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001987",
+    "anchor_id": "MTP-S001987",
+    "old": "རྒྱ་མཚོར་གཟའ་སྐར་ཤར་བཞིན་བཤད",
+    "new": "རྒྱ་མཚོར་གཟའ་སྐར་ཤར་བཞིན་བཤད",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543"
+    ],
+    "uncertainty": [
+      "Smaller explanation between ཤར་བཞིན and བཤད remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line5 center-right to right.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001988",
+    "anchor_id": "MTP-S001988",
+    "old": "ལུང་རིག་གསལ་བའི་རྒྱུད་གཉིས་ཀྱིས",
+    "new": "ལུང་རིག་གསལ་བའི་རྒྱུད་གཉིས་ཀྱིས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543"
+    ],
+    "uncertainty": [
+      "Smaller explanation between རྒྱུད and གཉིས remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line6 left through center.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001989",
+    "anchor_id": "MTP-S001989",
+    "old": "མེ་ཏོག་ཁ་བྱེའི་ཚུལ་དུ་བཤད",
+    "new": "མེ་ཏོག་ཁ་བྱེའི་ཚུལ་དུ་བཤད",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line6 center.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001990",
+    "anchor_id": "MTP-S001990",
+    "old": "མན་ངག་རྒྱུད་སྡེ་བཞི་ཡིས་ནི",
+    "new": "མན་ངག་རྒྱུད་སྡེ་བཞི་ཡིས་ནི",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E543",
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [
+      "Smaller source explanations before and after the printed བཞི་ཡིས་ནི remain untranscribed; the numeral occurs at image544 line1 left."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image543, printed533, line6 right, continuing at image544 line1 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001991",
+    "anchor_id": "MTP-S001991",
+    "old": "༥༣༤",
+    "new": "༥༣༤",
+    "role": "metadata",
+    "treatment": "classify_layer",
+    "reason": "Preserve the supplied numeric page marker as metadata; it is not main root text.",
+    "evidence_ids": [
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image544, printed534, printed page number534 in upper left margin.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001992",
+    "anchor_id": "MTP-S001992",
+    "old": "འབྲས་བུ་སྨིན་པའི་ཚུལ་དུ་བཤད",
+    "new": "འབྲས་བུ་སྨིན་པའི་ཚུལ་དུ་བཤད",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image544, printed534, line1 center.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001993",
+    "anchor_id": "MTP-S001993",
+    "old": "དགོངས་པ་རང་གནས་རྒྱུད་གསུམ་གྱིས",
+    "new": "དགོངས་པ་རང་གནས་རྒྱུད་གསུམ་གྱིས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [
+      "Smaller source explanations between རྒྱུད and the line2 གསུམ་གྱིས remain untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image544, printed534, line1 right through line2 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001994",
+    "anchor_id": "MTP-S001994",
+    "old": "མཐོང་བྱེད་མིག་གི་ཚུལ་དུ་བཤད",
+    "new": "མཐོང་བྱེད་མིག་གི་ཚུལ་དུ་བཤད",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [
+      "Smaller source explanation before final བཤད remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image544, printed534, line2 left through center.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001995",
+    "anchor_id": "MTP-S001995",
+    "old": "འཇུག་པ་རང་གྲོལ་རྒྱུད་གཉིས་ཀྱིས",
+    "new": "འཇུག་པ་རང་གྲོལ་རྒྱུད་གཉིས་ཀྱིས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [
+      "Smaller source explanation between རང་གྲོལ and རྒྱུད remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image544, printed534, line2 right through line3 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001996",
+    "anchor_id": "MTP-S001996",
+    "old": "དྲན་གཞི་སྙིང་གི་ཚུལ་དུ་བཤད",
+    "new": "དྲན་གཞི་སྙིང་གི་ཚུལ་དུ་བཤད",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [
+      "Smaller source explanation between སྙིང་གི and ཚུལ་དུ་བཤད remains untranscribed."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image544, printed534, line3 left through center-right.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001997",
+    "anchor_id": "MTP-S001997",
+    "old": "མཁས་པ་ཆོ་གའི་རྒྱུད་ཀྱིས་ནི",
+    "new": "མཁས་པ་ཆོ་གའི་རྒྱུད་ཀྱིས་ནི",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main wording at the directly inspected governing locus. The structural list is preserved without harmonization to the conventional corpus count.",
+    "evidence_ids": [
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [
+      "Smaller source explanation between ཆོ་གའི and རྒྱུད་ཀྱིས་ནི remains untranscribed. The single final category is not an explicitly printed numeral གཅིག."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image544, printed534, line3 right through line4 left.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-D001998",
+    "anchor_id": "MTP-S001998",
+    "old": "མེ་ལ་ཚེ་བྱེད་པའི་ཁྱེ་ལྟར་བཤད",
+    "new": "མེ་ལ་ཚེ་བྱེད་པའི་ཁྱེ་ལྟར་བཤད",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the exact supplied string with explicit glyph/layer uncertainty; native interleaving does not support a secure deletion or replacement.",
+    "evidence_ids": [
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [
+      "Interleaved smaller explanation before ལྟར་བཤད remains untranscribed. Exact main-text versus note allocation around supplied ཁྱེ is not securely resolved; retain the entire supplied string without deletion or conjectural reconstruction."
+    ],
+    "native_inspector": "/root/golden_base_review",
+    "source_locus": "Image544, printed534, line4 left through center.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-ROOT-D2020",
+    "anchor_id": "MTP-S002020",
+    "old": "མདོ་ནི་བྲབ་མོའི་དོན་དུ་བསྡུ",
+    "new": "མདོ་ནི་ཟབ་མོའི་དོན་དུ་བསྡུ",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "Native image545 line4 prints ཟབ་མོའི. Correct the supplied initial cluster བྲབ to the visible ཟབ, without grammatical conjecture.",
+    "evidence_ids": [
+      "CH08-ROOT-E545",
+      "CH08-ROOT-C2020"
+    ],
+    "uncertainty": [
+      "Smaller source explanation after དོན remains untranscribed and separate from the main continuation དུ་བསྡུ."
+    ],
+    "native_inspector": "/root coordinating agent",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    }
+  },
+  {
+    "id": "CH08-ROOT-D2026",
+    "anchor_id": "MTP-S002026",
+    "old": "གནས་པ་ཐུས་ཏེ་ཅིཏ་ཏའི་དཀྱིལ",
+    "new": "གནས་པ་ཐུགས་ཏེ་ཅིཏྟའི་དཀྱིལ",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "Native image545 line6 visibly has ga in ཐུགས and stacked tta in the compact Sanskrit syllable. Correct ཐུས→ཐུགས and the supplied split ཅིཏ་ཏའི→ཅིཏྟའི. Retain supplied initial ca without claiming secure distinction from tsa.",
+    "evidence_ids": [
+      "CH08-ROOT-E545",
+      "CH08-ROOT-C2026"
+    ],
+    "uncertainty": [
+      "The Sanskrit initial ca/tsa distinction is not securely resolved; supplied ca is retained while the clearly printed tta stack is encoded.",
+      "Smaller source wording after the main དཀྱིལ remains untranscribed and separate from this selected main phrase."
+    ],
+    "native_inspector": "/root coordinating agent",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    }
+  },
+  {
+    "id": "MTP-C08-TR-D002034",
+    "anchor_id": "MTP-S002034",
+    "old": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས",
+    "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "Native image546 row5 center supports this title formula as the chapter8 colophon. The supplied535 page hint is historical metadata; actual printed placement is536.",
+    "evidence_ids": [
+      "MTP-C08-TR-E546",
+      "MTP-C08-TR-C546-end-row5-left"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002035",
+    "anchor_id": "MTP-S002035",
+    "old": "རྒྱུད་ཐམས་ཅད་བསྡོམས་ཏེ་བསྟན་པའི་ལེའུ་སྟེ་བརྒྱད་པའོ",
+    "new": "རྒྱུད་ཐམས་ཅད་བསྡོམས་ཏེ་བསྟན་པའི་ལེའུ་སྟེ་བརྒྱད་པའོ",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "Native image546 row5 right continues at row6 left through བརྒྱད་པའོ. Preserve exact wording and classify the chapter8 closing formula.",
+    "evidence_ids": [
+      "MTP-C08-TR-E546",
+      "MTP-C08-TR-C546-end-row5-right",
+      "MTP-C08-TR-C546-end-row6-left"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002036",
+    "anchor_id": "MTP-S002036",
+    "old": "དེ་སྐད་ཅེས་སེམས་མེད་པའི་རིག་པས་བཀའ་སྩལ་པ་དང",
+    "new": "དེ་སྐད་ཅེས་སེམས་མེད་པའི་རིག་པས་བཀའ་སྩལ་པ་དང",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "After the numbered chapter closure, image546 row6 begins the work-closing narrative with this exact supplied string. Retain as narrative main text.",
+    "evidence_ids": [
+      "MTP-C08-TR-E546",
+      "MTP-C08-TR-C546-end-row6-left"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002037",
+    "anchor_id": "MTP-S002037",
+    "old": "རིག་པ་རྡོ་རྗེ་རྣོན་པོ་ལ་སོགས་པ",
+    "new": "རིག་པ་རྡོ་རྗེ་རྣོན་པོ་ལ་སོགས་པ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Image546 row6 continues the closing narrative with rig pa rdo rje rnon po la sogs pa. Retain the supplied main sequence.",
+    "evidence_ids": [
+      "MTP-C08-TR-E546",
+      "MTP-C08-TR-C546-end-row6-left",
+      "MTP-C08-TR-C546-end-row6-right"
+    ],
+    "uncertainty": [
+      "Smaller explanatory wording after ལ་སོགས་པ remains untranscribed; the exact attachment and layer scope of its ending are not certified."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002038",
+    "anchor_id": "MTP-S002038",
+    "old": "རིགས་ལྔའི་དེ་བཞིན་གཤེགས་པ་དང",
+    "new": "རིགས་ལྔའི་དེ་བཞིན་གཤེགས་པ་དང",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Image546 row6 ends with the beginning of this narrative list item; final དང appears at image547 row1 left. Retain the supplied complete anchor across the physical page boundary.",
+    "evidence_ids": [
+      "MTP-C08-TR-E546",
+      "MTP-C08-TR-C546-end-row6-right",
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row1-left"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002039",
+    "anchor_id": "MTP-S002039",
+    "old": "༥༣༧",
+    "new": "༥༣༧",
+    "role": "metadata",
+    "treatment": "classify_layer",
+    "reason": "Preserve supplied electronic marker537. Native images545–547 include printed535,536,537; assigned end text is continuous from546 into547. Absence of electronic marker536 is not evidence of a missing source page or textual span. No marker or text is invented.",
+    "evidence_ids": [
+      "MTP-C08-TR-E546",
+      "MTP-C08-TR-E547"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002040",
+    "anchor_id": "MTP-S002040",
+    "old": "རིགས་གསུམ་གྱི་ཁྲོ་བོ་དང",
+    "new": "རིགས་གསུམ་གྱི་ཁྲོ་བོ་དང",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Image547 row1 left supports this closing-narrative list item following the carried final dang of S2038. Retain exact text.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row1-left"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002041",
+    "anchor_id": "MTP-S002041",
+    "old": "སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་དང",
+    "new": "སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་དང",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Image547 row1 continues the closing-narrative list with the supplied sangs rgyas chos dang dge dun dang. Retain exact text.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row1-left"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002042",
+    "anchor_id": "MTP-S002042",
+    "old": "ལྷ་དང་ལྷ་མ་ཡིན་དང",
+    "new": "ལྷ་དང་ལྷ་མ་ཡིན་དང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Image547 row1 right supports the supplied main list item lha dang lha ma yin dang. Retain it as closing narrative.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row1-right",
+      "MTP-C08-TR-C547-row2-left"
+    ],
+    "uncertainty": [
+      "Smaller source explanation after this list item continues at row2 left and remains untranscribed; it is not merged into the selected main string."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002043",
+    "anchor_id": "MTP-S002043",
+    "old": "མཁའ་འགྲོ་མ་དཔག་ཏུ་མེད་པ་དང",
+    "new": "མཁའ་འགྲོ་མ་དཔག་ཏུ་མེད་པ་དང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Image547 row2 supports the supplied narrative sequence mkha gro ma dpag tu med pa dang around intervening smaller source explanation. Retain exact text.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row2-left",
+      "MTP-C08-TR-C547-row2-right"
+    ],
+    "uncertainty": [
+      "Smaller printed wording between དཔག and ཏུ་མེད་པ་དང remains untranscribed and separate from the main list."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002044",
+    "anchor_id": "MTP-S002044",
+    "old": "དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རང་སྟེ",
+    "new": "དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རང་སྟེ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Image547 row2 right continues at row3 left with the supplied final narrative list item through yi rang ste. Retain the exact original wording and division.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row2-right",
+      "MTP-C08-TR-C547-row3-left"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002045",
+    "anchor_id": "MTP-S002045",
+    "old": "བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ",
+    "new": "བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Image547 row3 supports the closing narrative praise sentence through mngon par bstod do. Retain exact text; the following work-title colophon is separate.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row3-left"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002046",
+    "anchor_id": "MTP-S002046",
+    "old": "མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+    "new": "མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+    "role": "colophon",
+    "treatment": "classify_layer",
+    "reason": "Image547 row3 gives this work-title formula after the narrative ending. Classify as work colophon and retain exact text.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row3-left",
+      "MTP-C08-TR-C547-row3-right"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002047",
+    "anchor_id": "MTP-S002047",
+    "old": "རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་རྒྱུད་འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞིའི་ཁྱད་པར་དུ་ཕྱུང་བའོ",
+    "new": "རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་རྒྱུད་འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞིའི་ཁྱད་པར་དུ་ཕྱུང་བའོ",
+    "role": "colophon",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Image547 rows3–4 support this work-colophon statement and its received numeral wording. Preserve the exact supplied sequence rather than harmonizing its number or replacing it with a reconstructed formula.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row3-right",
+      "MTP-C08-TR-C547-row4-left",
+      "MTP-C08-TR-C547-row4-right"
+    ],
+    "uncertainty": [
+      "Smaller source explanation within the long colophon, after the numeral phrase and near ཁྱད་པར་དུ, remains untranscribed; exact annotation attachment is not certified."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002048",
+    "anchor_id": "MTP-S002048",
+    "old": "རྫོགས་སོ",
+    "new": "རྫོགས་སོ",
+    "role": "colophon",
+    "treatment": "classify_layer",
+    "reason": "Image547 row4 explicitly closes the work with རྫོགས་སོ. Preserve it as a work-ending colophon object.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row4-right"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002049",
+    "anchor_id": "MTP-S002049",
+    "old": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ཀྱི་འགྲེལ་པ་གསལ་བྱེད་ཅེས་བྱ་བ་ཡོད",
+    "new": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ཀྱི་འགྲེལ་པ་གསལ་བྱེད་ཅེས་བྱ་བ་ཡོད",
+    "role": "annotation",
+    "treatment": "classify_layer",
+    "reason": "After རྫོགས་སོ, image547 rows4–5 supply a notice naming a commentary. Classify as source annotation/paratext by its function and placement, without claiming smaller type or changing any words.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row4-right",
+      "MTP-C08-TR-C547-row5"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002050",
+    "anchor_id": "MTP-S002050",
+    "old": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ལ་མ་བུ་གསུམ",
+    "new": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ལ་མ་བུ་གསུམ",
+    "role": "annotation",
+    "treatment": "classify_layer",
+    "reason": "Image547 row5 follows the commentary notice with a related-work notice concerning ma bu gsum. Preserve it as source annotation/paratext after the work ending; this is a functional classification, not a reduced-type claim.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row5"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002051",
+    "anchor_id": "MTP-S002051",
+    "old": "དགེའོ",
+    "new": "དགེའོ",
+    "role": "colophon",
+    "treatment": "classify_layer",
+    "reason": "Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 1 of 3 as a separate closing-colophon object, retaining the supplied exact string.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row5"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002052",
+    "anchor_id": "MTP-S002052",
+    "old": "དགེའོ",
+    "new": "དགེའོ",
+    "role": "colophon",
+    "treatment": "classify_layer",
+    "reason": "Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 2 of 3 as a separate closing-colophon object, retaining the supplied exact string.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row5"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-TR-D002053",
+    "anchor_id": "MTP-S002053",
+    "old": "དགེའོ",
+    "new": "དགེའོ",
+    "role": "colophon",
+    "treatment": "classify_layer",
+    "reason": "Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 3 of 3 as a separate closing-colophon object, retaining the supplied exact string.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row5"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  }
+]

@@ -1,0 +1,427 @@
+{
+  "chapter": 8,
+  "passed": true,
+  "method": "Accepted full images match archived ZIP bytes; crops independently recropped at recorded coordinates and compared as exact RGBA pixel bytes. Pixel identity does not establish textual allocation.",
+  "records": [
+    {
+      "evidence_id": "MTP-C08-TR-E530",
+      "original_image": 530,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-E546",
+      "original_image": 546,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-E547",
+      "original_image": 547,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C530-1771",
+      "original_image": 530,
+      "crop": [
+        2450,
+        385,
+        2890,
+        495
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C546-end-row5-left",
+      "original_image": 546,
+      "crop": [
+        1400,
+        475,
+        2650,
+        610
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C546-end-row5-right",
+      "original_image": 546,
+      "crop": [
+        2630,
+        480,
+        3490,
+        615
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C546-end-row6-left",
+      "original_image": 546,
+      "crop": [
+        430,
+        575,
+        2170,
+        690
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C546-end-row6-right",
+      "original_image": 546,
+      "crop": [
+        2100,
+        560,
+        3490,
+        685
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C547-row1-left",
+      "original_image": 547,
+      "crop": [
+        820,
+        140,
+        2170,
+        255
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C547-row1-right",
+      "original_image": 547,
+      "crop": [
+        2150,
+        140,
+        3520,
+        255
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C547-row2-left",
+      "original_image": 547,
+      "crop": [
+        480,
+        240,
+        2120,
+        345
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C547-row2-right",
+      "original_image": 547,
+      "crop": [
+        2100,
+        230,
+        3520,
+        335
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C547-row3-left",
+      "original_image": 547,
+      "crop": [
+        490,
+        330,
+        2140,
+        435
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C547-row3-right",
+      "original_image": 547,
+      "crop": [
+        2100,
+        325,
+        3520,
+        430
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C547-row4-left",
+      "original_image": 547,
+      "crop": [
+        500,
+        430,
+        2090,
+        525
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C547-row4-right",
+      "original_image": 547,
+      "crop": [
+        2070,
+        415,
+        3560,
+        525
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-TR-C547-row5",
+      "original_image": 547,
+      "crop": [
+        480,
+        520,
+        2250,
+        640
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-E532",
+      "original_image": 532,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-E533",
+      "original_image": 533,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-E536",
+      "original_image": 536,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-E537",
+      "original_image": 537,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-E538",
+      "original_image": 538,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1823-1825-detail",
+      "original_image": 533,
+      "crop": [
+        2380,
+        330,
+        3570,
+        560
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1823-1826-rows",
+      "original_image": 533,
+      "crop": [
+        530,
+        275,
+        3560,
+        566
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1811-detail",
+      "original_image": 532,
+      "crop": [
+        520,
+        570,
+        1040,
+        685
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1825-detail",
+      "original_image": 533,
+      "crop": [
+        2370,
+        325,
+        3560,
+        466
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1826-detail",
+      "original_image": 533,
+      "crop": [
+        715,
+        450,
+        1650,
+        577
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1861-detail",
+      "original_image": 536,
+      "crop": [
+        2360,
+        100,
+        2930,
+        219
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1873-detail",
+      "original_image": 536,
+      "crop": [
+        2380,
+        537,
+        3478,
+        674
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1873-continuation",
+      "original_image": 537,
+      "crop": [
+        925,
+        135,
+        1055,
+        249
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1877-detail",
+      "original_image": 537,
+      "crop": [
+        1110,
+        215,
+        1770,
+        332
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1896-detail",
+      "original_image": 538,
+      "crop": [
+        1460,
+        202,
+        3200,
+        306
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1903-detail",
+      "original_image": 538,
+      "crop": [
+        2050,
+        556,
+        3270,
+        687
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1896-row",
+      "original_image": 538,
+      "crop": [
+        1450,
+        184,
+        3500,
+        318
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C08-PIPE-CROP-pipeline-S1823-1824-detail",
+      "original_image": 533,
+      "crop": [
+        540,
+        266,
+        3550,
+        469
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-BASE-E540",
+      "original_image": 540,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-BASE-E541",
+      "original_image": 541,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-BASE-E542",
+      "original_image": 542,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-BASE-E543",
+      "original_image": 543,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-BASE-E544",
+      "original_image": 544,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-ROOT-E543",
+      "original_image": 543,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-ROOT-E545",
+      "original_image": 545,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-ROOT-C1977",
+      "original_image": 543,
+      "crop": [
+        2510,
+        143,
+        3580,
+        277
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-ROOT-C2020",
+      "original_image": 545,
+      "crop": [
+        950,
+        395,
+        1810,
+        520
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH08-ROOT-C2026",
+      "original_image": 545,
+      "crop": [
+        1880,
+        535,
+        2540,
+        668
+      ],
+      "pixel_identity_verified": true
+    }
+  ]
+}

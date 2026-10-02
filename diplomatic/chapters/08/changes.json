@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "chapter": 8,
+  "changes": [
+    {
+      "id": "MTP-C08-PIPE-D001861",
+      "anchor_id": "MTP-S001861",
+      "old": "རང་བཞིན་རྒྱུད་ནི་འདི་ལྟ་སེ",
+      "new": "རང་བཞིན་རྒྱུད་ནི་འདི་ལྟ་སྟེ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The native final syllable visibly has the subjoined ཏ in སྟེ. Correct transcript སེ to source-attested སྟེ.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E536",
+        "MTP-C08-PIPE-CROP-pipeline-S1861-detail"
+      ],
+      "uncertainty": [],
+      "review_fragment": {
+        "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+        "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+      },
+      "native_inspector": "golden_pipeline agent"
+    },
+    {
+      "id": "MTP-C08-PIPE-D001877",
+      "anchor_id": "MTP-S001877",
+      "old": "རང་བཞིན་ཅིཏ་ཏའི་དཀྱིལ་འཁོར་དུ",
+      "new": "རང་བཞིན་ཅིཏྟའི་དཀྱིལ་འཁོར་དུ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The native syllable visibly stacks tta rather than the transcript’s separated ཅིཏ་ཏའི. Correct only the supported stack to ཅིཏྟའི; preserve the supplied initial ca because its distinction from tsa is not securely resolved in this bounded native examination.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E537",
+        "MTP-C08-PIPE-CROP-pipeline-S1877-detail"
+      ],
+      "uncertainty": [
+        "The printed initial consonant remains uncertain between ca and tsa. The selected ཅིཏྟའི retains supplied ca and does not claim to settle that distinction; only the tta stack is securely supported."
+      ],
+      "review_fragment": {
+        "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+        "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+      },
+      "native_inspector": "golden_pipeline agent"
+    },
+    {
+      "id": "MTP-C08-PIPE-D001903",
+      "anchor_id": "MTP-S001903",
+      "old": "གཞི་དང་ལམ་དྲང་པོ་དང་འབྲས་བུ་ཡིས",
+      "new": "གཞི་དང་ལམ་དང་པོ་དང་འབྲས་བུ་ཡིས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The source shows full-size དང་པོ without the transcript’s subjoined r. Retain both words in the main sequence and correct only དྲང to དང. The surrounding distinctly smaller notes do not justify deleting this larger text.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E538",
+        "MTP-C08-PIPE-CROP-pipeline-S1903-detail"
+      ],
+      "uncertainty": [
+        "Smaller source explanations after གཞི and འབྲས་བུ remain untranscribed. Their wording is not silently merged into the main verse.",
+        "The expanded source sequence ལམ་དང་པོ is retained. This bounded typography check does not establish its earlier textual history."
+      ],
+      "review_fragment": {
+        "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+        "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+      },
+      "native_inspector": "golden_pipeline agent"
+    },
+    {
+      "id": "CH08-ROOT-D2020",
+      "anchor_id": "MTP-S002020",
+      "old": "མདོ་ནི་བྲབ་མོའི་དོན་དུ་བསྡུ",
+      "new": "མདོ་ནི་ཟབ་མོའི་དོན་དུ་བསྡུ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image545 line4 prints ཟབ་མོའི. Correct the supplied initial cluster བྲབ to the visible ཟབ, without grammatical conjecture.",
+      "evidence_ids": [
+        "CH08-ROOT-E545",
+        "CH08-ROOT-C2020"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དོན remains untranscribed and separate from the main continuation དུ་བསྡུ."
+      ],
+      "native_inspector": "/root coordinating agent",
+      "review_fragment": {
+        "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+        "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+      }
+    },
+    {
+      "id": "CH08-ROOT-D2026",
+      "anchor_id": "MTP-S002026",
+      "old": "གནས་པ་ཐུས་ཏེ་ཅིཏ་ཏའི་དཀྱིལ",
+      "new": "གནས་པ་ཐུགས་ཏེ་ཅིཏྟའི་དཀྱིལ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image545 line6 visibly has ga in ཐུགས and stacked tta in the compact Sanskrit syllable. Correct ཐུས→ཐུགས and the supplied split ཅིཏ་ཏའི→ཅིཏྟའི. Retain supplied initial ca without claiming secure distinction from tsa.",
+      "evidence_ids": [
+        "CH08-ROOT-E545",
+        "CH08-ROOT-C2026"
+      ],
+      "uncertainty": [
+        "The Sanskrit initial ca/tsa distinction is not securely resolved; supplied ca is retained while the clearly printed tta stack is encoded.",
+        "Smaller source wording after the main དཀྱིལ remains untranscribed and separate from this selected main phrase."
+      ],
+      "native_inspector": "/root coordinating agent",
+      "review_fragment": {
+        "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+        "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+      }
+    },
+    {
+      "id": "MTP-C08-TR-D002034",
+      "anchor_id": "MTP-S002034",
+      "old": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས",
+      "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས",
+      "role": "chapter_colophon",
+      "treatment": "classify_layer",
+      "reason": "Native image546 row5 center supports this title formula as the chapter8 colophon. The supplied535 page hint is historical metadata; actual printed placement is536.",
+      "evidence_ids": [
+        "MTP-C08-TR-E546",
+        "MTP-C08-TR-C546-end-row5-left"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C08-TR-D002046",
+      "anchor_id": "MTP-S002046",
+      "old": "མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+      "new": "མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+      "role": "colophon",
+      "treatment": "classify_layer",
+      "reason": "Image547 row3 gives this work-title formula after the narrative ending. Classify as work colophon and retain exact text.",
+      "evidence_ids": [
+        "MTP-C08-TR-E547",
+        "MTP-C08-TR-C547-row3-left",
+        "MTP-C08-TR-C547-row3-right"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C08-TR-D002047",
+      "anchor_id": "MTP-S002047",
+      "old": "རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་རྒྱུད་འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞིའི་ཁྱད་པར་དུ་ཕྱུང་བའོ",
+      "new": "རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་རྒྱུད་འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞིའི་ཁྱད་པར་དུ་ཕྱུང་བའོ",
+      "role": "colophon",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Image547 rows3–4 support this work-colophon statement and its received numeral wording. Preserve the exact supplied sequence rather than harmonizing its number or replacing it with a reconstructed formula.",
+      "evidence_ids": [
+        "MTP-C08-TR-E547",
+        "MTP-C08-TR-C547-row3-right",
+        "MTP-C08-TR-C547-row4-left",
+        "MTP-C08-TR-C547-row4-right"
+      ],
+      "uncertainty": [
+        "Smaller source explanation within the long colophon, after the numeral phrase and near ཁྱད་པར་དུ, remains untranscribed; exact annotation attachment is not certified."
+      ],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C08-TR-D002048",
+      "anchor_id": "MTP-S002048",
+      "old": "རྫོགས་སོ",
+      "new": "རྫོགས་སོ",
+      "role": "colophon",
+      "treatment": "classify_layer",
+      "reason": "Image547 row4 explicitly closes the work with རྫོགས་སོ. Preserve it as a work-ending colophon object.",
+      "evidence_ids": [
+        "MTP-C08-TR-E547",
+        "MTP-C08-TR-C547-row4-right"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C08-TR-D002049",
+      "anchor_id": "MTP-S002049",
+      "old": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ཀྱི་འགྲེལ་པ་གསལ་བྱེད་ཅེས་བྱ་བ་ཡོད",
+      "new": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ཀྱི་འགྲེལ་པ་གསལ་བྱེད་ཅེས་བྱ་བ་ཡོད",
+      "role": "annotation",
+      "treatment": "classify_layer",
+      "reason": "After རྫོགས་སོ, image547 rows4–5 supply a notice naming a commentary. Classify as source annotation/paratext by its function and placement, without claiming smaller type or changing any words.",
+      "evidence_ids": [
+        "MTP-C08-TR-E547",
+        "MTP-C08-TR-C547-row4-right",
+        "MTP-C08-TR-C547-row5"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C08-TR-D002050",
+      "anchor_id": "MTP-S002050",
+      "old": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ལ་མ་བུ་གསུམ",
+      "new": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ལ་མ་བུ་གསུམ",
+      "role": "annotation",
+      "treatment": "classify_layer",
+      "reason": "Image547 row5 follows the commentary notice with a related-work notice concerning ma bu gsum. Preserve it as source annotation/paratext after the work ending; this is a functional classification, not a reduced-type claim.",
+      "evidence_ids": [
+        "MTP-C08-TR-E547",
+        "MTP-C08-TR-C547-row5"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C08-TR-D002051",
+      "anchor_id": "MTP-S002051",
+      "old": "དགེའོ",
+      "new": "དགེའོ",
+      "role": "colophon",
+      "treatment": "classify_layer",
+      "reason": "Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 1 of 3 as a separate closing-colophon object, retaining the supplied exact string.",
+      "evidence_ids": [
+        "MTP-C08-TR-E547",
+        "MTP-C08-TR-C547-row5"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C08-TR-D002052",
+      "anchor_id": "MTP-S002052",
+      "old": "དགེའོ",
+      "new": "དགེའོ",
+      "role": "colophon",
+      "treatment": "classify_layer",
+      "reason": "Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 2 of 3 as a separate closing-colophon object, retaining the supplied exact string.",
+      "evidence_ids": [
+        "MTP-C08-TR-E547",
+        "MTP-C08-TR-C547-row5"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C08-TR-D002053",
+      "anchor_id": "MTP-S002053",
+      "old": "དགེའོ",
+      "new": "དགེའོ",
+      "role": "colophon",
+      "treatment": "classify_layer",
+      "reason": "Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 3 of 3 as a separate closing-colophon object, retaining the supplied exact string.",
+      "evidence_ids": [
+        "MTP-C08-TR-E547",
+        "MTP-C08-TR-C547-row5"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    }
+  ],
+  "restorations": []
+}

@@ -1,9 +1,270 @@
 {
-  "phase": "golden",
-  "completed_chapters": 7,
-  "active_chapter": 8,
-  "required_decisions": 65,
-  "source_checks": 18,
-  "contract": "diplomatic/chapters/08/contract.json",
-  "next_chapter_started": false
+  "schema_version": 1,
+  "scope": "eight sequential golden chapters",
+  "state": {
+    "chapter": 8,
+    "completed_chapters": 7,
+    "target_chapters": 8,
+    "phase": "golden Tibetan edition",
+    "governing_scan": "adzom-1973 / W1KG892 / I1KG895",
+    "current_coverage": {
+      "schema_version": 1,
+      "chapter": 8,
+      "anchor_count": 284,
+      "accounted_original_anchors": 284,
+      "restoration_count": 0,
+      "changed_text_anchors": 5,
+      "layer_or_text_changed_anchors": 14,
+      "editorial_decisions_completed": 65,
+      "required_decisions_completed": 65,
+      "required_decisions_remaining": 0,
+      "source_checks_completed": 18,
+      "source_checks_remaining": 0,
+      "electronic_loci_compared": 284,
+      "electronic_difference_count": 0,
+      "retained_unreviewed_transcript_anchors": 219,
+      "accepted_evidence_records": 45,
+      "excluded_evidence_records": 1,
+      "unresolved": [
+        {
+          "id": "MTP-S001823",
+          "uncertainty": [
+            "Smaller source explanations between གནད་ནི and རྣམ་པ་གསུམ remain untranscribed. Their presence is recorded, not flattened into the main verse."
+          ]
+        },
+        {
+          "id": "MTP-S001825",
+          "uncertainty": [
+            "The reading remains ལུས་དང་དང་ཡུལ་ཉིད་དོ. The apparent missing member is unresolved: the governing image does not securely establish a main-text མིག to restore. No restoration is made.",
+            "Smaller source notes after ལུས་དང and ཡུལ remain untranscribed; their exact wording and relation to the apparent missing member are not established."
+          ]
+        },
+        {
+          "id": "MTP-S001826",
+          "uncertainty": [
+            "The smaller source explanation after ལུས་ཀྱི remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001873",
+          "uncertainty": [
+            "The unusual རྒྱད is retained; the expected རྒྱུད is not silently supplied. The final syllable is on printed 527, despite the anchor page hint 526.",
+            "Smaller source explanation after སྙིང་པོ on printed 526 remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001877",
+          "uncertainty": [
+            "The printed initial consonant remains uncertain between ca and tsa. The selected ཅིཏྟའི retains supplied ca and does not claim to settle that distinction; only the tta stack is securely supported."
+          ]
+        },
+        {
+          "id": "MTP-S001896",
+          "uncertainty": [
+            "Smaller source explanation between དངས་མ and the large-type གསུམ remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001903",
+          "uncertainty": [
+            "Smaller source explanations after གཞི and འབྲས་བུ remain untranscribed. Their wording is not silently merged into the main verse.",
+            "The expanded source sequence ལམ་དང་པོ is retained. This bounded typography check does not establish its earlier textual history."
+          ]
+        },
+        {
+          "id": "MTP-S001939",
+          "uncertainty": [
+            "Smaller explanations after the two named items remain untranscribed; the second note continues on physical line6."
+          ]
+        },
+        {
+          "id": "MTP-S001940",
+          "uncertainty": [
+            "Smaller explanations following སེང་གེ and རི་རྒྱལ remain untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001942",
+          "uncertainty": [
+            "Smaller explanations following འཁོར་ལོ and ལྡེ་མིག remain untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001943",
+          "uncertainty": [
+            "Smaller explanations following རལ་གྲི and གསལ་ཤིང remain untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001944",
+          "uncertainty": [
+            "Smaller explanations following གསེར་ཞུན and མ་བུ་འབྲེལ remain untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001945",
+          "uncertainty": [
+            "Smaller explanations following མེ་ལོང and མུ་ཏིག་བརྒྱུས remain untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001946",
+          "uncertainty": [
+            "Smaller explanations following སྦྲུལ་མདུད and ཁྱུང་ཆེན remain untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001947",
+          "uncertainty": [
+            "Smaller explanations following ཆུ་རྒྱུན and སྤུ་གྲི remain untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001948",
+          "uncertainty": [
+            "Smaller explanations following རྒྱལ་པོས and བང་མཛོད remain untranscribed; the unusual exact supplied name forms are retained."
+          ]
+        },
+        {
+          "id": "MTP-S001957",
+          "uncertainty": [
+            "Smaller source explanation interrupts དངས་མ and གསུམ on lines1–2 and remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001977",
+          "uncertainty": [
+            "Smaller source explanation after སྒོ་བསྲུང remains untranscribed; final འདྲ continues at physical line3left."
+          ]
+        },
+        {
+          "id": "MTP-S001982",
+          "uncertainty": [
+            "Smaller explanation between རྒྱུད་ནི and the printed གཉིས remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001983",
+          "uncertainty": [
+            "Smaller explanation after ཆོས་ཀུན remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001984",
+          "uncertainty": [
+            "Smaller explanation between བཤད་རྒྱུད and མ་བུ remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001986",
+          "uncertainty": [
+            "Smaller explanation between ཡན་ལག་རྒྱུད་ནི and གཉིས remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001987",
+          "uncertainty": [
+            "Smaller explanation between ཤར་བཞིན and བཤད remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001988",
+          "uncertainty": [
+            "Smaller explanation between རྒྱུད and གཉིས remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001990",
+          "uncertainty": [
+            "Smaller source explanations before and after the printed བཞི་ཡིས་ནི remain untranscribed; the numeral occurs at image544 line1 left."
+          ]
+        },
+        {
+          "id": "MTP-S001993",
+          "uncertainty": [
+            "Smaller source explanations between རྒྱུད and the line2 གསུམ་གྱིས remain untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001994",
+          "uncertainty": [
+            "Smaller source explanation before final བཤད remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001995",
+          "uncertainty": [
+            "Smaller source explanation between རང་གྲོལ and རྒྱུད remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001996",
+          "uncertainty": [
+            "Smaller source explanation between སྙིང་གི and ཚུལ་དུ་བཤད remains untranscribed."
+          ]
+        },
+        {
+          "id": "MTP-S001997",
+          "uncertainty": [
+            "Smaller source explanation between ཆོ་གའི and རྒྱུད་ཀྱིས་ནི remains untranscribed. The single final category is not an explicitly printed numeral གཅིག."
+          ]
+        },
+        {
+          "id": "MTP-S001998",
+          "uncertainty": [
+            "Interleaved smaller explanation before ལྟར་བཤད remains untranscribed. Exact main-text versus note allocation around supplied ཁྱེ is not securely resolved; retain the entire supplied string without deletion or conjectural reconstruction."
+          ]
+        },
+        {
+          "id": "MTP-S002020",
+          "uncertainty": [
+            "Smaller source explanation after དོན remains untranscribed and separate from the main continuation དུ་བསྡུ."
+          ]
+        },
+        {
+          "id": "MTP-S002026",
+          "uncertainty": [
+            "The Sanskrit initial ca/tsa distinction is not securely resolved; supplied ca is retained while the clearly printed tta stack is encoded.",
+            "Smaller source wording after the main དཀྱིལ remains untranscribed and separate from this selected main phrase."
+          ]
+        },
+        {
+          "id": "MTP-S002037",
+          "uncertainty": [
+            "Smaller explanatory wording after ལ་སོགས་པ remains untranscribed; the exact attachment and layer scope of its ending are not certified."
+          ]
+        },
+        {
+          "id": "MTP-S002042",
+          "uncertainty": [
+            "Smaller source explanation after this list item continues at row2 left and remains untranscribed; it is not merged into the selected main string."
+          ]
+        },
+        {
+          "id": "MTP-S002043",
+          "uncertainty": [
+            "Smaller printed wording between དཔག and ཏུ་མེད་པ་དང remains untranscribed and separate from the main list."
+          ]
+        },
+        {
+          "id": "MTP-S002047",
+          "uncertainty": [
+            "Smaller source explanation within the long colophon, after the numeral phrase and near ཁྱད་པར་དུ, remains untranscribed; exact annotation attachment is not certified."
+          ]
+        }
+      ],
+      "claims": {
+        "full_scan_proofreading": false,
+        "exhaustive_witness_collation": false,
+        "independent_witness_electronic_collation": false,
+        "independent_human_certification": false
+      },
+      "comparison_scope": "Two electronic renditions of the same Valby/Adzom transcription family; not independent witnesses."
+    },
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "translation_started": false,
+    "next_task": "Build aggregate golden v1"
+  },
+  "tasks": []
 }

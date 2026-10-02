@@ -1,0 +1,632 @@
+{
+  "schema_version": 1,
+  "chapter": 8,
+  "reviewer": "golden_pipeline agent",
+  "review_type": "Native examination of frozen source loci; no independent human certification",
+  "review_status": "Finite source subset complete; remaining uncertainty is explicit in the decisions",
+  "frozen_checks": [
+    "MTP-C08-CHECK-004",
+    "MTP-C08-CHECK-005",
+    "MTP-C08-CHECK-006",
+    "MTP-TRIAGE-043",
+    "MTP-TRIAGE-044",
+    "MTP-TRIAGE-045"
+  ],
+  "completed_source_checks": 6,
+  "remaining_source_checks": 0,
+  "reviewed_anchors": 10,
+  "changed_anchors": 3,
+  "restorations": 0,
+  "evidence": [
+    {
+      "id": "MTP-C08-PIPE-E532",
+      "path": "evidence/golden/08/00532.png",
+      "sha256": "4a591404f1c51ca19c677a2b4e2fffff0d16791b352cf3468281c86af4a681f1",
+      "anchor_ids": [
+        "MTP-S001811"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed 522, physical row 6 far left. The complete large-type phrase begins དྲི་མ་མེད and ends སོ་སོར་དངས before the shad.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 532,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading."
+    },
+    {
+      "id": "MTP-C08-PIPE-E533",
+      "path": "evidence/golden/08/00533.png",
+      "sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+      "anchor_ids": [
+        "MTP-S001823",
+        "MTP-S001824",
+        "MTP-S001825",
+        "MTP-S001826"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed 523. S1823 starts with large-type གནད་ནི toward the right of row 3 and continues རྣམ་པ་གསུམ་དག་གིས in row 4 after intervening smaller explanations. S1824 follows in row 4. S1825 starts ལུས་དང toward the right of row 4, then smaller explanation precedes main དང་ཡུལ; ཉིད་དོ ends the phrase at row 5 far left. S1826 follows in row 5, with smaller explanation after ལུས་ཀྱི.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 533,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading."
+    },
+    {
+      "id": "MTP-C08-PIPE-E536",
+      "path": "evidence/golden/08/00536.png",
+      "sha256": "c643f15035fe2c9e0cce2675788ed938c6eb7ce56fd0ab546a4981e61a6561b8",
+      "anchor_ids": [
+        "MTP-S001861",
+        "MTP-S001873"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed 526. S1861 occurs toward the right of row 1 and visibly ends ལྟ་སྟེ. S1873 begins with large-type སྙིང་པོ toward the right of row 6; after smaller explanation, རྫོགས་པའི་རང་བཞིན continues to the right. Its final word is on the following image 537, not within this page.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 536,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading."
+    },
+    {
+      "id": "MTP-C08-PIPE-E537",
+      "path": "evidence/golden/08/00537.png",
+      "sha256": "7a8f27e7499e0ed524daabfa7afa9e01347b2e49f02f31cc7135f0795520e970",
+      "anchor_ids": [
+        "MTP-S001873",
+        "MTP-S001877"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed 527. S1873 final རྒྱད is the first main-text word at row 1 left, following the decorative mark; this is the continuation from printed 526. S1877 is in row 2 toward the left-middle, from རང་བཞིན through དཀྱིལ་འཁོར་དུ, with the Sanskrit-derived syllable written as a stack.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 537,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading."
+    },
+    {
+      "id": "MTP-C08-PIPE-E538",
+      "path": "evidence/golden/08/00538.png",
+      "sha256": "cd8d2ab56f5e271f722934674cb85406bb6a84b761beb679a6336fd5f7b2c90c",
+      "anchor_ids": [
+        "MTP-S001896",
+        "MTP-S001903"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed 528. S1896 is in row 2, beginning near the middle with སྙིང་པོ་བསྡུས་པས་དངས་མ; smaller explanation precedes large-type གསུམ toward the right. S1903 is in row 6 toward the right: large-type གཞི, smaller explanation, then དང་ལམ་དང་པོ་དང་འབྲས་བུ, another smaller note, and ཡིས.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 538,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading."
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1823-1825-detail",
+      "path": "evidence/golden/08/pipeline-S1823-1825-detail.png",
+      "sha256": "df33da91a9bc76c397ee9c4fc578eb73da20c68e4bd8d9fab41b32acb74f2334",
+      "anchor_ids": [
+        "MTP-S001825"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 533,
+      "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+      "crop": [
+        2380,
+        330,
+        3570,
+        560
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1823-1826-rows",
+      "path": "evidence/golden/08/pipeline-S1823-1826-rows.png",
+      "sha256": "8addf056e36087a9af750826b15dcd94b68496e62f17fd3c479c98b05c7e32f9",
+      "anchor_ids": [
+        "MTP-S001823",
+        "MTP-S001824",
+        "MTP-S001825",
+        "MTP-S001826"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 533,
+      "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+      "crop": [
+        530,
+        275,
+        3560,
+        566
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1811-detail",
+      "path": "evidence/golden/08/pipeline-S1811-detail.png",
+      "sha256": "3803363c6b516848d9ba7efc306efde3e627e47edcfa9535efefce2317fe358a",
+      "anchor_ids": [
+        "MTP-S001811"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 532,
+      "original_sha256": "4a591404f1c51ca19c677a2b4e2fffff0d16791b352cf3468281c86af4a681f1",
+      "crop": [
+        520,
+        570,
+        1040,
+        685
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1825-detail",
+      "path": "evidence/golden/08/pipeline-S1825-detail.png",
+      "sha256": "ace6f91614a68d1c2970709a7984ae3307889d12fbdddbd3b2a87a6e797e432d",
+      "anchor_ids": [
+        "MTP-S001825"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 533,
+      "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+      "crop": [
+        2370,
+        325,
+        3560,
+        466
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1826-detail",
+      "path": "evidence/golden/08/pipeline-S1826-detail.png",
+      "sha256": "2742a2361dccd2ed8e9886a11f207f8f8b63e11c99963752a2ac7cda781bb026",
+      "anchor_ids": [
+        "MTP-S001826"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 533,
+      "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+      "crop": [
+        715,
+        450,
+        1650,
+        577
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1861-detail",
+      "path": "evidence/golden/08/pipeline-S1861-detail.png",
+      "sha256": "4c825effde0c4a50fbe1e454771fcc271bfcdef8058e903dc5f910e4639c21f7",
+      "anchor_ids": [
+        "MTP-S001861"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 536,
+      "original_sha256": "c643f15035fe2c9e0cce2675788ed938c6eb7ce56fd0ab546a4981e61a6561b8",
+      "crop": [
+        2360,
+        100,
+        2930,
+        219
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1873-detail",
+      "path": "evidence/golden/08/pipeline-S1873-detail.png",
+      "sha256": "894cf15082bee64f4d490a3f19c84690cf4882ce080f0b321b8b970055ae43ec",
+      "anchor_ids": [
+        "MTP-S001873"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 536,
+      "original_sha256": "c643f15035fe2c9e0cce2675788ed938c6eb7ce56fd0ab546a4981e61a6561b8",
+      "crop": [
+        2380,
+        537,
+        3478,
+        674
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1873-continuation",
+      "path": "evidence/golden/08/pipeline-S1873-continuation.png",
+      "sha256": "76a74ed44ca402f35c5bdd790fa878e0bdefd19c722389b66b0d9d45f6c0453c",
+      "anchor_ids": [
+        "MTP-S001873"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 537,
+      "original_sha256": "7a8f27e7499e0ed524daabfa7afa9e01347b2e49f02f31cc7135f0795520e970",
+      "crop": [
+        925,
+        135,
+        1055,
+        249
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1877-detail",
+      "path": "evidence/golden/08/pipeline-S1877-detail.png",
+      "sha256": "d297eedbe08c1df2f03a324ca9a81fbd23de5ac304dd12a1f8c4e34086bb1e46",
+      "anchor_ids": [
+        "MTP-S001877"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 537,
+      "original_sha256": "7a8f27e7499e0ed524daabfa7afa9e01347b2e49f02f31cc7135f0795520e970",
+      "crop": [
+        1110,
+        215,
+        1770,
+        332
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1896-detail",
+      "path": "evidence/golden/08/pipeline-S1896-detail.png",
+      "sha256": "d285f80c761daa967f112e9607b151f3ac4f6a4c4125b7d9ee5c483a2a8ebc6e",
+      "anchor_ids": [
+        "MTP-S001896"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 538,
+      "original_sha256": "cd8d2ab56f5e271f722934674cb85406bb6a84b761beb679a6336fd5f7b2c90c",
+      "crop": [
+        1460,
+        202,
+        3200,
+        306
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1903-detail",
+      "path": "evidence/golden/08/pipeline-S1903-detail.png",
+      "sha256": "f0d0503bffeaa8ef1eb44164601346354547be17b067da275a211b872e073ad4",
+      "anchor_ids": [
+        "MTP-S001903"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 538,
+      "original_sha256": "cd8d2ab56f5e271f722934674cb85406bb6a84b761beb679a6336fd5f7b2c90c",
+      "crop": [
+        2050,
+        556,
+        3270,
+        687
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1896-row",
+      "path": "evidence/golden/08/pipeline-S1896-row.png",
+      "sha256": "42156a00837da8747ac6acf6a1dfaea953d643749a9f3f8a8ebccd33c2a6aa98",
+      "anchor_ids": [
+        "MTP-S001896"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 538,
+      "original_sha256": "cd8d2ab56f5e271f722934674cb85406bb6a84b761beb679a6336fd5f7b2c90c",
+      "crop": [
+        1450,
+        184,
+        3500,
+        318
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C08-PIPE-CROP-pipeline-S1823-1824-detail",
+      "path": "evidence/golden/08/pipeline-S1823-1824-detail.png",
+      "sha256": "60b5d90d3d914866dc20e9b0497b85f04f5a17282e3bb7f62ccac386b5ee0c25",
+      "anchor_ids": [
+        "MTP-S001823",
+        "MTP-S001824"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 533,
+      "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+      "crop": [
+        540,
+        266,
+        3550,
+        469
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    }
+  ],
+  "decisions": [
+    {
+      "id": "MTP-C08-PIPE-D001811",
+      "anchor_id": "MTP-S001811",
+      "old": "དྲི་མ་མེད་དང་སོ་སོར་དངས",
+      "new": "དྲི་མ་མེད་དང་སོ་སོར་དངས",
+      "role": "main_text",
+      "treatment": "retain_base",
+      "reason": "The main printed phrase supports དངས. Preserve the source spelling; the EWTS warning is not evidence for changing it to དྭངས or another form.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E532",
+        "MTP-C08-PIPE-CROP-pipeline-S1811-detail"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-C08-PIPE-D001823",
+      "anchor_id": "MTP-S001823",
+      "old": "གནད་ནི་རྣམ་པ་གསུམ་དག་གིས",
+      "new": "གནད་ནི་རྣམ་པ་གསུམ་དག་གིས",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The main text is interrupted by smaller source explanations but supports the supplied sequence གནད་ནི་རྣམ་པ་གསུམ་དག་གིས. Retain this anchor without manufacturing material to complete the following list.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E533",
+        "MTP-C08-PIPE-CROP-pipeline-S1823-1824-detail"
+      ],
+      "uncertainty": [
+        "Smaller source explanations between གནད་ནི and རྣམ་པ་གསུམ remain untranscribed. Their presence is recorded, not flattened into the main verse."
+      ]
+    },
+    {
+      "id": "MTP-C08-PIPE-D001824",
+      "anchor_id": "MTP-S001824",
+      "old": "དེ་ཡི་དོན་ཉིད་ཉམས་སུ་བླངས",
+      "new": "དེ་ཡི་དོན་ཉིད་ཉམས་སུ་བླངས",
+      "role": "main_text",
+      "treatment": "retain_base",
+      "reason": "The large-type printed phrase supports the supplied དེ་ཡི་དོན་ཉིད་ཉམས་སུ་བླངས. No source-supported change is required.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E533",
+        "MTP-C08-PIPE-CROP-pipeline-S1823-1824-detail"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-C08-PIPE-D001825",
+      "anchor_id": "MTP-S001825",
+      "old": "ལུས་དང་དང་ཡུལ་ཉིད་དོ",
+      "new": "ལུས་དང་དང་ཡུལ་ཉིད་དོ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The native image shows large-type ལུས་དང, then smaller source explanation, then large-type དང་ཡུལ; ཉིད་དོ continues in the following physical row. A main-text མིག between the two དང is not securely attested. Retain the exact repeated དང rather than restore a noun from the expected threefold list.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E533",
+        "MTP-C08-PIPE-CROP-pipeline-S1825-detail",
+        "MTP-C08-PIPE-CROP-pipeline-S1823-1826-rows"
+      ],
+      "uncertainty": [
+        "The reading remains ལུས་དང་དང་ཡུལ་ཉིད་དོ. The apparent missing member is unresolved: the governing image does not securely establish a main-text མིག to restore. No restoration is made.",
+        "Smaller source notes after ལུས་དང and ཡུལ remain untranscribed; their exact wording and relation to the apparent missing member are not established."
+      ]
+    },
+    {
+      "id": "MTP-C08-PIPE-D001826",
+      "anchor_id": "MTP-S001826",
+      "old": "ལུས་ཀྱི་གནད་ནི་རྣམ་གསུམ་སྟེ",
+      "new": "ལུས་ཀྱི་གནད་ནི་རྣམ་གསུམ་སྟེ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The main printed sequence supports ལུས་ཀྱི་གནད་ནི་རྣམ་གསུམ་སྟེ. The smaller text after ལུས་ཀྱི is a distinct source layer, not an omitted main-text member inferred from context.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E533",
+        "MTP-C08-PIPE-CROP-pipeline-S1826-detail"
+      ],
+      "uncertainty": [
+        "The smaller source explanation after ལུས་ཀྱི remains untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-C08-PIPE-D001861",
+      "anchor_id": "MTP-S001861",
+      "old": "རང་བཞིན་རྒྱུད་ནི་འདི་ལྟ་སེ",
+      "new": "རང་བཞིན་རྒྱུད་ནི་འདི་ལྟ་སྟེ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The native final syllable visibly has the subjoined ཏ in སྟེ. Correct transcript སེ to source-attested སྟེ.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E536",
+        "MTP-C08-PIPE-CROP-pipeline-S1861-detail"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-C08-PIPE-D001873",
+      "anchor_id": "MTP-S001873",
+      "old": "སྙིང་པོ་རྫོགས་པའི་རང་བཞིན་རྒྱད",
+      "new": "སྙིང་པོ་རྫོགས་པའི་རང་བཞིན་རྒྱད",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The final word belongs to printed 527/image 537 row 1, continuing the anchor from printed 526. Its visible form supports retention of transcript རྒྱད; no secure separate u-vowel is established here. Do not normalize the word to རྒྱུད from parallel vocabulary.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E536",
+        "MTP-C08-PIPE-E537",
+        "MTP-C08-PIPE-CROP-pipeline-S1873-detail",
+        "MTP-C08-PIPE-CROP-pipeline-S1873-continuation"
+      ],
+      "uncertainty": [
+        "The unusual རྒྱད is retained; the expected རྒྱུད is not silently supplied. The final syllable is on printed 527, despite the anchor page hint 526.",
+        "Smaller source explanation after སྙིང་པོ on printed 526 remains untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-C08-PIPE-D001877",
+      "anchor_id": "MTP-S001877",
+      "old": "རང་བཞིན་ཅིཏ་ཏའི་དཀྱིལ་འཁོར་དུ",
+      "new": "རང་བཞིན་ཅིཏྟའི་དཀྱིལ་འཁོར་དུ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The native syllable visibly stacks tta rather than the transcript’s separated ཅིཏ་ཏའི. Correct only the supported stack to ཅིཏྟའི; preserve the supplied initial ca because its distinction from tsa is not securely resolved in this bounded native examination.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E537",
+        "MTP-C08-PIPE-CROP-pipeline-S1877-detail"
+      ],
+      "uncertainty": [
+        "The printed initial consonant remains uncertain between ca and tsa. The selected ཅིཏྟའི retains supplied ca and does not claim to settle that distinction; only the tta stack is securely supported."
+      ]
+    },
+    {
+      "id": "MTP-C08-PIPE-D001896",
+      "anchor_id": "MTP-S001896",
+      "old": "སྙིང་པོ་བསྡུས་པས་དངས་མ་གསུམ",
+      "new": "སྙིང་པོ་བསྡུས་པས་དངས་མ་གསུམ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The main printed phrase supports དངས་མ. Preserve that source spelling; the converter warning does not establish corruption.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E538",
+        "MTP-C08-PIPE-CROP-pipeline-S1896-row"
+      ],
+      "uncertainty": [
+        "Smaller source explanation between དངས་མ and the large-type གསུམ remains untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-C08-PIPE-D001903",
+      "anchor_id": "MTP-S001903",
+      "old": "གཞི་དང་ལམ་དྲང་པོ་དང་འབྲས་བུ་ཡིས",
+      "new": "གཞི་དང་ལམ་དང་པོ་དང་འབྲས་བུ་ཡིས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The source shows full-size དང་པོ without the transcript’s subjoined r. Retain both words in the main sequence and correct only དྲང to དང. The surrounding distinctly smaller notes do not justify deleting this larger text.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E538",
+        "MTP-C08-PIPE-CROP-pipeline-S1903-detail"
+      ],
+      "uncertainty": [
+        "Smaller source explanations after གཞི and འབྲས་བུ remain untranscribed. Their wording is not silently merged into the main verse.",
+        "The expanded source sequence ལམ་དང་པོ is retained. This bounded typography check does not establish its earlier textual history."
+      ]
+    }
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C08-CHECK-004",
+      "status": "closed",
+      "finding": "The main printed phrase supports དངས. Preserve the source spelling; the EWTS warning is not evidence for changing it to དྭངས or another form.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E532"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-C08-CHECK-005",
+      "status": "closed",
+      "finding": "The native syllable visibly stacks tta rather than the transcript’s separated ཅིཏ་ཏའི. Correct only the supported stack to ཅིཏྟའི; preserve the supplied initial ca because its distinction from tsa is not securely resolved in this bounded native examination.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E537"
+      ],
+      "uncertainty": [
+        "The printed initial consonant remains uncertain between ca and tsa. The selected ཅིཏྟའི retains supplied ca and does not claim to settle that distinction; only the tta stack is securely supported."
+      ]
+    },
+    {
+      "id": "MTP-C08-CHECK-006",
+      "status": "closed",
+      "finding": "The main printed phrase supports དངས་མ. Preserve that source spelling; the converter warning does not establish corruption.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E538"
+      ],
+      "uncertainty": [
+        "Smaller source explanation between དངས་མ and the large-type གསུམ remains untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-043",
+      "status": "closed",
+      "finding": "The main text is interrupted by smaller source explanations but supports the supplied sequence གནད་ནི་རྣམ་པ་གསུམ་དག་གིས. Retain this anchor without manufacturing material to complete the following list. The large-type printed phrase supports the supplied དེ་ཡི་དོན་ཉིད་ཉམས་སུ་བླངས. No source-supported change is required. The native image shows large-type ལུས་དང, then smaller source explanation, then large-type དང་ཡུལ; ཉིད་དོ continues in the following physical row. A main-text མིག between the two དང is not securely attested. Retain the exact repeated དང rather than restore a noun from the expected threefold list. The main printed sequence supports ལུས་ཀྱི་གནད་ནི་རྣམ་གསུམ་སྟེ. The smaller text after ལུས་ཀྱི is a distinct source layer, not an omitted main-text member inferred from context.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E533"
+      ],
+      "uncertainty": [
+        "Smaller source explanations between གནད་ནི and རྣམ་པ་གསུམ remain untranscribed. Their presence is recorded, not flattened into the main verse.",
+        "The reading remains ལུས་དང་དང་ཡུལ་ཉིད་དོ. The apparent missing member is unresolved: the governing image does not securely establish a main-text མིག to restore. No restoration is made.",
+        "Smaller source notes after ལུས་དང and ཡུལ remain untranscribed; their exact wording and relation to the apparent missing member are not established.",
+        "The smaller source explanation after ལུས་ཀྱི remains untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-044",
+      "status": "closed",
+      "finding": "The native final syllable visibly has the subjoined ཏ in སྟེ. Correct transcript སེ to source-attested སྟེ. The final word belongs to printed 527/image 537 row 1, continuing the anchor from printed 526. Its visible form supports retention of transcript རྒྱད; no secure separate u-vowel is established here. Do not normalize the word to རྒྱུད from parallel vocabulary.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E536",
+        "MTP-C08-PIPE-E537"
+      ],
+      "uncertainty": [
+        "The unusual རྒྱད is retained; the expected རྒྱུད is not silently supplied. The final syllable is on printed 527, despite the anchor page hint 526.",
+        "Smaller source explanation after སྙིང་པོ on printed 526 remains untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-045",
+      "status": "closed",
+      "finding": "The source shows full-size དང་པོ without the transcript’s subjoined r. Retain both words in the main sequence and correct only དྲང to དང. The surrounding distinctly smaller notes do not justify deleting this larger text.",
+      "evidence_ids": [
+        "MTP-C08-PIPE-E538"
+      ],
+      "uncertainty": [
+        "Smaller source explanations after གཞི and འབྲས་བུ remain untranscribed. Their wording is not silently merged into the main verse.",
+        "The expanded source sequence ལམ་དང་པོ is retained. This bounded typography check does not establish its earlier textual history."
+      ]
+    }
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_human_certification": false
+  }
+}

@@ -1,1 +1,292 @@
-[]
+[
+  {
+    "id": "MTP-C08-CHECK-001",
+    "status": "closed",
+    "finding": "Native image530 row4 right supports the exact chapter8 opening immediately following chapter7 closure.",
+    "evidence_ids": [
+      "MTP-C08-TR-E530",
+      "MTP-C08-TR-C530-1771"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-CHECK-002",
+    "status": "closed",
+    "finding": "Native image546 row5 right continues at row6 left through བརྒྱད་པའོ. Preserve exact wording and classify the chapter8 closing formula.",
+    "evidence_ids": [
+      "MTP-C08-TR-E546",
+      "MTP-C08-TR-C546-end-row5-right",
+      "MTP-C08-TR-C546-end-row6-left"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-CHECK-003",
+    "status": "closed",
+    "finding": "Preserve supplied ༄༨ as electronic @8 chapter metadata at the supported source boundary, not a transcribed root-text phrase.",
+    "evidence_ids": [
+      "MTP-C08-TR-E530"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-CHECK-004",
+    "status": "closed",
+    "finding": "The main printed phrase supports དངས. Preserve the source spelling; the EWTS warning is not evidence for changing it to དྭངས or another form.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E532"
+    ],
+    "uncertainty": [],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-CHECK-005",
+    "status": "closed",
+    "finding": "The native syllable visibly stacks tta rather than the transcript’s separated ཅིཏ་ཏའི. Correct only the supported stack to ཅིཏྟའི; preserve the supplied initial ca because its distinction from tsa is not securely resolved in this bounded native examination.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E537"
+    ],
+    "uncertainty": [
+      "The printed initial consonant remains uncertain between ca and tsa. The selected ཅིཏྟའི retains supplied ca and does not claim to settle that distinction; only the tta stack is securely supported."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-CHECK-006",
+    "status": "closed",
+    "finding": "The main printed phrase supports དངས་མ. Preserve that source spelling; the converter warning does not establish corruption.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E538"
+    ],
+    "uncertainty": [
+      "Smaller source explanation between དངས་མ and the large-type གསུམ remains untranscribed."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C08-CHECK-007",
+    "status": "closed",
+    "finding": "Retain source-supported དངས in S1957; no repair from EWTS warning.",
+    "evidence_ids": [
+      "CH08-BASE-E542"
+    ],
+    "uncertainty": [
+      "Smaller source explanation interrupts དངས་མ and གསུམ on lines1–2 and remains untranscribed."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    },
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-C08-CHECK-008",
+    "status": "closed",
+    "finding": "Native image545 line6 visibly has ga in ཐུགས and stacked tta in the compact Sanskrit syllable. Correct ཐུས→ཐུགས and the supplied split ཅིཏ་ཏའི→ཅིཏྟའི. Retain supplied initial ca without claiming secure distinction from tsa.",
+    "evidence_ids": [
+      "CH08-ROOT-E545",
+      "CH08-ROOT-C2026"
+    ],
+    "uncertainty": [
+      "The Sanskrit initial ca/tsa distinction is not securely resolved; supplied ca is retained while the clearly printed tta stack is encoded.",
+      "Smaller source wording after the main དཀྱིལ remains untranscribed and separate from this selected main phrase."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    },
+    "native_inspector": "/root coordinating agent"
+  },
+  {
+    "id": "MTP-C08-CHECK-009",
+    "status": "closed",
+    "finding": "Preserve supplied electronic marker537. Native images545–547 include printed535,536,537; assigned end text is continuous from546 into547. Absence of electronic marker536 is not evidence of a missing source page or textual span. No marker or text is invented.",
+    "evidence_ids": [
+      "MTP-C08-TR-E546",
+      "MTP-C08-TR-E547"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C08-CHECK-010",
+    "status": "closed",
+    "finding": "Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 3 of 3 as a separate closing-colophon object, retaining the supplied exact string.",
+    "evidence_ids": [
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row5"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-TRIAGE-043",
+    "status": "closed",
+    "finding": "The main text is interrupted by smaller source explanations but supports the supplied sequence གནད་ནི་རྣམ་པ་གསུམ་དག་གིས. Retain this anchor without manufacturing material to complete the following list. The large-type printed phrase supports the supplied དེ་ཡི་དོན་ཉིད་ཉམས་སུ་བླངས. No source-supported change is required. The native image shows large-type ལུས་དང, then smaller source explanation, then large-type དང་ཡུལ; ཉིད་དོ continues in the following physical row. A main-text མིག between the two དང is not securely attested. Retain the exact repeated དང rather than restore a noun from the expected threefold list. The main printed sequence supports ལུས་ཀྱི་གནད་ནི་རྣམ་གསུམ་སྟེ. The smaller text after ལུས་ཀྱི is a distinct source layer, not an omitted main-text member inferred from context.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E533"
+    ],
+    "uncertainty": [
+      "Smaller source explanations between གནད་ནི and རྣམ་པ་གསུམ remain untranscribed. Their presence is recorded, not flattened into the main verse.",
+      "The reading remains ལུས་དང་དང་ཡུལ་ཉིད་དོ. The apparent missing member is unresolved: the governing image does not securely establish a main-text མིག to restore. No restoration is made.",
+      "Smaller source notes after ལུས་དང and ཡུལ remain untranscribed; their exact wording and relation to the apparent missing member are not established.",
+      "The smaller source explanation after ལུས་ཀྱི remains untranscribed."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-TRIAGE-044",
+    "status": "closed",
+    "finding": "The native final syllable visibly has the subjoined ཏ in སྟེ. Correct transcript སེ to source-attested སྟེ. The final word belongs to printed 527/image 537 row 1, continuing the anchor from printed 526. Its visible form supports retention of transcript རྒྱད; no secure separate u-vowel is established here. Do not normalize the word to རྒྱུད from parallel vocabulary.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E536",
+      "MTP-C08-PIPE-E537"
+    ],
+    "uncertainty": [
+      "The unusual རྒྱད is retained; the expected རྒྱུད is not silently supplied. The final syllable is on printed 527, despite the anchor page hint 526.",
+      "Smaller source explanation after སྙིང་པོ on printed 526 remains untranscribed."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-TRIAGE-045",
+    "status": "closed",
+    "finding": "The source shows full-size དང་པོ without the transcript’s subjoined r. Retain both words in the main sequence and correct only དྲང to དང. The surrounding distinctly smaller notes do not justify deleting this larger text.",
+    "evidence_ids": [
+      "MTP-C08-PIPE-E538"
+    ],
+    "uncertainty": [
+      "Smaller source explanations after གཞི and འབྲས་བུ remain untranscribed. Their wording is not silently merged into the main verse.",
+      "The expanded source sequence ལམ་དང་པོ is retained. This bounded typography check does not establish its earlier textual history."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-TRIAGE-046",
+    "status": "closed",
+    "finding": "Retain the nine pairs of names (18 named items) across S1939–1948, the page marker531 as metadata, and the supplied concluding S1949. Do not force the enumeration to17.",
+    "evidence_ids": [
+      "CH08-BASE-E540",
+      "CH08-BASE-E541"
+    ],
+    "uncertainty": [
+      "The smaller source explanations attached to the named items remain untranscribed; this closes the finite structural enumeration check, not a full annotation edition."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    },
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-TRIAGE-047",
+    "status": "closed",
+    "finding": "Retain the unusual supplied spelling གོ་ཞུབ supported by native image543 line2right; do not harmonize the source to a more familiar armor spelling.",
+    "evidence_ids": [
+      "CH08-ROOT-E543",
+      "CH08-ROOT-C1977"
+    ],
+    "uncertainty": [
+      "Smaller source explanation after སྒོ་བསྲུང remains untranscribed; final འདྲ continues at physical line3left."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    },
+    "native_inspector": "/root coordinating agent"
+  },
+  {
+    "id": "MTP-TRIAGE-048",
+    "status": "closed",
+    "finding": "Retain the printed grouping numerals 2+2+2+2+4+3+2 and the final single category; counting the last category as1 totals18. The source does not explicitly print a final numeral1. Preserve page marker534 as metadata; do not repair arithmetic or supply a missing category.",
+    "evidence_ids": [
+      "CH08-BASE-E543",
+      "CH08-BASE-E544"
+    ],
+    "uncertainty": [
+      "Smaller source explanations remain untranscribed.",
+      "Interleaved smaller explanation before ལྟར་བཤད remains untranscribed. Exact main-text versus note allocation around supplied ཁྱེ is not securely resolved; retain the entire supplied string without deletion or conjectural reconstruction."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    },
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-TRIAGE-049",
+    "status": "closed",
+    "finding": "Native image545 line4 prints ཟབ་མོའི. Correct the supplied initial cluster བྲབ to the visible ཟབ, without grammatical conjecture. Native image545 line6 visibly has ga in ཐུགས and stacked tta in the compact Sanskrit syllable. Correct ཐུས→ཐུགས and the supplied split ཅིཏ་ཏའི→ཅིཏྟའི. Retain supplied initial ca without claiming secure distinction from tsa.",
+    "evidence_ids": [
+      "CH08-ROOT-E545",
+      "CH08-ROOT-C2020",
+      "CH08-ROOT-C2026"
+    ],
+    "uncertainty": [
+      "Smaller source explanation after དོན remains untranscribed and separate from the main continuation དུ་བསྡུ.",
+      "The Sanskrit initial ca/tsa distinction is not securely resolved; supplied ca is retained while the clearly printed tta stack is encoded.",
+      "Smaller source wording after the main དཀྱིལ remains untranscribed and separate from this selected main phrase."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    },
+    "native_inspector": "/root coordinating agent"
+  },
+  {
+    "id": "MTP-TRIAGE-050",
+    "status": "closed",
+    "finding": "Native image546 row5 center supports this title formula as the chapter8 colophon. The supplied535 page hint is historical metadata; actual printed placement is536. Native image546 row5 right continues at row6 left through བརྒྱད་པའོ. Preserve exact wording and classify the chapter8 closing formula. After the numbered chapter closure, image546 row6 begins the work-closing narrative with this exact supplied string. Retain as narrative main text. Image546 row6 continues the closing narrative with rig pa rdo rje rnon po la sogs pa. Retain the supplied main sequence. Image546 row6 ends with the beginning of this narrative list item; final དང appears at image547 row1 left. Retain the supplied complete anchor across the physical page boundary. Preserve supplied electronic marker537. Native images545–547 include printed535,536,537; assigned end text is continuous from546 into547. Absence of electronic marker536 is not evidence of a missing source page or textual span. No marker or text is invented. Image547 row1 left supports this closing-narrative list item following the carried final dang of S2038. Retain exact text. Image547 row1 continues the closing-narrative list with the supplied sangs rgyas chos dang dge dun dang. Retain exact text. Image547 row1 right supports the supplied main list item lha dang lha ma yin dang. Retain it as closing narrative. Image547 row2 supports the supplied narrative sequence mkha gro ma dpag tu med pa dang around intervening smaller source explanation. Retain exact text. Image547 row2 right continues at row3 left with the supplied final narrative list item through yi rang ste. Retain the exact original wording and division. Image547 row3 supports the closing narrative praise sentence through mngon par bstod do. Retain exact text; the following work-title colophon is separate. Image547 row3 gives this work-title formula after the narrative ending. Classify as work colophon and retain exact text. Image547 rows3–4 support this work-colophon statement and its received numeral wording. Preserve the exact supplied sequence rather than harmonizing its number or replacing it with a reconstructed formula. Image547 row4 explicitly closes the work with རྫོགས་སོ. Preserve it as a work-ending colophon object. After རྫོགས་སོ, image547 rows4–5 supply a notice naming a commentary. Classify as source annotation/paratext by its function and placement, without claiming smaller type or changing any words. Image547 row5 follows the commentary notice with a related-work notice concerning ma bu gsum. Preserve it as source annotation/paratext after the work ending; this is a functional classification, not a reduced-type claim. Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 1 of 3 as a separate closing-colophon object, retaining the supplied exact string. Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 2 of 3 as a separate closing-colophon object, retaining the supplied exact string. Image547 row5 prints three successive དགེའོ blessings after the source notices. Preserve this 3 of 3 as a separate closing-colophon object, retaining the supplied exact string.",
+    "evidence_ids": [
+      "MTP-C08-TR-E546",
+      "MTP-C08-TR-C546-end-row5-left",
+      "MTP-C08-TR-C546-end-row5-right",
+      "MTP-C08-TR-C546-end-row6-left",
+      "MTP-C08-TR-C546-end-row6-right",
+      "MTP-C08-TR-E547",
+      "MTP-C08-TR-C547-row1-left",
+      "MTP-C08-TR-C547-row1-right",
+      "MTP-C08-TR-C547-row2-left",
+      "MTP-C08-TR-C547-row2-right",
+      "MTP-C08-TR-C547-row3-left",
+      "MTP-C08-TR-C547-row3-right",
+      "MTP-C08-TR-C547-row4-left",
+      "MTP-C08-TR-C547-row4-right",
+      "MTP-C08-TR-C547-row5"
+    ],
+    "uncertainty": [
+      "Smaller explanatory wording after ལ་སོགས་པ remains untranscribed; the exact attachment and layer scope of its ending are not certified.",
+      "Smaller source explanation after this list item continues at row2 left and remains untranscribed; it is not merged into the selected main string.",
+      "Smaller printed wording between དཔག and ཏུ་མེད་པ་དང remains untranscribed and separate from the main list.",
+      "Smaller source explanation within the long colophon, after the numeral phrase and near ཁྱད་པར་དུ, remains untranscribed; exact annotation attachment is not certified."
+    ],
+    "native_inspector": "/root/golden_triage"
+  }
+]

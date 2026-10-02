@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "chapter": 8,
+  "inspector": "/root coordinating agent",
+  "scope": "Three frozen anchors and three checks. Native originals directly inspected, crops are exact-pixel locators. No OCR.",
+  "decisions": [
+    {
+      "id": "CH08-ROOT-D1977",
+      "anchor_id": "MTP-S001977",
+      "old": "གོ་ཞུབ་ལྡན་པའི་སྒོ་བསྲུང་འདྲ",
+      "new": "གོ་ཞུབ་ལྡན་པའི་སྒོ་བསྲུང་འདྲ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Retain the unusual supplied spelling གོ་ཞུབ supported by native image543 line2right; do not harmonize the source to a more familiar armor spelling.",
+      "evidence_ids": [
+        "CH08-ROOT-E543",
+        "CH08-ROOT-C1977"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after སྒོ་བསྲུང remains untranscribed; final འདྲ continues at physical line3left."
+      ],
+      "native_inspector": "/root coordinating agent"
+    },
+    {
+      "id": "CH08-ROOT-D2020",
+      "anchor_id": "MTP-S002020",
+      "old": "མདོ་ནི་བྲབ་མོའི་དོན་དུ་བསྡུ",
+      "new": "མདོ་ནི་ཟབ་མོའི་དོན་དུ་བསྡུ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image545 line4 prints ཟབ་མོའི. Correct the supplied initial cluster བྲབ to the visible ཟབ, without grammatical conjecture.",
+      "evidence_ids": [
+        "CH08-ROOT-E545",
+        "CH08-ROOT-C2020"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དོན remains untranscribed and separate from the main continuation དུ་བསྡུ."
+      ],
+      "native_inspector": "/root coordinating agent"
+    },
+    {
+      "id": "CH08-ROOT-D2026",
+      "anchor_id": "MTP-S002026",
+      "old": "གནས་པ་ཐུས་ཏེ་ཅིཏ་ཏའི་དཀྱིལ",
+      "new": "གནས་པ་ཐུགས་ཏེ་ཅིཏྟའི་དཀྱིལ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image545 line6 visibly has ga in ཐུགས and stacked tta in the compact Sanskrit syllable. Correct ཐུས→ཐུགས and the supplied split ཅིཏ་ཏའི→ཅིཏྟའི. Retain supplied initial ca without claiming secure distinction from tsa.",
+      "evidence_ids": [
+        "CH08-ROOT-E545",
+        "CH08-ROOT-C2026"
+      ],
+      "uncertainty": [
+        "The Sanskrit initial ca/tsa distinction is not securely resolved; supplied ca is retained while the clearly printed tta stack is encoded.",
+        "Smaller source wording after the main དཀྱིལ remains untranscribed and separate from this selected main phrase."
+      ],
+      "native_inspector": "/root coordinating agent"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "CH08-ROOT-E543",
+      "path": "evidence/golden/08/00543.png",
+      "sha256": "00609f2064b0f95bdb30f6bac28a1d7c783bf5d124f3b252090928c423723fcf",
+      "source_id": "adzom-1973",
+      "image_index": 543,
+      "printed_page": 533,
+      "anchor_ids": [
+        "MTP-S001977"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root coordinating agent",
+      "allocation_reason": "S1977 occupies main line2 right: go zhub ldan pai sgo bsrung, with smaller explanation before the line3left continuation dra. Targeted allocation, not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950543.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH08-ROOT-E545",
+      "path": "evidence/golden/08/00545.png",
+      "sha256": "1ffd3810048f8d2c4366a21026296c073d04671fb1e08a8db0c4f1b42504d1c4",
+      "source_id": "adzom-1973",
+      "image_index": 545,
+      "printed_page": 535,
+      "anchor_ids": [
+        "MTP-S002020",
+        "MTP-S002026"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root coordinating agent",
+      "allocation_reason": "S2020 occupies main line4 left-center: mdo ni zab moi don, smaller note, then du bsdu. S2026 occupies main line6 center: gnas pa thugs te cit tai dkyil, with compact stacked Sanskrit syllable. Targeted allocation, not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950545.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH08-ROOT-C1977",
+      "path": "evidence/golden/08/root-S1977-detail.png",
+      "sha256": "63e9f8debb736014efa8da270f389ed2608a194d85c01e6d235a3721b25a2680",
+      "source_id": "adzom-1973",
+      "image_index": 543,
+      "anchor_ids": [
+        "MTP-S001977"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root coordinating agent",
+      "crop": [
+        2510,
+        143,
+        3580,
+        277
+      ],
+      "original_sha256": "00609f2064b0f95bdb30f6bac28a1d7c783bf5d124f3b252090928c423723fcf",
+      "allocation_reason": "Main opening go zhub ldan pai sgo bsrung on line2right; the continuation dra is outside crop at line3left and supported by original."
+    },
+    {
+      "id": "CH08-ROOT-C2020",
+      "path": "evidence/golden/08/root-S2020-detail.png",
+      "sha256": "ca0b638023ebb492685b2c33e9d062c3c82ef95d7aad972a2e7d09bb80962b55",
+      "source_id": "adzom-1973",
+      "image_index": 545,
+      "anchor_ids": [
+        "MTP-S002020"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root coordinating agent",
+      "crop": [
+        950,
+        395,
+        1810,
+        520
+      ],
+      "original_sha256": "1ffd3810048f8d2c4366a21026296c073d04671fb1e08a8db0c4f1b42504d1c4",
+      "allocation_reason": "Main mdo ni zab moi don and final du bsdu on line4, separated by smaller source explanation."
+    },
+    {
+      "id": "CH08-ROOT-C2026",
+      "path": "evidence/golden/08/root-S2026-detail.png",
+      "sha256": "aa54362d66b8706b0956bf2c9aa5fd397b6b75bcb4e38b597d5f659d228a7f4d",
+      "source_id": "adzom-1973",
+      "image_index": 545,
+      "anchor_ids": [
+        "MTP-S002026"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root coordinating agent",
+      "crop": [
+        1880,
+        535,
+        2540,
+        668
+      ],
+      "original_sha256": "1ffd3810048f8d2c4366a21026296c073d04671fb1e08a8db0c4f1b42504d1c4",
+      "allocation_reason": "Entire targeted main phrase on line6; visible ga in thugs and compact Sanskrit stack."
+    }
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-TRIAGE-047",
+      "status": "closed",
+      "finding": "Retain the unusual supplied spelling གོ་ཞུབ supported by native image543 line2right; do not harmonize the source to a more familiar armor spelling.",
+      "evidence_ids": [
+        "CH08-ROOT-E543",
+        "CH08-ROOT-C1977"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after སྒོ་བསྲུང remains untranscribed; final འདྲ continues at physical line3left."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-049",
+      "status": "closed",
+      "finding": "Native image545 line4 prints ཟབ་མོའི. Correct the supplied initial cluster བྲབ to the visible ཟབ, without grammatical conjecture. Native image545 line6 visibly has ga in ཐུགས and stacked tta in the compact Sanskrit syllable. Correct ཐུས→ཐུགས and the supplied split ཅིཏ་ཏའི→ཅིཏྟའི. Retain supplied initial ca without claiming secure distinction from tsa.",
+      "evidence_ids": [
+        "CH08-ROOT-E545",
+        "CH08-ROOT-C2020",
+        "CH08-ROOT-C2026"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དོན remains untranscribed and separate from the main continuation དུ་བསྡུ.",
+        "The Sanskrit initial ca/tsa distinction is not securely resolved; supplied ca is retained while the clearly printed tta stack is encoded.",
+        "Smaller source wording after the main དཀྱིལ remains untranscribed and separate from this selected main phrase."
+      ]
+    },
+    {
+      "id": "MTP-C08-CHECK-008",
+      "status": "closed",
+      "finding": "Native image545 line6 visibly has ga in ཐུགས and stacked tta in the compact Sanskrit syllable. Correct ཐུས→ཐུགས and the supplied split ཅིཏ་ཏའི→ཅིཏྟའི. Retain supplied initial ca without claiming secure distinction from tsa.",
+      "evidence_ids": [
+        "CH08-ROOT-E545",
+        "CH08-ROOT-C2026"
+      ],
+      "uncertainty": [
+        "The Sanskrit initial ca/tsa distinction is not securely resolved; supplied ca is retained while the clearly printed tta stack is encoded.",
+        "Smaller source wording after the main དཀྱིལ remains untranscribed and separate from this selected main phrase."
+      ]
+    }
+  ],
+  "review_limits": "Authored source findings. The base-review agent separately confirmed both changed anchors, including secure tta stacking; ca/tsa remains explicitly unresolved. No independent human certification."
+}

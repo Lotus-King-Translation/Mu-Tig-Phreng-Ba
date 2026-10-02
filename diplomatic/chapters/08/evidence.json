@@ -1,1 +1,1105 @@
-[]
+[
+  {
+    "id": "MTP-C08-TR-E530",
+    "path": "evidence/golden/08/00530.png",
+    "sha256": "a011f6bbb91da81b12d373ada6108c0f100bf3bc34eddde491c14c3a7ba37158",
+    "anchor_ids": [
+      "MTP-S001770",
+      "MTP-S001771"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Printed520: chapter8 opening de nas rdo rje dzin pa des at main row4 right follows the previous numbered colophon; electronic @8 marker belongs to this supported boundary.",
+    "source_id": "adzom-1973",
+    "image_index": 530,
+    "inspector": "/root/golden_triage",
+    "inspection_limits": "Assigned boundary and end-material checks only; not full-page proofreading.",
+    "inspection": "native_image_direct"
+  },
+  {
+    "id": "MTP-C08-TR-E545",
+    "path": "evidence/golden/08/00545.png",
+    "sha256": "1ffd3810048f8d2c4366a21026296c073d04671fb1e08a8db0c4f1b42504d1c4",
+    "anchor_ids": [
+      "MTP-S002039"
+    ],
+    "status": "excluded",
+    "allocation_reason": "Printed535 original was inspected to check the historical page hint. It does not contain assigned end anchors S2034–2038; they are on printed536. Preserve as excluded contextual evidence, not an attestation of missing text.",
+    "source_id": "adzom-1973",
+    "image_index": 545,
+    "inspector": "/root/golden_triage",
+    "inspection_limits": "Assigned boundary and end-material checks only; not full-page proofreading."
+  },
+  {
+    "id": "MTP-C08-TR-E546",
+    "path": "evidence/golden/08/00546.png",
+    "sha256": "9e5b13a102ea766b238780aa75d6fd9864a1d45d1a3b9f788a5698ba06b3a9b7",
+    "anchor_ids": [
+      "MTP-S002034",
+      "MTP-S002035",
+      "MTP-S002036",
+      "MTP-S002037",
+      "MTP-S002038",
+      "MTP-S002039"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Printed536 is present despite absence of electronic marker536. S2034 title on row5 center; S2035 closure begins row5 right and ends row6 left. Closing narrative S2036/S2037/S2038 follows on row6. S2038 final dang continues on image547 row1.",
+    "source_id": "adzom-1973",
+    "image_index": 546,
+    "inspector": "/root/golden_triage",
+    "inspection_limits": "Assigned boundary and end-material checks only; not full-page proofreading.",
+    "inspection": "native_image_direct"
+  },
+  {
+    "id": "MTP-C08-TR-E547",
+    "path": "evidence/golden/08/00547.png",
+    "sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "anchor_ids": [
+      "MTP-S002038",
+      "MTP-S002039",
+      "MTP-S002040",
+      "MTP-S002041",
+      "MTP-S002042",
+      "MTP-S002043",
+      "MTP-S002044",
+      "MTP-S002045",
+      "MTP-S002046",
+      "MTP-S002047",
+      "MTP-S002048",
+      "MTP-S002049",
+      "MTP-S002050",
+      "MTP-S002051",
+      "MTP-S002052",
+      "MTP-S002053"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Printed537: row1 continues S2038 with dang, then S2040–2042. S2043/S2044 cross rows2–3. S2045 and title S2046 occupy row3; S2047 spans rows3–4 around smaller notes. S2048 closes the work on row4. Notice S2049 crosses rows4–5; S2050 and three blessings S2051–2053 follow on row5. Metadata537 matches this physical page.",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "inspector": "/root/golden_triage",
+    "inspection_limits": "Assigned boundary and end-material checks only; not full-page proofreading.",
+    "inspection": "native_image_direct"
+  },
+  {
+    "id": "MTP-C08-TR-C530-1771",
+    "path": "evidence/golden/08/00530-1771.png",
+    "sha256": "c8eac2e4fe52ed4ef873eac06e74e7869c6c2df4e6221ea72ff2d255be1d3a00",
+    "anchor_ids": [
+      "MTP-S001771"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Complete chapter8 opening on row4 right.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 530,
+    "crop": [
+      2450,
+      385,
+      2890,
+      495
+    ],
+    "original_sha256": "a011f6bbb91da81b12d373ada6108c0f100bf3bc34eddde491c14c3a7ba37158",
+    "original_path": "evidence/golden/08/00530.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C546-end-row5-left",
+    "path": "evidence/golden/08/00546-end-row5-left.png",
+    "sha256": "c73c5d077665161f5c5d825380143d6b0d0278f089b2de2b1d0e501e978719a2",
+    "anchor_ids": [
+      "MTP-S002034"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row5 title formula S2034 with preceding contextual words; no other anchor is certified.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 546,
+    "crop": [
+      1400,
+      475,
+      2650,
+      610
+    ],
+    "original_sha256": "9e5b13a102ea766b238780aa75d6fd9864a1d45d1a3b9f788a5698ba06b3a9b7",
+    "original_path": "evidence/golden/08/00546.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C546-end-row5-right",
+    "path": "evidence/golden/08/00546-end-row5-right.png",
+    "sha256": "17ccb1caa3f8863ccac6e41609886ec152070b71ecd5d4025e974842d9a74da3",
+    "anchor_ids": [
+      "MTP-S002035"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row5 right beginning of chapter8 numbered colophon; ends on row6 left.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 546,
+    "crop": [
+      2630,
+      480,
+      3490,
+      615
+    ],
+    "original_sha256": "9e5b13a102ea766b238780aa75d6fd9864a1d45d1a3b9f788a5698ba06b3a9b7",
+    "original_path": "evidence/golden/08/00546.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C546-end-row6-left",
+    "path": "evidence/golden/08/00546-end-row6-left.png",
+    "sha256": "57ea1ef7576121598cdb0f878becc6c0ef95f55eae4ffc9a7b498ccfa05151cf",
+    "anchor_ids": [
+      "MTP-S002035",
+      "MTP-S002036",
+      "MTP-S002037"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row6 left closure of S2035, then complete S2036 and initial part of S2037.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 546,
+    "crop": [
+      430,
+      575,
+      2170,
+      690
+    ],
+    "original_sha256": "9e5b13a102ea766b238780aa75d6fd9864a1d45d1a3b9f788a5698ba06b3a9b7",
+    "original_path": "evidence/golden/08/00546.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C546-end-row6-right",
+    "path": "evidence/golden/08/00546-end-row6-right.png",
+    "sha256": "e5c4cd7aa409e9f325e63d48a29f2f672bb570e7d1bc0a4d5015acb6f238f466",
+    "anchor_ids": [
+      "MTP-S002037",
+      "MTP-S002038"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row6 right continuation S2037, smaller source note, and start of S2038 through shegs pa. Final dang crosses to547.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 546,
+    "crop": [
+      2100,
+      560,
+      3490,
+      685
+    ],
+    "original_sha256": "9e5b13a102ea766b238780aa75d6fd9864a1d45d1a3b9f788a5698ba06b3a9b7",
+    "original_path": "evidence/golden/08/00546.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C547-row1-left",
+    "path": "evidence/golden/08/00547-row1-left.png",
+    "sha256": "68612f589e4c91752016aaa24f249cc780c39918e958151a5898f27cebfaac8d",
+    "anchor_ids": [
+      "MTP-S002038",
+      "MTP-S002040",
+      "MTP-S002041"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row1 left: final dang of S2038, then main S2040 and S2041.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "crop": [
+      820,
+      140,
+      2170,
+      255
+    ],
+    "original_sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "original_path": "evidence/golden/08/00547.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C547-row1-right",
+    "path": "evidence/golden/08/00547-row1-right.png",
+    "sha256": "0b8276aed5870c7f9ed7b9e60146f2c0dff1657ac7f5c49e46670aca4820d591",
+    "anchor_ids": [
+      "MTP-S002042"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row1 right: S2042 and a smaller explanation continuing at row2 left.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "crop": [
+      2150,
+      140,
+      3520,
+      255
+    ],
+    "original_sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "original_path": "evidence/golden/08/00547.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C547-row2-left",
+    "path": "evidence/golden/08/00547-row2-left.png",
+    "sha256": "8a010ba142fc1eb3f483f6e6c58b9ec7fbe76770aa18a29ff8121ca48b35fc34",
+    "anchor_ids": [
+      "MTP-S002042",
+      "MTP-S002043"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row2 left: continuation of the smaller note attached near S2042, then S2043 begins mkha gro ma dpag; explanatory wording follows.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "crop": [
+      480,
+      240,
+      2120,
+      345
+    ],
+    "original_sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "original_path": "evidence/golden/08/00547.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C547-row2-right",
+    "path": "evidence/golden/08/00547-row2-right.png",
+    "sha256": "8291a9ee0e29db1cf9fccb0780a5b763dd4716137cb81795abf3ee2617995dd5",
+    "anchor_ids": [
+      "MTP-S002043",
+      "MTP-S002044"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row2 right: smaller explanation before main tu med pa dang ending S2043; S2044 begins dri zar bcas pai.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "crop": [
+      2100,
+      230,
+      3520,
+      335
+    ],
+    "original_sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "original_path": "evidence/golden/08/00547.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C547-row3-left",
+    "path": "evidence/golden/08/00547-row3-left.png",
+    "sha256": "8d7bf349f973dbd2b97a5df6bcd60308e76ca22ce46de0d80a1daabe880aa01d",
+    "anchor_ids": [
+      "MTP-S002044",
+      "MTP-S002045",
+      "MTP-S002046"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row3 left ends S2044, then complete S2045; S2046 title begins at right edge.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "crop": [
+      490,
+      330,
+      2140,
+      435
+    ],
+    "original_sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "original_path": "evidence/golden/08/00547.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C547-row3-right",
+    "path": "evidence/golden/08/00547-row3-right.png",
+    "sha256": "a3cf31bed92176116a97d231a9c39e4d4a9a468dee181194dee78d2d14549f54",
+    "anchor_ids": [
+      "MTP-S002046",
+      "MTP-S002047"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row3 right: S2046 continues to title ending, then S2047 begins rang bzhin rdzogs pa chen poi rgyud.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "crop": [
+      2100,
+      325,
+      3520,
+      430
+    ],
+    "original_sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "original_path": "evidence/golden/08/00547.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C547-row4-left",
+    "path": "evidence/golden/08/00547-row4-left.png",
+    "sha256": "a05b87a132a5f59a37e602768f17324de96d78fc72ff07c6bd9e39dfdb73239c",
+    "anchor_ids": [
+      "MTP-S002047"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row4 left continues S2047 numeral/formula around smaller printed explanation.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "crop": [
+      500,
+      430,
+      2090,
+      525
+    ],
+    "original_sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "original_path": "evidence/golden/08/00547.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C547-row4-right",
+    "path": "evidence/golden/08/00547-row4-right.png",
+    "sha256": "7d6c33e311534c57592038c82e252dbfbc5f2450d64673a2b9fc4a4b720f34ff",
+    "anchor_ids": [
+      "MTP-S002047",
+      "MTP-S002048",
+      "MTP-S002049"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row4 right ends S2047 with phyung bao, followed by S2048 rdzogs so and beginning of S2049 source commentary notice.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "crop": [
+      2070,
+      415,
+      3560,
+      525
+    ],
+    "original_sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "original_path": "evidence/golden/08/00547.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-TR-C547-row5",
+    "path": "evidence/golden/08/00547-row5.png",
+    "sha256": "29b643e3c1945749355d6902340c77e1c6f7ae63d84bc3cd8ed0260f5f48e83e",
+    "anchor_ids": [
+      "MTP-S002049",
+      "MTP-S002050",
+      "MTP-S002051",
+      "MTP-S002052",
+      "MTP-S002053"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Row5 completes S2049 notice, then S2050 related-work notice and three successive dgeo blessings.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 547,
+    "crop": [
+      480,
+      520,
+      2250,
+      640
+    ],
+    "original_sha256": "18b923d5ee72f5f32808cef5544b6dfe693584fad01ad937e083bddad15595c1",
+    "original_path": "evidence/golden/08/00547.png",
+    "inspector": "/root/golden_triage",
+    "pixel_identity_checked": true
+  },
+  {
+    "id": "MTP-C08-PIPE-E532",
+    "path": "evidence/golden/08/00532.png",
+    "sha256": "4a591404f1c51ca19c677a2b4e2fffff0d16791b352cf3468281c86af4a681f1",
+    "anchor_ids": [
+      "MTP-S001811"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Printed 522, physical row 6 far left. The complete large-type phrase begins དྲི་མ་མེད and ends སོ་སོར་དངས before the shad.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 532,
+    "inspector": "golden_pipeline agent",
+    "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-E533",
+    "path": "evidence/golden/08/00533.png",
+    "sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+    "anchor_ids": [
+      "MTP-S001823",
+      "MTP-S001824",
+      "MTP-S001825",
+      "MTP-S001826"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Printed 523. S1823 starts with large-type གནད་ནི toward the right of row 3 and continues རྣམ་པ་གསུམ་དག་གིས in row 4 after intervening smaller explanations. S1824 follows in row 4. S1825 starts ལུས་དང toward the right of row 4, then smaller explanation precedes main དང་ཡུལ; ཉིད་དོ ends the phrase at row 5 far left. S1826 follows in row 5, with smaller explanation after ལུས་ཀྱི.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 533,
+    "inspector": "golden_pipeline agent",
+    "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-E536",
+    "path": "evidence/golden/08/00536.png",
+    "sha256": "c643f15035fe2c9e0cce2675788ed938c6eb7ce56fd0ab546a4981e61a6561b8",
+    "anchor_ids": [
+      "MTP-S001861",
+      "MTP-S001873"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Printed 526. S1861 occurs toward the right of row 1 and visibly ends ལྟ་སྟེ. S1873 begins with large-type སྙིང་པོ toward the right of row 6; after smaller explanation, རྫོགས་པའི་རང་བཞིན continues to the right. Its final word is on the following image 537, not within this page.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 536,
+    "inspector": "golden_pipeline agent",
+    "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-E537",
+    "path": "evidence/golden/08/00537.png",
+    "sha256": "7a8f27e7499e0ed524daabfa7afa9e01347b2e49f02f31cc7135f0795520e970",
+    "anchor_ids": [
+      "MTP-S001873",
+      "MTP-S001877"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Printed 527. S1873 final རྒྱད is the first main-text word at row 1 left, following the decorative mark; this is the continuation from printed 526. S1877 is in row 2 toward the left-middle, from རང་བཞིན through དཀྱིལ་འཁོར་དུ, with the Sanskrit-derived syllable written as a stack.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 537,
+    "inspector": "golden_pipeline agent",
+    "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-E538",
+    "path": "evidence/golden/08/00538.png",
+    "sha256": "cd8d2ab56f5e271f722934674cb85406bb6a84b761beb679a6336fd5f7b2c90c",
+    "anchor_ids": [
+      "MTP-S001896",
+      "MTP-S001903"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Printed 528. S1896 is in row 2, beginning near the middle with སྙིང་པོ་བསྡུས་པས་དངས་མ; smaller explanation precedes large-type གསུམ toward the right. S1903 is in row 6 toward the right: large-type གཞི, smaller explanation, then དང་ལམ་དང་པོ་དང་འབྲས་བུ, another smaller note, and ཡིས.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 538,
+    "inspector": "golden_pipeline agent",
+    "inspection_limits": "Targeted native-image inspection; no OCR, no full-page proofreading.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1823-1825-detail",
+    "path": "evidence/golden/08/pipeline-S1823-1825-detail.png",
+    "sha256": "df33da91a9bc76c397ee9c4fc578eb73da20c68e4bd8d9fab41b32acb74f2334",
+    "anchor_ids": [
+      "MTP-S001825"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 533,
+    "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+    "crop": [
+      2380,
+      330,
+      3570,
+      560
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1823-1826-rows",
+    "path": "evidence/golden/08/pipeline-S1823-1826-rows.png",
+    "sha256": "8addf056e36087a9af750826b15dcd94b68496e62f17fd3c479c98b05c7e32f9",
+    "anchor_ids": [
+      "MTP-S001823",
+      "MTP-S001824",
+      "MTP-S001825",
+      "MTP-S001826"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 533,
+    "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+    "crop": [
+      530,
+      275,
+      3560,
+      566
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1811-detail",
+    "path": "evidence/golden/08/pipeline-S1811-detail.png",
+    "sha256": "3803363c6b516848d9ba7efc306efde3e627e47edcfa9535efefce2317fe358a",
+    "anchor_ids": [
+      "MTP-S001811"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 532,
+    "original_sha256": "4a591404f1c51ca19c677a2b4e2fffff0d16791b352cf3468281c86af4a681f1",
+    "crop": [
+      520,
+      570,
+      1040,
+      685
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1825-detail",
+    "path": "evidence/golden/08/pipeline-S1825-detail.png",
+    "sha256": "ace6f91614a68d1c2970709a7984ae3307889d12fbdddbd3b2a87a6e797e432d",
+    "anchor_ids": [
+      "MTP-S001825"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 533,
+    "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+    "crop": [
+      2370,
+      325,
+      3560,
+      466
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1826-detail",
+    "path": "evidence/golden/08/pipeline-S1826-detail.png",
+    "sha256": "2742a2361dccd2ed8e9886a11f207f8f8b63e11c99963752a2ac7cda781bb026",
+    "anchor_ids": [
+      "MTP-S001826"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 533,
+    "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+    "crop": [
+      715,
+      450,
+      1650,
+      577
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1861-detail",
+    "path": "evidence/golden/08/pipeline-S1861-detail.png",
+    "sha256": "4c825effde0c4a50fbe1e454771fcc271bfcdef8058e903dc5f910e4639c21f7",
+    "anchor_ids": [
+      "MTP-S001861"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 536,
+    "original_sha256": "c643f15035fe2c9e0cce2675788ed938c6eb7ce56fd0ab546a4981e61a6561b8",
+    "crop": [
+      2360,
+      100,
+      2930,
+      219
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1873-detail",
+    "path": "evidence/golden/08/pipeline-S1873-detail.png",
+    "sha256": "894cf15082bee64f4d490a3f19c84690cf4882ce080f0b321b8b970055ae43ec",
+    "anchor_ids": [
+      "MTP-S001873"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 536,
+    "original_sha256": "c643f15035fe2c9e0cce2675788ed938c6eb7ce56fd0ab546a4981e61a6561b8",
+    "crop": [
+      2380,
+      537,
+      3478,
+      674
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1873-continuation",
+    "path": "evidence/golden/08/pipeline-S1873-continuation.png",
+    "sha256": "76a74ed44ca402f35c5bdd790fa878e0bdefd19c722389b66b0d9d45f6c0453c",
+    "anchor_ids": [
+      "MTP-S001873"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 537,
+    "original_sha256": "7a8f27e7499e0ed524daabfa7afa9e01347b2e49f02f31cc7135f0795520e970",
+    "crop": [
+      925,
+      135,
+      1055,
+      249
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1877-detail",
+    "path": "evidence/golden/08/pipeline-S1877-detail.png",
+    "sha256": "d297eedbe08c1df2f03a324ca9a81fbd23de5ac304dd12a1f8c4e34086bb1e46",
+    "anchor_ids": [
+      "MTP-S001877"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 537,
+    "original_sha256": "7a8f27e7499e0ed524daabfa7afa9e01347b2e49f02f31cc7135f0795520e970",
+    "crop": [
+      1110,
+      215,
+      1770,
+      332
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1896-detail",
+    "path": "evidence/golden/08/pipeline-S1896-detail.png",
+    "sha256": "d285f80c761daa967f112e9607b151f3ac4f6a4c4125b7d9ee5c483a2a8ebc6e",
+    "anchor_ids": [
+      "MTP-S001896"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 538,
+    "original_sha256": "cd8d2ab56f5e271f722934674cb85406bb6a84b761beb679a6336fd5f7b2c90c",
+    "crop": [
+      1460,
+      202,
+      3200,
+      306
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1903-detail",
+    "path": "evidence/golden/08/pipeline-S1903-detail.png",
+    "sha256": "f0d0503bffeaa8ef1eb44164601346354547be17b067da275a211b872e073ad4",
+    "anchor_ids": [
+      "MTP-S001903"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 538,
+    "original_sha256": "cd8d2ab56f5e271f722934674cb85406bb6a84b761beb679a6336fd5f7b2c90c",
+    "crop": [
+      2050,
+      556,
+      3270,
+      687
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1896-row",
+    "path": "evidence/golden/08/pipeline-S1896-row.png",
+    "sha256": "42156a00837da8747ac6acf6a1dfaea953d643749a9f3f8a8ebccd33c2a6aa98",
+    "anchor_ids": [
+      "MTP-S001896"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 538,
+    "original_sha256": "cd8d2ab56f5e271f722934674cb85406bb6a84b761beb679a6336fd5f7b2c90c",
+    "crop": [
+      1450,
+      184,
+      3500,
+      318
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "MTP-C08-PIPE-CROP-pipeline-S1823-1824-detail",
+    "path": "evidence/golden/08/pipeline-S1823-1824-detail.png",
+    "sha256": "60b5d90d3d914866dc20e9b0497b85f04f5a17282e3bb7f62ccac386b5ee0c25",
+    "anchor_ids": [
+      "MTP-S001823",
+      "MTP-S001824"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Unresampled detail of the identified native locus. Full-image context and multi-row allocation remain in the companion original-image record.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 533,
+    "original_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+    "crop": [
+      540,
+      266,
+      3550,
+      469
+    ],
+    "inspector": "golden_pipeline agent",
+    "pixel_identity_checked": true,
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-043-045.json",
+      "sha256": "1824e73abdf82245535acfb2461c585b46b5a18da4b56fe32fad346dd7f5cf0d"
+    }
+  },
+  {
+    "id": "CH08-BASE-E540",
+    "path": "evidence/golden/08/00540.png",
+    "sha256": "a435f213263ade3d52f8d946f7f811d3d44a2ce173a9c7ad8c452ca50c6e9f82",
+    "source_id": "adzom-1973",
+    "image_index": 540,
+    "printed_page": 530,
+    "anchor_ids": [
+      "MTP-S001939",
+      "MTP-S001940"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root/golden_base_review",
+    "allocation_reason": "S1939: line5 right, with note continuation on line6 left; S1940: line6 center to right. Targeted main-list and metadata review; smaller notes remain untranscribed; no full-page proofreading.",
+    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950540.TIF/full/max/0/default.png",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-E541",
+    "path": "evidence/golden/08/00541.png",
+    "sha256": "447c7dba86ab457583b4178aee0492e8641a758741bae85cbacec5ac6f4eedc4",
+    "source_id": "adzom-1973",
+    "image_index": 541,
+    "printed_page": 531,
+    "anchor_ids": [
+      "MTP-S001941",
+      "MTP-S001942",
+      "MTP-S001943",
+      "MTP-S001944",
+      "MTP-S001945",
+      "MTP-S001946",
+      "MTP-S001947",
+      "MTP-S001948",
+      "MTP-S001949"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root/golden_base_review",
+    "allocation_reason": "S1941: printed page number531 in upper left margin; S1942: line1 center; S1943: line1 right through line2 center; S1944: line2 right through line3 left; S1945: line3 center to right; S1946: line3 right through line4 left; S1947: line4 center to right; S1948: line5 left through center-right; S1949: line5 right. Targeted main-list and metadata review; smaller notes remain untranscribed; no full-page proofreading.",
+    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950541.TIF/full/max/0/default.png",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-E542",
+    "path": "evidence/golden/08/00542.png",
+    "sha256": "9be4272d52344ce7885cfefd861424a5e371bc54b864e5e7f1cccbfce556ba99",
+    "source_id": "adzom-1973",
+    "image_index": 542,
+    "printed_page": 532,
+    "anchor_ids": [
+      "MTP-S001957"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root/golden_base_review",
+    "allocation_reason": "S1957: line1 right through line2 left. Targeted main-list and metadata review; smaller notes remain untranscribed; no full-page proofreading.",
+    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950542.TIF/full/max/0/default.png",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-E543",
+    "path": "evidence/golden/08/00543.png",
+    "sha256": "00609f2064b0f95bdb30f6bac28a1d7c783bf5d124f3b252090928c423723fcf",
+    "source_id": "adzom-1973",
+    "image_index": 543,
+    "printed_page": 533,
+    "anchor_ids": [
+      "MTP-S001981",
+      "MTP-S001982",
+      "MTP-S001983",
+      "MTP-S001984",
+      "MTP-S001985",
+      "MTP-S001986",
+      "MTP-S001987",
+      "MTP-S001988",
+      "MTP-S001989",
+      "MTP-S001990"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root/golden_base_review",
+    "allocation_reason": "S1981: line3 right; S1982: line3 far right through line4 left; S1983: line4 center; S1984: line4 right; S1985: line4 far right through line5 left; S1986: line5 left through center; S1987: line5 center-right to right; S1988: line6 left through center; S1989: line6 center; S1990: line6 right, continuing at image544 line1 left. Targeted main-list and metadata review; smaller notes remain untranscribed; no full-page proofreading.",
+    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950543.TIF/full/max/0/default.png",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-BASE-E544",
+    "path": "evidence/golden/08/00544.png",
+    "sha256": "5aeab002988e7222eb4ed07f2fbc447226b543c5cf88afd0ed0b91319e3d7888",
+    "source_id": "adzom-1973",
+    "image_index": 544,
+    "printed_page": 534,
+    "anchor_ids": [
+      "MTP-S001990",
+      "MTP-S001991",
+      "MTP-S001992",
+      "MTP-S001993",
+      "MTP-S001994",
+      "MTP-S001995",
+      "MTP-S001996",
+      "MTP-S001997",
+      "MTP-S001998"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root/golden_base_review",
+    "allocation_reason": "S1990: continuation at line1 left: bzhi yis ni; S1991: printed page number534 in upper left margin; S1992: line1 center; S1993: line1 right through line2 left; S1994: line2 left through center; S1995: line2 right through line3 left; S1996: line3 left through center-right; S1997: line3 right through line4 left; S1998: line4 left through center. Targeted main-list and metadata review; smaller notes remain untranscribed; no full-page proofreading.",
+    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950544.TIF/full/max/0/default.png",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-046-048.json",
+      "sha256": "b036638a1fdcc9ab0f34713570179dc46df4cb5dff874af3594c2f805e431720"
+    }
+  },
+  {
+    "id": "CH08-ROOT-E543",
+    "path": "evidence/golden/08/00543.png",
+    "sha256": "00609f2064b0f95bdb30f6bac28a1d7c783bf5d124f3b252090928c423723fcf",
+    "source_id": "adzom-1973",
+    "image_index": 543,
+    "printed_page": 533,
+    "anchor_ids": [
+      "MTP-S001977"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root coordinating agent",
+    "allocation_reason": "S1977 occupies main line2 right: go zhub ldan pai sgo bsrung, with smaller explanation before the line3left continuation dra. Targeted allocation, not full-page proofreading.",
+    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950543.TIF/full/max/0/default.png",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    }
+  },
+  {
+    "id": "CH08-ROOT-E545",
+    "path": "evidence/golden/08/00545.png",
+    "sha256": "1ffd3810048f8d2c4366a21026296c073d04671fb1e08a8db0c4f1b42504d1c4",
+    "source_id": "adzom-1973",
+    "image_index": 545,
+    "printed_page": 535,
+    "anchor_ids": [
+      "MTP-S002020",
+      "MTP-S002026"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root coordinating agent",
+    "allocation_reason": "S2020 occupies main line4 left-center: mdo ni zab moi don, smaller note, then du bsdu. S2026 occupies main line6 center: gnas pa thugs te cit tai dkyil, with compact stacked Sanskrit syllable. Targeted allocation, not full-page proofreading.",
+    "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950545.TIF/full/max/0/default.png",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    }
+  },
+  {
+    "id": "CH08-ROOT-C1977",
+    "path": "evidence/golden/08/root-S1977-detail.png",
+    "sha256": "63e9f8debb736014efa8da270f389ed2608a194d85c01e6d235a3721b25a2680",
+    "source_id": "adzom-1973",
+    "image_index": 543,
+    "anchor_ids": [
+      "MTP-S001977"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root coordinating agent",
+    "crop": [
+      2510,
+      143,
+      3580,
+      277
+    ],
+    "original_sha256": "00609f2064b0f95bdb30f6bac28a1d7c783bf5d124f3b252090928c423723fcf",
+    "allocation_reason": "Main opening go zhub ldan pai sgo bsrung on line2right; the continuation dra is outside crop at line3left and supported by original.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    }
+  },
+  {
+    "id": "CH08-ROOT-C2020",
+    "path": "evidence/golden/08/root-S2020-detail.png",
+    "sha256": "ca0b638023ebb492685b2c33e9d062c3c82ef95d7aad972a2e7d09bb80962b55",
+    "source_id": "adzom-1973",
+    "image_index": 545,
+    "anchor_ids": [
+      "MTP-S002020"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root coordinating agent",
+    "crop": [
+      950,
+      395,
+      1810,
+      520
+    ],
+    "original_sha256": "1ffd3810048f8d2c4366a21026296c073d04671fb1e08a8db0c4f1b42504d1c4",
+    "allocation_reason": "Main mdo ni zab moi don and final du bsdu on line4, separated by smaller source explanation.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    }
+  },
+  {
+    "id": "CH08-ROOT-C2026",
+    "path": "evidence/golden/08/root-S2026-detail.png",
+    "sha256": "aa54362d66b8706b0956bf2c9aa5fd397b6b75bcb4e38b597d5f659d228a7f4d",
+    "source_id": "adzom-1973",
+    "image_index": 545,
+    "anchor_ids": [
+      "MTP-S002026"
+    ],
+    "status": "accepted",
+    "inspection": "native_image_direct",
+    "inspector": "/root coordinating agent",
+    "crop": [
+      1880,
+      535,
+      2540,
+      668
+    ],
+    "original_sha256": "1ffd3810048f8d2c4366a21026296c073d04671fb1e08a8db0c4f1b42504d1c4",
+    "allocation_reason": "Entire targeted main phrase on line6; visible ga in thugs and compact Sanskrit stack.",
+    "review_fragment": {
+      "path": "diplomatic/chapters/08/REVIEW-047-049.json",
+      "sha256": "ca59dee322a1298e2036439a2bd5df49728e2d6fbe54d482da83eece415779b0"
+    }
+  }
+]

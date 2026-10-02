@@ -1,0 +1,20 @@
+{
+  "chapter": 8,
+  "inspector": "/root coordinating agent",
+  "scope": "Targeted independent native check of S1825 possible omission; no full-page proofread.",
+  "checks": [
+    {
+      "anchor_id": "MTP-S001825",
+      "image_index": 533,
+      "source_path": "evidence/golden/08/00533.png",
+      "source_sha256": "219fecab95b400b877894e4eeab0b50328c4f23812cf16494f8371d1cff235e9",
+      "locator_crop_coordinates": [
+        2390,
+        338,
+        3570,
+        480
+      ],
+      "finding": "Native line4 right has main lus dang, then smaller explanation, then dang yul; nyid do continues line5left. No securely separable main mig is visible. Retain exact supplied text with explicit uncertainty; no conjectural restoration."
+    }
+  ]
+}
