@@ -1,0 +1,158 @@
+{
+  "edition": "dege-W21939",
+  "source_group": "I6324",
+  "source_manifest": "editions/metadata/dege-W21939/volume-manifest.json",
+  "retrieved_date": "2026-10-02",
+  "attribution": "Buddhist Digital Resource Center",
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "requested_range": [
+    101,
+    160
+  ],
+  "boundary_samples": true,
+  "images": [
+    {
+      "image_index": 100,
+      "file": "00100.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I6324::63240100.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I6324/canvas/63240100.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "49b"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 100"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "49ba/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _100"
+        }
+      ],
+      "bytes": 155364,
+      "sha256": "c9306ba77eddcbbd354579e2e77831860ed99a6395161324dd090b24da472b24",
+      "width": 2386,
+      "height": 419
+    },
+    {
+      "image_index": 101,
+      "file": "00101.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I6324::63240101.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I6324/canvas/63240101.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "50a"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 101"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "50na/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _101"
+        }
+      ],
+      "bytes": 155243,
+      "sha256": "6379ed37695fe2cbd4e8a5bfa3282aa633cb81f1fa69d8267ca67c08d3600297",
+      "width": 2386,
+      "height": 419
+    },
+    {
+      "image_index": 102,
+      "file": "00102.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I6324::63240102.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I6324/canvas/63240102.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "50b"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 102"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "50ba/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _102"
+        }
+      ],
+      "bytes": 143284,
+      "sha256": "3afa1a607df35b2343ba1887f8dd79853934bc1346ee07da1af547654e1ac57c",
+      "width": 2386,
+      "height": 419
+    },
+    {
+      "image_index": 160,
+      "file": "00160.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I6324::63240160.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I6324/canvas/63240160.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "79b"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 160"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "79ba/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _160"
+        }
+      ],
+      "bytes": 120458,
+      "sha256": "803efbd0586d88a1ffebd3822eacd36dd7e89a043ec26ffbc7065bf3fc52b1b8",
+      "width": 2386,
+      "height": 419
+    },
+    {
+      "image_index": 161,
+      "file": "00161.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I6324::63240161.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I6324/canvas/63240161.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "80a"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 161"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "80na/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _161"
+        }
+      ],
+      "bytes": 136890,
+      "sha256": "49de9b4d1a2d969faba67bfc6bdf88e2f8fbf73fdfa0e6720d26decb4ad9bab7",
+      "width": 2386,
+      "height": 419
+    }
+  ],
+  "new_ocr": false,
+  "full_scan_proofreading": false,
+  "visual_boundary_verification": "See BOUNDARIES.md; acquisition alone does not verify text extent."
+}

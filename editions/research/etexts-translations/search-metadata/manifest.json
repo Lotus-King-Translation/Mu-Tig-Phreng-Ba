@@ -1,0 +1,34 @@
+[
+  {
+    "file": "webuddhist-bo.json",
+    "source_url": "https://webuddhist.com/library/v2/texts?title=%E0%BD%98%E0%BD%B4%E0%BC%8B%E0%BD%8F%E0%BD%B2%E0%BD%82&limit=20&offset=0",
+    "accessed": "2026-10-02",
+    "sha256": "e92980c3705f60ac71faac354bdd0069cf34e1631b3699118b58e3eeac5fc832",
+    "bytes": 51
+  },
+  {
+    "file": "webuddhist-wylie.json",
+    "source_url": "https://webuddhist.com/library/v2/texts?title=mu+tig&limit=20&offset=0",
+    "accessed": "2026-10-02",
+    "sha256": "e92980c3705f60ac71faac354bdd0069cf34e1631b3699118b58e3eeac5fc832",
+    "bytes": 51
+  },
+  {
+    "file": "webuddhist-en.json",
+    "source_url": "https://webuddhist.com/library/v2/texts?title=Pearls&limit=20&offset=0",
+    "accessed": "2026-10-02",
+    "sha256": "e92980c3705f60ac71faac354bdd0069cf34e1631b3699118b58e3eeac5fc832",
+    "bytes": 51
+  },
+  {
+    "file": "adarshah-ngagyurnyingma-catalogue.json",
+    "source_url": "https://api.adarshah.org/plugins/adarshaplugin/file_servlet/sutraList",
+    "request_method": "POST",
+    "public_collection": "ngagyurnyingma",
+    "discovery_page": "https://online.adarshah.org/",
+    "accessed": "2026-10-02",
+    "authentication": "anonymous public endpoint; no user token",
+    "sha256": "70562b5e3a702e63461456fe1eb6f5d1f7bc9160f8cb69438c716195bb05707d",
+    "bytes": 538061
+  }
+]

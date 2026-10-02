@@ -1,0 +1,186 @@
+{
+  "edition": "tingkye-1973",
+  "source_group": "I1764",
+  "source_manifest": "editions/metadata/tingkye-1973/volume-manifest.json",
+  "retrieved_date": "2026-10-02",
+  "attribution": "Buddhist Digital Resource Center",
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "requested_range": [
+    531,
+    585
+  ],
+  "boundary_samples": true,
+  "images": [
+    {
+      "image_index": 530,
+      "file": "00530.png",
+      "url": "https://iiif.bdrc.io/bdr:I1764::17640530.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640530.TIF",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "261b"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 530"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "261ba/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _530"
+        }
+      ],
+      "bytes": 98593,
+      "sha256": "8c68102ea40b85b514c36a29741270c607e563a2c017de73080d8e1afb31dbb5",
+      "width": 4350,
+      "height": 1100
+    },
+    {
+      "image_index": 531,
+      "file": "00531.png",
+      "url": "https://iiif.bdrc.io/bdr:I1764::17640531.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640531.TIF",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "262a"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 531"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "262na/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _531"
+        }
+      ],
+      "bytes": 82977,
+      "sha256": "f758b106cb2ea40816a0ccb08a03fda28047706d93096dec7cc82a3ffe990700",
+      "width": 4350,
+      "height": 1100
+    },
+    {
+      "image_index": 532,
+      "file": "00532.png",
+      "url": "https://iiif.bdrc.io/bdr:I1764::17640532.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640532.TIF",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "262b"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 532"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "262ba/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _532"
+        }
+      ],
+      "bytes": 98851,
+      "sha256": "e544faacee3f1e6fc08626fb070ae3d9e65fe467f0772d2403ed6c4f809f7b67",
+      "width": 4350,
+      "height": 1100
+    },
+    {
+      "image_index": 584,
+      "file": "00584.png",
+      "url": "https://iiif.bdrc.io/bdr:I1764::17640584.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640584.TIF",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "288b"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 584"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "288ba/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _584"
+        }
+      ],
+      "bytes": 100621,
+      "sha256": "b4e5ee3a1616eaca2eccb43bd520ab3547b9e43cd0d684cee8f992c5c8570d63",
+      "width": 4350,
+      "height": 1100
+    },
+    {
+      "image_index": 585,
+      "file": "00585.png",
+      "url": "https://iiif.bdrc.io/bdr:I1764::17640585.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640585.TIF",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "289a"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 585"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "289na/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _585"
+        }
+      ],
+      "bytes": 93668,
+      "sha256": "fdca565dcc77c886afe04da910c787bf721aef0f796474779f3fba96748c4240",
+      "width": 4350,
+      "height": 1100
+    },
+    {
+      "image_index": 586,
+      "file": "00586.png",
+      "url": "https://iiif.bdrc.io/bdr:I1764::17640586.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640586.TIF",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "289b"
+        },
+        {
+          "@language": "en",
+          "@value": "img. 586"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "289ba/"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _586"
+        }
+      ],
+      "bytes": 84525,
+      "sha256": "244d885ac496350d3304ff83cb9d94d8b62501ea9e580fc5137ec867fb8921cc",
+      "width": 4350,
+      "height": 1100
+    }
+  ],
+  "new_ocr": false,
+  "full_scan_proofreading": false,
+  "visual_boundary_verification": "See BOUNDARIES.md; acquisition alone does not verify text extent."
+}

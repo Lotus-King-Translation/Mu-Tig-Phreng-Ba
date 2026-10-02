@@ -1,0 +1,138 @@
+{
+  "edition": "dzongsar-manuscript",
+  "source_group": "I3PD1346",
+  "source_manifest": "editions/metadata/dzongsar-manuscript/volume-manifest.json",
+  "retrieved_date": "2026-10-02",
+  "attribution": "Buddhist Digital Resource Center",
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "requested_range": [
+    263,
+    400
+  ],
+  "boundary_samples": true,
+  "images": [
+    {
+      "image_index": 262,
+      "file": "00262.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3PD1346::I3PD13460262.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460262.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 262"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _262"
+        }
+      ],
+      "bytes": 219132,
+      "sha256": "462b448c48e348806d9a8a87d73fd96d431f1affb9c6e5e829389b40f2bf5cd2",
+      "width": 2519,
+      "height": 674
+    },
+    {
+      "image_index": 263,
+      "file": "00263.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3PD1346::I3PD13460263.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460263.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 263"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _263"
+        }
+      ],
+      "bytes": 184458,
+      "sha256": "2ea9f15666d8897f7477242f77b769f3e64ba3cf4b2bab97641c6624e1a53b1c",
+      "width": 2519,
+      "height": 674
+    },
+    {
+      "image_index": 264,
+      "file": "00264.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3PD1346::I3PD13460264.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460264.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 264"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _264"
+        }
+      ],
+      "bytes": 372045,
+      "sha256": "872eeb1fd14c991d08a3f3cdbfd1e76535f70a21151332c01f2e94ebb512b425",
+      "width": 2519,
+      "height": 674
+    },
+    {
+      "image_index": 399,
+      "file": "00399.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3PD1346::I3PD13460399.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460399.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 399"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _399"
+        }
+      ],
+      "bytes": 333600,
+      "sha256": "00445764b64fadee003ce51bd66f1df81dd8c06e25259d5a79cd5d6aaceba33c",
+      "width": 2519,
+      "height": 674
+    },
+    {
+      "image_index": 400,
+      "file": "00400.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3PD1346::I3PD13460400.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460400.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 400"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _400"
+        }
+      ],
+      "bytes": 126112,
+      "sha256": "43a25bd552a6f0543d1494445815526f9112c270e6cc906949d037beca4f3a56",
+      "width": 2519,
+      "height": 674
+    },
+    {
+      "image_index": 401,
+      "file": "00401.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3PD1346::I3PD13460401.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460401.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 401"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _401"
+        }
+      ],
+      "bytes": 326337,
+      "sha256": "e918d5612b78baaf335aa236ebd959e41603d028d04c31973311b6ace1017eba",
+      "width": 2519,
+      "height": 674
+    }
+  ],
+  "new_ocr": false,
+  "full_scan_proofreading": false,
+  "visual_boundary_verification": "See BOUNDARIES.md; acquisition alone does not verify text extent."
+}

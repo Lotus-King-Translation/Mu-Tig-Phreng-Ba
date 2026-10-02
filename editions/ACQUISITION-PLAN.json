@@ -9,8 +9,9 @@
   {
     "edition": "tharpaling-1983",
     "group": "I4448",
-    "start": 271,
-    "end": 354
+    "start": 270,
+    "end": 354,
+    "range_basis": "Title/opening at bottom of image270; closing first two lines of354, followed by another work. Keep entire shared boundary pages."
   },
   {
     "edition": "dzongsar-manuscript",
@@ -27,8 +28,9 @@
   {
     "edition": "zhichen-manuscript",
     "group": "I1KG81310",
-    "start": 218,
-    "end": 292
+    "start": 217,
+    "end": 292,
+    "range_basis": "Title217; opening218; short closing292 visually checked."
   },
   {
     "edition": "gadkar-manuscript",
@@ -39,8 +41,9 @@
   {
     "edition": "ngmpp-W1ER119",
     "group": "I1ER795",
-    "start": 3,
-    "end": 84
+    "start": 2,
+    "end": 84,
+    "range_basis": "Title2; opening3; closing84 visually checked. Original provenance unresolved."
   },
   {
     "edition": "langtang-manuscript",
@@ -53,8 +56,8 @@
     "edition": "dege-W1ER7",
     "group": "I1ER176",
     "start": 99,
-    "end": 160,
-    "range_basis": "Exploratory boundary samples only; exact range unresolved"
+    "end": 158,
+    "range_basis": "Provisional identification from catalogue folios50a–79b and image layout. Boundary mapping unresolved; do not acquire full source yet."
   },
   {
     "edition": "dege-W21939",
