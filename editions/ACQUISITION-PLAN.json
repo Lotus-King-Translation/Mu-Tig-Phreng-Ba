@@ -44,20 +44,23 @@
   {
     "edition": "langtang-manuscript",
     "group": "I1ER806",
-    "start": null,
-    "end": null
+    "start": 2,
+    "end": 152,
+    "range_basis": "rKTs folios 1b–75a mapped by manifest labels; include title1a, missing indices recorded"
   },
   {
     "edition": "dege-W1ER7",
     "group": "I1ER176",
-    "start": null,
-    "end": null
+    "start": 99,
+    "end": 160,
+    "range_basis": "Exploratory boundary samples only; exact range unresolved"
   },
   {
     "edition": "dege-W21939",
     "group": "I6324",
-    "start": null,
-    "end": null
+    "start": 101,
+    "end": 160,
+    "range_basis": "rKTs50a–79b mapped by manifest labels"
   },
   {
     "edition": "gnubs-manuscript",
