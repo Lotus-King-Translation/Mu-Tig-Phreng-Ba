@@ -7,6 +7,8 @@ Source-edition research for the Dzogchen tantra **མུ་ཏིག་ཕྲེ
 Source intake: discover every identifiable Tibetan printing, manuscript, electronic transcript, translated edition, and relevant bibliographic lead. Preserve provenance and distinguish actual acquisitions from catalogue-only records. No governing witness has been selected; golden-edition work and translation have not begun.
 
 - [Project status](PROJECT-STATUS.md)
+- [Edition catalogue](editions/CATALOGUE.md)
+- [Source rights](editions/RIGHTS.md)
 - [Source register](editions/REGISTER.csv)
 - [Acquisition and search plan](editions/SEARCH-PLAN.md)
 - [Research evidence](editions/research/)

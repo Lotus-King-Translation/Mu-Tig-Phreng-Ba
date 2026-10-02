@@ -1,0 +1,9 @@
+{
+  "source_path": "editions/scans/dege-W1ER7/boundary/00099.jpg",
+  "source_sha256": "83e5b315e16f88247067c87a3d2bcd889f783dcfd177a0d19c99651c57473b94",
+  "derived_path": "editions/research/bdrc/batch-05-boundaries/dege-W1ER7/dege1er7-99-top.png",
+  "derived_sha256": "89904e7bf55d817af5203cc9c965b93c92134b67848f70aeb521626e198f1017",
+  "transformation": "ffmpeg crop=2000:210:450:70; crop only, no scaling or enhancement",
+  "purpose": "Inspection aid after native source inspection; target Sanskrit/Tibetan title and opening on image99",
+  "boundary_status": "Opening confirmed; ending unverified; no full acquisition range approved"
+}

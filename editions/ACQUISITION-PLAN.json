@@ -56,9 +56,16 @@
   {
     "edition": "dege-W1ER7",
     "group": "I1ER176",
-    "start": 99,
-    "end": 158,
-    "range_basis": "Provisional identification from catalogue folios50a–79b and image layout. Boundary mapping unresolved; do not acquire full source yet."
+    "start": null,
+    "end": null,
+    "range_basis": "UNRESOLVED: recut-block layout differs from old-block folio50a–79b mapping. Exploratory samples must not be used as root bounds.",
+    "exploratory_sample_indices": [
+      98,
+      99,
+      100,
+      160,
+      161
+    ]
   },
   {
     "edition": "dege-W21939",
@@ -86,5 +93,19 @@
     "start": 306,
     "end": 395,
     "range_basis": "Root title begins at bottom306 after preceding work; closing395 then next text. See bdrc batch05."
+  },
+  {
+    "edition": "dege-W3KG763",
+    "group": "I3KG2269",
+    "start": 101,
+    "end": 160,
+    "range_basis": "Agent inspected root title/opening101 andclosing160; see BDRC batch05."
+  },
+  {
+    "edition": "dege-W3KG436",
+    "group": "I3KG1191",
+    "start": null,
+    "end": null,
+    "range_basis": "UNRESOLVED: catalogue nga volume confirmed; tested indices do not establish root boundaries."
   }
 ]

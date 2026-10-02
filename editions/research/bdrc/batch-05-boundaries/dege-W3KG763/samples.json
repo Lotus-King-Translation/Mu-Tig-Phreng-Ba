@@ -1,0 +1,161 @@
+{
+  "edition": "dege-W3KG763",
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-10-02",
+  "images": [
+    {
+      "image_index": 99,
+      "file": "99.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3KG2269::I3KG22690099.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3KG2269/canvas/I3KG22690099.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 99"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _99"
+        }
+      ],
+      "bytes": 484583,
+      "sha256": "33893158473fa449e45f182acc525c50834950938cfebdd6ce9bebda3739bcd2",
+      "width": 4000,
+      "height": 642,
+      "native_response_bytes": true,
+      "allocation": "exploratory only"
+    },
+    {
+      "image_index": 100,
+      "file": "100.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3KG2269::I3KG22690100.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3KG2269/canvas/I3KG22690100.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 100"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _100"
+        }
+      ],
+      "bytes": 504828,
+      "sha256": "79bc9c3da061ba1251edcc0bc0a355a543274f2d5de19e11cc3a0ad88acd5018",
+      "width": 4000,
+      "height": 652,
+      "native_response_bytes": true,
+      "allocation": "adjacent preceding work"
+    },
+    {
+      "image_index": 101,
+      "file": "101.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3KG2269::I3KG22690101.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3KG2269/canvas/I3KG22690101.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 101"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _101"
+        }
+      ],
+      "bytes": 453833,
+      "sha256": "bdd2cbfe9e0d8525f4ba498fdd03b8c790fdefdf10f1c840e1cc06534d4251b8",
+      "width": 4000,
+      "height": 645,
+      "native_response_bytes": true,
+      "allocation": "accepted root opening"
+    },
+    {
+      "image_index": 158,
+      "file": "158.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3KG2269::I3KG22690158.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3KG2269/canvas/I3KG22690158.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 158"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _158"
+        }
+      ],
+      "bytes": 499230,
+      "sha256": "3a0c625fb90e947334c03ac7b2c0b6bf155dfd1f96b88184f7081d329b11e098",
+      "width": 4000,
+      "height": 679,
+      "native_response_bytes": true,
+      "allocation": "exploratory only"
+    },
+    {
+      "image_index": 159,
+      "file": "159.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3KG2269::I3KG22690159.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3KG2269/canvas/I3KG22690159.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 159"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _159"
+        }
+      ],
+      "bytes": 453165,
+      "sha256": "db58e28be3c3fae04fc499f7023358498a02229b1545d39488df96f708f31160",
+      "width": 4000,
+      "height": 684,
+      "native_response_bytes": true,
+      "allocation": "exploratory only"
+    },
+    {
+      "image_index": 160,
+      "file": "160.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3KG2269::I3KG22690160.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3KG2269/canvas/I3KG22690160.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 160"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _160"
+        }
+      ],
+      "bytes": 476064,
+      "sha256": "4e219c6048a341cb984718445a0f09f2b7133756e9ed506be4070743f33ff833",
+      "width": 4000,
+      "height": 690,
+      "native_response_bytes": true,
+      "allocation": "accepted root completion"
+    },
+    {
+      "image_index": 161,
+      "file": "161.jpg",
+      "url": "https://iiif.bdrc.io/bdr:I3KG2269::I3KG22690161.jpg/full/max/0/default.jpg",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I3KG2269/canvas/I3KG22690161.jpg",
+      "labels": [
+        {
+          "@language": "en",
+          "@value": "img. 161"
+        },
+        {
+          "@language": "bo-x-ewts",
+          "@value": "par grangs _161"
+        }
+      ],
+      "bytes": 453946,
+      "sha256": "d01b904b33743bcdeeba535aeb75eb96dc433635cf59a3fe581beab8cf0b71f5",
+      "width": 4000,
+      "height": 675,
+      "native_response_bytes": true,
+      "allocation": "adjacent following work"
+    }
+  ]
+}
