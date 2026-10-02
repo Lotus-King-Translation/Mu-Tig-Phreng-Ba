@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "chapter": 5,
+  "inspector": "/root/golden_base_review",
+  "scope": "Five frozen anchors and four checks. Image486 was inspected solely for S994 continuation; no adjacent anchor review.",
+  "decisions": [
+    {
+      "id": "CH05-BASE-D000902",
+      "anchor_id": "MTP-S000902",
+      "old": "གྲུབ་མཐས་པེ་ནས་བསྐྱངས་དང་བྲལ",
+      "new": "གྲུབ་མཐས་ཡེ་ནས་བསྐྱངས་དང་བྲལ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image480 line2left visibly reads ཡེ་ནས, replacing the supplied པེ་ནས. The correction rests on the printed initial letter, not neighboring repeated formulas.",
+      "evidence_ids": [
+        "CH05-BASE-E480"
+      ],
+      "uncertainty": [
+        "Smaller source annotation between གྲུབ་མཐས and the line2 continuation remains untranscribed."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S902 begins with grub mthas on main line 1 right, interrupted by smaller annotation; ye nas bskyangs dang bral continues on line 2 left."
+    },
+    {
+      "id": "CH05-BASE-D000944",
+      "anchor_id": "MTP-S000944",
+      "old": "སྒྲ་མེད་དྲིལ་སོགས་པ་མེད",
+      "new": "སྒྲ་མེད་དྲི་ལ་སོགས་པ་མེད",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image482 line5right visibly separates དྲི་ལ་སོགས; the supplied དྲིལ merges the separate la with the preceding syllable. Insert only the source-attested tsheg between དྲི and ལ; retain all other characters.",
+      "evidence_ids": [
+        "CH05-BASE-E482"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S944 sgra med dri la sogs appears on main line 5 right; pa med continues at line 6 left."
+    },
+    {
+      "id": "CH05-BASE-D000994",
+      "anchor_id": "MTP-S000994",
+      "old": "བྱོལ་སོང་ཡི་དགས་དམྱལ་བ་དང",
+      "new": "བྱོལ་སོང་ཡི་དགས་དམྱལ་བ་དང",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Images485–486 support the supplied main sequence, including བྱོལ་སོང and དམྱལ་བ. Final དང occurs on image486line1 after the continuation of a smaller note. Preserve spelling despite the EWTS warning.",
+      "evidence_ids": [
+        "CH05-BASE-E485",
+        "CH05-BASE-E486"
+      ],
+      "uncertainty": [
+        "Smaller annotations separate the main list items and carry across the image485/486 boundary; their wording remains untranscribed."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S994 byol song, yi dags and dmyal ba appear on main line 6, separated by smaller annotation; the final dang follows the annotation continuation on image486 line1. Only continuation of S994: line1 starts with smaller wording carried from image485; large final dang closes the anchor before following sems can de dag. Following anchors were not reviewed."
+    },
+    {
+      "id": "CH05-BASE-D001027",
+      "anchor_id": "MTP-S001027",
+      "old": "དོན་དམ་ཀུན་རྫོག་གཟུགས་ཅན་ནོ",
+      "new": "དོན་དམ་ཀུན་རྫོབ་གཟུགས་ཅན་ནོ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image488 line3 visibly prints final བ in ཀུན་རྫོབ, not supplied final ག. Correct only that consonant; the source glyph, not an expected doctrinal term, governs.",
+      "evidence_ids": [
+        "CH05-BASE-E488"
+      ],
+      "uncertainty": [
+        "Smaller source wording after དོན་དམ and ཀུན་རྫོབ remains untranscribed and is not merged into the main sequence."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1027 don dam kun rdzob gzugs can no occurs on main line3, with smaller intervening wording. S1032 jig rten kun begins at line4 right and rdzob tsam du ste continues at line5 left."
+    },
+    {
+      "id": "CH05-BASE-D001032",
+      "anchor_id": "MTP-S001032",
+      "old": "འཇིག་རྟེན་ཀུན་རྫོག་ཙམ་དུ་སྟེ",
+      "new": "འཇིག་རྟེན་ཀུན་རྫོབ་ཙམ་དུ་སྟེ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image488 lines4–5 repeats ཀུན་རྫོབ with visibly printed final བ. Correct supplied རྫོག to རྫོབ and retain the rest of the line.",
+      "evidence_ids": [
+        "CH05-BASE-E488"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1027 don dam kun rdzob gzugs can no occurs on main line3, with smaller intervening wording. S1032 jig rten kun begins at line4 right and rdzob tsam du ste continues at line5 left."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "CH05-BASE-E480",
+      "path": "evidence/golden/05/00480.png",
+      "sha256": "083c7eda92bae1abd04d6951dbd5a3be1f2a5955d459d156a0fc46df79cd7986",
+      "source_id": "adzom-1973",
+      "image_index": 480,
+      "printed_page": 470,
+      "anchor_ids": [
+        "MTP-S000902"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S902 begins with grub mthas on main line 1 right, interrupted by smaller annotation; ye nas bskyangs dang bral continues on line 2 left. Targeted review only; not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950480.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH05-BASE-E482",
+      "path": "evidence/golden/05/00482.png",
+      "sha256": "473ca5d1f3f7ebfe1d474f9d01e3de53f33d6a14766202245ca19006cbed8c25",
+      "source_id": "adzom-1973",
+      "image_index": 482,
+      "printed_page": 472,
+      "anchor_ids": [
+        "MTP-S000944"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S944 sgra med dri la sogs appears on main line 5 right; pa med continues at line 6 left. Targeted review only; not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950482.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH05-BASE-E485",
+      "path": "evidence/golden/05/00485.png",
+      "sha256": "6fe305774c41f86a3f60d96cb3d3e3acfe51b7626366f690d2ea04dcd3a72864",
+      "source_id": "adzom-1973",
+      "image_index": 485,
+      "printed_page": 475,
+      "anchor_ids": [
+        "MTP-S000994"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S994 byol song, yi dags and dmyal ba appear on main line 6, separated by smaller annotation; the final dang follows the annotation continuation on image486 line1. Targeted review only; not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950485.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH05-BASE-E486",
+      "path": "evidence/golden/05/00486.png",
+      "sha256": "3882e4bdfd8b0023efcfab4f5797570f4054df123db3b378845f8e7c0dcd9786",
+      "source_id": "adzom-1973",
+      "image_index": 486,
+      "printed_page": 476,
+      "anchor_ids": [
+        "MTP-S000994"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "Only continuation of S994: line1 starts with smaller wording carried from image485; large final dang closes the anchor before following sems can de dag. Following anchors were not reviewed. Targeted review only; not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950486.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH05-BASE-E488",
+      "path": "evidence/golden/05/00488.png",
+      "sha256": "d827af6570ca6844798e35fa10ed5dd8fdd99baaf0ade941154a08a378dde7fd",
+      "source_id": "adzom-1973",
+      "image_index": 488,
+      "printed_page": 478,
+      "anchor_ids": [
+        "MTP-S001027",
+        "MTP-S001032"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S1027 don dam kun rdzob gzugs can no occurs on main line3, with smaller intervening wording. S1032 jig rten kun begins at line4 right and rdzob tsam du ste continues at line5 left. Targeted review only; not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950488.TIF/full/max/0/default.png"
+    }
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C05-CHECK-005",
+      "status": "closed",
+      "finding": "Images485–486 support the supplied main sequence, including བྱོལ་སོང and དམྱལ་བ. Final དང occurs on image486line1 after the continuation of a smaller note. Preserve spelling despite the EWTS warning.",
+      "evidence_ids": [
+        "CH05-BASE-E485",
+        "CH05-BASE-E486"
+      ],
+      "uncertainty": [
+        "Smaller annotations separate the main list items and carry across the image485/486 boundary; their wording remains untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-022",
+      "status": "closed",
+      "finding": "Image480 line2left visibly reads ཡེ་ནས, replacing the supplied པེ་ནས. The correction rests on the printed initial letter, not neighboring repeated formulas.",
+      "evidence_ids": [
+        "CH05-BASE-E480"
+      ],
+      "uncertainty": [
+        "Smaller source annotation between གྲུབ་མཐས and the line2 continuation remains untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-023",
+      "status": "closed",
+      "finding": "Image482 line5right visibly separates དྲི་ལ་སོགས; the supplied དྲིལ merges the separate la with the preceding syllable. Insert only the source-attested tsheg between དྲི and ལ; retain all other characters.",
+      "evidence_ids": [
+        "CH05-BASE-E482"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-TRIAGE-024",
+      "status": "closed",
+      "finding": "Image488 line3 visibly prints final བ in ཀུན་རྫོབ, not supplied final ག. Correct only that consonant; the source glyph, not an expected doctrinal term, governs. Image488 lines4–5 repeats ཀུན་རྫོབ with visibly printed final བ. Correct supplied རྫོག to རྫོབ and retain the rest of the line.",
+      "evidence_ids": [
+        "CH05-BASE-E488"
+      ],
+      "uncertainty": [
+        "Smaller source wording after དོན་དམ and ཀུན་རྫོབ remains untranscribed and is not merged into the main sequence."
+      ]
+    }
+  ],
+  "inspection_crop_coordinates": {
+    "00480.png": [
+      [
+        2730,
+        100,
+        3580,
+        228
+      ],
+      [
+        470,
+        183,
+        1170,
+        316
+      ]
+    ],
+    "00482.png": [
+      [
+        440,
+        450,
+        2420,
+        660
+      ],
+      [
+        2800,
+        420,
+        3590,
+        553
+      ]
+    ],
+    "00485.png": [
+      [
+        1540,
+        518,
+        3620,
+        670
+      ]
+    ],
+    "00488.png": [
+      [
+        530,
+        260,
+        1660,
+        378
+      ],
+      [
+        3150,
+        352,
+        3540,
+        460
+      ],
+      [
+        440,
+        425,
+        1190,
+        550
+      ]
+    ]
+  },
+  "crop_note": "Temporary exact-pixel locators only; original full images are preserved. No enhancement or OCR. Broad locators include context but do not certify every included word.",
+  "review_limits": "These are the authoring inspector's findings. Independent second-agent confirmation of proposed corrections is required before final signoff; this fragment does not claim it supplies that independence."
+}

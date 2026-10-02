@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "chapter": 5,
+  "changes": [
+    {
+      "id": "MTP-C05-TR-D000640",
+      "anchor_id": "MTP-S000640",
+      "old": "སེམས་ཅན་རྣམས་ལ་ཇི་ལྟར་ངས",
+      "new": "སེམས་ཅན་རྣམས་ལ་ཇི་ལྟར་གནས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image464 row4 visibly prints ཇི་ལྟར་གནས. Correct only final ངས to གནས; the native consonant order governs, not an inferred grammatical repair.",
+      "evidence_ids": [
+        "MTP-C05-TR-E464",
+        "MTP-C05-TR-C464-640",
+        "MTP-C05-TR-C464-640-end"
+      ],
+      "uncertainty": [
+        "Smaller source explanation between སེམས་ཅན་རྣམས་ལ and ཇི་ལྟར་གནས remains untranscribed."
+      ],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "CH05-BASE-D000902",
+      "anchor_id": "MTP-S000902",
+      "old": "གྲུབ་མཐས་པེ་ནས་བསྐྱངས་དང་བྲལ",
+      "new": "གྲུབ་མཐས་ཡེ་ནས་བསྐྱངས་དང་བྲལ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image480 line2left visibly reads ཡེ་ནས, replacing the supplied པེ་ནས. The correction rests on the printed initial letter, not neighboring repeated formulas.",
+      "evidence_ids": [
+        "CH05-BASE-E480"
+      ],
+      "uncertainty": [
+        "Smaller source annotation between གྲུབ་མཐས and the line2 continuation remains untranscribed."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S902 begins with grub mthas on main line 1 right, interrupted by smaller annotation; ye nas bskyangs dang bral continues on line 2 left.",
+      "review_fragment": {
+        "path": "diplomatic/chapters/05/REVIEW-022-024.json",
+        "sha256": "a6090e7c716031cbd36f58ca54ce0847ad9b21fe800856a73afcb7cdcc7e96cf"
+      }
+    },
+    {
+      "id": "CH05-BASE-D000944",
+      "anchor_id": "MTP-S000944",
+      "old": "སྒྲ་མེད་དྲིལ་སོགས་པ་མེད",
+      "new": "སྒྲ་མེད་དྲི་ལ་སོགས་པ་མེད",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image482 line5right visibly separates དྲི་ལ་སོགས; the supplied དྲིལ merges the separate la with the preceding syllable. Insert only the source-attested tsheg between དྲི and ལ; retain all other characters.",
+      "evidence_ids": [
+        "CH05-BASE-E482"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S944 sgra med dri la sogs appears on main line 5 right; pa med continues at line 6 left.",
+      "review_fragment": {
+        "path": "diplomatic/chapters/05/REVIEW-022-024.json",
+        "sha256": "a6090e7c716031cbd36f58ca54ce0847ad9b21fe800856a73afcb7cdcc7e96cf"
+      }
+    },
+    {
+      "id": "CH05-BASE-D001027",
+      "anchor_id": "MTP-S001027",
+      "old": "དོན་དམ་ཀུན་རྫོག་གཟུགས་ཅན་ནོ",
+      "new": "དོན་དམ་ཀུན་རྫོབ་གཟུགས་ཅན་ནོ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image488 line3 visibly prints final བ in ཀུན་རྫོབ, not supplied final ག. Correct only that consonant; the source glyph, not an expected doctrinal term, governs.",
+      "evidence_ids": [
+        "CH05-BASE-E488"
+      ],
+      "uncertainty": [
+        "Smaller source wording after དོན་དམ and ཀུན་རྫོབ remains untranscribed and is not merged into the main sequence."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1027 don dam kun rdzob gzugs can no occurs on main line3, with smaller intervening wording. S1032 jig rten kun begins at line4 right and rdzob tsam du ste continues at line5 left.",
+      "review_fragment": {
+        "path": "diplomatic/chapters/05/REVIEW-022-024.json",
+        "sha256": "a6090e7c716031cbd36f58ca54ce0847ad9b21fe800856a73afcb7cdcc7e96cf"
+      }
+    },
+    {
+      "id": "CH05-BASE-D001032",
+      "anchor_id": "MTP-S001032",
+      "old": "འཇིག་རྟེན་ཀུན་རྫོག་ཙམ་དུ་སྟེ",
+      "new": "འཇིག་རྟེན་ཀུན་རྫོབ་ཙམ་དུ་སྟེ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image488 lines4–5 repeats ཀུན་རྫོབ with visibly printed final བ. Correct supplied རྫོག to རྫོབ and retain the rest of the line.",
+      "evidence_ids": [
+        "CH05-BASE-E488"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1027 don dam kun rdzob gzugs can no occurs on main line3, with smaller intervening wording. S1032 jig rten kun begins at line4 right and rdzob tsam du ste continues at line5 left.",
+      "review_fragment": {
+        "path": "diplomatic/chapters/05/REVIEW-022-024.json",
+        "sha256": "a6090e7c716031cbd36f58ca54ce0847ad9b21fe800856a73afcb7cdcc7e96cf"
+      }
+    },
+    {
+      "id": "MTP-C05-TR-D001049",
+      "anchor_id": "MTP-S001049",
+      "old": "ཞེས་མུ་ཏིང་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ལས",
+      "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ལས",
+      "role": "chapter_colophon",
+      "treatment": "scan_supported_correction",
+      "reason": "Image489 row6 right prints the title མུ་ཏིག, not supplied མུ་ཏིང. Replace only the final consonant of that syllable; identify the formula as chapter colophon.",
+      "evidence_ids": [
+        "MTP-C05-TR-E489",
+        "MTP-C05-TR-C489-1049-exact"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    }
+  ],
+  "restorations": []
+}

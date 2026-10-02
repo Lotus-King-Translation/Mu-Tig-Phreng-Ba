@@ -1,0 +1,63 @@
+{
+  "chapter": 5,
+  "inspector": "/root coordinating agent",
+  "scope": "Four targeted spelling/segmentation checks before chapter signoff; not whole-page or whole-chapter proofreading.",
+  "checks": [
+    {
+      "anchor_id": "MTP-S000902",
+      "old": "གྲུབ་མཐས་པེ་ནས་བསྐྱངས་དང་བྲལ",
+      "supported_reading": "གྲུབ་མཐས་ཡེ་ནས་བསྐྱངས་དང་བྲལ",
+      "image_index": 480,
+      "source_path": "evidence/golden/05/00480.png",
+      "locator_crop_coordinates": [
+        475,
+        160,
+        1200,
+        305
+      ],
+      "finding": "Coordinator independently inspected full native image and temporary exact-pixel crop. Printed glyph supports this spelling correction; surrounding supplied wording is retained. Crop is a locator only; full original is preserved."
+    },
+    {
+      "anchor_id": "MTP-S001027",
+      "old": "དོན་དམ་ཀུན་རྫོག་གཟུགས་ཅན་ནོ",
+      "supported_reading": "དོན་དམ་ཀུན་རྫོབ་གཟུགས་ཅན་ནོ",
+      "image_index": 488,
+      "source_path": "evidence/golden/05/00488.png",
+      "locator_crop_coordinates": [
+        475,
+        235,
+        1730,
+        365
+      ],
+      "finding": "Coordinator independently inspected full native image and temporary exact-pixel crop. Printed glyph supports this spelling correction; surrounding supplied wording is retained. Crop is a locator only; full original is preserved."
+    },
+    {
+      "anchor_id": "MTP-S001032",
+      "old": "འཇིག་རྟེན་ཀུན་རྫོག་ཙམ་དུ་སྟེ",
+      "supported_reading": "འཇིག་རྟེན་ཀུན་རྫོབ་ཙམ་དུ་སྟེ",
+      "image_index": 488,
+      "source_path": "evidence/golden/05/00488.png",
+      "locator_crop_coordinates": [
+        475,
+        435,
+        975,
+        570
+      ],
+      "finding": "Coordinator independently inspected full native image and temporary exact-pixel crop. Printed glyph supports this spelling correction; surrounding supplied wording is retained. Crop is a locator only; full original is preserved."
+    },
+    {
+      "anchor_id": "MTP-S000944",
+      "old": "སྒྲ་མེད་དྲིལ་སོགས་པ་མེད",
+      "supported_reading": "སྒྲ་མེད་དྲི་ལ་སོགས་པ་མེད",
+      "image_index": 482,
+      "source_path": "evidence/golden/05/00482.png",
+      "locator_crop_coordinates": [
+        2800,
+        420,
+        3590,
+        553
+      ],
+      "finding": "Coordinator inspected full native image482 and exact-pixel locator. Main line5right visibly has སྒྲ་མེད་དྲི་ལ་སོགས with a separately written ལ; line6left continues པ་མེད. Accept syllable segmentation correction, not a conjectured expansion."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Chapter 5 authored editorial review — 2026-10-02
+
+**Candidate complete:** 17/17 required decisions, 15/15 frozen source checks and 6/6 generated outputs. Build-manifest SHA-256: `70be4f911051356240312a09ef587981dc344b85818273d454838aaef38d3db0`.
+
+Native review was partitioned: `/root/golden_triage` inspected S636/S637/S640/S645/S651/S1049/S1051 on images464/465/489/490; `/root/golden_pipeline` inspected S721/S756/S793/S803/S838; `/root/golden_base_review` inspected S902/S944/S994/S1027/S1032. The two REVIEW fragments and canonical copies preserve inspector attribution and exact fragment hashes. This author does not claim independent rereading of all delegated loci.
+Six source-supported corrections: S640 ངས → གནས; S902 པེ → ཡེ; S944 དྲིལ → དྲི་ལ; S1027/S1032 རྫོག → རྫོབ; S1049 མུ་ཏིང → མུ་ཏིག. Exact whole-anchor before/after strings remain in the apparatus and changes file. No restoration or conjectural expansion was added.
+The @5-derived marker remains metadata. The main opening is image464 row3; the title formula is image489 row6 and numbered colophon continues at image490 row1. The intervening electronic479/480 marker is preserved. S1049/S1051 are chapter-colophon objects.
+S645 retains the source-supported short verse across rows5–6. S651 retains the expanded wording because its included words are main-size across image465 rows1–2. Pipeline flagged spellings and S994 remain as printed; converter heuristics and grammatical expectations do not govern corrections.
+Eleven anchor uncertainty records visibly disclose specific untranscribed source notes. No uncertain note was silently inserted into or removed from the supplied root text. Source punctuation beyond the frozen loci remains outside scope.
+All416 anchors are represented;399 remain explicitly retained-unreviewed transcript anchors. Evidence comprises14 full originals and18 exact-pixel crops:14 crops accepted,4 exploratory crops excluded/mislocated. Accepted cropped evidence names its partial or complete locus; every crop was checked against original pixels.
+Candidate validation passed reproducible build, exact source preservation, both reconstruction paths and evidence hashes/allocation fields. Final review must distinguish its inspector's self-authored decisions from independent second-agent source checks; coordinator signoff and publication remain separate gates.
+Full scan proofreading, exhaustive witness collation and independent human palaeographic certification remain false. Chapter6 was not started.

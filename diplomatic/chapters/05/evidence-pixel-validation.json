@@ -1,0 +1,245 @@
+{
+  "chapter": 5,
+  "passed": true,
+  "method": "Accepted full images match archived ZIP bytes; crops independently recropped at recorded coordinates and compared as exact RGBA pixel bytes. Pixel identity does not establish textual allocation.",
+  "records": [
+    {
+      "evidence_id": "MTP-C05-TR-E464",
+      "original_image": 464,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-E465",
+      "original_image": 465,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-E489",
+      "original_image": 489,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-E490",
+      "original_image": 490,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-C464-opening",
+      "original_image": 464,
+      "crop": [
+        1250,
+        260,
+        2400,
+        390
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-C464-640",
+      "original_image": 464,
+      "crop": [
+        1330,
+        370,
+        2360,
+        500
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-C464-645-main",
+      "original_image": 464,
+      "crop": [
+        2970,
+        455,
+        3570,
+        575
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-C464-645-cont",
+      "original_image": 464,
+      "crop": [
+        490,
+        540,
+        1160,
+        645
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-C465-651-start",
+      "original_image": 465,
+      "crop": [
+        3030,
+        120,
+        3600,
+        240
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-C465-651-end",
+      "original_image": 465,
+      "crop": [
+        550,
+        210,
+        1370,
+        320
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-C489-1049-exact",
+      "original_image": 489,
+      "crop": [
+        2480,
+        570,
+        3570,
+        680
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-C490-1051-exact",
+      "original_image": 490,
+      "crop": [
+        480,
+        110,
+        1840,
+        235
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-TR-C464-640-end",
+      "original_image": 464,
+      "crop": [
+        1960,
+        365,
+        2320,
+        500
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-E469",
+      "original_image": 469,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-E471",
+      "original_image": 471,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-E473",
+      "original_image": 473,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-E474",
+      "original_image": 474,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-E476",
+      "original_image": 476,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-CROP-pipeline-S756-detail",
+      "original_image": 471,
+      "crop": [
+        850,
+        280,
+        1920,
+        390
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-CROP-pipeline-S793-detail",
+      "original_image": 473,
+      "crop": [
+        1480,
+        475,
+        2450,
+        575
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-CROP-pipeline-S721-detail",
+      "original_image": 469,
+      "crop": [
+        1280,
+        380,
+        2040,
+        465
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-CROP-pipeline-S838-start-detail",
+      "original_image": 476,
+      "crop": [
+        2640,
+        325,
+        3550,
+        430
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C05-PIPE-CROP-pipeline-S838-end-detail",
+      "original_image": 476,
+      "crop": [
+        495,
+        425,
+        850,
+        525
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH05-BASE-E480",
+      "original_image": 480,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH05-BASE-E482",
+      "original_image": 482,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH05-BASE-E485",
+      "original_image": 485,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH05-BASE-E486",
+      "original_image": 486,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH05-BASE-E488",
+      "original_image": 488,
+      "crop": null,
+      "pixel_identity_verified": true
+    }
+  ]
+}

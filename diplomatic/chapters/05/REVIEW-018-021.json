@@ -1,0 +1,349 @@
+{
+  "schema_version": 1,
+  "chapter": 5,
+  "reviewer": "golden_pipeline agent",
+  "review_type": "Native examination of five frozen source loci; no independent human certification",
+  "frozen_checks": [
+    "MTP-TRIAGE-018",
+    "MTP-TRIAGE-019",
+    "MTP-TRIAGE-020",
+    "MTP-C05-CHECK-004",
+    "MTP-TRIAGE-021"
+  ],
+  "completed_source_checks": 5,
+  "remaining_source_checks": 0,
+  "reviewed_anchors": 5,
+  "changed_anchors": 0,
+  "restorations": 0,
+  "evidence": [
+    {
+      "id": "MTP-C05-PIPE-E469",
+      "path": "evidence/golden/05/00469.png",
+      "sha256": "23f35cdedfba0dfdd410805539bdcf6670ced263038896bdc2d817d9cfe86296",
+      "anchor_ids": [
+        "MTP-S000721"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed459, fourth physical main-text row, between the preceding རྒྱན་དུ་བྱུང and following སྙིང་པོ་མེད. The large-type sequence includes གསོག, དང and ཡ་མ་བརླ་དང་ནི, interrupted by smaller source explanation.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 469,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image examination; no OCR or full-page proofreading."
+    },
+    {
+      "id": "MTP-C05-PIPE-E471",
+      "path": "evidence/golden/05/00471.png",
+      "sha256": "e29db6acf4781b805c1224dcd1aa0a146c9235c99dbafdc5a007420a832eb5b2",
+      "anchor_ids": [
+        "MTP-S000756"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed461, third physical main-text row. The supplied verse is identified by large-type ཆོས་ཞེས་མིང་དུ and its continuation དུམ་གྲགས་པས before the following བློ་བཏགས verse.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 471,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image examination; no OCR or full-page proofreading."
+    },
+    {
+      "id": "MTP-C05-PIPE-E473",
+      "path": "evidence/golden/05/00473.png",
+      "sha256": "18eb2d6f12e3721a0bd980c81e71571b976a3bee11e94704ec41838e58255946",
+      "anchor_ids": [
+        "MTP-S000793"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed463, fifth physical main-text row. After the preceding verse ending གྲུབ་མཐའ་རྫོགས, the large-type incipit is བཅུང་དུ་དྲིལ, with a smaller insertion before the large-type closing རིག་པ་གསལ.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 473,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image examination; no OCR or full-page proofreading."
+    },
+    {
+      "id": "MTP-C05-PIPE-E474",
+      "path": "evidence/golden/05/00474.png",
+      "sha256": "0997083d8bfcedb4977da7475bf38ea3f0d223cb259ae39ff3c2f0fd50b69a2e",
+      "anchor_ids": [
+        "MTP-S000803"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed464, second physical main-text row, right-hand half. The verse begins སྣ་ཚོགས and continues through དངས་པས to སངས་ཞེས་བྱ, with smaller interleaved annotation.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 474,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image examination; no OCR or full-page proofreading."
+    },
+    {
+      "id": "MTP-C05-PIPE-E476",
+      "path": "evidence/golden/05/00476.png",
+      "sha256": "7a5847c9c82cd475f57625215af7e895e3d562e1ab9bd4cfb69a17966454dc19",
+      "anchor_ids": [
+        "MTP-S000838"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed466. The verse starts at the right of the third physical row with འཁོར, continues after smaller explanation to འདས and གཉིས་ལང, then ends at the far left of physical row4 with མི་ལྟོས.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 476,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image examination; no OCR or full-page proofreading."
+    },
+    {
+      "id": "MTP-C05-PIPE-CROP-pipeline-S756-detail",
+      "path": "evidence/golden/05/pipeline-S756-detail.png",
+      "sha256": "2785d0fe5f38972176a38f211ad66ff509a809f2120293eb3ae7263741821ab1",
+      "anchor_ids": [
+        "MTP-S000756"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail crop from the accepted full native image; shows the flagged consonant/word-division locus. Full-image context and physical-row allocation are preserved by the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 471,
+      "original_sha256": "e29db6acf4781b805c1224dcd1aa0a146c9235c99dbafdc5a007420a832eb5b2",
+      "crop": [
+        850,
+        280,
+        1920,
+        390
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C05-PIPE-CROP-pipeline-S793-detail",
+      "path": "evidence/golden/05/pipeline-S793-detail.png",
+      "sha256": "3a689bf1fad6b0b15d35c9a1391d4b82b94dc833b6bb051834709c2767ad76df",
+      "anchor_ids": [
+        "MTP-S000793"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail crop from the accepted full native image; shows the flagged consonant/word-division locus. Full-image context and physical-row allocation are preserved by the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 473,
+      "original_sha256": "18eb2d6f12e3721a0bd980c81e71571b976a3bee11e94704ec41838e58255946",
+      "crop": [
+        1480,
+        475,
+        2450,
+        575
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C05-PIPE-CROP-pipeline-S721-detail",
+      "path": "evidence/golden/05/pipeline-S721-detail.png",
+      "sha256": "23e6912711622f9c4a8f15a0e7d061af5842f4418003c35950558176f41ea313",
+      "anchor_ids": [
+        "MTP-S000721"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail crop from the accepted full native image; shows the flagged consonant/word-division locus. Full-image context and physical-row allocation are preserved by the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 469,
+      "original_sha256": "23f35cdedfba0dfdd410805539bdcf6670ced263038896bdc2d817d9cfe86296",
+      "crop": [
+        1280,
+        380,
+        2040,
+        465
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C05-PIPE-CROP-pipeline-S838-start-detail",
+      "path": "evidence/golden/05/pipeline-S838-start-detail.png",
+      "sha256": "dcbe5bead0fc630d84e38809f434af72c82c41ac14d651bc3b0da95879dc0e30",
+      "anchor_ids": [
+        "MTP-S000838"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail crop from the accepted full native image; shows the flagged consonant/word-division locus. Full-image context and physical-row allocation are preserved by the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 476,
+      "original_sha256": "7a5847c9c82cd475f57625215af7e895e3d562e1ab9bd4cfb69a17966454dc19",
+      "crop": [
+        2640,
+        325,
+        3550,
+        430
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    },
+    {
+      "id": "MTP-C05-PIPE-CROP-pipeline-S838-end-detail",
+      "path": "evidence/golden/05/pipeline-S838-end-detail.png",
+      "sha256": "3ace6df5443baaf5c6bf87d8489389677bf81c9682675b0f007f167be029d8b0",
+      "anchor_ids": [
+        "MTP-S000838"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Unresampled detail crop from the accepted full native image; shows the flagged consonant/word-division locus. Full-image context and physical-row allocation are preserved by the companion original-image record.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 476,
+      "original_sha256": "7a5847c9c82cd475f57625215af7e895e3d562e1ab9bd4cfb69a17966454dc19",
+      "crop": [
+        495,
+        425,
+        850,
+        525
+      ],
+      "inspector": "golden_pipeline agent",
+      "pixel_identity_checked": true
+    }
+  ],
+  "decisions": [
+    {
+      "id": "MTP-C05-PIPE-D000721",
+      "anchor_id": "MTP-S000721",
+      "old": "གསོག་དང་ཡ་མ་བརླ་དང་ནི",
+      "new": "གསོག་དང་ཡ་མ་བརླ་དང་ནི",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The governing print supports the supplied cluster བརླ in ཡ་མ་བརླ. Retain the original main-text wording; unusual spelling alone is not grounds for correction.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E469",
+        "MTP-C05-PIPE-CROP-pipeline-S721-detail"
+      ],
+      "uncertainty": [
+        "Smaller source explanation interleaved after the opening གསོག remains untranscribed in this bounded check."
+      ]
+    },
+    {
+      "id": "MTP-C05-PIPE-D000756",
+      "anchor_id": "MTP-S000756",
+      "old": "ཆོས་ཞེས་མིང་དུ་དུམ་གྲགས་པས",
+      "new": "ཆོས་ཞེས་མིང་དུ་དུམ་གྲགས་པས",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The native print supports དུམ་གྲགས་པས; retain this reading instead of substituting a grammatically expected negative. The determination is based on the printed glyphs, not repetition in surrounding verses.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E471",
+        "MTP-C05-PIPE-CROP-pipeline-S756-detail"
+      ],
+      "uncertainty": [
+        "The smaller source annotation between the opening phrase and its continuation remains untranscribed; no annotation wording is silently added to this main verse."
+      ]
+    },
+    {
+      "id": "MTP-C05-PIPE-D000793",
+      "anchor_id": "MTP-S000793",
+      "old": "བཅུང་དུ་དྲིལ་བས་རིག་པ་གསལ",
+      "new": "བཅུང་དུ་དྲིལ་བས་རིག་པ་གསལ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Retain the scan-supported initial བཅུང. The potentially more expected བཅུད is not substituted: this bounded review follows the visible governing printing.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E473",
+        "MTP-C05-PIPE-CROP-pipeline-S793-detail"
+      ],
+      "uncertainty": [
+        "Smaller printed explanatory material after བཅུང་དུ་དྲིལ is not fully transcribed here; it remains separate from the selected main reading."
+      ]
+    },
+    {
+      "id": "MTP-C05-PIPE-D000803",
+      "anchor_id": "MTP-S000803",
+      "old": "སྣ་ཚོགས་དངས་པས་སངས་ཞེས་བྱ",
+      "new": "སྣ་ཚོགས་དངས་པས་སངས་ཞེས་བྱ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Retain དངས, visibly supported by the governing print. The EWTS converter suggestion dngas is a spelling heuristic, not evidence for editorial repair.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E474"
+      ],
+      "uncertainty": [
+        "Smaller source explanations interleaved within this printed verse remain untranscribed and are not merged into the main text."
+      ]
+    },
+    {
+      "id": "MTP-C05-PIPE-D000838",
+      "anchor_id": "MTP-S000838",
+      "old": "འཁོར་འདས་གཉིས་ལང་མི་ལྟོས",
+      "new": "འཁོར་འདས་གཉིས་ལང་མི་ལྟོས",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "The governing scan supports the supplied word division གཉིས་ལང and continuation མི་ལྟོས. Retain the unusual wording rather than replacing it from nearby list structure.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E476",
+        "MTP-C05-PIPE-CROP-pipeline-S838-start-detail",
+        "MTP-C05-PIPE-CROP-pipeline-S838-end-detail"
+      ],
+      "uncertainty": [
+        "The anchor crosses a physical line boundary within image476; smaller annotations after འཁོར and འདས remain untranscribed in this bounded check."
+      ]
+    }
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-TRIAGE-018",
+      "status": "closed",
+      "finding": "The governing print supports the supplied cluster བརླ in ཡ་མ་བརླ. Retain the original main-text wording; unusual spelling alone is not grounds for correction.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E469"
+      ],
+      "uncertainty": [
+        "Smaller source explanation interleaved after the opening གསོག remains untranscribed in this bounded check."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-019",
+      "status": "closed",
+      "finding": "The native print supports དུམ་གྲགས་པས; retain this reading instead of substituting a grammatically expected negative. The determination is based on the printed glyphs, not repetition in surrounding verses.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E471"
+      ],
+      "uncertainty": [
+        "The smaller source annotation between the opening phrase and its continuation remains untranscribed; no annotation wording is silently added to this main verse."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-020",
+      "status": "closed",
+      "finding": "Retain the scan-supported initial བཅུང. The potentially more expected བཅུད is not substituted: this bounded review follows the visible governing printing.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E473"
+      ],
+      "uncertainty": [
+        "Smaller printed explanatory material after བཅུང་དུ་དྲིལ is not fully transcribed here; it remains separate from the selected main reading."
+      ]
+    },
+    {
+      "id": "MTP-C05-CHECK-004",
+      "status": "closed",
+      "finding": "Retain དངས, visibly supported by the governing print. The EWTS converter suggestion dngas is a spelling heuristic, not evidence for editorial repair.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E474"
+      ],
+      "uncertainty": [
+        "Smaller source explanations interleaved within this printed verse remain untranscribed and are not merged into the main text."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-021",
+      "status": "closed",
+      "finding": "The governing scan supports the supplied word division གཉིས་ལང and continuation མི་ལྟོས. Retain the unusual wording rather than replacing it from nearby list structure.",
+      "evidence_ids": [
+        "MTP-C05-PIPE-E476"
+      ],
+      "uncertainty": [
+        "The anchor crosses a physical line boundary within image476; smaller annotations after འཁོར and འདས remain untranscribed in this bounded check."
+      ]
+    }
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_human_certification": false
+  }
+}
