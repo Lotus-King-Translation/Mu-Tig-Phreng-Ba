@@ -1,0 +1,18 @@
+{
+  "scope": "Translation infrastructure; synthetic fixtures, not semantic certification",
+  "command": "python3 scripts/test_translation_pipeline.py",
+  "tests": 36,
+  "passed": 36,
+  "failed": 0,
+  "duration_seconds": 47.594,
+  "source_only_chapter_1": {
+    "passed": true,
+    "pairs": 30,
+    "golden_objects": 97
+  },
+  "file_sha256": {
+    "scripts/translation_pipeline.py": "00750448a39a2ec1347826f39101e14921098bcef8b809f9f324c2b1a75cfcb8",
+    "scripts/test_translation_pipeline.py": "d13c339afd69e4fbf07352feb5097a5f527bf505ee18760f86369ec51030d16b"
+  },
+  "semantic_translation_certification": false
+}

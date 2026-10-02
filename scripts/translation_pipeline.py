@@ -87,6 +87,12 @@ def prior(root,n):
         needed={prefix+x for x in (*OUTPUTS,'build-manifest.json','source.md','translation.md','signoff.json','qc.json')}
         actual={x.decode() for x in paths if x};need(needed<=actual,'Prior release files missing')
         for rel in actual:need(safe(root,rel).read_bytes()==git(root,'show',tag+':'+rel),'Prior released bytes changed: '+rel)
+        for rel,expected in load(d/'build-manifest.json')['input_sha256'].items():
+            need(digest(safe(root,rel))==expected,'Prior released input changed: '+rel)
+            tagged=git(root,'show',tag+':'+rel)
+            lfs=re.fullmatch(rb'version https://git-lfs.github.com/spec/v1\noid sha256:([0-9a-f]{64})\nsize ([0-9]+)\n',tagged)
+            need((lfs.group(1).decode() if lfs else sha(tagged))==expected,'Prior tagged input differs: '+rel)
+        final_gate(root,k)
 
 def contract(root,n):
     pins,rows,changes=baseline(root,n);seg=segmentation(root,n,rows);d=directory(root,n);c=load(d/'contract.json')
@@ -197,7 +203,9 @@ def audit(root,n,rows):
     a=load(directory(root,n)/'adzom-audit.json');ids=[r['id'] for r in rows];amap={r['id']:r for r in rows}
     need(a['chapter']==n and a.get('inspector') and a.get('scope') and a.get('limits') is not None,'Incomplete native audit')
     checks=unique(a['anchor_checks'],'anchor_id','audit anchor');need(set(checks)==set(ids),'Native audit omits/adds golden objects')
-    images=unique(a['images'],'image_index','audit image');findings=unique(a['findings'],'id','audit finding');hashes={}
+    images=unique(a['images'],'image_index','audit image');pages=[r['page_hint'] for r in rows if r.get('page_hint') is not None]
+    need(pages and set(images)==set(range(min(pages)+10,max(pages)+11)),'Native audit page/image coverage incomplete')
+    findings=unique(a['findings'],'id','audit finding');hashes={}
     for im in images.values():
         need(set(im['anchor_ids'])<=set(ids) and im.get('status') and isinstance(im['unresolved'],list),'Invalid native image allocation')
         path=safe(root,im['path']);need(digest(path)==im['sha256'],'Native image hash mismatch');hashes[im['path']]=im['sha256']
@@ -206,6 +214,7 @@ def audit(root,n,rows):
         if amap[ident]['role'] not in {'blank','metadata'}:need(c['image_indices'],'Substantive source lacks native allocation')
         for i in c['image_indices']:need(i in images and ident in images[i]['anchor_ids'],'Audit image not allocated to anchor')
         need(set(c['findings'])<=set(findings),'Unknown audit finding reference')
+        need(all(ident in findings[x]['anchor_ids'] for x in c['findings']),'Finding attached to unrelated anchor')
         if c['status'] in {'differs','uncertain'}:need(c['findings'],'Unresolved/differing audit lacks finding')
     obligations={}
     for f in findings.values():
@@ -213,11 +222,15 @@ def audit(root,n,rows):
         need(f.get('explanation') and f.get('english_consequence') and f.get('evidence'),'Incomplete native finding')
         need(isinstance(f['golden_reading'],str) and (f['adzom_reading'] is None or isinstance(f['adzom_reading'],str)),'Invalid exact reading fields')
         for aid in f['anchor_ids']:need(f['id'] in checks[aid]['findings'],'Finding absent from anchor check')
+        allocated=set()
+        need(f['golden_reading'] in '\n'.join(amap[x]['text'] for x in f['anchor_ids']),'Finding golden reading is not an exact selected span')
         for e in f['evidence']:
             need(e.get('allocation_reason') and e.get('rows_or_crop') is not None,'Evidence allocation missing')
             need(e['image_index'] in images,'Finding evidence image outside audit')
             need(set(f['anchor_ids'])&set(images[e['image_index']]['anchor_ids']),'Finding evidence misallocated')
+            allocated.update(images[e['image_index']]['anchor_ids'])
             need(digest(safe(root,e['path']))==e['sha256'],'Finding evidence hash mismatch');hashes[e['path']]=e['sha256']
+        need(set(f['anchor_ids'])<=allocated,'Finding evidence does not cover affected anchors')
         obligations['adzom:'+f['id']]={'golden_ids':f['anchor_ids'],'kind':'audit','type':f['type']}
     return a,obligations,hashes
 
@@ -288,7 +301,7 @@ def candidate(root,n):
     for p,s in zip(sp,seg):
         ident=p['id'];text=english[ident];fmt=s['format'];role=s['role'];objects.append({'id':ident,'golden_ids':s['golden_ids'],'golden_objects':[amap[x] for x in s['golden_ids']],'role':role,'format':fmt,'source':p['text'],'translation':text,'status':states[ident]['status'],'reason':states[ident]['reason'],'note_ids':states[ident]['note_ids']})
         reader.append(f'<a id="{ident.lower()}"></a>')
-        display=('#'*int(fmt[1])+' '+text) if fmt.startswith('h') else text
+        display=('#'*int(fmt[1])+' '+text) if fmt.startswith('h') else (text.replace('\n','  \n') if fmt=='verse' else text)
         if role in {'annotation','source_annotation','colophon','work_colophon','chapter_colophon','metadata','source_metadata','blank'}:display=f'> [{role}] '+display.replace('\n','\n> ')
         reader.extend([display,''])
         bilingual.extend([f'<!-- pair: {ident}; format: {fmt}; role: {role} -->',p['text'],'',text,''])
@@ -305,7 +318,7 @@ def candidate(root,n):
     machine={'chapter':n,'source_pins':pins,'pairs':objects,'endnotes':[{'id':i,**v} for i,v in defs.items()],'note_map':note_map,'claims':CLAIMS}
     outputs={'reading.md':('\n'.join(reader)+'\n').encode(),'bilingual.md':('\n'.join(bilingual)+'\n').encode(),'machine.json':encoded(machine),'coverage.json':encoded(coverage)}
     names=['source.md','translation.md','segmentation.json','contract.json','contract.sha256','note-map.json','pair-status.json','adzom-audit.json','audit-contract.json','audit-contract.sha256']
-    names += [x for x in ('usage.json','glossary-proposals.json') if (d/x).exists()]
+    names += [x for x in ('usage.json','glossary-proposals.json','translation-note-map.json','translation-draft.md') if (d/x).exists()]
     inputs={str((d/name).relative_to(root)):digest(d/name) for name in names};inputs.update(evidence_hashes)
     inputs.update({'golden/reading.json':pins['source_reading_sha256'],pins['glossary']:pins['glossary_sha256'],pins['standard']:pins['standard_sha256']})
     manifest={'chapter':n,'source_pins':pins,'input_sha256':dict(sorted(inputs.items())),'output_sha256':{name:sha(outputs[name]) for name in OUTPUTS},
@@ -330,6 +343,7 @@ def final_gate(root,n):
     need(digest(safe(root,s['review_path']))==s['review_sha256'],'Final review hash mismatch')
 
 def validate(root,n,source_only=False,final=False):
+    need(not (source_only and final),'Source-only and final modes are incompatible')
     prior(root,n)
     if source_only:
         pins,rows,_,seg,_=validate_source(root,n);prefix(root,n)

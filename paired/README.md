@@ -1,22 +1,17 @@
 # Paired publication
 
-The canonical reusable publication layer is:
+Canonical content: [Tibetan source](source.md) and [English translation](translation.md), sharing stable pair IDs and order. Read [FORMAT.md](../FORMAT.md) and the [strict pipeline schema](../translations/PIPELINE-SCHEMA.md).
 
-- source.md
-- translation.md
+The source is derived exactly from `golden-v1`; its front matter records the fixed commit and SHA-256. Every golden object belongs to one coherent pair. The source alone specifies `format: prose|verse|h1|h2|h3`; English inherits it. Electronic metadata remains separately identified.
 
-Both files share the same stable pair IDs in the same order.
+During translation these files represent an explicitly declared contiguous chapter prefix. No later chapter starts before the preceding chapter release gate closes. The complete edition will cover all 2,053 golden objects.
 
-Read ../FORMAT.md for the paired-text/2 specification.
+English endnotes explain every recorded Adzom difference and retained source uncertainty. The initial draft, complete native audit, terminology usage records and independent agent QC are retained per chapter in `translations/chapters/NN/`.
 
-Do not treat source anchors as translation segments automatically. Pair segmentation should be a coherent translation unit while retaining provenance back to the fixed golden object IDs.
+Use the strict gate for the active chapter:
 
-Every source pair has one required structural field:
+```sh
+python3 scripts/translation_pipeline.py validate --chapter N --final
+```
 
-`format: prose | verse | h1 | h2 | h3`
-
-The translation inherits that value by shared pair ID. This is the only reader-facing structural field in the paired-text format.
-
-Validate with:
-
-`python3 scripts/validate_paired.py`
+The generic `scripts/validate_paired.py` checks paired-format syntax only; it does not replace the source, audit, endnote, QC or release gates.
