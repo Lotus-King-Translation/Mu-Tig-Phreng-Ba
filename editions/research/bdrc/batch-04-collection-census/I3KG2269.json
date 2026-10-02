@@ -1,0 +1,32 @@
+{ 
+  "http://purl.bdrc.io/resource/I3KG2269" : { 
+    "http://purl.bdrc.io/ontology/core/volumePagesTbrcIntro" : [ { 
+      "type" : "literal" ,
+      "value" : "0" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/ImageGroup"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/volumeNumber" : [ { 
+      "type" : "literal" ,
+      "value" : "4" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/volumePagesTotal" : [ { 
+      "type" : "literal" ,
+      "value" : "776" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/volumeOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W3KG763"
+    }
+     ]
+  }
+}

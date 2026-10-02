@@ -1,0 +1,265 @@
+{ 
+  "http://purl.bdrc.io/resource/IE3CN26475" : { 
+    "http://purl.bdrc.io/ontology/core/instanceReproductionOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW3CN26475"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/binding" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ContentMethod_ComputerInput"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasVolume" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1208"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1228"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1216"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1186"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1198"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1178"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1215"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1203"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1190"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1223"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1182"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1211"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1194"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1231"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1219"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1207"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1227"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1197"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1177"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1189"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1226"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1214"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1202"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1181"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1193"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1222"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1210"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1185"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1230"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1218"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1206"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1176"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1188"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1225"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1213"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1180"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1201"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1192"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1233"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1221"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1184"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1196"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1209"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1229"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1217"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1205"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1187"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1199"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1179"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1204"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1224"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1191"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1212"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1200"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1183"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1232"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1220"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/VE5CN1195"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/DigitalInstance"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/EtextInstance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ]
+  }
+}

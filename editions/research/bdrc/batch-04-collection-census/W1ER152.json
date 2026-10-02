@@ -1,0 +1,177 @@
+{ 
+  "http://purl.bdrc.io/resource/W1ER152" : { 
+    "http://purl.bdrc.io/ontology/core/instanceReproductionOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW2PD17382"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasVolume" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER849"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER859"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER867"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER845"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER855"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER869"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER847"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER857"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER863"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER851"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER873"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER865"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER843"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER875"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER853"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER861"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER871"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER848"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER856"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER844"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER866"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER858"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER868"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER846"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER874"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER852"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER862"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER854"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER864"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER870"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER872"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER850"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I1ER860"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/DigitalInstance"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/ImageInstance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I1ER843::I1ER8430001.jpg"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/scanInfo" : [ { 
+      "type" : "literal" ,
+      "value" : "Original digitized images (W2PD17382 has been reorganized)" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "33" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+}

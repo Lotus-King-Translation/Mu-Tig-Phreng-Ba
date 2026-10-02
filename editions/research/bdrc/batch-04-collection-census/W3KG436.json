@@ -1,0 +1,56 @@
+{ 
+  "http://purl.bdrc.io/resource/W3KG436" : { 
+    "http://purl.bdrc.io/ontology/core/inCollection" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PR3KG13"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PR1JR1"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceReproductionOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW3KG436"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/DigitalInstance"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/ImageInstance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasVolume" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I3KG1190"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/I3KG1191"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I3KG1190::I3KG11900001.jpg"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/scanInfo" : [ { 
+      "type" : "literal" ,
+      "value" : "Scanned by Internet Archive at the Boston Public Library in 2025" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ]
+  }
+}

@@ -1,0 +1,148 @@
+{ 
+  "http://purl.bdrc.io/resource/NT66D08FB82179B9D5" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Note"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/noteText" : [ { 
+      "type" : "literal" ,
+      "value" : "This series consists of miscellaneous titles from Gangtey Rinpoche's private library.Originals dated as: c 14th century \u2013 c 20th century." ,
+      "lang" : "en"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTMWEAP039-1-4-2595MMJISQX" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/TitlePageTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན་སྐོར།/rDzogs chen rgyud bcu bdun skor|" ,
+      "lang" : "bo"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/EMWEAP039-1-4-259_01" : { 
+    "http://purl.bdrc.io/ontology/core/notAfter" : [ { 
+      "type" : "literal" ,
+      "value" : "1999" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/CopyEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "1300/1999" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/notBefore" : [ { 
+      "type" : "literal" ,
+      "value" : "1300" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MWEAP039-1-4-259" : { 
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་བཅུ་བདུན། བཅུ་བདུན་རྒྱུད། གསང་ཆེན་ངེས་པའི་རྒྱུད་བཅུ་བདུན། ཡང་གསང་སྙིང་ཐིག་གི་རྒྱུད་བཅུ་བདུན། མངོན་སུམ་སྙིང་ཐིག་གི་རྒྱུད་བཅུ་བདུན། མན་ངག་ཡང་གསང་བླ་མེད་ཀྱི་རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/appliedMaterial" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/AppliedMaterial_BlackInk"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "སྒང་སྟེང་གསང་སྔགས་ཆོས་གླིང་།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuMed"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/workEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EMWEAP039-1-4-259_01"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Manuscript"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasSourcePrintery" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/G183"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/note" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/NT66D08FB82179B9D5"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན། (སྒང་སྟེང་དབུ་མེད་བྲིས་མ།)" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialDeshog"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTMWEAP039-1-4-2595MMJISQX"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://images.eap.bl.uk/EAP039/EAP039_1_4_259/1.jp2"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "༈ རྫོགས་པ་ཆེན་པོ་མན་ངག་ཡང་གསང་བླ་མེད་ཀྱི་«བཅུ་བདུན་རྒྱུད་»འདི་ནི། སྔན་ལུང་༸སྒང་སྟེང་སྐྱབས་མགོན་སྐུ་ཕྲེང་དང་པོ་རྒྱལ་སྲས་པདྨ་ཕྲིན་ལས་ (1564\u20131642; BDRC: P2659) མཆོག་དང་། པད་གླིང་སྐུ་ཕྲེང་གསུམ་པ་གསུང་སྤྲུལ་ཚུལ་ཁྲིམས་རྡོ་རྗེ་ (1598\u20131669; BDRC: P1692) བླ་སློབ་ཟུང་གིས་ལྷོ་མོན་འབྲུག་རྒྱལ་ཁབ་ (Bhutan) ཆེན་མོའི་ནུབ་ཕྱོགས་སྔན་ལུང་ངམ་སྔ་ལུང་ཕྱོགས་སུ། སྤྱི་ལོ་ 1613 ལ་ཕྱག་བཏབ་པའི་དཔལ་སྒྲུབ་བརྒྱུད་ཀྱི་གདན་ས་སྒང་སྟེང་གསང་སྔགས་ཆོས་གླིང་གི་གསུང་རྟེན་དུ་བཞུགས་པའི་༸སྒང་སྟེང་སྐྱབས་མགོན་སྐུ་ཕྲེང་རིམ་བྱོན་གྱི་དཔེ་རྙིང་ཕྱོགས་བསྡུས་ཀྱི་ཁོངས་གཏོགས་ཤིག་ཡིན། སྤྱིར་དཔེ་རྙིང་དེ་ལ་དང་ཐོག་པོད་གྲངས་ག་ཚོད་བཞུགས་ཡོད་མེད་ཆ་མ་འཚལ་ཡང་དེང་སང་ཨིན་ཇིའི་དཔེ་མཛོད་ཁང་ (British Library) གི་སྟོངས་ལ་ཉེ་བའི་ཡིག་རྙིང་དཀོར་མཛོད་ (Endangered Archives Programme) ཀྱི་དྲ་ཚིགས་ཆེན་མོ་ (https://doi.org/10.15130/EAP039) ཡི་ནང་དུ་བསྒྲིགས་པ་ལྟར་ན། ཁྱོན་ཡོངས་པོ་ཏི་ལྔ་བརྒྱ་དང་དྲུག་ (506) ཙམ་མཆིས་ཤིང་། དེར་བཞུགས་པའི་ཡིག་ཆ་ལ་མཚོན་ནའང་«རྒྱལ་བའི་བཀའ་འགྱུར་རིན་པོ་ཆེ་»དང་དེ་བཞིན་«རྙིང་མའི་རྒྱུད་འབུམ་»ཁག་གཉིས་ཀྱིས་གཙོས་གདན་རབས་གསེར་རིའི་ཕྲེང་བའི་«སྐུ་སྒེར་ཕྱག་དཔེ་»དང་«ཐོར་བུ་སྣེ་མང་»བཅས་སྡེ་ཚན་བཞིར་དྲིལ་ནས་བསྒྲིགས་ཞུས་མཛད་འདུག\nསྐབས་ཀྱི་ཡིག་ཆ་«བཅུ་བདུན་རྒྱུད་»འདི་ནི་དེའི་ནང་གི་གསུམ་པ་«སྐུ་སྒེར་ཕྱག་དཔེ་»པོད་གྲངས་ཉིས་བརྒྱ་དང་དོན་བརྒྱད་ (278) ཀྱི་ནང་གསེས་ཉིས་བརྒྱ་དང་ང་དགུ་པ་«རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན་སྐོར་»ཞེས་པ་དེ་ཡིན། དེ་ཡང་«ཐལ་འགྱུར་རྩ་རྒྱུད་»ལས། \u201Cའོད་ཀྱི་ཡང་ཞུན་བཅུ་བདུན་བཤད༔ རང་ཤར་བ་དང་རང་གྲོལ་དང༔ རང་བྱུང་ཉིད་དང་རྩལ་རྫོགས་དང༔ མཛེས་ལྡན་དག་དང་ཕྲ་བཀོད་དང༔ མུ་ཏིག་ཕྲེང་དང་ཡི་གེ་མེད༔ སྙིང་དང་ཐུགས་ཀྱི་མེ་ལོང་དང༔ ཉི་ཟླ་ཁ་སྦྱོར་ངོ་སྤྲོད་སྤྲས༔ སྐུ་གདུང་འབར་བ་རིན་ཆེན་སྤུངས༔ སྒྲོན་མ་འབར་དང་ཀློང་ཆེན་དྲུག༔ དེ་ལྟར་བཅུ་དྲུག་རིམ་པ་རྣམས༔ ཐལ་འགྱུར་ལས་ནི་ངེས་འཕྲོས་ནས༔ གདུལ་ཡུལ་སེམས་ཅན་རྣམས་ལ་སྣང༔\u201D ཞེས་པ་ལྟར་ཐོག་མར་༼༡༽«སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་རྩ་བའི་རྒྱུད་»ནས་བཟུང་། ༼༢༽«རིག་པ་རང་ཤར་གྱི་རྒྱུད་»དང་། ༼༣༽«རྡོ་རྗེ་སེམས་དཔའ་སྙིང་གི་མེ་ལོང་གི་རྒྱུད་»དང་། ༼༤༽«སེང་གེ་རྩལ་རྫོགས་ཀྱི་རྒྱུད་»དང་། ༼༥༽«དཔལ་ཡི་གེ་མེད་པའི་རྒྱུད་»དང་། ༼༦༽«བཀྲ་ཤིས་མཛེས་ལྡན་གྱི་རྒྱུད་»དང་། ༼༧༽«ཀུན་ཏུ་བཟང་པོ་ཐུགས་ཀྱི་མེ་ལོང༌གི་རྒྱུད་»དང་། ༼༨༽«སྒྲོན་མ་འབར་བའི་རྒྱུད་»དང་། ༼༩༽«མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་»དང་། ༼༡༠༽«ནོར་བུ་ཕྲ་བཀོད་ཀྱི་རྒྱུད་»དང་། ༼༡༡༽«ཉི་ཟླ་ཁ་སྦྱོར་གྱི་རྒྱུད་»དང་། ༼༡༢༽«ངོ་སྤྲོད་སྤྲས་པའི་རྒྱུད་»དང་། ༼༡༣༽«རིག་པ་རང་གྲོལ་གྱི་རྒྱུད་»དང་། ༼༡༤༽«ཀློང་ཡངས་དྲུག་པའི་རྒྱུད་»དང་། ༼༡༥༽«རྫོགས་པ་རང་བྱུང་གི་རྒྱུད་»དང་། ༼༡༦༽«སྐུ་གདུང་འབར་བའི་རྒྱུད་»དང་། ༼༡༧༽«རིན་པོ་ཆེ་སྤུངས་པའི་རྒྱུད་»བཅས་རྩ་བ་དང་འཕྲོས་པ་ཡན་ལག་ལྟ་བུའི་ཚུལ་དུ་བཅུ་བདུན་ཁོ་ན་བྱུང་ཡང་གོ་རིམ་ནི་མི་མཚུངས། དྲ་ཚོམས་འདི་ནང་གི་ཡིག་ཆ་ཕལ་ཆེ་བ་བྲིས་མ་ཤ་སྟག་དང་དེའི་ནང་ནས་ཀྱང་དབུ་མེད་བྲིས་མ་མང་།\nསྔ་འགྱུར་རྙིང་མའི་ཞིབ་འཇུག་ལྟེ་གནས་ཁང་ (NNRC) གི་ཞིབ་འཇུག་པ་མཁན་པོ་དཀོན་མཆོག་བསྟན་འཛིན་ནས།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA1KG892"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "1" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+}

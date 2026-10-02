@@ -1,0 +1,239 @@
+{ 
+  "http://purl.bdrc.io/resource/TT8A687CA8A7872013" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/TitlePageTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "the collected works (bka' 'bum) of glin-chen ras-pa padma-rdo-rje" ,
+      "lang" : "en-x-mixed"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTMW23778NYWGOSQ3" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/BibliographicalTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "gling ras pa pad+ma rdo rje'i gsung 'bum/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT64A76D9749F80331" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/CoverTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "glin-chen ras-pa padma-rdo-rje'i bka' 'bum" ,
+      "lang" : "bo-alalc97"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/EV7F8B0E7F8B859245" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "1985" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/onYear" : [ { 
+      "type" : "literal" ,
+      "value" : "1985" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/NT29BDC96D3EF64B26" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Note"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/noteText" : [ { 
+      "type" : "literal" ,
+      "value" : "-2657" ,
+      "lang" : "en"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW23778" : { 
+    "http://purl.bdrc.io/ontology/core/inCollection" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PR1PL480"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "the collected works (bka' 'bum) of glin-chen ras-pa padma-rdo-rje" ,
+      "lang" : "en-x-mixed"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "khampa gar sungrab nyamso gyunphel parkhang, tibetan craft community," ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "tashijong, palampur, dt. kangra, H.P. :" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuMed"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Manuscript"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasOutline" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/O2JT7823"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasPart" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW23778_794E94"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW23778_C81E9B"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W23778"
+    }
+     ] ,
+    "http://id.loc.gov/ontologies/bibframe/identifiedBy" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDB975EF16E8AB978D"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID691FF4C4CD7C7BE0"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID22B161B5746CE91E"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "2 v."
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/note" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/NT29BDC96D3EF64B26"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "gsung 'bum/_pad+ma rdo rje/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EV7F8B0E7F8B859245"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/binding" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/Binding_LooseLeaf_Pecha"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT8A687CA8A7872013"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTMW23778NYWGOSQ3"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT64A76D9749F80331"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT9AAAC03C8D6FE92C"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I2656::26560003.tif"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "reproduced from a collection of rare manuscripts from go-'jo nub dgon" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA23778"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "2" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT9AAAC03C8D6FE92C" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/BibliographicalTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "gsung 'bum/_pad+ma rdo rje/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+}

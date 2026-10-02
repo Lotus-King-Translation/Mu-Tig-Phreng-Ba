@@ -1,0 +1,148 @@
+{ 
+  "http://purl.bdrc.io/resource/TT07DF3A9C7FC1CC34" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/BibliographicalTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum thor bu pod lnga /" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW20150" : { 
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "karma gu ru/?" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "bkra shis rab brtan gling /?" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuMed"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Manuscript"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasOutline" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/O20150"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasPart" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW20150_O20150_PG3DLX"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW20150_O20150_994CP7"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW20150_O20150_L4YTVR"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW20150_O20150_VOXQ7Q"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW20150_O20150_JE2R7R"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W20150"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "5 v."
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasSourcePrintery" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/G4533"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EVMW20150IG7NZFC0"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum thor bu pod lnga/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT07DF3A9C7FC1CC34"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I3CN21477::I3CN214770003.jpg"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་འབུམ་པོད་འགའ་ཞིག་གཅིག་ཏུ་བསྒྲིགས་པའི་པོད་ལྔ་ལས་གཉིས་པ་གསུམ་པ་བཞི་པ་ལ་པོད་རྟགས་བྲིས་ཡོད་ཀྱང་དང་པོ་དང་ལྔ་པའི་ནང་མི་གསལ། རྒྱུད་ཀྱི་དབུར་མཚན་བྱང་ཡོད་པ་དང་མེད་པ། ཡིག་གཟུགས་དབུ་མེད་དང་དབུ་ཅན་གཉིས་ཀ་འབྱུང་། པོད་དང་པོའི་ནང་བི་མ་ལ་མི་ཏྲས་མཛད་པའི་རིན་པོ་ཆེའི་སྒྲོན་མའམ་རྩ་རྒྱུད་སྒྲ་ཐལ་འགྱུར་གྱི་འགྲེལ་པ་རིན་པོ་ཆེ་སྣང་བྱེད་སྒྲོན་མ་བཞུགས། འདི་ནི་རྒྱལ་དབང་ལྔ་པ་ཆེན་པོའི་དཔེ་མཛོད་ནས་ཐོན་པ་ཡིན་པར་བཤད། པོད་དང་པོའི་དཔེ་གཟུགས་པོད་གཞན་བཞི་དང་མི་འདྲ་བ་ཡོད། པོད་གཉིས་པའི་ནང་སྲི་ཐར་བསམ་འགྲུབ་ཀྱིས་མཛད་པའི་ཚིགས་སུ་བཅད་པ་ཅུང་ཟད་བསྡུས་པ་ཞེས་པ་བཀྲ་ཤིས་རབ་བརྟན་དུ་ཀརྨ་གུ་རུས་བཞེངས་པའི་རྙིང་མ་རྒྱུད་འབུམ་གྱི་ངོ་སྤྲོད་ཤོག་ལྷེ་གཉིས་དང་། པོད་ལྔ་པའི་ནང་མཛད་པ་པོ་མཆོད་བརྗོད་མཇུག་བྱང་མི་གསལ་བའི་རྙིང་སྒྱུར་གླེགས་བམ་ཇི་ལྟར་བཞུགས་ཚུལ་གྱི་དཀར་ཆག་གསང་སྔགས་བསྟན་པ་མི་ནུབ་པའི་རྒྱལ་མཚན་ཞེས་པ་རྙིང་མ་རྒྱུད་འབུམ་ཀ་ནས་མི་བར་པོད་ཞེ་དྲུག་གི་དཀར་ཆག་ཤོག་ལྷེ་སོ་བདུན་རྒྱུད་ཀྱི་རིམ་པ་འབྲུག་དབུས་ཕྱོགས་མཚམས་བྲག་རྒྱུད་འབུམ་སོགས་དང་མཐུན་པར་འབྱུང་། ཆོས་ཚན་དེ་གསུམ་མ་གཏོགས་རྒྱུད་གཞན་རྣམས་ཡོངས་གྲགས་ཀྱི་རྒྱུད་འབུམ་ནང་མཇལ་རྒྱུ་ཡོད། རྒྱུད་འབུམ་དེ་རྒྱུད་འབུམ་གཞན་དང་བསྡུར་ན་མཚན་བྱང་མི་འདྲ་ཡང་ནང་དོན་འདྲ་བ། མཚན་བྱང་འདྲ་ཡང་ནང་ཚིག་མི་འདྲ་བ། ཡིག་ནོར་ཀྱང་མང་དུ་འབྱུང་། རྒྱུད་འབུམ་དེ་ནི་བཀྲ་ཤིས་རབ་བརྟན་དུ་ཀརྨ་གུ་རུས་དུས་རབས་བཅུ་བདུན་ཙམ་ལ་བཞེངས་པའི་རྙིང་མ་རྒྱུད་འབུམ་པོད་ཞེ་དྲུག་ཡིན་སྲིད།  ཚིགས་སུ་བཅད་པ་ཅུང་ཟད་བསྡུས་པ་དང་དེའི་དཀར་ཆག་ནང་གཟིགས་རོགས་གནང་། ཞེ་ཆེན་ཞིབ་འཇུག་སྡེ་ཚན་གྱི་ཉམས་ཞིབ་པ་སློབ་དཔོན་རཱུཔ་ཙནྡྲ་གུ་རུང་ནས།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "5" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/EVMW20150IG7NZFC0" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "16?" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ]
+  }
+}

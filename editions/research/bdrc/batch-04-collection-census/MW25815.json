@@ -1,0 +1,207 @@
+{ 
+  "http://purl.bdrc.io/resource/TT910E4E508F53F009" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/TitlePortion"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum/ (gting skyes rgyud 'bum gyi pod tha ma drug)" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW25815" : { 
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "གཏིང་སྐྱེས་དགོན་པའི་རྙིང་མ་རྒྱུད་འབུམ།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "dil mgo mkhyen brtse rin po che/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "Thimphu" ,
+      "lang" : "en"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "ཐིམ་ཕུག" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuCan"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Manuscript"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasOutline" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/O25815"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasPart" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW25815_53F1AB"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW25815_483159"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW25815_6F3B6F"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW25815_DA934D"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW25815_C242EF"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW25815_1C867B"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW25815_9B5B55"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IE0OPI5975E59C"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W25815"
+    }
+     ] ,
+    "http://id.loc.gov/ontologies/bibframe/identifiedBy" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDDDD9BADE7134F673"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "6 v."
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/note" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/NT3A350D2BA1133F75"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum/ (gting skyes rgyud 'bum gyi pod tha ma drug)" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EVC2B5A7B1106FB5D0"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT910E4E508F53F009"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I3900::39000003.tif"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་འབུམ་པོད་དྲུག་འདི་ནི་དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེས་ 1973\u20131975 པར་བསྐྲུན་གནང་བའི་གཏིང་སྐྱེས་རྒྱུད་འབུམ་ bdr:MW21518 གྱི་པོད་ཐ་མ་དྲུག་ཡིན་ནོ། །" ,
+      "lang" : "bo"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "six supplemental volumes to the gting skyes rgyud 'bum" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "6" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/EVC2B5A7B1106FB5D0" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/notBefore" : [ { 
+      "type" : "literal" ,
+      "value" : "1973" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/notAfter" : [ { 
+      "type" : "literal" ,
+      "value" : "1975" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "1973/1975" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/NT3A350D2BA1133F75" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Note"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/noteText" : [ { 
+      "type" : "literal" ,
+      "value" : "-3905\n\nincluded on tranche 2 of the tbrc digital library\nsupplementary volumes of tantras of the nyingma tradition recently found in china" ,
+      "lang" : "en"
+    }
+     ]
+  }
+}

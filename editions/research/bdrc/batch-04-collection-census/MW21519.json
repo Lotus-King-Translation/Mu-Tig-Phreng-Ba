@@ -1,0 +1,270 @@
+{ 
+  "http://purl.bdrc.io/resource/TTC6C4DCF5E4649B03" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/CoverTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "The Rgyud ʼbum of Vairocana :a collection of ancient tantras and esoteric instructions /compiled and translated by the eighth century Tibetan master." ,
+      "lang" : "en-x-mixed"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/EVBF2D80819F52D3E0" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "1971" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/onYear" : [ { 
+      "type" : "literal" ,
+      "value" : "1971" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTCC077BA07E117D8B" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/OtherTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "bai ro'i rgyud 'bum/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW21519" : { 
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "s.w. tashigangpa" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "leh" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuCan"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasOutline" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/O1CT1001"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasPart" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21519_8FFCD1"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21519_78D062"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21519_2362E9"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21519_0FEBFA"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21519_44D056"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21519_C18E45"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21519_020BB7"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21519_9A0DA1"
+    }
+     ] ,
+    "http://id.loc.gov/ontologies/bibframe/identifiedBy" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDC6E0E8EE4A2BEB0C"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDC84D6122F46934B7"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID50A50C35D5C26F3D"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID5D241C6B9D69F0F6"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/note" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/NT37F057D44D19AF4D"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I0577::05770003.tif"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/seriesNumber" : [ { 
+      "type" : "literal" ,
+      "value" : "v. 16-23"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/serialInstanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WAS00EGS1016202"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/inCollection" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PR1PL480"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "the rgyud 'bum vairocana : a collection ancient tantras and esoteric instructions" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Manuscript"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W21519"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "8 v."
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "bai ro'i rgyud 'bum/" ,
+      "lang" : "bo-x-ewts"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "The Rgyud ʼbum of Vairocana :a collection of ancient tantras and esoteric instructions /compiled and translated by the eighth century Tibetan master." ,
+      "lang" : "en-x-mixed"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EVBF2D80819F52D3E0"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/authorshipStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "compiled and translated by the eighth century tibetan master" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTC6C4DCF5E4649B03"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTCC077BA07E117D8B"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT4C0A30301DA267BC"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "reproduced from the rare manuscript belonging to tokden rimpoche of gangon by tashi y. tashigangpa included on tranche 2 of the tbrc digital library reproduced from a manuscript collection of nyingma canonical materials from the jangtang area in ladakh; includes an ancient example of the 'dra 'bag chen mo biography of vairocana and therefore popularly know as the bairo gyubum" ,
+      "lang" : "en"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "དུས་རབས་བརྒྱད་པར་བཻ་རོ་ཙ་ནས་གཙོས་ལོ་ཙཱ་བ་རྣམས་ཀྱིས་བསྒྱུར་བའི་ཤིན་ཏུ་དཀོན་པའི་རྙིང་མའི་རྒྱུད་འགའ་ཞིག་ཏོག་ལྡན་རིན་པོ་ཆེས་ (1938\u20132023) ཕྱོགས་བསྒྲིགས་གནང་བའི་པོད་ 8 འདི་ཉིད་བཀྲ་ཤིས་སྒང་པས་ 1971 ལོར་པར་སྐྲུན་བྱས་པའོ། །" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "8" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/NT37F057D44D19AF4D" : { 
+    "http://purl.bdrc.io/ontology/core/noteText" : [ { 
+      "type" : "literal" ,
+      "value" : "included on tranche 2 of the tbrc digital library\nreproduced from a manuscript collection of nyingma canonical materials from the jangtang area in ladakh; includes an ancient example of the 'dra 'bag chen mo biography of vairocana and therefore popularly know as the bairo gyubum" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Note"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT4C0A30301DA267BC" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/TitlePageTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "the rgyud 'bum vairocana : a collection ancient tantras and esoteric instructions" ,
+      "lang" : "en"
+    }
+     ]
+  }
+}
