@@ -1,0 +1,61 @@
+{ 
+  "http://purl.bdrc.io/resource/WA0RG0060" : { 
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "mu tig rin po che phreng ba'i rgyud/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/isRoot" : [ { 
+      "type" : "literal" ,
+      "value" : "true" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Work"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.rkts.eu/resource/WNGT0060"
+    }
+     ] ,
+    "http://id.loc.gov/ontologies/bibframe/identifiedBy" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDBDCF9F_WA0RG0060"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/workHasInstance" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW1KG11703_0003_004"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW1KG14783_0005_007"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW2PD17382_0038_003"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW3CN3207_O3CN3207_M0YTTN"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW1BL6_0032_009"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW1ER119_0006_1"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/language" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/LangBo"
+    }
+     ]
+  }
+}
