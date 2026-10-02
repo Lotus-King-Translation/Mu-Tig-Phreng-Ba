@@ -1,0 +1,339 @@
+[
+  {
+    "id": "MTP-000001",
+    "golden_ids": [
+      "MTP-S000001",
+      "MTP-S000002",
+      "MTP-S000003"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Leading blank, electronic chapter control and printed-page marker are source metadata, not root-text prose."
+  },
+  {
+    "id": "MTP-000002",
+    "golden_ids": [
+      "MTP-S000004"
+    ],
+    "role": "source_heading",
+    "format": "h1",
+    "rationale": "Exact opening work title; no editorial Tibetan heading is supplied."
+  },
+  {
+    "id": "MTP-000003",
+    "golden_ids": [
+      "MTP-S000005"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 418 is metadata."
+  },
+  {
+    "id": "MTP-000004",
+    "golden_ids": [
+      "MTP-S000006"
+    ],
+    "role": "source_heading",
+    "format": "h2",
+    "rationale": "Indian-language label is a source heading. The absent or untranscribed Sanskrit title remains an explicit inherited uncertainty, not a reconstruction."
+  },
+  {
+    "id": "MTP-000005",
+    "golden_ids": [
+      "MTP-S000007",
+      "MTP-S000008"
+    ],
+    "role": "source_heading",
+    "format": "h2",
+    "rationale": "Tibetan-language label and following work title form one source title unit."
+  },
+  {
+    "id": "MTP-000006",
+    "golden_ids": [
+      "MTP-S000009"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Complete homage sentence."
+  },
+  {
+    "id": "MTP-000007",
+    "golden_ids": [
+      "MTP-S000010"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "First narrative teaching formula introduces direct speech; preserve its distinct wording and inherited source uncertainty."
+  },
+  {
+    "id": "MTP-000008",
+    "golden_ids": [
+      "MTP-S000011",
+      "MTP-S000012",
+      "MTP-S000013",
+      "MTP-S000014"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Opening address and temporal-existential statement form a coherent unit; retain the apparent paradox without repair."
+  },
+  {
+    "id": "MTP-000009",
+    "golden_ids": [
+      "MTP-S000015"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 419 is metadata; preceding anchor 14 crosses the physical page boundary."
+  },
+  {
+    "id": "MTP-000010",
+    "golden_ids": [
+      "MTP-S000016",
+      "MTP-S000017"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Causal continuation and resulting appearance statement belong together."
+  },
+  {
+    "id": "MTP-000011",
+    "golden_ids": [
+      "MTP-S000018",
+      "MTP-S000019"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Temporal introduction, named subject and resulting appearances remain syntactically connected."
+  },
+  {
+    "id": "MTP-000012",
+    "golden_ids": [
+      "MTP-S000020",
+      "MTP-S000021"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Teaching declaration and imperative to listen form one speech unit."
+  },
+  {
+    "id": "MTP-000013",
+    "golden_ids": [
+      "MTP-S000022"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 420 precedes the speaker change."
+  },
+  {
+    "id": "MTP-000014",
+    "golden_ids": [
+      "MTP-S000023"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Narrative speaker change and quotation introduction."
+  },
+  {
+    "id": "MTP-000015",
+    "golden_ids": [
+      "MTP-S000024",
+      "MTP-S000025",
+      "MTP-S000026"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Second narrative formula and location form one coherent locative unit, including corrected anchor 26."
+  },
+  {
+    "id": "MTP-000016",
+    "golden_ids": [
+      "MTP-S000027",
+      "MTP-S000028",
+      "MTP-S000029",
+      "MTP-S000030",
+      "MTP-S000031",
+      "MTP-S000032",
+      "MTP-S000033"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Six embodiments and their common non-departure from the embodiment of essence form one enumeration."
+  },
+  {
+    "id": "MTP-000017",
+    "golden_ids": [
+      "MTP-S000034",
+      "MTP-S000035",
+      "MTP-S000036",
+      "MTP-S000037"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Retinue of essence, colors and inner retinue of self-appearance form one assembly unit."
+  },
+  {
+    "id": "MTP-000018",
+    "golden_ids": [
+      "MTP-S000038"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 421 occurs at the inner-to-outer retinue transition."
+  },
+  {
+    "id": "MTP-000019",
+    "golden_ids": [
+      "MTP-S000039",
+      "MTP-S000040",
+      "MTP-S000041",
+      "MTP-S000042",
+      "MTP-S000043",
+      "MTP-S000044",
+      "MTP-S000045",
+      "MTP-S000046",
+      "MTP-S000047",
+      "MTP-S000048",
+      "MTP-S000049"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "External-retinue introduction, five families, wrathful figures, dakinis and concluding quantity form one enumeration."
+  },
+  {
+    "id": "MTP-000020",
+    "golden_ids": [
+      "MTP-S000050",
+      "MTP-S000051",
+      "MTP-S000052"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Six sages and inconceivable emanation embodiments constitute the following retinue group."
+  },
+  {
+    "id": "MTP-000021",
+    "golden_ids": [
+      "MTP-S000053",
+      "MTP-S000054",
+      "MTP-S000055",
+      "MTP-S000056",
+      "MTP-S000057"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Apprehending-deluded-retinue introduction and first portion of its list; continues in MTP-000023 across metadata pair MTP-000022. The pair boundary does not require an English sentence ending."
+  },
+  {
+    "id": "MTP-000022",
+    "golden_ids": [
+      "MTP-S000058"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 422 interrupts the continuing list in MTP-000021 and MTP-000023; it is not a list item or new sentence."
+  },
+  {
+    "id": "MTP-000023",
+    "golden_ids": [
+      "MTP-S000059",
+      "MTP-S000060",
+      "MTP-S000061"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Continuation and completion of the retinue list begun in MTP-000021."
+  },
+  {
+    "id": "MTP-000024",
+    "golden_ids": [
+      "MTP-S000062",
+      "MTP-S000063",
+      "MTP-S000064",
+      "MTP-S000065",
+      "MTP-S000066",
+      "MTP-S000067",
+      "MTP-S000068",
+      "MTP-S000069",
+      "MTP-S000070",
+      "MTP-S000071",
+      "MTP-S000072",
+      "MTP-S000073",
+      "MTP-S000074",
+      "MTP-S000075",
+      "MTP-S000076"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Appearance-retinue introduction and faculty/object enumeration through chos form a coherent list."
+  },
+  {
+    "id": "MTP-000025",
+    "golden_ids": [
+      "MTP-S000077",
+      "MTP-S000078",
+      "MTP-S000079",
+      "MTP-S000080"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Divine, asura, gandharva and bodhisattva retinue group continues the larger assembly enumeration."
+  },
+  {
+    "id": "MTP-000026",
+    "golden_ids": [
+      "MTP-S000081",
+      "MTP-S000082",
+      "MTP-S000083"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Three scriptural-category members remain an enumeration without an added heading."
+  },
+  {
+    "id": "MTP-000027",
+    "golden_ids": [
+      "MTP-S000084",
+      "MTP-S000085",
+      "MTP-S000086",
+      "MTP-S000087",
+      "MTP-S000088",
+      "MTP-S000089"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Subsequent view and vehicle sequence through Kriya and Upa; continues in MTP-000029 across metadata pair MTP-000028, without doctrinal regrouping or a required sentence ending."
+  },
+  {
+    "id": "MTP-000028",
+    "golden_ids": [
+      "MTP-S000090"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 423 lies within the vehicle and assembly sentence continued by MTP-000029."
+  },
+  {
+    "id": "MTP-000029",
+    "golden_ids": [
+      "MTP-S000091",
+      "MTP-S000092",
+      "MTP-S000093",
+      "MTP-S000094",
+      "MTP-S000095"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Continuation of MTP-000027 through Yoga, Maha, Anu and Ati, followed by the appearance and common-abiding completion."
+  },
+  {
+    "id": "MTP-000030",
+    "golden_ids": [
+      "MTP-S000096",
+      "MTP-S000097"
+    ],
+    "role": "chapter_colophon",
+    "format": "prose",
+    "rationale": "Work-title formula and numbered first-chapter closure form one colophon unit."
+  }
+]
