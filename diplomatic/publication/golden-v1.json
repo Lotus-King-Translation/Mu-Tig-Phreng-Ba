@@ -1,0 +1,86 @@
+{
+  "edition": "bounded-golden-v1",
+  "tag": "golden-v1",
+  "release_commit": "4d6ba07e1b3379183633127cd387d98d8195eb95",
+  "remote_tag_object": "2dda46d0a11ee533a30dec1e196f506307a4957f",
+  "remote_peeled_commit": "4d6ba07e1b3379183633127cd387d98d8195eb95",
+  "remote_main_at_release": "4d6ba07e1b3379183633127cd387d98d8195eb95",
+  "build_manifest_sha256": "66a085a74cf3420c832bcc338cbdf43696cb950d8113ee388992c51c4e361d20",
+  "signoff_sha256": "5b05fb30b2372b29524646f3aecb4e3a572f05825db17111cbc5b2bd9040452c",
+  "coverage_sha256": "6b2867ee4d62762787c6c12cda5509820f5fa4669fd2f1bf4e933c840f4bfd35",
+  "chapter_releases": [
+    {
+      "chapter": 1,
+      "tag": "golden-ch01-v1",
+      "tag_object": "d56fe35ef78cc31c52696c9c8c29e77790ac04d9",
+      "peeled_commit": "405bd61c6afac6cded17f70a9b661eae028f8fa9",
+      "receipt": "diplomatic/publication/ch01-v1.json",
+      "receipt_sha256": "d08ea7f864665c42d013631f4e204dd4d1055d8d23804d23926b597ffb9efbf0",
+      "url": "https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-ch01-v1"
+    },
+    {
+      "chapter": 2,
+      "tag": "golden-ch02-v1",
+      "tag_object": "b72c8dffc1edc477a4daf371306a26a0d3242ba0",
+      "peeled_commit": "4bd85fee1d157380051acf97a7614fc3c4d16519",
+      "receipt": "diplomatic/publication/ch02-v1.json",
+      "receipt_sha256": "32b4692c42754c3a35a8b7a8706b760a167ceee350db42ad2b1f23b152118a90",
+      "url": "https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-ch02-v1"
+    },
+    {
+      "chapter": 3,
+      "tag": "golden-ch03-v1",
+      "tag_object": "1fb0a8c8146710f6e943bb736d1c193171641f63",
+      "peeled_commit": "2ede3f022d1af504d3c75942d2280896f590aad9",
+      "receipt": "diplomatic/publication/ch03-v1.json",
+      "receipt_sha256": "c2bdc672c014eb33c99594c6f2f8bdf56f9014bf4899b12dc0d62959cd377839",
+      "url": "https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-ch03-v1"
+    },
+    {
+      "chapter": 4,
+      "tag": "golden-ch04-v1",
+      "tag_object": "c693ad02281629367569405d6ba9037e8121168c",
+      "peeled_commit": "7c1da84cc1d0de731a517957d7a6b62a176a5a3f",
+      "receipt": "diplomatic/publication/ch04-v1.json",
+      "receipt_sha256": "3314098175d141a1cceabc5a7e52b55e851e818b7bd1f468c7de0394e29356ec",
+      "url": "https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-ch04-v1"
+    },
+    {
+      "chapter": 5,
+      "tag": "golden-ch05-v1",
+      "tag_object": "ea9cc55c97e89f2133889799fdba2ca6c2ed89cc",
+      "peeled_commit": "916131f5a1eed2ce3dcc4eeb56af098f173fc8bd",
+      "receipt": "diplomatic/publication/ch05-v1.json",
+      "receipt_sha256": "afeb7ab96bc8056219bd1759ce0205be38a973a4eb2463e55f25afe7b35a677b",
+      "url": "https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-ch05-v1"
+    },
+    {
+      "chapter": 6,
+      "tag": "golden-ch06-v1",
+      "tag_object": "9a70b49dd2282111d14021b3efd525f61f3ac6e0",
+      "peeled_commit": "3ba32292c566d225bcd57394a6d454f81aafc033",
+      "receipt": "diplomatic/publication/ch06-v1.json",
+      "receipt_sha256": "e38b7f0df543f88edf9aedd5d93b21e4ae3266028c55a67890dd32c2e9858cb7",
+      "url": "https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-ch06-v1"
+    },
+    {
+      "chapter": 7,
+      "tag": "golden-ch07-v1",
+      "tag_object": "a0a8d3dfe2d497f0cfd2b5a7cc5107dca68eff70",
+      "peeled_commit": "0129fc7224d0af8379051716abd7b05265c5ddf9",
+      "receipt": "diplomatic/publication/ch07-v1.json",
+      "receipt_sha256": "51a8aa3b46e05d68a636d4e3bac6997559712c69429bc7f4325a02320b943307",
+      "url": "https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-ch07-v1"
+    },
+    {
+      "chapter": 8,
+      "tag": "golden-ch08-v1",
+      "tag_object": "3391bb302e11092f0d3e400113a8707ca25c5d95",
+      "peeled_commit": "360c900eeb8eb5b5c4b451901403d7a4f6c2920f",
+      "receipt": "diplomatic/publication/ch08-v1.json",
+      "receipt_sha256": "7059b99377e4885d1894f13e60fc53bb9919446cdf0f00c18a9993f0157bbbc2",
+      "url": "https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-ch08-v1"
+    }
+  ],
+  "publication_note": "Receipt committed after fixed tag; tag not moved."
+}
