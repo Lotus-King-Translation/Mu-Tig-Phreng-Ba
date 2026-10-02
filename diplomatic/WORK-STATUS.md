@@ -2,7 +2,7 @@
 
 Governing scan: Adzom1973 W1KG892/I1KG895. Electronic base: preserved Tibetan Wikisource; Wylie comparison is the same transcript family.
 
-- Current chapter: 6; completed chapter publications: 5/8.
+- Current chapter: 6; completed chapter publications: 6/8.
 - Anchors in current release: 376; changed text anchors: 7; restorations: 0.
 - Decisions completed/remaining: 21/0.
 - Targeted source checks completed/remaining: 16/0.

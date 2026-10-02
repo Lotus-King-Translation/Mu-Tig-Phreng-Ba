@@ -1,0 +1,105 @@
+{
+  "chapter": 6,
+  "tag": "golden-ch06-v1",
+  "release_commit": "3ba32292c566d225bcd57394a6d454f81aafc033",
+  "remote_tag_object": "9a70b49dd2282111d14021b3efd525f61f3ac6e0",
+  "remote_peeled_commit": "3ba32292c566d225bcd57394a6d454f81aafc033",
+  "remote_main_at_release": "3ba32292c566d225bcd57394a6d454f81aafc033",
+  "build_manifest_sha256": "dabdd4e79a2e2aea09d48aa6d743e112059c239584135f00f70856c66bc40a1e",
+  "coverage": {
+    "schema_version": 1,
+    "chapter": 6,
+    "anchor_count": 376,
+    "accounted_original_anchors": 376,
+    "restoration_count": 0,
+    "changed_text_anchors": 7,
+    "layer_or_text_changed_anchors": 8,
+    "editorial_decisions_completed": 21,
+    "required_decisions_completed": 21,
+    "required_decisions_remaining": 0,
+    "source_checks_completed": 16,
+    "source_checks_remaining": 0,
+    "electronic_loci_compared": 376,
+    "electronic_difference_count": 0,
+    "retained_unreviewed_transcript_anchors": 355,
+    "accepted_evidence_records": 26,
+    "excluded_evidence_records": 3,
+    "unresolved": [
+      {
+        "id": "MTP-S001056",
+        "uncertainty": [
+          "Smaller source explanation after དགོངས་པ remains untranscribed and separate from the main continuation ཇི་ལྟར་ལགས."
+        ]
+      },
+      {
+        "id": "MTP-S001085",
+        "uncertainty": [
+          "Smaller source explanation after དཀོན་མཆོག remains untranscribed; the main anchor crosses the image491/492 boundary."
+        ]
+      },
+      {
+        "id": "MTP-S001089",
+        "uncertainty": [
+          "Smaller source explanation after སྤྱོད་པ remains untranscribed before final main ང."
+        ]
+      },
+      {
+        "id": "MTP-S001199",
+        "uncertainty": [
+          "Smaller source explanation after དམྱལ་བ་པར་ནི remains untranscribed in this bounded review and is not merged into the main verse."
+        ]
+      },
+      {
+        "id": "MTP-S001216",
+        "uncertainty": [
+          "Smaller source explanation after ཤེས་རབ remains untranscribed and separate from the main-text continuation ཉིད་དུ་གྲོལ."
+        ]
+      },
+      {
+        "id": "MTP-S001256",
+        "uncertainty": [
+          "Smaller source explanation between the main incipit and མྱ་ངན་འདས remains untranscribed across the line5/6 boundary."
+        ]
+      },
+      {
+        "id": "MTP-S001306",
+        "uncertainty": [
+          "The layer status of པ་རོ་མ is not securely distinguished from main text by this inspection; the exact supplied phrase remains selected without separation.",
+          "A further smaller source explanation follows the line4 continuation ལེ་སྟེ; its wording and exact attachment remain untranscribed."
+        ]
+      },
+      {
+        "id": "MTP-S001311",
+        "uncertainty": [
+          "Smaller source explanation after དོན་དམ remains untranscribed and is not included in the main sequence."
+        ]
+      },
+      {
+        "id": "MTP-S001312",
+        "uncertainty": [
+          "Smaller source explanation after སྟོང་གསལ remains untranscribed and is not included in the main sequence."
+        ]
+      },
+      {
+        "id": "MTP-S001364",
+        "uncertainty": [
+          "Smaller source wording following the main རྟ་ཕོ་ལ remains untranscribed; its exact attachment is not certified."
+        ]
+      },
+      {
+        "id": "MTP-S001371",
+        "uncertainty": [
+          "Smaller source explanation after དབང་པོའི remains untranscribed and is not merged into the main reading."
+        ]
+      }
+    ],
+    "claims": {
+      "full_scan_proofreading": false,
+      "exhaustive_witness_collation": false,
+      "independent_witness_electronic_collation": false,
+      "independent_human_certification": false
+    },
+    "comparison_scope": "Two electronic renditions of the same Valby/Adzom transcription family; not independent witnesses."
+  },
+  "publication_note": "Receipt committed after fixed tag; tag not moved."
+}
