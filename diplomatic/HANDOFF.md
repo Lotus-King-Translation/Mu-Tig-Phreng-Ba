@@ -1,15 +1,18 @@
 # Golden edition state
 
-Governing scan: Adzom1973 W1KG892/I1KG895. Electronic base: preserved Tibetan Wikisource; Wylie comparison is the same transcript family.
+All eight chapter releases are published with signed validation, annotated tags, remote verification and receipts.
 
-- Current chapter: 8; completed chapter publications: 8/8.
-- Anchors in current release: 284; changed text anchors: 5; restorations: 0.
-- Decisions completed/remaining: 65/0.
-- Targeted source checks completed/remaining: 18/0.
-- Current deliverable groups: 6/6 built; bounded validation/signoff passed before publication.
-- Unresolved records: 37; exact loci in chapters/08/coverage.json.
-- Full scan proofreading, exhaustive witness collation and independent human certification: false.
-- Publication receipts: diplomatic/publication/. Prior chapter files remain fixed at their annotated tags.
-- Next finite task: Build aggregate golden v1. Translation has not begun.
+Current phase: aggregate golden v1; finite contract: golden/contract.json.
 
-Read RELEASE-POLICY.md, GOVERNING-WITNESS.json and the next chapter contract before substantive work. Never infer physical agreement from electronic equality.
+- anchor_count: 2053
+- editorial_decisions_completed: 183
+- required_decisions_remaining: 0
+- source_checks_completed: 102
+- source_checks_remaining: 0
+- changed_text_anchors: 30
+- restoration_count: 0
+- retained_unreviewed_transcript_anchors: 1870
+- uncertainty_anchors: 96
+
+Generated aggregate deliverables: 0/5. Final aggregate review, signoff and publication pending.
+Full scan proofreading and exhaustive witness collation: false. Translation has not started.
