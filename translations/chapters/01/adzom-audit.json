@@ -1,0 +1,4956 @@
+{
+  "schema_version": 1,
+  "chapter": 1,
+  "scope": "Complete native comparison attempt of every selected chapter1 main/heading/colophon word, golden anchors1–97, against Adzom images427–433; all page and cross-page spans individually allocated. Local source-only annotations are inventoried, not fully deciphered. No chapter2 work.",
+  "inspector": "/root/golden_base_review",
+  "golden_release": "golden-v1",
+  "golden_commit": "4d6ba07e1b3379183633127cd387d98d8195eb95",
+  "golden_reading_sha256": "dc371e71f4eb0fa842963eebf3ebb0bb7c60e9623a038cf1cdcd3339855be2c1",
+  "standard_sha256": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+  "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+  "images": [
+    {
+      "image_index": 427,
+      "printed_page": 417,
+      "path": "evidence/golden/01/00427.png",
+      "sha256": "9f8b9df2801dc370550a4e9c956cb4e95095ee91b2ed6762dd3953997cfd0ae7",
+      "anchor_ids": [
+        "MTP-S000002",
+        "MTP-S000003",
+        "MTP-S000004"
+      ],
+      "status": "complete_main_text_inspection_with_explicit_unresolved_readings",
+      "unresolved": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-003"
+      ],
+      "main_text_coverage": "Entire central title",
+      "inspection": "native_image_direct",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950427.TIF/full/max/0/default.png"
+    },
+    {
+      "image_index": 428,
+      "printed_page": 418,
+      "path": "evidence/golden/01/00428.png",
+      "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+      "anchor_ids": [
+        "MTP-S000005",
+        "MTP-S000006",
+        "MTP-S000007",
+        "MTP-S000008",
+        "MTP-S000009",
+        "MTP-S000010",
+        "MTP-S000011",
+        "MTP-S000012",
+        "MTP-S000013",
+        "MTP-S000014"
+      ],
+      "status": "complete_main_text_inspection_with_explicit_unresolved_readings",
+      "unresolved": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-004",
+        "MTP-AUDIT-C01-010",
+        "MTP-AUDIT-C01-011",
+        "MTP-AUDIT-C01-012",
+        "MTP-AUDIT-C01-013",
+        "MTP-AUDIT-C01-014",
+        "MTP-AUDIT-C01-015"
+      ],
+      "main_text_coverage": "All four horizontal chapter1 rows",
+      "inspection": "native_image_direct",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950428.TIF/full/max/0/default.png"
+    },
+    {
+      "image_index": 429,
+      "printed_page": 419,
+      "path": "evidence/golden/01/00429.png",
+      "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+      "anchor_ids": [
+        "MTP-S000014",
+        "MTP-S000015",
+        "MTP-S000016",
+        "MTP-S000017",
+        "MTP-S000018",
+        "MTP-S000019",
+        "MTP-S000020",
+        "MTP-S000021"
+      ],
+      "status": "complete_main_text_inspection_with_explicit_unresolved_readings",
+      "unresolved": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-005",
+        "MTP-AUDIT-C01-016",
+        "MTP-AUDIT-C01-017",
+        "MTP-AUDIT-C01-018",
+        "MTP-AUDIT-C01-019",
+        "MTP-AUDIT-C01-020"
+      ],
+      "main_text_coverage": "All four horizontal chapter1 rows",
+      "inspection": "native_image_direct",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950429.TIF/full/max/0/default.png"
+    },
+    {
+      "image_index": 430,
+      "printed_page": 420,
+      "path": "evidence/golden/01/00430.png",
+      "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+      "anchor_ids": [
+        "MTP-S000021",
+        "MTP-S000022",
+        "MTP-S000023",
+        "MTP-S000024",
+        "MTP-S000025",
+        "MTP-S000026",
+        "MTP-S000027",
+        "MTP-S000028",
+        "MTP-S000029",
+        "MTP-S000030",
+        "MTP-S000031",
+        "MTP-S000032",
+        "MTP-S000033",
+        "MTP-S000034",
+        "MTP-S000035",
+        "MTP-S000036",
+        "MTP-S000037"
+      ],
+      "status": "complete_main_text_inspection_with_explicit_unresolved_readings",
+      "unresolved": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-006",
+        "MTP-AUDIT-C01-021",
+        "MTP-AUDIT-C01-022",
+        "MTP-AUDIT-C01-023",
+        "MTP-AUDIT-C01-024",
+        "MTP-AUDIT-C01-025",
+        "MTP-AUDIT-C01-026",
+        "MTP-AUDIT-C01-027",
+        "MTP-AUDIT-C01-028",
+        "MTP-AUDIT-C01-029",
+        "MTP-AUDIT-C01-030",
+        "MTP-AUDIT-C01-031",
+        "MTP-AUDIT-C01-032",
+        "MTP-AUDIT-C01-033"
+      ],
+      "main_text_coverage": "All six horizontal rows, including every chapter1 continuation",
+      "inspection": "native_image_direct",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950430.TIF/full/max/0/default.png"
+    },
+    {
+      "image_index": 431,
+      "printed_page": 421,
+      "path": "evidence/golden/01/00431.png",
+      "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+      "anchor_ids": [
+        "MTP-S000037",
+        "MTP-S000038",
+        "MTP-S000039",
+        "MTP-S000040",
+        "MTP-S000041",
+        "MTP-S000042",
+        "MTP-S000043",
+        "MTP-S000044",
+        "MTP-S000045",
+        "MTP-S000046",
+        "MTP-S000047",
+        "MTP-S000048",
+        "MTP-S000049",
+        "MTP-S000050",
+        "MTP-S000051",
+        "MTP-S000052",
+        "MTP-S000053",
+        "MTP-S000054",
+        "MTP-S000055",
+        "MTP-S000056",
+        "MTP-S000057"
+      ],
+      "status": "complete_main_text_inspection_with_explicit_unresolved_readings",
+      "unresolved": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-007",
+        "MTP-AUDIT-C01-034",
+        "MTP-AUDIT-C01-035",
+        "MTP-AUDIT-C01-036",
+        "MTP-AUDIT-C01-037",
+        "MTP-AUDIT-C01-038",
+        "MTP-AUDIT-C01-039",
+        "MTP-AUDIT-C01-040",
+        "MTP-AUDIT-C01-041",
+        "MTP-AUDIT-C01-042",
+        "MTP-AUDIT-C01-043",
+        "MTP-AUDIT-C01-044",
+        "MTP-AUDIT-C01-046",
+        "MTP-AUDIT-C01-077",
+        "MTP-AUDIT-C01-078"
+      ],
+      "main_text_coverage": "All six horizontal rows, including every chapter1 continuation",
+      "inspection": "native_image_direct",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950431.TIF/full/max/0/default.png"
+    },
+    {
+      "image_index": 432,
+      "printed_page": 422,
+      "path": "evidence/golden/01/00432.png",
+      "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+      "anchor_ids": [
+        "MTP-S000057",
+        "MTP-S000058",
+        "MTP-S000059",
+        "MTP-S000060",
+        "MTP-S000061",
+        "MTP-S000062",
+        "MTP-S000063",
+        "MTP-S000064",
+        "MTP-S000065",
+        "MTP-S000066",
+        "MTP-S000067",
+        "MTP-S000068",
+        "MTP-S000069",
+        "MTP-S000070",
+        "MTP-S000071",
+        "MTP-S000072",
+        "MTP-S000073",
+        "MTP-S000074",
+        "MTP-S000075",
+        "MTP-S000076",
+        "MTP-S000077",
+        "MTP-S000078",
+        "MTP-S000079",
+        "MTP-S000080",
+        "MTP-S000081",
+        "MTP-S000082",
+        "MTP-S000083",
+        "MTP-S000084",
+        "MTP-S000085",
+        "MTP-S000086",
+        "MTP-S000087",
+        "MTP-S000088",
+        "MTP-S000089"
+      ],
+      "status": "complete_main_text_inspection_with_explicit_unresolved_readings",
+      "unresolved": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-008",
+        "MTP-AUDIT-C01-047",
+        "MTP-AUDIT-C01-048",
+        "MTP-AUDIT-C01-049",
+        "MTP-AUDIT-C01-050",
+        "MTP-AUDIT-C01-051",
+        "MTP-AUDIT-C01-052",
+        "MTP-AUDIT-C01-053",
+        "MTP-AUDIT-C01-054",
+        "MTP-AUDIT-C01-055",
+        "MTP-AUDIT-C01-056",
+        "MTP-AUDIT-C01-057",
+        "MTP-AUDIT-C01-058",
+        "MTP-AUDIT-C01-059",
+        "MTP-AUDIT-C01-060",
+        "MTP-AUDIT-C01-061",
+        "MTP-AUDIT-C01-062",
+        "MTP-AUDIT-C01-063",
+        "MTP-AUDIT-C01-065",
+        "MTP-AUDIT-C01-066",
+        "MTP-AUDIT-C01-067",
+        "MTP-AUDIT-C01-068",
+        "MTP-AUDIT-C01-069",
+        "MTP-AUDIT-C01-070",
+        "MTP-AUDIT-C01-071",
+        "MTP-AUDIT-C01-072",
+        "MTP-AUDIT-C01-073",
+        "MTP-AUDIT-C01-074",
+        "MTP-AUDIT-C01-075",
+        "MTP-AUDIT-C01-078",
+        "MTP-AUDIT-C01-079"
+      ],
+      "main_text_coverage": "All six horizontal rows, including every chapter1 continuation",
+      "inspection": "native_image_direct",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950432.TIF/full/max/0/default.png"
+    },
+    {
+      "image_index": 433,
+      "printed_page": 423,
+      "path": "evidence/golden/01/00433.png",
+      "sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+      "anchor_ids": [
+        "MTP-S000090",
+        "MTP-S000091",
+        "MTP-S000092",
+        "MTP-S000093",
+        "MTP-S000094",
+        "MTP-S000095",
+        "MTP-S000096",
+        "MTP-S000097"
+      ],
+      "status": "complete_main_text_inspection_with_explicit_unresolved_readings",
+      "unresolved": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-009",
+        "MTP-AUDIT-C01-064"
+      ],
+      "main_text_coverage": "Row1 and row2 through the first chapter colophon; later row2 wording starts chapter2 and is outside this audit.",
+      "inspection": "native_image_direct",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950433.TIF/full/max/0/default.png"
+    }
+  ],
+  "anchor_checks": [
+    {
+      "anchor_id": "MTP-S000001",
+      "status": "blank",
+      "image_indices": [],
+      "findings": [],
+      "golden_reading": "",
+      "adzom_main_reading": null,
+      "spans": [],
+      "comparison_scope": "Electronic control or printed page-label mapping only.",
+      "confidence": "high",
+      "review_note": "This is an electronic blank object with no printed lexical counterpart; no native image reading is asserted."
+    },
+    {
+      "anchor_id": "MTP-S000002",
+      "status": "metadata",
+      "image_indices": [
+        427
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002"
+      ],
+      "golden_reading": "༄༡",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 427,
+          "rows_or_crop": "margin / electronic context",
+          "allocation_reason": "electronic chapter marker; title-page context"
+        }
+      ],
+      "comparison_scope": "Electronic control or printed page-label mapping only.",
+      "confidence": "metadata",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000003",
+      "status": "metadata",
+      "image_indices": [
+        427
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-003"
+      ],
+      "golden_reading": "༤༡༧",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 427,
+          "rows_or_crop": "margin / electronic context",
+          "allocation_reason": "printed page number417"
+        }
+      ],
+      "comparison_scope": "Electronic control or printed page-label mapping only.",
+      "confidence": "metadata",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000004",
+      "status": "agrees",
+      "image_indices": [
+        427
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས",
+      "adzom_main_reading": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས",
+      "spans": [
+        {
+          "image_index": 427,
+          "rows_or_crop": "row1",
+          "allocation_reason": "entire central title"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000005",
+      "status": "metadata",
+      "image_indices": [
+        428
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-004"
+      ],
+      "golden_reading": "༤༡༨",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "margin / electronic context",
+          "allocation_reason": "printed page number418"
+        }
+      ],
+      "comparison_scope": "Electronic control or printed page-label mapping only.",
+      "confidence": "metadata",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000006",
+      "status": "differs",
+      "image_indices": [
+        428
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-010"
+      ],
+      "golden_reading": "རྒྱ་གར་སྐད་དུ",
+      "adzom_main_reading": "རྒྱ་གར་སྐད་དུ",
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "row1",
+          "allocation_reason": "left heading and immediately following Sanskrit-title span"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": "Heading itself agrees; the following omitted Sanskrit title is the discrepancy."
+    },
+    {
+      "anchor_id": "MTP-S000007",
+      "status": "agrees",
+      "image_indices": [
+        428
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "བོད་སྐད་དུ",
+      "adzom_main_reading": "བོད་སྐད་དུ",
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "row1",
+          "allocation_reason": "center heading"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000008",
+      "status": "agrees",
+      "image_indices": [
+        428
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+      "adzom_main_reading": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "row1",
+          "allocation_reason": "right Tibetan title"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000009",
+      "status": "agrees",
+      "image_indices": [
+        428
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-011"
+      ],
+      "golden_reading": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ",
+      "adzom_main_reading": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ",
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "row1",
+          "allocation_reason": "right bcom ldan"
+        },
+        {
+          "image_index": 428,
+          "rows_or_crop": "row2",
+          "allocation_reason": "left through center, das through phyag tshal lo"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000010",
+      "status": "agrees",
+      "image_indices": [
+        428
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "འདི་སྐད་བདག་གིས་བསྟན་པའི་དུས་གཅིག་ན",
+      "adzom_main_reading": "འདི་སྐད་བདག་གིས་བསྟན་པའི་དུས་གཅིག་ན",
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "row2",
+          "allocation_reason": "right beginning"
+        },
+        {
+          "image_index": 428,
+          "rows_or_crop": "row3",
+          "allocation_reason": "left final na"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000011",
+      "status": "agrees",
+      "image_indices": [
+        428
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-012",
+        "MTP-AUDIT-C01-013"
+      ],
+      "golden_reading": "ཀྱེ་མ་འཁྲུལ་པའི་བདག་ཉིད་ཆེན་པོ་རྣམས་ཉོན་ཅིག",
+      "adzom_main_reading": "ཀྱེ་མ་འཁྲུལ་པའི་བདག་ཉིད་ཆེན་པོ་རྣམས་ཉོན་ཅིག",
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "row3",
+          "allocation_reason": "left-center kye ma through right nyon cig"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000012",
+      "status": "agrees",
+      "image_indices": [
+        428
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-013",
+        "MTP-AUDIT-C01-014"
+      ],
+      "golden_reading": "ང་མེད་པའི་སྔོན་རོལ་ན",
+      "adzom_main_reading": "ང་མེད་པའི་སྔོན་རོལ་ན",
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "row4",
+          "allocation_reason": "left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000013",
+      "status": "agrees",
+      "image_indices": [
+        428
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-014"
+      ],
+      "golden_reading": "འཁྲུལ་པ་མེད་པའི་རིག་པ",
+      "adzom_main_reading": "འཁྲུལ་པ་མེད་པའི་རིག་པ",
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "row4",
+          "allocation_reason": "center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000014",
+      "status": "agrees",
+      "image_indices": [
+        428,
+        429
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-015"
+      ],
+      "golden_reading": "འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ",
+      "adzom_main_reading": "འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ",
+      "spans": [
+        {
+          "image_index": 428,
+          "rows_or_crop": "row4",
+          "allocation_reason": "right"
+        },
+        {
+          "image_index": 429,
+          "rows_or_crop": "row1",
+          "allocation_reason": "left final de"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000015",
+      "status": "metadata",
+      "image_indices": [
+        429
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-005"
+      ],
+      "golden_reading": "༤༡༩",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 429,
+          "rows_or_crop": "margin / electronic context",
+          "allocation_reason": "printed page number419"
+        }
+      ],
+      "comparison_scope": "Electronic control or printed page-label mapping only.",
+      "confidence": "metadata",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000016",
+      "status": "agrees",
+      "image_indices": [
+        429
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-016"
+      ],
+      "golden_reading": "དེ་ལས་དེ་མ་དག་པ་ལས་འདི་ལྟར་སྣང་བའི་ཆོ་འཕྲུལ་ཆེན་པོ་ཆེར་བྱུང་སྟེ",
+      "adzom_main_reading": "དེ་ལས་དེ་མ་དག་པ་ལས་འདི་ལྟར་སྣང་བའི་ཆོ་འཕྲུལ་ཆེན་པོ་ཆེར་བྱུང་སྟེ",
+      "spans": [
+        {
+          "image_index": 429,
+          "rows_or_crop": "row1",
+          "allocation_reason": "center through right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000017",
+      "status": "agrees",
+      "image_indices": [
+        429
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "འཁྲུལ་པས་མ་བགོས་པའི་ཡུལ་སོ་སོར་ཤར་རོ",
+      "adzom_main_reading": "འཁྲུལ་པས་མ་བགོས་པའི་ཡུལ་སོ་སོར་ཤར་རོ",
+      "spans": [
+        {
+          "image_index": 429,
+          "rows_or_crop": "row2",
+          "allocation_reason": "left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000018",
+      "status": "agrees",
+      "image_indices": [
+        429
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-017"
+      ],
+      "golden_reading": "དེའི་ཚེ་སྣང་བ་འདུ་བྱེད་ཀྱི་རྒྱལ་པོ",
+      "adzom_main_reading": "དེའི་ཚེ་སྣང་བ་འདུ་བྱེད་ཀྱི་རྒྱལ་པོ",
+      "spans": [
+        {
+          "image_index": 429,
+          "rows_or_crop": "row2",
+          "allocation_reason": "center through right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000019",
+      "status": "agrees",
+      "image_indices": [
+        429
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-018"
+      ],
+      "golden_reading": "སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ",
+      "adzom_main_reading": "སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ",
+      "spans": [
+        {
+          "image_index": 429,
+          "rows_or_crop": "row2",
+          "allocation_reason": "right opening"
+        },
+        {
+          "image_index": 429,
+          "rows_or_crop": "row3",
+          "allocation_reason": "left through center-right continuation"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000020",
+      "status": "agrees",
+      "image_indices": [
+        429
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-019"
+      ],
+      "golden_reading": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས",
+      "adzom_main_reading": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས",
+      "spans": [
+        {
+          "image_index": 429,
+          "rows_or_crop": "row3",
+          "allocation_reason": "right opening"
+        },
+        {
+          "image_index": 429,
+          "rows_or_crop": "row4",
+          "allocation_reason": "left through center continuation"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000021",
+      "status": "agrees",
+      "image_indices": [
+        429,
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-020"
+      ],
+      "golden_reading": "ལེགས་པའི་ཚུལ་གསུམ་གྱིས་ཉོན་ཅིག",
+      "adzom_main_reading": "ལེགས་པའི་ཚུལ་གསུམ་གྱིས་ཉོན་ཅིག",
+      "spans": [
+        {
+          "image_index": 429,
+          "rows_or_crop": "row4",
+          "allocation_reason": "right opening"
+        },
+        {
+          "image_index": 430,
+          "rows_or_crop": "row1",
+          "allocation_reason": "left tshul gsum gyis nyon cig"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000022",
+      "status": "metadata",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-006"
+      ],
+      "golden_reading": "༤༢༠",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "margin / electronic context",
+          "allocation_reason": "printed page number420"
+        }
+      ],
+      "comparison_scope": "Electronic control or printed page-label mapping only.",
+      "confidence": "metadata",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000023",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-021"
+      ],
+      "golden_reading": "དེ་ནས་གསང་བའི་བདག་པོས་ཇི་ལྟར་གསུངས་པའི་དོན་ཁོང་དུ་ཆུད་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ",
+      "adzom_main_reading": "དེ་ནས་གསང་བའི་བདག་པོས་ཇི་ལྟར་གསུངས་པའི་དོན་ཁོང་དུ་ཆུད་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row1",
+          "allocation_reason": "center through right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000024",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-022"
+      ],
+      "golden_reading": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན",
+      "adzom_main_reading": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row1",
+          "allocation_reason": "right opening"
+        },
+        {
+          "image_index": 430,
+          "rows_or_crop": "row2",
+          "allocation_reason": "left through center continuation"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000025",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-023"
+      ],
+      "golden_reading": "ཆ་ཡིས་མ་བགོས་པའི་གཞལ་ཡས་ཁང་དམ་པ",
+      "adzom_main_reading": "ཆ་ཡིས་མ་བགོས་པའི་གཞལ་ཡས་ཁང་དམ་པ",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row2",
+          "allocation_reason": "right"
+        },
+        {
+          "image_index": 430,
+          "rows_or_crop": "row3",
+          "allocation_reason": "left khang dam pa"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000026",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-024"
+      ],
+      "golden_reading": "ཐུགས་ཙིཏྟའི་དཀྱིལ་འཁོར་ན",
+      "adzom_main_reading": "ཐུགས་ཙིཏྟའི་དཀྱིལ་འཁོར་ན",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row3",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": "Golden correction agrees with the printed cluster; it is a correction of the base electronic transcript, not a departure from Adzom."
+    },
+    {
+      "anchor_id": "MTP-S000027",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "རིག་པ་རྡོ་རྗེ་རྣོན་པོའི་སྐུ་དང",
+      "adzom_main_reading": "རིག་པ་རྡོ་རྗེ་རྣོན་པོའི་སྐུ་དང",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row3",
+          "allocation_reason": "center-right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000028",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-025"
+      ],
+      "golden_reading": "རིག་པ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད་ཀྱི་སྐུ་དང",
+      "adzom_main_reading": "རིག་པ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད་ཀྱི་སྐུ་དང",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row3",
+          "allocation_reason": "right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000029",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-026"
+      ],
+      "golden_reading": "རིག་པ་རང་སྣང་གི་སྐུ་དང",
+      "adzom_main_reading": "རིག་པ་རང་སྣང་གི་སྐུ་དང",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row3",
+          "allocation_reason": "far-right rig"
+        },
+        {
+          "image_index": 430,
+          "rows_or_crop": "row4",
+          "allocation_reason": "left pa through sku dang"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000030",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-027"
+      ],
+      "golden_reading": "རིག་པ་ཅོག་བཞག་གི་སྐུ་དང",
+      "adzom_main_reading": "རིག་པ་ཅོག་བཞག་གི་སྐུ་དང",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row4",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000031",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-028"
+      ],
+      "golden_reading": "རིག་པ་ཐོགས་པ་མེད་པའི་སྐུ་དང",
+      "adzom_main_reading": "རིག་པ་ཐོགས་པ་མེད་པའི་སྐུ་དང",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row4",
+          "allocation_reason": "center-right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000032",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-029"
+      ],
+      "golden_reading": "རིག་པ་གཅེར་སྣང་གི་སྐུ་དང",
+      "adzom_main_reading": "རིག་པ་གཅེར་སྣང་གི་སྐུ་དང",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row4",
+          "allocation_reason": "right"
+        },
+        {
+          "image_index": 430,
+          "rows_or_crop": "row5",
+          "allocation_reason": "left gyi sku dang"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000033",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-030",
+        "MTP-AUDIT-C01-031"
+      ],
+      "golden_reading": "དེ་ཐམས་ཅད་ཀྱང་རིག་པ་ངོ་བོའི་སྐུ་ལས་མ་གཡོས་ཏེ",
+      "adzom_main_reading": "དེ་ཐམས་ཅད་ཀྱང་རིག་པ་ངོ་བོའི་སྐུ་ལས་མ་གཡོས་ཏེ",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row5",
+          "allocation_reason": "left through center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000034",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-031"
+      ],
+      "golden_reading": "ངོ་བོའི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང",
+      "adzom_main_reading": "ངོ་བོའི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row5",
+          "allocation_reason": "center-right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000035",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-032"
+      ],
+      "golden_reading": "དཀར་བ་དང་དམར་བ་དང",
+      "adzom_main_reading": "དཀར་བ་དང་དམར་བ་དང",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row5",
+          "allocation_reason": "far-right dkar"
+        },
+        {
+          "image_index": 430,
+          "rows_or_crop": "row6",
+          "allocation_reason": "left continuation"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000036",
+      "status": "agrees",
+      "image_indices": [
+        430
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-033"
+      ],
+      "golden_reading": "སེར་པ་དང་ལྗང་གུ་དང་མཐིང་ག་ལ་སོགས་ཏེ",
+      "adzom_main_reading": "སེར་པ་དང་ལྗང་གུ་དང་མཐིང་ག་ལ་སོགས་ཏེ",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row6",
+          "allocation_reason": "center through right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000037",
+      "status": "agrees",
+      "image_indices": [
+        430,
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-034"
+      ],
+      "golden_reading": "ནང་རང་སྣང་གི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང",
+      "adzom_main_reading": "ནང་རང་སྣང་གི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང",
+      "spans": [
+        {
+          "image_index": 430,
+          "rows_or_crop": "row6",
+          "allocation_reason": "far-right opening"
+        },
+        {
+          "image_index": 431,
+          "rows_or_crop": "row1",
+          "allocation_reason": "left continuation"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000038",
+      "status": "metadata",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-007"
+      ],
+      "golden_reading": "༤༢༡",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "margin / electronic context",
+          "allocation_reason": "printed page number421"
+        }
+      ],
+      "comparison_scope": "Electronic control or printed page-label mapping only.",
+      "confidence": "metadata",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000039",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-034",
+        "MTP-AUDIT-C01-035"
+      ],
+      "golden_reading": "ཕྱི་ཡུལ་གྱི་འཁོར་འདི་ལྟ་སྟེ",
+      "adzom_main_reading": "ཕྱི་ཡུལ་གྱི་འཁོར་འདི་ལྟ་སྟེ",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row1",
+          "allocation_reason": "center through right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000040",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-036"
+      ],
+      "golden_reading": "དེ་བཞིན་གཤེགས་པའི་རིགས་དང",
+      "adzom_main_reading": "དེ་བཞིན་གཤེགས་པའི་རིགས་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row1",
+          "allocation_reason": "far-right de bzhin"
+        },
+        {
+          "image_index": 431,
+          "rows_or_crop": "row2",
+          "allocation_reason": "left continuation"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000041",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-037"
+      ],
+      "golden_reading": "རྡོ་རྗེའི་རིགས་དང",
+      "adzom_main_reading": "རྡོ་རྗེའི་རིགས་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row2",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000042",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-038"
+      ],
+      "golden_reading": "རིན་པོ་ཆེའི་རིགས་དང",
+      "adzom_main_reading": "རིན་པོ་ཆེའི་རིགས་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row2",
+          "allocation_reason": "center-right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": "Golden correction agrees with the printed cluster; it is a correction of the base electronic transcript, not a departure from Adzom."
+    },
+    {
+      "anchor_id": "MTP-S000043",
+      "status": "differs",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-076"
+      ],
+      "golden_reading": "པད་མའི་རིགས་དང",
+      "adzom_main_reading": "པདྨའི་རིགས་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row2",
+          "allocation_reason": "right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000044",
+      "status": "uncertain",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-039",
+        "MTP-AUDIT-C01-077"
+      ],
+      "golden_reading": "བྱ་བ་དང་བྲལ་ཀྱི་རིགས་དང",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row2",
+          "allocation_reason": "far-right opening"
+        },
+        {
+          "image_index": 431,
+          "rows_or_crop": "row3",
+          "allocation_reason": "left genitive and rigs dang"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "uncertain",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000045",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "ཁྲོ་བོ་ཕྱག་ན་རྡོ་རྗེ་དང",
+      "adzom_main_reading": "ཁྲོ་བོ་ཕྱག་ན་རྡོ་རྗེ་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row3",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000046",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "རྟ་མགྲིན་དང",
+      "adzom_main_reading": "རྟ་མགྲིན་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row3",
+          "allocation_reason": "center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000047",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "ཡེ་ཤེས་ཀྱི་གཤིན་རྗེ་དང",
+      "adzom_main_reading": "ཡེ་ཤེས་ཀྱི་གཤིན་རྗེ་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row3",
+          "allocation_reason": "center-right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000048",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-040"
+      ],
+      "golden_reading": "ལས་ཀྱི་མཁའ་འགྲོ་མའི་ཚོགས་ལ་སོགས་ཏེ",
+      "adzom_main_reading": "ལས་ཀྱི་མཁའ་འགྲོ་མའི་ཚོགས་ལ་སོགས་ཏེ",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row3",
+          "allocation_reason": "right"
+        },
+        {
+          "image_index": 431,
+          "rows_or_crop": "row4",
+          "allocation_reason": "left sogs te"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000049",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "དཔག་ཏུ་མེད་པ་དང",
+      "adzom_main_reading": "དཔག་ཏུ་མེད་པ་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row4",
+          "allocation_reason": "left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000050",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-041"
+      ],
+      "golden_reading": "ཕྱི་ཡུལ་ལ་སྣང་བ་འདུལ་བའི་འཁོར་ཐུབ་པ་དྲུག་དང",
+      "adzom_main_reading": "ཕྱི་ཡུལ་ལ་སྣང་བ་འདུལ་བའི་འཁོར་ཐུབ་པ་དྲུག་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row4",
+          "allocation_reason": "left-center through center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000051",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-042"
+      ],
+      "golden_reading": "འགྲོ་བ་འདུལ་བའི་སྤྲུལ་པའི་སྐུ",
+      "adzom_main_reading": "འགྲོ་བ་འདུལ་བའི་སྤྲུལ་པའི་སྐུ",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row4",
+          "allocation_reason": "right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000052",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "བསམ་གྱིས་མི་ཁྱབ་པ་དང",
+      "adzom_main_reading": "བསམ་གྱིས་མི་ཁྱབ་པ་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row4",
+          "allocation_reason": "far-right bsam gyis"
+        },
+        {
+          "image_index": 431,
+          "rows_or_crop": "row5",
+          "allocation_reason": "left mi khyab pa dang"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000053",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-043"
+      ],
+      "golden_reading": "འཛིན་བྱེད་འཁྲུལ་པའི་འཁོར་འདི་ལྟ་སྟེ",
+      "adzom_main_reading": "འཛིན་བྱེད་འཁྲུལ་པའི་འཁོར་འདི་ལྟ་སྟེ",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row5",
+          "allocation_reason": "left through right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000054",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-044"
+      ],
+      "golden_reading": "མ་རིག་པ་དང",
+      "adzom_main_reading": "མ་རིག་པ་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row5",
+          "allocation_reason": "right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000055",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-045"
+      ],
+      "golden_reading": "སེམས་དང",
+      "adzom_main_reading": "སེམས་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row5",
+          "allocation_reason": "far-right preceding note"
+        },
+        {
+          "image_index": 431,
+          "rows_or_crop": "row6",
+          "allocation_reason": "left sems dang"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000056",
+      "status": "agrees",
+      "image_indices": [
+        431
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-046"
+      ],
+      "golden_reading": "ཡིད་དང",
+      "adzom_main_reading": "ཡིད་དང",
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row6",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000057",
+      "status": "uncertain",
+      "image_indices": [
+        431,
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-078"
+      ],
+      "golden_reading": "ཉོན་མོངས་པ་ལྔ་དང",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 431,
+          "rows_or_crop": "row6",
+          "allocation_reason": "right nyon mongs pa through enumerated list and lnga"
+        },
+        {
+          "image_index": 432,
+          "rows_or_crop": "row1",
+          "allocation_reason": "left final dang"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "uncertain",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000058",
+      "status": "metadata",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-008"
+      ],
+      "golden_reading": "༤༢༢",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "margin / electronic context",
+          "allocation_reason": "printed page number422"
+        }
+      ],
+      "comparison_scope": "Electronic control or printed page-label mapping only.",
+      "confidence": "metadata",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000059",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-065"
+      ],
+      "golden_reading": "འཛིན་པ་དང",
+      "adzom_main_reading": "འཛིན་པ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row1",
+          "allocation_reason": "left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000060",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-066"
+      ],
+      "golden_reading": "རྟོག་པ་དང",
+      "adzom_main_reading": "རྟོག་པ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row1",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000061",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-067"
+      ],
+      "golden_reading": "མི་དགེ་བ་ལ་སོགས་པ་དང",
+      "adzom_main_reading": "མི་དགེ་བ་ལ་སོགས་པ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row1",
+          "allocation_reason": "center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000062",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-047"
+      ],
+      "golden_reading": "དེའི་སྣང་བའི་འཁོར་འདི་ལྟ་སྟེ",
+      "adzom_main_reading": "དེའི་སྣང་བའི་འཁོར་འདི་ལྟ་སྟེ",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row1",
+          "allocation_reason": "center-right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000063",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-068"
+      ],
+      "golden_reading": "ཡུལ་དང",
+      "adzom_main_reading": "ཡུལ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row1",
+          "allocation_reason": "right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000064",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-069"
+      ],
+      "golden_reading": "ཤེས་པ་དང",
+      "adzom_main_reading": "ཤེས་པ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row2",
+          "allocation_reason": "left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000065",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-070"
+      ],
+      "golden_reading": "དྲན་པ་དང",
+      "adzom_main_reading": "དྲན་པ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row2",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000066",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-071"
+      ],
+      "golden_reading": "མཐོང་བྱེད་དང",
+      "adzom_main_reading": "མཐོང་བྱེད་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row2",
+          "allocation_reason": "center-left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000067",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-072"
+      ],
+      "golden_reading": "ཉན་བྱེད་དང",
+      "adzom_main_reading": "ཉན་བྱེད་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row2",
+          "allocation_reason": "center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000068",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-073"
+      ],
+      "golden_reading": "སྣོམ་བྱེད་དང",
+      "adzom_main_reading": "སྣོམ་བྱེད་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row2",
+          "allocation_reason": "right half, left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000069",
+      "status": "uncertain",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-074",
+        "MTP-AUDIT-C01-079"
+      ],
+      "golden_reading": "མྱོན་བྱེད་དང",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row2",
+          "allocation_reason": "right half, center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "uncertain",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000070",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-075"
+      ],
+      "golden_reading": "འདུ་བྱེད་དང",
+      "adzom_main_reading": "འདུ་བྱེད་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row2",
+          "allocation_reason": "right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000071",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-048"
+      ],
+      "golden_reading": "གཟུགས་དང",
+      "adzom_main_reading": "གཟུགས་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row2",
+          "allocation_reason": "far-right gzugs"
+        },
+        {
+          "image_index": 432,
+          "rows_or_crop": "row3",
+          "allocation_reason": "left continuation and dang"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000072",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-049"
+      ],
+      "golden_reading": "སྒྲ་དང",
+      "adzom_main_reading": "སྒྲ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row3",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000073",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-050"
+      ],
+      "golden_reading": "དྲི་དང",
+      "adzom_main_reading": "དྲི་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row3",
+          "allocation_reason": "center-left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000074",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-051"
+      ],
+      "golden_reading": "རོ་དང",
+      "adzom_main_reading": "རོ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row3",
+          "allocation_reason": "center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000075",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-052"
+      ],
+      "golden_reading": "རེག་བྱ་དང",
+      "adzom_main_reading": "རེག་བྱ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row3",
+          "allocation_reason": "center-right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000076",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-053",
+        "MTP-AUDIT-C01-054"
+      ],
+      "golden_reading": "ཆོས་ལ་སོགས་པ་དང",
+      "adzom_main_reading": "ཆོས་ལ་སོགས་པ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row3",
+          "allocation_reason": "right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000077",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-054"
+      ],
+      "golden_reading": "ལྷ་དང",
+      "adzom_main_reading": "ལྷ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row4",
+          "allocation_reason": "left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000078",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "ལྷ་མ་ཡིན་དང",
+      "adzom_main_reading": "ལྷ་མ་ཡིན་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row4",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": "Golden correction agrees with the printed cluster; it is a correction of the base electronic transcript, not a departure from Adzom."
+    },
+    {
+      "anchor_id": "MTP-S000079",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "དྲི་ཟ་དང",
+      "adzom_main_reading": "དྲི་ཟ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row4",
+          "allocation_reason": "center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000080",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-055",
+        "MTP-AUDIT-C01-056"
+      ],
+      "golden_reading": "བྱང་ཆུབ་སེམས་དཔའི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང",
+      "adzom_main_reading": "བྱང་ཆུབ་སེམས་དཔའི་འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row4",
+          "allocation_reason": "center through right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000081",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-056"
+      ],
+      "golden_reading": "འདུལ་བ་དང",
+      "adzom_main_reading": "འདུལ་བ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row5",
+          "allocation_reason": "left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000082",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-057"
+      ],
+      "golden_reading": "མདོ་སྡེ་དང",
+      "adzom_main_reading": "མདོ་སྡེ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row5",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000083",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-058"
+      ],
+      "golden_reading": "མངོན་པ་ལ་སོགས་པ་དང",
+      "adzom_main_reading": "མངོན་པ་ལ་སོགས་པ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row5",
+          "allocation_reason": "center through right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000084",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-059"
+      ],
+      "golden_reading": "འཇིག་ཚོགས་སུ་བལྟ་བ་དང",
+      "adzom_main_reading": "འཇིག་ཚོགས་སུ་བལྟ་བ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row5",
+          "allocation_reason": "right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000085",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-060"
+      ],
+      "golden_reading": "ཉན་ཐོས་དང",
+      "adzom_main_reading": "ཉན་ཐོས་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row6",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000086",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-061"
+      ],
+      "golden_reading": "རང་རྒྱལ་དང",
+      "adzom_main_reading": "རང་རྒྱལ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row6",
+          "allocation_reason": "center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000087",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-062"
+      ],
+      "golden_reading": "བྱང་ཆུབ་སེམས་དཔའ་དང",
+      "adzom_main_reading": "བྱང་ཆུབ་སེམས་དཔའ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row6",
+          "allocation_reason": "center-right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000088",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-063"
+      ],
+      "golden_reading": "ཀྲི་ཡ་དང",
+      "adzom_main_reading": "ཀྲི་ཡ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row6",
+          "allocation_reason": "right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000089",
+      "status": "agrees",
+      "image_indices": [
+        432
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "ཨུ་པ་དང",
+      "adzom_main_reading": "ཨུ་པ་དང",
+      "spans": [
+        {
+          "image_index": 432,
+          "rows_or_crop": "row6",
+          "allocation_reason": "far right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000090",
+      "status": "metadata",
+      "image_indices": [
+        433
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-002",
+        "MTP-AUDIT-C01-009"
+      ],
+      "golden_reading": "༤༢༣",
+      "adzom_main_reading": null,
+      "spans": [
+        {
+          "image_index": 433,
+          "rows_or_crop": "margin / electronic context",
+          "allocation_reason": "printed page number423"
+        }
+      ],
+      "comparison_scope": "Electronic control or printed page-label mapping only.",
+      "confidence": "metadata",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000091",
+      "status": "agrees",
+      "image_indices": [
+        433
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "ཡོ་ག་དང",
+      "adzom_main_reading": "ཡོ་ག་དང",
+      "spans": [
+        {
+          "image_index": 433,
+          "rows_or_crop": "row1",
+          "allocation_reason": "left"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000092",
+      "status": "agrees",
+      "image_indices": [
+        433
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "ནང་ལྟར་མ་ཧ་དང",
+      "adzom_main_reading": "ནང་ལྟར་མ་ཧ་དང",
+      "spans": [
+        {
+          "image_index": 433,
+          "rows_or_crop": "row1",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000093",
+      "status": "agrees",
+      "image_indices": [
+        433
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-064"
+      ],
+      "golden_reading": "ཨ་ནུ་དང",
+      "adzom_main_reading": "ཨ་ནུ་དང",
+      "spans": [
+        {
+          "image_index": 433,
+          "rows_or_crop": "row1",
+          "allocation_reason": "center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000094",
+      "status": "agrees",
+      "image_indices": [
+        433
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001",
+        "MTP-AUDIT-C01-064"
+      ],
+      "golden_reading": "ཨ་ཏི་ལ་སོགས་ཏེ་དཔག་ཏུ་མེད་པའི་འཁོར་སྣ་ཚོགས་སུ་སྣང་བ་དང",
+      "adzom_main_reading": "ཨ་ཏི་ལ་སོགས་ཏེ་དཔག་ཏུ་མེད་པའི་འཁོར་སྣ་ཚོགས་སུ་སྣང་བ་དང",
+      "spans": [
+        {
+          "image_index": 433,
+          "rows_or_crop": "row1",
+          "allocation_reason": "center-right through right"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000095",
+      "status": "agrees",
+      "image_indices": [
+        433
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "ཐབས་ཅིག་ཏུ་བཞུགས་སོ",
+      "adzom_main_reading": "ཐབས་ཅིག་ཏུ་བཞུགས་སོ",
+      "spans": [
+        {
+          "image_index": 433,
+          "rows_or_crop": "row1",
+          "allocation_reason": "far-right thabs"
+        },
+        {
+          "image_index": 433,
+          "rows_or_crop": "row2",
+          "allocation_reason": "left cig tu bzhugs so"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000096",
+      "status": "agrees",
+      "image_indices": [
+        433
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+      "adzom_main_reading": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+      "spans": [
+        {
+          "image_index": 433,
+          "rows_or_crop": "row2",
+          "allocation_reason": "left-center"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    },
+    {
+      "anchor_id": "MTP-S000097",
+      "status": "agrees",
+      "image_indices": [
+        433
+      ],
+      "findings": [
+        "MTP-AUDIT-C01-001"
+      ],
+      "golden_reading": "གླེང་གཞིའི་ལེའུ་སྟེ་དང་པོའོ",
+      "adzom_main_reading": "གླེང་གཞིའི་ལེའུ་སྟེ་དང་པོའོ",
+      "spans": [
+        {
+          "image_index": 433,
+          "rows_or_crop": "row2",
+          "allocation_reason": "center through center-right, ending dang po o before double boundary"
+        }
+      ],
+      "comparison_scope": "Entire selected main/heading/colophon word sequence across the listed native spans; source-only insertions are separately recorded, and punctuation follows the presentation convention.",
+      "confidence": "high",
+      "review_note": ""
+    }
+  ],
+  "findings": [
+    {
+      "id": "MTP-AUDIT-C01-001",
+      "type": "presentation",
+      "anchor_ids": [
+        "MTP-S000002",
+        "MTP-S000003",
+        "MTP-S000004",
+        "MTP-S000005",
+        "MTP-S000006",
+        "MTP-S000007",
+        "MTP-S000008",
+        "MTP-S000009",
+        "MTP-S000010",
+        "MTP-S000011",
+        "MTP-S000012",
+        "MTP-S000013",
+        "MTP-S000014",
+        "MTP-S000015",
+        "MTP-S000016",
+        "MTP-S000017",
+        "MTP-S000018",
+        "MTP-S000019",
+        "MTP-S000020",
+        "MTP-S000021",
+        "MTP-S000022",
+        "MTP-S000023",
+        "MTP-S000024",
+        "MTP-S000025",
+        "MTP-S000026",
+        "MTP-S000027",
+        "MTP-S000028",
+        "MTP-S000029",
+        "MTP-S000030",
+        "MTP-S000031",
+        "MTP-S000032",
+        "MTP-S000033",
+        "MTP-S000034",
+        "MTP-S000035",
+        "MTP-S000036",
+        "MTP-S000037",
+        "MTP-S000038",
+        "MTP-S000039",
+        "MTP-S000040",
+        "MTP-S000041",
+        "MTP-S000042",
+        "MTP-S000043",
+        "MTP-S000044",
+        "MTP-S000045",
+        "MTP-S000046",
+        "MTP-S000047",
+        "MTP-S000048",
+        "MTP-S000049",
+        "MTP-S000050",
+        "MTP-S000051",
+        "MTP-S000052",
+        "MTP-S000053",
+        "MTP-S000054",
+        "MTP-S000055",
+        "MTP-S000056",
+        "MTP-S000057",
+        "MTP-S000058",
+        "MTP-S000059",
+        "MTP-S000060",
+        "MTP-S000061",
+        "MTP-S000062",
+        "MTP-S000063",
+        "MTP-S000064",
+        "MTP-S000065",
+        "MTP-S000066",
+        "MTP-S000067",
+        "MTP-S000068",
+        "MTP-S000069",
+        "MTP-S000070",
+        "MTP-S000071",
+        "MTP-S000072",
+        "MTP-S000073",
+        "MTP-S000074",
+        "MTP-S000075",
+        "MTP-S000076",
+        "MTP-S000077",
+        "MTP-S000078",
+        "MTP-S000079",
+        "MTP-S000080",
+        "MTP-S000081",
+        "MTP-S000082",
+        "MTP-S000083",
+        "MTP-S000084",
+        "MTP-S000085",
+        "MTP-S000086",
+        "MTP-S000087",
+        "MTP-S000088",
+        "MTP-S000089",
+        "MTP-S000090",
+        "MTP-S000091",
+        "MTP-S000092",
+        "MTP-S000093",
+        "MTP-S000094",
+        "MTP-S000095",
+        "MTP-S000096",
+        "MTP-S000097"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Across printed417–423, the fixed golden preserves electronic segmentation and generally omits printed shads, double shads, ornamental headmarks, insertion dots and physical line/page breaks. This is an explicit display convention, not a lexical emendation; main words and local source-only content are separately checked below.",
+      "english_consequence": "English punctuation and paragraphing express the fixed golden sequence; the physical shads, decorative marks and line breaks are not reproduced as root wording.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00427.png",
+          "sha256": "9f8b9df2801dc370550a4e9c956cb4e95095ee91b2ed6762dd3953997cfd0ae7",
+          "image_index": 427,
+          "printed_page": 417,
+          "rows_or_crop": "all chapter1 rows",
+          "allocation_reason": "Entire chapter1 span on this page; image433 only through row2 chapter1 closure."
+        },
+        {
+          "path": "evidence/golden/01/00428.png",
+          "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+          "image_index": 428,
+          "printed_page": 418,
+          "rows_or_crop": "all chapter1 rows",
+          "allocation_reason": "Entire chapter1 span on this page; image433 only through row2 chapter1 closure."
+        },
+        {
+          "path": "evidence/golden/01/00429.png",
+          "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+          "image_index": 429,
+          "printed_page": 419,
+          "rows_or_crop": "all chapter1 rows",
+          "allocation_reason": "Entire chapter1 span on this page; image433 only through row2 chapter1 closure."
+        },
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "all chapter1 rows",
+          "allocation_reason": "Entire chapter1 span on this page; image433 only through row2 chapter1 closure."
+        },
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "all chapter1 rows",
+          "allocation_reason": "Entire chapter1 span on this page; image433 only through row2 chapter1 closure."
+        },
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "all chapter1 rows",
+          "allocation_reason": "Entire chapter1 span on this page; image433 only through row2 chapter1 closure."
+        },
+        {
+          "path": "evidence/golden/01/00433.png",
+          "sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+          "image_index": 433,
+          "printed_page": 423,
+          "rows_or_crop": "all chapter1 rows",
+          "allocation_reason": "Entire chapter1 span on this page; image433 only through row2 chapter1 closure."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "class policy",
+        "layer": "presentation"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-002",
+      "type": "presentation",
+      "anchor_ids": [
+        "MTP-S000002",
+        "MTP-S000003",
+        "MTP-S000005",
+        "MTP-S000015",
+        "MTP-S000022",
+        "MTP-S000038",
+        "MTP-S000058",
+        "MTP-S000090"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "The blank source object and @1-derived chapter control are electronic. Tibetan numeral page anchors represent the corresponding Arabic printed page labels; they are not additional root wording. The physical decorative headmark is not an exact glyph equivalent of the electronic chapter control.",
+      "english_consequence": "The English gives explicit metadata labels. These chapter/page controls add no root-text words.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00427.png",
+          "sha256": "9f8b9df2801dc370550a4e9c956cb4e95095ee91b2ed6762dd3953997cfd0ae7",
+          "image_index": 427,
+          "printed_page": 417,
+          "rows_or_crop": "upper-left printed page label and page frame",
+          "allocation_reason": "Page-label/context allocation, not a root-text reading."
+        },
+        {
+          "path": "evidence/golden/01/00428.png",
+          "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+          "image_index": 428,
+          "printed_page": 418,
+          "rows_or_crop": "upper-left printed page label and page frame",
+          "allocation_reason": "Page-label/context allocation, not a root-text reading."
+        },
+        {
+          "path": "evidence/golden/01/00429.png",
+          "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+          "image_index": 429,
+          "printed_page": 419,
+          "rows_or_crop": "upper-left printed page label and page frame",
+          "allocation_reason": "Page-label/context allocation, not a root-text reading."
+        },
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "upper-left printed page label and page frame",
+          "allocation_reason": "Page-label/context allocation, not a root-text reading."
+        },
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "upper-left printed page label and page frame",
+          "allocation_reason": "Page-label/context allocation, not a root-text reading."
+        },
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "upper-left printed page label and page frame",
+          "allocation_reason": "Page-label/context allocation, not a root-text reading."
+        },
+        {
+          "path": "evidence/golden/01/00433.png",
+          "sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+          "image_index": 433,
+          "printed_page": 423,
+          "rows_or_crop": "upper-left printed page label and page frame",
+          "allocation_reason": "Page-label/context allocation, not a root-text reading."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "metadata mapping",
+        "layer": "metadata"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-003",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000003"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Printed page417 contains marginal running-title/folio lettering in the left frame not represented by the numeric golden page anchor. Its exact small marginal wording is left untranscribed in this audit; it is distinct from the horizontal root text.",
+      "english_consequence": "The English page label identifies this page but does not translate the untranscribed marginal lettering.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00427.png",
+          "sha256": "9f8b9df2801dc370550a4e9c956cb4e95095ee91b2ed6762dd3953997cfd0ae7",
+          "image_index": 427,
+          "printed_page": 417,
+          "rows_or_crop": "left vertical margin / frame",
+          "allocation_reason": "Visible marginal lettering on this exact page, outside the horizontal chapter text."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "marginal paratext"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-004",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000005"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Printed page418 contains marginal running-title/folio lettering in the left frame not represented by the numeric golden page anchor. Its exact small marginal wording is left untranscribed in this audit; it is distinct from the horizontal root text.",
+      "english_consequence": "The English page label identifies this page but does not translate the untranscribed marginal lettering.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00428.png",
+          "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+          "image_index": 428,
+          "printed_page": 418,
+          "rows_or_crop": "left vertical margin / frame",
+          "allocation_reason": "Visible marginal lettering on this exact page, outside the horizontal chapter text."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "marginal paratext"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-005",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000015"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Printed page419 contains marginal running-title/folio lettering in the left frame not represented by the numeric golden page anchor. Its exact small marginal wording is left untranscribed in this audit; it is distinct from the horizontal root text.",
+      "english_consequence": "The English page label identifies this page but does not translate the untranscribed marginal lettering.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00429.png",
+          "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+          "image_index": 429,
+          "printed_page": 419,
+          "rows_or_crop": "left vertical margin / frame",
+          "allocation_reason": "Visible marginal lettering on this exact page, outside the horizontal chapter text."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "marginal paratext"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-006",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000022"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Printed page420 contains marginal running-title/folio lettering in the left frame not represented by the numeric golden page anchor. Its exact small marginal wording is left untranscribed in this audit; it is distinct from the horizontal root text.",
+      "english_consequence": "The English page label identifies this page but does not translate the untranscribed marginal lettering.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "left vertical margin / frame",
+          "allocation_reason": "Visible marginal lettering on this exact page, outside the horizontal chapter text."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "marginal paratext"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-007",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000038"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Printed page421 contains marginal running-title/folio lettering in the left frame not represented by the numeric golden page anchor. Its exact small marginal wording is left untranscribed in this audit; it is distinct from the horizontal root text.",
+      "english_consequence": "The English page label identifies this page but does not translate the untranscribed marginal lettering.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "left vertical margin / frame",
+          "allocation_reason": "Visible marginal lettering on this exact page, outside the horizontal chapter text."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "marginal paratext"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-008",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000058"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Printed page422 contains marginal running-title/folio lettering in the left frame not represented by the numeric golden page anchor. Its exact small marginal wording is left untranscribed in this audit; it is distinct from the horizontal root text.",
+      "english_consequence": "The English page label identifies this page but does not translate the untranscribed marginal lettering.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "left vertical margin / frame",
+          "allocation_reason": "Visible marginal lettering on this exact page, outside the horizontal chapter text."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "marginal paratext"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-009",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000090"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Printed page423 contains marginal running-title/folio lettering in the left frame not represented by the numeric golden page anchor. Its exact small marginal wording is left untranscribed in this audit; it is distinct from the horizontal root text.",
+      "english_consequence": "The English page label identifies this page but does not translate the untranscribed marginal lettering.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00433.png",
+          "sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+          "image_index": 433,
+          "printed_page": 423,
+          "rows_or_crop": "left vertical margin / frame",
+          "allocation_reason": "Visible marginal lettering on this exact page, outside the horizontal chapter text."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "marginal paratext"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-010",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000006"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "After རྒྱ་གར་སྐད་དུ and before བོད་སྐད་དུ, Adzom prints a compact Sanskrit title absent from the fixed golden. The title is physically present, but its complete grapheme/stack transcription is unresolved; no lexical reconstruction is supplied.",
+      "english_consequence": "The English translates the language heading only. The printed Sanskrit title is absent from the golden and remains untranscribed; no Sanskrit title is reconstructed here.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00428.png",
+          "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+          "image_index": 428,
+          "printed_page": 418,
+          "rows_or_crop": "row1 center after Sanskrit-language heading",
+          "allocation_reason": "Native title span between the two language headings; also visible in the row1-left crop."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "unresolved",
+        "layer": "title"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-011",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000009"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "A small source insertion lies after བཅོམ་ལྡན་འདས and before རིག་པའི; exact wording remains untranscribed.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00428.png",
+          "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+          "image_index": 428,
+          "printed_page": 418,
+          "rows_or_crop": "row1 right / row2 left",
+          "allocation_reason": "A small source insertion lies after བཅོམ་ལྡན་འདས and before རིག་པའི; exact wording remains untranscribed."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-012",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000011"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording follows ཀྱེ་མ before the main འཁྲུལ་པའི་བདག་ཉིད sequence; it is not in the golden.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00428.png",
+          "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+          "image_index": 428,
+          "printed_page": 418,
+          "rows_or_crop": "row3 left-center",
+          "allocation_reason": "Smaller wording follows ཀྱེ་མ before the main འཁྲུལ་པའི་བདག་ཉིད sequence; it is not in the golden."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-013",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000011",
+        "MTP-S000012"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after ཉོན་ཅིག and before the row4 ང་མེད་པའི opening is omitted; its attachment remains untranscribed.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00428.png",
+          "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+          "image_index": 428,
+          "printed_page": 418,
+          "rows_or_crop": "row3 right",
+          "allocation_reason": "Smaller wording after ཉོན་ཅིག and before the row4 ང་མེད་པའི opening is omitted; its attachment remains untranscribed."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-014",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000012",
+        "MTP-S000013"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after སྔོན་རོལ་ན and before འཁྲུལ་པ་མེད་པའི་རིག་པ is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00428.png",
+          "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+          "image_index": 428,
+          "printed_page": 418,
+          "rows_or_crop": "row4 left-center",
+          "allocation_reason": "Smaller wording after སྔོན་རོལ་ན and before འཁྲུལ་པ་མེད་པའི་རིག་པ is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-015",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000014"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording intervenes between ཞེས་བྱ་བ and ཡོད; its full reading remains untranscribed.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00428.png",
+          "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+          "image_index": 428,
+          "printed_page": 418,
+          "rows_or_crop": "row4 right",
+          "allocation_reason": "Smaller wording intervenes between ཞེས་བྱ་བ and ཡོད; its full reading remains untranscribed."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-016",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000016"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording occurs after ཆོ་འཕྲུལ, before ཆེན་པོ, and again after ཆེར་བྱུང་སྟེ; both insertions are omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00429.png",
+          "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+          "image_index": 429,
+          "printed_page": 419,
+          "rows_or_crop": "row1 center-right",
+          "allocation_reason": "Smaller wording occurs after ཆོ་འཕྲུལ, before ཆེན་པོ, and again after ཆེར་བྱུང་སྟེ; both insertions are omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-017",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000018"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after དེའི་ཚེ and before སྣང་བ་འདུ་བྱེད is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00429.png",
+          "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+          "image_index": 429,
+          "printed_page": 419,
+          "rows_or_crop": "row2 center",
+          "allocation_reason": "Smaller wording after དེའི་ཚེ and before སྣང་བ་འདུ་བྱེད is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-018",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000019"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording follows initial སྣང་བ across the row break; further notes occur after རིག་པས and near དུ་མ་ལྟར before བྱུང་ངོ. These three located insertions are omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00429.png",
+          "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+          "image_index": 429,
+          "printed_page": 419,
+          "rows_or_crop": "row2 right through row3 center-right",
+          "allocation_reason": "Smaller wording follows initial སྣང་བ across the row break; further notes occur after རིག་པས and near དུ་མ་ལྟར before བྱུང་ངོ. These three located insertions are omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-019",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000020"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after འཁྲུལ་པའི་སྣང་བ crosses into row4 before ཞིང་ཁམས; another note follows ཐབས་མཆོག་ཏུ before ངས་བསྟན་གྱིས. Both are omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00429.png",
+          "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+          "image_index": 429,
+          "printed_page": 419,
+          "rows_or_crop": "row3 right through row4 center",
+          "allocation_reason": "Smaller wording after འཁྲུལ་པའི་སྣང་བ crosses into row4 before ཞིང་ཁམས; another note follows ཐབས་མཆོག་ཏུ before ངས་བསྟན་གྱིས. Both are omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-020",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000021"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between ལེགས་པའི and the next-page ཚུལ་གསུམ is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00429.png",
+          "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+          "image_index": 429,
+          "printed_page": 419,
+          "rows_or_crop": "row4 right",
+          "allocation_reason": "Smaller wording between ལེགས་པའི and the next-page ཚུལ་གསུམ is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-021",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000023"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after དེ་ནས and before གསང་བའི་བདག་པོས is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row1 left-center",
+          "allocation_reason": "Smaller wording after དེ་ནས and before གསང་བའི་བདག་པོས is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-022",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000024"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording follows འདི་སྐད across the row break before བདག་གིས; further small wording occurs around དུས་གཅིག and before the next ཆ་ཡིས phrase. The local insertions remain untranscribed.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row1 right through row2 center",
+          "allocation_reason": "Smaller wording follows འདི་སྐད across the row break before བདག་གིས; further small wording occurs around དུས་གཅིག and before the next ཆ་ཡིས phrase. The local insertions remain untranscribed."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-023",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000025"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording intervenes after མ་བགོས་པའི before གཞལ་ཡས, and after ཁང་དམ་པ before ཐུགས. Both are omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row2 right / row3 left",
+          "allocation_reason": "Smaller wording intervenes after མ་བགོས་པའི before གཞལ་ཡས, and after ཁང་དམ་པ before ཐུགས. Both are omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-024",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000026"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after དཀྱིལ་འཁོར་ན before the next རིག་པ is omitted; this is separate from the golden correction encoding the printed tta stack.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row3 center",
+          "allocation_reason": "Smaller wording after དཀྱིལ་འཁོར་ན before the next རིག་པ is omitted; this is separate from the golden correction encoding the printed tta stack."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-025",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000028"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between རིག་པ and རྡོ་རྗེ་ལུ་གུ་རྒྱུད is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row3 right",
+          "allocation_reason": "Smaller wording between རིག་པ and རྡོ་རྗེ་ལུ་གུ་རྒྱུད is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-026",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000029"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between རིག་པ and རང་སྣང་གི is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row4 left",
+          "allocation_reason": "Smaller wording between རིག་པ and རང་སྣང་གི is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-027",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000030"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between རིག་པ and ཅོག་བཞག་གི is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row4 left-center",
+          "allocation_reason": "Smaller wording between རིག་པ and ཅོག་བཞག་གི is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-028",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000031"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between ཐོགས་པ་མེད་པའི and སྐུ་དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row4 center-right",
+          "allocation_reason": "Smaller wording between ཐོགས་པ་མེད་པའི and སྐུ་དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-029",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000032"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after གཅེར་སྣང extends across the physical line break before གི་སྐུ་དང; it is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row4 right through row5 left",
+          "allocation_reason": "Smaller wording after གཅེར་སྣང extends across the physical line break before གི་སྐུ་དང; it is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-030",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000033"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between དེ་ཐམས་ཅད་ཀྱང and རིག་པ་ངོ་བོའི is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row5 left-center",
+          "allocation_reason": "Smaller wording between དེ་ཐམས་ཅད་ཀྱང and རིག་པ་ངོ་བོའི is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-031",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000033",
+        "MTP-S000034"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between མ་གཡོས་ཏེ and ངོ་བོའི་འཁོར is omitted; its exact attachment remains untranscribed.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row5 center-right",
+          "allocation_reason": "Smaller wording between མ་གཡོས་ཏེ and ངོ་བོའི་འཁོར is omitted; its exact attachment remains untranscribed."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-032",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000035"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller insertions after དཀར་བ་དང and after དམར་བ་དང are omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row6 left",
+          "allocation_reason": "Smaller insertions after དཀར་བ་དང and after དམར་བ་དང are omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-033",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000036"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller insertions after སེར་པ་དང, after ལྗང་གུ་དང and after མཐིང་ག before ལ་སོགས་ཏེ are omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00430.png",
+          "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+          "image_index": 430,
+          "printed_page": 420,
+          "rows_or_crop": "row6 center through right",
+          "allocation_reason": "Smaller insertions after སེར་པ་དང, after ལྗང་གུ་དང and after མཐིང་ག before ལ་སོགས་ཏེ are omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-034",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000037",
+        "MTP-S000039"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after S37 འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང and before S39 ཕྱི་ཡུལ is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row1 left-center",
+          "allocation_reason": "Smaller wording after S37 འཁོར་བསམ་གྱིས་མི་ཁྱབ་པ་དང and before S39 ཕྱི་ཡུལ is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-035",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000039"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording follows ཕྱི་ཡུལ་གྱི་འཁོར before འདི་ལྟ་སྟེ and again after that phrase before དེ་བཞིན. Both insertions are omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row1 center-right",
+          "allocation_reason": "Smaller wording follows ཕྱི་ཡུལ་གྱི་འཁོར before འདི་ལྟ་སྟེ and again after that phrase before དེ་བཞིན. Both insertions are omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-036",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000040"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after གཤེགས་པའི་རིགས་དང and before རྡོ་རྗེའི is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row2 left",
+          "allocation_reason": "Smaller wording after གཤེགས་པའི་རིགས་དང and before རྡོ་རྗེའི is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-037",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000041"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after རྡོ་རྗེའི་རིགས་དང and before རིན་པོ་ཆེའི is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row2 center",
+          "allocation_reason": "Smaller wording after རྡོ་རྗེའི་རིགས་དང and before རིན་པོ་ཆེའི is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-038",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000042"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after རིན་པོ་ཆེའི་རིགས་དང and before the lotus-family phrase is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row2 right",
+          "allocation_reason": "Smaller wording after རིན་པོ་ཆེའི་རིགས་དང and before the lotus-family phrase is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-039",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000044"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording occurs around བྲལ at the line break, and after the genitive རིགས་དང before ཁྲོ་བོ. It is omitted; the genitive glyph has its own uncertainty finding.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row2 far right / row3 left",
+          "allocation_reason": "Smaller wording occurs around བྲལ at the line break, and after the genitive རིགས་དང before ཁྲོ་བོ. It is omitted; the genitive glyph has its own uncertainty finding."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-040",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000048"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between མཁའ་འགྲོ་མའི and ཚོགས་ལ is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row3 right",
+          "allocation_reason": "Smaller wording between མཁའ་འགྲོ་མའི and ཚོགས་ལ is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-041",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000050"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between ཐུབ་པ་དྲུག and final དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row4 center",
+          "allocation_reason": "Smaller wording between ཐུབ་པ་དྲུག and final དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-042",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000051"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after སྤྲུལ་པའི་སྐུ and before བསམ་གྱིས is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row4 right",
+          "allocation_reason": "Smaller wording after སྤྲུལ་པའི་སྐུ and before བསམ་གྱིས is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-043",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000053"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording follows འཛིན་བྱེད before འཁྲུལ་པའི, and after འདི་ལྟ་སྟེ. Both local insertions are omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row5 left through right",
+          "allocation_reason": "Smaller wording follows འཛིན་བྱེད before འཁྲུལ་པའི, and after འདི་ལྟ་སྟེ. Both local insertions are omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-044",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000054"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "A further smaller explanation before མ་རིག་པ་དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row5 right",
+          "allocation_reason": "A further smaller explanation before མ་རིག་པ་དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-045",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000055"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "བསམ་པ",
+      "explanation": "Printed explanatory བསམ་པ precedes སེམས་དང across the line boundary; it is absent from the golden. The explanatory-layer assignment is provisional.",
+      "english_consequence": "The print adds བསམ་པ, provisionally “thinking,” before ordinary mind. This explanatory wording is absent from the golden and is not inserted into its English; its layer assignment remains provisional.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row5 far right through row6 left",
+          "allocation_reason": "Printed explanatory བསམ་པ precedes སེམས་དང across the line boundary; it is absent from the golden. The explanatory-layer assignment is provisional."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-046",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000056"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "A long smaller explanation after ཡིད་དང and before ཉོན་མོངས་པ is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row6 left-center",
+          "allocation_reason": "A long smaller explanation after ཡིད་དང and before ཉོན་མོངས་པ is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-047",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000062"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between དེའི་སྣང་བའི་འཁོར and འདི་ལྟ་སྟེ is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row1 center-right",
+          "allocation_reason": "Smaller wording between དེའི་སྣང་བའི་འཁོར and འདི་ལྟ་སྟེ is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-048",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000071"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between གཟུགས and དང crosses the line break and is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row2 right through row3 left",
+          "allocation_reason": "Smaller wording between གཟུགས and དང crosses the line break and is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-049",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000072"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between སྒྲ and དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row3 left-center",
+          "allocation_reason": "Smaller wording between སྒྲ and དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-050",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000073"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between དྲི and དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row3 center-left",
+          "allocation_reason": "Smaller wording between དྲི and དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-051",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000074"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between རོ and དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row3 center",
+          "allocation_reason": "Smaller wording between རོ and དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-052",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000075"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between རེག་བྱ and དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row3 center-right",
+          "allocation_reason": "Smaller wording between རེག་བྱ and དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-053",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000076"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between ཆོས and ལ་སོགས་པ་དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row3 right",
+          "allocation_reason": "Smaller wording between ཆོས and ལ་སོགས་པ་དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-054",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000076",
+        "MTP-S000077"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording before ལྷ་དང, following the preceding list, is omitted; exact attachment remains untranscribed.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row4 left",
+          "allocation_reason": "Smaller wording before ལྷ་དང, following the preceding list, is omitted; exact attachment remains untranscribed."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-055",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000080"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between བྱང་ཆུབ་སེམས་དཔའི་འཁོར and བསམ་གྱིས is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row4 center-right",
+          "allocation_reason": "Smaller wording between བྱང་ཆུབ་སེམས་དཔའི་འཁོར and བསམ་གྱིས is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-056",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000080",
+        "MTP-S000081"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after S80 final དང continues across the row break before འདུལ་བ་དང; it is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row4 far right through row5 left",
+          "allocation_reason": "Smaller wording after S80 final དང continues across the row break before འདུལ་བ་དང; it is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-057",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000082"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "A small insertion within/alongside the མདོ་སྡེ label is omitted; exact wording and attachment remain untranscribed.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row5 left-center",
+          "allocation_reason": "A small insertion within/alongside the མདོ་སྡེ label is omitted; exact wording and attachment remain untranscribed."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-058",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000083"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording before མངོན་པ་ལ་སོགས་པ་དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row5 center",
+          "allocation_reason": "Smaller wording before མངོན་པ་ལ་སོགས་པ་དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-059",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000084"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording before འཇིག་ཚོགས་སུ་བལྟ་བ་དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row5 right",
+          "allocation_reason": "Smaller wording before འཇིག་ཚོགས་སུ་བལྟ་བ་དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-060",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000085"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording before ཉན་ཐོས་དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row6 left",
+          "allocation_reason": "Smaller wording before ཉན་ཐོས་དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-061",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000086"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording between ཉན་ཐོས་དང and རང་རྒྱལ་དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row6 center",
+          "allocation_reason": "Smaller wording between ཉན་ཐོས་དང and རང་རྒྱལ་དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-062",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000087"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording before བྱང་ཆུབ་སེམས་དཔའ་དང is omitted.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row6 center-right",
+          "allocation_reason": "Smaller wording before བྱང་ཆུབ་སེམས་དཔའ་དང is omitted."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-063",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000088"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording occurs between/alongside the printed ཀྲི and ཡ་དང; it is omitted and not folded into the Sanskrit label.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row6 right",
+          "allocation_reason": "Smaller wording occurs between/alongside the printed ཀྲི and ཡ་དང; it is omitted and not folded into the Sanskrit label."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-064",
+      "type": "source_layer",
+      "anchor_ids": [
+        "MTP-S000093",
+        "MTP-S000094"
+      ],
+      "golden_reading": "",
+      "adzom_reading": null,
+      "explanation": "Smaller wording after ཨ་ནུ་དང and before ཨ་ཏི is omitted; it remains separate from both vehicle labels.",
+      "english_consequence": "This locally identified printed annotation is absent from the golden and is not included in its English. Its untranscribed wording remains an open source question.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00433.png",
+          "sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+          "image_index": 433,
+          "printed_page": 423,
+          "rows_or_crop": "row1 center",
+          "allocation_reason": "Smaller wording after ཨ་ནུ་དང and before ཨ་ཏི is omitted; it remains separate from both vehicle labels."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "untranscribed",
+        "layer": "moderate; local note typography, not an inferred doctrinal repair"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-065",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000059"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "ཡུལ",
+      "explanation": "Adzom contains ཡུལ before འཛིན་པ་དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print adds ཡུལ (“object,” provisional) before the wording translated as “apprehending subject.” Whether this belongs to the root construction or an explanatory layer remains unresolved; the English follows the shorter golden.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row1; before འཛིན་པ་དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-066",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000060"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "སེམས་དང",
+      "explanation": "Adzom contains སེམས་དང between རྟོག་པ and final དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print adds སེམས་དང (“ordinary mind and”) inside the wording represented by “conceptual thought.” The golden-based English contains no such additional member at this location; the printed attachment and layer remain uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row1; between རྟོག་པ and final དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-067",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000061"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "བཅུ",
+      "explanation": "Adzom contains བཅུ between མི་དགེ་བ and ལ་སོགས་པ; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print specifies “ten” for nonvirtue. The golden-based English leaves the number unspecified at this location; the numeral’s layer remains uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row1; between མི་དགེ་བ and ལ་སོགས་པ",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-068",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000063"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "ལྔ",
+      "explanation": "Adzom contains ལྔ between ཡུལ and དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print specifies “five” objects. The golden-based English says only “objects”; the numeral’s layer remains uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row1; between ཡུལ and དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-069",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000064"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "ཚོགས",
+      "explanation": "Adzom contains ཚོགས between ཤེས་པ and དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print adds ཚོགས (“gathering,” provisional) to knowing. The golden-based English says only “knowing”; the modifier’s attachment and layer remain uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row2; between ཤེས་པ and དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-070",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000065"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "ཡིད",
+      "explanation": "Adzom contains ཡིད between དྲན་པ and དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print adds “mental faculty” to the mindfulness wording. The golden-based English says only “mindfulness”; the attachment and layer remain uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row2; between དྲན་པ and དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-071",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000066"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "མིག",
+      "explanation": "Adzom contains མིག between མཐོང་བྱེད and དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print names the eye beside “that which sees.” The golden-based English retains only the function; the organ name’s layer remains uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row2; between མཐོང་བྱེད and དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-072",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000067"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "རྣ",
+      "explanation": "Adzom contains རྣ between ཉན་བྱེད and དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print names the ear beside “that which hears.” The golden-based English retains only the function; the organ name’s layer remains uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row2; between ཉན་བྱེད and དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-073",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000068"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "སྣ",
+      "explanation": "Adzom contains སྣ between སྣོམ་བྱེད and དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print names the nose beside “that which smells.” The golden-based English retains only the function; the organ name’s layer remains uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row2; between སྣོམ་བྱེད and དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-074",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000069"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "ལྕེ",
+      "explanation": "Adzom contains ལྕེ between མྱོན་བྱེད and དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print names the tongue beside the provisional “that which tastes.” The golden-based English retains only the function; the organ name’s layer remains uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row2; between མྱོན་བྱེད and དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-075",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000070"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "ལུས",
+      "explanation": "Adzom contains ལུས between འདུ་བྱེད and དང; the fixed golden omits it. This is the exact locally visible insertion, not a reconstruction. Main versus explanatory-layer classification is not certified solely from the short glyphs.",
+      "english_consequence": "The print names the body beside the provisional “that which forms.” The golden-based English retains the difficult function wording without adding the body or silently changing it to touching; the printed layer remains uncertain.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row2; between འདུ་བྱེད and དང",
+          "allocation_reason": "Direct native row comparison with the named main-text neighbors."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-076",
+      "type": "adzom_difference",
+      "anchor_ids": [
+        "MTP-S000043"
+      ],
+      "golden_reading": "པད་མའི་རིགས་དང",
+      "adzom_reading": "པདྨའི་རིགས་དང",
+      "explanation": "Native431 row2 writes the lotus word with stacked ma, པདྨའི, whereas the fixed golden separates པད་མའི. Both this inspector and the coordinator directly confirmed the stack. No golden byte is changed.",
+      "english_consequence": "Orthographic Sanskrit-stack difference only; the lotus-family meaning is unchanged.",
+      "evidence": [
+        {
+          "path": "evidence/translation/01/00431-S43-detail.png",
+          "sha256": "b2817c7d1a9f721e52df0a58b77073079670b9a6bcdbd6e1afa3b91f7233ed54",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": [
+            2540,
+            205,
+            3020,
+            305
+          ],
+          "allocation_reason": "Exact source cluster for S43."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "main text"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-077",
+      "type": "uncertain_reading",
+      "anchor_ids": [
+        "MTP-S000044"
+      ],
+      "golden_reading": "བྱ་བ་དང་བྲལ་ཀྱི་རིགས་དང",
+      "adzom_reading": null,
+      "explanation": "The native row3-left genitive cluster is not securely distinguished as ཀྱི or གྱི by this inspector or the coordinator. Preserve golden ཀྱི without claiming print agreement or supplying a correction.",
+      "english_consequence": "The English retains the family/genitive relation. The possible kyi/gyi orthographic difference is unresolved and does not support a confident correction.",
+      "evidence": [
+        {
+          "path": "evidence/translation/01/00431-S44-detail.png",
+          "sha256": "771462ceaeae29f2a1f22d5bc5774039bba692a7478c90a750916219a2a3712e",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": [
+            525,
+            275,
+            910,
+            400
+          ],
+          "allocation_reason": "Genitive plus rigs dang after the prior-row bya ba dang bral."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "uncertain",
+        "layer": "main text"
+      },
+      "candidates": [
+        "བྱ་བ་དང་བྲལ་ཀྱི་རིགས་དང",
+        "བྱ་བ་དང་བྲལ་གྱི་རིགས་དང"
+      ]
+    },
+    {
+      "id": "MTP-AUDIT-C01-078",
+      "type": "source_omission",
+      "anchor_ids": [
+        "MTP-S000057"
+      ],
+      "golden_reading": "",
+      "adzom_reading": "འདོད་ཆགས་དང་ཞེ་སྡང་གཏི་མུག་དང་ང་རྒྱལ་དང་ཕྲག་དོག་གི",
+      "explanation": "Between ཉོན་མོངས་པ and ལྔ་དང, Adzom prints the quoted five-item list. This inspector and the coordinator confirm its visible wording. Its root-text versus explanatory-note layer remains uncertain because several glyphs approach main size. It must not be concealed by a generic annotation disclaimer.",
+      "english_consequence": "The golden says only “five afflictions.” The print names desire, aversion, bewilderment, pride and jealousy. These five English glosses are provisional source-apparatus usages, absent from the canonical glossary; they are not added to the root translation. Whether the printed list is root wording or explanation remains unresolved.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00431.png",
+          "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+          "image_index": 431,
+          "printed_page": 421,
+          "rows_or_crop": "row6 right",
+          "allocation_reason": "List between nyon mongs pa and lnga, before final dang continues on432."
+        },
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row1 left",
+          "allocation_reason": "The final dang continues the S57 main phrase."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "high",
+        "layer": "uncertain"
+      }
+    },
+    {
+      "id": "MTP-AUDIT-C01-079",
+      "type": "uncertain_reading",
+      "anchor_ids": [
+        "MTP-S000069"
+      ],
+      "golden_reading": "མྱོན་བྱེད་དང",
+      "adzom_reading": null,
+      "explanation": "The final consonant of the first syllable is not securely resolved between མྱོན and མྱོང. The coordinator leans toward nga but does not certify it; this is not reported as agreement. The complete phrase and the separate omitted ལྕེ insert remain locally allocated.",
+      "english_consequence": "The English provisionally reads “that which tastes”; the printed na/nga distinction and the wider sense of the verb remain unresolved.",
+      "evidence": [
+        {
+          "path": "evidence/golden/01/00432.png",
+          "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": "row2 right-center",
+          "allocation_reason": "Full phrase at S69, including the targeted first syllable."
+        },
+        {
+          "path": "evidence/translation/01/00432-S69-complete.png",
+          "sha256": "d96a84b24fc77ff44c1e3962ce1e62ff013755613a53cca71916bb2a25a1503d",
+          "image_index": 432,
+          "printed_page": 422,
+          "rows_or_crop": [
+            2170,
+            185,
+            2550,
+            305
+          ],
+          "allocation_reason": "Contains the first syllable; full native row supplies the remainder."
+        }
+      ],
+      "confidence": {
+        "presence": "high",
+        "exact_reading": "uncertain",
+        "layer": "main text"
+      },
+      "candidates": [
+        "མྱོན་བྱེད་དང",
+        "མྱོང་བྱེད་དང"
+      ]
+    }
+  ],
+  "transcript_corrections_confirmed": [
+    {
+      "anchor_id": "MTP-S000026",
+      "electronic_base": "ཐུགས་ཙིཏ་ཏའི་དཀྱིལ་འཁོར་ན",
+      "golden_and_adzom": "ཐུགས་ཙིཏྟའི་དཀྱིལ་འཁོར་ན",
+      "classification": "transcript correction agreeing with Adzom; not an Adzom departure",
+      "existing_decision_id": "CH01-D000026"
+    },
+    {
+      "anchor_id": "MTP-S000042",
+      "electronic_base": "རིམ་པོ་ཆེའི་རིགས་དང",
+      "golden_and_adzom": "རིན་པོ་ཆེའི་རིགས་དང",
+      "classification": "transcript correction agreeing with Adzom; not an Adzom departure",
+      "existing_decision_id": "CH01-D000042"
+    },
+    {
+      "anchor_id": "MTP-S000078",
+      "electronic_base": "ལྷ་མ་ཡིན་དན",
+      "golden_and_adzom": "ལྷ་མ་ཡིན་དང",
+      "classification": "transcript correction agreeing with Adzom; not an Adzom departure",
+      "existing_decision_id": "CH01-D000078"
+    }
+  ],
+  "crop_manifest": "evidence/translation/01/crop-manifest.json",
+  "crop_manifest_sha256": "091c11738793bbb4522e7fce36030c5c609b35b68d81ebfab9f025523140b350",
+  "limits": [
+    "This is a complete chapter1 main-word comparison attempt, not a claim that every glyph or source layer was successfully resolved. S44 and S69 remain glyph-uncertain; the layer of the S57 omitted list and several short insertions remains uncertain.",
+    "All horizontal chapter1 source spans were inspected directly in native originals and exact-pixel crops. No OCR or enhancement was used as evidence.",
+    "Source annotations and marginal lettering marked untranscribed were locally observed; their complete wording is not certified. Null adzom_reading means untranscribed/unresolved, not absent from the physical print.",
+    "An agrees anchor status concerns its selected lexical sequence only. It never certifies identity of the complete printed page, punctuation, annotation inventory or uncertain omitted material. Each local omission remains separately linked.",
+    "The fixed golden-v1 and canonical glossary remain unchanged. The three historical transcript corrections are distinguished from actual golden-versus-print findings.",
+    "No independent human palaeographic certification, complete commentary translation, comparison-witness collation or chapter2 work is claimed."
+  ]
+}

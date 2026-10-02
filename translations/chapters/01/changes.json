@@ -1,0 +1,34 @@
+{
+  "chapter": 1,
+  "source_and_glossary_unchanged": true,
+  "changes": [
+    {
+      "class": "semantic/syntactic",
+      "pair_id": "MTP-000008",
+      "anchor": "MTP-S000012",
+      "before": "Before I was",
+      "after": "Before my nonexistence",
+      "reason": "Preserve overt negation and disclose unresolved temporal scope; original in revisions/translation-draft-01.md."
+    },
+    {
+      "class": "semantic/syntactic",
+      "pair_id": "MTP-000016",
+      "anchor": "MTP-S000033",
+      "before": "None of these had moved",
+      "after": "All of these, too, had not moved",
+      "reason": "Retain totality and additive particle; translator amended during response to QC."
+    },
+    {
+      "class": "documentation",
+      "reason": "Corrected proposed glossary provenance count from224 to222; no canonical glossary mutation."
+    },
+    {
+      "class": "source/apparatus",
+      "reason": "Appended13 golden-history notes and79 Adzom audit notes; all93 obligations covered. Supplied seven scoped provisional apparatus glosses; no print-only words silently entered root English."
+    },
+    {
+      "class": "presentation",
+      "reason": "Removed misleading absent/unresolved lexical labels from two presentation-convention notes; exact source-reading fields remain in native audit JSON."
+    }
+  ]
+}

@@ -1991,5 +1991,159 @@
     ],
     "proposal_headword": null,
     "status": "Proposed occurrence-specific working usage; not an approved glossary default"
+  },
+  {
+    "id": "CH01-AU001",
+    "source_version": "adzom-1973 W1KG892/I1KG895; printed insertion absent from golden-v1",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000057",
+        "exact_tibetan_span": "འདོད་ཆགས",
+        "source_layer": "print-only insertion; layer unresolved"
+      }
+    ],
+    "attested_form": "འདོད་ཆགས",
+    "canonical_entry": null,
+    "english_realization": "desire",
+    "category": "provisional",
+    "condition_evidence": "Apparatus-only gloss. Keep འཁྲུལ་པ → delusion, རྟོག་པ → conceptual thought and རྣམ་རྟོག → differentiating conceptualization distinct. No standalone canonical mapping found.",
+    "approval_or_note_ids": [
+      "MTP-AUDIT-C01-078"
+    ],
+    "proposal_headword": "འདོད་ཆགས་",
+    "status": "Proposed; not an approved glossary mapping"
+  },
+  {
+    "id": "CH01-AU002",
+    "source_version": "adzom-1973 W1KG892/I1KG895; printed insertion absent from golden-v1",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000057",
+        "exact_tibetan_span": "ཞེ་སྡང",
+        "source_layer": "print-only insertion; layer unresolved"
+      }
+    ],
+    "attested_form": "ཞེ་སྡང",
+    "canonical_entry": null,
+    "english_realization": "aversion",
+    "category": "provisional",
+    "condition_evidence": "Apparatus-only gloss. Keep འཁྲུལ་པ → delusion, རྟོག་པ → conceptual thought and རྣམ་རྟོག → differentiating conceptualization distinct. No standalone canonical mapping found.",
+    "approval_or_note_ids": [
+      "MTP-AUDIT-C01-078"
+    ],
+    "proposal_headword": "ཞེ་སྡང་",
+    "status": "Proposed; not an approved glossary mapping"
+  },
+  {
+    "id": "CH01-AU003",
+    "source_version": "adzom-1973 W1KG892/I1KG895; printed insertion absent from golden-v1",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000057",
+        "exact_tibetan_span": "གཏི་མུག",
+        "source_layer": "print-only insertion; layer unresolved"
+      }
+    ],
+    "attested_form": "གཏི་མུག",
+    "canonical_entry": null,
+    "english_realization": "bewilderment",
+    "category": "provisional",
+    "condition_evidence": "Apparatus-only gloss. Keep འཁྲུལ་པ → delusion, རྟོག་པ → conceptual thought and རྣམ་རྟོག → differentiating conceptualization distinct. No standalone canonical mapping found.",
+    "approval_or_note_ids": [
+      "MTP-AUDIT-C01-078"
+    ],
+    "proposal_headword": "གཏི་མུག་",
+    "status": "Proposed; not an approved glossary mapping"
+  },
+  {
+    "id": "CH01-AU004",
+    "source_version": "adzom-1973 W1KG892/I1KG895; printed insertion absent from golden-v1",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000057",
+        "exact_tibetan_span": "ང་རྒྱལ",
+        "source_layer": "print-only insertion; layer unresolved"
+      }
+    ],
+    "attested_form": "ང་རྒྱལ",
+    "canonical_entry": null,
+    "english_realization": "pride",
+    "category": "provisional",
+    "condition_evidence": "Apparatus-only gloss. Keep འཁྲུལ་པ → delusion, རྟོག་པ → conceptual thought and རྣམ་རྟོག → differentiating conceptualization distinct. No standalone canonical mapping found.",
+    "approval_or_note_ids": [
+      "MTP-AUDIT-C01-078"
+    ],
+    "proposal_headword": "ང་རྒྱལ་",
+    "status": "Proposed; not an approved glossary mapping"
+  },
+  {
+    "id": "CH01-AU005",
+    "source_version": "adzom-1973 W1KG892/I1KG895; printed insertion absent from golden-v1",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000057",
+        "exact_tibetan_span": "ཕྲག་དོག",
+        "source_layer": "print-only insertion; layer unresolved"
+      }
+    ],
+    "attested_form": "ཕྲག་དོག",
+    "canonical_entry": null,
+    "english_realization": "jealousy",
+    "category": "provisional",
+    "condition_evidence": "Apparatus-only gloss. Keep འཁྲུལ་པ → delusion, རྟོག་པ → conceptual thought and རྣམ་རྟོག → differentiating conceptualization distinct. No standalone canonical mapping found.",
+    "approval_or_note_ids": [
+      "MTP-AUDIT-C01-078"
+    ],
+    "proposal_headword": "ཕྲག་དོག་",
+    "status": "Proposed; not an approved glossary mapping"
+  },
+  {
+    "id": "CH01-AU006",
+    "source_version": "adzom-1973 W1KG892/I1KG895; printed insertion absent from golden-v1",
+    "source_units": [
+      {
+        "pair_id": "MTP-000021",
+        "golden_id": "MTP-S000055",
+        "exact_tibetan_span": "བསམ་པ",
+        "source_layer": "print-only insertion; layer unresolved"
+      }
+    ],
+    "attested_form": "བསམ་པ",
+    "canonical_entry": null,
+    "english_realization": "thinking",
+    "category": "provisional",
+    "condition_evidence": "Apparatus-only gloss. Keep འཁྲུལ་པ → delusion, རྟོག་པ → conceptual thought and རྣམ་རྟོག → differentiating conceptualization distinct. No standalone canonical mapping found.",
+    "approval_or_note_ids": [
+      "MTP-AUDIT-C01-045"
+    ],
+    "proposal_headword": "བསམ་པ་",
+    "status": "Proposed; not an approved glossary mapping"
+  },
+  {
+    "id": "CH01-AU007",
+    "source_version": "adzom-1973 W1KG892/I1KG895; printed insertion absent from golden-v1",
+    "source_units": [
+      {
+        "pair_id": "MTP-000024",
+        "golden_id": "MTP-S000064",
+        "exact_tibetan_span": "ཚོགས",
+        "source_layer": "print-only insertion; layer unresolved"
+      }
+    ],
+    "attested_form": "ཚོགས",
+    "canonical_entry": null,
+    "english_realization": "gathering",
+    "category": "provisional",
+    "condition_evidence": "Apparatus-only gloss. Existing whole expression མིང་དང་ཡི་གེའི་ཚོགས་མེད་པ → Without the gathering of names and letters supports considering gathering, but does not establish a standalone entry.",
+    "approval_or_note_ids": [
+      "MTP-AUDIT-C01-069"
+    ],
+    "proposal_headword": "ཚོགས་",
+    "status": "Proposed; not an approved glossary mapping"
   }
 ]

@@ -1,0 +1,16 @@
+{
+  "chapter": 1,
+  "approved": true,
+  "reviewer": "coordinating agent /root",
+  "build_manifest_sha256": "3a88f52220dfa371b2aa25fe8dde832594e214a79f4b10a8e7960d377c778178",
+  "output_sha256": {
+    "reading.md": "56e3fc2b7305461e37bc774927b706551a8ca3f8b2bae6a6e453ab6bf14f0c54",
+    "bilingual.md": "41d490b0b3cc42827a40557652fb94ca383aeea86cb3e42f7065e2ad6a06560d",
+    "machine.json": "d7d5cecde0534151e260ca02a6b76e0000413f993053444d45b1c29abbcdc22a",
+    "coverage.json": "f12bad6db0216375f054f57ef43ae2e73c20cda296992e1254c1a7c064b2a667"
+  },
+  "qc_sha256": "e16c410705953b27c268ae9c4c77707245f1cfe5658925b405ee53e2b4a6e640",
+  "review_path": "translations/chapters/01/FINAL-REVIEW.md",
+  "review_sha256": "1447e3fc775167273650a8337943f03b784abdd459807910dfb24fb370ec6a9d",
+  "release_kind": "annotated working edition with explicit review flags"
+}

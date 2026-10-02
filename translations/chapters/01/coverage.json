@@ -1,0 +1,43 @@
+{
+  "chapter": 1,
+  "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+  "pairs": 30,
+  "golden_objects": 97,
+  "source_objects_remaining_in_chapter": 0,
+  "paired_prefix_last_chapter": 1,
+  "formats": {
+    "prose": 27,
+    "h1": 1,
+    "h2": 2
+  },
+  "statuses": {
+    "nontranslatable": 7,
+    "translated": 22,
+    "unresolved": 1
+  },
+  "note_count": 112,
+  "obligations_required": 93,
+  "obligations_covered": 93,
+  "obligations_remaining": 0,
+  "native_anchor_checks": 97,
+  "native_images": 7,
+  "native_findings": 79,
+  "golden_uncertainty_statements": 6,
+  "golden_changes": 8,
+  "source_roles": {
+    "blank": 1,
+    "metadata": 8,
+    "heading": 4,
+    "main_text": 82,
+    "chapter_colophon": 2
+  },
+  "closing_objects": 2,
+  "supporting_records": {
+    "usage.json": true,
+    "glossary-proposals.json": true
+  },
+  "claims": {
+    "automated_semantic_certification": false,
+    "independent_human_certification": false
+  }
+}

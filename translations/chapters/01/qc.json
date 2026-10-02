@@ -1,0 +1,17 @@
+{
+  "chapter": 1,
+  "reviewer": "coordinating agent /root",
+  "translator": "translation author /root/golden_triage",
+  "independent": true,
+  "source_sha256": "e7125be0f02d53dce2966d6c43ce2058536a18e6f422a371126f5c6c9945c325",
+  "translation_sha256": "18468389225719fad8f6275b2b3f61fd4e71cf1ba0e32f1a635ad1b8fdabbf33",
+  "build_manifest_sha256": "3a88f52220dfa371b2aa25fe8dde832594e214a79f4b10a8e7960d377c778178",
+  "coverage": "complete",
+  "disposition": "ready_with_explicit_review_flags",
+  "open_blockers": [],
+  "review_path": "translations/chapters/01/QC.md",
+  "review_sha256": "7657bee61aa0daa499c9f79b9d2c3a50621023b19787ee70d341e94287ea7cb9",
+  "changes_sha256": "ca55ddfd726ab5fe79f0284451bb44845d4cb490ba0f2bd85888243104a0782e",
+  "automated_semantic_certification": false,
+  "independent_human_certification": false
+}

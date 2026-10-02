@@ -1,0 +1,13 @@
+{
+  "chapter": 1,
+  "mode": "final",
+  "passed": true,
+  "read_only": true,
+  "build_manifest_sha256": "3a88f52220dfa371b2aa25fe8dde832594e214a79f4b10a8e7960d377c778178",
+  "claims": {
+    "automated_semantic_certification": false,
+    "independent_human_certification": false
+  },
+  "unsigned_final_rejected_before_signoff": true,
+  "structural_test_report": "translations/PIPELINE-TESTS.json"
+}

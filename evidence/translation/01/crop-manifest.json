@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "A01-E427-title",
+    "path": "evidence/translation/01/00427-title.png",
+    "image_index": 427,
+    "printed_page": 417,
+    "crop": [
+      1580,
+      340,
+      2730,
+      490
+    ],
+    "sha256": "d72264ef1587b40ba3f70f3c6ccbbf448cbecd1f872686954d070d2b2ad55f6e",
+    "original_sha256": "9f8b9df2801dc370550a4e9c956cb4e95095ee91b2ed6762dd3953997cfd0ae7",
+    "original_path": "evidence/golden/01/00427.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E428-row1-left",
+    "path": "evidence/translation/01/00428-row1-left.png",
+    "image_index": 428,
+    "printed_page": 418,
+    "crop": [
+      760,
+      265,
+      2030,
+      365
+    ],
+    "sha256": "eb2f4dcfaa2c740522863cf16071f4c6860ffab83152166c5d9c40f32c7a6e55",
+    "original_sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+    "original_path": "evidence/golden/01/00428.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E428-row1-right",
+    "path": "evidence/translation/01/00428-row1-right.png",
+    "image_index": 428,
+    "printed_page": 418,
+    "crop": [
+      1950,
+      265,
+      3180,
+      365
+    ],
+    "sha256": "87d46191497b6328a90c75641b25d829091164697d6acf5dd5134bf1fd830a2d",
+    "original_sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+    "original_path": "evidence/golden/01/00428.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E428-row2-left",
+    "path": "evidence/translation/01/00428-row2-left.png",
+    "image_index": 428,
+    "printed_page": 418,
+    "crop": [
+      760,
+      350,
+      2030,
+      450
+    ],
+    "sha256": "fdc1cfbe1ba400a64c2886e84ee80cc4c4110c1918ee63e061e2bb1e3b5c0a1c",
+    "original_sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+    "original_path": "evidence/golden/01/00428.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E428-row2-right",
+    "path": "evidence/translation/01/00428-row2-right.png",
+    "image_index": 428,
+    "printed_page": 418,
+    "crop": [
+      1950,
+      350,
+      3180,
+      450
+    ],
+    "sha256": "59fd01925874d7d0edb1649de6a925d89ac3b0bea62b6fd25aeaadfdebb6b5e7",
+    "original_sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+    "original_path": "evidence/golden/01/00428.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E428-row3-left",
+    "path": "evidence/translation/01/00428-row3-left.png",
+    "image_index": 428,
+    "printed_page": 418,
+    "crop": [
+      760,
+      430,
+      2030,
+      540
+    ],
+    "sha256": "39baaade607641e41df41615ed2d49402a068a92166a545242812769ffc7f3ce",
+    "original_sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+    "original_path": "evidence/golden/01/00428.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E428-row3-right",
+    "path": "evidence/translation/01/00428-row3-right.png",
+    "image_index": 428,
+    "printed_page": 418,
+    "crop": [
+      1950,
+      430,
+      3180,
+      540
+    ],
+    "sha256": "bc285b91575c71e94fd6588e8edc074a07c679242cd793cbbe9ffa0e66ab1d25",
+    "original_sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+    "original_path": "evidence/golden/01/00428.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E428-row4-left",
+    "path": "evidence/translation/01/00428-row4-left.png",
+    "image_index": 428,
+    "printed_page": 418,
+    "crop": [
+      760,
+      525,
+      2030,
+      635
+    ],
+    "sha256": "761eb610232c984a252647d1eacdbe2f0fe8a93b534762c4154a8432aedbd8b4",
+    "original_sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+    "original_path": "evidence/golden/01/00428.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E428-row4-right",
+    "path": "evidence/translation/01/00428-row4-right.png",
+    "image_index": 428,
+    "printed_page": 418,
+    "crop": [
+      1950,
+      525,
+      3180,
+      635
+    ],
+    "sha256": "5db8d68633410f5d939d6aacd1cf33c23c87ce0c8e9bf3398cacf4b4caa6b183",
+    "original_sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+    "original_path": "evidence/golden/01/00428.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E429-row1-left",
+    "path": "evidence/translation/01/00429-row1-left.png",
+    "image_index": 429,
+    "printed_page": 419,
+    "crop": [
+      875,
+      170,
+      2120,
+      280
+    ],
+    "sha256": "800292e7fa00efb5694baf15435fc482f193d6064baeba48703b588101c1c6dd",
+    "original_sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+    "original_path": "evidence/golden/01/00429.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E429-row1-right",
+    "path": "evidence/translation/01/00429-row1-right.png",
+    "image_index": 429,
+    "printed_page": 419,
+    "crop": [
+      2040,
+      170,
+      3290,
+      280
+    ],
+    "sha256": "f1a9e64723e1bdc31b5ae740292b24010524e0e2fb517ebb1a18d8b0264a2d34",
+    "original_sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+    "original_path": "evidence/golden/01/00429.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E429-row2-left",
+    "path": "evidence/translation/01/00429-row2-left.png",
+    "image_index": 429,
+    "printed_page": 419,
+    "crop": [
+      875,
+      260,
+      2120,
+      370
+    ],
+    "sha256": "7f0c351652540a251e9d63d1433f2088a515bf3f0eaf130d9b105aea20044f8a",
+    "original_sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+    "original_path": "evidence/golden/01/00429.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E429-row2-right",
+    "path": "evidence/translation/01/00429-row2-right.png",
+    "image_index": 429,
+    "printed_page": 419,
+    "crop": [
+      2040,
+      260,
+      3290,
+      370
+    ],
+    "sha256": "8e7c69a4aae0dfac3a5965be23aa725d10c6d017835cb0e6bf2b739142cd9667",
+    "original_sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+    "original_path": "evidence/golden/01/00429.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E429-row3-left",
+    "path": "evidence/translation/01/00429-row3-left.png",
+    "image_index": 429,
+    "printed_page": 419,
+    "crop": [
+      875,
+      350,
+      2120,
+      450
+    ],
+    "sha256": "aa207205590dbd94e403adae5f9ed252e25f6c39efcce72292407447a4a1ee85",
+    "original_sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+    "original_path": "evidence/golden/01/00429.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E429-row3-right",
+    "path": "evidence/translation/01/00429-row3-right.png",
+    "image_index": 429,
+    "printed_page": 419,
+    "crop": [
+      2040,
+      350,
+      3290,
+      450
+    ],
+    "sha256": "7bb591bf3ef37ad13fb0f9d9ad17ddeb4b502c13793b228f142195c281df5a75",
+    "original_sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+    "original_path": "evidence/golden/01/00429.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E429-row4-left",
+    "path": "evidence/translation/01/00429-row4-left.png",
+    "image_index": 429,
+    "printed_page": 419,
+    "crop": [
+      875,
+      430,
+      2120,
+      535
+    ],
+    "sha256": "22f305df0851c7b98a4a313d21399deab91880b24079c0bd125430c9fccae1cc",
+    "original_sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+    "original_path": "evidence/golden/01/00429.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E429-row4-right",
+    "path": "evidence/translation/01/00429-row4-right.png",
+    "image_index": 429,
+    "printed_page": 419,
+    "crop": [
+      2040,
+      430,
+      3290,
+      535
+    ],
+    "sha256": "5fd7f5736be671abb79b7d32688274acfc509737eee38b02fcba7f3bf37776e0",
+    "original_sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+    "original_path": "evidence/golden/01/00429.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row1-left",
+    "path": "evidence/translation/01/00430-row1-left.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      535,
+      70,
+      2090,
+      175
+    ],
+    "sha256": "b0717f7f23839195110b724714d0ca834469d854e1bb35c4dd3b13022ad68533",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row1-right",
+    "path": "evidence/translation/01/00430-row1-right.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      2010,
+      70,
+      3560,
+      175
+    ],
+    "sha256": "dc677b31e2f94c0b33cac33fbb6cae1ef0ca5d984161ff62639a5328a26ee254",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row2-left",
+    "path": "evidence/translation/01/00430-row2-left.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      535,
+      150,
+      2090,
+      255
+    ],
+    "sha256": "4d0a2796fe34a4de77b39697b7f7354bdeb5ce6e75779f1689be86dfa714f354",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row2-right",
+    "path": "evidence/translation/01/00430-row2-right.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      2010,
+      150,
+      3560,
+      255
+    ],
+    "sha256": "1a2e1ebe497a9756896eff3347d0631494d654048449a31c58c05c396d5cd37f",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row3-left",
+    "path": "evidence/translation/01/00430-row3-left.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      535,
+      235,
+      2090,
+      340
+    ],
+    "sha256": "ac884ab0c1169b9015fa6729d61505587691a1b3490e05ca9c0e5a7619cd0410",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row3-right",
+    "path": "evidence/translation/01/00430-row3-right.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      2010,
+      235,
+      3560,
+      340
+    ],
+    "sha256": "d7a8c96cd100641f0e669e0027fd42bcdeeeedcb9088ae462923211fc88c0230",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row4-left",
+    "path": "evidence/translation/01/00430-row4-left.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      535,
+      315,
+      2090,
+      420
+    ],
+    "sha256": "3bc7323148c56b00fbfcac44e45aaa08d2d8ce8a383942f01eda3066dd9150f3",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row4-right",
+    "path": "evidence/translation/01/00430-row4-right.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      2010,
+      315,
+      3560,
+      420
+    ],
+    "sha256": "7c483b548f0e1ce6ee9ab7dcbffef74f6904e96a6dcebfb2f4210121c5b853f5",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row5-left",
+    "path": "evidence/translation/01/00430-row5-left.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      535,
+      400,
+      2090,
+      510
+    ],
+    "sha256": "308a94d76436caec4f56a87f73fafeb95a53884be2c42512138a1330bae2864c",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row5-right",
+    "path": "evidence/translation/01/00430-row5-right.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      2010,
+      400,
+      3560,
+      510
+    ],
+    "sha256": "4a40d31c98932a204fe7f16441071331a75f9761ada628285e7d69cf7d2c9578",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row6-left",
+    "path": "evidence/translation/01/00430-row6-left.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      535,
+      490,
+      2090,
+      605
+    ],
+    "sha256": "544dd49b5048d248a66ced4eb87144c730574bbb4e1a4580d0b8e79baef0f03c",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E430-row6-right",
+    "path": "evidence/translation/01/00430-row6-right.png",
+    "image_index": 430,
+    "printed_page": 420,
+    "crop": [
+      2010,
+      490,
+      3560,
+      605
+    ],
+    "sha256": "4f7774d3ea472d32bd33d7f9acbc8be2f8a2bdb765e9dfc9f4d00e8d9fb19940",
+    "original_sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "original_path": "evidence/golden/01/00430.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row1-left",
+    "path": "evidence/translation/01/00431-row1-left.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      525,
+      115,
+      2090,
+      225
+    ],
+    "sha256": "f21244b4edb23e5945e248788131933ce3a314a1dcbedd515ba17cf0b52b1f42",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row1-right",
+    "path": "evidence/translation/01/00431-row1-right.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      2010,
+      115,
+      3560,
+      225
+    ],
+    "sha256": "b5b18a18c01f3a8a5bb0077080ee09290e534724eb2c1756872e2301049b6a97",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row2-left",
+    "path": "evidence/translation/01/00431-row2-left.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      525,
+      200,
+      2090,
+      310
+    ],
+    "sha256": "fc9b5eba0376a21dc64406fd667883d445fa4399fc4466d852a074dea7d5995f",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row2-right",
+    "path": "evidence/translation/01/00431-row2-right.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      2010,
+      200,
+      3560,
+      310
+    ],
+    "sha256": "0b6c421e0ae33d2fd50d154905c58810ac69d50683435f03e97b1d42d69675e5",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row3-left",
+    "path": "evidence/translation/01/00431-row3-left.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      525,
+      285,
+      2090,
+      395
+    ],
+    "sha256": "64c4f9646727157613ed49ab311435c59a32c3e8ddd673ba3eb7cc67a9bb2d81",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row3-right",
+    "path": "evidence/translation/01/00431-row3-right.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      2010,
+      285,
+      3560,
+      395
+    ],
+    "sha256": "a65adf370babbc5bd30f8efa9f15fd6d037490260d536636a61603ddb9651608",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row4-left",
+    "path": "evidence/translation/01/00431-row4-left.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      525,
+      370,
+      2090,
+      485
+    ],
+    "sha256": "17a4ed09ac0c2dd1f4057c5759b728e89543def6ac7763425684be64a19c280f",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row4-right",
+    "path": "evidence/translation/01/00431-row4-right.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      2010,
+      370,
+      3560,
+      485
+    ],
+    "sha256": "d06c162cfff0600e4c897aeda75de07ab38166f36f951d4150cd00891ec14114",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row5-left",
+    "path": "evidence/translation/01/00431-row5-left.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      525,
+      460,
+      2090,
+      570
+    ],
+    "sha256": "2254ea487734b4fe2270c0e83442a79943af4c6fc7cb91c17ff1bfb1ff661d18",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row5-right",
+    "path": "evidence/translation/01/00431-row5-right.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      2010,
+      460,
+      3560,
+      570
+    ],
+    "sha256": "e967d629a1f1b6da9ef5e0666130cc9d58a88b5ada28c0e28f6d213e7c21acb8",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row6-left",
+    "path": "evidence/translation/01/00431-row6-left.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      525,
+      550,
+      2090,
+      660
+    ],
+    "sha256": "b07bc8a307c6820a947514f49360e6de4f5446320439ad112fcdce30d00ced67",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E431-row6-right",
+    "path": "evidence/translation/01/00431-row6-right.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      2010,
+      550,
+      3560,
+      660
+    ],
+    "sha256": "62f5a2ba9f0a3aa85c0f9775466d5ef7037621ab8d690c12ccdad7d987395458",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row1-left",
+    "path": "evidence/translation/01/00432-row1-left.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      470,
+      100,
+      2080,
+      215
+    ],
+    "sha256": "f486ba7fd69fbabb36301ac3b66ab529992b44030235c85b239a5e12074bcdbb",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row1-right",
+    "path": "evidence/translation/01/00432-row1-right.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      2000,
+      100,
+      3590,
+      215
+    ],
+    "sha256": "b6a214d9bf658238cfdc00ed58975427857b750170d582261498727b008f6cd5",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row2-left",
+    "path": "evidence/translation/01/00432-row2-left.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      470,
+      185,
+      2080,
+      300
+    ],
+    "sha256": "d68d2471e30eed4968d600da0ddaa8530030a00e7f6a2d4b4c94152b7c6bf91d",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row2-right",
+    "path": "evidence/translation/01/00432-row2-right.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      2000,
+      185,
+      3590,
+      300
+    ],
+    "sha256": "26ee664b5d911367b6ca5e170c80a2cf9b8141b9d064966ea07a1bacd2294454",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row3-left",
+    "path": "evidence/translation/01/00432-row3-left.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      470,
+      270,
+      2080,
+      390
+    ],
+    "sha256": "71a9c09e1a04664e16783eea91842f307f8348d2f8f38e786cf0c660d7a237ce",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row3-right",
+    "path": "evidence/translation/01/00432-row3-right.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      2000,
+      270,
+      3590,
+      390
+    ],
+    "sha256": "7127abc02e0df0bb9ae774db707960052653983034038ddb04cb018346b444f7",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row4-left",
+    "path": "evidence/translation/01/00432-row4-left.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      470,
+      355,
+      2080,
+      475
+    ],
+    "sha256": "c838c36cc90cf03f5f740c0de5f690b6f10b24c408497fab3ab435a05c198204",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row4-right",
+    "path": "evidence/translation/01/00432-row4-right.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      2000,
+      355,
+      3590,
+      475
+    ],
+    "sha256": "7725b40ded48bb124bae6657e32d75ae384682885b19cb7acfcaee8fe083cecf",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row5-left",
+    "path": "evidence/translation/01/00432-row5-left.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      470,
+      440,
+      2080,
+      560
+    ],
+    "sha256": "ddf6a3b48c8b3174054741bad5a89ce093ad0bf37edc3dff165d9031f897432d",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row5-right",
+    "path": "evidence/translation/01/00432-row5-right.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      2000,
+      440,
+      3590,
+      560
+    ],
+    "sha256": "845bee99c6a53e6ee538fc02de48e87b5385d2b1fbd6dd88fbb80045e5783f87",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row6-left",
+    "path": "evidence/translation/01/00432-row6-left.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      470,
+      530,
+      2080,
+      655
+    ],
+    "sha256": "4f08b75cc71e018764c0b65656ebab4abcaeeae48ba59c5eef4796c4ab387dbf",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E432-row6-right",
+    "path": "evidence/translation/01/00432-row6-right.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      2000,
+      530,
+      3590,
+      655
+    ],
+    "sha256": "6685a8675580c9f896969892de40cf65ddc5401872268c4870081cddb8fafe30",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E433-row1-left",
+    "path": "evidence/translation/01/00433-row1-left.png",
+    "image_index": 433,
+    "printed_page": 423,
+    "crop": [
+      525,
+      125,
+      2080,
+      240
+    ],
+    "sha256": "e5ded23ba6e020914955ce1127a5d21547e3eb0a4dddeed09cae4730e6d3adc3",
+    "original_sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+    "original_path": "evidence/golden/01/00433.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E433-row1-right",
+    "path": "evidence/translation/01/00433-row1-right.png",
+    "image_index": 433,
+    "printed_page": 423,
+    "crop": [
+      2000,
+      125,
+      3550,
+      240
+    ],
+    "sha256": "4c8e5924d969b85feaa67066315514da5d63392c85a7159fb3854127aa7d3676",
+    "original_sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+    "original_path": "evidence/golden/01/00433.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E433-row2-left",
+    "path": "evidence/translation/01/00433-row2-left.png",
+    "image_index": 433,
+    "printed_page": 423,
+    "crop": [
+      525,
+      215,
+      2080,
+      330
+    ],
+    "sha256": "48b31a145f1fa22ce6b15ee199f0f0c4e5a54eb9843d47d1005d8f6f8474f4ce",
+    "original_sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+    "original_path": "evidence/golden/01/00433.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E433-row2-right",
+    "path": "evidence/translation/01/00433-row2-right.png",
+    "image_index": 433,
+    "printed_page": 423,
+    "crop": [
+      2000,
+      215,
+      3550,
+      330
+    ],
+    "sha256": "59dcffd917221706fea6da213dabf48fe6a798a25bcd8fb11598784467768fea",
+    "original_sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+    "original_path": "evidence/golden/01/00433.png",
+    "inspection": "native_image_direct",
+    "purpose": "Exact-pixel reading locator; no OCR, enhancement or rescaling.",
+    "status": "accepted"
+  },
+  {
+    "id": "A01-E00431-S43-detail",
+    "path": "evidence/translation/01/00431-S43-detail.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      2540,
+      205,
+      3020,
+      305
+    ],
+    "sha256": "b2817c7d1a9f721e52df0a58b77073079670b9a6bcdbd6e1afa3b91f7233ed54",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "status": "accepted",
+    "allocation_reason": "S43 stacked lotus spelling"
+  },
+  {
+    "id": "A01-E00431-S44-detail",
+    "path": "evidence/translation/01/00431-S44-detail.png",
+    "image_index": 431,
+    "printed_page": 421,
+    "crop": [
+      525,
+      275,
+      910,
+      400
+    ],
+    "sha256": "771462ceaeae29f2a1f22d5bc5774039bba692a7478c90a750916219a2a3712e",
+    "original_sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "original_path": "evidence/golden/01/00431.png",
+    "inspection": "native_image_direct",
+    "status": "accepted",
+    "allocation_reason": "S44 kyi/gyi glyph uncertainty"
+  },
+  {
+    "id": "A01-E00432-S69-detail",
+    "path": "evidence/translation/01/00432-S69-detail.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      2430,
+      185,
+      2860,
+      305
+    ],
+    "sha256": "ab86208099ebae73df21829d1c9e0edfaff7fbddd93bcae39564b4f14902a0d9",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "status": "excluded",
+    "allocation_reason": "Does not contain the full targeted first syllable; use complete crop and full row."
+  },
+  {
+    "id": "A01-E00432-S69-complete",
+    "path": "evidence/translation/01/00432-S69-complete.png",
+    "image_index": 432,
+    "printed_page": 422,
+    "crop": [
+      2170,
+      185,
+      2550,
+      305
+    ],
+    "sha256": "d96a84b24fc77ff44c1e3962ce1e62ff013755613a53cca71916bb2a25a1503d",
+    "original_sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "original_path": "evidence/golden/01/00432.png",
+    "inspection": "native_image_direct",
+    "status": "accepted",
+    "allocation_reason": "Contains the first syllable at issue; full row supplies its continuation"
+  }
+]

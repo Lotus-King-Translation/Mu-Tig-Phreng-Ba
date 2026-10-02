@@ -63,8 +63,9 @@ def run(n):
         ident=f['id'];aids=f['anchor_ids']
         label=f['type'].replace('_',' ')
         parts=[f'{label.capitalize()}; source anchors '+', '.join(aids)+'.']
-        parts.append(f'Golden reading: `{f["golden_reading"]}`.' if f['golden_reading'] else 'Golden reading: no corresponding text.')
-        parts.append(f'Adzom reading: `{f["adzom_reading"]}`.' if f['adzom_reading'] is not None else 'Adzom wording: not fully transcribed or not securely resolved.')
+        if f['type']!='presentation':
+            parts.append(f'Golden reading: `{f["golden_reading"]}`.' if f['golden_reading'] else 'Golden reading: no corresponding text.')
+            parts.append(f'Adzom reading: `{f["adzom_reading"]}`.' if f['adzom_reading'] is not None else 'Adzom wording: not fully transcribed or not securely resolved.')
         parts += [f['explanation'], 'English consequence: '+f['english_consequence']]
         refs=[]
         for e in f['evidence']:

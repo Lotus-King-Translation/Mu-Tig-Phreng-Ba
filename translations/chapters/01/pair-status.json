@@ -3,242 +3,381 @@
     "id": "MTP-000001",
     "status": "nontranslatable",
     "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-002",
+      "MTP-AUDIT-C01-003"
+    ]
   },
   {
     "id": "MTP-000002",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-001"
+      "T01-001",
+      "CH01-G000004",
+      "MTP-AUDIT-C01-001"
     ]
   },
   {
     "id": "MTP-000003",
     "status": "nontranslatable",
     "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-002",
+      "MTP-AUDIT-C01-004"
+    ]
   },
   {
     "id": "MTP-000004",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
-    "note_ids": []
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
+    "note_ids": [
+      "CH01-G000006",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-010"
+    ]
   },
   {
     "id": "MTP-000005",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-001"
+      "T01-001",
+      "CH01-G000007",
+      "CH01-G000008",
+      "MTP-AUDIT-C01-001"
     ]
   },
   {
     "id": "MTP-000006",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-002"
+      "T01-002",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-011"
     ]
   },
   {
     "id": "MTP-000007",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-003"
+      "T01-003",
+      "CH01-G000010",
+      "MTP-AUDIT-C01-001"
     ]
   },
   {
     "id": "MTP-000008",
     "status": "unresolved",
-    "reason": "English represents the whole fixed source, but the temporal relation in MTP-S000012 remains unresolved; literal negation is preserved and T01-004 states the problem. Independent QC required before release.",
+    "reason": "English represents the whole fixed source, but the temporal relation in MTP-S000012 remains unresolved; literal negation is preserved and T01-004 states the problem. Separate independent agent QC is recorded in qc.json and QC.md; this relationship remains an explicit review flag.",
     "note_ids": [
       "T01-002",
-      "T01-004"
+      "T01-004",
+      "CH01-G000014",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-012",
+      "MTP-AUDIT-C01-013",
+      "MTP-AUDIT-C01-014",
+      "MTP-AUDIT-C01-015"
     ]
   },
   {
     "id": "MTP-000009",
     "status": "nontranslatable",
     "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-002",
+      "MTP-AUDIT-C01-005"
+    ]
   },
   {
     "id": "MTP-000010",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-005",
-      "T01-016"
+      "T01-016",
+      "CH01-G000016",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-016"
     ]
   },
   {
     "id": "MTP-000011",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-006"
+      "T01-006",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-017",
+      "MTP-AUDIT-C01-018"
     ]
   },
   {
     "id": "MTP-000012",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-007"
+      "T01-007",
+      "CH01-G000021",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-019",
+      "MTP-AUDIT-C01-020"
     ]
   },
   {
     "id": "MTP-000013",
     "status": "nontranslatable",
     "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-002",
+      "MTP-AUDIT-C01-006"
+    ]
   },
   {
     "id": "MTP-000014",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-008"
+      "T01-008",
+      "CH01-G000023",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-021"
     ]
   },
   {
     "id": "MTP-000015",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-003",
-      "T01-009"
+      "T01-009",
+      "CH01-G000026",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-022",
+      "MTP-AUDIT-C01-023",
+      "MTP-AUDIT-C01-024"
     ]
   },
   {
     "id": "MTP-000016",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-010",
-      "T01-011"
+      "T01-011",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-025",
+      "MTP-AUDIT-C01-026",
+      "MTP-AUDIT-C01-027",
+      "MTP-AUDIT-C01-028",
+      "MTP-AUDIT-C01-029",
+      "MTP-AUDIT-C01-030",
+      "MTP-AUDIT-C01-031"
     ]
   },
   {
     "id": "MTP-000017",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-011"
+      "T01-011",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-031",
+      "MTP-AUDIT-C01-032",
+      "MTP-AUDIT-C01-033",
+      "MTP-AUDIT-C01-034"
     ]
   },
   {
     "id": "MTP-000018",
     "status": "nontranslatable",
     "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-002",
+      "MTP-AUDIT-C01-007"
+    ]
   },
   {
     "id": "MTP-000019",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-012",
       "T01-016",
       "T01-010",
-      "T01-011"
+      "T01-011",
+      "CH01-G000042",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-034",
+      "MTP-AUDIT-C01-035",
+      "MTP-AUDIT-C01-036",
+      "MTP-AUDIT-C01-037",
+      "MTP-AUDIT-C01-038",
+      "MTP-AUDIT-C01-039",
+      "MTP-AUDIT-C01-040",
+      "MTP-AUDIT-C01-076",
+      "MTP-AUDIT-C01-077"
     ]
   },
   {
     "id": "MTP-000020",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-011",
       "T01-013",
-      "T01-016"
+      "T01-016",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-041",
+      "MTP-AUDIT-C01-042"
     ]
   },
   {
     "id": "MTP-000021",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-014",
-      "T01-011"
+      "T01-011",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-043",
+      "MTP-AUDIT-C01-044",
+      "MTP-AUDIT-C01-045",
+      "MTP-AUDIT-C01-046",
+      "MTP-AUDIT-C01-078"
     ]
   },
   {
     "id": "MTP-000022",
     "status": "nontranslatable",
     "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-002",
+      "MTP-AUDIT-C01-008"
+    ]
   },
   {
     "id": "MTP-000023",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-014"
+      "T01-014",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-065",
+      "MTP-AUDIT-C01-066",
+      "MTP-AUDIT-C01-067"
     ]
   },
   {
     "id": "MTP-000024",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-006",
       "T01-015",
       "T01-016",
-      "T01-011"
+      "T01-011",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-047",
+      "MTP-AUDIT-C01-048",
+      "MTP-AUDIT-C01-049",
+      "MTP-AUDIT-C01-050",
+      "MTP-AUDIT-C01-051",
+      "MTP-AUDIT-C01-052",
+      "MTP-AUDIT-C01-053",
+      "MTP-AUDIT-C01-054",
+      "MTP-AUDIT-C01-068",
+      "MTP-AUDIT-C01-069",
+      "MTP-AUDIT-C01-070",
+      "MTP-AUDIT-C01-071",
+      "MTP-AUDIT-C01-072",
+      "MTP-AUDIT-C01-073",
+      "MTP-AUDIT-C01-074",
+      "MTP-AUDIT-C01-075",
+      "MTP-AUDIT-C01-079"
     ]
   },
   {
     "id": "MTP-000025",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-011",
-      "T01-017"
+      "T01-017",
+      "CH01-G000078",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-054",
+      "MTP-AUDIT-C01-055",
+      "MTP-AUDIT-C01-056"
     ]
   },
   {
     "id": "MTP-000026",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
-      "T01-017"
+      "T01-017",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-056",
+      "MTP-AUDIT-C01-057",
+      "MTP-AUDIT-C01-058"
     ]
   },
   {
     "id": "MTP-000027",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-017",
-      "T01-018"
+      "T01-018",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-059",
+      "MTP-AUDIT-C01-060",
+      "MTP-AUDIT-C01-061",
+      "MTP-AUDIT-C01-062",
+      "MTP-AUDIT-C01-063"
     ]
   },
   {
     "id": "MTP-000028",
     "status": "nontranslatable",
     "reason": "Source metadata is explicitly labeled; the original blank/page/chapter control remains mapped. It is not inserted as root-text prose.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-002",
+      "MTP-AUDIT-C01-009"
+    ]
   },
   {
     "id": "MTP-000029",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-011",
       "T01-017",
-      "T01-019"
+      "T01-019",
+      "MTP-AUDIT-C01-001",
+      "MTP-AUDIT-C01-064"
     ]
   },
   {
     "id": "MTP-000030",
     "status": "translated",
-    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Independent QC remains pending.",
+    "reason": "Translator self-check completed against every mapped golden object, including negation, agency, list order, glossary identities and English supplies. Translated as a working reading; local notes preserve unresolved interpretation and provisional terminology. Separate independent agent QC is recorded in qc.json and QC.md.",
     "note_ids": [
       "T01-001",
-      "T01-020"
+      "T01-020",
+      "CH01-G000096",
+      "MTP-AUDIT-C01-001"
     ]
   }
 ]
