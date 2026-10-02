@@ -8,8 +8,11 @@ Tibetan edition and source research for the Dzogchen tantra **མུ་ཏིག
 
 [Read the complete Tibetan edition](golden/reading.md) · [Machine-readable text](golden/reading.json) · [Coverage and uncertainty](golden/coverage.json) · [Fixed release](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-v1)
 
-The Adzom1973–77 printing (W1KG892/I1KG895, printed417–537) governs this maintained reading. All corrections have scan evidence and explicit decisions. The two electronic renditions belong to one transcript family. Full scan proofreading and exhaustive witness collation were not performed: 1,870 anchors retain unreviewed-transcript status, and 96 anchor-level uncertainty records remain visible. Translation has not begun.
+The Adzom1973–77 printing (W1KG892/I1KG895, printed417–537) governs this maintained reading. All corrections have scan evidence and explicit decisions. The two electronic renditions belong to one transcript family. Full scan proofreading and exhaustive witness collation were not performed: 1,870 anchors retain unreviewed-transcript status, and 96 anchor-level uncertainty records remain visible. The English translation is now underway as a separately reviewed working edition. Its page-by-page Adzom audit records additional differences without changing golden-v1.
 
+- [English translation and endnote policy](translations/README.md)
+- [Chapter 1 English with Adzom endnotes](translations/chapters/01/reading.md)
+- [Canonical paired English](paired/translation.md)
 - [Project status](PROJECT-STATUS.md)
 - [Golden edition method](guidelines/golden_edition_method.md)
 - [Governing witness](diplomatic/GOVERNING-WITNESS.json)

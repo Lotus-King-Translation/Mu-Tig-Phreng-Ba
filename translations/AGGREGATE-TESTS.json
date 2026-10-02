@@ -1,0 +1,13 @@
+{
+  "scope": "Synthetic eight-release aggregate; no semantic certification",
+  "command": "python3 scripts/test_translation_aggregate.py",
+  "tests": 21,
+  "passed": 21,
+  "failed": 0,
+  "duration_seconds": 151.099,
+  "file_sha256": {
+    "scripts/build_translation_aggregate.py": "da384b9320d294e89b789ac15487ee177612a51fa4312cda6d173249df5fe163",
+    "scripts/test_translation_aggregate.py": "b1b1cc8f70bf400bf9f693bd7e833566c9c753ae9df9918bfb4a6bbc2dabbbe8"
+  },
+  "semantic_translation_certification": false
+}
