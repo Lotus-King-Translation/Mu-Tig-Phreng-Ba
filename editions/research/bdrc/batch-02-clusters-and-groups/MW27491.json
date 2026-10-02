@@ -1,0 +1,202 @@
+{ 
+  "http://purl.bdrc.io/resource/MW27491" : { 
+    "http://purl.bdrc.io/ontology/core/inCollection" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PR1PL480"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་བཅུ་བདུན། བཅུ་བདུན་རྒྱུད། གསང་ཆེན་ངེས་པའི་རྒྱུད་བཅུ་བདུན། ཡང་གསང་སྙིང་ཐིག་གི་རྒྱུད་བཅུ་བདུན། མངོན་སུམ་སྙིང་ཐིག་གི་རྒྱུད་བཅུ་བདུན། མན་ངག་ཡང་གསང་བླ་མེད་ཀྱི་རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན།" ,
+      "lang" : "bo"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "the seventeen tantras of the rnin-ma-pa tradition which are the sources for the practice of the rdzogs-chen belonging to the man nag class" ,
+      "lang" : "en-x-mixed"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "drug sherig press" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "thimphu, bhutan" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuCan"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Relief_WoodBlock"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasOutline" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/O1GS129633"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasPart" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW27491_12396F"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW27491_F9F471"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IE0OPI51F2DCEF"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W27491"
+    }
+     ] ,
+    "http://id.loc.gov/ontologies/bibframe/identifiedBy" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID5086D3EF082BD3B6"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDA8CDDAB5962C063E"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID59BEA7D1608639A9"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID0D95B1BAE82A6750"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "2 v."
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasSourcePrintery" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/G3JT12584"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EVD3E21BDA1A126D25"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན། (ཐར་པ་གླིང་པར་མ།)" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTC139C78E0BD8EB51"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTCB7E62A17B33C2FD"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I4447::44470003.tif"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "༈ རྫོགས་པ་ཆེན་པོ་མན་ངག་ཡང་གསང་བླ་མེད་ཀྱི་«བཅུ་བདུན་རྒྱུད་»འདི་ནི་སྟོད་ཆ་དང་སྨད་ཆ་བཅས་པོད་གཉིས་སུ་བཞུགས་པ་ལས། སྨད་ཆའི་གཤམ་གྱི་«པར་བྱང་གསལ་བཤད་»ནང་དུ། \u201Cའདི་ཉིད་སྤར་གྱི་འདུ་བྱེད་མཛད་པ་པོ། ལྷོ་ལྗོངས་རྒྱལ་ཁབ་ཆེན་པོའི་མངའ་འབངས་ལ་ཁ་ལོ་བསྒྱུར་མཛད་མི་དབང་ཆོས་རྒྱལ་བྱང་ཆུབ་སེམས་དཔའ་ཨོ་རྒྱན་དབང་ཕྱུག་ཞེས་[=ཅེས་]མཚན་སྙན་གྱི་བ་དན་སྲིད་རྩེར་མཐོ་བ་དཔའ་བོ་དེའི་ཐུགས་བསྒྱེན་[=བསྐྱེད་]ཀྱིས་བསྐྲུན་པར་མཛད་ཅིང་། བསྐུལ་[=སྐུལ་]བ་པོ་རྒྱུད་ཆེན་འདིར་མོས་པ་ལ་སྟོད་ཀྱི་བན་སྔགས་ཀུན་བཟང་འཇིགས་མེད་དུ་འབོད་པ་མཆོད་ཡོན་ཟུང་གི་འདོད་འདུན་ཡིད་བཞིན་དུ་འགྲུབ་པའི་མཐུན་འགྱུར་རྩ་གསུམ་རྒྱལ་བ་རབ་འབྱམས་དཔང་པོར་གསོལ་ཏེ་ཞུ་བ་ལ།\u201D ཞེས་བྱུང་བས་འབྲུག་རྒྱལ་དང་པོ་གོང་ས་ཨོ་རྒྱན་དབང་ཕྱུག་ (1862\u20131926; BDRC: P2744) མཆོག་གིས་སྤྱི་ལོ་ 1907 ལ་ལྷོ་མོན་འབྲུག་རྒྱལ་ཁབ་ཆེན་མོའི་མངའ་འབངས་ལ་ཁ་ལོ་བསྒྱུར་ནས། ལུགས་གཉིས་བསྟན་པ་ཆབ་སྲིད་ཀྱི་མངའ་ཐང་དགུང་དུ་འཕྱུར་སྐབས་ (re. 1907\u20131926) ཤོག་ལྷེ་རེར་ཡིག་ཕྲེང་དྲུག་གི་བདག་ཉིད་ཅན་དུ་བརྐོས་པའི་ཤིང་པར་ལོ་རྒྱུས་ཀྱི་རྒྱབ་ལྗོངས་དང་ལྡན་པའི་རིན་ཐང་ཅན་གྱི་པར་མ་རྩ་ཆེན་ཞིག་ཡིན། དེ་ནི་ཕྱིས་སུ་ཀུན་མཁྱེན་ཀློང་ཆེན་རབ་འབྱམས་ (1308\u20131363; BDRC: P1583) ཀྱི་གདན་ས་བུམ་ཐང་ཐར་པ་གླིང་དུ་བཞུགས་སུ་གསོལ་བས་དེང་སང་གང་དུ་བཞུགས་པའི་ས་གནས་ཀྱི་སྒོ་ནས་ཐར་པ་གླིང་པར་མར་གྲགས། དེ་ནི་པར་ཤིང་ནས་ཤོག་ངོས་སུ་པར་སྐབས་སྣག་ཚའི་རྐྱེན་གྱིས་ནག་འབྱམས་སུ་ཕྱིན་ཏེ་\u201Cཔ་\u201Dདང་\u201Cབ་\u201Dགཉིས་སོ་སོར་ཤན་འབྱེད་དཀའ་བ་མང་དུ་སྣང་ནའང་། སྤྱིའི་ཁོག་«སྡེ་དགེ་ལྷུན་གྲུབ་སྟེང་གི་རྙིང་རྒྱུད་»མཚལ་པར་ནང་བཞུགས་པ་དེ་དང་ཧ་ཅང་འདྲ་ཤས་ཆེ་བས་དེར་མ་དཔེར་བཟུང་ནས་བཞེངས་ཡོད་པར་ཤེས།\nདེ་བཞིན་རྒྱུད་ཀྱི་གོ་རིམ་ཡང་«སྡེ་དགེ་རྙིང་རྒྱུད་»དང་ཚུལ་མཐུན་པར་ཐོག་མར་༼༡༽«རྫོགས་པ་རང་བྱུང་གི་རྒྱུད་»ནས་བཟུང་། ༼༢༽«དཔལ་ཡི་གེ་མེད་པའི་རྒྱུད་»དང་། ༼༣༽«རིག་པ་རང་ཤར་གྱི་རྒྱུད་»དང་། ༼༤༽«རིག་པ་རང་གྲོལ་གྱི་རྒྱུད་»དང་། ༼༥༽«རིན་པོ་ཆེ་སྤུངས་པའི་རྒྱུད་»དང་། ༼༦༽«སྐུ་གདུང་འབར་བའི་རྒྱུད་»དང་། ༼༧༽«སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་རྩ་བའི་རྒྱུད་»དང་། ༼༨༽«བཀྲ་ཤིས་མཛེས་ལྡན་གྱི་རྒྱུད་»དང་། ༼༩༽«རྡོ་རྗེ་སེམས་དཔའ་སྙིང་གི་མེ་ལོང་གི་རྒྱུད་»དང་། ༼༡༠༽«ཀུན་ཏུ་བཟང་པོ་ཐུགས་ཀྱི་མེ་ལོང༌གི་རྒྱུད་»དང་། ༼༡༡༽«ངོ་སྤྲོད་སྤྲས་པའི་རྒྱུད་»དང་། ༼༡༢༽«མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་»དང་། ༼༡༣༽«ཀློང་ཡངས་དྲུག་པའི་རྒྱུད་»དང་། ༼༡༤༽«སྒྲོན་མ་འབར་བའི་རྒྱུད་»དང་། ༼༡༥༽«ཉི་ཟླ་ཁ་སྦྱོར་གྱི་རྒྱུད་»དང་། ༼༡༦༽«སེང་གེ་རྩལ་རྫོགས་ཀྱི་རྒྱུད་»དང་། ༼༡༧༽«ནོར་བུ་ཕྲ་བཀོད་ཀྱི་རྒྱུད་»བཅས་བཅུ་བདུན་ཁོ་ན་བསྒྲིགས་ཞུས་མཛད།\nསྔ་འགྱུར་རྙིང་མའི་ཞིབ་འཇུག་ལྟེ་གནས་ཁང་ (NNRC) གི་ཞིབ་འཇུག་པ་མཁན་པོ་དཀོན་མཆོག་བསྟན་འཛིན་ནས།" ,
+      "lang" : "bo"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "printed by hand from the xylograph blocks preserved at the thar-pa-glin monastery in bum-than in central bhutan; carved under the patronage of h.m. king ugyen wangchuck, the first monarch of the present dynasty" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA1KG892"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "2" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTC139C78E0BD8EB51" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/TitlePageTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་བཅུ་བདུན།" ,
+      "lang" : "bo"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/EVD3E21BDA1A126D25" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/onYear" : [ { 
+      "type" : "literal" ,
+      "value" : "1983" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "1983" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTCB7E62A17B33C2FD" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/BibliographicalTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "རྫོགས་པ་ཆེན་པོ་རྙིང་རྒྱུད་ནང་གསལ་སེམས་ཀློང་སྡེ་གསུམ་གྱི་ཕྱི་མ་ཤིན་ཏུ་ཟབ་པ་མན་ངག་རྒྱུད་ཀྱི་རྒྱལ་པོ།" ,
+      "lang" : "bo"
+    }
+     ]
+  }
+}

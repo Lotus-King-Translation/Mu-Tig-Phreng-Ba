@@ -1,0 +1,123 @@
+{ 
+  "http://purl.bdrc.io/resource/CL705834BABC0EB449" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/ContentLocation"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/contentLocationEndLine" : [ { 
+      "type" : "literal" ,
+      "value" : "7" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/contentLocationPage" : [ { 
+      "type" : "literal" ,
+      "value" : "531" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/contentLocationLine" : [ { 
+      "type" : "literal" ,
+      "value" : "5" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/contentLocationVolume" : [ { 
+      "type" : "literal" ,
+      "value" : "9" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/contentLocationEndPage" : [ { 
+      "type" : "literal" ,
+      "value" : "585" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/contentLocationInstance" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W21518"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTCC45F22900B5BFDB" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Title"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "mu tig 'phreng ba zhes bya ba'i rgyud/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW21518_60123B" : { 
+    "http://purl.bdrc.io/ontology/core/contentLocation" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CL705834BABC0EB449"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/partTreeIndex" : [ { 
+      "type" : "literal" ,
+      "value" : "1.6.1.07"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/legacyOutlineNodeRID" : [ { 
+      "type" : "literal" ,
+      "value" : "O1CT100101CT4084"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "mu tig 'phreng ba zhes bya ba'i rgyud/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTCC45F22900B5BFDB"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/partIndex" : [ { 
+      "type" : "literal" ,
+      "value" : "7" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/inRootInstance" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21518"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "523.5-577.7"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA0XL60123BEBEC01"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/partType" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PartTypeText"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/partOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21518_0C94D7"
+    }
+     ]
+  }
+}

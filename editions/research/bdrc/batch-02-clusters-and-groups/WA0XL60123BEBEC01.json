@@ -1,0 +1,31 @@
+{ 
+  "http://purl.bdrc.io/resource/WA0XL60123BEBEC01" : { 
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "mu tig 'phreng ba zhes bya ba'i rgyud/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Work"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/entityScore" : [ { 
+      "type" : "literal" ,
+      "value" : "2" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/workHasInstance" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21518_60123B"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/language" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/LangBo"
+    }
+     ]
+  }
+}

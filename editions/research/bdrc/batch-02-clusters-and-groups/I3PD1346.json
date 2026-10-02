@@ -1,0 +1,38 @@
+{ 
+  "http://purl.bdrc.io/resource/I3PD1346" : { 
+    "http://purl.bdrc.io/ontology/core/volumePagesTbrcIntro" : [ { 
+      "type" : "literal" ,
+      "value" : "2" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/ImageGroup"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/volumeNumber" : [ { 
+      "type" : "literal" ,
+      "value" : "148" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "Volume 148 of khams sde dge rdzong sar bla ma lha khang du bzhugs pa'i dpe rnying /" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/volumePagesTotal" : [ { 
+      "type" : "literal" ,
+      "value" : "472" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/volumeOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W3PD988"
+    }
+     ]
+  }
+}
