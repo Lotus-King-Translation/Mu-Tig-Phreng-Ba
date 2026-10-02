@@ -1,0 +1,6586 @@
+{
+  "schema_version": 1,
+  "status": "non_editorial_preflight_complete",
+  "scope": "Full electronic structural/defect triage only; candidate source checks, no selected readings, no substantive chapter review.",
+  "governing_scan_selected_by_coordinator": "adzom-1973; W1KG892; v2; I1KG895; printed417–537; source images427–547",
+  "anchor_convention": {
+    "format": "MTP-S000001",
+    "rule": "1-based index of payload.splitlines(keepends=True); initial blank is line1; every line including final LF preserved.",
+    "offsets": "0-based Python Unicode-character indices, half-open; offsets include line-ending LF. Raw offsets add the character position after the first <poem>."
+  },
+  "sources": {
+    "tibetan": {
+      "path": "editions/research/etexts-translations/wikisource/tibetan-raw.wiki",
+      "raw_sha256": "3d888d525c101b879a5d866b63090b6e5aac91ba5a613d58328ccdb86d66f00b",
+      "payload_sha256": "132abae6a5d3e13ac4fa5aefea7f947afe31962db9ec7f2cf7e0bd37ba08f7d4",
+      "payload_raw_character_start": 12,
+      "payload_characters": 52508,
+      "payload_utf8_bytes": 153418,
+      "lines": 2053,
+      "final_LF": true
+    },
+    "wylie": {
+      "path": "editions/research/etexts-translations/wikisource/wylie-raw.wiki",
+      "raw_sha256": "d26075bd2a164238d3c68a47a68e821a58d10092f9943350b4fefa8b6c5e3cdb",
+      "payload_sha256": "a1a487a1b2073905d956f298a4fbea3cdc5566c03a10ecacfd8a669f1ca695ad",
+      "payload_raw_character_start": 6,
+      "payload_characters": 63399,
+      "payload_utf8_bytes": 63399,
+      "lines": 2053,
+      "final_LF": true
+    }
+  },
+  "coverage": {
+    "payload_lines_scanned_each_rendition": 2053,
+    "total_line_pairs_triaged": 2053,
+    "blank_lines_each": [
+      1
+    ],
+    "chapter_marker_lines": [
+      2,
+      98,
+      222,
+      342,
+      636,
+      1052,
+      1428,
+      1770
+    ],
+    "page_marker_count_each": 120,
+    "text_lines_excluding_blank_chapter_and_page_markers": 1924,
+    "tibetan_nonblock_nonwhitespace_characters": [],
+    "literal_Latin_in_Tibetan_payload": 0,
+    "Tibetan_trailing_space_lines": [],
+    "Wylie_trailing_space_lines": [
+      1489
+    ],
+    "non_LF_line_separators": [],
+    "normalization_performed": false,
+    "dictionary_spellcheck_performed": false,
+    "native_scan_inspection_performed_in_this_triage": false,
+    "full_scan_proofreading_performed": false,
+    "exhaustive_witness_collation_performed": false,
+    "scan_checks_completed": 0,
+    "scan_checks_remaining": 50
+  },
+  "chapter_ranges": [
+    {
+      "chapter": 1,
+      "anchor_range": [
+        "MTP-S000001",
+        "MTP-S000097"
+      ],
+      "payload_line_range_1based_inclusive": [
+        1,
+        97
+      ],
+      "anchor_count": 97,
+      "chapter_marker_line": 2,
+      "closing_line": 97,
+      "closing_anchor": "MTP-S000097",
+      "closing_text": {
+        "tibetan": "གླེང་གཞིའི་ལེའུ་སྟེ་དང་པོའོ\n",
+        "wylie": "gleng gzhi'i le'u ste dang po'o\n"
+      },
+      "closing_offsets": {
+        "tibetan": [
+          2139,
+          2167
+        ],
+        "wylie": [
+          2619,
+          2651
+        ]
+      },
+      "payload_character_offsets": {
+        "tibetan": [
+          0,
+          2167
+        ],
+        "wylie": [
+          0,
+          2651
+        ]
+      },
+      "page_marker_hints": [
+        417,
+        423
+      ],
+      "printed_scan_range_hint": [
+        417,
+        423
+      ],
+      "bounds_status": "electronic structure exact; physical allocation requires targeted scan check",
+      "postchapter_colophon_range": null,
+      "candidate_checks": [
+        "MTP-TRIAGE-001",
+        "MTP-TRIAGE-002",
+        "MTP-TRIAGE-003",
+        "MTP-TRIAGE-004"
+      ],
+      "candidate_check_count": 4,
+      "target_printed_pages_hint": [
+        417,
+        418,
+        421,
+        422,
+        423
+      ]
+    },
+    {
+      "chapter": 2,
+      "anchor_range": [
+        "MTP-S000098",
+        "MTP-S000221"
+      ],
+      "payload_line_range_1based_inclusive": [
+        98,
+        221
+      ],
+      "anchor_count": 124,
+      "chapter_marker_line": 98,
+      "closing_line": 221,
+      "closing_anchor": "MTP-S000221",
+      "closing_text": {
+        "tibetan": "འཁྲུལ་པ་གཞི་ལས་ལྡོག་པའི་ལེའུ་སྟེ་གཉིས་པའོ\n",
+        "wylie": "'khrul pa gzhi las ldog pa'i le'u ste gnyis pa'o\n"
+      },
+      "closing_offsets": {
+        "tibetan": [
+          5351,
+          5393
+        ],
+        "wylie": [
+          6464,
+          6513
+        ]
+      },
+      "payload_character_offsets": {
+        "tibetan": [
+          2167,
+          5393
+        ],
+        "wylie": [
+          2651,
+          6513
+        ]
+      },
+      "page_marker_hints": [
+        423,
+        429
+      ],
+      "printed_scan_range_hint": [
+        423,
+        429
+      ],
+      "bounds_status": "electronic structure exact; physical allocation requires targeted scan check",
+      "postchapter_colophon_range": null,
+      "candidate_checks": [
+        "MTP-TRIAGE-005",
+        "MTP-TRIAGE-006",
+        "MTP-TRIAGE-007"
+      ],
+      "candidate_check_count": 3,
+      "target_printed_pages_hint": [
+        424,
+        427,
+        428,
+        429
+      ]
+    },
+    {
+      "chapter": 3,
+      "anchor_range": [
+        "MTP-S000222",
+        "MTP-S000341"
+      ],
+      "payload_line_range_1based_inclusive": [
+        222,
+        341
+      ],
+      "anchor_count": 120,
+      "chapter_marker_line": 222,
+      "closing_line": 341,
+      "closing_anchor": "MTP-S000341",
+      "closing_text": {
+        "tibetan": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ\n",
+        "wylie": "'khrul pa la bzla bar bstan pa'i le'u ste gsum pa'o\n"
+      },
+      "closing_offsets": {
+        "tibetan": [
+          8439,
+          8483
+        ],
+        "wylie": [
+          10173,
+          10225
+        ]
+      },
+      "payload_character_offsets": {
+        "tibetan": [
+          5393,
+          8483
+        ],
+        "wylie": [
+          6513,
+          10225
+        ]
+      },
+      "page_marker_hints": [
+        429,
+        436
+      ],
+      "printed_scan_range_hint": [
+        429,
+        436
+      ],
+      "bounds_status": "electronic structure exact; physical allocation requires targeted scan check",
+      "postchapter_colophon_range": null,
+      "candidate_checks": [
+        "MTP-TRIAGE-008",
+        "MTP-TRIAGE-009",
+        "MTP-TRIAGE-010"
+      ],
+      "candidate_check_count": 3,
+      "target_printed_pages_hint": [
+        429,
+        434,
+        436
+      ]
+    },
+    {
+      "chapter": 4,
+      "anchor_range": [
+        "MTP-S000342",
+        "MTP-S000635"
+      ],
+      "payload_line_range_1based_inclusive": [
+        342,
+        635
+      ],
+      "anchor_count": 294,
+      "chapter_marker_line": 342,
+      "closing_line": 635,
+      "closing_anchor": "MTP-S000635",
+      "closing_text": {
+        "tibetan": "འབད་མེད་རང་གྲོལ་གྱི་ལེའུ་སྟེ་བཞི་པའོ\n",
+        "wylie": "'bad med rang grol gyi le'u ste bzhi pa'o\n"
+      },
+      "closing_offsets": {
+        "tibetan": [
+          15965,
+          16002
+        ],
+        "wylie": [
+          19183,
+          19225
+        ]
+      },
+      "payload_character_offsets": {
+        "tibetan": [
+          8483,
+          16002
+        ],
+        "wylie": [
+          10225,
+          19225
+        ]
+      },
+      "page_marker_hints": [
+        436,
+        454
+      ],
+      "printed_scan_range_hint": [
+        436,
+        454
+      ],
+      "bounds_status": "electronic structure exact; physical allocation requires targeted scan check",
+      "postchapter_colophon_range": null,
+      "candidate_checks": [
+        "MTP-TRIAGE-011",
+        "MTP-TRIAGE-012",
+        "MTP-TRIAGE-013",
+        "MTP-TRIAGE-014",
+        "MTP-TRIAGE-015"
+      ],
+      "candidate_check_count": 5,
+      "target_printed_pages_hint": [
+        436,
+        442,
+        443,
+        453,
+        454
+      ]
+    },
+    {
+      "chapter": 5,
+      "anchor_range": [
+        "MTP-S000636",
+        "MTP-S001051"
+      ],
+      "payload_line_range_1based_inclusive": [
+        636,
+        1051
+      ],
+      "anchor_count": 416,
+      "chapter_marker_line": 636,
+      "closing_line": 1051,
+      "closing_anchor": "MTP-S001051",
+      "closing_text": {
+        "tibetan": "གནས་ལུགས་འཁྲུལ་པ་རང་རྫོགས་སུ་བསྟན་པའི་ལེའུ་སྟེ་ལྔ་པའོ\n",
+        "wylie": "gnas lugs 'khrul pa rang rdzogs su bstan pa'i le'u ste lnga pa'o\n"
+      },
+      "closing_offsets": {
+        "tibetan": [
+          26478,
+          26532
+        ],
+        "wylie": [
+          31867,
+          31932
+        ]
+      },
+      "payload_character_offsets": {
+        "tibetan": [
+          16002,
+          26532
+        ],
+        "wylie": [
+          19225,
+          31932
+        ]
+      },
+      "page_marker_hints": [
+        454,
+        480
+      ],
+      "printed_scan_range_hint": [
+        454,
+        480
+      ],
+      "bounds_status": "electronic structure exact; physical allocation requires targeted scan check",
+      "postchapter_colophon_range": null,
+      "candidate_checks": [
+        "MTP-TRIAGE-016",
+        "MTP-TRIAGE-017",
+        "MTP-TRIAGE-018",
+        "MTP-TRIAGE-019",
+        "MTP-TRIAGE-020",
+        "MTP-TRIAGE-021",
+        "MTP-TRIAGE-022",
+        "MTP-TRIAGE-023",
+        "MTP-TRIAGE-024",
+        "MTP-TRIAGE-025"
+      ],
+      "candidate_check_count": 10,
+      "target_printed_pages_hint": [
+        454,
+        455,
+        459,
+        461,
+        463,
+        466,
+        470,
+        472,
+        478,
+        479,
+        480
+      ]
+    },
+    {
+      "chapter": 6,
+      "anchor_range": [
+        "MTP-S001052",
+        "MTP-S001427"
+      ],
+      "payload_line_range_1based_inclusive": [
+        1052,
+        1427
+      ],
+      "anchor_count": 376,
+      "chapter_marker_line": 1052,
+      "closing_line": 1427,
+      "closing_anchor": "MTP-S001427",
+      "closing_text": {
+        "tibetan": "སེམས་ཅན་གྱི་སྣང་བ་ཐབས་ལ་མཁས་པ་བསྟན་པའི་ལེའུ་སྟེ་དྲུག་པའོ\n",
+        "wylie": "sems can gyi snang ba thabs la mkhas pa bstan pa'i le'u ste drug pa'o\n"
+      },
+      "closing_offsets": {
+        "tibetan": [
+          36317,
+          36374
+        ],
+        "wylie": [
+          43843,
+          43913
+        ]
+      },
+      "payload_character_offsets": {
+        "tibetan": [
+          26532,
+          36374
+        ],
+        "wylie": [
+          31932,
+          43913
+        ]
+      },
+      "page_marker_hints": [
+        480,
+        502
+      ],
+      "printed_scan_range_hint": [
+        480,
+        502
+      ],
+      "bounds_status": "electronic structure exact; physical allocation requires targeted scan check",
+      "postchapter_colophon_range": null,
+      "candidate_checks": [
+        "MTP-TRIAGE-026",
+        "MTP-TRIAGE-027",
+        "MTP-TRIAGE-028",
+        "MTP-TRIAGE-029",
+        "MTP-TRIAGE-030",
+        "MTP-TRIAGE-031",
+        "MTP-TRIAGE-032",
+        "MTP-TRIAGE-033",
+        "MTP-TRIAGE-034"
+      ],
+      "candidate_check_count": 9,
+      "target_printed_pages_hint": [
+        480,
+        481,
+        482,
+        486,
+        489,
+        490,
+        492,
+        495,
+        499,
+        502
+      ]
+    },
+    {
+      "chapter": 7,
+      "anchor_range": [
+        "MTP-S001428",
+        "MTP-S001769"
+      ],
+      "payload_line_range_1based_inclusive": [
+        1428,
+        1769
+      ],
+      "anchor_count": 342,
+      "chapter_marker_line": 1428,
+      "closing_line": 1769,
+      "closing_anchor": "MTP-S001769",
+      "closing_text": {
+        "tibetan": "འཁོར་འདས་ཀྱི་ཆོས་ཐམས་ཅད་རང་ལ་རྫོགས་པར་བསྟན་པའི་ལེའུ་སྟེ་བདུན་པའོ\n",
+        "wylie": "'khor 'das kyi chos thams cad rang la rdzogs par bstan pa'i le'u ste bdun pa'o\n"
+      },
+      "closing_offsets": {
+        "tibetan": [
+          45033,
+          45098
+        ],
+        "wylie": [
+          54438,
+          54517
+        ]
+      },
+      "payload_character_offsets": {
+        "tibetan": [
+          36374,
+          45098
+        ],
+        "wylie": [
+          43913,
+          54517
+        ]
+      },
+      "page_marker_hints": [
+        502,
+        520
+      ],
+      "printed_scan_range_hint": [
+        502,
+        520
+      ],
+      "bounds_status": "electronic structure exact; physical allocation requires targeted scan check",
+      "postchapter_colophon_range": null,
+      "candidate_checks": [
+        "MTP-TRIAGE-035",
+        "MTP-TRIAGE-036",
+        "MTP-TRIAGE-037",
+        "MTP-TRIAGE-038",
+        "MTP-TRIAGE-039",
+        "MTP-TRIAGE-040",
+        "MTP-TRIAGE-041",
+        "MTP-TRIAGE-042"
+      ],
+      "candidate_check_count": 8,
+      "target_printed_pages_hint": [
+        503,
+        506,
+        507,
+        508,
+        514,
+        516,
+        519,
+        520
+      ]
+    },
+    {
+      "chapter": 8,
+      "anchor_range": [
+        "MTP-S001770",
+        "MTP-S002053"
+      ],
+      "payload_line_range_1based_inclusive": [
+        1770,
+        2053
+      ],
+      "anchor_count": 284,
+      "chapter_marker_line": 1770,
+      "closing_line": 2035,
+      "closing_anchor": "MTP-S002035",
+      "closing_text": {
+        "tibetan": "རྒྱུད་ཐམས་ཅད་བསྡོམས་ཏེ་བསྟན་པའི་ལེའུ་སྟེ་བརྒྱད་པའོ\n",
+        "wylie": "rgyud thams cad bsdoms te bstan pa'i le'u ste brgyad pa'o\n"
+      },
+      "closing_offsets": {
+        "tibetan": [
+          51932,
+          51983
+        ],
+        "wylie": [
+          62721,
+          62779
+        ]
+      },
+      "payload_character_offsets": {
+        "tibetan": [
+          45098,
+          52508
+        ],
+        "wylie": [
+          54517,
+          63399
+        ]
+      },
+      "page_marker_hints": [
+        520,
+        537
+      ],
+      "printed_scan_range_hint": [
+        520,
+        537
+      ],
+      "bounds_status": "electronic structure exact; physical allocation requires targeted scan check",
+      "postchapter_colophon_range": [
+        "MTP-S002036",
+        "MTP-S002053"
+      ],
+      "candidate_checks": [
+        "MTP-TRIAGE-043",
+        "MTP-TRIAGE-044",
+        "MTP-TRIAGE-045",
+        "MTP-TRIAGE-046",
+        "MTP-TRIAGE-047",
+        "MTP-TRIAGE-048",
+        "MTP-TRIAGE-049",
+        "MTP-TRIAGE-050"
+      ],
+      "candidate_check_count": 8,
+      "target_printed_pages_hint": [
+        523,
+        526,
+        528,
+        530,
+        531,
+        533,
+        534,
+        535,
+        536,
+        537
+      ]
+    }
+  ],
+  "page_markers": [
+    {
+      "line": 3,
+      "anchor": "MTP-S000003",
+      "page": 417
+    },
+    {
+      "line": 5,
+      "anchor": "MTP-S000005",
+      "page": 418
+    },
+    {
+      "line": 15,
+      "anchor": "MTP-S000015",
+      "page": 419
+    },
+    {
+      "line": 22,
+      "anchor": "MTP-S000022",
+      "page": 420
+    },
+    {
+      "line": 38,
+      "anchor": "MTP-S000038",
+      "page": 421
+    },
+    {
+      "line": 58,
+      "anchor": "MTP-S000058",
+      "page": 422
+    },
+    {
+      "line": 90,
+      "anchor": "MTP-S000090",
+      "page": 423
+    },
+    {
+      "line": 112,
+      "anchor": "MTP-S000112",
+      "page": 424
+    },
+    {
+      "line": 133,
+      "anchor": "MTP-S000133",
+      "page": 425
+    },
+    {
+      "line": 153,
+      "anchor": "MTP-S000153",
+      "page": 426
+    },
+    {
+      "line": 173,
+      "anchor": "MTP-S000173",
+      "page": 427
+    },
+    {
+      "line": 192,
+      "anchor": "MTP-S000192",
+      "page": 428
+    },
+    {
+      "line": 215,
+      "anchor": "MTP-S000215",
+      "page": 429
+    },
+    {
+      "line": 233,
+      "anchor": "MTP-S000233",
+      "page": 430
+    },
+    {
+      "line": 251,
+      "anchor": "MTP-S000251",
+      "page": 431
+    },
+    {
+      "line": 268,
+      "anchor": "MTP-S000268",
+      "page": 432
+    },
+    {
+      "line": 285,
+      "anchor": "MTP-S000285",
+      "page": 433
+    },
+    {
+      "line": 303,
+      "anchor": "MTP-S000303",
+      "page": 434
+    },
+    {
+      "line": 319,
+      "anchor": "MTP-S000319",
+      "page": 435
+    },
+    {
+      "line": 336,
+      "anchor": "MTP-S000336",
+      "page": 436
+    },
+    {
+      "line": 358,
+      "anchor": "MTP-S000358",
+      "page": 437
+    },
+    {
+      "line": 377,
+      "anchor": "MTP-S000377",
+      "page": 438
+    },
+    {
+      "line": 395,
+      "anchor": "MTP-S000395",
+      "page": 439
+    },
+    {
+      "line": 413,
+      "anchor": "MTP-S000413",
+      "page": 440
+    },
+    {
+      "line": 429,
+      "anchor": "MTP-S000429",
+      "page": 441
+    },
+    {
+      "line": 445,
+      "anchor": "MTP-S000445",
+      "page": 442
+    },
+    {
+      "line": 460,
+      "anchor": "MTP-S000460",
+      "page": 443
+    },
+    {
+      "line": 474,
+      "anchor": "MTP-S000474",
+      "page": 444
+    },
+    {
+      "line": 488,
+      "anchor": "MTP-S000488",
+      "page": 445
+    },
+    {
+      "line": 504,
+      "anchor": "MTP-S000504",
+      "page": 446
+    },
+    {
+      "line": 518,
+      "anchor": "MTP-S000518",
+      "page": 447
+    },
+    {
+      "line": 535,
+      "anchor": "MTP-S000535",
+      "page": 448
+    },
+    {
+      "line": 551,
+      "anchor": "MTP-S000551",
+      "page": 449
+    },
+    {
+      "line": 567,
+      "anchor": "MTP-S000567",
+      "page": 450
+    },
+    {
+      "line": 584,
+      "anchor": "MTP-S000584",
+      "page": 451
+    },
+    {
+      "line": 599,
+      "anchor": "MTP-S000599",
+      "page": 452
+    },
+    {
+      "line": 615,
+      "anchor": "MTP-S000615",
+      "page": 453
+    },
+    {
+      "line": 630,
+      "anchor": "MTP-S000630",
+      "page": 454
+    },
+    {
+      "line": 648,
+      "anchor": "MTP-S000648",
+      "page": 455
+    },
+    {
+      "line": 661,
+      "anchor": "MTP-S000661",
+      "page": 456
+    },
+    {
+      "line": 679,
+      "anchor": "MTP-S000679",
+      "page": 457
+    },
+    {
+      "line": 693,
+      "anchor": "MTP-S000693",
+      "page": 458
+    },
+    {
+      "line": 709,
+      "anchor": "MTP-S000709",
+      "page": 459
+    },
+    {
+      "line": 731,
+      "anchor": "MTP-S000731",
+      "page": 460
+    },
+    {
+      "line": 750,
+      "anchor": "MTP-S000750",
+      "page": 461
+    },
+    {
+      "line": 768,
+      "anchor": "MTP-S000768",
+      "page": 462
+    },
+    {
+      "line": 784,
+      "anchor": "MTP-S000784",
+      "page": 463
+    },
+    {
+      "line": 797,
+      "anchor": "MTP-S000797",
+      "page": 464
+    },
+    {
+      "line": 814,
+      "anchor": "MTP-S000814",
+      "page": 465
+    },
+    {
+      "line": 830,
+      "anchor": "MTP-S000830",
+      "page": 466
+    },
+    {
+      "line": 847,
+      "anchor": "MTP-S000847",
+      "page": 467
+    },
+    {
+      "line": 865,
+      "anchor": "MTP-S000865",
+      "page": 468
+    },
+    {
+      "line": 883,
+      "anchor": "MTP-S000883",
+      "page": 469
+    },
+    {
+      "line": 899,
+      "anchor": "MTP-S000899",
+      "page": 470
+    },
+    {
+      "line": 914,
+      "anchor": "MTP-S000914",
+      "page": 471
+    },
+    {
+      "line": 930,
+      "anchor": "MTP-S000930",
+      "page": 472
+    },
+    {
+      "line": 948,
+      "anchor": "MTP-S000948",
+      "page": 473
+    },
+    {
+      "line": 963,
+      "anchor": "MTP-S000963",
+      "page": 474
+    },
+    {
+      "line": 981,
+      "anchor": "MTP-S000981",
+      "page": 475
+    },
+    {
+      "line": 995,
+      "anchor": "MTP-S000995",
+      "page": 476
+    },
+    {
+      "line": 1009,
+      "anchor": "MTP-S001009",
+      "page": 477
+    },
+    {
+      "line": 1022,
+      "anchor": "MTP-S001022",
+      "page": 478
+    },
+    {
+      "line": 1038,
+      "anchor": "MTP-S001038",
+      "page": 479
+    },
+    {
+      "line": 1050,
+      "anchor": "MTP-S001050",
+      "page": 480
+    },
+    {
+      "line": 1068,
+      "anchor": "MTP-S001068",
+      "page": 481
+    },
+    {
+      "line": 1086,
+      "anchor": "MTP-S001086",
+      "page": 482
+    },
+    {
+      "line": 1102,
+      "anchor": "MTP-S001102",
+      "page": 483
+    },
+    {
+      "line": 1116,
+      "anchor": "MTP-S001116",
+      "page": 484
+    },
+    {
+      "line": 1128,
+      "anchor": "MTP-S001128",
+      "page": 485
+    },
+    {
+      "line": 1137,
+      "anchor": "MTP-S001137",
+      "page": 486
+    },
+    {
+      "line": 1153,
+      "anchor": "MTP-S001153",
+      "page": 487
+    },
+    {
+      "line": 1172,
+      "anchor": "MTP-S001172",
+      "page": 488
+    },
+    {
+      "line": 1187,
+      "anchor": "MTP-S001187",
+      "page": 489
+    },
+    {
+      "line": 1207,
+      "anchor": "MTP-S001207",
+      "page": 490
+    },
+    {
+      "line": 1224,
+      "anchor": "MTP-S001224",
+      "page": 491
+    },
+    {
+      "line": 1243,
+      "anchor": "MTP-S001243",
+      "page": 492
+    },
+    {
+      "line": 1259,
+      "anchor": "MTP-S001259",
+      "page": 493
+    },
+    {
+      "line": 1282,
+      "anchor": "MTP-S001282",
+      "page": 494
+    },
+    {
+      "line": 1298,
+      "anchor": "MTP-S001298",
+      "page": 495
+    },
+    {
+      "line": 1313,
+      "anchor": "MTP-S001313",
+      "page": 496
+    },
+    {
+      "line": 1329,
+      "anchor": "MTP-S001329",
+      "page": 497
+    },
+    {
+      "line": 1345,
+      "anchor": "MTP-S001345",
+      "page": 498
+    },
+    {
+      "line": 1362,
+      "anchor": "MTP-S001362",
+      "page": 499
+    },
+    {
+      "line": 1382,
+      "anchor": "MTP-S001382",
+      "page": 500
+    },
+    {
+      "line": 1401,
+      "anchor": "MTP-S001401",
+      "page": 501
+    },
+    {
+      "line": 1421,
+      "anchor": "MTP-S001421",
+      "page": 502
+    },
+    {
+      "line": 1444,
+      "anchor": "MTP-S001444",
+      "page": 503
+    },
+    {
+      "line": 1466,
+      "anchor": "MTP-S001466",
+      "page": 504
+    },
+    {
+      "line": 1483,
+      "anchor": "MTP-S001483",
+      "page": 505
+    },
+    {
+      "line": 1503,
+      "anchor": "MTP-S001503",
+      "page": 506
+    },
+    {
+      "line": 1518,
+      "anchor": "MTP-S001518",
+      "page": 507
+    },
+    {
+      "line": 1531,
+      "anchor": "MTP-S001531",
+      "page": 508
+    },
+    {
+      "line": 1551,
+      "anchor": "MTP-S001551",
+      "page": 509
+    },
+    {
+      "line": 1573,
+      "anchor": "MTP-S001573",
+      "page": 510
+    },
+    {
+      "line": 1596,
+      "anchor": "MTP-S001596",
+      "page": 511
+    },
+    {
+      "line": 1614,
+      "anchor": "MTP-S001614",
+      "page": 512
+    },
+    {
+      "line": 1631,
+      "anchor": "MTP-S001631",
+      "page": 513
+    },
+    {
+      "line": 1650,
+      "anchor": "MTP-S001650",
+      "page": 514
+    },
+    {
+      "line": 1669,
+      "anchor": "MTP-S001669",
+      "page": 515
+    },
+    {
+      "line": 1687,
+      "anchor": "MTP-S001687",
+      "page": 516
+    },
+    {
+      "line": 1708,
+      "anchor": "MTP-S001708",
+      "page": 517
+    },
+    {
+      "line": 1727,
+      "anchor": "MTP-S001727",
+      "page": 518
+    },
+    {
+      "line": 1743,
+      "anchor": "MTP-S001743",
+      "page": 519
+    },
+    {
+      "line": 1759,
+      "anchor": "MTP-S001759",
+      "page": 520
+    },
+    {
+      "line": 1780,
+      "anchor": "MTP-S001780",
+      "page": 521
+    },
+    {
+      "line": 1797,
+      "anchor": "MTP-S001797",
+      "page": 522
+    },
+    {
+      "line": 1815,
+      "anchor": "MTP-S001815",
+      "page": 523
+    },
+    {
+      "line": 1829,
+      "anchor": "MTP-S001829",
+      "page": 524
+    },
+    {
+      "line": 1843,
+      "anchor": "MTP-S001843",
+      "page": 525
+    },
+    {
+      "line": 1859,
+      "anchor": "MTP-S001859",
+      "page": 526
+    },
+    {
+      "line": 1874,
+      "anchor": "MTP-S001874",
+      "page": 527
+    },
+    {
+      "line": 1891,
+      "anchor": "MTP-S001891",
+      "page": 528
+    },
+    {
+      "line": 1905,
+      "anchor": "MTP-S001905",
+      "page": 529
+    },
+    {
+      "line": 1922,
+      "anchor": "MTP-S001922",
+      "page": 530
+    },
+    {
+      "line": 1941,
+      "anchor": "MTP-S001941",
+      "page": 531
+    },
+    {
+      "line": 1954,
+      "anchor": "MTP-S001954",
+      "page": 532
+    },
+    {
+      "line": 1972,
+      "anchor": "MTP-S001972",
+      "page": 533
+    },
+    {
+      "line": 1991,
+      "anchor": "MTP-S001991",
+      "page": 534
+    },
+    {
+      "line": 2009,
+      "anchor": "MTP-S002009",
+      "page": 535
+    },
+    {
+      "line": 2039,
+      "anchor": "MTP-S002039",
+      "page": 537
+    }
+  ],
+  "page_sequence_anomalies": [
+    {
+      "previous_marker": 535,
+      "previous_line": 2009,
+      "next_marker": 537,
+      "next_line": 2039,
+      "missing_marker": 536,
+      "diagnosis": "Missing electronic page marker only established. No conclusion about text loss or printed pagination until scan check."
+    }
+  ],
+  "transcript_relationship": "Both renditions are one Valby/Adzom transcription family. Shared suspicious strings are not independent witness agreement.",
+  "candidate_scan_checks": [
+    {
+      "id": "MTP-TRIAGE-001",
+      "chapter": 1,
+      "classification": "structure/layer",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000004",
+        "MTP-S000006",
+        "MTP-S000007",
+        "MTP-S000008",
+        "MTP-S000009"
+      ],
+      "payload_lines_1based": [
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "page_marker_hints": [
+        417,
+        418
+      ],
+      "target_printed_pages_hint": [
+        417,
+        418
+      ],
+      "target_iiif_images_hint": [
+        427,
+        428
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Title, Sanskrit-language heading immediately followed by Tibetan-language heading, invocation. No Sanskrit-title string is supplied between lines 6 and 7; inspect scan before diagnosing omission or restoration.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000004",
+          "line": 4,
+          "renditions": {
+            "tibetan": {
+              "text": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས\n",
+              "payload_character_offsets": [
+                8,
+                55
+              ],
+              "raw_character_offsets": [
+                20,
+                67
+              ]
+            },
+            "wylie": {
+              "text": "mu tig rin po che phreng ba'i rgyud ces bya ba bzhugs\n",
+              "payload_character_offsets": [
+                8,
+                62
+              ],
+              "raw_character_offsets": [
+                14,
+                68
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000006",
+          "line": 6,
+          "renditions": {
+            "tibetan": {
+              "text": "རྒྱ་གར་སྐད་དུ\n",
+              "payload_character_offsets": [
+                59,
+                73
+              ],
+              "raw_character_offsets": [
+                71,
+                85
+              ]
+            },
+            "wylie": {
+              "text": "rgya gar skad du\n",
+              "payload_character_offsets": [
+                66,
+                83
+              ],
+              "raw_character_offsets": [
+                72,
+                89
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000007",
+          "line": 7,
+          "renditions": {
+            "tibetan": {
+              "text": "བོད་སྐད་དུ\n",
+              "payload_character_offsets": [
+                73,
+                84
+              ],
+              "raw_character_offsets": [
+                85,
+                96
+              ]
+            },
+            "wylie": {
+              "text": "bod skad du\n",
+              "payload_character_offsets": [
+                83,
+                95
+              ],
+              "raw_character_offsets": [
+                89,
+                101
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000008",
+          "line": 8,
+          "renditions": {
+            "tibetan": {
+              "text": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ\n",
+              "payload_character_offsets": [
+                84,
+                125
+              ],
+              "raw_character_offsets": [
+                96,
+                137
+              ]
+            },
+            "wylie": {
+              "text": "mu tig rin po che phreng ba'i rgyud ces bya ba\n",
+              "payload_character_offsets": [
+                95,
+                142
+              ],
+              "raw_character_offsets": [
+                101,
+                148
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000009",
+          "line": 9,
+          "renditions": {
+            "tibetan": {
+              "text": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ\n",
+              "payload_character_offsets": [
+                125,
+                188
+              ],
+              "raw_character_offsets": [
+                137,
+                200
+              ]
+            },
+            "wylie": {
+              "text": "bcom ldan 'das rig pa'i bdag nyid 'khrul pa mi mnga' ba nyid la phyag 'tshal lo\n",
+              "payload_character_offsets": [
+                142,
+                222
+              ],
+              "raw_character_offsets": [
+                148,
+                228
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-002",
+      "chapter": 1,
+      "classification": "unusual_form",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000042"
+      ],
+      "payload_lines_1based": [
+        42
+      ],
+      "page_marker_hints": [
+        421
+      ],
+      "target_printed_pages_hint": [
+        421
+      ],
+      "target_iiif_images_hint": [
+        431
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "rim po che: unexpected lexical form in a list of families. Candidate source check only.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000042",
+          "line": 42,
+          "renditions": {
+            "tibetan": {
+              "text": "རིམ་པོ་ཆེའི་རིགས་དང\n",
+              "payload_character_offsets": [
+                1245,
+                1265
+              ],
+              "raw_character_offsets": [
+                1257,
+                1277
+              ]
+            },
+            "wylie": {
+              "text": "rim po che'i rigs dang\n",
+              "payload_character_offsets": [
+                1496,
+                1519
+              ],
+              "raw_character_offsets": [
+                1502,
+                1525
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-003",
+      "chapter": 1,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000078"
+      ],
+      "payload_lines_1based": [
+        78
+      ],
+      "page_marker_hints": [
+        422
+      ],
+      "target_printed_pages_hint": [
+        422
+      ],
+      "target_iiif_images_hint": [
+        432
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "dan ends an otherwise repeated dang list. Check exact glyph; do not normalize from list grammar.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000078",
+          "line": 78,
+          "renditions": {
+            "tibetan": {
+              "text": "ལྷ་མ་ཡིན་དན\n",
+              "payload_character_offsets": [
+                1810,
+                1822
+              ],
+              "raw_character_offsets": [
+                1822,
+                1834
+              ]
+            },
+            "wylie": {
+              "text": "lha ma yin dan\n",
+              "payload_character_offsets": [
+                2200,
+                2215
+              ],
+              "raw_character_offsets": [
+                2206,
+                2221
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-004",
+      "chapter": 1,
+      "classification": "chapter_boundary",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000096",
+        "MTP-S000097"
+      ],
+      "payload_lines_1based": [
+        96,
+        97
+      ],
+      "page_marker_hints": [
+        423
+      ],
+      "target_printed_pages_hint": [
+        423
+      ],
+      "target_iiif_images_hint": [
+        433
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Classify complete chapter-one closing formula and marker boundary.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000096",
+          "line": 96,
+          "renditions": {
+            "tibetan": {
+              "text": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས\n",
+              "payload_character_offsets": [
+                2104,
+                2139
+              ],
+              "raw_character_offsets": [
+                2116,
+                2151
+              ]
+            },
+            "wylie": {
+              "text": "zhes mu tig phreng ba'i rgyud gsang ba las\n",
+              "payload_character_offsets": [
+                2576,
+                2619
+              ],
+              "raw_character_offsets": [
+                2582,
+                2625
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000097",
+          "line": 97,
+          "renditions": {
+            "tibetan": {
+              "text": "གླེང་གཞིའི་ལེའུ་སྟེ་དང་པོའོ\n",
+              "payload_character_offsets": [
+                2139,
+                2167
+              ],
+              "raw_character_offsets": [
+                2151,
+                2179
+              ]
+            },
+            "wylie": {
+              "text": "gleng gzhi'i le'u ste dang po'o\n",
+              "payload_character_offsets": [
+                2619,
+                2651
+              ],
+              "raw_character_offsets": [
+                2625,
+                2657
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-005",
+      "chapter": 2,
+      "classification": "possible_interleaving/lineation",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000117",
+        "MTP-S000124",
+        "MTP-S000128",
+        "MTP-S000129"
+      ],
+      "payload_lines_1based": [
+        117,
+        124,
+        128,
+        129
+      ],
+      "page_marker_hints": [
+        424
+      ],
+      "target_printed_pages_hint": [
+        424
+      ],
+      "target_iiif_images_hint": [
+        434
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Long strings containing 'das shes su bdal and bar dor plus two short adjacent lines merit main-text/annotation and line-allocation checks. These are only candidates; short or long lines alone do not prove annotation.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000117",
+          "line": 117,
+          "renditions": {
+            "tibetan": {
+              "text": "མ་རིག་འཁོར་བ་འདས་ཤེས་སུ་བདལ\n",
+              "payload_character_offsets": [
+                2709,
+                2737
+              ],
+              "raw_character_offsets": [
+                2721,
+                2749
+              ]
+            },
+            "wylie": {
+              "text": "ma rig 'khor ba 'das shes su bdal\n",
+              "payload_character_offsets": [
+                3296,
+                3330
+              ],
+              "raw_character_offsets": [
+                3302,
+                3336
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000124",
+          "line": 124,
+          "renditions": {
+            "tibetan": {
+              "text": "ཡེ་ཤེས་སྣང་བ་བར་དོར་བུ་ལ་སྣང\n",
+              "payload_character_offsets": [
+                2887,
+                2916
+              ],
+              "raw_character_offsets": [
+                2899,
+                2928
+              ]
+            },
+            "wylie": {
+              "text": "ye shes snang ba bar dor bu la snang\n",
+              "payload_character_offsets": [
+                3514,
+                3551
+              ],
+              "raw_character_offsets": [
+                3520,
+                3557
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000128",
+          "line": 128,
+          "renditions": {
+            "tibetan": {
+              "text": "རིག་པའི་མཐོང་ཕྱེ\n",
+              "payload_character_offsets": [
+                3002,
+                3019
+              ],
+              "raw_character_offsets": [
+                3014,
+                3031
+              ]
+            },
+            "wylie": {
+              "text": "rig pa'i mthong phye\n",
+              "payload_character_offsets": [
+                3649,
+                3670
+              ],
+              "raw_character_offsets": [
+                3655,
+                3676
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000129",
+          "line": 129,
+          "renditions": {
+            "tibetan": {
+              "text": "སྟོང་སྣང་བར་གྱུར\n",
+              "payload_character_offsets": [
+                3019,
+                3036
+              ],
+              "raw_character_offsets": [
+                3031,
+                3048
+              ]
+            },
+            "wylie": {
+              "text": "stong snang bar gyur\n",
+              "payload_character_offsets": [
+                3670,
+                3691
+              ],
+              "raw_character_offsets": [
+                3676,
+                3697
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-006",
+      "chapter": 2,
+      "classification": "possible_abbreviation/layer",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000178",
+        "MTP-S000183",
+        "MTP-S000184",
+        "MTP-S000185",
+        "MTP-S000186",
+        "MTP-S000188",
+        "MTP-S000193"
+      ],
+      "payload_lines_1based": [
+        178,
+        183,
+        184,
+        185,
+        186,
+        188,
+        193
+      ],
+      "page_marker_hints": [
+        427,
+        428
+      ],
+      "target_printed_pages_hint": [
+        427,
+        428
+      ],
+      "target_iiif_images_hint": [
+        437,
+        438
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Literal zhes pa nas may signal an abbreviated quotation, cross-reference or source note. Inspect surrounding long lines and ma la zha; do not expand from a parallel passage without source evidence.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000178",
+          "line": 178,
+          "renditions": {
+            "tibetan": {
+              "text": "སྟོང་པ་ཉིད་ཀྱི་དངོས་པོ་ལས་འདས་པའི་ཡེ་ཤེས་ལ\n",
+              "payload_character_offsets": [
+                4291,
+                4334
+              ],
+              "raw_character_offsets": [
+                4303,
+                4346
+              ]
+            },
+            "wylie": {
+              "text": "stong pa nyid kyi dngos po las 'das pa'i ye shes la\n",
+              "payload_character_offsets": [
+                5167,
+                5219
+              ],
+              "raw_character_offsets": [
+                5173,
+                5225
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000183",
+          "line": 183,
+          "renditions": {
+            "tibetan": {
+              "text": "ད་ལྟར་སྣང་ཞིང་འོད་ལྔ་ལྟར་འབྱུང\n",
+              "payload_character_offsets": [
+                4442,
+                4473
+              ],
+              "raw_character_offsets": [
+                4454,
+                4485
+              ]
+            },
+            "wylie": {
+              "text": "da ltar snang zhing 'od lnga ltar 'byung\n",
+              "payload_character_offsets": [
+                5346,
+                5387
+              ],
+              "raw_character_offsets": [
+                5352,
+                5393
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000184",
+          "line": 184,
+          "renditions": {
+            "tibetan": {
+              "text": "རིག་པའི་སྣང་བ་འོད་གསལ་བ\n",
+              "payload_character_offsets": [
+                4473,
+                4497
+              ],
+              "raw_character_offsets": [
+                4485,
+                4509
+              ]
+            },
+            "wylie": {
+              "text": "rig pa'i snang ba 'od gsal ba\n",
+              "payload_character_offsets": [
+                5387,
+                5417
+              ],
+              "raw_character_offsets": [
+                5393,
+                5423
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000185",
+          "line": 185,
+          "renditions": {
+            "tibetan": {
+              "text": "ཞེས་པ་ནས\n",
+              "payload_character_offsets": [
+                4497,
+                4506
+              ],
+              "raw_character_offsets": [
+                4509,
+                4518
+              ]
+            },
+            "wylie": {
+              "text": "zhes pa nas\n",
+              "payload_character_offsets": [
+                5417,
+                5429
+              ],
+              "raw_character_offsets": [
+                5423,
+                5435
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000186",
+          "line": 186,
+          "renditions": {
+            "tibetan": {
+              "text": "སྣ་ཚོགས་ཞེན་པ་རང་གྲོལ་ཏེ\n",
+              "payload_character_offsets": [
+                4506,
+                4531
+              ],
+              "raw_character_offsets": [
+                4518,
+                4543
+              ]
+            },
+            "wylie": {
+              "text": "sna tshogs zhen pa rang grol te\n",
+              "payload_character_offsets": [
+                5429,
+                5461
+              ],
+              "raw_character_offsets": [
+                5435,
+                5467
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000188",
+          "line": 188,
+          "renditions": {
+            "tibetan": {
+              "text": "དྲན་བྱེད་བསམ་པའི་ཆོས་ལས་འདས་སྟེ\n",
+              "payload_character_offsets": [
+                4556,
+                4588
+              ],
+              "raw_character_offsets": [
+                4568,
+                4600
+              ]
+            },
+            "wylie": {
+              "text": "dran byed bsam pa'i chos las 'das ste\n",
+              "payload_character_offsets": [
+                5491,
+                5529
+              ],
+              "raw_character_offsets": [
+                5497,
+                5535
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000193",
+          "line": 193,
+          "renditions": {
+            "tibetan": {
+              "text": "འཁྲུལ་པའི་ཡེ་ཤེས་མ་ལ་ཞ\n",
+              "payload_character_offsets": [
+                4675,
+                4698
+              ],
+              "raw_character_offsets": [
+                4687,
+                4710
+              ]
+            },
+            "wylie": {
+              "text": "'khrul pa'i ye shes ma la zha\n",
+              "payload_character_offsets": [
+                5632,
+                5662
+              ],
+              "raw_character_offsets": [
+                5638,
+                5668
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-007",
+      "chapter": 2,
+      "classification": "chapter_boundary",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000220",
+        "MTP-S000221"
+      ],
+      "payload_lines_1based": [
+        220,
+        221
+      ],
+      "page_marker_hints": [
+        429
+      ],
+      "target_printed_pages_hint": [
+        429
+      ],
+      "target_iiif_images_hint": [
+        439
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Classify chapter-two closing formula.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000220",
+          "line": 220,
+          "renditions": {
+            "tibetan": {
+              "text": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས\n",
+              "payload_character_offsets": [
+                5316,
+                5351
+              ],
+              "raw_character_offsets": [
+                5328,
+                5363
+              ]
+            },
+            "wylie": {
+              "text": "zhes mu tig phreng ba'i rgyud gsang ba las\n",
+              "payload_character_offsets": [
+                6421,
+                6464
+              ],
+              "raw_character_offsets": [
+                6427,
+                6470
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000221",
+          "line": 221,
+          "renditions": {
+            "tibetan": {
+              "text": "འཁྲུལ་པ་གཞི་ལས་ལྡོག་པའི་ལེའུ་སྟེ་གཉིས་པའོ\n",
+              "payload_character_offsets": [
+                5351,
+                5393
+              ],
+              "raw_character_offsets": [
+                5363,
+                5405
+              ]
+            },
+            "wylie": {
+              "text": "'khrul pa gzhi las ldog pa'i le'u ste gnyis pa'o\n",
+              "payload_character_offsets": [
+                6464,
+                6513
+              ],
+              "raw_character_offsets": [
+                6470,
+                6519
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-008",
+      "chapter": 3,
+      "classification": "ritual_formula",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000228",
+        "MTP-S000229",
+        "MTP-S000230"
+      ],
+      "payload_lines_1based": [
+        228,
+        229,
+        230
+      ],
+      "page_marker_hints": [
+        429
+      ],
+      "target_printed_pages_hint": [
+        429
+      ],
+      "target_iiif_images_hint": [
+        439
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "sar ba 'dus ha is a ritual-formula candidate; preserve source spelling and establish allocation rather than repair Sanskrit.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000228",
+          "line": 228,
+          "renditions": {
+            "tibetan": {
+              "text": "མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས\n",
+              "payload_character_offsets": [
+                5566,
+                5590
+              ],
+              "raw_character_offsets": [
+                5578,
+                5602
+              ]
+            },
+            "wylie": {
+              "text": "ma bzhugs pa yi stan las langs\n",
+              "payload_character_offsets": [
+                6710,
+                6741
+              ],
+              "raw_character_offsets": [
+                6716,
+                6747
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000229",
+          "line": 229,
+          "renditions": {
+            "tibetan": {
+              "text": "སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས\n",
+              "payload_character_offsets": [
+                5590,
+                5615
+              ],
+              "raw_character_offsets": [
+                5602,
+                5627
+              ]
+            },
+            "wylie": {
+              "text": "sar ba 'dus ha sgra brjod nas\n",
+              "payload_character_offsets": [
+                6741,
+                6771
+              ],
+              "raw_character_offsets": [
+                6747,
+                6777
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000230",
+          "line": 230,
+          "renditions": {
+            "tibetan": {
+              "text": "འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ\n",
+              "payload_character_offsets": [
+                5615,
+                5641
+              ],
+              "raw_character_offsets": [
+                5627,
+                5653
+              ]
+            },
+            "wylie": {
+              "text": "'dus pa'i tshogs la bka' stsal pa\n",
+              "payload_character_offsets": [
+                6771,
+                6805
+              ],
+              "raw_character_offsets": [
+                6777,
+                6811
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-009",
+      "chapter": 3,
+      "classification": "unusual_form/structural_number",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000309",
+        "MTP-S000315",
+        "MTP-S000316"
+      ],
+      "payload_lines_1based": [
+        309,
+        315,
+        316
+      ],
+      "page_marker_hints": [
+        434
+      ],
+      "target_printed_pages_hint": [
+        434
+      ],
+      "target_iiif_images_hint": [
+        444
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "lug rgyud, snyin po and gsum in adjacent short verses warrant a finite source check. Contraction or source variant remains possible.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000309",
+          "line": 309,
+          "renditions": {
+            "tibetan": {
+              "text": "ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ\n",
+              "payload_character_offsets": [
+                7627,
+                7656
+              ],
+              "raw_character_offsets": [
+                7639,
+                7668
+              ]
+            },
+            "wylie": {
+              "text": "ngo bo rmad byung lug rgyud rgya\n",
+              "payload_character_offsets": [
+                9191,
+                9224
+              ],
+              "raw_character_offsets": [
+                9197,
+                9230
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000315",
+          "line": 315,
+          "renditions": {
+            "tibetan": {
+              "text": "སྙིན་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན\n",
+              "payload_character_offsets": [
+                7775,
+                7802
+              ],
+              "raw_character_offsets": [
+                7787,
+                7814
+              ]
+            },
+            "wylie": {
+              "text": "snyin po nyid la snying po brtan\n",
+              "payload_character_offsets": [
+                9370,
+                9403
+              ],
+              "raw_character_offsets": [
+                9376,
+                9409
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000316",
+          "line": 316,
+          "renditions": {
+            "tibetan": {
+              "text": "ངེས་པའི་གསུམ་མན་ངག་འདི\n",
+              "payload_character_offsets": [
+                7802,
+                7825
+              ],
+              "raw_character_offsets": [
+                7814,
+                7837
+              ]
+            },
+            "wylie": {
+              "text": "nges pa'i gsum man ngag 'di\n",
+              "payload_character_offsets": [
+                9403,
+                9431
+              ],
+              "raw_character_offsets": [
+                9409,
+                9437
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-010",
+      "chapter": 3,
+      "classification": "chapter_boundary",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000340",
+        "MTP-S000341"
+      ],
+      "payload_lines_1based": [
+        340,
+        341
+      ],
+      "page_marker_hints": [
+        436
+      ],
+      "target_printed_pages_hint": [
+        436
+      ],
+      "target_iiif_images_hint": [
+        446
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Classify chapter-three closing formula.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000340",
+          "line": 340,
+          "renditions": {
+            "tibetan": {
+              "text": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་གསང་བ་ལས\n",
+              "payload_character_offsets": [
+                8394,
+                8439
+              ],
+              "raw_character_offsets": [
+                8406,
+                8451
+              ]
+            },
+            "wylie": {
+              "text": "zhes mu tig phreng ba rin po che'i rgyud gsang ba las\n",
+              "payload_character_offsets": [
+                10119,
+                10173
+              ],
+              "raw_character_offsets": [
+                10125,
+                10179
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000341",
+          "line": 341,
+          "renditions": {
+            "tibetan": {
+              "text": "འཁྲུལ་པ་ལ་བཟླ་བར་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ\n",
+              "payload_character_offsets": [
+                8439,
+                8483
+              ],
+              "raw_character_offsets": [
+                8451,
+                8495
+              ]
+            },
+            "wylie": {
+              "text": "'khrul pa la bzla bar bstan pa'i le'u ste gsum pa'o\n",
+              "payload_character_offsets": [
+                10173,
+                10225
+              ],
+              "raw_character_offsets": [
+                10179,
+                10231
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-011",
+      "chapter": 4,
+      "classification": "possible_lineation",
+      "triage_confidence": "low",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000355",
+        "MTP-S000356"
+      ],
+      "payload_lines_1based": [
+        355,
+        356
+      ],
+      "page_marker_hints": [
+        436
+      ],
+      "target_printed_pages_hint": [
+        436
+      ],
+      "target_iiif_images_hint": [
+        446
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "dur followed by them across transcript lines: verify printed line allocation and word division; unusual wording is not proof of corruption.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000355",
+          "line": 355,
+          "renditions": {
+            "tibetan": {
+              "text": "སངས་རྒྱས་སེམས་ཅན་ཀུན་གྱི་དུར\n",
+              "payload_character_offsets": [
+                8843,
+                8872
+              ],
+              "raw_character_offsets": [
+                8855,
+                8884
+              ]
+            },
+            "wylie": {
+              "text": "sangs rgyas sems can kun gyi dur\n",
+              "payload_character_offsets": [
+                10652,
+                10685
+              ],
+              "raw_character_offsets": [
+                10658,
+                10691
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000356",
+          "line": 356,
+          "renditions": {
+            "tibetan": {
+              "text": "ཐེམ་ཞིང་ཡང་དག་དོན་ལ་སྤྱོད\n",
+              "payload_character_offsets": [
+                8872,
+                8898
+              ],
+              "raw_character_offsets": [
+                8884,
+                8910
+              ]
+            },
+            "wylie": {
+              "text": "them zhing yang dag don la spyod\n",
+              "payload_character_offsets": [
+                10685,
+                10718
+              ],
+              "raw_character_offsets": [
+                10691,
+                10724
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-012",
+      "chapter": 4,
+      "classification": "possibly_broken_string",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000456"
+      ],
+      "payload_lines_1based": [
+        456
+      ],
+      "page_marker_hints": [
+        442
+      ],
+      "target_printed_pages_hint": [
+        442
+      ],
+      "target_iiif_images_hint": [
+        452
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "yid bzhin dgongs par ye nas pas is syntactically unusual. No replacement is proposed.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000456",
+          "line": 456,
+          "renditions": {
+            "tibetan": {
+              "text": "ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས\n",
+              "payload_character_offsets": [
+                11437,
+                11464
+              ],
+              "raw_character_offsets": [
+                11449,
+                11476
+              ]
+            },
+            "wylie": {
+              "text": "yid bzhin dgongs par ye nas pas\n",
+              "payload_character_offsets": [
+                13804,
+                13836
+              ],
+              "raw_character_offsets": [
+                13810,
+                13842
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-013",
+      "chapter": 4,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000469",
+        "MTP-S000470"
+      ],
+      "payload_lines_1based": [
+        469,
+        470
+      ],
+      "page_marker_hints": [
+        443
+      ],
+      "target_printed_pages_hint": [
+        443
+      ],
+      "target_iiif_images_hint": [
+        453
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Repeated dir in dir ma and dir med may be transcript transposition or printed spelling; verify scan.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000469",
+          "line": 469,
+          "renditions": {
+            "tibetan": {
+              "text": "དིར་མ་རྣམས་ནི་རང་དག་པས\n",
+              "payload_character_offsets": [
+                11766,
+                11789
+              ],
+              "raw_character_offsets": [
+                11778,
+                11801
+              ]
+            },
+            "wylie": {
+              "text": "dir ma rnams ni rang dag pas\n",
+              "payload_character_offsets": [
+                14188,
+                14217
+              ],
+              "raw_character_offsets": [
+                14194,
+                14223
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000470",
+          "line": 470,
+          "renditions": {
+            "tibetan": {
+              "text": "དིར་མེད་ཟང་ཐལ་ཆེན་པོར་གནས\n",
+              "payload_character_offsets": [
+                11789,
+                11815
+              ],
+              "raw_character_offsets": [
+                11801,
+                11827
+              ]
+            },
+            "wylie": {
+              "text": "dir med zang thal chen por gnas\n",
+              "payload_character_offsets": [
+                14217,
+                14249
+              ],
+              "raw_character_offsets": [
+                14223,
+                14255
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-014",
+      "chapter": 4,
+      "classification": "structural_number",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000618",
+        "MTP-S000619"
+      ],
+      "payload_lines_1based": [
+        618,
+        619
+      ],
+      "page_marker_hints": [
+        453
+      ],
+      "target_printed_pages_hint": [
+        453
+      ],
+      "target_iiif_images_hint": [
+        463
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "bdun tshan bdun and zla bcu form adjacent numerical statements. Check exact numbers without arithmetic correction or biological harmonization.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000618",
+          "line": 618,
+          "renditions": {
+            "tibetan": {
+              "text": "བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ\n",
+              "payload_character_offsets": [
+                15521,
+                15550
+              ],
+              "raw_character_offsets": [
+                15533,
+                15562
+              ]
+            },
+            "wylie": {
+              "text": "bdun tshan bdun gyi rtogs tshad do\n",
+              "payload_character_offsets": [
+                18659,
+                18694
+              ],
+              "raw_character_offsets": [
+                18665,
+                18700
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000619",
+          "line": 619,
+          "renditions": {
+            "tibetan": {
+              "text": "ཟླ་བཅུ་ས་རྣམས་བགྲོད་པ་ཉིད\n",
+              "payload_character_offsets": [
+                15550,
+                15576
+              ],
+              "raw_character_offsets": [
+                15562,
+                15588
+              ]
+            },
+            "wylie": {
+              "text": "zla bcu sa rnams bgrod pa nyid\n",
+              "payload_character_offsets": [
+                18694,
+                18725
+              ],
+              "raw_character_offsets": [
+                18700,
+                18731
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-015",
+      "chapter": 4,
+      "classification": "chapter_boundary",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000634",
+        "MTP-S000635"
+      ],
+      "payload_lines_1based": [
+        634,
+        635
+      ],
+      "page_marker_hints": [
+        454
+      ],
+      "target_printed_pages_hint": [
+        454
+      ],
+      "target_iiif_images_hint": [
+        464
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Classify chapter-four closing formula.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000634",
+          "line": 634,
+          "renditions": {
+            "tibetan": {
+              "text": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས\n",
+              "payload_character_offsets": [
+                15926,
+                15965
+              ],
+              "raw_character_offsets": [
+                15938,
+                15977
+              ]
+            },
+            "wylie": {
+              "text": "zhes mu tig phreng ba rin po che'i rgyud las\n",
+              "payload_character_offsets": [
+                19138,
+                19183
+              ],
+              "raw_character_offsets": [
+                19144,
+                19189
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000635",
+          "line": 635,
+          "renditions": {
+            "tibetan": {
+              "text": "འབད་མེད་རང་གྲོལ་གྱི་ལེའུ་སྟེ་བཞི་པའོ\n",
+              "payload_character_offsets": [
+                15965,
+                16002
+              ],
+              "raw_character_offsets": [
+                15977,
+                16014
+              ]
+            },
+            "wylie": {
+              "text": "'bad med rang grol gyi le'u ste bzhi pa'o\n",
+              "payload_character_offsets": [
+                19183,
+                19225
+              ],
+              "raw_character_offsets": [
+                19189,
+                19231
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-016",
+      "chapter": 5,
+      "classification": "possibly_broken_string",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000640",
+        "MTP-S000645"
+      ],
+      "payload_lines_1based": [
+        640,
+        645
+      ],
+      "page_marker_hints": [
+        454
+      ],
+      "target_printed_pages_hint": [
+        454
+      ],
+      "target_iiif_images_hint": [
+        464
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "ji ltar ngas and short bdag cag rnams ni gyur na warrant checking against the scan; no absent word is inferred as fact.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000640",
+          "line": 640,
+          "renditions": {
+            "tibetan": {
+              "text": "སེམས་ཅན་རྣམས་ལ་ཇི་ལྟར་ངས\n",
+              "payload_character_offsets": [
+                16114,
+                16139
+              ],
+              "raw_character_offsets": [
+                16126,
+                16151
+              ]
+            },
+            "wylie": {
+              "text": "sems can rnams la ji ltar ngas\n",
+              "payload_character_offsets": [
+                19353,
+                19384
+              ],
+              "raw_character_offsets": [
+                19359,
+                19390
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S000645",
+          "line": 645,
+          "renditions": {
+            "tibetan": {
+              "text": "བདག་ཅག་རྣམས་ནི་གྱུར་ན\n",
+              "payload_character_offsets": [
+                16242,
+                16264
+              ],
+              "raw_character_offsets": [
+                16254,
+                16276
+              ]
+            },
+            "wylie": {
+              "text": "bdag cag rnams ni gyur na\n",
+              "payload_character_offsets": [
+                19507,
+                19533
+              ],
+              "raw_character_offsets": [
+                19513,
+                19539
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-017",
+      "chapter": 5,
+      "classification": "possible_interleaving",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000651"
+      ],
+      "payload_lines_1based": [
+        651
+      ],
+      "page_marker_hints": [
+        455
+      ],
+      "target_printed_pages_hint": [
+        455
+      ],
+      "target_iiif_images_hint": [
+        465
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "gnyis ni gzhi ngo bo gcig khyad par las is unusually expanded against adjacent verse units. Check for smaller interlinear words; no automatic deletion.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000651",
+          "line": 651,
+          "renditions": {
+            "tibetan": {
+              "text": "གཉིས་ནི་གཞི་ངོ་བོ་གཅིག་ཁྱད་པར་ལས\n",
+              "payload_character_offsets": [
+                16372,
+                16405
+              ],
+              "raw_character_offsets": [
+                16384,
+                16417
+              ]
+            },
+            "wylie": {
+              "text": "gnyis ni gzhi ngo bo gcig khyad par las\n",
+              "payload_character_offsets": [
+                19666,
+                19706
+              ],
+              "raw_character_offsets": [
+                19672,
+                19712
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-018",
+      "chapter": 5,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000721"
+      ],
+      "payload_lines_1based": [
+        721
+      ],
+      "page_marker_hints": [
+        459
+      ],
+      "target_printed_pages_hint": [
+        459
+      ],
+      "target_iiif_images_hint": [
+        469
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "ya ma brla: unusual consonant sequence in both renditions.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000721",
+          "line": 721,
+          "renditions": {
+            "tibetan": {
+              "text": "གསོག་དང་ཡ་མ་བརླ་དང་ནི\n",
+              "payload_character_offsets": [
+                18142,
+                18164
+              ],
+              "raw_character_offsets": [
+                18154,
+                18176
+              ]
+            },
+            "wylie": {
+              "text": "gsog dang ya ma brla dang ni\n",
+              "payload_character_offsets": [
+                21807,
+                21836
+              ],
+              "raw_character_offsets": [
+                21813,
+                21842
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-019",
+      "chapter": 5,
+      "classification": "unusual_form",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000756"
+      ],
+      "payload_lines_1based": [
+        756
+      ],
+      "page_marker_hints": [
+        461
+      ],
+      "target_printed_pages_hint": [
+        461
+      ],
+      "target_iiif_images_hint": [
+        471
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "dum grags in this repeated negative sequence merits checking; retain if source-supported.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000756",
+          "line": 756,
+          "renditions": {
+            "tibetan": {
+              "text": "ཆོས་ཞེས་མིང་དུ་དུམ་གྲགས་པས\n",
+              "payload_character_offsets": [
+                19004,
+                19031
+              ],
+              "raw_character_offsets": [
+                19016,
+                19043
+              ]
+            },
+            "wylie": {
+              "text": "chos zhes ming du dum grags pas\n",
+              "payload_character_offsets": [
+                22864,
+                22896
+              ],
+              "raw_character_offsets": [
+                22870,
+                22902
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-020",
+      "chapter": 5,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000793"
+      ],
+      "payload_lines_1based": [
+        793
+      ],
+      "page_marker_hints": [
+        463
+      ],
+      "target_printed_pages_hint": [
+        463
+      ],
+      "target_iiif_images_hint": [
+        473
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "bcung du dril: check unusual initial cluster.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000793",
+          "line": 793,
+          "renditions": {
+            "tibetan": {
+              "text": "བཅུང་དུ་དྲིལ་བས་རིག་པ་གསལ\n",
+              "payload_character_offsets": [
+                19948,
+                19974
+              ],
+              "raw_character_offsets": [
+                19960,
+                19986
+              ]
+            },
+            "wylie": {
+              "text": "bcung du dril bas rig pa gsal\n",
+              "payload_character_offsets": [
+                24008,
+                24038
+              ],
+              "raw_character_offsets": [
+                24014,
+                24044
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-021",
+      "chapter": 5,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000838"
+      ],
+      "payload_lines_1based": [
+        838
+      ],
+      "page_marker_hints": [
+        466
+      ],
+      "target_printed_pages_hint": [
+        466
+      ],
+      "target_iiif_images_hint": [
+        476
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "gnyis lang mi ltos contrasts nearby recurring list structure; inspect exact source and word division.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000838",
+          "line": 838,
+          "renditions": {
+            "tibetan": {
+              "text": "འཁོར་འདས་གཉིས་ལང་མི་ལྟོས\n",
+              "payload_character_offsets": [
+                21075,
+                21100
+              ],
+              "raw_character_offsets": [
+                21087,
+                21112
+              ]
+            },
+            "wylie": {
+              "text": "'khor 'das gnyis lang mi ltos\n",
+              "payload_character_offsets": [
+                25370,
+                25400
+              ],
+              "raw_character_offsets": [
+                25376,
+                25406
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-022",
+      "chapter": 5,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000902"
+      ],
+      "payload_lines_1based": [
+        902
+      ],
+      "page_marker_hints": [
+        470
+      ],
+      "target_printed_pages_hint": [
+        470
+      ],
+      "target_iiif_images_hint": [
+        480
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "pe nas occurs amid recurring ye nas phrases; evidence must decide.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000902",
+          "line": 902,
+          "renditions": {
+            "tibetan": {
+              "text": "གྲུབ་མཐས་པེ་ནས་བསྐྱངས་དང་བྲལ\n",
+              "payload_character_offsets": [
+                22745,
+                22774
+              ],
+              "raw_character_offsets": [
+                22757,
+                22786
+              ]
+            },
+            "wylie": {
+              "text": "grub mthas pe nas bskyangs dang bral\n",
+              "payload_character_offsets": [
+                27366,
+                27403
+              ],
+              "raw_character_offsets": [
+                27372,
+                27409
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-023",
+      "chapter": 5,
+      "classification": "unusual_form/word_division",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S000944"
+      ],
+      "payload_lines_1based": [
+        944
+      ],
+      "page_marker_hints": [
+        472
+      ],
+      "target_printed_pages_hint": [
+        472
+      ],
+      "target_iiif_images_hint": [
+        482
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "dril sogs: verify consonant and word division, without introducing an expected term.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S000944",
+          "line": 944,
+          "renditions": {
+            "tibetan": {
+              "text": "སྒྲ་མེད་དྲིལ་སོགས་པ་མེད\n",
+              "payload_character_offsets": [
+                23830,
+                23854
+              ],
+              "raw_character_offsets": [
+                23842,
+                23866
+              ]
+            },
+            "wylie": {
+              "text": "sgra med dril sogs pa med\n",
+              "payload_character_offsets": [
+                28667,
+                28693
+              ],
+              "raw_character_offsets": [
+                28673,
+                28699
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-024",
+      "chapter": 5,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001027",
+        "MTP-S001032"
+      ],
+      "payload_lines_1based": [
+        1027,
+        1032
+      ],
+      "page_marker_hints": [
+        478
+      ],
+      "target_printed_pages_hint": [
+        478
+      ],
+      "target_iiif_images_hint": [
+        488
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "kun rdzog occurs twice on the same page; check repeated spelling against scan.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001027",
+          "line": 1027,
+          "renditions": {
+            "tibetan": {
+              "text": "དོན་དམ་ཀུན་རྫོག་གཟུགས་ཅན་ནོ\n",
+              "payload_character_offsets": [
+                25882,
+                25910
+              ],
+              "raw_character_offsets": [
+                25894,
+                25922
+              ]
+            },
+            "wylie": {
+              "text": "don dam kun rdzog gzugs can no\n",
+              "payload_character_offsets": [
+                31141,
+                31172
+              ],
+              "raw_character_offsets": [
+                31147,
+                31178
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001032",
+          "line": 1032,
+          "renditions": {
+            "tibetan": {
+              "text": "འཇིག་རྟེན་ཀུན་རྫོག་ཙམ་དུ་སྟེ\n",
+              "payload_character_offsets": [
+                26016,
+                26045
+              ],
+              "raw_character_offsets": [
+                26028,
+                26057
+              ]
+            },
+            "wylie": {
+              "text": "'jig rten kun rdzog tsam du ste\n",
+              "payload_character_offsets": [
+                31302,
+                31334
+              ],
+              "raw_character_offsets": [
+                31308,
+                31340
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-025",
+      "chapter": 5,
+      "classification": "chapter_boundary/unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001049",
+        "MTP-S001051"
+      ],
+      "payload_lines_1based": [
+        1049,
+        1051
+      ],
+      "page_marker_hints": [
+        479,
+        480
+      ],
+      "target_printed_pages_hint": [
+        479,
+        480
+      ],
+      "target_iiif_images_hint": [
+        489,
+        490
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "mu ting in work title plus closure split over page markers479/480; classify both title formula and chapter-five closure.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001049",
+          "line": 1049,
+          "renditions": {
+            "tibetan": {
+              "text": "ཞེས་མུ་ཏིང་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ལས\n",
+              "payload_character_offsets": [
+                26429,
+                26474
+              ],
+              "raw_character_offsets": [
+                26441,
+                26486
+              ]
+            },
+            "wylie": {
+              "text": "zhes mu ting phreng ba rin po che gsang ba'i rgyud las\n",
+              "payload_character_offsets": [
+                31808,
+                31863
+              ],
+              "raw_character_offsets": [
+                31814,
+                31869
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001051",
+          "line": 1051,
+          "renditions": {
+            "tibetan": {
+              "text": "གནས་ལུགས་འཁྲུལ་པ་རང་རྫོགས་སུ་བསྟན་པའི་ལེའུ་སྟེ་ལྔ་པའོ\n",
+              "payload_character_offsets": [
+                26478,
+                26532
+              ],
+              "raw_character_offsets": [
+                26490,
+                26544
+              ]
+            },
+            "wylie": {
+              "text": "gnas lugs 'khrul pa rang rdzogs su bstan pa'i le'u ste lnga pa'o\n",
+              "payload_character_offsets": [
+                31867,
+                31932
+              ],
+              "raw_character_offsets": [
+                31873,
+                31938
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-026",
+      "chapter": 6,
+      "classification": "unusual_form",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001056"
+      ],
+      "payload_lines_1based": [
+        1056
+      ],
+      "page_marker_hints": [
+        480
+      ],
+      "target_printed_pages_hint": [
+        480
+      ],
+      "target_iiif_images_hint": [
+        490
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "gongs pa spelling in question: check exact printed form.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001056",
+          "line": 1056,
+          "renditions": {
+            "tibetan": {
+              "text": "དེ་ཉིད་གོངས་པ་ཇི་ལྟར་ལགས\n",
+              "payload_character_offsets": [
+                26627,
+                26652
+              ],
+              "raw_character_offsets": [
+                26639,
+                26664
+              ]
+            },
+            "wylie": {
+              "text": "de nyid gongs pa ji ltar lags\n",
+              "payload_character_offsets": [
+                32049,
+                32079
+              ],
+              "raw_character_offsets": [
+                32055,
+                32085
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-027",
+      "chapter": 6,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001085",
+        "MTP-S001089"
+      ],
+      "payload_lines_1based": [
+        1085,
+        1089
+      ],
+      "page_marker_hints": [
+        481,
+        482
+      ],
+      "target_printed_pages_hint": [
+        481,
+        482
+      ],
+      "target_iiif_images_hint": [
+        491,
+        492
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "sags and skom in formulaic enumerations; check against governing scan, not merely parallel wording.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001085",
+          "line": 1085,
+          "renditions": {
+            "tibetan": {
+              "text": "སངས་རྒྱས་སགས་དཀོན་མཆོག་ང\n",
+              "payload_character_offsets": [
+                27348,
+                27373
+              ],
+              "raw_character_offsets": [
+                27360,
+                27385
+              ]
+            },
+            "wylie": {
+              "text": "sangs rgyas sags dkon mchog nga\n",
+              "payload_character_offsets": [
+                32940,
+                32972
+              ],
+              "raw_character_offsets": [
+                32946,
+                32978
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001089",
+          "line": 1089,
+          "renditions": {
+            "tibetan": {
+              "text": "ལྟ་དང་སྐོམ་དང་སྤྱོད་པ་ང\n",
+              "payload_character_offsets": [
+                27426,
+                27450
+              ],
+              "raw_character_offsets": [
+                27438,
+                27462
+              ]
+            },
+            "wylie": {
+              "text": "lta dang skom dang spyod pa nga\n",
+              "payload_character_offsets": [
+                33039,
+                33071
+              ],
+              "raw_character_offsets": [
+                33045,
+                33077
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-028",
+      "chapter": 6,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001150"
+      ],
+      "payload_lines_1based": [
+        1150
+      ],
+      "page_marker_hints": [
+        486
+      ],
+      "target_printed_pages_hint": [
+        486
+      ],
+      "target_iiif_images_hint": [
+        496
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "sungs in recurring request formula; verify printed initial cluster.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001150",
+          "line": 1150,
+          "renditions": {
+            "tibetan": {
+              "text": "བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་སུངས\n",
+              "payload_character_offsets": [
+                29282,
+                29311
+              ],
+              "raw_character_offsets": [
+                29294,
+                29323
+              ]
+            },
+            "wylie": {
+              "text": "bcom ldan 'das kyis bdag la sungs\n",
+              "payload_character_offsets": [
+                35356,
+                35390
+              ],
+              "raw_character_offsets": [
+                35362,
+                35396
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-029",
+      "chapter": 6,
+      "classification": "possibly_broken_string",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001199",
+        "MTP-S001201"
+      ],
+      "payload_lines_1based": [
+        1199,
+        1201
+      ],
+      "page_marker_hints": [
+        489
+      ],
+      "target_printed_pages_hint": [
+        489
+      ],
+      "target_iiif_images_hint": [
+        499
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "dmyal ba par and rnams lan bun ltar: check allocation/word division and unusual spellings.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001199",
+          "line": 1199,
+          "renditions": {
+            "tibetan": {
+              "text": "དམྱལ་བ་པར་ནི་མེ་ཆུར་སྣང\n",
+              "payload_character_offsets": [
+                30534,
+                30558
+              ],
+              "raw_character_offsets": [
+                30546,
+                30570
+              ]
+            },
+            "wylie": {
+              "text": "dmyal ba par ni me chur snang\n",
+              "payload_character_offsets": [
+                36879,
+                36909
+              ],
+              "raw_character_offsets": [
+                36885,
+                36915
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001201",
+          "line": 1201,
+          "renditions": {
+            "tibetan": {
+              "text": "བྱོལ་སོང་རྣམས་ལན་བུན་ལྟར\n",
+              "payload_character_offsets": [
+                30586,
+                30611
+              ],
+              "raw_character_offsets": [
+                30598,
+                30623
+              ]
+            },
+            "wylie": {
+              "text": "byol song rnams lan bun ltar\n",
+              "payload_character_offsets": [
+                36942,
+                36971
+              ],
+              "raw_character_offsets": [
+                36948,
+                36977
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-030",
+      "chapter": 6,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001216"
+      ],
+      "payload_lines_1based": [
+        1216
+      ],
+      "page_marker_hints": [
+        490
+      ],
+      "target_printed_pages_hint": [
+        490
+      ],
+      "target_iiif_images_hint": [
+        500
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "shes krab: unusual cluster requires scan evidence.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001216",
+          "line": 1216,
+          "renditions": {
+            "tibetan": {
+              "text": "ཐབས་དང་ཤེས་ཀྲབ་ཉིད་དུ་གྲོལ\n",
+              "payload_character_offsets": [
+                30981,
+                31008
+              ],
+              "raw_character_offsets": [
+                30993,
+                31020
+              ]
+            },
+            "wylie": {
+              "text": "thabs dang shes krab nyid du grol\n",
+              "payload_character_offsets": [
+                37417,
+                37451
+              ],
+              "raw_character_offsets": [
+                37423,
+                37457
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-031",
+      "chapter": 6,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001256"
+      ],
+      "payload_lines_1based": [
+        1256
+      ],
+      "page_marker_hints": [
+        492
+      ],
+      "target_printed_pages_hint": [
+        492
+      ],
+      "target_iiif_images_hint": [
+        502
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "mya ngang 'das: verify nasal ending in recurring phrase.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001256",
+          "line": 1256,
+          "renditions": {
+            "tibetan": {
+              "text": "འབྱུང་བ་ལྔ་ཉིད་མྱ་ངང་འདས\n",
+              "payload_character_offsets": [
+                32032,
+                32057
+              ],
+              "raw_character_offsets": [
+                32044,
+                32069
+              ]
+            },
+            "wylie": {
+              "text": "'byung ba lnga nyid mya ngang 'das\n",
+              "payload_character_offsets": [
+                38697,
+                38732
+              ],
+              "raw_character_offsets": [
+                38703,
+                38738
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-032",
+      "chapter": 6,
+      "classification": "possible_interleaving/unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001306",
+        "MTP-S001307",
+        "MTP-S001311",
+        "MTP-S001312"
+      ],
+      "payload_lines_1based": [
+        1306,
+        1307,
+        1311,
+        1312
+      ],
+      "page_marker_hints": [
+        495
+      ],
+      "target_printed_pages_hint": [
+        495
+      ],
+      "target_iiif_images_hint": [
+        505
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "g.yas pa ro ma is an expanded phrase; yan lag ca is truncated-looking. Inspect source layers and exact ending without silently rewriting either.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001306",
+          "line": 1306,
+          "renditions": {
+            "tibetan": {
+              "text": "གཡས་པ་རོ་མ་ཀུན་རྫོབ་ཐིག་ལེ་སྟེ\n",
+              "payload_character_offsets": [
+                33245,
+                33276
+              ],
+              "raw_character_offsets": [
+                33257,
+                33288
+              ]
+            },
+            "wylie": {
+              "text": "g.yas pa ro ma kun rdzob thig le ste\n",
+              "payload_character_offsets": [
+                40163,
+                40200
+              ],
+              "raw_character_offsets": [
+                40169,
+                40206
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001307",
+          "line": 1307,
+          "renditions": {
+            "tibetan": {
+              "text": "བདེ་བ་ཆེན་པོའི་ཡན་ལག་ཅ\n",
+              "payload_character_offsets": [
+                33276,
+                33299
+              ],
+              "raw_character_offsets": [
+                33288,
+                33311
+              ]
+            },
+            "wylie": {
+              "text": "bde ba chen po'i yan lag ca\n",
+              "payload_character_offsets": [
+                40200,
+                40228
+              ],
+              "raw_character_offsets": [
+                40206,
+                40234
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001311",
+          "line": 1311,
+          "renditions": {
+            "tibetan": {
+              "text": "དོན་དམ་ཆོས་སྐུའི་རང་བཞིན་ཅན\n",
+              "payload_character_offsets": [
+                33385,
+                33413
+              ],
+              "raw_character_offsets": [
+                33397,
+                33425
+              ]
+            },
+            "wylie": {
+              "text": "don dam chos sku'i rang bzhin can\n",
+              "payload_character_offsets": [
+                40332,
+                40366
+              ],
+              "raw_character_offsets": [
+                40338,
+                40372
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001312",
+          "line": 1312,
+          "renditions": {
+            "tibetan": {
+              "text": "སྟོང་གསལ་ཐིག་ལེ་གཅིག་ཏུ་གནས\n",
+              "payload_character_offsets": [
+                33413,
+                33441
+              ],
+              "raw_character_offsets": [
+                33425,
+                33453
+              ]
+            },
+            "wylie": {
+              "text": "stong gsal thig le gcig tu gnas\n",
+              "payload_character_offsets": [
+                40366,
+                40398
+              ],
+              "raw_character_offsets": [
+                40372,
+                40404
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-033",
+      "chapter": 6,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001364"
+      ],
+      "payload_lines_1based": [
+        1364
+      ],
+      "page_marker_hints": [
+        499
+      ],
+      "target_printed_pages_hint": [
+        499
+      ],
+      "target_iiif_images_hint": [
+        509
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "rgyad occurs in an explanation of lamp terminology; verify exact glyph.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001364",
+          "line": 1364,
+          "renditions": {
+            "tibetan": {
+              "text": "རྒྱད་ནི་སྒོ་ལྔའི་རྟ་ཕོ་ལ\n",
+              "payload_character_offsets": [
+                34716,
+                34741
+              ],
+              "raw_character_offsets": [
+                34728,
+                34753
+              ]
+            },
+            "wylie": {
+              "text": "rgyad ni sgo lnga'i rta pho la\n",
+              "payload_character_offsets": [
+                41937,
+                41968
+              ],
+              "raw_character_offsets": [
+                41943,
+                41974
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-034",
+      "chapter": 6,
+      "classification": "chapter_boundary",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001426",
+        "MTP-S001427"
+      ],
+      "payload_lines_1based": [
+        1426,
+        1427
+      ],
+      "page_marker_hints": [
+        502
+      ],
+      "target_printed_pages_hint": [
+        502
+      ],
+      "target_iiif_images_hint": [
+        512
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Classify chapter-six closing formula.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001426",
+          "line": 1426,
+          "renditions": {
+            "tibetan": {
+              "text": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ལས\n",
+              "payload_character_offsets": [
+                36272,
+                36317
+              ],
+              "raw_character_offsets": [
+                36284,
+                36329
+              ]
+            },
+            "wylie": {
+              "text": "zhes mu tig phreng ba rin po che gsang ba'i rgyud las\n",
+              "payload_character_offsets": [
+                43789,
+                43843
+              ],
+              "raw_character_offsets": [
+                43795,
+                43849
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001427",
+          "line": 1427,
+          "renditions": {
+            "tibetan": {
+              "text": "སེམས་ཅན་གྱི་སྣང་བ་ཐབས་ལ་མཁས་པ་བསྟན་པའི་ལེའུ་སྟེ་དྲུག་པའོ\n",
+              "payload_character_offsets": [
+                36317,
+                36374
+              ],
+              "raw_character_offsets": [
+                36329,
+                36386
+              ]
+            },
+            "wylie": {
+              "text": "sems can gyi snang ba thabs la mkhas pa bstan pa'i le'u ste drug pa'o\n",
+              "payload_character_offsets": [
+                43843,
+                43913
+              ],
+              "raw_character_offsets": [
+                43849,
+                43919
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-035",
+      "chapter": 7,
+      "classification": "unusual_form",
+      "triage_confidence": "low",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001451"
+      ],
+      "payload_lines_1based": [
+        1451
+      ],
+      "page_marker_hints": [
+        503
+      ],
+      "target_printed_pages_hint": [
+        503
+      ],
+      "target_iiif_images_hint": [
+        513
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "rol in a sensory list; may be source wording, so do not harmonize to an expected list.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001451",
+          "line": 1451,
+          "renditions": {
+            "tibetan": {
+              "text": "དྲི་དང་རོལ་དང་སྒྲ་དང་རེག\n",
+              "payload_character_offsets": [
+                36905,
+                36930
+              ],
+              "raw_character_offsets": [
+                36917,
+                36942
+              ]
+            },
+            "wylie": {
+              "text": "dri dang rol dang sgra dang reg\n",
+              "payload_character_offsets": [
+                44563,
+                44595
+              ],
+              "raw_character_offsets": [
+                44569,
+                44601
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-036",
+      "chapter": 7,
+      "classification": "unusual_form",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001506",
+        "MTP-S001507"
+      ],
+      "payload_lines_1based": [
+        1506,
+        1507
+      ],
+      "page_marker_hints": [
+        506
+      ],
+      "target_printed_pages_hint": [
+        506
+      ],
+      "target_iiif_images_hint": [
+        516
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "dngos bo and brgags: verify unusual forms and any source-layer distinction.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001506",
+          "line": 1506,
+          "renditions": {
+            "tibetan": {
+              "text": "དེ་ཕྱིར་བླ་དང་དངོས་བོ་ཡི\n",
+              "payload_character_offsets": [
+                38264,
+                38289
+              ],
+              "raw_character_offsets": [
+                38276,
+                38301
+              ]
+            },
+            "wylie": {
+              "text": "de phyir bla dang dngos bo yi\n",
+              "payload_character_offsets": [
+                46187,
+                46217
+              ],
+              "raw_character_offsets": [
+                46193,
+                46223
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001507",
+          "line": 1507,
+          "renditions": {
+            "tibetan": {
+              "text": "ཆོས་ནི་བརྒགས་པ་ཉིད་དུའོ\n",
+              "payload_character_offsets": [
+                38289,
+                38313
+              ],
+              "raw_character_offsets": [
+                38301,
+                38325
+              ]
+            },
+            "wylie": {
+              "text": "chos ni brgags pa nyid du'o\n",
+              "payload_character_offsets": [
+                46217,
+                46245
+              ],
+              "raw_character_offsets": [
+                46223,
+                46251
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-037",
+      "chapter": 7,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001522"
+      ],
+      "payload_lines_1based": [
+        1522
+      ],
+      "page_marker_hints": [
+        507
+      ],
+      "target_printed_pages_hint": [
+        507
+      ],
+      "target_iiif_images_hint": [
+        517
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "smin lam in a list of perfections; exact source evidence controls treatment.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001522",
+          "line": 1522,
+          "renditions": {
+            "tibetan": {
+              "text": "སྟོབས་དང་སྨིན་ལམ་ཡེ་ཤེས་དང\n",
+              "payload_character_offsets": [
+                38675,
+                38702
+              ],
+              "raw_character_offsets": [
+                38687,
+                38714
+              ]
+            },
+            "wylie": {
+              "text": "stobs dang smin lam ye shes dang\n",
+              "payload_character_offsets": [
+                46702,
+                46735
+              ],
+              "raw_character_offsets": [
+                46708,
+                46741
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-038",
+      "chapter": 7,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001549"
+      ],
+      "payload_lines_1based": [
+        1549
+      ],
+      "page_marker_hints": [
+        508
+      ],
+      "target_printed_pages_hint": [
+        508
+      ],
+      "target_iiif_images_hint": [
+        518
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "brag pa bcas in a paired phrase with zag med; verify printed glyphs.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001549",
+          "line": 1549,
+          "renditions": {
+            "tibetan": {
+              "text": "བྲག་པ་བཅས་དང་ཟག་མེད་དང\n",
+              "payload_character_offsets": [
+                39348,
+                39371
+              ],
+              "raw_character_offsets": [
+                39360,
+                39383
+              ]
+            },
+            "wylie": {
+              "text": "brag pa bcas dang zag med dang\n",
+              "payload_character_offsets": [
+                47546,
+                47577
+              ],
+              "raw_character_offsets": [
+                47552,
+                47583
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-039",
+      "chapter": 7,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001661"
+      ],
+      "payload_lines_1based": [
+        1661
+      ],
+      "page_marker_hints": [
+        514
+      ],
+      "target_printed_pages_hint": [
+        514
+      ],
+      "target_iiif_images_hint": [
+        524
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "rtos: unusual contracted-looking ending; do not add a letter without source support.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001661",
+          "line": 1661,
+          "renditions": {
+            "tibetan": {
+              "text": "མདོ་སྡེ་ཆོས་ཉིད་ཟབ་མོ་རྟོས་ལ\n",
+              "payload_character_offsets": [
+                42279,
+                42308
+              ],
+              "raw_character_offsets": [
+                42291,
+                42320
+              ]
+            },
+            "wylie": {
+              "text": "mdo sde chos nyid zab mo rtos la\n",
+              "payload_character_offsets": [
+                51130,
+                51163
+              ],
+              "raw_character_offsets": [
+                51136,
+                51169
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-040",
+      "chapter": 7,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001700"
+      ],
+      "payload_lines_1based": [
+        1700
+      ],
+      "page_marker_hints": [
+        516
+      ],
+      "target_printed_pages_hint": [
+        516
+      ],
+      "target_iiif_images_hint": [
+        526
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "lgas: unexpected consonant order in recurring ma ... na formula.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001700",
+          "line": 1700,
+          "renditions": {
+            "tibetan": {
+              "text": "དེ་ཉིད་རིགས་པ་མ་ལྒས་ན\n",
+              "payload_character_offsets": [
+                43301,
+                43323
+              ],
+              "raw_character_offsets": [
+                43313,
+                43335
+              ]
+            },
+            "wylie": {
+              "text": "de nyid rigs pa ma lgas na\n",
+              "payload_character_offsets": [
+                52340,
+                52367
+              ],
+              "raw_character_offsets": [
+                52346,
+                52373
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-041",
+      "chapter": 7,
+      "classification": "unusual_form",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001751"
+      ],
+      "payload_lines_1based": [
+        1751
+      ],
+      "page_marker_hints": [
+        519
+      ],
+      "target_printed_pages_hint": [
+        519
+      ],
+      "target_iiif_images_hint": [
+        529
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "dum gzugs: check exact wording without doctrinal harmonization.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001751",
+          "line": 1751,
+          "renditions": {
+            "tibetan": {
+              "text": "དུམ་གཟུགས་སྣང་ལུས་མེད་པའོ\n",
+              "payload_character_offsets": [
+                44576,
+                44602
+              ],
+              "raw_character_offsets": [
+                44588,
+                44614
+              ]
+            },
+            "wylie": {
+              "text": "dum gzugs snang lus med pa'o\n",
+              "payload_character_offsets": [
+                53868,
+                53897
+              ],
+              "raw_character_offsets": [
+                53874,
+                53903
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-042",
+      "chapter": 7,
+      "classification": "chapter_boundary",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001768",
+        "MTP-S001769"
+      ],
+      "payload_lines_1based": [
+        1768,
+        1769
+      ],
+      "page_marker_hints": [
+        520
+      ],
+      "target_printed_pages_hint": [
+        520
+      ],
+      "target_iiif_images_hint": [
+        530
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Classify chapter-seven closing formula.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001768",
+          "line": 1768,
+          "renditions": {
+            "tibetan": {
+              "text": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས\n",
+              "payload_character_offsets": [
+                44994,
+                45033
+              ],
+              "raw_character_offsets": [
+                45006,
+                45045
+              ]
+            },
+            "wylie": {
+              "text": "zhes mu tig phreng ba rin po che'i rgyud las\n",
+              "payload_character_offsets": [
+                54393,
+                54438
+              ],
+              "raw_character_offsets": [
+                54399,
+                54444
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001769",
+          "line": 1769,
+          "renditions": {
+            "tibetan": {
+              "text": "འཁོར་འདས་ཀྱི་ཆོས་ཐམས་ཅད་རང་ལ་རྫོགས་པར་བསྟན་པའི་ལེའུ་སྟེ་བདུན་པའོ\n",
+              "payload_character_offsets": [
+                45033,
+                45098
+              ],
+              "raw_character_offsets": [
+                45045,
+                45110
+              ]
+            },
+            "wylie": {
+              "text": "'khor 'das kyi chos thams cad rang la rdzogs par bstan pa'i le'u ste bdun pa'o\n",
+              "payload_character_offsets": [
+                54438,
+                54517
+              ],
+              "raw_character_offsets": [
+                54444,
+                54523
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-043",
+      "chapter": 8,
+      "classification": "possibly_missing_text/structural_number",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001823",
+        "MTP-S001824",
+        "MTP-S001825",
+        "MTP-S001826"
+      ],
+      "payload_lines_1based": [
+        1823,
+        1824,
+        1825,
+        1826
+      ],
+      "page_marker_hints": [
+        523
+      ],
+      "target_printed_pages_hint": [
+        523
+      ],
+      "target_iiif_images_hint": [
+        533
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "gnad gsum followed by lus dang dang yul: duplicated dang with no intervening noun. Inspect source; any restoration requires separate ID.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001823",
+          "line": 1823,
+          "renditions": {
+            "tibetan": {
+              "text": "གནད་ནི་རྣམ་པ་གསུམ་དག་གིས\n",
+              "payload_character_offsets": [
+                46427,
+                46452
+              ],
+              "raw_character_offsets": [
+                46439,
+                46464
+              ]
+            },
+            "wylie": {
+              "text": "gnad ni rnam pa gsum dag gis\n",
+              "payload_character_offsets": [
+                56141,
+                56170
+              ],
+              "raw_character_offsets": [
+                56147,
+                56176
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001824",
+          "line": 1824,
+          "renditions": {
+            "tibetan": {
+              "text": "དེ་ཡི་དོན་ཉིད་ཉམས་སུ་བླངས\n",
+              "payload_character_offsets": [
+                46452,
+                46478
+              ],
+              "raw_character_offsets": [
+                46464,
+                46490
+              ]
+            },
+            "wylie": {
+              "text": "de yi don nyid nyams su blangs\n",
+              "payload_character_offsets": [
+                56170,
+                56201
+              ],
+              "raw_character_offsets": [
+                56176,
+                56207
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001825",
+          "line": 1825,
+          "renditions": {
+            "tibetan": {
+              "text": "ལུས་དང་དང་ཡུལ་ཉིད་དོ\n",
+              "payload_character_offsets": [
+                46478,
+                46499
+              ],
+              "raw_character_offsets": [
+                46490,
+                46511
+              ]
+            },
+            "wylie": {
+              "text": "lus dang dang yul nyid do\n",
+              "payload_character_offsets": [
+                56201,
+                56227
+              ],
+              "raw_character_offsets": [
+                56207,
+                56233
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001826",
+          "line": 1826,
+          "renditions": {
+            "tibetan": {
+              "text": "ལུས་ཀྱི་གནད་ནི་རྣམ་གསུམ་སྟེ\n",
+              "payload_character_offsets": [
+                46499,
+                46527
+              ],
+              "raw_character_offsets": [
+                46511,
+                46539
+              ]
+            },
+            "wylie": {
+              "text": "lus kyi gnad ni rnam gsum ste\n",
+              "payload_character_offsets": [
+                56227,
+                56257
+              ],
+              "raw_character_offsets": [
+                56233,
+                56263
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-044",
+      "chapter": 8,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001861",
+        "MTP-S001873"
+      ],
+      "payload_lines_1based": [
+        1861,
+        1873
+      ],
+      "page_marker_hints": [
+        526
+      ],
+      "target_printed_pages_hint": [
+        526
+      ],
+      "target_iiif_images_hint": [
+        536
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "lta se and rgyad: verify exact printed endings.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001861",
+          "line": 1861,
+          "renditions": {
+            "tibetan": {
+              "text": "རང་བཞིན་རྒྱུད་ནི་འདི་ལྟ་སེ\n",
+              "payload_character_offsets": [
+                47389,
+                47416
+              ],
+              "raw_character_offsets": [
+                47401,
+                47428
+              ]
+            },
+            "wylie": {
+              "text": "rang bzhin rgyud ni 'di lta se\n",
+              "payload_character_offsets": [
+                57291,
+                57322
+              ],
+              "raw_character_offsets": [
+                57297,
+                57328
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001873",
+          "line": 1873,
+          "renditions": {
+            "tibetan": {
+              "text": "སྙིང་པོ་རྫོགས་པའི་རང་བཞིན་རྒྱད\n",
+              "payload_character_offsets": [
+                47708,
+                47739
+              ],
+              "raw_character_offsets": [
+                47720,
+                47751
+              ]
+            },
+            "wylie": {
+              "text": "snying po rdzogs pa'i rang bzhin rgyad\n",
+              "payload_character_offsets": [
+                57681,
+                57720
+              ],
+              "raw_character_offsets": [
+                57687,
+                57726
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-045",
+      "chapter": 8,
+      "classification": "possible_interleaving",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001903"
+      ],
+      "payload_lines_1based": [
+        1903
+      ],
+      "page_marker_hints": [
+        528
+      ],
+      "target_printed_pages_hint": [
+        528
+      ],
+      "target_iiif_images_hint": [
+        538
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "lam drang po within expanded ground/path/result verse may contain interlinear material. This is a layer check, not authority to remove words.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001903",
+          "line": 1903,
+          "renditions": {
+            "tibetan": {
+              "text": "གཞི་དང་ལམ་དྲང་པོ་དང་འབྲས་བུ་ཡིས\n",
+              "payload_character_offsets": [
+                48497,
+                48529
+              ],
+              "raw_character_offsets": [
+                48509,
+                48541
+              ]
+            },
+            "wylie": {
+              "text": "gzhi dang lam drang po dang 'bras bu yis\n",
+              "payload_character_offsets": [
+                58623,
+                58664
+              ],
+              "raw_character_offsets": [
+                58629,
+                58670
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-046",
+      "chapter": 8,
+      "classification": "structural_number/list",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001939",
+        "MTP-S001940",
+        "MTP-S001941",
+        "MTP-S001942",
+        "MTP-S001943",
+        "MTP-S001944",
+        "MTP-S001945",
+        "MTP-S001946",
+        "MTP-S001947",
+        "MTP-S001948",
+        "MTP-S001949"
+      ],
+      "payload_lines_1based": [
+        1939,
+        1940,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1949
+      ],
+      "page_marker_hints": [
+        530,
+        531
+      ],
+      "target_printed_pages_hint": [
+        530,
+        531
+      ],
+      "target_iiif_images_hint": [
+        540,
+        541
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Inspect tantra-name enumeration as printed. The received list contains18 names; do not force it to the conventional corpus label Seventeen Tantras.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001939",
+          "line": 1939,
+          "renditions": {
+            "tibetan": {
+              "text": "རྒྱ་མཚོ་དང་ནི་ཉི་མ་དང\n",
+              "payload_character_offsets": [
+                49430,
+                49452
+              ],
+              "raw_character_offsets": [
+                49442,
+                49464
+              ]
+            },
+            "wylie": {
+              "text": "rgya mtsho dang ni nyi ma dang\n",
+              "payload_character_offsets": [
+                59730,
+                59761
+              ],
+              "raw_character_offsets": [
+                59736,
+                59767
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001940",
+          "line": 1940,
+          "renditions": {
+            "tibetan": {
+              "text": "སེང་གེ་དང་ནི་རི་རྒྱལ་དང\n",
+              "payload_character_offsets": [
+                49452,
+                49476
+              ],
+              "raw_character_offsets": [
+                49464,
+                49488
+              ]
+            },
+            "wylie": {
+              "text": "seng ge dang ni ri rgyal dang\n",
+              "payload_character_offsets": [
+                59761,
+                59791
+              ],
+              "raw_character_offsets": [
+                59767,
+                59797
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001941",
+          "line": 1941,
+          "renditions": {
+            "tibetan": {
+              "text": "༥༣༡\n",
+              "payload_character_offsets": [
+                49476,
+                49480
+              ],
+              "raw_character_offsets": [
+                49488,
+                49492
+              ]
+            },
+            "wylie": {
+              "text": "531\n",
+              "payload_character_offsets": [
+                59791,
+                59795
+              ],
+              "raw_character_offsets": [
+                59797,
+                59801
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001942",
+          "line": 1942,
+          "renditions": {
+            "tibetan": {
+              "text": "འཁོར་ལོ་དང་ནི་ལྡེ་མིག་དང\n",
+              "payload_character_offsets": [
+                49480,
+                49505
+              ],
+              "raw_character_offsets": [
+                49492,
+                49517
+              ]
+            },
+            "wylie": {
+              "text": "'khor lo dang ni lde mig dang\n",
+              "payload_character_offsets": [
+                59795,
+                59825
+              ],
+              "raw_character_offsets": [
+                59801,
+                59831
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001943",
+          "line": 1943,
+          "renditions": {
+            "tibetan": {
+              "text": "རལ་གྲི་དང་ནི་གསལ་ཤིང་དང\n",
+              "payload_character_offsets": [
+                49505,
+                49529
+              ],
+              "raw_character_offsets": [
+                49517,
+                49541
+              ]
+            },
+            "wylie": {
+              "text": "ral gri dang ni gsal shing dang\n",
+              "payload_character_offsets": [
+                59825,
+                59857
+              ],
+              "raw_character_offsets": [
+                59831,
+                59863
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001944",
+          "line": 1944,
+          "renditions": {
+            "tibetan": {
+              "text": "གསེར་ཞུན་དང་ནི་མ་བུ་འབྲེལ\n",
+              "payload_character_offsets": [
+                49529,
+                49555
+              ],
+              "raw_character_offsets": [
+                49541,
+                49567
+              ]
+            },
+            "wylie": {
+              "text": "gser zhun dang ni ma bu 'brel\n",
+              "payload_character_offsets": [
+                59857,
+                59887
+              ],
+              "raw_character_offsets": [
+                59863,
+                59893
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001945",
+          "line": 1945,
+          "renditions": {
+            "tibetan": {
+              "text": "མེ་ལོང་དང་ནི་མུ་ཏིག་བརྒྱུས\n",
+              "payload_character_offsets": [
+                49555,
+                49582
+              ],
+              "raw_character_offsets": [
+                49567,
+                49594
+              ]
+            },
+            "wylie": {
+              "text": "me long dang ni mu tig brgyus\n",
+              "payload_character_offsets": [
+                59887,
+                59917
+              ],
+              "raw_character_offsets": [
+                59893,
+                59923
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001946",
+          "line": 1946,
+          "renditions": {
+            "tibetan": {
+              "text": "སྦྲུལ་མདུད་དང་ནི་ཁྱུང་ཆེན་དང\n",
+              "payload_character_offsets": [
+                49582,
+                49611
+              ],
+              "raw_character_offsets": [
+                49594,
+                49623
+              ]
+            },
+            "wylie": {
+              "text": "sbrul mdud dang ni khyung chen dang\n",
+              "payload_character_offsets": [
+                59917,
+                59953
+              ],
+              "raw_character_offsets": [
+                59923,
+                59959
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001947",
+          "line": 1947,
+          "renditions": {
+            "tibetan": {
+              "text": "ཆུ་རྒྱུན་དང་ནི་སྤུ་གྲི་དང\n",
+              "payload_character_offsets": [
+                49611,
+                49637
+              ],
+              "raw_character_offsets": [
+                49623,
+                49649
+              ]
+            },
+            "wylie": {
+              "text": "chu rgyun dang ni spu gri dang\n",
+              "payload_character_offsets": [
+                59953,
+                59984
+              ],
+              "raw_character_offsets": [
+                59959,
+                59990
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001948",
+          "line": 1948,
+          "renditions": {
+            "tibetan": {
+              "text": "རྒྱལ་པོས་དང་ནི་བང་མཛོད་དང\n",
+              "payload_character_offsets": [
+                49637,
+                49663
+              ],
+              "raw_character_offsets": [
+                49649,
+                49675
+              ]
+            },
+            "wylie": {
+              "text": "rgyal pos dang ni bang mdzod dang\n",
+              "payload_character_offsets": [
+                59984,
+                60018
+              ],
+              "raw_character_offsets": [
+                59990,
+                60024
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001949",
+          "line": 1949,
+          "renditions": {
+            "tibetan": {
+              "text": "དེ་ལྟར་རྣམ་པར་ཕྱེ་བས་ནི\n",
+              "payload_character_offsets": [
+                49663,
+                49687
+              ],
+              "raw_character_offsets": [
+                49675,
+                49699
+              ]
+            },
+            "wylie": {
+              "text": "de ltar rnam par phye bas ni\n",
+              "payload_character_offsets": [
+                60018,
+                60047
+              ],
+              "raw_character_offsets": [
+                60024,
+                60053
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-047",
+      "chapter": 8,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001977"
+      ],
+      "payload_lines_1based": [
+        1977
+      ],
+      "page_marker_hints": [
+        533
+      ],
+      "target_printed_pages_hint": [
+        533
+      ],
+      "target_iiif_images_hint": [
+        543
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "go zhub: check exact source syllable.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001977",
+          "line": 1977,
+          "renditions": {
+            "tibetan": {
+              "text": "གོ་ཞུབ་ལྡན་པའི་སྒོ་བསྲུང་འདྲ\n",
+              "payload_character_offsets": [
+                50393,
+                50422
+              ],
+              "raw_character_offsets": [
+                50405,
+                50434
+              ]
+            },
+            "wylie": {
+              "text": "go zhub ldan pa'i sgo bsrung 'dra\n",
+              "payload_character_offsets": [
+                60893,
+                60927
+              ],
+              "raw_character_offsets": [
+                60899,
+                60933
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-048",
+      "chapter": 8,
+      "classification": "structural_number/list",
+      "triage_confidence": "medium",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S001981",
+        "MTP-S001982",
+        "MTP-S001983",
+        "MTP-S001984",
+        "MTP-S001985",
+        "MTP-S001986",
+        "MTP-S001987",
+        "MTP-S001988",
+        "MTP-S001989",
+        "MTP-S001990",
+        "MTP-S001991",
+        "MTP-S001992",
+        "MTP-S001993",
+        "MTP-S001994",
+        "MTP-S001995",
+        "MTP-S001996",
+        "MTP-S001997",
+        "MTP-S001998"
+      ],
+      "payload_lines_1based": [
+        1981,
+        1982,
+        1983,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ],
+      "page_marker_hints": [
+        533,
+        534
+      ],
+      "target_printed_pages_hint": [
+        533,
+        534
+      ],
+      "target_iiif_images_hint": [
+        543,
+        544
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Enumerated groups total18 if counted 2+2+2+2+4+3+2+1. Check printed numerals as a finite list; never repair arithmetic to17.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S001981",
+          "line": 1981,
+          "renditions": {
+            "tibetan": {
+              "text": "དེ་ཡང་རྒྱུད་ཀྱི་རིམ་པ་ནི\n",
+              "payload_character_offsets": [
+                50495,
+                50520
+              ],
+              "raw_character_offsets": [
+                50507,
+                50532
+              ]
+            },
+            "wylie": {
+              "text": "de yang rgyud kyi rim pa ni\n",
+              "payload_character_offsets": [
+                61013,
+                61041
+              ],
+              "raw_character_offsets": [
+                61019,
+                61047
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001982",
+          "line": 1982,
+          "renditions": {
+            "tibetan": {
+              "text": "རྩ་བའི་རྒྱུད་ནི་གཉིས་ཀྱིས་ནི\n",
+              "payload_character_offsets": [
+                50520,
+                50549
+              ],
+              "raw_character_offsets": [
+                50532,
+                50561
+              ]
+            },
+            "wylie": {
+              "text": "rtsa ba'i rgyud ni gnyis kyis ni\n",
+              "payload_character_offsets": [
+                61041,
+                61074
+              ],
+              "raw_character_offsets": [
+                61047,
+                61080
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001983",
+          "line": 1983,
+          "renditions": {
+            "tibetan": {
+              "text": "ཆོས་ཀུན་གཅིག་པ་ཉིད་དུ་བཤད\n",
+              "payload_character_offsets": [
+                50549,
+                50575
+              ],
+              "raw_character_offsets": [
+                50561,
+                50587
+              ]
+            },
+            "wylie": {
+              "text": "chos kun gcig pa nyid du bshad\n",
+              "payload_character_offsets": [
+                61074,
+                61105
+              ],
+              "raw_character_offsets": [
+                61080,
+                61111
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001984",
+          "line": 1984,
+          "renditions": {
+            "tibetan": {
+              "text": "བཤད་རྒྱུད་མ་བུ་གཉིས་ཀྱིས་ནི\n",
+              "payload_character_offsets": [
+                50575,
+                50603
+              ],
+              "raw_character_offsets": [
+                50587,
+                50615
+              ]
+            },
+            "wylie": {
+              "text": "bshad rgyud ma bu gnyis kyis ni\n",
+              "payload_character_offsets": [
+                61105,
+                61137
+              ],
+              "raw_character_offsets": [
+                61111,
+                61143
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001985",
+          "line": 1985,
+          "renditions": {
+            "tibetan": {
+              "text": "ལོ་འདབ་རྒྱས་པའི་ཚུལ་དུ་བཤད\n",
+              "payload_character_offsets": [
+                50603,
+                50630
+              ],
+              "raw_character_offsets": [
+                50615,
+                50642
+              ]
+            },
+            "wylie": {
+              "text": "lo 'dab rgyas pa'i tshul du bshad\n",
+              "payload_character_offsets": [
+                61137,
+                61171
+              ],
+              "raw_character_offsets": [
+                61143,
+                61177
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001986",
+          "line": 1986,
+          "renditions": {
+            "tibetan": {
+              "text": "ཡན་ལག་རྒྱུད་ནི་གཉིས་དག་གིས\n",
+              "payload_character_offsets": [
+                50630,
+                50657
+              ],
+              "raw_character_offsets": [
+                50642,
+                50669
+              ]
+            },
+            "wylie": {
+              "text": "yan lag rgyud ni gnyis dag gis\n",
+              "payload_character_offsets": [
+                61171,
+                61202
+              ],
+              "raw_character_offsets": [
+                61177,
+                61208
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001987",
+          "line": 1987,
+          "renditions": {
+            "tibetan": {
+              "text": "རྒྱ་མཚོར་གཟའ་སྐར་ཤར་བཞིན་བཤད\n",
+              "payload_character_offsets": [
+                50657,
+                50686
+              ],
+              "raw_character_offsets": [
+                50669,
+                50698
+              ]
+            },
+            "wylie": {
+              "text": "rgya mtshor gza' skar shar bzhin bshad\n",
+              "payload_character_offsets": [
+                61202,
+                61241
+              ],
+              "raw_character_offsets": [
+                61208,
+                61247
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001988",
+          "line": 1988,
+          "renditions": {
+            "tibetan": {
+              "text": "ལུང་རིག་གསལ་བའི་རྒྱུད་གཉིས་ཀྱིས\n",
+              "payload_character_offsets": [
+                50686,
+                50718
+              ],
+              "raw_character_offsets": [
+                50698,
+                50730
+              ]
+            },
+            "wylie": {
+              "text": "lung rig gsal ba'i rgyud gnyis kyis\n",
+              "payload_character_offsets": [
+                61241,
+                61277
+              ],
+              "raw_character_offsets": [
+                61247,
+                61283
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001989",
+          "line": 1989,
+          "renditions": {
+            "tibetan": {
+              "text": "མེ་ཏོག་ཁ་བྱེའི་ཚུལ་དུ་བཤད\n",
+              "payload_character_offsets": [
+                50718,
+                50744
+              ],
+              "raw_character_offsets": [
+                50730,
+                50756
+              ]
+            },
+            "wylie": {
+              "text": "me tog kha bye'i tshul du bshad\n",
+              "payload_character_offsets": [
+                61277,
+                61309
+              ],
+              "raw_character_offsets": [
+                61283,
+                61315
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001990",
+          "line": 1990,
+          "renditions": {
+            "tibetan": {
+              "text": "མན་ངག་རྒྱུད་སྡེ་བཞི་ཡིས་ནི\n",
+              "payload_character_offsets": [
+                50744,
+                50771
+              ],
+              "raw_character_offsets": [
+                50756,
+                50783
+              ]
+            },
+            "wylie": {
+              "text": "man ngag rgyud sde bzhi yis ni\n",
+              "payload_character_offsets": [
+                61309,
+                61340
+              ],
+              "raw_character_offsets": [
+                61315,
+                61346
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001991",
+          "line": 1991,
+          "renditions": {
+            "tibetan": {
+              "text": "༥༣༤\n",
+              "payload_character_offsets": [
+                50771,
+                50775
+              ],
+              "raw_character_offsets": [
+                50783,
+                50787
+              ]
+            },
+            "wylie": {
+              "text": "534\n",
+              "payload_character_offsets": [
+                61340,
+                61344
+              ],
+              "raw_character_offsets": [
+                61346,
+                61350
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001992",
+          "line": 1992,
+          "renditions": {
+            "tibetan": {
+              "text": "འབྲས་བུ་སྨིན་པའི་ཚུལ་དུ་བཤད\n",
+              "payload_character_offsets": [
+                50775,
+                50803
+              ],
+              "raw_character_offsets": [
+                50787,
+                50815
+              ]
+            },
+            "wylie": {
+              "text": "'bras bu smin pa'i tshul du bshad\n",
+              "payload_character_offsets": [
+                61344,
+                61378
+              ],
+              "raw_character_offsets": [
+                61350,
+                61384
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001993",
+          "line": 1993,
+          "renditions": {
+            "tibetan": {
+              "text": "དགོངས་པ་རང་གནས་རྒྱུད་གསུམ་གྱིས\n",
+              "payload_character_offsets": [
+                50803,
+                50834
+              ],
+              "raw_character_offsets": [
+                50815,
+                50846
+              ]
+            },
+            "wylie": {
+              "text": "dgongs pa rang gnas rgyud gsum gyis\n",
+              "payload_character_offsets": [
+                61378,
+                61414
+              ],
+              "raw_character_offsets": [
+                61384,
+                61420
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001994",
+          "line": 1994,
+          "renditions": {
+            "tibetan": {
+              "text": "མཐོང་བྱེད་མིག་གི་ཚུལ་དུ་བཤད\n",
+              "payload_character_offsets": [
+                50834,
+                50862
+              ],
+              "raw_character_offsets": [
+                50846,
+                50874
+              ]
+            },
+            "wylie": {
+              "text": "mthong byed mig gi tshul du bshad\n",
+              "payload_character_offsets": [
+                61414,
+                61448
+              ],
+              "raw_character_offsets": [
+                61420,
+                61454
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001995",
+          "line": 1995,
+          "renditions": {
+            "tibetan": {
+              "text": "འཇུག་པ་རང་གྲོལ་རྒྱུད་གཉིས་ཀྱིས\n",
+              "payload_character_offsets": [
+                50862,
+                50893
+              ],
+              "raw_character_offsets": [
+                50874,
+                50905
+              ]
+            },
+            "wylie": {
+              "text": "'jug pa rang grol rgyud gnyis kyis\n",
+              "payload_character_offsets": [
+                61448,
+                61483
+              ],
+              "raw_character_offsets": [
+                61454,
+                61489
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001996",
+          "line": 1996,
+          "renditions": {
+            "tibetan": {
+              "text": "དྲན་གཞི་སྙིང་གི་ཚུལ་དུ་བཤད\n",
+              "payload_character_offsets": [
+                50893,
+                50920
+              ],
+              "raw_character_offsets": [
+                50905,
+                50932
+              ]
+            },
+            "wylie": {
+              "text": "dran gzhi snying gi tshul du bshad\n",
+              "payload_character_offsets": [
+                61483,
+                61518
+              ],
+              "raw_character_offsets": [
+                61489,
+                61524
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001997",
+          "line": 1997,
+          "renditions": {
+            "tibetan": {
+              "text": "མཁས་པ་ཆོ་གའི་རྒྱུད་ཀྱིས་ནི\n",
+              "payload_character_offsets": [
+                50920,
+                50947
+              ],
+              "raw_character_offsets": [
+                50932,
+                50959
+              ]
+            },
+            "wylie": {
+              "text": "mkhas pa cho ga'i rgyud kyis ni\n",
+              "payload_character_offsets": [
+                61518,
+                61550
+              ],
+              "raw_character_offsets": [
+                61524,
+                61556
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S001998",
+          "line": 1998,
+          "renditions": {
+            "tibetan": {
+              "text": "མེ་ལ་ཚེ་བྱེད་པའི་ཁྱེ་ལྟར་བཤད\n",
+              "payload_character_offsets": [
+                50947,
+                50976
+              ],
+              "raw_character_offsets": [
+                50959,
+                50988
+              ]
+            },
+            "wylie": {
+              "text": "me la tshe byed pa'i khye ltar bshad\n",
+              "payload_character_offsets": [
+                61550,
+                61587
+              ],
+              "raw_character_offsets": [
+                61556,
+                61593
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-049",
+      "chapter": 8,
+      "classification": "unusual_form",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S002020",
+        "MTP-S002026"
+      ],
+      "payload_lines_1based": [
+        2020,
+        2026
+      ],
+      "page_marker_hints": [
+        535
+      ],
+      "target_printed_pages_hint": [
+        535
+      ],
+      "target_iiif_images_hint": [
+        545
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "brab mo and thus in final summary: check source letters and possible smaller notes.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S002020",
+          "line": 2020,
+          "renditions": {
+            "tibetan": {
+              "text": "མདོ་ནི་བྲབ་མོའི་དོན་དུ་བསྡུ\n",
+              "payload_character_offsets": [
+                51511,
+                51539
+              ],
+              "raw_character_offsets": [
+                51523,
+                51551
+              ]
+            },
+            "wylie": {
+              "text": "mdo ni brab mo'i don du bsdu\n",
+              "payload_character_offsets": [
+                62228,
+                62257
+              ],
+              "raw_character_offsets": [
+                62234,
+                62263
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002026",
+          "line": 2026,
+          "renditions": {
+            "tibetan": {
+              "text": "གནས་པ་ཐུས་ཏེ་ཅིཏ་ཏའི་དཀྱིལ\n",
+              "payload_character_offsets": [
+                51672,
+                51699
+              ],
+              "raw_character_offsets": [
+                51684,
+                51711
+              ]
+            },
+            "wylie": {
+              "text": "gnas pa thus te cit ta'i dkyil\n",
+              "payload_character_offsets": [
+                62416,
+                62447
+              ],
+              "raw_character_offsets": [
+                62422,
+                62453
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-050",
+      "chapter": 8,
+      "classification": "chapter_boundary/page_gap/colophon_layers",
+      "triage_confidence": "high",
+      "status": "unchecked_candidate",
+      "anchor_ids": [
+        "MTP-S002034",
+        "MTP-S002035",
+        "MTP-S002036",
+        "MTP-S002037",
+        "MTP-S002038",
+        "MTP-S002039",
+        "MTP-S002040",
+        "MTP-S002041",
+        "MTP-S002042",
+        "MTP-S002043",
+        "MTP-S002044",
+        "MTP-S002045",
+        "MTP-S002046",
+        "MTP-S002047",
+        "MTP-S002048",
+        "MTP-S002049",
+        "MTP-S002050",
+        "MTP-S002051",
+        "MTP-S002052",
+        "MTP-S002053"
+      ],
+      "payload_lines_1based": [
+        2034,
+        2035,
+        2036,
+        2037,
+        2038,
+        2039,
+        2040,
+        2041,
+        2042,
+        2043,
+        2044,
+        2045,
+        2046,
+        2047,
+        2048,
+        2049,
+        2050,
+        2051,
+        2052,
+        2053
+      ],
+      "page_marker_hints": [
+        535,
+        537
+      ],
+      "target_printed_pages_hint": [
+        535,
+        536,
+        537
+      ],
+      "target_iiif_images_hint": [
+        545,
+        546,
+        547
+      ],
+      "physical_allocation_verified": false,
+      "rationale": "Last chapter closing, final prose, work ending and commentary notice span the535→537 marker jump. Inspect printed535–537, classify final notices/blessings, and distinguish absent page marker from missing textual span.",
+      "selected_reading": null,
+      "source_excerpts": [
+        {
+          "anchor": "MTP-S002034",
+          "line": 2034,
+          "renditions": {
+            "tibetan": {
+              "text": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས\n",
+              "payload_character_offsets": [
+                51893,
+                51932
+              ],
+              "raw_character_offsets": [
+                51905,
+                51944
+              ]
+            },
+            "wylie": {
+              "text": "zhes mu tig phreng ba rin po che'i rgyud las\n",
+              "payload_character_offsets": [
+                62676,
+                62721
+              ],
+              "raw_character_offsets": [
+                62682,
+                62727
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002035",
+          "line": 2035,
+          "renditions": {
+            "tibetan": {
+              "text": "རྒྱུད་ཐམས་ཅད་བསྡོམས་ཏེ་བསྟན་པའི་ལེའུ་སྟེ་བརྒྱད་པའོ\n",
+              "payload_character_offsets": [
+                51932,
+                51983
+              ],
+              "raw_character_offsets": [
+                51944,
+                51995
+              ]
+            },
+            "wylie": {
+              "text": "rgyud thams cad bsdoms te bstan pa'i le'u ste brgyad pa'o\n",
+              "payload_character_offsets": [
+                62721,
+                62779
+              ],
+              "raw_character_offsets": [
+                62727,
+                62785
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002036",
+          "line": 2036,
+          "renditions": {
+            "tibetan": {
+              "text": "དེ་སྐད་ཅེས་སེམས་མེད་པའི་རིག་པས་བཀའ་སྩལ་པ་དང\n",
+              "payload_character_offsets": [
+                51983,
+                52027
+              ],
+              "raw_character_offsets": [
+                51995,
+                52039
+              ]
+            },
+            "wylie": {
+              "text": "de skad ces sems med pa'i rig pas bka' stsal pa dang\n",
+              "payload_character_offsets": [
+                62779,
+                62832
+              ],
+              "raw_character_offsets": [
+                62785,
+                62838
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002037",
+          "line": 2037,
+          "renditions": {
+            "tibetan": {
+              "text": "རིག་པ་རྡོ་རྗེ་རྣོན་པོ་ལ་སོགས་པ\n",
+              "payload_character_offsets": [
+                52027,
+                52058
+              ],
+              "raw_character_offsets": [
+                52039,
+                52070
+              ]
+            },
+            "wylie": {
+              "text": "rig pa rdo rje rnon po la sogs pa\n",
+              "payload_character_offsets": [
+                62832,
+                62866
+              ],
+              "raw_character_offsets": [
+                62838,
+                62872
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002038",
+          "line": 2038,
+          "renditions": {
+            "tibetan": {
+              "text": "རིགས་ལྔའི་དེ་བཞིན་གཤེགས་པ་དང\n",
+              "payload_character_offsets": [
+                52058,
+                52087
+              ],
+              "raw_character_offsets": [
+                52070,
+                52099
+              ]
+            },
+            "wylie": {
+              "text": "rigs lnga'i de bzhin gshegs pa dang\n",
+              "payload_character_offsets": [
+                62866,
+                62902
+              ],
+              "raw_character_offsets": [
+                62872,
+                62908
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002039",
+          "line": 2039,
+          "renditions": {
+            "tibetan": {
+              "text": "༥༣༧\n",
+              "payload_character_offsets": [
+                52087,
+                52091
+              ],
+              "raw_character_offsets": [
+                52099,
+                52103
+              ]
+            },
+            "wylie": {
+              "text": "537\n",
+              "payload_character_offsets": [
+                62902,
+                62906
+              ],
+              "raw_character_offsets": [
+                62908,
+                62912
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002040",
+          "line": 2040,
+          "renditions": {
+            "tibetan": {
+              "text": "རིགས་གསུམ་གྱི་ཁྲོ་བོ་དང\n",
+              "payload_character_offsets": [
+                52091,
+                52115
+              ],
+              "raw_character_offsets": [
+                52103,
+                52127
+              ]
+            },
+            "wylie": {
+              "text": "rigs gsum gyi khro bo dang\n",
+              "payload_character_offsets": [
+                62906,
+                62933
+              ],
+              "raw_character_offsets": [
+                62912,
+                62939
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002041",
+          "line": 2041,
+          "renditions": {
+            "tibetan": {
+              "text": "སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་དང\n",
+              "payload_character_offsets": [
+                52115,
+                52143
+              ],
+              "raw_character_offsets": [
+                52127,
+                52155
+              ]
+            },
+            "wylie": {
+              "text": "sangs rgyas chos dang dge 'dun dang\n",
+              "payload_character_offsets": [
+                62933,
+                62969
+              ],
+              "raw_character_offsets": [
+                62939,
+                62975
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002042",
+          "line": 2042,
+          "renditions": {
+            "tibetan": {
+              "text": "ལྷ་དང་ལྷ་མ་ཡིན་དང\n",
+              "payload_character_offsets": [
+                52143,
+                52161
+              ],
+              "raw_character_offsets": [
+                52155,
+                52173
+              ]
+            },
+            "wylie": {
+              "text": "lha dang lha ma yin dang\n",
+              "payload_character_offsets": [
+                62969,
+                62994
+              ],
+              "raw_character_offsets": [
+                62975,
+                63000
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002043",
+          "line": 2043,
+          "renditions": {
+            "tibetan": {
+              "text": "མཁའ་འགྲོ་མ་དཔག་ཏུ་མེད་པ་དང\n",
+              "payload_character_offsets": [
+                52161,
+                52188
+              ],
+              "raw_character_offsets": [
+                52173,
+                52200
+              ]
+            },
+            "wylie": {
+              "text": "mkha' 'gro ma dpag tu med pa dang\n",
+              "payload_character_offsets": [
+                62994,
+                63028
+              ],
+              "raw_character_offsets": [
+                63000,
+                63034
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002044",
+          "line": 2044,
+          "renditions": {
+            "tibetan": {
+              "text": "དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རང་སྟེ\n",
+              "payload_character_offsets": [
+                52188,
+                52223
+              ],
+              "raw_character_offsets": [
+                52200,
+                52235
+              ]
+            },
+            "wylie": {
+              "text": "dri zar bcas pa'i 'jig rten yi rang ste\n",
+              "payload_character_offsets": [
+                63028,
+                63068
+              ],
+              "raw_character_offsets": [
+                63034,
+                63074
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002045",
+          "line": 2045,
+          "renditions": {
+            "tibetan": {
+              "text": "བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ\n",
+              "payload_character_offsets": [
+                52223,
+                52268
+              ],
+              "raw_character_offsets": [
+                52235,
+                52280
+              ]
+            },
+            "wylie": {
+              "text": "bcom ldan 'das kyis gsungs pa la mngon par bstod do\n",
+              "payload_character_offsets": [
+                63068,
+                63120
+              ],
+              "raw_character_offsets": [
+                63074,
+                63126
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002046",
+          "line": 2046,
+          "renditions": {
+            "tibetan": {
+              "text": "མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ཅེས་བྱ་བ\n",
+              "payload_character_offsets": [
+                52268,
+                52315
+              ],
+              "raw_character_offsets": [
+                52280,
+                52327
+              ]
+            },
+            "wylie": {
+              "text": "mu tig phreng ba rin po che gsang ba'i rgyud ces bya ba\n",
+              "payload_character_offsets": [
+                63120,
+                63176
+              ],
+              "raw_character_offsets": [
+                63126,
+                63182
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002047",
+          "line": 2047,
+          "renditions": {
+            "tibetan": {
+              "text": "རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་རྒྱུད་འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞིའི་ཁྱད་པར་དུ་ཕྱུང་བའོ\n",
+              "payload_character_offsets": [
+                52315,
+                52391
+              ],
+              "raw_character_offsets": [
+                52327,
+                52403
+              ]
+            },
+            "wylie": {
+              "text": "rang bzhin rdzogs pa chen po'i rgyud 'bum phrag drug cu rtsa bzhi'i khyad par du phyung ba'o\n",
+              "payload_character_offsets": [
+                63176,
+                63269
+              ],
+              "raw_character_offsets": [
+                63182,
+                63275
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002048",
+          "line": 2048,
+          "renditions": {
+            "tibetan": {
+              "text": "རྫོགས་སོ\n",
+              "payload_character_offsets": [
+                52391,
+                52400
+              ],
+              "raw_character_offsets": [
+                52403,
+                52412
+              ]
+            },
+            "wylie": {
+              "text": "rdzogs so\n",
+              "payload_character_offsets": [
+                63269,
+                63279
+              ],
+              "raw_character_offsets": [
+                63275,
+                63285
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002049",
+          "line": 2049,
+          "renditions": {
+            "tibetan": {
+              "text": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ཀྱི་འགྲེལ་པ་གསལ་བྱེད་ཅེས་བྱ་བ་ཡོད\n",
+              "payload_character_offsets": [
+                52400,
+                52456
+              ],
+              "raw_character_offsets": [
+                52412,
+                52468
+              ]
+            },
+            "wylie": {
+              "text": "mu tig phreng ba'i rgyud kyi 'grel pa gsal byed ces bya ba yod\n",
+              "payload_character_offsets": [
+                63279,
+                63342
+              ],
+              "raw_character_offsets": [
+                63285,
+                63348
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002050",
+          "line": 2050,
+          "renditions": {
+            "tibetan": {
+              "text": "མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ལ་མ་བུ་གསུམ\n",
+              "payload_character_offsets": [
+                52456,
+                52490
+              ],
+              "raw_character_offsets": [
+                52468,
+                52502
+              ]
+            },
+            "wylie": {
+              "text": "mu tig phreng ba'i rgyud la ma bu gsum\n",
+              "payload_character_offsets": [
+                63342,
+                63381
+              ],
+              "raw_character_offsets": [
+                63348,
+                63387
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002051",
+          "line": 2051,
+          "renditions": {
+            "tibetan": {
+              "text": "དགེའོ\n",
+              "payload_character_offsets": [
+                52490,
+                52496
+              ],
+              "raw_character_offsets": [
+                52502,
+                52508
+              ]
+            },
+            "wylie": {
+              "text": "dge'o\n",
+              "payload_character_offsets": [
+                63381,
+                63387
+              ],
+              "raw_character_offsets": [
+                63387,
+                63393
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002052",
+          "line": 2052,
+          "renditions": {
+            "tibetan": {
+              "text": "དགེའོ\n",
+              "payload_character_offsets": [
+                52496,
+                52502
+              ],
+              "raw_character_offsets": [
+                52508,
+                52514
+              ]
+            },
+            "wylie": {
+              "text": "dge'o\n",
+              "payload_character_offsets": [
+                63387,
+                63393
+              ],
+              "raw_character_offsets": [
+                63393,
+                63399
+              ]
+            }
+          }
+        },
+        {
+          "anchor": "MTP-S002053",
+          "line": 2053,
+          "renditions": {
+            "tibetan": {
+              "text": "དགེའོ\n",
+              "payload_character_offsets": [
+                52502,
+                52508
+              ],
+              "raw_character_offsets": [
+                52514,
+                52520
+              ]
+            },
+            "wylie": {
+              "text": "dge'o\n",
+              "payload_character_offsets": [
+                63393,
+                63399
+              ],
+              "raw_character_offsets": [
+                63399,
+                63405
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Candidate forms may be governing-source variants, orthographic contractions or main text; no correction is implied.",
+    "Verse length is used only to target layer inspection, never to decide what text should say.",
+    "Later-chapter candidates are preliminary inventory; coordinator must freeze and release chapters sequentially before substantive review.",
+    "Page numbers in e-text are locator hints. Allocate evidence by visible text and source foliation; image=printed+10 is a source-manifest locator and not proof of anchor association.",
+    "The Sanskrit heading has no supplied title text; whether a restoration is required depends on physical evidence.",
+    "No literal Latin text occurs in Tibetan payload; all Wylie lexical content is deliberately Roman-script transliteration.",
+    "No additional graphic, spelling or punctuation normalization is authorized by this triage."
+  ]
+}
