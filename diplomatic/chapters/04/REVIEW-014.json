@@ -1,0 +1,175 @@
+{
+  "inspector": "/root/golden_base_review",
+  "chapter": 4,
+  "scope": "Four assigned anchors, three frozen checks, three governing native images; no other chapter work. No proposed text corrections.",
+  "decisions": [
+    {
+      "id": "CH04-D000421",
+      "anchor_id": "MTP-S000421",
+      "old": "སེམས་ཀྱི་སྒོ་བཅད་རྣམ་རྟོག་དངས",
+      "new": "སེམས་ཀྱི་སྒོ་བཅད་རྣམ་རྟོག་དངས",
+      "role": "main_text",
+      "treatment": "retain_base",
+      "reason": "Native image 450 line 3 directly supports the supplied string, including final དངས. The EWTS warning is not evidence of a printed error; retain the exact reading.",
+      "evidence_ids": [
+        "CH04-IMG-450"
+      ],
+      "uncertainty": [],
+      "source_locus": "S421 main line 3, center-right: sems kyi sgo bcad rnam rtog dangs."
+    },
+    {
+      "id": "CH04-D000552",
+      "anchor_id": "MTP-S000552",
+      "old": "བསྐྱོད་ཅིང་དངས་སྙིགས་འབྱེད་པར་གྲོལ",
+      "new": "བསྐྱོད་ཅིང་དངས་སྙིགས་འབྱེད་པར་གྲོལ",
+      "role": "main_text",
+      "treatment": "retain_base",
+      "reason": "Native image 459 line 1 directly supports the supplied string, including དངས་སྙིགས. Retain the printed wording without repair prompted by the converter warning.",
+      "evidence_ids": [
+        "CH04-IMG-459"
+      ],
+      "uncertainty": [],
+      "source_locus": "S552 main line 1, left-center: bskyod cing dangs snyigs byed par grol."
+    },
+    {
+      "id": "CH04-D000618",
+      "anchor_id": "MTP-S000618",
+      "old": "བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ",
+      "new": "བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Native image 463 lines 2–3 supports the adjacent numerical words བདུན་ཚན་བདུན. Preserve the exact supplied string; do not harmonize its count with the following statement.",
+      "evidence_ids": [
+        "CH04-IMG-463"
+      ],
+      "uncertainty": [
+        "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+      ],
+      "source_locus": "S618 begins main line 2 right with bdun tshan bdun gyi rtogs tshad; final do follows smaller running wording on line 3 left-center. S619 follows on main line 3 with zla bcu sa rnams bgrod pa nyid; smaller source wording intervenes."
+    },
+    {
+      "id": "CH04-D000619",
+      "anchor_id": "MTP-S000619",
+      "old": "ཟླ་བཅུ་ས་རྣམས་བགྲོད་པ་ཉིད",
+      "new": "ཟླ་བཅུ་ས་རྣམས་བགྲོད་པ་ཉིད",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Native image 463 line 3 directly supports opening ཟླ་བཅུ and the main sequence ས་རྣམས་བགྲོད་པ་ཉིད. Preserve the exact supplied numerical statement without arithmetic or biological harmonization.",
+      "evidence_ids": [
+        "CH04-IMG-463"
+      ],
+      "uncertainty": [
+        "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+      ],
+      "source_locus": "S618 begins main line 2 right with bdun tshan bdun gyi rtogs tshad; final do follows smaller running wording on line 3 left-center. S619 follows on main line 3 with zla bcu sa rnams bgrod pa nyid; smaller source wording intervenes."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "CH04-IMG-450",
+      "path": "evidence/golden/04/00450.png",
+      "sha256": "3083f0b97d4f422f31f420abbbe5b979eca736ad0e06de5e1747417be7bcbabe",
+      "source_id": "adzom-1973",
+      "image_index": 450,
+      "printed_page": 440,
+      "anchor_ids": [
+        "MTP-S000421"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "S421 main line 3, center-right: sems kyi sgo bcad rnam rtog dangs. Direct targeted review only; no full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950450.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH04-IMG-459",
+      "path": "evidence/golden/04/00459.png",
+      "sha256": "271a2f44c830cb8479c9357b4666ebf88c79c527b763f792f2c231b8c5b90a9c",
+      "source_id": "adzom-1973",
+      "image_index": 459,
+      "printed_page": 449,
+      "anchor_ids": [
+        "MTP-S000552"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "S552 main line 1, left-center: bskyod cing dangs snyigs byed par grol. Direct targeted review only; no full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950459.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH04-IMG-463",
+      "path": "evidence/golden/04/00463.png",
+      "sha256": "83feb2faa96eacb802051a09d6fd068f5d2df71b48b784520b389954c70d1b38",
+      "source_id": "adzom-1973",
+      "image_index": 463,
+      "printed_page": 453,
+      "anchor_ids": [
+        "MTP-S000618",
+        "MTP-S000619"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "allocation_reason": "S618 begins main line 2 right with bdun tshan bdun gyi rtogs tshad; final do follows smaller running wording on line 3 left-center. S619 follows on main line 3 with zla bcu sa rnams bgrod pa nyid; smaller source wording intervenes. Direct targeted review only; no full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950463.TIF/full/max/0/default.png"
+    }
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C04-CHECK-004",
+      "status": "closed",
+      "finding": "Native image 450 line 3 directly supports the supplied string, including final དངས. The EWTS warning is not evidence of a printed error; retain the exact reading.",
+      "evidence_ids": [
+        "CH04-IMG-450"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-C04-CHECK-006",
+      "status": "closed",
+      "finding": "Native image 459 line 1 directly supports the supplied string, including དངས་སྙིགས. Retain the printed wording without repair prompted by the converter warning.",
+      "evidence_ids": [
+        "CH04-IMG-459"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-TRIAGE-014",
+      "status": "closed",
+      "finding": "Native image 463 lines 2–3 supports the adjacent numerical words བདུན་ཚན་བདུན. Preserve the exact supplied string; do not harmonize its count with the following statement. Native image 463 line 3 directly supports opening ཟླ་བཅུ and the main sequence ས་རྣམས་བགྲོད་པ་ཉིད. Preserve the exact supplied numerical statement without arithmetic or biological harmonization.",
+      "evidence_ids": [
+        "CH04-IMG-463"
+      ],
+      "uncertainty": [
+        "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+      ]
+    }
+  ],
+  "inspection_crop_coordinates": {
+    "00450.png": [
+      1970,
+      255,
+      2740,
+      365
+    ],
+    "00459.png": [
+      1000,
+      155,
+      1830,
+      280
+    ],
+    "00463.png": [
+      [
+        2150,
+        190,
+        3720,
+        440
+      ],
+      [
+        530,
+        240,
+        2300,
+        440
+      ]
+    ]
+  },
+  "inspection_crop_note": "Temporary exact-pixel locators only; full original files are preserved as canonical evidence. No resizing, enhancement or OCR used to make the locators."
+}

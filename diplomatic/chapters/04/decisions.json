@@ -1,1 +1,260 @@
-[]
+[
+  {
+    "id": "CH04-D000342",
+    "anchor_id": "MTP-S000342",
+    "old": "༄༤",
+    "new": "༄༤",
+    "role": "metadata",
+    "treatment": "classify_layer",
+    "reason": "Keep the @4-derived electronic token as control metadata, without claiming it transcribes a printed chapter ornament.",
+    "evidence_ids": [
+      "CH04-IMG-446"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "CH04-D000343",
+    "anchor_id": "MTP-S000343",
+    "old": "དེ་ནས་རྟ་མགྲིན་དབང་གིས་རྒྱལ་པོས་འདི་སྐད་ཅེས་ཞུས་སོ",
+    "new": "དེ་ནས་རྟ་མགྲིན་དབང་གིས་རྒྱལ་པོས་འདི་སྐད་ཅེས་ཞུས་སོ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The chapter-four opening follows the chapter-three closure across image446 lines2–3. Preserve the supplied main string.",
+    "evidence_ids": [
+      "CH04-IMG-446"
+    ],
+    "uncertainty": [
+      "Smaller source wording around the opening remains untranscribed; no punctuation or expansion is silently supplied."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "CH04-D000355",
+    "anchor_id": "MTP-S000355",
+    "old": "སངས་རྒྱས་སེམས་ཅན་ཀུན་གྱི་དུར",
+    "new": "སངས་རྒྱས་སེམས་ཅན་ཀུན་གྱི་དུར",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The unusual final དུར is visibly in the native main sequence before ཐེམ་ཞིང. Retain the supplied wording without semantic emendation.",
+    "evidence_ids": [
+      "CH04-IMG-446"
+    ],
+    "uncertainty": [
+      "Smaller adjacent source text is not incorporated; the electronic boundary after དུར is preserved rather than presented as source physical lineation."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "CH04-D000356",
+    "anchor_id": "MTP-S000356",
+    "old": "ཐེམ་ཞིང་ཡང་དག་དོན་ལ་སྤྱོད",
+    "new": "ཐེམ་ཞིང་ཡང་དག་དོན་ལ་སྤྱོད",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Native image446 line6 supports the following ཐེམ་ཞིང sequence. Retain this separate stable electronic anchor; do not join or renumber it to repair unexpected wording.",
+    "evidence_ids": [
+      "CH04-IMG-446"
+    ],
+    "uncertainty": [
+      "Smaller intervening source notes remain untranscribed; no conjectural alteration or anchor merge is made."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "CH04-D000421",
+    "anchor_id": "MTP-S000421",
+    "old": "སེམས་ཀྱི་སྒོ་བཅད་རྣམ་རྟོག་དངས",
+    "new": "སེམས་ཀྱི་སྒོ་བཅད་རྣམ་རྟོག་དངས",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Native image 450 line 3 directly supports the supplied string, including final དངས. The EWTS warning is not evidence of a printed error; retain the exact reading.",
+    "evidence_ids": [
+      "CH04-IMG-450"
+    ],
+    "uncertainty": [],
+    "source_locus": "S421 main line 3, center-right: sems kyi sgo bcad rnam rtog dangs.",
+    "native_inspector": "/root/golden_base_review",
+    "review_fragment": {
+      "path": "diplomatic/chapters/04/REVIEW-014.json",
+      "sha256": "d1bfce5ba08d341e3ecb2b1f750b5b13ee947eb6a89725a06aad4e62733ba88c"
+    }
+  },
+  {
+    "id": "MTP-C04-PIPE-D000446",
+    "anchor_id": "MTP-S000446",
+    "old": "འབྱུང་བ་ལྔ་ཉིད་ཡེ་དངས་པས",
+    "new": "འབྱུང་བ་ལྔ་ཉིད་ཡེ་དངས་པས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The governing print visibly supports ཡེ་དངས་པས. Retain དངས exactly: the EWTS warning proposing dngas is a converter spelling heuristic, not source evidence for emendation.",
+    "evidence_ids": [
+      "MTP-C04-PIPE-E452"
+    ],
+    "uncertainty": [
+      "Smaller explanatory source material is interleaved in this printed verse and remains untranscribed; the checked large main-text reading is retained."
+    ],
+    "source_notes": [
+      {
+        "role": "annotation",
+        "status": "untranscribed",
+        "note": "Smaller explanatory material is interleaved in this printed verse; this check concerns the large main-text reading."
+      }
+    ],
+    "native_inspector": "/root/golden_pipeline",
+    "review_fragment": {
+      "path": "diplomatic/chapters/04/REVIEW-012-013.json",
+      "sha256": "5ae627389cffec174d7bb641a886090f00f736210a213495cf98983806ee69e7"
+    }
+  },
+  {
+    "id": "MTP-C04-PIPE-D000456",
+    "anchor_id": "MTP-S000456",
+    "old": "ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས",
+    "new": "ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Native image452 supports the supplied large-type wording ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས. Its syntactic unusualness does not authorize a grammar-driven repair. The smaller insertion after ཡིད་བཞིན remains separate from the main verse.",
+    "evidence_ids": [
+      "MTP-C04-PIPE-E452"
+    ],
+    "uncertainty": [
+      "The smaller source annotation after ཡིད་བཞིན remains untranscribed in this bounded check; no uncertain annotation is incorporated into the main reading."
+    ],
+    "source_notes": [],
+    "native_inspector": "/root/golden_pipeline",
+    "review_fragment": {
+      "path": "diplomatic/chapters/04/REVIEW-012-013.json",
+      "sha256": "5ae627389cffec174d7bb641a886090f00f736210a213495cf98983806ee69e7"
+    }
+  },
+  {
+    "id": "MTP-C04-PIPE-D000469",
+    "anchor_id": "MTP-S000469",
+    "old": "དིར་མ་རྣམས་ནི་རང་དག་པས",
+    "new": "དྲི་མ་རྣམས་ནི་རང་དག་པས",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "The governing print has the subjoined-ra stack དྲི, followed by མ, whereas the electronic base has separate suffix-ra spelling དིར. Correct this visible transcription discrepancy only.",
+    "evidence_ids": [
+      "MTP-C04-PIPE-E453"
+    ],
+    "uncertainty": [
+      "A smaller annotation intervenes between the printed དྲི and its large-type continuation མ་རྣམས་ནི་རང་དག་པས; its full wording is not transcribed here."
+    ],
+    "source_notes": [],
+    "native_inspector": "/root/golden_pipeline",
+    "review_fragment": {
+      "path": "diplomatic/chapters/04/REVIEW-012-013.json",
+      "sha256": "5ae627389cffec174d7bb641a886090f00f736210a213495cf98983806ee69e7"
+    }
+  },
+  {
+    "id": "MTP-C04-PIPE-D000470",
+    "anchor_id": "MTP-S000470",
+    "old": "དིར་མེད་ཟང་ཐལ་ཆེན་པོར་གནས",
+    "new": "དྲི་མེད་ཟང་ཐལ་ཆེན་པོར་གནས",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "The governing print repeats the visibly stacked དྲི in དྲི་མེད. Correct the electronic base དིར་མེད to the scan-supported spelling; retain the rest of the supplied verse.",
+    "evidence_ids": [
+      "MTP-C04-PIPE-E453"
+    ],
+    "uncertainty": [],
+    "source_notes": [],
+    "native_inspector": "/root/golden_pipeline",
+    "review_fragment": {
+      "path": "diplomatic/chapters/04/REVIEW-012-013.json",
+      "sha256": "5ae627389cffec174d7bb641a886090f00f736210a213495cf98983806ee69e7"
+    }
+  },
+  {
+    "id": "CH04-D000552",
+    "anchor_id": "MTP-S000552",
+    "old": "བསྐྱོད་ཅིང་དངས་སྙིགས་འབྱེད་པར་གྲོལ",
+    "new": "བསྐྱོད་ཅིང་དངས་སྙིགས་འབྱེད་པར་གྲོལ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Native image 459 line 1 directly supports the supplied string, including དངས་སྙིགས. Retain the printed wording without repair prompted by the converter warning.",
+    "evidence_ids": [
+      "CH04-IMG-459"
+    ],
+    "uncertainty": [],
+    "source_locus": "S552 main line 1, left-center: bskyod cing dangs snyigs byed par grol.",
+    "native_inspector": "/root/golden_base_review",
+    "review_fragment": {
+      "path": "diplomatic/chapters/04/REVIEW-014.json",
+      "sha256": "d1bfce5ba08d341e3ecb2b1f750b5b13ee947eb6a89725a06aad4e62733ba88c"
+    }
+  },
+  {
+    "id": "CH04-D000618",
+    "anchor_id": "MTP-S000618",
+    "old": "བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ",
+    "new": "བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Native image 463 lines 2–3 supports the adjacent numerical words བདུན་ཚན་བདུན. Preserve the exact supplied string; do not harmonize its count with the following statement.",
+    "evidence_ids": [
+      "CH04-IMG-463"
+    ],
+    "uncertainty": [
+      "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+    ],
+    "source_locus": "S618 begins main line 2 right with bdun tshan bdun gyi rtogs tshad; final do follows smaller running wording on line 3 left-center. S619 follows on main line 3 with zla bcu sa rnams bgrod pa nyid; smaller source wording intervenes.",
+    "native_inspector": "/root/golden_base_review",
+    "review_fragment": {
+      "path": "diplomatic/chapters/04/REVIEW-014.json",
+      "sha256": "d1bfce5ba08d341e3ecb2b1f750b5b13ee947eb6a89725a06aad4e62733ba88c"
+    }
+  },
+  {
+    "id": "CH04-D000619",
+    "anchor_id": "MTP-S000619",
+    "old": "ཟླ་བཅུ་ས་རྣམས་བགྲོད་པ་ཉིད",
+    "new": "ཟླ་བཅུ་ས་རྣམས་བགྲོད་པ་ཉིད",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Native image 463 line 3 directly supports opening ཟླ་བཅུ and the main sequence ས་རྣམས་བགྲོད་པ་ཉིད. Preserve the exact supplied numerical statement without arithmetic or biological harmonization.",
+    "evidence_ids": [
+      "CH04-IMG-463"
+    ],
+    "uncertainty": [
+      "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+    ],
+    "source_locus": "S618 begins main line 2 right with bdun tshan bdun gyi rtogs tshad; final do follows smaller running wording on line 3 left-center. S619 follows on main line 3 with zla bcu sa rnams bgrod pa nyid; smaller source wording intervenes.",
+    "native_inspector": "/root/golden_base_review",
+    "review_fragment": {
+      "path": "diplomatic/chapters/04/REVIEW-014.json",
+      "sha256": "d1bfce5ba08d341e3ecb2b1f750b5b13ee947eb6a89725a06aad4e62733ba88c"
+    }
+  },
+  {
+    "id": "CH04-D000634",
+    "anchor_id": "MTP-S000634",
+    "old": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས",
+    "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "The closing work-title formula appears at native image464 line2right. Preserve exact supplied wording under chapter-colophon role.",
+    "evidence_ids": [
+      "CH04-IMG-464"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "CH04-D000635",
+    "anchor_id": "MTP-S000635",
+    "old": "འབད་མེད་རང་གྲོལ་གྱི་ལེའུ་སྟེ་བཞི་པའོ",
+    "new": "འབད་མེད་རང་གྲོལ་གྱི་ལེའུ་སྟེ་བཞི་པའོ",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "Native image464 line3left explicitly closes chapter four; the following de nas is outside this bounded release.",
+    "evidence_ids": [
+      "CH04-IMG-464"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  }
+]

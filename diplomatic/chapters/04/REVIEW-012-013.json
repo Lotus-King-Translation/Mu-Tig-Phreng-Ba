@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "chapter": 4,
+  "reviewer": "golden_pipeline agent",
+  "review_type": "Native source examination of frozen loci; no independent human certification",
+  "frozen_checks": [
+    "MTP-C04-CHECK-005",
+    "MTP-TRIAGE-012",
+    "MTP-TRIAGE-013"
+  ],
+  "completed_source_checks": 3,
+  "remaining_source_checks": 0,
+  "reviewed_anchors": 4,
+  "changed_anchors": 2,
+  "restorations": 0,
+  "evidence": [
+    {
+      "id": "MTP-C04-PIPE-E452",
+      "path": "evidence/golden/04/00452.png",
+      "sha256": "414b31ad175a383840fd4d8f79e2a2f8d6c43478c57248b2924d5f41c27481ee",
+      "anchor_ids": [
+        "MTP-S000446",
+        "MTP-S000456"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed page442. S446 is in the first physical main-text row: the incipit འབྱུང་བ་ལྔ་ཉིད and closing ཡེ་དངས་པས identify the verse despite interleaved smaller annotation. S456 is in the fifth physical row: large-type ཡིད་བཞིན precedes a smaller annotation and the large-type continuation དགོངས་པར་ཡེ་ནས་པས.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 452,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image inspection of allocated anchors; no OCR and no full-page proofreading."
+    },
+    {
+      "id": "MTP-C04-PIPE-E453",
+      "path": "evidence/golden/04/00453.png",
+      "sha256": "1a1a4763402d45052614a3cfe5817b08020a1354c63309860f17d103f4514160",
+      "anchor_ids": [
+        "MTP-S000469",
+        "MTP-S000470"
+      ],
+      "status": "accepted",
+      "allocation_reason": "Printed page443, fifth physical main-text row. S469 begins with the large stacked syllable དྲི followed by smaller annotation before མ་རྣམས་ནི་རང་དག་པས. S470 appears later in the same row, with large-type དྲི་མེད and continuation ཟང་ཐལ་ཆེན་པོར་གནས. The repeated stacked dr glyphs, not lexical expectation, support the corrections.",
+      "inspection": "native_image_direct",
+      "source_id": "adzom-1973",
+      "image_index": 453,
+      "inspector": "golden_pipeline agent",
+      "inspection_limits": "Targeted native-image inspection of allocated anchors; no OCR and no full-page proofreading."
+    }
+  ],
+  "decisions": [
+    {
+      "id": "MTP-C04-PIPE-D000446",
+      "anchor_id": "MTP-S000446",
+      "old": "འབྱུང་བ་ལྔ་ཉིད་ཡེ་དངས་པས",
+      "new": "འབྱུང་བ་ལྔ་ཉིད་ཡེ་དངས་པས",
+      "role": "main_text",
+      "treatment": "retain_base",
+      "reason": "The governing print visibly supports ཡེ་དངས་པས. Retain དངས exactly: the EWTS warning proposing dngas is a converter spelling heuristic, not source evidence for emendation.",
+      "evidence_ids": [
+        "MTP-C04-PIPE-E452"
+      ],
+      "uncertainty": [],
+      "source_notes": [
+        {
+          "role": "annotation",
+          "status": "untranscribed",
+          "note": "Smaller explanatory material is interleaved in this printed verse; this check concerns the large main-text reading."
+        }
+      ]
+    },
+    {
+      "id": "MTP-C04-PIPE-D000456",
+      "anchor_id": "MTP-S000456",
+      "old": "ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས",
+      "new": "ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Native image452 supports the supplied large-type wording ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས. Its syntactic unusualness does not authorize a grammar-driven repair. The smaller insertion after ཡིད་བཞིན remains separate from the main verse.",
+      "evidence_ids": [
+        "MTP-C04-PIPE-E452"
+      ],
+      "uncertainty": [
+        "The smaller source annotation after ཡིད་བཞིན remains untranscribed in this bounded check; no uncertain annotation is incorporated into the main reading."
+      ],
+      "source_notes": []
+    },
+    {
+      "id": "MTP-C04-PIPE-D000469",
+      "anchor_id": "MTP-S000469",
+      "old": "དིར་མ་རྣམས་ནི་རང་དག་པས",
+      "new": "དྲི་མ་རྣམས་ནི་རང་དག་པས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The governing print has the subjoined-ra stack དྲི, followed by མ, whereas the electronic base has separate suffix-ra spelling དིར. Correct this visible transcription discrepancy only.",
+      "evidence_ids": [
+        "MTP-C04-PIPE-E453"
+      ],
+      "uncertainty": [
+        "A smaller annotation intervenes between the printed དྲི and its large-type continuation མ་རྣམས་ནི་རང་དག་པས; its full wording is not transcribed here."
+      ],
+      "source_notes": []
+    },
+    {
+      "id": "MTP-C04-PIPE-D000470",
+      "anchor_id": "MTP-S000470",
+      "old": "དིར་མེད་ཟང་ཐལ་ཆེན་པོར་གནས",
+      "new": "དྲི་མེད་ཟང་ཐལ་ཆེན་པོར་གནས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The governing print repeats the visibly stacked དྲི in དྲི་མེད. Correct the electronic base དིར་མེད to the scan-supported spelling; retain the rest of the supplied verse.",
+      "evidence_ids": [
+        "MTP-C04-PIPE-E453"
+      ],
+      "uncertainty": [],
+      "source_notes": []
+    }
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C04-CHECK-005",
+      "status": "closed",
+      "finding": "S446 retains དངས: governing image452 supports that spelling. Converter advice is not adopted.",
+      "evidence_ids": [
+        "MTP-C04-PIPE-E452"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-TRIAGE-012",
+      "status": "closed",
+      "finding": "S456 large-type wording is scan-supported and retained; a smaller annotation is kept outside the selected main text.",
+      "evidence_ids": [
+        "MTP-C04-PIPE-E452"
+      ],
+      "uncertainty": [
+        "The smaller source annotation after ཡིད་བཞིན remains untranscribed in this bounded check; no uncertain annotation is incorporated into the main reading."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-013",
+      "status": "closed",
+      "finding": "Both repeated transcript དིར syllables correspond to printed དྲི stacks. Correct S469/S470 to dri from direct source evidence.",
+      "evidence_ids": [
+        "MTP-C04-PIPE-E453"
+      ],
+      "uncertainty": [
+        "A smaller annotation intervenes between the printed དྲི and its large-type continuation མ་རྣམས་ནི་རང་དག་པས; its full wording is not transcribed here."
+      ]
+    }
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_human_certification": false
+  },
+  "allocation_note": "S421 was briefly viewed following an overlapping assignment but is excluded from this fragment after the coordinator reassigned it to the base reviewer; its full-image copy450 is available to that owner. No conclusion for S421 is incorporated here."
+}

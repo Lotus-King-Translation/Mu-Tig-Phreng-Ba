@@ -1,9 +1,98 @@
 {
-  "phase": "golden",
-  "completed_chapters": 3,
-  "active_chapter": 4,
-  "required_decisions": 14,
-  "source_checks": 11,
-  "contract": "diplomatic/chapters/04/contract.json",
-  "next_chapter_started": false
+  "schema_version": 1,
+  "scope": "eight sequential golden chapters",
+  "state": {
+    "chapter": 4,
+    "completed_chapters": 3,
+    "target_chapters": 8,
+    "phase": "golden Tibetan edition",
+    "governing_scan": "adzom-1973 / W1KG892 / I1KG895",
+    "current_coverage": {
+      "schema_version": 1,
+      "chapter": 4,
+      "anchor_count": 294,
+      "accounted_original_anchors": 294,
+      "restoration_count": 0,
+      "changed_text_anchors": 2,
+      "layer_or_text_changed_anchors": 3,
+      "editorial_decisions_completed": 14,
+      "required_decisions_completed": 14,
+      "required_decisions_remaining": 0,
+      "source_checks_completed": 11,
+      "source_checks_remaining": 0,
+      "electronic_loci_compared": 294,
+      "electronic_difference_count": 0,
+      "retained_unreviewed_transcript_anchors": 280,
+      "accepted_evidence_records": 11,
+      "excluded_evidence_records": 0,
+      "unresolved": [
+        {
+          "id": "MTP-S000343",
+          "uncertainty": [
+            "Smaller source wording around the opening remains untranscribed; no punctuation or expansion is silently supplied."
+          ]
+        },
+        {
+          "id": "MTP-S000355",
+          "uncertainty": [
+            "Smaller adjacent source text is not incorporated; the electronic boundary after དུར is preserved rather than presented as source physical lineation."
+          ]
+        },
+        {
+          "id": "MTP-S000356",
+          "uncertainty": [
+            "Smaller intervening source notes remain untranscribed; no conjectural alteration or anchor merge is made."
+          ]
+        },
+        {
+          "id": "MTP-S000446",
+          "uncertainty": [
+            "Smaller explanatory source material is interleaved in this printed verse and remains untranscribed; the checked large main-text reading is retained."
+          ]
+        },
+        {
+          "id": "MTP-S000456",
+          "uncertainty": [
+            "The smaller source annotation after ཡིད་བཞིན remains untranscribed in this bounded check; no uncertain annotation is incorporated into the main reading."
+          ]
+        },
+        {
+          "id": "MTP-S000469",
+          "uncertainty": [
+            "A smaller annotation intervenes between the printed དྲི and its large-type continuation མ་རྣམས་ནི་རང་དག་པས; its full wording is not transcribed here."
+          ]
+        },
+        {
+          "id": "MTP-S000618",
+          "uncertainty": [
+            "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+          ]
+        },
+        {
+          "id": "MTP-S000619",
+          "uncertainty": [
+            "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+          ]
+        }
+      ],
+      "claims": {
+        "full_scan_proofreading": false,
+        "exhaustive_witness_collation": false,
+        "independent_witness_electronic_collation": false,
+        "independent_human_certification": false
+      },
+      "comparison_scope": "Two electronic renditions of the same Valby/Adzom transcription family; not independent witnesses."
+    },
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "translation_started": false,
+    "next_task": "Freeze chapter5 contract"
+  },
+  "tasks": [
+    {
+      "chapter": 5,
+      "status": "not_started",
+      "task": "freeze contract; inspect finite loci; publish release"
+    }
+  ]
 }

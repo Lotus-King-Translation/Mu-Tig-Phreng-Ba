@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "chapter": 4,
+  "changes": [
+    {
+      "id": "MTP-C04-PIPE-D000469",
+      "anchor_id": "MTP-S000469",
+      "old": "དིར་མ་རྣམས་ནི་རང་དག་པས",
+      "new": "དྲི་མ་རྣམས་ནི་རང་དག་པས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The governing print has the subjoined-ra stack དྲི, followed by མ, whereas the electronic base has separate suffix-ra spelling དིར. Correct this visible transcription discrepancy only.",
+      "evidence_ids": [
+        "MTP-C04-PIPE-E453"
+      ],
+      "uncertainty": [
+        "A smaller annotation intervenes between the printed དྲི and its large-type continuation མ་རྣམས་ནི་རང་དག་པས; its full wording is not transcribed here."
+      ],
+      "source_notes": [],
+      "native_inspector": "/root/golden_pipeline",
+      "review_fragment": {
+        "path": "diplomatic/chapters/04/REVIEW-012-013.json",
+        "sha256": "5ae627389cffec174d7bb641a886090f00f736210a213495cf98983806ee69e7"
+      }
+    },
+    {
+      "id": "MTP-C04-PIPE-D000470",
+      "anchor_id": "MTP-S000470",
+      "old": "དིར་མེད་ཟང་ཐལ་ཆེན་པོར་གནས",
+      "new": "དྲི་མེད་ཟང་ཐལ་ཆེན་པོར་གནས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The governing print repeats the visibly stacked དྲི in དྲི་མེད. Correct the electronic base དིར་མེད to the scan-supported spelling; retain the rest of the supplied verse.",
+      "evidence_ids": [
+        "MTP-C04-PIPE-E453"
+      ],
+      "uncertainty": [],
+      "source_notes": [],
+      "native_inspector": "/root/golden_pipeline",
+      "review_fragment": {
+        "path": "diplomatic/chapters/04/REVIEW-012-013.json",
+        "sha256": "5ae627389cffec174d7bb641a886090f00f736210a213495cf98983806ee69e7"
+      }
+    },
+    {
+      "id": "CH04-D000634",
+      "anchor_id": "MTP-S000634",
+      "old": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས",
+      "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས",
+      "role": "chapter_colophon",
+      "treatment": "classify_layer",
+      "reason": "The closing work-title formula appears at native image464 line2right. Preserve exact supplied wording under chapter-colophon role.",
+      "evidence_ids": [
+        "CH04-IMG-464"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    }
+  ],
+  "restorations": []
+}

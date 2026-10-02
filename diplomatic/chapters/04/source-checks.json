@@ -1,1 +1,125 @@
-[]
+[
+  {
+    "id": "MTP-C04-CHECK-001",
+    "status": "closed",
+    "finding": "The chapter-four opening follows the chapter-three closure across image446 lines2–3. Preserve the supplied main string.",
+    "evidence_ids": [
+      "CH04-IMG-446"
+    ],
+    "uncertainty": [
+      "Smaller source wording around the opening remains untranscribed; no punctuation or expansion is silently supplied."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C04-CHECK-002",
+    "status": "closed",
+    "finding": "Native image464 line3left explicitly closes chapter four; the following de nas is outside this bounded release.",
+    "evidence_ids": [
+      "CH04-IMG-464"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C04-CHECK-003",
+    "status": "closed",
+    "finding": "Keep the @4-derived electronic token as control metadata, without claiming it transcribes a printed chapter ornament.",
+    "evidence_ids": [
+      "CH04-IMG-446"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C04-CHECK-004",
+    "status": "closed",
+    "finding": "Native image 450 line 3 directly supports the supplied string, including final དངས. The EWTS warning is not evidence of a printed error; retain the exact reading.",
+    "evidence_ids": [
+      "CH04-IMG-450"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-C04-CHECK-005",
+    "status": "closed",
+    "finding": "S446 retains དངས: governing image452 supports that spelling. Converter advice is not adopted.",
+    "evidence_ids": [
+      "MTP-C04-PIPE-E452"
+    ],
+    "uncertainty": [
+      "Smaller explanatory source material is interleaved in this printed verse and remains untranscribed; the checked large main-text reading is retained."
+    ],
+    "native_inspector": "/root/golden_pipeline"
+  },
+  {
+    "id": "MTP-C04-CHECK-006",
+    "status": "closed",
+    "finding": "Native image 459 line 1 directly supports the supplied string, including དངས་སྙིགས. Retain the printed wording without repair prompted by the converter warning.",
+    "evidence_ids": [
+      "CH04-IMG-459"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-TRIAGE-011",
+    "status": "closed",
+    "finding": "The unusual final དུར is visibly in the native main sequence before ཐེམ་ཞིང. Retain the supplied wording without semantic emendation. Native image446 line6 supports the following ཐེམ་ཞིང sequence. Retain this separate stable electronic anchor; do not join or renumber it to repair unexpected wording.",
+    "evidence_ids": [
+      "CH04-IMG-446"
+    ],
+    "uncertainty": [
+      "Smaller adjacent source text is not incorporated; the electronic boundary after དུར is preserved rather than presented as source physical lineation.",
+      "Smaller intervening source notes remain untranscribed; no conjectural alteration or anchor merge is made."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-TRIAGE-012",
+    "status": "closed",
+    "finding": "S456 large-type wording is scan-supported and retained; a smaller annotation is kept outside the selected main text.",
+    "evidence_ids": [
+      "MTP-C04-PIPE-E452"
+    ],
+    "uncertainty": [
+      "The smaller source annotation after ཡིད་བཞིན remains untranscribed in this bounded check; no uncertain annotation is incorporated into the main reading."
+    ],
+    "native_inspector": "/root/golden_pipeline"
+  },
+  {
+    "id": "MTP-TRIAGE-013",
+    "status": "closed",
+    "finding": "Both repeated transcript དིར syllables correspond to printed དྲི stacks. Correct S469/S470 to dri from direct source evidence.",
+    "evidence_ids": [
+      "MTP-C04-PIPE-E453"
+    ],
+    "uncertainty": [
+      "A smaller annotation intervenes between the printed དྲི and its large-type continuation མ་རྣམས་ནི་རང་དག་པས; its full wording is not transcribed here."
+    ],
+    "native_inspector": "/root/golden_pipeline"
+  },
+  {
+    "id": "MTP-TRIAGE-014",
+    "status": "closed",
+    "finding": "Native image 463 lines 2–3 supports the adjacent numerical words བདུན་ཚན་བདུན. Preserve the exact supplied string; do not harmonize its count with the following statement. Native image 463 line 3 directly supports opening ཟླ་བཅུ and the main sequence ས་རྣམས་བགྲོད་པ་ཉིད. Preserve the exact supplied numerical statement without arithmetic or biological harmonization.",
+    "evidence_ids": [
+      "CH04-IMG-463"
+    ],
+    "uncertainty": [
+      "Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled."
+    ],
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-TRIAGE-015",
+    "status": "closed",
+    "finding": "The closing work-title formula appears at native image464 line2right. Preserve exact supplied wording under chapter-colophon role. Native image464 line3left explicitly closes chapter four; the following de nas is outside this bounded release.",
+    "evidence_ids": [
+      "CH04-IMG-464"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  }
+]

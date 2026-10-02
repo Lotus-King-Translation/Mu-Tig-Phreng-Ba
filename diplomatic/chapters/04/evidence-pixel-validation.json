@@ -1,0 +1,93 @@
+{
+  "chapter": 4,
+  "passed": true,
+  "method": "Accepted full images match archived ZIP bytes; crops independently recropped at recorded coordinates and compared as exact RGBA pixel bytes. Pixel identity does not establish textual allocation.",
+  "records": [
+    {
+      "evidence_id": "CH04-IMG-446",
+      "original_image": 446,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH04-IMG-464",
+      "original_image": 464,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH04-TRIAGE-CROP-01",
+      "original_image": 446,
+      "crop": [
+        1550,
+        190,
+        3530,
+        400
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH04-TRIAGE-CROP-02",
+      "original_image": 446,
+      "crop": [
+        630,
+        470,
+        3090,
+        675
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH04-TRIAGE-CROP-03",
+      "original_image": 464,
+      "crop": [
+        2660,
+        155,
+        3580,
+        332
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH04-TRIAGE-CROP-04",
+      "original_image": 464,
+      "crop": [
+        425,
+        268,
+        1380,
+        410
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C04-PIPE-E452",
+      "original_image": 452,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C04-PIPE-E453",
+      "original_image": 453,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH04-IMG-450",
+      "original_image": 450,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH04-IMG-459",
+      "original_image": 459,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH04-IMG-463",
+      "original_image": 463,
+      "crop": null,
+      "pixel_identity_verified": true
+    }
+  ]
+}
