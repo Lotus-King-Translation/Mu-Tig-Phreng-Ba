@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "chapter": 4,
+  "first_index": 342,
+  "last_index": 635,
+  "first_anchor": "MTP-S000342",
+  "last_anchor": "MTP-S000635",
+  "closing_anchor": "MTP-S000635",
+  "anchor_count": 294,
+  "raw_start": 8495,
+  "raw_end": 16014,
+  "page_hints": [
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454
+  ],
+  "boundary_status": "Mechanical colophon locator; requires authored scan review.",
+  "includes_post_chapter_colophon": false,
+  "source_files": {
+    "diplomatic/source-anchors.json": "83875fc89625068a7ccc2e7ed823695abf77d9dd7aee7abc8db290d53eb447a9",
+    "diplomatic/electronic-collation.json": "963157f0ed195706a0750e5bd48d3402e11d82b2cb4972e1b02babccaa353ed4",
+    "diplomatic/chapter-map.json": "7dc731991db28074fd108012597f6dc16f8d269e39f4b1422a9499bfb32b838a",
+    "diplomatic/anomalies.json": "67c593d039dc683cfdda8b3541978f8f40f6e9bff776722e1c3990eb69079b85"
+  },
+  "difference_ids": [],
+  "anomaly_ids": [
+    "MTP-A000342-GRAPHIC",
+    "MTP-A000421-EWTS",
+    "MTP-A000446-EWTS",
+    "MTP-A000552-EWTS"
+  ],
+  "required_decision_anchors": [
+    "MTP-S000342",
+    "MTP-S000343",
+    "MTP-S000355",
+    "MTP-S000356",
+    "MTP-S000421",
+    "MTP-S000446",
+    "MTP-S000456",
+    "MTP-S000469",
+    "MTP-S000470",
+    "MTP-S000552",
+    "MTP-S000618",
+    "MTP-S000619",
+    "MTP-S000634",
+    "MTP-S000635"
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C04-CHECK-001",
+      "anchor_ids": [
+        "MTP-S000343"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C04-CHECK-002",
+      "anchor_ids": [
+        "MTP-S000635"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C04-CHECK-003",
+      "anchor_ids": [
+        "MTP-S000342"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C04-CHECK-004",
+      "anchor_ids": [
+        "MTP-S000421"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C04-CHECK-005",
+      "anchor_ids": [
+        "MTP-S000446"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C04-CHECK-006",
+      "anchor_ids": [
+        "MTP-S000552"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-TRIAGE-011",
+      "anchor_ids": [
+        "MTP-S000355",
+        "MTP-S000356"
+      ],
+      "question": "dur followed by them across transcript lines: verify printed line allocation and word division; unusual wording is not proof of corruption."
+    },
+    {
+      "id": "MTP-TRIAGE-012",
+      "anchor_ids": [
+        "MTP-S000456"
+      ],
+      "question": "yid bzhin dgongs par ye nas pas is syntactically unusual. No replacement is proposed."
+    },
+    {
+      "id": "MTP-TRIAGE-013",
+      "anchor_ids": [
+        "MTP-S000469",
+        "MTP-S000470"
+      ],
+      "question": "Repeated dir in dir ma and dir med may be transcript transposition or printed spelling; verify scan."
+    },
+    {
+      "id": "MTP-TRIAGE-014",
+      "anchor_ids": [
+        "MTP-S000618",
+        "MTP-S000619"
+      ],
+      "question": "bdun tshan bdun and zla bcu form adjacent numerical statements. Check exact numbers without arithmetic correction or biological harmonization."
+    },
+    {
+      "id": "MTP-TRIAGE-015",
+      "anchor_ids": [
+        "MTP-S000634",
+        "MTP-S000635"
+      ],
+      "question": "Classify chapter-four closing formula."
+    }
+  ],
+  "scope": "Bounded governing-Adzom reading; same-family electronic comparison and targeted scan checks.",
+  "required_outputs": [
+    "reading.md",
+    "reading.json",
+    "apparatus.json",
+    "changes.json",
+    "coverage.json",
+    "build-manifest.json"
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "outside_scope": [
+    "Full scan proofreading",
+    "Exhaustive witness collation",
+    "Unattested repair",
+    "Translation"
+  ],
+  "freeze_note": "No timestamp in deterministic contract. Exact bytes fixed by contract.sha256; changes require a new edition contract."
+}

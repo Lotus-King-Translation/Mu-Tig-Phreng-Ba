@@ -1,80 +1,9 @@
 {
-  "schema_version": 1,
-  "scope": "eight sequential golden chapters",
-  "state": {
-    "chapter": 3,
-    "completed_chapters": 3,
-    "target_chapters": 8,
-    "phase": "golden Tibetan edition",
-    "governing_scan": "adzom-1973 / W1KG892 / I1KG895",
-    "current_coverage": {
-      "schema_version": 1,
-      "chapter": 3,
-      "anchor_count": 120,
-      "accounted_original_anchors": 120,
-      "restoration_count": 0,
-      "changed_text_anchors": 1,
-      "layer_or_text_changed_anchors": 2,
-      "editorial_decisions_completed": 10,
-      "required_decisions_completed": 10,
-      "required_decisions_remaining": 0,
-      "source_checks_completed": 6,
-      "source_checks_remaining": 0,
-      "electronic_loci_compared": 120,
-      "electronic_difference_count": 0,
-      "retained_unreviewed_transcript_anchors": 110,
-      "accepted_evidence_records": 10,
-      "excluded_evidence_records": 0,
-      "unresolved": [
-        {
-          "id": "MTP-S000223",
-          "uncertainty": [
-            "Smaller running annotations alongside the chapter opening remain untranscribed; source punctuation is not silently supplied."
-          ]
-        },
-        {
-          "id": "MTP-S000228",
-          "uncertainty": [
-            "Smaller intervening source wording is not expanded or merged into the main reading."
-          ]
-        },
-        {
-          "id": "MTP-S000229",
-          "uncertainty": [
-            "The compact glyph/stack details of the formula are not securely resolved. Supplied སར་བ་འདུས་ཧ is retained; it is not certified as an exact diplomatic encoding of every printed stack."
-          ]
-        },
-        {
-          "id": "MTP-S000315",
-          "uncertainty": [
-            "Smaller source wording intervening within the printed line remains untranscribed; only the supported first-syllable correction is made."
-          ]
-        },
-        {
-          "id": "MTP-S000316",
-          "uncertainty": [
-            "Final consonant/type details around གསུམ and adjacent smaller source wording remain imperfectly clear. No alternate reading or note expansion is accepted."
-          ]
-        }
-      ],
-      "claims": {
-        "full_scan_proofreading": false,
-        "exhaustive_witness_collation": false,
-        "independent_witness_electronic_collation": false,
-        "independent_human_certification": false
-      },
-      "comparison_scope": "Two electronic renditions of the same Valby/Adzom transcription family; not independent witnesses."
-    },
-    "full_scan_proofreading": false,
-    "exhaustive_witness_collation": false,
-    "translation_started": false,
-    "next_task": "Freeze chapter4 contract"
-  },
-  "tasks": [
-    {
-      "chapter": 4,
-      "status": "not_started",
-      "task": "freeze contract; inspect finite loci; publish release"
-    }
-  ]
+  "phase": "golden",
+  "completed_chapters": 3,
+  "active_chapter": 4,
+  "required_decisions": 14,
+  "source_checks": 11,
+  "contract": "diplomatic/chapters/04/contract.json",
+  "next_chapter_started": false
 }

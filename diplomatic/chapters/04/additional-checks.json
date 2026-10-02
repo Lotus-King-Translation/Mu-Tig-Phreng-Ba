@@ -1,0 +1,41 @@
+[
+  {
+    "id": "MTP-TRIAGE-011",
+    "anchor_ids": [
+      "MTP-S000355",
+      "MTP-S000356"
+    ],
+    "question": "dur followed by them across transcript lines: verify printed line allocation and word division; unusual wording is not proof of corruption."
+  },
+  {
+    "id": "MTP-TRIAGE-012",
+    "anchor_ids": [
+      "MTP-S000456"
+    ],
+    "question": "yid bzhin dgongs par ye nas pas is syntactically unusual. No replacement is proposed."
+  },
+  {
+    "id": "MTP-TRIAGE-013",
+    "anchor_ids": [
+      "MTP-S000469",
+      "MTP-S000470"
+    ],
+    "question": "Repeated dir in dir ma and dir med may be transcript transposition or printed spelling; verify scan."
+  },
+  {
+    "id": "MTP-TRIAGE-014",
+    "anchor_ids": [
+      "MTP-S000618",
+      "MTP-S000619"
+    ],
+    "question": "bdun tshan bdun and zla bcu form adjacent numerical statements. Check exact numbers without arithmetic correction or biological harmonization."
+  },
+  {
+    "id": "MTP-TRIAGE-015",
+    "anchor_ids": [
+      "MTP-S000634",
+      "MTP-S000635"
+    ],
+    "question": "Classify chapter-four closing formula."
+  }
+]
