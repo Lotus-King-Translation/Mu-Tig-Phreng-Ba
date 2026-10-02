@@ -1,6 +1,6 @@
 ---
 schema: paired-text/2
-text-id: unset
+text-id: MTP
 source-edition: unset
 translation-edition: unset
 language: en

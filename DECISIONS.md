@@ -1,18 +1,7 @@
 # Project-owner decisions
 
-Record explicit project-level decisions that change scope, source authority, terminology, release contracts, or workflow.
+## 2026-10-02 — Create project and find editions
 
-Do not use this file for every locus-level editorial decision; those belong in the diplomatic decision ledgers.
+The user selected String of Pearls and instructed: “start by creating the new repository, and then finding every possible edition for string of pearls.” This authorizes repository creation from the Tibetan text template and broad source discovery/acquisition. It does not select a governing witness or start golden-edition or translation work.
 
-## Active decisions
-
-None yet.
-
-## Decision record template
-
-- Date:
-- Decision:
-- Scope:
-- Supersedes:
-- Evidence/context:
-- Affected files/sections:
+Repository slug `Mu-Tig-Phreng-Ba` and work code `MTP` are implementation choices, not claims of separately approved terminology.
