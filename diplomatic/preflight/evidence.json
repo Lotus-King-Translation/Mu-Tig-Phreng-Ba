@@ -1,0 +1,417 @@
+{
+  "schema_version": 1,
+  "scope": "Finite base preflight only; not a golden-reading release or substantive editorial acceptance",
+  "counts": {
+    "native_images_required": 6,
+    "native_images_inspected": 6,
+    "native_images_remaining": 0,
+    "deliverables_required": 2,
+    "deliverables_completed": 2,
+    "accepted_corrections": 0,
+    "accepted_restorations": 0
+  },
+  "governing_selection": "Coordinator explicitly selected adzom-1973 W1KG892/I1KG895; selection is an implementation decision under user golden-edition request, not a separate user-selected witness",
+  "sources": [
+    {
+      "source_id": "valby-tibetan",
+      "path": "editions/research/etexts-translations/wikisource/tibetan-raw.wiki",
+      "sha256": "3d888d525c101b879a5d866b63090b6e5aac91ba5a613d58328ccdb86d66f00b"
+    },
+    {
+      "source_id": "valby-wylie",
+      "path": "editions/research/etexts-translations/wikisource/wylie-raw.wiki",
+      "sha256": "d26075bd2a164238d3c68a47a68e821a58d10092f9943350b4fefa8b6c5e3cdb"
+    }
+  ],
+  "images": [
+    {
+      "evidence_id": "BASE-adzom-1973-427",
+      "role": "governing-scan",
+      "image_index": 427,
+      "path": "evidence/base-preflight/adzom-1973/00427.png",
+      "sha256": "9f8b9df2801dc370550a4e9c956cb4e95095ee91b2ed6762dd3953997cfd0ae7",
+      "source_manifest": "editions/scans/adzom-1973/image-manifest.json",
+      "source_archive": "editions/scans/adzom-1973/iiif-response-images.zip",
+      "archive_member": "00427.png",
+      "url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950427.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1KG895/canvas/I1KG8950427.TIF",
+      "width": 4004,
+      "height": 844,
+      "extraction": "Exact archived response bytes; no image transform or crop",
+      "inspection": "native image viewed directly",
+      "allocation_status": "accepted for title/opening correspondence and identified page-level loci; no reading accepted by preflight"
+    },
+    {
+      "evidence_id": "BASE-adzom-1973-428",
+      "role": "governing-scan",
+      "image_index": 428,
+      "path": "evidence/base-preflight/adzom-1973/00428.png",
+      "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+      "source_manifest": "editions/scans/adzom-1973/image-manifest.json",
+      "source_archive": "editions/scans/adzom-1973/iiif-response-images.zip",
+      "archive_member": "00428.png",
+      "url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950428.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1KG895/canvas/I1KG8950428.TIF",
+      "width": 4004,
+      "height": 844,
+      "extraction": "Exact archived response bytes; no image transform or crop",
+      "inspection": "native image viewed directly",
+      "allocation_status": "accepted for title/opening correspondence and identified page-level loci; no reading accepted by preflight"
+    },
+    {
+      "evidence_id": "BASE-adzom-1973-429",
+      "role": "governing-scan",
+      "image_index": 429,
+      "path": "evidence/base-preflight/adzom-1973/00429.png",
+      "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+      "source_manifest": "editions/scans/adzom-1973/image-manifest.json",
+      "source_archive": "editions/scans/adzom-1973/iiif-response-images.zip",
+      "archive_member": "00429.png",
+      "url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950429.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1KG895/canvas/I1KG8950429.TIF",
+      "width": 4004,
+      "height": 750,
+      "extraction": "Exact archived response bytes; no image transform or crop",
+      "inspection": "native image viewed directly",
+      "allocation_status": "accepted for title/opening correspondence and identified page-level loci; no reading accepted by preflight"
+    },
+    {
+      "evidence_id": "BASE-adzom-2000-309",
+      "role": "same-printing-base-comparator",
+      "image_index": 309,
+      "path": "evidence/base-preflight/adzom-2000/00309.png",
+      "sha256": "c6fddd69d7707286569f4f6ca9d515641392c11483d8a19b95caa46bde7c070e",
+      "source_manifest": "editions/scans/adzom-2000/image-manifest.json",
+      "source_archive": "editions/scans/adzom-2000/iiif-response-images.zip",
+      "archive_member": "00309.png",
+      "url": "https://iiif.bdrc.io/bdr:I1KG11712::I1KG117120309.tif/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1KG11712/canvas/I1KG117120309.tif",
+      "width": 5696,
+      "height": 1344,
+      "extraction": "Exact archived response bytes; no image transform or crop",
+      "inspection": "native image viewed directly",
+      "allocation_status": "accepted for title/opening correspondence and identified page-level loci; no reading accepted by preflight"
+    },
+    {
+      "evidence_id": "BASE-adzom-2000-310",
+      "role": "same-printing-base-comparator",
+      "image_index": 310,
+      "path": "evidence/base-preflight/adzom-2000/00310.png",
+      "sha256": "1a7de4a9987b6ce18dae389413148dd34df9e9d7e73d18bcc199920771a5b917",
+      "source_manifest": "editions/scans/adzom-2000/image-manifest.json",
+      "source_archive": "editions/scans/adzom-2000/iiif-response-images.zip",
+      "archive_member": "00310.png",
+      "url": "https://iiif.bdrc.io/bdr:I1KG11712::I1KG117120310.tif/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1KG11712/canvas/I1KG117120310.tif",
+      "width": 5696,
+      "height": 1344,
+      "extraction": "Exact archived response bytes; no image transform or crop",
+      "inspection": "native image viewed directly",
+      "allocation_status": "accepted for title/opening correspondence and identified page-level loci; no reading accepted by preflight"
+    },
+    {
+      "evidence_id": "BASE-adzom-2000-311",
+      "role": "same-printing-base-comparator",
+      "image_index": 311,
+      "path": "evidence/base-preflight/adzom-2000/00311.png",
+      "sha256": "b9b847e9db2ad6d180ea992cfec25d7064d039ee625b50006abb5bb05bc882a4",
+      "source_manifest": "editions/scans/adzom-2000/image-manifest.json",
+      "source_archive": "editions/scans/adzom-2000/iiif-response-images.zip",
+      "archive_member": "00311.png",
+      "url": "https://iiif.bdrc.io/bdr:I1KG11712::I1KG117120311.tif/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1KG11712/canvas/I1KG117120311.tif",
+      "width": 5696,
+      "height": 1344,
+      "extraction": "Exact archived response bytes; no image transform or crop",
+      "inspection": "native image viewed directly",
+      "allocation_status": "accepted for title/opening correspondence and identified page-level loci; no reading accepted by preflight"
+    }
+  ],
+  "supplied_electronic_locators": [
+    {
+      "poem_line": 1,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 13,
+      "end": 15,
+      "exact_text": "༄༡"
+    },
+    {
+      "poem_line": 2,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 16,
+      "end": 19,
+      "exact_text": "༤༡༧"
+    },
+    {
+      "poem_line": 3,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 20,
+      "end": 66,
+      "exact_text": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས"
+    },
+    {
+      "poem_line": 4,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 67,
+      "end": 70,
+      "exact_text": "༤༡༨"
+    },
+    {
+      "poem_line": 5,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 71,
+      "end": 84,
+      "exact_text": "རྒྱ་གར་སྐད་དུ"
+    },
+    {
+      "poem_line": 6,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 85,
+      "end": 95,
+      "exact_text": "བོད་སྐད་དུ"
+    },
+    {
+      "poem_line": 7,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 96,
+      "end": 136,
+      "exact_text": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ"
+    },
+    {
+      "poem_line": 8,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 137,
+      "end": 199,
+      "exact_text": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ"
+    },
+    {
+      "poem_line": 9,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 200,
+      "end": 235,
+      "exact_text": "འདི་སྐད་བདག་གིས་བསྟན་པའི་དུས་གཅིག་ན"
+    },
+    {
+      "poem_line": 10,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 236,
+      "end": 279,
+      "exact_text": "ཀྱེ་མ་འཁྲུལ་པའི་བདག་ཉིད་ཆེན་པོ་རྣམས་ཉོན་ཅིག"
+    },
+    {
+      "poem_line": 11,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 280,
+      "end": 300,
+      "exact_text": "ང་མེད་པའི་སྔོན་རོལ་ན"
+    },
+    {
+      "poem_line": 12,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 301,
+      "end": 322,
+      "exact_text": "འཁྲུལ་པ་མེད་པའི་རིག་པ"
+    },
+    {
+      "poem_line": 13,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 323,
+      "end": 359,
+      "exact_text": "འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ"
+    },
+    {
+      "poem_line": 14,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 360,
+      "end": 363,
+      "exact_text": "༤༡༩"
+    },
+    {
+      "poem_line": 15,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 364,
+      "end": 427,
+      "exact_text": "དེ་ལས་དེ་མ་དག་པ་ལས་འདི་ལྟར་སྣང་བའི་ཆོ་འཕྲུལ་ཆེན་པོ་ཆེར་བྱུང་སྟེ"
+    },
+    {
+      "poem_line": 16,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 428,
+      "end": 464,
+      "exact_text": "འཁྲུལ་པས་མ་བགོས་པའི་ཡུལ་སོ་སོར་ཤར་རོ"
+    },
+    {
+      "poem_line": 17,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 465,
+      "end": 499,
+      "exact_text": "དེའི་ཚེ་སྣང་བ་འདུ་བྱེད་ཀྱི་རྒྱལ་པོ"
+    },
+    {
+      "poem_line": 18,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 500,
+      "end": 561,
+      "exact_text": "སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ"
+    },
+    {
+      "poem_line": 19,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 562,
+      "end": 635,
+      "exact_text": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས"
+    },
+    {
+      "poem_line": 20,
+      "offset_unit": "Unicode codepoints in complete raw UTF-8-decoded file, zero-based half-open",
+      "start": 636,
+      "end": 666,
+      "exact_text": "ལེགས་པའི་ཚུལ་གསུམ་གྱིས་ཉོན་ཅིག"
+    }
+  ],
+  "correspondences": [
+    {
+      "governing_image": 427,
+      "same_printing_image": 309,
+      "printed_pages": [
+        417,
+        307
+      ],
+      "locus": "title leaf",
+      "poem_lines": [
+        3
+      ],
+      "finding": "Same central root title and corresponding border arrangement; no independence inferred."
+    },
+    {
+      "governing_image": 428,
+      "same_printing_image": 310,
+      "printed_pages": [
+        418,
+        308
+      ],
+      "locus": "first body page, four printed main lines",
+      "poem_lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "finding": "Corresponding main lineation, smaller-text clusters, Sanskrit-title position, and right-end yod."
+    },
+    {
+      "governing_image": 429,
+      "same_printing_image": 311,
+      "printed_pages": [
+        419,
+        309
+      ],
+      "locus": "continuation, four printed main lines",
+      "poem_lines": [
+        13,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "finding": "Corresponding opening de, source-note positions, and partial final electronic unit; poem lines13 and20 cross physical page boundaries."
+    }
+  ],
+  "loci": [
+    {
+      "id": "PREFLIGHT-SANSKRIT-TITLE",
+      "governing_image": 428,
+      "same_printing_image": 310,
+      "physical_locus": "main line1, between rgya gar skad du and bod skad du",
+      "governing_locator_rectangle_xyxy": [
+        1360,
+        265,
+        1795,
+        365
+      ],
+      "electronic_after_poem_line": 5,
+      "electronic_before_poem_line": 6,
+      "base_string": null,
+      "wylie_string": null,
+      "state": "supplied-transcript omission; scan-attested text; exact transcription uncertain",
+      "scan_transcription": null,
+      "suggested_treatment": "Separate scan-only Sanskrit-title object with explicit unresolved transcription; do not reconstruct a Sanskrit title from expectation."
+    },
+    {
+      "id": "PREFLIGHT-OPENING-NOTES-418",
+      "governing_image": 428,
+      "same_printing_image": 310,
+      "physical_locus": "smaller type within main lines3 and4, including around kye ma / khrul pa and after sngon rol na",
+      "related_poem_lines": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "state": "visible smaller source-text layer omitted by electronic base; exact strings and attachment scopes unestablished",
+      "scan_transcription": null,
+      "suggested_treatment": "Preserve page-level unresolved source-annotation record. Do not flatten smaller text into main reading."
+    },
+    {
+      "id": "PREFLIGHT-OPENING-NOTES-419",
+      "governing_image": 429,
+      "same_printing_image": 311,
+      "physical_locus": "smaller-type clusters and dotted connectors across lines1–4",
+      "related_poem_lines": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "state": "visible smaller source-text layer omitted by electronic base; exact strings and attachment scopes unestablished",
+      "scan_transcription": null,
+      "suggested_treatment": "Preserve page-level unresolved source-annotation record. No conjectural lexical correction."
+    },
+    {
+      "id": "PREFLIGHT-CROSS-PAGE-13",
+      "governing_images": [
+        428,
+        429
+      ],
+      "related_poem_lines": [
+        13
+      ],
+      "exact_base_string": "འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ",
+      "physical_allocation": "428 line4 ends yod;429 line1 begins de before de las",
+      "state": "confirmed electronic unit crosses physical page boundary",
+      "suggested_treatment": "One immutable electronic anchor, evidence on both pages."
+    },
+    {
+      "id": "PREFLIGHT-CROSS-PAGE-20",
+      "governing_image": 429,
+      "related_poem_lines": [
+        20
+      ],
+      "exact_base_string": "ལེགས་པའི་ཚུལ་གསུམ་གྱིས་ཉོན་ཅིག",
+      "physical_allocation": "429 line4 ends with beginning of legs pai tshul gsum; terminal electronic wording lies outside inspected image",
+      "state": "continuation beyond finite preflight not inspected",
+      "suggested_treatment": "Do not claim complete scan verification of this anchor or assign whole anchor to419."
+    }
+  ],
+  "limits": {
+    "OCR_used": false,
+    "image_transforms_used": false,
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_human_palaeographic_certification": false,
+    "main_reading_lexical_corrections_supported": 0,
+    "punctuation_collation_performed": false,
+    "later_chapters_reviewed": false
+  },
+  "review_agent": "golden_base_review",
+  "date": "2026-10-02"
+}

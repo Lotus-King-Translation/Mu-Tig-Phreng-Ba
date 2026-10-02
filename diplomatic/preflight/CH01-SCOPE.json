@@ -1,0 +1,58 @@
+{
+  "chapter": 1,
+  "anchor_range": [
+    "MTP-S000001",
+    "MTP-S000097"
+  ],
+  "anchor_count": 97,
+  "electronic_difference_count": 0,
+  "electronic_relationship": "Tibetan is exact pyewts conversion of samefamily Wylie; no independent witness agreement.",
+  "targeted_source_checks": [
+    {
+      "id": "CH01-SCAN-417",
+      "printed_page": 417,
+      "image_index": 427,
+      "purpose": "Confirm title/opening, main-text allocation and annotation separation"
+    },
+    {
+      "id": "CH01-SCAN-418",
+      "printed_page": 418,
+      "image_index": 428,
+      "purpose": "Confirm title/opening, main-text allocation and annotation separation"
+    },
+    {
+      "id": "CH01-SCAN-419",
+      "printed_page": 419,
+      "image_index": 429,
+      "purpose": "Confirm title/opening, main-text allocation and annotation separation"
+    },
+    {
+      "id": "CH01-SCAN-420",
+      "printed_page": 420,
+      "image_index": 430,
+      "purpose": "Check governing print against chapter1 source strings, suspicious spellings, enumerations and closing boundary"
+    },
+    {
+      "id": "CH01-SCAN-421",
+      "printed_page": 421,
+      "image_index": 431,
+      "purpose": "Check governing print against chapter1 source strings, suspicious spellings, enumerations and closing boundary"
+    },
+    {
+      "id": "CH01-SCAN-422",
+      "printed_page": 422,
+      "image_index": 432,
+      "purpose": "Check governing print against chapter1 source strings, suspicious spellings, enumerations and closing boundary"
+    },
+    {
+      "id": "CH01-SCAN-423",
+      "printed_page": 423,
+      "image_index": 433,
+      "purpose": "Check governing print against chapter1 source strings, suspicious spellings, enumerations and closing boundary"
+    }
+  ],
+  "scan_checks_total": 7,
+  "state": "Frozen source-review scope before accepted chapter1 corrections; machine contract will bind extracted anchors and exact anomaly queue.",
+  "full_scan_proofreading": false,
+  "exhaustive_witness_collation": false
+}
