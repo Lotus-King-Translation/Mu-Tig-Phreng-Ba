@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="icon" type="image/x-icon" href="sub/logo.ico">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="sub/style.css"> 
+<style>
+.accordion {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 15px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
+}
+.accordion2 {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc; 
+}
+.active2,  {
+  background-color: #ddd; 
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: left;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+ .topcorner{
+   position:absolute;
+   top:10px;
+   right:10px;
+  }
+
+</style>
+<body>
+
+<div class="toppage"><table><tr><td><a href="index.php" style="text-decoration:none;"><img src="sub/logo.png" width=100></a><td width=50><td>Results for <span style="color:red;"><span style="font-size:40px;">མུ་ཏིག་</span> / mu tig </span></table></div>
+<div class="bodypage2" style="font-size:18px;">
+<div class="w3-bar w3-white">
+  <button class="w3-bar-item w3-button" onclick="openCity('Kanjur')" style="background-color:white; color:#08088a;border-style: solid; border-color: #08088a;width: 20%;border-radius: 12px;float: left;">Kanjur / <span style="font-size:30px;">བཀའ་འགྱུར</span></button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Tanjur')" style="background-color:white; color:#08088a;border-style: solid; border-color: #08088a;width: 20%;border-radius: 12px;float: left;">Tanjur / <span style="font-size:30px;">བསྟན་འགྱུར</span></button>
+  <button class="w3-bar-item w3-button" onclick="openCity('OldTantra')" style="background-color:white; color:#08088a;border-style: solid; border-color: #08088a;width: 20%;border-radius: 12px;float: left;">Old Tantra / <span style="font-size:30px;">རྙིང་རྒྱུད</span></button>
+  <button class="w3-bar-item w3-button" onclick="openCity('bon')" style="background-color:white; color:#08088a;border-style: solid; border-color: #08088a;width: 20%;border-radius: 12px;float: left;">Bon Canon / <span style="font-size:30px;">བོན་གྱི་བཀའ་འགྱུར ། བཀའ་བརྟེན</span></button>
+</div>
+
+<div id="Kanjur" class="w3-container city">
+  <h2 style="border: 2px solid #08088a; border-radius: 5px; padding:5px;">Kanjur (exact match)</h2><table>
+
+  </table><h2 style="border: 2px solid #08088a; border-radius: 5px; padding:5px;">Kanjur (approximated match)</h2><table>
+
+
+</table></div>
+
+<div id="Tanjur" class="w3-container city" style="display:none">
+  <h2 style="border: 2px solid #08088a; border-radius: 5px; padding:5px;">Tanjur (exact match)</h2><table>
+
+<tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=319&typ=2" style="text-decoration:none;">T319<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=319&typ=2" style="text-decoration:none;"><span style="font-size:30px;">དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>dpal dgyes pa'i rdo rje'i dka' 'grel <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=1027&typ=2" style="text-decoration:none;">T1027<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=1027&typ=2" style="text-decoration:none;"><span style="font-size:30px;">ལས་ཀྱི་རིམ་པ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>las kyi rim pa <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=1028&typ=2" style="text-decoration:none;">T1028<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=1028&typ=2" style="text-decoration:none;"><span style="font-size:30px;">ཕྱག་ན་རྡོ་རྗེ་ལྕེ་དབབ་ཀྱི་འགྲེལ་པ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>གི་ཕྲེང་བ</span><br>phyag na rdo rje lce dbab kyi 'grel pa <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>gi phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=2868&typ=2" style="text-decoration:none;">T2868<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=2868&typ=2" style="text-decoration:none;"><span style="font-size:30px;">འཕགས་མ་ལྷ་མོ་སྒྲོལ་མ་ལ་བསྟོད་པ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>'phags ma lha mo sgrol ma la bstod pa <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=3021&typ=2" style="text-decoration:none;">T3021<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=3021&typ=2" style="text-decoration:none;"><span style="font-size:30px;">མངོན་པར་རྟོགས་པ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>གི་ཕྲེང་བ</span><br>mngon par rtogs pa <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>gi phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=3781&typ=2" style="text-decoration:none;">T3781<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=3781&typ=2" style="text-decoration:none;"><span style="font-size:30px;">མངོན་བརྗོད་ཀྱི་བསྟན་བཅོས་སྣ་ཚོགས་གསལ་བ་ཞེས་པ་མིང་གཞན་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>mngon brjod kyi bstan bcos sna tshogs gsal ba zhes pa ming gzhan <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br>  </table><h2 style="border: 2px solid #08088a; border-radius: 5px; padding:5px;">Tanjur (approximated match)</h2><table>
+
+
+</table></div>
+
+<div id="OldTantra" class="w3-container city" style="display:none">
+  <h2 style="border: 2px solid #08088a; border-radius: 5px; padding:5px;">Old Tantra (exact match)</h2><table>
+
+<tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=60&typ=3" style="text-decoration:none;">G60<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=60&typ=3" style="text-decoration:none;"><span style="font-size:30px;"><span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད</span><br><span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>rin po che phreng ba'i rgyud</a><br>  </table><h2 style="border: 2px solid #08088a; border-radius: 5px; padding:5px;">Old Tantra (approximated match)</h2><table>
+
+
+</table></div>
+
+
+<div id="bon" class="w3-container city" style="display:none">
+  <h2 style="border: 2px solid #08088a; border-radius: 5px; padding:5px;">Bon Kanjur (exact match)</h2><table>
+
+<tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=87&typ=5" style="text-decoration:none;">B87<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=87&typ=5" style="text-decoration:none;"><span style="font-size:30px;">གཏད་སྤྲུག་གིས་མན་ངག་ཁ་བསྐངས་གསེར་གྱི་དུམ་བུ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>མ</span><br>gtad sprug gis man ngag kha bskangs gser gyi dum bu <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>ma</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=88&typ=5" style="text-decoration:none;">B88<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=88&typ=5" style="text-decoration:none;"><span style="font-size:30px;"><span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>མའི་ཁྲམ་གཏད</span><br><span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>ma'i khram gtad</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=89&typ=5" style="text-decoration:none;">B89<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=89&typ=5" style="text-decoration:none;"><span style="font-size:30px;"><span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>མ་ལས་གཤེགས་བསྐྱོད</span><br><span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>ma las gshegs bskyod</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=90&typ=5" style="text-decoration:none;">B90<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=90&typ=5" style="text-decoration:none;"><span style="font-size:30px;">གཏད་སྤྲུག་རྒྱ་མཚོའི་གཏིང་བསྐྲུགས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>མ</span><br>gtad sprug rgya mtsho'i gting bskrugs <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>ma</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=92&typ=5" style="text-decoration:none;">B92<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=92&typ=5" style="text-decoration:none;"><span style="font-size:30px;"><span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>མ་ལས་སྒོ་དབྱེ</span><br><span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>ma las sgo dbye</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=732&typ=5" style="text-decoration:none;">B732<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=732&typ=5" style="text-decoration:none;"><span style="font-size:30px;">ཞང་ཞུང་སྙན་བརྒྱུད་ཀྱི་བོན་སྐོར་བཀའ་བརྒྱུད་སྐོར་བཞིའི་དཔེ་རྩིས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲིང་བ</span><br>zhang zhung snyan brgyud kyi bon skor bka' brgyud skor bzhi'i dpe rtsis <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phring ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=1282&typ=5" style="text-decoration:none;">B1282<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=1282&typ=5" style="text-decoration:none;"><span style="font-size:30px;">དབལ་གསས་ལས་རིམ་གྱི་མངོན་རྟོགས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>dbal gsas las rim gyi mngon rtogs <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=1990&typ=5" style="text-decoration:none;">B1990<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=1990&typ=5" style="text-decoration:none;"><span style="font-size:30px;">ཀུན་བཟང་འོད་དཔག་མེད་པའི་སྒྲུབ་པ་རིན་པོ་ཆེ་རྨད་དུ་བྱུང་བ་ཡི་གེའི་སྙིང་པོའི་རྒྱུད་བཀའ་སྐྱོང་དབང་གི་མ་བདུན་སྒྲུབ་ཐབས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>རྩ་ཕྲེང</span><br>kun bzang 'od dpag med pa'i sgrub pa rin po che rmad du byung ba yi ge'i snying po'i rgyud bka' skyong dbang gi ma bdun sgrub thabs <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>rtsa phreng</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=2176&typ=5" style="text-decoration:none;">B2176<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=2176&typ=5" style="text-decoration:none;"><span style="font-size:30px;">དམ་ཅན་གནད་བསྐུལ་ལྷ་སྲུང་བསྐུལ་བ་སྲོག་གི་སྤུ་གྲི</span><br>dam can gnad bskul lha srung bskul ba srog gi spu gri</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=2203&typ=5" style="text-decoration:none;">B2203<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=2203&typ=5" style="text-decoration:none;"><span style="font-size:30px;">ཡང་གསང་བརྣག་པའི་དྲཝ་བ་འཆི་བདག་གཤིན་རྗེ་ཁྲོས་པའི་རྒྱུད་ལས་གསོལ་འདེབས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>yang gsang brnag pa'i drwa ba 'chi bdag gshin rje khros pa'i rgyud las gsol 'debs <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=2504&typ=5" style="text-decoration:none;">B2504<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=2504&typ=5" style="text-decoration:none;"><span style="font-size:30px;">དབལ་ཕུར་ཡང་སྙིང་གི་རྒྱུད་རིམ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ་ནོར་བུའི་དོ་ཤལ</span><br>dbal phur yang snying gi rgyud rim <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba nor bu'i do shal</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=3642&typ=5" style="text-decoration:none;">B3642<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=3642&typ=5" style="text-decoration:none;"><span style="font-size:30px;">བླ་མ་རིག་འཛིན་དགོངས་པ་འདུས་པ་ལས་རྒྱུད་སྐོང་པདྨ་དཀར་པོ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>bla ma rig 'dzin dgongs pa 'dus pa las rgyud skong pad+ma dkar po <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5169&typ=5" style="text-decoration:none;">B5169<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5169&typ=5" style="text-decoration:none;"><span style="font-size:30px;">རྒྱུད་དབང་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>rgyud dbang <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5488&typ=5" style="text-decoration:none;">B5488<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5488&typ=5" style="text-decoration:none;"><span style="font-size:30px;">འབྲས་རྩིས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ་ཅེས་བྱ་བ་བརྒྱ་དང་དྲུག་ཅུ་པ</span><br>'bras rtsis <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba ces bya ba brgya dang drug cu pa</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5639&typ=5" style="text-decoration:none;">B5639<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5639&typ=5" style="text-decoration:none;"><span style="font-size:30px;">སྔོན་འགྲོ་ཆ་བདུན་ཉུང་འཐུས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>sngon 'gro cha bdun nyung 'thus <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5832&typ=5" style="text-decoration:none;">B5832<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5832&typ=5" style="text-decoration:none;"><span style="font-size:30px;">རྒྱལ་ཡུམ་ཀུན་གསལ་བྱམས་མ་ཆེན་མོའི་རྩ་བ་སྔགས་བསྟོད་ཉི་ཤུ་རྩ་གཅིག་པའི་འགྲེལ་བ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>མཛེས་པའི་ཆུན་འཕྱང</span><br>rgyal yum kun gsal byams ma chen mo'i rtsa ba sngags bstod nyi shu rtsa gcig pa'i 'grel ba <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>mdzes pa'i chun 'phyang</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5864&typ=5" style="text-decoration:none;">B5864<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=5864&typ=5" style="text-decoration:none;"><span style="font-size:30px;">ཡབ་སྲས་རྒྱུད་སྐོང་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>yab sras rgyud skong <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=6212&typ=5" style="text-decoration:none;">B6212<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=6212&typ=5" style="text-decoration:none;"><span style="font-size:30px;">བླ་མ་རིག་འཛིན་དགོངས་པ་འདུས་པ་ལས་རྒྱུད་སྐོང་པདྨ་དཀར་པོ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ་མི་ཕམ་མགོན་པོ</span><br>bla ma rig 'dzin dgongs pa 'dus pa las rgyud skong pad+ma dkar po <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba mi pham mgon po</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=6388&typ=5" style="text-decoration:none;">B6388<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=6388&typ=5" style="text-decoration:none;"><span style="font-size:30px;">གསས་མཁར་རིན་པོ་ཆེ་སྤྱི་སྤུངས་སྐོར་ལས་གསང་ཆེན་རིག་འཛིན་རྒྱ་མཚོའི་ཕྱག་མཆོད་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ་ལྟ་ལྗོན་འོད་འཕྲོ</span><br>gsas mkhar rin po che spyi spungs skor las gsang chen rig 'dzin rgya mtsho'i phyag mchod <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba lta ljon 'od 'phro</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=6831&typ=5" style="text-decoration:none;">B6831<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=6831&typ=5" style="text-decoration:none;"><span style="font-size:30px;">ནང་བརྒྱུད་གསང་སྔགས་ཀྱི་རྒྱུད་རིམ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>nang brgyud gsang sngags kyi rgyud rim <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7090&typ=5" style="text-decoration:none;">B7090<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7090&typ=5" style="text-decoration:none;"><span style="font-size:30px;">སྐུ་གསུམ་དགོངས་པ་འདུས་པའི་རྒྱུད་ཕྱག་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>sku gsum dgongs pa 'dus pa'i rgyud phyag <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7169&typ=5" style="text-decoration:none;">B7169<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7169&typ=5" style="text-decoration:none;"><span style="font-size:30px;">རྟོགས་ལྡན་རི་པ་འབྲུག་གསས་ཀྱི་བསྟོད་པ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>rtogs ldan ri pa 'brug gsas kyi bstod pa <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7360&typ=5" style="text-decoration:none;">B7360<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7360&typ=5" style="text-decoration:none;"><span style="font-size:30px;">རྗེ་བཙུན་ཁྲོ་ཚང་འབྲུག་ལྷའི་རྣམ་ཐར་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>rje btsun khro tshang 'brug lha'i rnam thar <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7584&typ=5" style="text-decoration:none;">B7584<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7584&typ=5" style="text-decoration:none;"><span style="font-size:30px;">གསས་མཁར་གསང་བ་སྒོ་དགུའི་དཔེ་རྩིས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>མཛེས་པའི་ཕྲེང་བ</span><br>gsas mkhar gsang ba sgo dgu'i dpe rtsis <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>mdzes pa'i phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7951&typ=5" style="text-decoration:none;">B7951<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=7951&typ=5" style="text-decoration:none;"><span style="font-size:30px;">དབང་ཆེན་འབུམ་པའི་སྐུ་ལྔ་དྲིལ་སྒྲུབ་ཀྱི་ཏིང་འཛིན་རིམ་པ་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>dbang chen 'bum pa'i sku lnga dril sgrub kyi ting 'dzin rim pa <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8059&typ=5" style="text-decoration:none;">B8059<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8059&typ=5" style="text-decoration:none;"><span style="font-size:30px;">གསང་སྔགས་ལམ་གྱི་འཇུག་ཆོག་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>gsang sngags lam gyi 'jug chog <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8068&typ=5" style="text-decoration:none;">B8068<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8068&typ=5" style="text-decoration:none;"><span style="font-size:30px;">ཚེ་དབང་ཛྭ་ཐིས་རིགས་ལྔའི་བརྒྱུད་པའི་གསོལ་འདེབས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>tshe dbang dz+wa this rigs lnga'i brgyud pa'i gsol 'debs <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8134&typ=5" style="text-decoration:none;">B8134<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8134&typ=5" style="text-decoration:none;"><span style="font-size:30px;">དྲག་སྒྲུབ་གསོལ་འདེབས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>drag sgrub gsol 'debs <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8335&typ=5" style="text-decoration:none;">B8335<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8335&typ=5" style="text-decoration:none;"><span style="font-size:30px;">སྤྲུལ་སྐུ་རྣམ་ལྔའི་གསོལ་འདེབས་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>འཕྲེང་བ</span><br>sprul sku rnam lnga'i gsol 'debs <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>'phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8778&typ=5" style="text-decoration:none;">B8778<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=8778&typ=5" style="text-decoration:none;"><span style="font-size:30px;">རྒྱུད་ཕྱག་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བ</span><br>rgyud phyag <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba</a><br><tr><td width=150 valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=9232&typ=5" style="text-decoration:none;">B9232<td valign="top" style="border-bottom: 1px solid;"><a href="cat.php?id=9232&typ=5" style="text-decoration:none;"><span style="font-size:30px;">སྣ་ཚོགས་ཀུན་འབྱུང་<span style="color:red;border: 2px solid red; border-radius: 5px;">མུ་ཏིག་</span>ཕྲེང་བའི་རྒྱུད</span><br>sna tshogs kun 'byung <span style="color:red;border: 2px solid red; border-radius: 5px;">mu tig </span>phreng ba'i rgyud</a><br>  </table><h2 style="border: 2px solid #08088a; border-radius: 5px; padding:5px;">Bon Kanjur (approximated match)</h2><table>
+
+
+</table></div>
+
+
+
+
+<script>
+function openCity(cityName) {
+  var i;
+  var x = document.getElementsByClassName("city");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  document.getElementById(cityName).style.display = "block";  
+}
+</script>
+</div><div class="topcorner">
+<form action="results2.php">
+<input type="text" name="text" placeholder="Quick Search..." size="75">
+<input type="hidden" id="typ" name="typ" value="1"> 
+<input type="hidden" id="typ2" name="typ2" value="1" > 
+<input type="hidden" id="sorte" name="sorte" value="1" > 
+</form>
+</div>
+
+</body>
+</html>
