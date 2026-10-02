@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "anomalies": [
+    {
+      "id": "MTP-A000002-GRAPHIC",
+      "anchor_id": "MTP-S000002",
+      "kind": "electronic_chapter_marker",
+      "details": [
+        "@1 -> ༄༡; electronic control token, not presumed printed body text."
+      ]
+    },
+    {
+      "id": "MTP-A000026-EWTS",
+      "anchor_id": "MTP-S000026",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"tsit\": Invalid suffix consonant: \"t\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A000098-GRAPHIC",
+      "anchor_id": "MTP-S000098",
+      "kind": "electronic_chapter_marker",
+      "details": [
+        "@2 -> ༄༢; electronic control token, not presumed printed body text."
+      ]
+    },
+    {
+      "id": "MTP-A000222-GRAPHIC",
+      "anchor_id": "MTP-S000222",
+      "kind": "electronic_chapter_marker",
+      "details": [
+        "@3 -> ༄༣; electronic control token, not presumed printed body text."
+      ]
+    },
+    {
+      "id": "MTP-A000342-GRAPHIC",
+      "anchor_id": "MTP-S000342",
+      "kind": "electronic_chapter_marker",
+      "details": [
+        "@4 -> ༄༤; electronic control token, not presumed printed body text."
+      ]
+    },
+    {
+      "id": "MTP-A000421-EWTS",
+      "anchor_id": "MTP-S000421",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A000446-EWTS",
+      "anchor_id": "MTP-S000446",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A000552-EWTS",
+      "anchor_id": "MTP-S000552",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A000636-GRAPHIC",
+      "anchor_id": "MTP-S000636",
+      "kind": "electronic_chapter_marker",
+      "details": [
+        "@5 -> ༄༥; electronic control token, not presumed printed body text."
+      ]
+    },
+    {
+      "id": "MTP-A000803-EWTS",
+      "anchor_id": "MTP-S000803",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A000994-EWTS",
+      "anchor_id": "MTP-S000994",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dags\": Syllable should probably be \"dgas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001052-GRAPHIC",
+      "anchor_id": "MTP-S001052",
+      "kind": "electronic_chapter_marker",
+      "details": [
+        "@6 -> ༄༦; electronic control token, not presumed printed body text."
+      ]
+    },
+    {
+      "id": "MTP-A001167-EWTS",
+      "anchor_id": "MTP-S001167",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001200-EWTS",
+      "anchor_id": "MTP-S001200",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dags\": Syllable should probably be \"dgas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001369-EWTS",
+      "anchor_id": "MTP-S001369",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001371-EWTS",
+      "anchor_id": "MTP-S001371",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001428-GRAPHIC",
+      "anchor_id": "MTP-S001428",
+      "kind": "electronic_chapter_marker",
+      "details": [
+        "@7 -> ༄༧; electronic control token, not presumed printed body text."
+      ]
+    },
+    {
+      "id": "MTP-A001499-EWTS",
+      "anchor_id": "MTP-S001499",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001534-EWTS",
+      "anchor_id": "MTP-S001534",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001753-EWTS",
+      "anchor_id": "MTP-S001753",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001767-EWTS",
+      "anchor_id": "MTP-S001767",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001770-GRAPHIC",
+      "anchor_id": "MTP-S001770",
+      "kind": "electronic_chapter_marker",
+      "details": [
+        "@8 -> ༄༨; electronic control token, not presumed printed body text."
+      ]
+    },
+    {
+      "id": "MTP-A001811-EWTS",
+      "anchor_id": "MTP-S001811",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001877-EWTS",
+      "anchor_id": "MTP-S001877",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"cit\": Invalid suffix consonant: \"t\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001896-EWTS",
+      "anchor_id": "MTP-S001896",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A001957-EWTS",
+      "anchor_id": "MTP-S001957",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"dangs\": Syllable should probably be \"dngas\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A002026-EWTS",
+      "anchor_id": "MTP-S002026",
+      "kind": "conversion_warning",
+      "details": [
+        "line 1: \"cit\": Invalid suffix consonant: \"t\"."
+      ],
+      "meaning": "Derived conversion warning; not evidence of an error in the source."
+    },
+    {
+      "id": "MTP-A002039-PAGE",
+      "anchor_id": "MTP-S002039",
+      "kind": "page_marker_gap",
+      "details": [
+        535,
+        537
+      ],
+      "meaning": "E-text locator gap; does not by itself imply omitted text."
+    }
+  ]
+}
