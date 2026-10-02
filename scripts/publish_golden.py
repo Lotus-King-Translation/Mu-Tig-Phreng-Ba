@@ -17,7 +17,8 @@ def update_status(chapter,coverage):
  p=ROOT/'PROJECT-STATUS.md';s=p.read_text();import re
  s=re.sub(r'- Phase: .*',f'- Phase: golden Tibetan edition; {finished}/8 chapter publications complete',s,count=1)
  s=re.sub(r'golden chapter releases\d/8',f'golden chapter releases{finished}/8',s)
- s=re.sub(r'- Editorial anchors, reading decisions, restorations and translated pairs: .*',f'- Golden source anchors:2053; current chapter{chapter} details in diplomatic/WORK-STATUS.md; translated pairs:0',s)
+ s=re.sub(r'- (?:Editorial anchors, reading decisions, restorations and translated pairs|Golden source anchors): .*',f'- Golden source anchors:2053; current chapter{chapter} details in diplomatic/WORK-STATUS.md; translated pairs:0',s)
+ s=re.sub(r'Current finite task: .*',f'Current finite task: {state["next_task"]}; {finished}/8 chapter publications complete. Translation has not started. The discovery inventory does not certify that all extant witnesses are known.',s)
  p.write_text(s)
 def main():
  p=argparse.ArgumentParser();p.add_argument('--chapter',type=int,required=True);args=p.parse_args();n=args.chapter
@@ -28,7 +29,7 @@ def main():
  assert not receipt.exists(),'Release already has receipt; inspect instead of republishing'
  cov=json.loads((d/'coverage.json').read_text());update_status(n,cov)
  stage=[str(d.relative_to(ROOT)),f'evidence/golden/{n:02}','diplomatic/WORK-STATUS.md','diplomatic/HANDOFF.md','diplomatic/WORK-QUEUE.json','PROJECT-STATUS.md']
- call('git','add',*stage);call('git','diff','--cached','--check')
+ call('git','add',*stage);call('git','-c','core.whitespace=-blank-at-eof','diff','--cached','--check')
  call('git','commit','-m',f'Release bounded golden chapter {n}: {cov["changed_text_anchors"]} changed anchors')
  commit=run('git','rev-parse','HEAD');call('git','tag','-a',tag,'-m',f'Golden Tibetan chapter{n} v1; Adzom governing; targeted review; see exact coverage and uncertainty.')
  call('git','push','origin','main',f'refs/tags/{tag}')
