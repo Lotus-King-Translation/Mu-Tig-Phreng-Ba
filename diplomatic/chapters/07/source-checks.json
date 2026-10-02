@@ -1,1 +1,211 @@
-[]
+[
+  {
+    "id": "MTP-C07-CHECK-001",
+    "status": "closed",
+    "finding": "Image512 row3 center supports the exact chapter7 opening after the preceding numbered closure. Retain the supplied wording.",
+    "evidence_ids": [
+      "MTP-C07-TR-E512",
+      "MTP-C07-TR-C512-1429"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C07-CHECK-002",
+    "status": "closed",
+    "finding": "Image530 row4 supports the exact numbered colophon ending བདུན་པའོ before the next section. Classify as chapter7 colophon and preserve exact text.",
+    "evidence_ids": [
+      "MTP-C07-TR-E530",
+      "MTP-C07-TR-C530-1769"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C07-CHECK-003",
+    "status": "closed",
+    "finding": "Preserve the supplied ༄༧, the electronic @7 marker, as metadata at the native-supported chapter boundary. It is not a transcribed root-text phrase.",
+    "evidence_ids": [
+      "MTP-C07-TR-E512"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-C07-CHECK-004",
+    "status": "closed",
+    "finding": "The governing print visibly ends the verse with དངས. Retain that spelling; the EWTS dngas suggestion supplies no basis for emendation.",
+    "evidence_ids": [
+      "MTP-C07-PIPE-E515"
+    ],
+    "uncertainty": [
+      "The anchor crosses physical rows5–6 on image515. Smaller explanation after འཕན་ནི remains untranscribed in this bounded check."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/07/REVIEW-036-038.json",
+      "sha256": "a091fd94c0e9a0e901b9238f365d1cd0ae948c8edbf5cb2108ea2232d26e7769"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C07-CHECK-005",
+    "status": "closed",
+    "finding": "The governing print supports ངང་དངས. Retain དངས; neither the converter warning nor parallel terminology overrides the native glyphs.",
+    "evidence_ids": [
+      "MTP-C07-PIPE-E518"
+    ],
+    "uncertainty": [
+      "The final ཆེ continues at the beginning of physical row2 on image518. Smaller explanation after རང་བཞིན remains untranscribed."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/07/REVIEW-036-038.json",
+      "sha256": "a091fd94c0e9a0e901b9238f365d1cd0ae948c8edbf5cb2108ea2232d26e7769"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-C07-CHECK-006",
+    "status": "closed",
+    "finding": "Retain the supplied main sequence, including source-supported དངས, on native image529 lines4–5. The EWTS warning does not justify changing the print spelling.",
+    "evidence_ids": [
+      "CH07-BASE-E529"
+    ],
+    "uncertainty": [
+      "Smaller source explanation within the printed light-list sentence remains untranscribed; its exact attachment and every interleaved glyph are not certified. The supplied main sequence is retained across lines4–5."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/07/REVIEW-039-041.json",
+      "sha256": "e5c29029e5965cb7ee65319ae7e3e27577d716478ddb9641e9f6b747e57d8a71"
+    },
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-C07-CHECK-007",
+    "status": "closed",
+    "finding": "Image530 row3 supports the supplied main sequence, including དངས་སྙིགས. Retain the exact spelling; the EWTS heuristic does not govern source correction.",
+    "evidence_ids": [
+      "MTP-C07-TR-E530",
+      "MTP-C07-TR-C530-1767"
+    ],
+    "uncertainty": [
+      "Smaller source explanation interleaved after དེ་ཕྱིར, འབྱུང་བ and དངས་སྙིགས remains untranscribed and is not merged into the main reading."
+    ],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-TRIAGE-035",
+    "status": "closed",
+    "finding": "Image513 row2 right continues at row3 left as རོ་དང, with no final ལ in the first syllable. Correct supplied རོལ to printed རོ; the visible glyph sequence, not the expected sensory list, governs.",
+    "evidence_ids": [
+      "MTP-C07-TR-E513",
+      "MTP-C07-TR-C513-1451-start-complete",
+      "MTP-C07-TR-C513-1451-end",
+      "MTP-C07-TR-C513-1451-end-complete"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  },
+  {
+    "id": "MTP-TRIAGE-036",
+    "status": "closed",
+    "finding": "Retain the source-supported དངོས་བོ. The large-type བོ follows an interleaved smaller explanation; it is not silently normalized to པོ. The native main-text sequence supports བརྒགས. Retain the unusual printed cluster rather than choosing an expected spelling from context.",
+    "evidence_ids": [
+      "MTP-C07-PIPE-E516"
+    ],
+    "uncertainty": [
+      "The anchor crosses physical rows1–2 on image516; smaller annotations around དངོས and བོ་ཡི remain untranscribed and outside the selected main text."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/07/REVIEW-036-038.json",
+      "sha256": "a091fd94c0e9a0e901b9238f365d1cd0ae948c8edbf5cb2108ea2232d26e7769"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-TRIAGE-037",
+    "status": "closed",
+    "finding": "The governing scan visibly has the o vowel in སྨོན་ལམ, whereas the supplied transcript reads སྨིན་ལམ. Correct the transcription to སྨོན་ལམ based on the printed vowel, not the expected perfections list.",
+    "evidence_ids": [
+      "MTP-C07-PIPE-E517"
+    ],
+    "uncertainty": [
+      "Smaller source explanations after སྟོབས and སྨོན་ལམ remain untranscribed; they are not silently incorporated into this main verse."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/07/REVIEW-036-038.json",
+      "sha256": "a091fd94c0e9a0e901b9238f365d1cd0ae948c8edbf5cb2108ea2232d26e7769"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-TRIAGE-038",
+    "status": "closed",
+    "finding": "The governing print begins this main-text phrase ཟག་པ་བཅས. Correct transcript བྲག to printed ཟག. The later printed ཟག་མེད is also visible, but the correction rests on the first glyph itself.",
+    "evidence_ids": [
+      "MTP-C07-PIPE-E518"
+    ],
+    "uncertainty": [],
+    "review_fragment": {
+      "path": "diplomatic/chapters/07/REVIEW-036-038.json",
+      "sha256": "a091fd94c0e9a0e901b9238f365d1cd0ae948c8edbf5cb2108ea2232d26e7769"
+    },
+    "native_inspector": "golden_pipeline agent"
+  },
+  {
+    "id": "MTP-TRIAGE-039",
+    "status": "closed",
+    "finding": "Native image524 line4 has visible ག in རྟོགས. Correct supplied རྟོས to the printed spelling; no contraction is expanded from expectation.",
+    "evidence_ids": [
+      "CH07-BASE-E524"
+    ],
+    "uncertainty": [],
+    "review_fragment": {
+      "path": "diplomatic/chapters/07/REVIEW-039-041.json",
+      "sha256": "e5c29029e5965cb7ee65319ae7e3e27577d716478ddb9641e9f6b747e57d8a71"
+    },
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-TRIAGE-040",
+    "status": "closed",
+    "finding": "Native image526 line4 visibly prints sequential ལགས rather than the supplied stack ལྒས. Correct only that cluster from the source glyphs.",
+    "evidence_ids": [
+      "CH07-BASE-E526"
+    ],
+    "uncertainty": [],
+    "review_fragment": {
+      "path": "diplomatic/chapters/07/REVIEW-039-041.json",
+      "sha256": "e5c29029e5965cb7ee65319ae7e3e27577d716478ddb9641e9f6b747e57d8a71"
+    },
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-TRIAGE-041",
+    "status": "closed",
+    "finding": "Native image529 line3right supports main དུམ, followed after a smaller note by གཟུགས; the continuation སྣང་ལུས་མེད་པའོ is at line4left. Preserve the exact unusual source form without doctrinal harmonization.",
+    "evidence_ids": [
+      "CH07-BASE-E529"
+    ],
+    "uncertainty": [
+      "Smaller source explanation after དུམ remains untranscribed; its exact attachment is not certified. The main anchor crosses physical lines3–4."
+    ],
+    "review_fragment": {
+      "path": "diplomatic/chapters/07/REVIEW-039-041.json",
+      "sha256": "e5c29029e5965cb7ee65319ae7e3e27577d716478ddb9641e9f6b747e57d8a71"
+    },
+    "native_inspector": "/root/golden_base_review"
+  },
+  {
+    "id": "MTP-TRIAGE-042",
+    "status": "closed",
+    "finding": "Image530 row3 right continues at row4 left with the supplied title formula. Classify as chapter7 colophon and preserve exact wording. Image530 row4 supports the exact numbered colophon ending བདུན་པའོ before the next section. Classify as chapter7 colophon and preserve exact text.",
+    "evidence_ids": [
+      "MTP-C07-TR-E530",
+      "MTP-C07-TR-C530-1768-start-complete",
+      "MTP-C07-TR-C530-1768-end",
+      "MTP-C07-TR-C530-1769"
+    ],
+    "uncertainty": [],
+    "native_inspector": "/root/golden_triage"
+  }
+]

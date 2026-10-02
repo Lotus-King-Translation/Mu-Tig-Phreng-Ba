@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "chapter": 7,
+  "anchor_count": 342,
+  "accounted_original_anchors": 342,
+  "restoration_count": 0,
+  "changed_text_anchors": 5,
+  "layer_or_text_changed_anchors": 6,
+  "editorial_decisions_completed": 16,
+  "required_decisions_completed": 16,
+  "required_decisions_remaining": 0,
+  "source_checks_completed": 15,
+  "source_checks_remaining": 0,
+  "electronic_loci_compared": 342,
+  "electronic_difference_count": 0,
+  "retained_unreviewed_transcript_anchors": 326,
+  "accepted_evidence_records": 23,
+  "excluded_evidence_records": 2,
+  "unresolved": [
+    {
+      "id": "MTP-S001499",
+      "uncertainty": [
+        "The anchor crosses physical rows5–6 on image515. Smaller explanation after འཕན་ནི remains untranscribed in this bounded check."
+      ]
+    },
+    {
+      "id": "MTP-S001506",
+      "uncertainty": [
+        "The anchor crosses physical rows1–2 on image516; smaller annotations around དངོས and བོ་ཡི remain untranscribed and outside the selected main text."
+      ]
+    },
+    {
+      "id": "MTP-S001522",
+      "uncertainty": [
+        "Smaller source explanations after སྟོབས and སྨོན་ལམ remain untranscribed; they are not silently incorporated into this main verse."
+      ]
+    },
+    {
+      "id": "MTP-S001534",
+      "uncertainty": [
+        "The final ཆེ continues at the beginning of physical row2 on image518. Smaller explanation after རང་བཞིན remains untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-S001751",
+      "uncertainty": [
+        "Smaller source explanation after དུམ remains untranscribed; its exact attachment is not certified. The main anchor crosses physical lines3–4."
+      ]
+    },
+    {
+      "id": "MTP-S001753",
+      "uncertainty": [
+        "Smaller source explanation within the printed light-list sentence remains untranscribed; its exact attachment and every interleaved glyph are not certified. The supplied main sequence is retained across lines4–5."
+      ]
+    },
+    {
+      "id": "MTP-S001767",
+      "uncertainty": [
+        "Smaller source explanation interleaved after དེ་ཕྱིར, འབྱུང་བ and དངས་སྙིགས remains untranscribed and is not merged into the main reading."
+      ]
+    }
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "comparison_scope": "Two electronic renditions of the same Valby/Adzom transcription family; not independent witnesses."
+}

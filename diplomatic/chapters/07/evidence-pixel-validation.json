@@ -1,0 +1,210 @@
+{
+  "chapter": 7,
+  "passed": true,
+  "method": "Accepted full images match archived ZIP bytes; crops independently recropped at recorded coordinates and compared as exact RGBA pixel bytes. Pixel identity does not establish textual allocation.",
+  "records": [
+    {
+      "evidence_id": "MTP-C07-TR-E512",
+      "original_image": 512,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-E513",
+      "original_image": 513,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-E530",
+      "original_image": 530,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-C512-1429",
+      "original_image": 512,
+      "crop": [
+        1310,
+        285,
+        1820,
+        390
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-C530-1767",
+      "original_image": 530,
+      "crop": [
+        1390,
+        282,
+        2940,
+        396
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-C530-1768-start",
+      "original_image": 530,
+      "crop": [
+        3010,
+        282,
+        3500,
+        395
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-C530-1768-end",
+      "original_image": 530,
+      "crop": [
+        480,
+        365,
+        800,
+        490
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-C530-1769",
+      "original_image": 530,
+      "crop": [
+        800,
+        355,
+        2290,
+        490
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-C513-1451-end",
+      "original_image": 513,
+      "crop": [
+        505,
+        320,
+        825,
+        430
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-C530-1768-start-complete",
+      "original_image": 530,
+      "crop": [
+        3010,
+        282,
+        3545,
+        395
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-C513-1451-start-complete",
+      "original_image": 513,
+      "crop": [
+        3290,
+        240,
+        3530,
+        345
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-TR-C513-1451-end-complete",
+      "original_image": 513,
+      "crop": [
+        470,
+        315,
+        850,
+        435
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-PIPE-E515",
+      "original_image": 515,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-PIPE-E516",
+      "original_image": 516,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-PIPE-E517",
+      "original_image": 517,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-PIPE-E518",
+      "original_image": 518,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-PIPE-CROP-pipeline-S1506-S1507-detail",
+      "original_image": 516,
+      "crop": [
+        495,
+        250,
+        2350,
+        360
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-PIPE-CROP-pipeline-S1522-detail",
+      "original_image": 517,
+      "crop": [
+        1990,
+        290,
+        2270,
+        395
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-PIPE-CROP-pipeline-S1534-detail",
+      "original_image": 518,
+      "crop": [
+        2420,
+        117,
+        3120,
+        220
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "MTP-C07-PIPE-CROP-pipeline-S1549-detail",
+      "original_image": 518,
+      "crop": [
+        2600,
+        555,
+        3260,
+        645
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH07-BASE-E524",
+      "original_image": 524,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH07-BASE-E526",
+      "original_image": 526,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH07-BASE-E529",
+      "original_image": 529,
+      "crop": null,
+      "pixel_identity_verified": true
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "chapter": 7,
+  "inspector": "/root/golden_base_review",
+  "scope": "Four frozen anchors and four frozen checks on three governing native images. No later-chapter work.",
+  "decisions": [
+    {
+      "id": "CH07-BASE-D001661",
+      "anchor_id": "MTP-S001661",
+      "old": "མདོ་སྡེ་ཆོས་ཉིད་ཟབ་མོ་རྟོས་ལ",
+      "new": "མདོ་སྡེ་ཆོས་ཉིད་ཟབ་མོ་རྟོགས་ལ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image524 line4 has visible ག in རྟོགས. Correct supplied རྟོས to the printed spelling; no contraction is expanded from expectation.",
+      "evidence_ids": [
+        "CH07-BASE-E524"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1661 occupies main line4 center: mdo sde chos nyid zab mo rtogs la, with visible ga in rtogs."
+    },
+    {
+      "id": "CH07-BASE-D001700",
+      "anchor_id": "MTP-S001700",
+      "old": "དེ་ཉིད་རིགས་པ་མ་ལྒས་ན",
+      "new": "དེ་ཉིད་རིགས་པ་མ་ལགས་ན",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image526 line4 visibly prints sequential ལགས rather than the supplied stack ལྒས. Correct only that cluster from the source glyphs.",
+      "evidence_ids": [
+        "CH07-BASE-E526"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1700 occupies main line4 center: de nyid rigs pa ma lags na."
+    },
+    {
+      "id": "CH07-BASE-D001751",
+      "anchor_id": "MTP-S001751",
+      "old": "དུམ་གཟུགས་སྣང་ལུས་མེད་པའོ",
+      "new": "དུམ་གཟུགས་སྣང་ལུས་མེད་པའོ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Native image529 line3right supports main དུམ, followed after a smaller note by གཟུགས; the continuation སྣང་ལུས་མེད་པའོ is at line4left. Preserve the exact unusual source form without doctrinal harmonization.",
+      "evidence_ids": [
+        "CH07-BASE-E529"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དུམ remains untranscribed; its exact attachment is not certified. The main anchor crosses physical lines3–4."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1751 starts with dum on main line3 right, interrupted by smaller annotation, followed by gzugs at the right edge; snang lus med pao continues on line4 left. S1753 begins dangs mai od lnga on line4, with smaller intervening notes; dri mas is at line4 right and bsgribs at line5 left."
+    },
+    {
+      "id": "CH07-BASE-D001753",
+      "anchor_id": "MTP-S001753",
+      "old": "དངས་མའི་འོད་ལྔ་དྲི་མས་བསྒྲིབས",
+      "new": "དངས་མའི་འོད་ལྔ་དྲི་མས་བསྒྲིབས",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Retain the supplied main sequence, including source-supported དངས, on native image529 lines4–5. The EWTS warning does not justify changing the print spelling.",
+      "evidence_ids": [
+        "CH07-BASE-E529"
+      ],
+      "uncertainty": [
+        "Smaller source explanation within the printed light-list sentence remains untranscribed; its exact attachment and every interleaved glyph are not certified. The supplied main sequence is retained across lines4–5."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1751 starts with dum on main line3 right, interrupted by smaller annotation, followed by gzugs at the right edge; snang lus med pao continues on line4 left. S1753 begins dangs mai od lnga on line4, with smaller intervening notes; dri mas is at line4 right and bsgribs at line5 left."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "CH07-BASE-E524",
+      "path": "evidence/golden/07/00524.png",
+      "sha256": "8bb02676ad1f3a1668f502e35d7c9c547dbb157584b5418229ad1f390b1be379",
+      "source_id": "adzom-1973",
+      "image_index": 524,
+      "printed_page": 514,
+      "anchor_ids": [
+        "MTP-S001661"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S1661 occupies main line4 center: mdo sde chos nyid zab mo rtogs la, with visible ga in rtogs. Targeted review only; not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950524.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH07-BASE-E526",
+      "path": "evidence/golden/07/00526.png",
+      "sha256": "c30354decf9bd415f044f8a1b31d53f4e0694c645fd20f64a99b58a122d7b726",
+      "source_id": "adzom-1973",
+      "image_index": 526,
+      "printed_page": 516,
+      "anchor_ids": [
+        "MTP-S001700"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S1700 occupies main line4 center: de nyid rigs pa ma lags na. Targeted review only; not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950526.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH07-BASE-E529",
+      "path": "evidence/golden/07/00529.png",
+      "sha256": "e202e3fa752abf957f251d82727cecaaecb28832c19e4576d692b565ca955fca",
+      "source_id": "adzom-1973",
+      "image_index": 529,
+      "printed_page": 519,
+      "anchor_ids": [
+        "MTP-S001751",
+        "MTP-S001753"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S1751 starts with dum on main line3 right, interrupted by smaller annotation, followed by gzugs at the right edge; snang lus med pao continues on line4 left. S1753 begins dangs mai od lnga on line4, with smaller intervening notes; dri mas is at line4 right and bsgribs at line5 left. Targeted review only; not full-page proofreading.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950529.TIF/full/max/0/default.png"
+    }
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C07-CHECK-006",
+      "status": "closed",
+      "finding": "Retain the supplied main sequence, including source-supported དངས, on native image529 lines4–5. The EWTS warning does not justify changing the print spelling.",
+      "evidence_ids": [
+        "CH07-BASE-E529"
+      ],
+      "uncertainty": [
+        "Smaller source explanation within the printed light-list sentence remains untranscribed; its exact attachment and every interleaved glyph are not certified. The supplied main sequence is retained across lines4–5."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-039",
+      "status": "closed",
+      "finding": "Native image524 line4 has visible ག in རྟོགས. Correct supplied རྟོས to the printed spelling; no contraction is expanded from expectation.",
+      "evidence_ids": [
+        "CH07-BASE-E524"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-TRIAGE-040",
+      "status": "closed",
+      "finding": "Native image526 line4 visibly prints sequential ལགས rather than the supplied stack ལྒས. Correct only that cluster from the source glyphs.",
+      "evidence_ids": [
+        "CH07-BASE-E526"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-TRIAGE-041",
+      "status": "closed",
+      "finding": "Native image529 line3right supports main དུམ, followed after a smaller note by གཟུགས; the continuation སྣང་ལུས་མེད་པའོ is at line4left. Preserve the exact unusual source form without doctrinal harmonization.",
+      "evidence_ids": [
+        "CH07-BASE-E529"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དུམ remains untranscribed; its exact attachment is not certified. The main anchor crosses physical lines3–4."
+      ]
+    }
+  ],
+  "temporary_locator_coordinates": {
+    "00524.png": [
+      [
+        1170,
+        420,
+        2010,
+        550
+      ]
+    ],
+    "00526.png": [
+      [
+        1800,
+        365,
+        2500,
+        480
+      ]
+    ],
+    "00529.png": [
+      [
+        450,
+        280,
+        1970,
+        500
+      ],
+      [
+        1950,
+        280,
+        3550,
+        500
+      ],
+      [
+        435,
+        465,
+        1130,
+        580
+      ]
+    ]
+  },
+  "locator_note": "Temporary exact-pixel locators only; original full images preserved. No OCR or enhancement.",
+  "review_limits": "Authoring source inspection. Independent coordinator confirmation of the two corrections is separately recorded; this fragment does not claim self-review is independent."
+}

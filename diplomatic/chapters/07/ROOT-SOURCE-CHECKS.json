@@ -1,0 +1,37 @@
+{
+  "chapter": 7,
+  "inspector": "/root coordinating agent",
+  "scope": "Native originals524 and526 inspected directly; two targeted spelling confirmations. Temporary crops were locators; original images retained. No whole-page proofreading.",
+  "checks": [
+    {
+      "anchor_id": "MTP-S001661",
+      "old": "མདོ་སྡེ་ཆོས་ཉིད་ཟབ་མོ་རྟོས་ལ",
+      "supported_reading": "མདོ་སྡེ་ཆོས་ཉིད་ཟབ་མོ་རྟོགས་ལ",
+      "image_index": 524,
+      "source_path": "evidence/golden/07/00524.png",
+      "source_sha256": "8bb02676ad1f3a1668f502e35d7c9c547dbb157584b5418229ad1f390b1be379",
+      "locator_crop_coordinates": [
+        1200,
+        420,
+        2010,
+        535
+      ],
+      "finding": "Printed line4 has the g consonant in rtogs; no expansion by inference."
+    },
+    {
+      "anchor_id": "MTP-S001700",
+      "old": "དེ་ཉིད་རིགས་པ་མ་ལྒས་ན",
+      "supported_reading": "དེ་ཉིད་རིགས་པ་མ་ལགས་ན",
+      "image_index": 526,
+      "source_path": "evidence/golden/07/00526.png",
+      "source_sha256": "c30354decf9bd415f044f8a1b31d53f4e0694c645fd20f64a99b58a122d7b726",
+      "locator_crop_coordinates": [
+        1800,
+        365,
+        2500,
+        480
+      ],
+      "finding": "Printed line4 has the ordinary sequence la-ga-sa, not subjoined ga beneath la."
+    }
+  ]
+}
