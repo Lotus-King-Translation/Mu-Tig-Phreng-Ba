@@ -153,5 +153,10 @@
   "sequence": "Freeze chapter source pairs; translate; full native main-text comparison and local omission notes; separate QC; validation; signed chapter publication; only then next chapter. Whole-book paired files grow as an explicitly scoped prefix.",
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
-  "independent_human_certification": false
+  "independent_human_certification": false,
+  "status": "stopped_at_user_request",
+  "source_objects_represented": 97,
+  "stop_reason": "User requested stopping and committing all work.",
+  "next_work_authorized": false,
+  "chapter_2_state": "Preparatory reading/task dispatch interrupted; no source-pair artifact or English created."
 }

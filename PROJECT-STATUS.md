@@ -1,7 +1,7 @@
 # Project status — 2026-10-02
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: English translation with Adzom endnotes; golden v1 fixed; translated chapters 1/8
+- Phase: stopped at user request; golden v1 fixed; English chapter releases 1/8
 - Repository: created from Lotus-King-Translation/tibetan-text-project-template
 - Discovery streams: 3/3 bounded surveys completed; BDRC, external catalogues, electronic texts/translations
 - Registered source/research records: 43; this includes unresolved leads and reference works
@@ -21,4 +21,4 @@ Resolve the eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtan
 
 Golden output: [complete reading](golden/reading.md), [machine reading](golden/reading.json), [coverage](golden/coverage.json). Fixed whole-book release: `golden-v1`; publication receipt: `diplomatic/publication/golden-v1.json` on main after the fixed tag.
 
-Golden editorial/source queues are closed. English working translation releases 1/8 complete; 97/2053 source objects represented. Next finite task: Freeze chapter 2 source pairs, translate, audit and release. See translations/HANDOFF.md. Unresolved witness-research leads remain outside this bounded edition.
+Golden editorial/source queues are closed. English working translation releases 1/8 complete; 97/2053 source objects represented. Work is stopped. Chapter2 preparatory reading/task dispatch was interrupted before any chapter2 artifact or English was created. Resume only on explicit user instruction. See translations/HANDOFF.md. Unresolved witness-research leads remain outside this bounded edition.
