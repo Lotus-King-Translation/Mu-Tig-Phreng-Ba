@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "chapter": 2,
+  "changes": [
+    {
+      "id": "CH02-D000129",
+      "anchor_id": "MTP-S000129",
+      "old": "སྟོང་སྣང་བར་གྱུར",
+      "new": "སྟོང་སྣང་བར་འགྱུར",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image434 line6 and exact-pixel locator clearly show prefixed འགྱུར, correcting the supplied གྱུར. The short span remains main text; no anchor merger or conjectural source-note expansion is made.",
+      "evidence_ids": [
+        "CH02-IMG-434",
+        "CH02-CROP-04"
+      ],
+      "uncertainty": [
+        "The short span is retained in the main reading; the preceding smaller source note is not expanded or attached conjecturally."
+      ],
+      "source_locus": "image434 line6 left, stong snang bar gyur following smaller source text"
+    },
+    {
+      "id": "CH02-D000178",
+      "anchor_id": "MTP-S000178",
+      "old": "སྟོང་པ་ཉིད་ཀྱི་དངོས་པོ་ལས་འདས་པའི་ཡེ་ཤེས་ལ",
+      "new": "སྟོང་པ་ཉིད་ཀྱི་དངོས་པོ་ལས་འདས་པའི་ཡེ་ཤེས་ལ",
+      "role": "annotation",
+      "treatment": "classify_layer",
+      "reason": "The supplied explanatory span appears in smaller running type on native image437 line2, between surrounding larger main-text phrases. Preserve its exact string as a separate annotation role rather than flattening it into root verse.",
+      "evidence_ids": [
+        "CH02-IMG-437",
+        "CH02-CROP-05"
+      ],
+      "uncertainty": [
+        "The complete supplied span is classified as a smaller source annotation; its exact attachment scope and untargeted source punctuation remain unresolved."
+      ],
+      "source_locus": "image437 line2, smaller explanatory text between chos nyid stong pai yul gnas pa and sku yi snang ba"
+    },
+    {
+      "id": "CH02-D000220",
+      "anchor_id": "MTP-S000220",
+      "old": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+      "new": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+      "role": "chapter_colophon",
+      "treatment": "classify_layer",
+      "reason": "The chapter-two closing formula begins near the right of line2 and continues onto line3; classify it as chapter colophon.",
+      "evidence_ids": [
+        "CH02-IMG-439"
+      ],
+      "uncertainty": [],
+      "source_locus": "image439 lines2–3, zhes mu tig phreng bai / rgyud gsang ba las"
+    }
+  ],
+  "restorations": []
+}

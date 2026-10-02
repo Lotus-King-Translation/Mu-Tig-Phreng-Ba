@@ -1,0 +1,103 @@
+{
+  "chapter": 2,
+  "passed": true,
+  "method": "Accepted full images match archived ZIP bytes; crops independently recropped at recorded coordinates and compared as exact RGBA pixel bytes. Pixel identity does not establish textual allocation.",
+  "records": [
+    {
+      "evidence_id": "CH02-IMG-433",
+      "original_image": 433,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-IMG-434",
+      "original_image": 434,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-IMG-437",
+      "original_image": 437,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-IMG-438",
+      "original_image": 438,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-IMG-439",
+      "original_image": 439,
+      "crop": null,
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-CROP-01",
+      "original_image": 434,
+      "crop": [
+        1240,
+        175,
+        2440,
+        310
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-CROP-02",
+      "original_image": 434,
+      "crop": [
+        2150,
+        340,
+        3400,
+        485
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-CROP-03",
+      "original_image": 434,
+      "crop": [
+        2800,
+        425,
+        3550,
+        585
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-CROP-04",
+      "original_image": 434,
+      "crop": [
+        505,
+        520,
+        1160,
+        666
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-CROP-05",
+      "original_image": 437,
+      "crop": [
+        960,
+        188,
+        3000,
+        310
+      ],
+      "pixel_identity_verified": true
+    },
+    {
+      "evidence_id": "CH02-CROP-06",
+      "original_image": 437,
+      "crop": [
+        590,
+        285,
+        3600,
+        640
+      ],
+      "pixel_identity_verified": true
+    }
+  ]
+}

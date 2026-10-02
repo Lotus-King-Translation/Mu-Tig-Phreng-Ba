@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "id": "MTP-C02-CHECK-001",
+    "status": "closed",
+    "finding": "The chapter opening is present after the preceding closure on the shared native page; retain the exact supplied main string.",
+    "evidence_ids": [
+      "CH02-IMG-433"
+    ],
+    "uncertainty": [
+      "Smaller source annotations interleaved with this opening remain untranscribed; source punctuation is not silently supplied."
+    ]
+  },
+  {
+    "id": "MTP-C02-CHECK-002",
+    "status": "closed",
+    "finding": "Native image439 line3 explicitly closes chapter two; following de nas belongs outside this bounded release.",
+    "evidence_ids": [
+      "CH02-IMG-439"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-C02-CHECK-003",
+    "status": "closed",
+    "finding": "Preserve the electronic @2-derived chapter-control token as metadata, not as a literal transcription of the printed ornamental or folio signs.",
+    "evidence_ids": [
+      "CH02-IMG-433"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-TRIAGE-005",
+    "status": "closed",
+    "finding": "The specified transition was inspected directly in the native image and exact-pixel locator. Retain supplied wording with explicit uncertainty rather than inserting or removing a proposed source note. Direct native/crop inspection does not establish a secure font-size distinction for bar dor. Retain the complete original string and disclose unresolved layer classification. The short rig pai mthong phye span occupies the main-text sequence at the right of line5; shortness alone does not justify annotation classification or merging anchors. Native image434 line6 and exact-pixel locator clearly show prefixed འགྱུར, correcting the supplied གྱུར. The short span remains main text; no anchor merger or conjectural source-note expansion is made.",
+    "evidence_ids": [
+      "CH02-IMG-434",
+      "CH02-CROP-01",
+      "CH02-CROP-02",
+      "CH02-CROP-03",
+      "CH02-CROP-04"
+    ],
+    "uncertainty": [
+      "Smaller text intervenes near the འདས / ཤེས transition. The relation of supplied འདས་ཤེས to apparent ཡེ་ཤེས after smaller text remains unresolved, including note attachment and exact wording. Retain the supplied string without claiming complete glyph-by-glyph confirmation.",
+      "Whether བར་དོར belongs to the main line or a raised source annotation remains unresolved. Conflicting initial size impressions were withdrawn; retain the exact supplied string pending stronger evidence.",
+      "Smaller adjacent source text near the end of this span remains untranscribed; the short electronic segmentation is preserved.",
+      "The short span is retained in the main reading; the preceding smaller source note is not expanded or attached conjecturally."
+    ]
+  },
+  {
+    "id": "MTP-TRIAGE-006",
+    "status": "closed",
+    "finding": "The supplied explanatory span appears in smaller running type on native image437 line2, between surrounding larger main-text phrases. Preserve its exact string as a separate annotation role rather than flattening it into root verse. The corresponding sequence crosses native image437 lines3–4 amid smaller interleaved text. Retain the supplied string; its opening wording is not sufficiently secure for a correction or claim of complete glyph agreement. Retain the supplied main-text quotation opening at its native locus. No interpolation is justified from the subsequent abbreviation marker. The literal zhes pa nas is visible in the transmitted sequence. Preserve it unexpanded; the source does not authorize silently supplying a parallel passage. Retain the supplied main-text phrase following zhes pa nas; preserve the source abbreviation and avoid conjectural expansion. The last part continues onto line6. Font/layer evidence for final ste is inconclusive, so retain the exact supplied text with explicit uncertainty. Inspecting native line1 provides no defensible basis for replacing the unusual final zha by an expected reading. Retain without orthographic harmonization.",
+    "evidence_ids": [
+      "CH02-IMG-437",
+      "CH02-CROP-05",
+      "CH02-CROP-06",
+      "CH02-IMG-438"
+    ],
+    "uncertainty": [
+      "The complete supplied span is classified as a smaller source annotation; its exact attachment scope and untargeted source punctuation remain unresolved.",
+      "Exact allocation and glyph reading of the opening ད་ལྟར amid larger glyphs and smaller source text on image437 line3 remain uncertain. No alternative wording is substituted.",
+      "Adjacent smaller source notes remain untranscribed; no omitted quotation wording is reconstructed.",
+      "The literal ཞེས་པ་ནས is preserved as a source abbreviation/cross-reference marker within the transmitted sequence. Its intervening scope is unresolved; no parallel text is supplied.",
+      "Whether final སྟེ is main text or a smaller source annotation remains unresolved. The exact supplied wording is retained; image437 line6, not line5 alone, contains the final segment.",
+      "The unusual final ཞ is retained from the supplied text at the native locus; no expected spelling is substituted."
+    ]
+  },
+  {
+    "id": "MTP-TRIAGE-007",
+    "status": "closed",
+    "finding": "The chapter-two closing formula begins near the right of line2 and continues onto line3; classify it as chapter colophon. Native image439 line3 explicitly closes chapter two; following de nas belongs outside this bounded release.",
+    "evidence_ids": [
+      "CH02-IMG-439"
+    ],
+    "uncertainty": []
+  }
+]

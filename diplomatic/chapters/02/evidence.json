@@ -1,1 +1,212 @@
-[]
+[
+  {
+    "id": "CH02-IMG-433",
+    "path": "evidence/golden/02/00433.png",
+    "sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+    "anchor_ids": [
+      "MTP-S000098",
+      "MTP-S000099"
+    ],
+    "status": "accepted",
+    "allocation_reason": "MTP-S000098: image433 chapter transition after the chapter-one colophon, lines2–3; MTP-S000099: image433 lines2–3, beginning de nas bcom ldan das and continuing to mnga bdag la",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 433,
+    "reviewer": "golden_base_review; target interpretation, not full-page proofreading"
+  },
+  {
+    "id": "CH02-IMG-434",
+    "path": "evidence/golden/02/00434.png",
+    "sha256": "8783557e0218f084fdbd5b695e719c2a72659f99a7475b67fd9e78bc9e38f199",
+    "anchor_ids": [
+      "MTP-S000117",
+      "MTP-S000124",
+      "MTP-S000128",
+      "MTP-S000129"
+    ],
+    "status": "accepted",
+    "allocation_reason": "MTP-S000117: image434 line2, ma rig khor ba / das shes su bdal with smaller intervening source text; MTP-S000124: image434 line4, ye shes snang ba bar dor bu la snang; MTP-S000128: image434 line5 right, rig pai mthong phye; MTP-S000129: image434 line6 left, stong snang bar gyur following smaller source text",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 434,
+    "reviewer": "golden_base_review; target interpretation, not full-page proofreading"
+  },
+  {
+    "id": "CH02-IMG-437",
+    "path": "evidence/golden/02/00437.png",
+    "sha256": "dd6f4fdfe50441f4ccec6815c42861d021d70d7ca8a4dab7abb8f5a2b25b724c",
+    "anchor_ids": [
+      "MTP-S000178",
+      "MTP-S000183",
+      "MTP-S000184",
+      "MTP-S000185",
+      "MTP-S000186",
+      "MTP-S000188"
+    ],
+    "status": "accepted",
+    "allocation_reason": "MTP-S000178: image437 line2, smaller explanatory text between chos nyid stong pai yul gnas pa and sku yi snang ba; MTP-S000183: image437 lines3–4, da ltar snang zhing / od lnga ltar byung; MTP-S000184: image437 line4, rig pai snang ba od gsal ba; MTP-S000185: image437 line4, literal zhes pa nas between the two supplied quotation spans; MTP-S000186: image437 line4, sna tshogs zhen pa rang grol te; MTP-S000188: image437 lines5–6, dran byed bsam pai chos las / das ste",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 437,
+    "reviewer": "golden_base_review; target interpretation, not full-page proofreading"
+  },
+  {
+    "id": "CH02-IMG-438",
+    "path": "evidence/golden/02/00438.png",
+    "sha256": "bf322ec728e34676fc1cff5fb602ac5c2d6c895294737426012e468a8cc86e70",
+    "anchor_ids": [
+      "MTP-S000193"
+    ],
+    "status": "accepted",
+    "allocation_reason": "MTP-S000193: image438 line1, khruI pai ye shes ma la zha",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 438,
+    "reviewer": "golden_base_review; target interpretation, not full-page proofreading"
+  },
+  {
+    "id": "CH02-IMG-439",
+    "path": "evidence/golden/02/00439.png",
+    "sha256": "3fb1a38345f93668e2c0165da7e18f32d691c2ceb82bbda2f430374801777ab9",
+    "anchor_ids": [
+      "MTP-S000220",
+      "MTP-S000221"
+    ],
+    "status": "accepted",
+    "allocation_reason": "MTP-S000220: image439 lines2–3, zhes mu tig phreng bai / rgyud gsang ba las; MTP-S000221: image439 line3, chapter-two closure before following de nas",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 439,
+    "reviewer": "golden_base_review; target interpretation, not full-page proofreading"
+  },
+  {
+    "id": "CH02-CROP-01",
+    "path": "evidence/golden/02/00434-locus-117.png",
+    "sha256": "94b9d0e57c43fbe3dc2d688715656d47fc04f1de21bb0a160b7e0e04185d4296",
+    "anchor_ids": [
+      "MTP-S000117"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Exact-pixel locator for target typography only; full native page inspected separately. image434 line2, ma rig khor ba / das shes su bdal with smaller intervening source text",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 434,
+    "crop": [
+      1240,
+      175,
+      2440,
+      310
+    ],
+    "original_sha256": "8783557e0218f084fdbd5b695e719c2a72659f99a7475b67fd9e78bc9e38f199",
+    "reviewer": "golden_base_review"
+  },
+  {
+    "id": "CH02-CROP-02",
+    "path": "evidence/golden/02/00434-locus-124.png",
+    "sha256": "ef9a00d1c757a531a9d3c4f5f8a07ad0ea648277e86cbfa02073c71da1ec2632",
+    "anchor_ids": [
+      "MTP-S000124"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Exact-pixel locator for target typography only; full native page inspected separately. image434 line4, ye shes snang ba bar dor bu la snang",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 434,
+    "crop": [
+      2150,
+      340,
+      3400,
+      485
+    ],
+    "original_sha256": "8783557e0218f084fdbd5b695e719c2a72659f99a7475b67fd9e78bc9e38f199",
+    "reviewer": "golden_base_review"
+  },
+  {
+    "id": "CH02-CROP-03",
+    "path": "evidence/golden/02/00434-locus-128.png",
+    "sha256": "6b1b129f6e6282c30bb7a82bb7e4082af5e80fed399c1cdbadc8afd5b2be787f",
+    "anchor_ids": [
+      "MTP-S000128"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Exact-pixel locator for target typography only; full native page inspected separately. image434 line5 right, rig pai mthong phye",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 434,
+    "crop": [
+      2800,
+      425,
+      3550,
+      585
+    ],
+    "original_sha256": "8783557e0218f084fdbd5b695e719c2a72659f99a7475b67fd9e78bc9e38f199",
+    "reviewer": "golden_base_review"
+  },
+  {
+    "id": "CH02-CROP-04",
+    "path": "evidence/golden/02/00434-locus-129.png",
+    "sha256": "dd73fd3845f7639f27655b113e67356e4d22f85d874b4e3028a99593c9261fad",
+    "anchor_ids": [
+      "MTP-S000129"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Exact-pixel locator for target typography only; full native page inspected separately. image434 line6 left, stong snang bar gyur following smaller source text",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 434,
+    "crop": [
+      505,
+      520,
+      1160,
+      666
+    ],
+    "original_sha256": "8783557e0218f084fdbd5b695e719c2a72659f99a7475b67fd9e78bc9e38f199",
+    "reviewer": "golden_base_review"
+  },
+  {
+    "id": "CH02-CROP-05",
+    "path": "evidence/golden/02/00437-locus-178.png",
+    "sha256": "5633e240ec14347815dd9c9319a4573ed08cb6d257674c654030a970ae19a8e5",
+    "anchor_ids": [
+      "MTP-S000178"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Exact-pixel locator for target typography only; full native page inspected separately. image437 line2, smaller explanatory text between chos nyid stong pai yul gnas pa and sku yi snang ba",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 437,
+    "crop": [
+      960,
+      188,
+      3000,
+      310
+    ],
+    "original_sha256": "dd6f4fdfe50441f4ccec6815c42861d021d70d7ca8a4dab7abb8f5a2b25b724c",
+    "reviewer": "golden_base_review"
+  },
+  {
+    "id": "CH02-CROP-06",
+    "path": "evidence/golden/02/00437-locus-183-188.png",
+    "sha256": "b2be8cb0ebd30b611f65f0f604a69fbc25329cf8bc6d703cb91af08f686dd1f7",
+    "anchor_ids": [
+      "MTP-S000183",
+      "MTP-S000184",
+      "MTP-S000185",
+      "MTP-S000186",
+      "MTP-S000188"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Exact-pixel locator for target typography only; full native page inspected separately. image437 lines3–4, da ltar snang zhing / od lnga ltar byung; image437 line4, rig pai snang ba od gsal ba; image437 line4, literal zhes pa nas between the two supplied quotation spans; image437 line4, sna tshogs zhen pa rang grol te; image437 lines5–6, dran byed bsam pai chos las / das ste",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 437,
+    "crop": [
+      590,
+      285,
+      3600,
+      640
+    ],
+    "original_sha256": "dd6f4fdfe50441f4ccec6815c42861d021d70d7ca8a4dab7abb8f5a2b25b724c",
+    "reviewer": "golden_base_review"
+  }
+]

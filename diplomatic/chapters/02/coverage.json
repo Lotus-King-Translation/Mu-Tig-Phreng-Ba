@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "chapter": 2,
+  "anchor_count": 124,
+  "accounted_original_anchors": 124,
+  "restoration_count": 0,
+  "changed_text_anchors": 1,
+  "layer_or_text_changed_anchors": 3,
+  "editorial_decisions_completed": 15,
+  "required_decisions_completed": 15,
+  "required_decisions_remaining": 0,
+  "source_checks_completed": 6,
+  "source_checks_remaining": 0,
+  "electronic_loci_compared": 124,
+  "electronic_difference_count": 0,
+  "retained_unreviewed_transcript_anchors": 109,
+  "accepted_evidence_records": 11,
+  "excluded_evidence_records": 0,
+  "unresolved": [
+    {
+      "id": "MTP-S000099",
+      "uncertainty": [
+        "Smaller source annotations interleaved with this opening remain untranscribed; source punctuation is not silently supplied."
+      ]
+    },
+    {
+      "id": "MTP-S000117",
+      "uncertainty": [
+        "Smaller text intervenes near the འདས / ཤེས transition. The relation of supplied འདས་ཤེས to apparent ཡེ་ཤེས after smaller text remains unresolved, including note attachment and exact wording. Retain the supplied string without claiming complete glyph-by-glyph confirmation."
+      ]
+    },
+    {
+      "id": "MTP-S000124",
+      "uncertainty": [
+        "Whether བར་དོར belongs to the main line or a raised source annotation remains unresolved. Conflicting initial size impressions were withdrawn; retain the exact supplied string pending stronger evidence."
+      ]
+    },
+    {
+      "id": "MTP-S000128",
+      "uncertainty": [
+        "Smaller adjacent source text near the end of this span remains untranscribed; the short electronic segmentation is preserved."
+      ]
+    },
+    {
+      "id": "MTP-S000129",
+      "uncertainty": [
+        "The short span is retained in the main reading; the preceding smaller source note is not expanded or attached conjecturally."
+      ]
+    },
+    {
+      "id": "MTP-S000178",
+      "uncertainty": [
+        "The complete supplied span is classified as a smaller source annotation; its exact attachment scope and untargeted source punctuation remain unresolved."
+      ]
+    },
+    {
+      "id": "MTP-S000183",
+      "uncertainty": [
+        "Exact allocation and glyph reading of the opening ད་ལྟར amid larger glyphs and smaller source text on image437 line3 remain uncertain. No alternative wording is substituted."
+      ]
+    },
+    {
+      "id": "MTP-S000184",
+      "uncertainty": [
+        "Adjacent smaller source notes remain untranscribed; no omitted quotation wording is reconstructed."
+      ]
+    },
+    {
+      "id": "MTP-S000185",
+      "uncertainty": [
+        "The literal ཞེས་པ་ནས is preserved as a source abbreviation/cross-reference marker within the transmitted sequence. Its intervening scope is unresolved; no parallel text is supplied."
+      ]
+    },
+    {
+      "id": "MTP-S000188",
+      "uncertainty": [
+        "Whether final སྟེ is main text or a smaller source annotation remains unresolved. The exact supplied wording is retained; image437 line6, not line5 alone, contains the final segment."
+      ]
+    },
+    {
+      "id": "MTP-S000193",
+      "uncertainty": [
+        "The unusual final ཞ is retained from the supplied text at the native locus; no expected spelling is substituted."
+      ]
+    }
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "comparison_scope": "Two electronic renditions of the same Valby/Adzom transcription family; not independent witnesses."
+}

@@ -19,4 +19,4 @@ Catalogue, source register, original scan archives, lossless PDFs, metadata/prov
 
 Resolve the eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtang:84,85), without presuming missing text. Resolve two Degé-family scan mappings, seek authorized restricted/preview access, locate Rýznar's five-witness thesis, identify Wilkinson's Tibetan basis and reconcile Gangtey labels. No correspondence or purchase has been initiated. These open leads are documented, not counted as acquired sources or independent witnesses.
 
-Current finite task: Freeze chapter2 contract; 1/8 chapter publications complete. Translation has not started. The discovery inventory does not certify that all extant witnesses are known.
+Current finite task: Freeze chapter3 contract; 1/8 chapter publications complete. Translation has not started. The discovery inventory does not certify that all extant witnesses are known.

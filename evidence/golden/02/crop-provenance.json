@@ -1,0 +1,86 @@
+[
+  {
+    "path": "evidence/golden/02/00434-locus-117.png",
+    "original_path": "evidence/golden/02/00434.png",
+    "original_sha256": "8783557e0218f084fdbd5b695e719c2a72659f99a7475b67fd9e78bc9e38f199",
+    "crop": [
+      1240,
+      175,
+      2440,
+      310
+    ],
+    "sha256": "94b9d0e57c43fbe3dc2d688715656d47fc04f1de21bb0a160b7e0e04185d4296",
+    "transformation": "Exact pixel crop only; no resizing, filtering, enhancement or OCR",
+    "purpose": "Native glyph and font-size inspection locator; full original remains accepted source evidence"
+  },
+  {
+    "path": "evidence/golden/02/00434-locus-124.png",
+    "original_path": "evidence/golden/02/00434.png",
+    "original_sha256": "8783557e0218f084fdbd5b695e719c2a72659f99a7475b67fd9e78bc9e38f199",
+    "crop": [
+      2150,
+      340,
+      3400,
+      485
+    ],
+    "sha256": "ef9a00d1c757a531a9d3c4f5f8a07ad0ea648277e86cbfa02073c71da1ec2632",
+    "transformation": "Exact pixel crop only; no resizing, filtering, enhancement or OCR",
+    "purpose": "Native glyph and font-size inspection locator; full original remains accepted source evidence"
+  },
+  {
+    "path": "evidence/golden/02/00434-locus-128.png",
+    "original_path": "evidence/golden/02/00434.png",
+    "original_sha256": "8783557e0218f084fdbd5b695e719c2a72659f99a7475b67fd9e78bc9e38f199",
+    "crop": [
+      2800,
+      425,
+      3550,
+      585
+    ],
+    "sha256": "6b1b129f6e6282c30bb7a82bb7e4082af5e80fed399c1cdbadc8afd5b2be787f",
+    "transformation": "Exact pixel crop only; no resizing, filtering, enhancement or OCR",
+    "purpose": "Native glyph and font-size inspection locator; full original remains accepted source evidence"
+  },
+  {
+    "path": "evidence/golden/02/00434-locus-129.png",
+    "original_path": "evidence/golden/02/00434.png",
+    "original_sha256": "8783557e0218f084fdbd5b695e719c2a72659f99a7475b67fd9e78bc9e38f199",
+    "crop": [
+      505,
+      520,
+      1160,
+      666
+    ],
+    "sha256": "dd73fd3845f7639f27655b113e67356e4d22f85d874b4e3028a99593c9261fad",
+    "transformation": "Exact pixel crop only; no resizing, filtering, enhancement or OCR",
+    "purpose": "Native glyph and font-size inspection locator; full original remains accepted source evidence"
+  },
+  {
+    "path": "evidence/golden/02/00437-locus-178.png",
+    "original_path": "evidence/golden/02/00437.png",
+    "original_sha256": "dd6f4fdfe50441f4ccec6815c42861d021d70d7ca8a4dab7abb8f5a2b25b724c",
+    "crop": [
+      960,
+      188,
+      3000,
+      310
+    ],
+    "sha256": "5633e240ec14347815dd9c9319a4573ed08cb6d257674c654030a970ae19a8e5",
+    "transformation": "Exact pixel crop only; no resizing, filtering, enhancement or OCR",
+    "purpose": "Native glyph and font-size inspection locator; full original remains accepted source evidence"
+  },
+  {
+    "path": "evidence/golden/02/00437-locus-183-188.png",
+    "original_path": "evidence/golden/02/00437.png",
+    "original_sha256": "dd6f4fdfe50441f4ccec6815c42861d021d70d7ca8a4dab7abb8f5a2b25b724c",
+    "crop": [
+      590,
+      285,
+      3600,
+      640
+    ],
+    "sha256": "b2be8cb0ebd30b611f65f0f604a69fbc25329cf8bc6d703cb91af08f686dd1f7",
+    "transformation": "Exact pixel crop only; no resizing, filtering, enhancement or OCR",
+    "purpose": "Native glyph and font-size inspection locator; full original remains accepted source evidence"
+  }
+]

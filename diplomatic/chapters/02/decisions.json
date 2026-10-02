@@ -1,1 +1,244 @@
-[]
+[
+  {
+    "id": "CH02-D000098",
+    "anchor_id": "MTP-S000098",
+    "old": "༄༢",
+    "new": "༄༢",
+    "role": "metadata",
+    "treatment": "classify_layer",
+    "reason": "Preserve the electronic @2-derived chapter-control token as metadata, not as a literal transcription of the printed ornamental or folio signs.",
+    "evidence_ids": [
+      "CH02-IMG-433"
+    ],
+    "uncertainty": [],
+    "source_locus": "image433 chapter transition after the chapter-one colophon, lines2–3"
+  },
+  {
+    "id": "CH02-D000099",
+    "anchor_id": "MTP-S000099",
+    "old": "དེ་ནས་བཅོམ་ལྡན་འདས་འཁྲུལ་པ་ཐམས་ཅད་དག་པའི་མངའ་བདག་ལ",
+    "new": "དེ་ནས་བཅོམ་ལྡན་འདས་འཁྲུལ་པ་ཐམས་ཅད་དག་པའི་མངའ་བདག་ལ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The chapter opening is present after the preceding closure on the shared native page; retain the exact supplied main string.",
+    "evidence_ids": [
+      "CH02-IMG-433"
+    ],
+    "uncertainty": [
+      "Smaller source annotations interleaved with this opening remain untranscribed; source punctuation is not silently supplied."
+    ],
+    "source_locus": "image433 lines2–3, beginning de nas bcom ldan das and continuing to mnga bdag la"
+  },
+  {
+    "id": "CH02-D000117",
+    "anchor_id": "MTP-S000117",
+    "old": "མ་རིག་འཁོར་བ་འདས་ཤེས་སུ་བདལ",
+    "new": "མ་རིག་འཁོར་བ་འདས་ཤེས་སུ་བདལ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The specified transition was inspected directly in the native image and exact-pixel locator. Retain supplied wording with explicit uncertainty rather than inserting or removing a proposed source note.",
+    "evidence_ids": [
+      "CH02-IMG-434",
+      "CH02-CROP-01"
+    ],
+    "uncertainty": [
+      "Smaller text intervenes near the འདས / ཤེས transition. The relation of supplied འདས་ཤེས to apparent ཡེ་ཤེས after smaller text remains unresolved, including note attachment and exact wording. Retain the supplied string without claiming complete glyph-by-glyph confirmation."
+    ],
+    "source_locus": "image434 line2, ma rig khor ba / das shes su bdal with smaller intervening source text"
+  },
+  {
+    "id": "CH02-D000124",
+    "anchor_id": "MTP-S000124",
+    "old": "ཡེ་ཤེས་སྣང་བ་བར་དོར་བུ་ལ་སྣང",
+    "new": "ཡེ་ཤེས་སྣང་བ་བར་དོར་བུ་ལ་སྣང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Direct native/crop inspection does not establish a secure font-size distinction for bar dor. Retain the complete original string and disclose unresolved layer classification.",
+    "evidence_ids": [
+      "CH02-IMG-434",
+      "CH02-CROP-02"
+    ],
+    "uncertainty": [
+      "Whether བར་དོར belongs to the main line or a raised source annotation remains unresolved. Conflicting initial size impressions were withdrawn; retain the exact supplied string pending stronger evidence."
+    ],
+    "source_locus": "image434 line4, ye shes snang ba bar dor bu la snang"
+  },
+  {
+    "id": "CH02-D000128",
+    "anchor_id": "MTP-S000128",
+    "old": "རིག་པའི་མཐོང་ཕྱེ",
+    "new": "རིག་པའི་མཐོང་ཕྱེ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The short rig pai mthong phye span occupies the main-text sequence at the right of line5; shortness alone does not justify annotation classification or merging anchors.",
+    "evidence_ids": [
+      "CH02-IMG-434",
+      "CH02-CROP-03"
+    ],
+    "uncertainty": [
+      "Smaller adjacent source text near the end of this span remains untranscribed; the short electronic segmentation is preserved."
+    ],
+    "source_locus": "image434 line5 right, rig pai mthong phye"
+  },
+  {
+    "id": "CH02-D000129",
+    "anchor_id": "MTP-S000129",
+    "old": "སྟོང་སྣང་བར་གྱུར",
+    "new": "སྟོང་སྣང་བར་འགྱུར",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "Native image434 line6 and exact-pixel locator clearly show prefixed འགྱུར, correcting the supplied གྱུར. The short span remains main text; no anchor merger or conjectural source-note expansion is made.",
+    "evidence_ids": [
+      "CH02-IMG-434",
+      "CH02-CROP-04"
+    ],
+    "uncertainty": [
+      "The short span is retained in the main reading; the preceding smaller source note is not expanded or attached conjecturally."
+    ],
+    "source_locus": "image434 line6 left, stong snang bar gyur following smaller source text"
+  },
+  {
+    "id": "CH02-D000178",
+    "anchor_id": "MTP-S000178",
+    "old": "སྟོང་པ་ཉིད་ཀྱི་དངོས་པོ་ལས་འདས་པའི་ཡེ་ཤེས་ལ",
+    "new": "སྟོང་པ་ཉིད་ཀྱི་དངོས་པོ་ལས་འདས་པའི་ཡེ་ཤེས་ལ",
+    "role": "annotation",
+    "treatment": "classify_layer",
+    "reason": "The supplied explanatory span appears in smaller running type on native image437 line2, between surrounding larger main-text phrases. Preserve its exact string as a separate annotation role rather than flattening it into root verse.",
+    "evidence_ids": [
+      "CH02-IMG-437",
+      "CH02-CROP-05"
+    ],
+    "uncertainty": [
+      "The complete supplied span is classified as a smaller source annotation; its exact attachment scope and untargeted source punctuation remain unresolved."
+    ],
+    "source_locus": "image437 line2, smaller explanatory text between chos nyid stong pai yul gnas pa and sku yi snang ba"
+  },
+  {
+    "id": "CH02-D000183",
+    "anchor_id": "MTP-S000183",
+    "old": "ད་ལྟར་སྣང་ཞིང་འོད་ལྔ་ལྟར་འབྱུང",
+    "new": "ད་ལྟར་སྣང་ཞིང་འོད་ལྔ་ལྟར་འབྱུང",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The corresponding sequence crosses native image437 lines3–4 amid smaller interleaved text. Retain the supplied string; its opening wording is not sufficiently secure for a correction or claim of complete glyph agreement.",
+    "evidence_ids": [
+      "CH02-IMG-437",
+      "CH02-CROP-06"
+    ],
+    "uncertainty": [
+      "Exact allocation and glyph reading of the opening ད་ལྟར amid larger glyphs and smaller source text on image437 line3 remain uncertain. No alternative wording is substituted."
+    ],
+    "source_locus": "image437 lines3–4, da ltar snang zhing / od lnga ltar byung"
+  },
+  {
+    "id": "CH02-D000184",
+    "anchor_id": "MTP-S000184",
+    "old": "རིག་པའི་སྣང་བ་འོད་གསལ་བ",
+    "new": "རིག་པའི་སྣང་བ་འོད་གསལ་བ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main-text quotation opening at its native locus. No interpolation is justified from the subsequent abbreviation marker.",
+    "evidence_ids": [
+      "CH02-IMG-437",
+      "CH02-CROP-06"
+    ],
+    "uncertainty": [
+      "Adjacent smaller source notes remain untranscribed; no omitted quotation wording is reconstructed."
+    ],
+    "source_locus": "image437 line4, rig pai snang ba od gsal ba"
+  },
+  {
+    "id": "CH02-D000185",
+    "anchor_id": "MTP-S000185",
+    "old": "ཞེས་པ་ནས",
+    "new": "ཞེས་པ་ནས",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The literal zhes pa nas is visible in the transmitted sequence. Preserve it unexpanded; the source does not authorize silently supplying a parallel passage.",
+    "evidence_ids": [
+      "CH02-IMG-437",
+      "CH02-CROP-06"
+    ],
+    "uncertainty": [
+      "The literal ཞེས་པ་ནས is preserved as a source abbreviation/cross-reference marker within the transmitted sequence. Its intervening scope is unresolved; no parallel text is supplied."
+    ],
+    "source_locus": "image437 line4, literal zhes pa nas between the two supplied quotation spans"
+  },
+  {
+    "id": "CH02-D000186",
+    "anchor_id": "MTP-S000186",
+    "old": "སྣ་ཚོགས་ཞེན་པ་རང་གྲོལ་ཏེ",
+    "new": "སྣ་ཚོགས་ཞེན་པ་རང་གྲོལ་ཏེ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text phrase following zhes pa nas; preserve the source abbreviation and avoid conjectural expansion.",
+    "evidence_ids": [
+      "CH02-IMG-437",
+      "CH02-CROP-06"
+    ],
+    "uncertainty": [],
+    "source_locus": "image437 line4, sna tshogs zhen pa rang grol te"
+  },
+  {
+    "id": "CH02-D000188",
+    "anchor_id": "MTP-S000188",
+    "old": "དྲན་བྱེད་བསམ་པའི་ཆོས་ལས་འདས་སྟེ",
+    "new": "དྲན་བྱེད་བསམ་པའི་ཆོས་ལས་འདས་སྟེ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "The last part continues onto line6. Font/layer evidence for final ste is inconclusive, so retain the exact supplied text with explicit uncertainty.",
+    "evidence_ids": [
+      "CH02-IMG-437",
+      "CH02-CROP-06"
+    ],
+    "uncertainty": [
+      "Whether final སྟེ is main text or a smaller source annotation remains unresolved. The exact supplied wording is retained; image437 line6, not line5 alone, contains the final segment."
+    ],
+    "source_locus": "image437 lines5–6, dran byed bsam pai chos las / das ste"
+  },
+  {
+    "id": "CH02-D000193",
+    "anchor_id": "MTP-S000193",
+    "old": "འཁྲུལ་པའི་ཡེ་ཤེས་མ་ལ་ཞ",
+    "new": "འཁྲུལ་པའི་ཡེ་ཤེས་མ་ལ་ཞ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Inspecting native line1 provides no defensible basis for replacing the unusual final zha by an expected reading. Retain without orthographic harmonization.",
+    "evidence_ids": [
+      "CH02-IMG-438"
+    ],
+    "uncertainty": [
+      "The unusual final ཞ is retained from the supplied text at the native locus; no expected spelling is substituted."
+    ],
+    "source_locus": "image438 line1, khruI pai ye shes ma la zha"
+  },
+  {
+    "id": "CH02-D000220",
+    "anchor_id": "MTP-S000220",
+    "old": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+    "new": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "The chapter-two closing formula begins near the right of line2 and continues onto line3; classify it as chapter colophon.",
+    "evidence_ids": [
+      "CH02-IMG-439"
+    ],
+    "uncertainty": [],
+    "source_locus": "image439 lines2–3, zhes mu tig phreng bai / rgyud gsang ba las"
+  },
+  {
+    "id": "CH02-D000221",
+    "anchor_id": "MTP-S000221",
+    "old": "འཁྲུལ་པ་གཞི་ལས་ལྡོག་པའི་ལེའུ་སྟེ་གཉིས་པའོ",
+    "new": "འཁྲུལ་པ་གཞི་ལས་ལྡོག་པའི་ལེའུ་སྟེ་གཉིས་པའོ",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "Native image439 line3 explicitly closes chapter two; following de nas belongs outside this bounded release.",
+    "evidence_ids": [
+      "CH02-IMG-439"
+    ],
+    "uncertainty": [],
+    "source_locus": "image439 line3, chapter-two closure before following de nas"
+  }
+]
