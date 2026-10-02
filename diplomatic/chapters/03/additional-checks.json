@@ -1,0 +1,28 @@
+[
+  {
+    "id": "MTP-TRIAGE-008",
+    "anchor_ids": [
+      "MTP-S000228",
+      "MTP-S000229",
+      "MTP-S000230"
+    ],
+    "question": "sar ba 'dus ha is a ritual-formula candidate; preserve source spelling and establish allocation rather than repair Sanskrit."
+  },
+  {
+    "id": "MTP-TRIAGE-009",
+    "anchor_ids": [
+      "MTP-S000309",
+      "MTP-S000315",
+      "MTP-S000316"
+    ],
+    "question": "lug rgyud, snyin po and gsum in adjacent short verses warrant a finite source check. Contraction or source variant remains possible."
+  },
+  {
+    "id": "MTP-TRIAGE-010",
+    "anchor_ids": [
+      "MTP-S000340",
+      "MTP-S000341"
+    ],
+    "question": "Classify chapter-three closing formula."
+  }
+]

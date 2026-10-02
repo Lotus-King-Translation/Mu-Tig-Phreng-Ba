@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "chapter": 3,
+  "first_index": 222,
+  "last_index": 341,
+  "first_anchor": "MTP-S000222",
+  "last_anchor": "MTP-S000341",
+  "closing_anchor": "MTP-S000341",
+  "anchor_count": 120,
+  "raw_start": 5405,
+  "raw_end": 8495,
+  "page_hints": [
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436
+  ],
+  "boundary_status": "Mechanical colophon locator; requires authored scan review.",
+  "includes_post_chapter_colophon": false,
+  "source_files": {
+    "diplomatic/source-anchors.json": "83875fc89625068a7ccc2e7ed823695abf77d9dd7aee7abc8db290d53eb447a9",
+    "diplomatic/electronic-collation.json": "963157f0ed195706a0750e5bd48d3402e11d82b2cb4972e1b02babccaa353ed4",
+    "diplomatic/chapter-map.json": "7dc731991db28074fd108012597f6dc16f8d269e39f4b1422a9499bfb32b838a",
+    "diplomatic/anomalies.json": "67c593d039dc683cfdda8b3541978f8f40f6e9bff776722e1c3990eb69079b85"
+  },
+  "difference_ids": [],
+  "anomaly_ids": [
+    "MTP-A000222-GRAPHIC"
+  ],
+  "required_decision_anchors": [
+    "MTP-S000222",
+    "MTP-S000223",
+    "MTP-S000228",
+    "MTP-S000229",
+    "MTP-S000230",
+    "MTP-S000309",
+    "MTP-S000315",
+    "MTP-S000316",
+    "MTP-S000340",
+    "MTP-S000341"
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C03-CHECK-001",
+      "anchor_ids": [
+        "MTP-S000223"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C03-CHECK-002",
+      "anchor_ids": [
+        "MTP-S000341"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C03-CHECK-003",
+      "anchor_ids": [
+        "MTP-S000222"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-TRIAGE-008",
+      "anchor_ids": [
+        "MTP-S000228",
+        "MTP-S000229",
+        "MTP-S000230"
+      ],
+      "question": "sar ba 'dus ha is a ritual-formula candidate; preserve source spelling and establish allocation rather than repair Sanskrit."
+    },
+    {
+      "id": "MTP-TRIAGE-009",
+      "anchor_ids": [
+        "MTP-S000309",
+        "MTP-S000315",
+        "MTP-S000316"
+      ],
+      "question": "lug rgyud, snyin po and gsum in adjacent short verses warrant a finite source check. Contraction or source variant remains possible."
+    },
+    {
+      "id": "MTP-TRIAGE-010",
+      "anchor_ids": [
+        "MTP-S000340",
+        "MTP-S000341"
+      ],
+      "question": "Classify chapter-three closing formula."
+    }
+  ],
+  "scope": "Bounded governing-Adzom reading; same-family electronic comparison and targeted scan checks.",
+  "required_outputs": [
+    "reading.md",
+    "reading.json",
+    "apparatus.json",
+    "changes.json",
+    "coverage.json",
+    "build-manifest.json"
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "outside_scope": [
+    "Full scan proofreading",
+    "Exhaustive witness collation",
+    "Unattested repair",
+    "Translation"
+  ],
+  "freeze_note": "No timestamp in deterministic contract. Exact bytes fixed by contract.sha256; changes require a new edition contract."
+}
