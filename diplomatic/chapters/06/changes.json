@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "chapter": 6,
+  "changes": [
+    {
+      "id": "MTP-C06-TR-D001056",
+      "anchor_id": "MTP-S001056",
+      "old": "དེ་ཉིད་གོངས་པ་ཇི་ལྟར་ལགས",
+      "new": "དེ་ཉིད་དགོངས་པ་ཇི་ལྟར་ལགས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image490 row2 right visibly prints དགོངས་པ, with a preceding ད missing in supplied གོངས་པ. Correct only that source-attested prefix.",
+      "evidence_ids": [
+        "MTP-C06-TR-E490",
+        "MTP-C06-TR-C490-1056",
+        "MTP-C06-TR-C490-1056-glyph"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དགོངས་པ remains untranscribed and separate from the main continuation ཇི་ལྟར་ལགས."
+      ],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C06-TR-D001085",
+      "anchor_id": "MTP-S001085",
+      "old": "སངས་རྒྱས་སགས་དཀོན་མཆོག་ང",
+      "new": "སངས་རྒྱས་སོགས་དཀོན་མཆོག་ང",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The anchor begins at image491 row6 right with སངས and continues at image492 row1 left. The native continuation visibly has སོགས with an o vowel, not supplied སགས. Correct only that vowel.",
+      "evidence_ids": [
+        "MTP-C06-TR-E491",
+        "MTP-C06-TR-E492",
+        "MTP-C06-TR-C491-1085-start",
+        "MTP-C06-TR-C492-1085-end",
+        "MTP-C06-TR-C492-1085-glyph"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དཀོན་མཆོག remains untranscribed; the main anchor crosses the image491/492 boundary."
+      ],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C06-TR-D001089",
+      "anchor_id": "MTP-S001089",
+      "old": "ལྟ་དང་སྐོམ་དང་སྤྱོད་པ་ང",
+      "new": "ལྟ་དང་སྒོམ་དང་སྤྱོད་པ་ང",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image492 row2 center visibly prints སྒོམ with ga, not supplied སྐོམ with ka. Correct only that consonant; the printed glyph rather than an expected formula governs.",
+      "evidence_ids": [
+        "MTP-C06-TR-E492",
+        "MTP-C06-TR-C492-1089-exact",
+        "MTP-C06-TR-C492-1089-glyph"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after སྤྱོད་པ remains untranscribed before final main ང."
+      ],
+      "native_inspector": "/root/golden_triage"
+    },
+    {
+      "id": "MTP-C06-PIPE-D001216",
+      "anchor_id": "MTP-S001216",
+      "old": "ཐབས་དང་ཤེས་ཀྲབ་ཉིད་དུ་གྲོལ",
+      "new": "ཐབས་དང་ཤེས་རབ་ཉིད་དུ་གྲོལ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "The native source has ཤེས་རབ, not the electronic base ཤེས་ཀྲབ. Correct only the erroneous initial cluster ཀྲབ to the visibly printed རབ; this reading follows the glyphs rather than semantic expectation.",
+      "evidence_ids": [
+        "MTP-C06-PIPE-E500",
+        "MTP-C06-PIPE-CROP-pipeline-S1216-detail"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after ཤེས་རབ remains untranscribed and separate from the main-text continuation ཉིད་དུ་གྲོལ."
+      ],
+      "review_fragment": {
+        "path": "diplomatic/chapters/06/REVIEW-028-030.json",
+        "sha256": "ea2f074c64b96e578792316008ce0f51ac095dc5109a7271c3e2ddaab1bdbc78"
+      },
+      "native_inspector": "golden_pipeline agent"
+    },
+    {
+      "id": "CH06-BASE-D001256",
+      "anchor_id": "MTP-S001256",
+      "old": "འབྱུང་བ་ལྔ་ཉིད་མྱ་ངང་འདས",
+      "new": "འབྱུང་བ་ལྔ་ཉིད་མྱ་ངན་འདས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image502 line6left visibly reads མྱ་ངན་འདས. Replace only the supplied nasal ending ངང with printed ངན; neighboring formula repetition is not the evidence.",
+      "evidence_ids": [
+        "CH06-BASE-E502"
+      ],
+      "uncertainty": [
+        "Smaller source explanation between the main incipit and མྱ་ངན་འདས remains untranscribed across the line5/6 boundary."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1256 begins with byung ba lnga nyid on main line5 right and continues mya ngan das on line6 left, around smaller explanatory wording.",
+      "review_fragment": {
+        "path": "diplomatic/chapters/06/REVIEW-031-033.json",
+        "sha256": "4335f956a7199d2252f1ece0582961800ae9aadcd80c047297a08ba802e26118"
+      }
+    },
+    {
+      "id": "CH06-BASE-D001307",
+      "anchor_id": "MTP-S001307",
+      "old": "བདེ་བ་ཆེན་པོའི་ཡན་ལག་ཅ",
+      "new": "བདེ་བ་ཆེན་པོའི་ཡན་ལག་ཆ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image505 line4 visibly ends with the single glyph ཆ, rather than supplied ཅ. Correct only that letter. An initial impression of ཅན was withdrawn after comparing the actual single glyph; no suffix is supplied.",
+      "evidence_ids": [
+        "CH06-BASE-E505"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1306 begins at line3 right and ends le ste at line4 left; S1307 is the large verse in line4 center. S1311 and S1312 occupy line6, with smaller source insertions after don dam and stong gsal.",
+      "review_fragment": {
+        "path": "diplomatic/chapters/06/REVIEW-031-033.json",
+        "sha256": "4335f956a7199d2252f1ece0582961800ae9aadcd80c047297a08ba802e26118"
+      }
+    },
+    {
+      "id": "CH06-BASE-D001364",
+      "anchor_id": "MTP-S001364",
+      "old": "རྒྱད་ནི་སྒོ་ལྔའི་རྟ་ཕོ་ལ",
+      "new": "རྒྱུད་ནི་སྒོ་ལྔའི་རྟ་ཕོ་ལ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image509 line1 shows རྒྱུད, including a visible zhabs kyu under the initial stack, rather than supplied རྒྱད. Add only the printed vowel sign; do not choose a term from meaning.",
+      "evidence_ids": [
+        "CH06-BASE-E509"
+      ],
+      "uncertainty": [
+        "Smaller source wording following the main རྟ་ཕོ་ལ remains untranscribed; its exact attachment is not certified."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1364 rgyud ni sgo lngai rta pho la occurs on line1 right. S1369 is on line3 left and S1371 later in the same line, with a smaller insertion after dbang poi.",
+      "review_fragment": {
+        "path": "diplomatic/chapters/06/REVIEW-031-033.json",
+        "sha256": "4335f956a7199d2252f1ece0582961800ae9aadcd80c047297a08ba802e26118"
+      }
+    },
+    {
+      "id": "MTP-C06-TR-D001426",
+      "anchor_id": "MTP-S001426",
+      "old": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ལས",
+      "new": "ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ལས",
+      "role": "chapter_colophon",
+      "treatment": "classify_layer",
+      "reason": "Image512 row2 center supports the supplied title formula; classify as chapter6 colophon and preserve exact wording.",
+      "evidence_ids": [
+        "MTP-C06-TR-E512",
+        "MTP-C06-TR-C512-1426"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_triage"
+    }
+  ],
+  "restorations": []
+}

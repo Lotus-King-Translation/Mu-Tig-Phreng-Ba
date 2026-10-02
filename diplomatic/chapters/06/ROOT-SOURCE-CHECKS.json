@@ -1,0 +1,53 @@
+{
+  "chapter": 6,
+  "inspector": "/root coordinating agent",
+  "scope": "Three targeted spelling confirmations from native originals and exact-pixel locators. No whole-page proofreading.",
+  "checks": [
+    {
+      "anchor_id": "MTP-S001256",
+      "old": "འབྱུང་བ་ལྔ་ཉིད་མྱ་ངང་འདས",
+      "supported_reading": "འབྱུང་བ་ལྔ་ཉིད་མྱ་ངན་འདས",
+      "image_index": 502,
+      "source_path": "evidence/golden/06/00502.png",
+      "locator_crop_coordinates": [
+        475,
+        530,
+        1070,
+        670
+      ],
+      "finding": "Native line6left visibly has མྱ་ངན་འདས; correct final consonant of the middle syllable."
+    },
+    {
+      "anchor_id": "MTP-S001307",
+      "old": "བདེ་བ་ཆེན་པོའི་ཡན་ལག་ཅ",
+      "supported_reading": "བདེ་བ་ཆེན་པོའི་ཡན་ལག་ཆ",
+      "image_index": 505,
+      "source_path": "evidence/golden/06/00505.png",
+      "locator_crop_coordinates": [
+        1390,
+        375,
+        2170,
+        520
+      ],
+      "finding": "Native line4 prints one final ཆ after ཡན་ལག. Correct only ཅ→ཆ; no extra suffix is supplied."
+    },
+    {
+      "anchor_id": "MTP-S001364",
+      "old": "རྒྱད་ནི་སྒོ་ལྔའི་རྟ་ཕོ་ལ",
+      "supported_reading": "རྒྱུད་ནི་སྒོ་ལྔའི་རྟ་ཕོ་ལ",
+      "image_index": 509,
+      "source_path": "evidence/golden/06/00509.png",
+      "locator_crop_coordinates": [
+        2630,
+        85,
+        3550,
+        210
+      ],
+      "finding": "Native line1right has visible zhabs kyu beneath the opening stack. Correct the vowel encoding རྒྱད→རྒྱུད; retain the supplied remainder."
+    }
+  ],
+  "retained_layer_observation": {
+    "anchor_id": "MTP-S001306",
+    "finding": "Root inspected original505 and locator[2900,285,3535,422]. རོ་མ does not present secure typographic grounds for removal; retain supplied words with explicit layer uncertainty."
+  }
+}

@@ -1,0 +1,13 @@
+# Chapter 6 authored editorial review — 2026-10-02
+
+**Candidate complete:** 21/21 required decisions, 16/16 frozen checks and 6/6 generated outputs. Build-manifest SHA-256: `dabdd4e79a2e2aea09d48aa6d743e112059c239584135f00f70856c66bc40a1e`.
+
+Native work was partitioned: `/root/golden_triage` inspected S1052/S1053/S1056/S1085/S1089/S1426/S1427; `/root/golden_pipeline` inspected S1150/S1167/S1199/S1200/S1201/S1216; `/root/golden_base_review` inspected S1256/S1306/S1307/S1311/S1312/S1364/S1369/S1371. Canonical copies preserve exact fragment hashes and inspector attribution; this author does not claim independent rereading of every delegated locus.
+Seven scan-supported corrections: S1056 གོངས → དགོངས; S1085 སགས → སོགས; S1089 སྐོམ → སྒོམ; S1216 ཀྲབ → རབ; S1256 ངང → ངན; S1307 ཅ → ཆ; S1364 རྒྱད → རྒྱུད. Exact whole-anchor comparisons remain in the apparatus and changes file; no restorations were added.
+This author independently inspected image500 and the pipeline S1216 detail crop, confirming plain རབ. Root independently confirmed the three base-review corrections in ROOT-SOURCE-CHECKS.json. Final review separately checks this author's proposed changes and binds the exact candidate.
+S1306 retains the exact supplied གཡས་པ་རོ་མ wording with explicit layer uncertainty; compact glyphs do not justify deleting it. S1150 སུངས, the flagged དངས spellings, and the S1199/S1200/S1201 strings remain as printed without grammatical smoothing or converter-driven repair.
+The @6-derived marker remains metadata. Main opening is image490 row1 center; closing title formula is image512 row2 center and numbered colophon continues from row2 right to row3 left. S1085 crosses image491 row6 to492 row1; this allocation is explicit in the evidence.
+Eleven anchor uncertainty records disclose specific smaller source notes and the unresolved S1306 layer distinction. No undeciphered note is silently promoted into root text. Untargeted source punctuation remains outside scope.
+All376 anchors are accounted for;355 remain explicitly retained-unreviewed transcript anchors. Evidence comprises11 native originals and18 exact-pixel crops;15 crops are accepted and3 exploratory crops are excluded/mislocated. All cropped pixels were checked against their originals.
+Candidate validation passed reproducible build, exact source preservation, both reconstruction paths and evidence hashes/allocation fields. Final review, coordinator signoff, final-mode checks and publication remain separate gates.
+Full scan proofreading, exhaustive witness collation and independent human palaeographic certification remain false. Chapter7 was not started.

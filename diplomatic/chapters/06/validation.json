@@ -1,0 +1,12 @@
+{
+  "chapter": 6,
+  "mode": "final",
+  "passed": true,
+  "build_manifest_sha256": "dabdd4e79a2e2aea09d48aa6d743e112059c239584135f00f70856c66bc40a1e",
+  "reproducible_build": true,
+  "source_preservation": true,
+  "whole_locus_reconstruction": true,
+  "opcode_reconstruction": true,
+  "evidence_hashes_and_allocation_fields": true,
+  "limits": "Structural validation cannot independently verify a reviewer’s palaeographic reading or image-to-locus assertion."
+}

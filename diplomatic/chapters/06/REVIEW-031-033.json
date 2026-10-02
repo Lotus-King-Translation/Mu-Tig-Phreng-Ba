@@ -1,0 +1,312 @@
+{
+  "schema_version": 1,
+  "chapter": 6,
+  "inspector": "/root/golden_base_review",
+  "scope": "Eight frozen anchors, five frozen checks, three native governing images; no whole-page proofreading.",
+  "decisions": [
+    {
+      "id": "CH06-BASE-D001256",
+      "anchor_id": "MTP-S001256",
+      "old": "འབྱུང་བ་ལྔ་ཉིད་མྱ་ངང་འདས",
+      "new": "འབྱུང་བ་ལྔ་ཉིད་མྱ་ངན་འདས",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image502 line6left visibly reads མྱ་ངན་འདས. Replace only the supplied nasal ending ངང with printed ངན; neighboring formula repetition is not the evidence.",
+      "evidence_ids": [
+        "CH06-BASE-E502"
+      ],
+      "uncertainty": [
+        "Smaller source explanation between the main incipit and མྱ་ངན་འདས remains untranscribed across the line5/6 boundary."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1256 begins with byung ba lnga nyid on main line5 right and continues mya ngan das on line6 left, around smaller explanatory wording."
+    },
+    {
+      "id": "CH06-BASE-D001306",
+      "anchor_id": "MTP-S001306",
+      "old": "གཡས་པ་རོ་མ་ཀུན་རྫོབ་ཐིག་ལེ་སྟེ",
+      "new": "གཡས་པ་རོ་མ་ཀུན་རྫོབ་ཐིག་ལེ་སྟེ",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "All supplied words remain in the selected reading. Native image505 shows གཡས་པ་རོ་མ before ཀུན་རྫོབ; compact letter shapes do not securely establish a smaller annotation. Do not remove wording from grammatical or metrical expectation.",
+      "evidence_ids": [
+        "CH06-BASE-E505"
+      ],
+      "uncertainty": [
+        "The layer status of པ་རོ་མ is not securely distinguished from main text by this inspection; the exact supplied phrase remains selected without separation.",
+        "A further smaller source explanation follows the line4 continuation ལེ་སྟེ; its wording and exact attachment remain untranscribed."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1306 begins at line3 right and ends le ste at line4 left; S1307 is the large verse in line4 center. S1311 and S1312 occupy line6, with smaller source insertions after don dam and stong gsal."
+    },
+    {
+      "id": "CH06-BASE-D001307",
+      "anchor_id": "MTP-S001307",
+      "old": "བདེ་བ་ཆེན་པོའི་ཡན་ལག་ཅ",
+      "new": "བདེ་བ་ཆེན་པོའི་ཡན་ལག་ཆ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image505 line4 visibly ends with the single glyph ཆ, rather than supplied ཅ. Correct only that letter. An initial impression of ཅན was withdrawn after comparing the actual single glyph; no suffix is supplied.",
+      "evidence_ids": [
+        "CH06-BASE-E505"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1306 begins at line3 right and ends le ste at line4 left; S1307 is the large verse in line4 center. S1311 and S1312 occupy line6, with smaller source insertions after don dam and stong gsal."
+    },
+    {
+      "id": "CH06-BASE-D001311",
+      "anchor_id": "MTP-S001311",
+      "old": "དོན་དམ་ཆོས་སྐུའི་རང་བཞིན་ཅན",
+      "new": "དོན་དམ་ཆོས་སྐུའི་རང་བཞིན་ཅན",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Retain the exact large main sequence དོན་དམ་ཆོས་སྐུའི་རང་བཞིན་ཅན on native image505 line6; no unsupported alteration is needed.",
+      "evidence_ids": [
+        "CH06-BASE-E505"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དོན་དམ remains untranscribed and is not included in the main sequence."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1306 begins at line3 right and ends le ste at line4 left; S1307 is the large verse in line4 center. S1311 and S1312 occupy line6, with smaller source insertions after don dam and stong gsal."
+    },
+    {
+      "id": "CH06-BASE-D001312",
+      "anchor_id": "MTP-S001312",
+      "old": "སྟོང་གསལ་ཐིག་ལེ་གཅིག་ཏུ་གནས",
+      "new": "སྟོང་གསལ་ཐིག་ལེ་གཅིག་ཏུ་གནས",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Retain the exact large main sequence སྟོང་གསལ་ཐིག་ལེ་གཅིག་ཏུ་གནས on native image505 line6. Smaller intervening explanation is not merged into the supplied main sequence.",
+      "evidence_ids": [
+        "CH06-BASE-E505"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after སྟོང་གསལ remains untranscribed and is not included in the main sequence."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1306 begins at line3 right and ends le ste at line4 left; S1307 is the large verse in line4 center. S1311 and S1312 occupy line6, with smaller source insertions after don dam and stong gsal."
+    },
+    {
+      "id": "CH06-BASE-D001364",
+      "anchor_id": "MTP-S001364",
+      "old": "རྒྱད་ནི་སྒོ་ལྔའི་རྟ་ཕོ་ལ",
+      "new": "རྒྱུད་ནི་སྒོ་ལྔའི་རྟ་ཕོ་ལ",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Native image509 line1 shows རྒྱུད, including a visible zhabs kyu under the initial stack, rather than supplied རྒྱད. Add only the printed vowel sign; do not choose a term from meaning.",
+      "evidence_ids": [
+        "CH06-BASE-E509"
+      ],
+      "uncertainty": [
+        "Smaller source wording following the main རྟ་ཕོ་ལ remains untranscribed; its exact attachment is not certified."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1364 rgyud ni sgo lngai rta pho la occurs on line1 right. S1369 is on line3 left and S1371 later in the same line, with a smaller insertion after dbang poi."
+    },
+    {
+      "id": "CH06-BASE-D001369",
+      "anchor_id": "MTP-S001369",
+      "old": "ཆུ་ནི་དངས་སྙིགས་འབྱེད་པར་བྱེད",
+      "new": "ཆུ་ནི་དངས་སྙིགས་འབྱེད་པར་བྱེད",
+      "role": "main_text",
+      "treatment": "retain_base",
+      "reason": "Native image509 line3left directly supports དངས་སྙིགས and the supplied main string. Retain the printed spelling despite the EWTS warning.",
+      "evidence_ids": [
+        "CH06-BASE-E509"
+      ],
+      "uncertainty": [],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1364 rgyud ni sgo lngai rta pho la occurs on line1 right. S1369 is on line3 left and S1371 later in the same line, with a smaller insertion after dbang poi."
+    },
+    {
+      "id": "CH06-BASE-D001371",
+      "anchor_id": "MTP-S001371",
+      "old": "མདོར་ན་དབང་པོའི་དངས་མ་ཡིན",
+      "new": "མདོར་ན་དབང་པོའི་དངས་མ་ཡིན",
+      "role": "main_text",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Native image509 line3 supports དངས་མ་ཡིན following the main མདོར་ན་དབང་པོའི. Retain the supplied spelling; converter advice is not source evidence.",
+      "evidence_ids": [
+        "CH06-BASE-E509"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དབང་པོའི remains untranscribed and is not merged into the main reading."
+      ],
+      "native_inspector": "/root/golden_base_review",
+      "source_locus": "S1364 rgyud ni sgo lngai rta pho la occurs on line1 right. S1369 is on line3 left and S1371 later in the same line, with a smaller insertion after dbang poi."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "CH06-BASE-E502",
+      "path": "evidence/golden/06/00502.png",
+      "sha256": "39e514c32a7f65b83d376129883bc9adb4a826baddfd6f635eec97287c32e1d4",
+      "source_id": "adzom-1973",
+      "image_index": 502,
+      "printed_page": 492,
+      "anchor_ids": [
+        "MTP-S001256"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S1256 begins with byung ba lnga nyid on main line5 right and continues mya ngan das on line6 left, around smaller explanatory wording. Targeted review only.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950502.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH06-BASE-E505",
+      "path": "evidence/golden/06/00505.png",
+      "sha256": "b06787c5b137377a545fe46cff7f6f2642acb2565acb89e6c40f97978165e1d2",
+      "source_id": "adzom-1973",
+      "image_index": 505,
+      "printed_page": 495,
+      "anchor_ids": [
+        "MTP-S001306",
+        "MTP-S001307",
+        "MTP-S001311",
+        "MTP-S001312"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S1306 begins at line3 right and ends le ste at line4 left; S1307 is the large verse in line4 center. S1311 and S1312 occupy line6, with smaller source insertions after don dam and stong gsal. Targeted review only.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950505.TIF/full/max/0/default.png"
+    },
+    {
+      "id": "CH06-BASE-E509",
+      "path": "evidence/golden/06/00509.png",
+      "sha256": "88859f01841b84a84c67307f3f0fb742955128844b78c0ac34ec02dcf685474c",
+      "source_id": "adzom-1973",
+      "image_index": 509,
+      "printed_page": 499,
+      "anchor_ids": [
+        "MTP-S001364",
+        "MTP-S001369",
+        "MTP-S001371"
+      ],
+      "status": "accepted",
+      "inspection": "native_image_direct",
+      "inspector": "/root/golden_base_review",
+      "allocation_reason": "S1364 rgyud ni sgo lngai rta pho la occurs on line1 right. S1369 is on line3 left and S1371 later in the same line, with a smaller insertion after dbang poi. Targeted review only.",
+      "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950509.TIF/full/max/0/default.png"
+    }
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C06-CHECK-006",
+      "status": "closed",
+      "finding": "Native image509 line3left directly supports དངས་སྙིགས and the supplied main string. Retain the printed spelling despite the EWTS warning.",
+      "evidence_ids": [
+        "CH06-BASE-E509"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "MTP-C06-CHECK-007",
+      "status": "closed",
+      "finding": "Native image509 line3 supports དངས་མ་ཡིན following the main མདོར་ན་དབང་པོའི. Retain the supplied spelling; converter advice is not source evidence.",
+      "evidence_ids": [
+        "CH06-BASE-E509"
+      ],
+      "uncertainty": [
+        "Smaller source explanation after དབང་པོའི remains untranscribed and is not merged into the main reading."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-031",
+      "status": "closed",
+      "finding": "Native image502 line6left visibly reads མྱ་ངན་འདས. Replace only the supplied nasal ending ངང with printed ངན; neighboring formula repetition is not the evidence.",
+      "evidence_ids": [
+        "CH06-BASE-E502"
+      ],
+      "uncertainty": [
+        "Smaller source explanation between the main incipit and མྱ་ངན་འདས remains untranscribed across the line5/6 boundary."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-032",
+      "status": "closed",
+      "finding": "All supplied words remain in the selected reading. Native image505 shows གཡས་པ་རོ་མ before ཀུན་རྫོབ; compact letter shapes do not securely establish a smaller annotation. Do not remove wording from grammatical or metrical expectation. Native image505 line4 visibly ends with the single glyph ཆ, rather than supplied ཅ. Correct only that letter. An initial impression of ཅན was withdrawn after comparing the actual single glyph; no suffix is supplied. Retain the exact large main sequence དོན་དམ་ཆོས་སྐུའི་རང་བཞིན་ཅན on native image505 line6; no unsupported alteration is needed. Retain the exact large main sequence སྟོང་གསལ་ཐིག་ལེ་གཅིག་ཏུ་གནས on native image505 line6. Smaller intervening explanation is not merged into the supplied main sequence.",
+      "evidence_ids": [
+        "CH06-BASE-E505"
+      ],
+      "uncertainty": [
+        "The layer status of པ་རོ་མ is not securely distinguished from main text by this inspection; the exact supplied phrase remains selected without separation.",
+        "A further smaller source explanation follows the line4 continuation ལེ་སྟེ; its wording and exact attachment remain untranscribed.",
+        "Smaller source explanation after དོན་དམ remains untranscribed and is not included in the main sequence.",
+        "Smaller source explanation after སྟོང་གསལ remains untranscribed and is not included in the main sequence."
+      ]
+    },
+    {
+      "id": "MTP-TRIAGE-033",
+      "status": "closed",
+      "finding": "Native image509 line1 shows རྒྱུད, including a visible zhabs kyu under the initial stack, rather than supplied རྒྱད. Add only the printed vowel sign; do not choose a term from meaning.",
+      "evidence_ids": [
+        "CH06-BASE-E509"
+      ],
+      "uncertainty": [
+        "Smaller source wording following the main རྟ་ཕོ་ལ remains untranscribed; its exact attachment is not certified."
+      ]
+    }
+  ],
+  "review_limits": "Authoring inspection; proposed corrections require separate second-agent confirmation before signoff. Layer uncertainty does not authorize removing the supplied phrase.",
+  "temporary_locator_coordinates": {
+    "00502.png": [
+      [
+        2570,
+        450,
+        3540,
+        565
+      ],
+      [
+        480,
+        548,
+        1110,
+        655
+      ]
+    ],
+    "00505.png": [
+      [
+        2880,
+        290,
+        3540,
+        422
+      ],
+      [
+        500,
+        385,
+        1450,
+        510
+      ],
+      [
+        1440,
+        385,
+        2040,
+        510
+      ],
+      [
+        460,
+        555,
+        3540,
+        670
+      ]
+    ],
+    "00509.png": [
+      [
+        2630,
+        85,
+        3550,
+        210
+      ],
+      [
+        590,
+        285,
+        2850,
+        390
+      ]
+    ]
+  },
+  "locator_note": "Temporary exact-pixel crops only; originals preserved as canonical evidence. No OCR or enhancement."
+}
