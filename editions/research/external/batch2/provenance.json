@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cinii-spiti",
+    "url": "https://ci.nii.ac.jp/ncid/BA04015320",
+    "path": "editions/research/external/batch2/cinii-spiti.html",
+    "sha256": "d5a3f5147eb6ebbf01e127a9cc4ea531c3139bb6c0637a120aef1384d3d28e9d",
+    "bytes": 53250,
+    "accessed": "2026-10-02",
+    "status": 200
+  },
+  {
+    "id": "jtl-69",
+    "url": "https://journaloftibetanliterature.org/index.php/jtl/article/view/69",
+    "error": "Remote end closed connection without response",
+    "accessed": "2026-10-02"
+  },
+  {
+    "id": "bl-gangtey-a",
+    "url": "https://searcharchives.bl.uk/catalog/037-003384930",
+    "path": "editions/research/external/batch2/bl-gangtey-a.html",
+    "sha256": "1050ff1bccf814b7093af30f2df12a1921ee7cb99a0480163e80c8f79569f760",
+    "bytes": 44291,
+    "accessed": "2026-10-02",
+    "status": 200
+  },
+  {
+    "id": "bl-gangtey-b",
+    "url": "https://searcharchives.bl.uk/catalog/037-003384977",
+    "path": "editions/research/external/batch2/bl-gangtey-b.html",
+    "sha256": "d2641945f3eb5623aa7b695c6f27b5c842608b98a5b99c66672ac917ad51730e",
+    "bytes": 44291,
+    "accessed": "2026-10-02",
+    "status": 200
+  },
+  {
+    "id": "bl-tshamdrak",
+    "url": "https://searcharchives.bl.uk/catalog/036-002360807",
+    "path": "editions/research/external/batch2/bl-tshamdrak.html",
+    "sha256": "6547b34dae63dca53c0ae491a2ba7a9aff8499d69b43f1db1fae2a09970b6b60",
+    "bytes": 46895,
+    "accessed": "2026-10-02",
+    "status": 200
+  },
+  {
+    "id": "bl-phyag-len",
+    "url": "https://searcharchives.bl.uk/catalog/040-003385189",
+    "path": "editions/research/external/batch2/bl-phyag-len.html",
+    "sha256": "1b49cff357201a31013b88c66afe17f67817cf3a9bbbd3569b599f536d2fc030",
+    "bytes": 41936,
+    "accessed": "2026-10-02",
+    "status": 200
+  },
+  {
+    "id": "handlist-Gcd",
+    "url": "https://www.rkts.org/handlist.php?id=Gcd3",
+    "path": "editions/research/external/batch2/handlist-Gcd.html",
+    "sha256": "63103fe1e9f205cb5d00e1fb7b0149e10428fab842b4cba51884d4faca38618c",
+    "bytes": 9860,
+    "accessed": "2026-10-02",
+    "status": 200
+  },
+  {
+    "id": "handlist-Ggm",
+    "url": "https://www.rkts.org/handlist.php?id=Ggm3",
+    "path": "editions/research/external/batch2/handlist-Ggm.html",
+    "sha256": "596e01c906f3ade3c06c493658d7d0e36a63276639f48073acaffb01958501f6",
+    "bytes": 307455,
+    "accessed": "2026-10-02",
+    "status": 200
+  },
+  {
+    "id": "handlist-Gsg",
+    "url": "https://www.rkts.org/handlist.php?id=Gsg3",
+    "path": "editions/research/external/batch2/handlist-Gsg.html",
+    "sha256": "99e965682ee2a4e9b43f11e7dd5818484f34f16fccdb1951164f633f4d1056f7",
+    "bytes": 123256,
+    "accessed": "2026-10-02",
+    "status": 200
+  },
+  {
+    "id": "handlist-Gkk",
+    "url": "https://www.rkts.org/handlist.php?id=Gkk3",
+    "path": "editions/research/external/batch2/handlist-Gkk.html",
+    "sha256": "c0bcce07cf375b5ef51757bd718a8a2657dae36982f2ba24e8a5abdbdee71e9c",
+    "bytes": 18645,
+    "accessed": "2026-10-02",
+    "status": 200
+  },
+  {
+    "id": "jtl-69-retry",
+    "url": "https://journaloftibetanliterature.org/index.php/jtl/article/view/69",
+    "path": "editions/research/external/batch2/jtl-69.html",
+    "sha256": "0cd4b3f9188bcd07b4cefa83a28ea302c97c0d135216cd97cf22ab48879adc6f",
+    "bytes": 55989,
+    "accessed": "2026-10-02",
+    "status": 200
+  }
+]

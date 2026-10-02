@@ -1,0 +1,155 @@
+{ 
+  "http://purl.bdrc.io/resource/TT295BD6B7A2286F3E" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/BibliographicalTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum/ （sde dge par ma/）" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW21939" : { 
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "sde dge rgyud 'bum/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "*sde dge par khang chen mo/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "*sde dge/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuCan"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Relief_WoodBlock"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IE21939"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W21939"
+    }
+     ] ,
+    "http://id.loc.gov/ontologies/bibframe/identifiedBy" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDB8B79522ADA53268"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "26 v."
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasSourcePrintery" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/G1657"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/note" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/NTEB4A9C8FBE46FDE1"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum/ （sde dge par ma/）" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EV96FD0AE303764603"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/binding" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/Binding_LooseLeaf_Pecha"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT295BD6B7A2286F3E"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I6321::63210003.jpg"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་འབུམ་འདི་ནི་གཏེར་སྟོན་ཉི་གྲགས་ཀྱི་སྤྲུལ་སྐུ་པདྨ་ཐེག་མཆོག་བསྟན་པའི་རྒྱལ་མཚན་ (1712\u20131771; bdr: P692) གྱིས་ཡོ་ག་གསུམ་གྱི་རྒྱུད་སྡེའི་དཔེ་རྒྱུན་ཉག་ཕྲ་བ་ལྟར་གྱུར་པ་འདི་ཉིད་སླར་ཡང་མ་ཉམས་ཡུན་དུ་གནས་པའི་ཕྱིར་སྡེ་དགེའི་བཙུན་མོ་ཚེ་དབང་ལྷ་མོ་ (d. 1812; bdr: P10MS14671) ལ་ཞུ་རྟེན་བཅས་བསྐུལ་མ་ཞུས་པ་ལྟར་སྦྱིན་བདག་གནང་བར་ཞལ་གྱིས་བཞེས་ཏེ། ཤིང་ཕོ་སྟག་གི་ལོ་ (1794) ནས་ཐོག་མར་ཡི་གེ་འབྲི་བ་སོགས་དབུ་བཙུགས་ཏེ། རྒྱུད་ཀྱི་རིམ་པ་ནི་ལྔ་པ་ཆེན་པོའི་གསན་ཡིག་ལྟར་གཞིར་བྱས་ཏེ། རྫོགས་ཆེན། ཀཿཐོག སྟག་བུ་བྲག་དམར། དཔལ་སྤུངས་དགོན་དུ་བཞུགས་པ་དག་དང་། རིག་འཛིན་འཇིགས་མེད་གླིང་པ། གོ་འཇོ་ཇས་སང་བསོད་ལུས། ཏཱ་ལའི་ཧུ་ཐོག་ངག་དབང་བཤད་སྒྲུབ་རྒྱ་མཚོའི་རྒྱུད་འབུམ་རྣམས་ཕྱི་མོར་བཟུང་སྟེ། ཞུ་ཆེན་པ་པདྨ་རྣམ་དག་གཙོས་ཞུ་དག་པ་རྣམ་པས་མི་བཅོས་སུ་མི་རུང་བ་འགའ་ཞིག་ལེགས་པར་བཅོས་ཤིང་ཞུས་དག་དངོས་གཞི་ཤིང་ཡོས་ (1795) ཀྱི་ལོར་དབུ་བཙུགས་ཏེ། ཡིག་མཁན་རང་གིས་ཞུ་དག་ལན་གཉིས་དང་། ཞུ་དག་པས་ལན་གཉིས་གནང་སྟེ་ས་ཕོ་རྟའི་ (1798) ལོར་ལེགས་པར་གྲུབ། རྒྱུད་ཀྱི་གོ་རིམ་ནི། པོད་ཀ་ནས་ཆ་བར་རྫོགས་པ་ཆེན་པོ་ཨ་ཏི་ཡོ་གའི་སྐོར། དེ་ལའང་ཡང་ཏི། སྤྱི་ཏི། མན་ངག་སྡེ། ཀློང་སྡེ། སེམས་སྡེའི་སྐོར་སོ་སོར་བཞུགས། པོད་ཇ་དང་ཉ་གཉིས་སུ་རྫོགས་པ་ཨ་ནུ་ཡོ་གའི་སྐོར། དེ་ལའང་རྩ་བའི་མདོ་བཞི། མཐའ་དྲུག་གསལ་བར་བྱེད་པའི་རྒྱུད་དྲུག དཀོན་རྒྱུད་བཅུ་གཉིས་རྣམས་བཞུགས། པོད་ཏ་ནས་ཡ་བར་བསྐྱེད་པ་མ་ཧཱ་ཡོ་གའི་སྐོར། དེ་ལའང་རྩ་བར་གྱུར་པ་སྒྱུ་འཕྲུལ། བཤད་པ་དང་ཆ་མཐུན་གྱི་རྒྱུད་ཏནྟྲ་སྡེ་བཅོ་བརྒྱད། སྒྲུབ་སྡེ་བཀའ་བརྒྱད་སྐོར་རྣམས་བཞུགས། པོད་ར་པའི་ནང་སྔར་མ་རྙེད་པའི་རྒྱུད་ཕྱིས་སུ་རྙེད་དེ་ཁ་སྐོང་དུ་བཀོད་པ་རྣམས་བཞུགས། པོད་ཐ་མ་ཨ་པའི་ནང་དགེ་རྩེ་པཎྜི་ཏ་འགྱུར་མེད་ཚེ་དབང་མཆོག་གྲུབ་ (1761\u20131829; bdr: P2943) ཀྱིས་མཛད་པའི་རྒྱུད་འབུམ་དཀར་ཆག་བཅས་ཡོངས་བསྡོམས་པོད་ཉི་ཤུ་རྩ་དྲུག་ཡོད། རྒྱུད་འབུམ་འདི་ནི་གཙོ་བོ་བོད་དབུས་དང་ཤར་ཕྱོགས་སུ་དར་བའོ། །ཞེ་ཆེན་ཞིབ་འཇུག་སྡེ་ཚན་གྱི་ཉམས་ཞིབ་པ་སློབ་དཔོན་རུཔ་ཙནྡྲ་ནས།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "26" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/EV96FD0AE303764603" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/NTEB4A9C8FBE46FDE1" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Note"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/noteText" : [ { 
+      "type" : "literal" ,
+      "value" : "-6346. Please note that the original is very poor quality and there are several missing pages." ,
+      "lang" : "en"
+    }
+     ]
+  }
+}

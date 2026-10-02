@@ -1,0 +1,183 @@
+{ 
+  "http://purl.bdrc.io/resource/TT81C2D6DEA32110C0" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/OtherTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "sangs rgyas gling manuscript of the rnying ma'i rgyud 'bum" ,
+      "lang" : "en"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/NTB25CC23F467C0246" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Note"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/noteText" : [ { 
+      "type" : "literal" ,
+      "value" : "Many folios are badly damaged.\nSome worming damaged throughout the volumes, with little impact on legibility.\nThere are many duplicate pagination, paginated with gong ma and 'og ma, as well as many folio has two page numbers on a single page." ,
+      "lang" : "en"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW1KG16449" : { 
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "sangs rgyas gling manuscript of the rnying ma'i rgyud 'bum" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuCan"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Manuscript"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W1KG16449"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "46 v. (vol. 11, 12, 41 are missing)"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/illustrations" : [ { 
+      "type" : "literal" ,
+      "value" : "folios 1 and 2 gold ink on black paper, some rubrication of incipits"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/note" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/NTB25CC23F467C0246"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/NT529179268656E4CA"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum/ (sangs rgyas gling dgon pa'i bris ma/)" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EV52653F92478BC80D"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/authorshipStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "mtshams brag rnying ma rgyud 'bum ni/ dpal sgang steng dgon pa'i sprul sku stan 'dzin legs pa'i don grub kyi zhal slob mtshams brag sprul sku ngag dbang grub pas rab byung bcu gcig pa'i zin gnon me rta'i hor zla dang po'i rgyal ba gsum par dbu btsugs/ rab byung bcu gnyis pa sa sprel spyil lo 1728 lor rgyud rgyal legs par grub pa ste / mi lo du ma'i ring bzhengs par grags/ pusti 46 dang / chos tshan 904/ ldeb 40399 bzhugs/ ldeb 'bring bris ma/ dbu ldeb gser bris ma yin/ bris gzugs sogs spus ka shin tu legs/ dkar chag mi bzhugs/ sde dge'i rnying rgyud la mtshon na/ dang po gnyis med kyi rgyud sde a ti yo ga'i skor/ de la'ang nang gses kyi yang ti'i skor dang / spyi ti'i skor/ man ngag gi sde'i skor/ klong sde'i skor/ sems sde'i skor/ gnyis pa ma rgyud a nu yo ga'i skor/ de la'ang nang gses kyi rtsa ba'i mdo bzhi'i skor dang / mtha' drug gi rgyud kyi skor/ gsum pa pha rgyud ma hA yo ga'i skor/ de la'ang nang gses kyi sgyu 'phrul gyi skor dang / tan+t+ra sde bco brgyad kyi skor/ sgrub pa bka' brgyad kyi skor bcas kyi rab dbye gnang yod/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT81C2D6DEA32110C0"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTC023A76700D8FFD1"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I1KG16485::I1KG164850003.jpg"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "the manuscripts are preserved at sangs rgyas gling dgon pa, tawang, arunachal pradesh; date of photography: 8th april 2013" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "46" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/NT529179268656E4CA" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Note"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/noteText" : [ { 
+      "type" : "literal" ,
+      "value" : "List of missing folio and volume: \nv. 2. folio no. 178;\nv. 6. folios no. 304, 317;\nv. 7. folio no. 134;\nv. 8. folios no. 1-123;\nv. 10. folio no. 7;\nv. 11. missing whole volume;\nv. 12. missing whole volume;\nv. 18. folio no. 2;\nv. 20. incomplete at the end;\nv. 21. incomplete, missing folios from the beginning and the end;\nv. 23. incomplete, missing folios from the beginning and the end;\nv. 27. folio no. 435;\nv. 28. folios no. 183, 184, 197-250 (approximate);\nv. 30. incomplete and damaged;\nv. 31. incomplete and folios no. 110-129 are missing;\nv. 34. incomplete and damaged;\nv. 35. folios no. 41, 135, 145, 149, 158, 188, 191, 202, 215b-218b, 258,  260, 262, 269;\nv. 36. incomplete at the end;\nv. 41. missing whole volume;\nv. 45 incomplete at the end" ,
+      "lang" : "en"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTC023A76700D8FFD1" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/OtherTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum/ (bris ma/)" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/EV52653F92478BC80D" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/onYear" : [ { 
+      "type" : "literal" ,
+      "value" : "1728" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "1728" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ]
+  }
+}

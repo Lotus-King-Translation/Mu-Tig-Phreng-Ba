@@ -51,7 +51,7 @@ def acquire(spec,samples=False):
     out=ROOT/'editions/scans'/ed;out.mkdir(parents=True,exist_ok=True)
     folder=out/'boundary' if samples else ROOT/'.cache/acquisition'/ed
     folder.mkdir(parents=True,exist_ok=True)
-    chosen=sorted(n for n in ({a-1,a,a+1,b,b+1} if samples else range(a,b+1)) if n in cs)
+    chosen=sorted(n for n in ({a-1,a,a+1,b-1,b,b+1} if samples else range(a,b+1)) if n in cs)
     if not chosen:raise ValueError('No available canvases')
     jobs=[(ed,n,cs[n],folder) for n in chosen];records=[]
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:

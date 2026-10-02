@@ -1,0 +1,174 @@
+{ 
+  "http://purl.bdrc.io/resource/EVFEE673324708D126" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "17" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT7647732E8F1428C8" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/OtherTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum/ (dbu can bris ma/ )" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW2PD19896" : { 
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum dbu can bris ma/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "kaH thog dgon pa/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "kaH thog" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuCan"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Manuscript"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W2PD19896"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "33 v. (missing vol. ga and ta)"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/illustrations" : [ { 
+      "type" : "literal" ,
+      "value" : "ill."
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum/ (kaHthog rig 'dzin tshe dbang nor bu/)" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EVFEE673324708D126"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/creator" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CRFD9A74EE73EE0BA3"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT7647732E8F1428C8"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT05B713DD31983F61"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I2PD20015::I2PD200150003.jpg"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་འབུམ་འདི་ནི་ཀཿཐོག་རིག་འཛིན་ཚེ་དབང་ནོར་བུའི་ (1698\u20131755; bdr: P676) དགོངས་རྫོགས་སུ་ 18th cent. སྨད་ཙམ་དུ་བཞེངས་པ་དབུ་ཅན་བྲིས་མ་པོད་ཀ་ནས་ཨ་དང་ཨོཾ་ཨཱཿཧཱུྃ་བཅས་པོད་གྲངས་ 33 ཅན་ཡིན། དེའི་ཡིག་ཆ་དངོས་ནི་ 1903 ལོར་བོད་དུ་ཕྱིན་པའི་ Younghusband expedition ཞེས་པའི་ཚོགས་མི་ L.A. Waddell གྱིས་1904 ལོར་རྙེད་དེ་ད་ལྟ་ཨིན་ཡུལ་གྱི་དཔེ་མཛོད་ཁང་རྣམས་སུ་བཞུགས་ཡོད། འདིར་པོད་ག་དང་ཏ་གཉིས་མ་ཚང་བས་པོད་སོ་གཅིག་ཁ་ནར་མཇལ་རྒྱུ་ཡོད། དེ་ཡང་པོད་ཐ་མ་ཧཱུྃ་མ་གཏོགས་པོད་གཞན་རྣམས་ཀློག་བདེ་ཡང་པོད་ཐ་མའི་ཤོག་ལྷེ་འགའ་ཞིག་ཟུབ་པས་ཡི་གེ་འགའ་ཞིག་ཀློག་དཀའ་བར་འབྱུང་། རྒྱུད་ཀྱི་རིམ་པ་ནི་གཏིང་སྐྱེས་དགོན་པའི་རྙིང་མ་རྒྱུད་འབུམ་ (bdr: W21518) དང་མཚུངས་པར་འབྱུང་ཡང་། པོད་གཅིག་གི་ནང་ཆོས་ཚན་བཞག་ཚུལ་དང་། གཏིང་སྐྱེས་རྒྱུད་འབུམ་ནང་ཡོད་པའི་ཆོས་ཚན་འགའ་ཞིག་དེར་མེད་པའི་ཁྱད་པར་བཞུགས།  རྒྱུད་འབུམ་དེའི་སྐོར་ Orna Almogi 2016 ནང་གཟིགས་རོགས། ཞེ་ཆེན་ཞིབ་འཇུག་སྡེ་ཚན་གྱི་ཉམས་ཞིབ་པ་སློབ་དཔོན་རཱུཔ་ཙནྡྲ་ནས།" ,
+      "lang" : "bo"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "The Rig 'dzin Tshe dbang nor bu edition of the rNying ma'i rgyud 'bum is a beautifully illustrated set of manuscripts, originally in thirty-three volumes, thirty volumes of which survive. It represents an important collection of Tibetan Buddhist tantric scriptures, once with many witnesses, but now with only a handful of extant editions. Of all the surviving editions, the Rig 'dzin Tshe dbang nor bu edition is the most lavishly produced, manufactured from good materials, finely decorated, and illustrated with many high quality hand-painted miniatures. The collection was procured in Tibet during the Younghusband expedition in 1904 by L.A. Waddell, who identified it as the most splendid and significant of all the great number of literary artifacts he procured during that expedition. Twenty-nine of the volumes are now located at the British Library, London, while one volume is to be found at Oxford University's Bodleian Library, and two illuminated title folios at the Victoria and Albert Museum, London.\u201D \u2014 Robert Mayer and Cathy Cantwell (1999-2003)" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "31" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT05B713DD31983F61" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/OtherTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "kaH thog rig 'dzin tshe dbang nor bus bzhengs pa'i rnying ma rgyud 'bum/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/CRFD9A74EE73EE0BA3" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/AgentAsCreator"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/role" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/R0ER0015"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/agent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/P676"
+    }
+     ]
+  }
+}

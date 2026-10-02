@@ -1,0 +1,139 @@
+{ 
+  "http://purl.bdrc.io/resource/EV64811F429BDEE25B" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "2016" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/onYear" : [ { 
+      "type" : "literal" ,
+      "value" : "2016" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW3CN7084" : { 
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་བཅུ་བདུན། བཅུ་བདུན་རྒྱུད། གསང་ཆེན་ངེས་པའི་རྒྱུད་བཅུ་བདུན། ཡང་གསང་སྙིང་ཐིག་གི་རྒྱུད་བཅུ་བདུན། མངོན་སུམ་སྙིང་ཐིག་གི་རྒྱུད་བཅུ་བདུན། མན་ངག་ཡང་གསང་བླ་མེད་ཀྱི་རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/contentMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ContentMethod_ComputerInput"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "si khron mi rigs dpe skrun khang /" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "khren tu'u/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuCan"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Modern"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W3CN7084"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "2 v."
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན། (སི་ཁྲོན་དེང་རབས་འཕྲུལ་པར།)" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EV64811F429BDEE25B"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/binding" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/Binding_Codex_Perfect"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT3D2218C24CE9DD7F"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I3CN8461::I3CN84610003.tif"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "༈ རྫོགས་པ་ཆེན་པོ་མན་ངག་ཡང་གསང་བླ་མེད་ཀྱི་«བཅུ་བདུན་རྒྱུད་»འདི་ནི་སི་ཁྲོན་བོད་ཡིག་དཔེ་རྙིང་བསྡུ་སྒྲིག་ཁང་གིས་དེང་རབས་འཕྲུལ་པར་གྱི་ལམ་ནས་པར་སྐྲུན་ཞུས་པ་ཞིག་ཡིན། དེ་ཡང་ཐོག་མར་༼༡༽«ཆུ་བོ་ལྟ་བུ་སྐུ་ཐམས་ཅད་ཀྱི་སྣང་བ་སྟོན་པ་དབང་རྫོགས་པ་རང་བྱུང་ཆེན་པོའི་རྒྱུད་»ནས་བཟུང་། ༼༢༽«ཡི་གེ་མེད་པའི་རྒྱུད་ཆེན་པོ་ཞེས་བྱ་བ་རིན་པོ་ཆེ་རྒྱལ་མཚན་གྱི་རྒྱུད་»དང་། ༼༣༽«རྒྱ་མཚོ་ལྟ་བུ་རིག་པ་རང་ཤར་ཆེན་པོའི་རྒྱུད་»དང་། ༼༤༽«སྦྲུལ་མདུད་ལྟ་བུ་རིག་པ་རང་གྲོལ་ཆེན་པོ་ཐམས་ཅད་རྒྱལ་པོ་ལྟ་བུ་འགྲོལ་བའི་རྒྱུད་»དང་། ༼༥༽«བང་མཛོད་ལྟ་བུ་རིན་ཆེན་སྤུངས་པ་ཡོན་ཏན་ཆེན་པོ་སྟོན་པའི་རྒྱུད་»དང་། ༼༦༽«དཔལ་ནམ་མཁའ་མེད་པའི་སྐུ་གདུང་འབར་བ་ཆེན་པོའི་རྒྱུད་»དང་། ༼༧༽«ལྡེ་མིག་ལྟ་བུ་རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོའི་རྒྱུད་»དང་། ༼༨༽«རི་རྒྱལ་ལྟ་བུ་བཀྲ་ཤིས་མཛེས་ལྡན་ཆེན་པོ་དཔལ་ནམ་མཁའ་མེད་པ་ཆེན་པོའི་རྒྱུད་»དང་། ༼༩༽«ཉི་མ་ལྟ་བུ་རྡོ་རྗེ་སེམས་དཔའ་སྙིང་གི་མེ་ལོང་གི་རྒྱུད་»དང་། ༼༡༠༽«རལ་གྲི་ལྟ་བུ་ཀུན་ཏུ་བཟང་པོ་ཐུགས་ཀྱི་མེ་ལོང་གི་རྒྱུད་»དང་། ༼༡༡༽«མེ་ལོང་ལྟ་བུ་ངོ་སྤྲོད་རིན་པོ་ཆེ་སྤྲས་པའི་ཞིང་ཁམས་བསྟན་པའི་རྒྱུད་»དང་། ༼༡༢༽«མུ་ཏིག་བསྟར་ལ་བརྒྱུས་པ་ལྟ་བུ་མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་»དང་། ༼༡༣༽«ཁྱུང་ཆེན་ལྟ་བུ་ཀུན་ཏུ་བཟང་པོ་ཀློང་ཡངས་དྲུག་པའི་རྒྱུད་»དང་། ༼༡༤༽«གསལ་ཤིང་ལྟ་བུ་གསེར་གྱི་མེ་ཏོག་མཛེས་པ་རིན་པོ་ཆེ་སྒྲོན་མ་འབར་བའི་རྒྱུད་»དང་། ༼༡༥༽«མ་བུ་འབྲེལ་བ་ལྟ་བུ་ཉི་མ་དང་ཟླ་བ་ཁ་སྦྱོར་བ་ཆེན་པོ་གསང་བའི་རྒྱུད་»དང་། ༼༡༦༽«སེང་གེ་ལྟ་བུ་སེང་གེ་རྩལ་རྫོགས་ཀྱི་རྒྱུད་»དང་། ༼༡༧༽«གསེར་ཞུན་ལྟ་བུ་ནོར་བུ་ཕྲ་བཀོད་རང་གི་དོན་ཐམས་ཅད་གསལ་བར་བྱེད་པའི་རྒྱུད་»དང་བཅས་བཅུ་བདུན་གོ་རིམ་སྟར་ཆགས་སུ་བསྒྲིགས་ཏེ་དེབ་གཟུགས་གཉིས་ཀྱི་ངོ་བོར་པར་སྐྲུན་མཛད་འདུག\nདེ་ལྟ་བུའི་ཟབ་ཆོས་ཁྱད་དུ་འཕགས་པ་སྲིད་ན་རྙེད་པར་དཀའ་བ་«རྫོགས་པ་ཆེན་པོའི་རྒྱུད་ཆེན་བཅུ་བདུན་»འདི་ནི། ད་བཞུགས་༸སྐྱབས་རྗེ་གཟན་དཀར་སྐུ་ཕྲེང་གསུམ་པ་ཐུབ་བསྟན་ཉི་མ་ (P2362) མཆོག་གི་ཐུགས་འདུན་ལྟར་འཕྲུལ་སྟེང་དགོན་གྱི་མཆོག་སྤྲུལ་རྡོ་རྗེ་བཀྲ་ཤིས་ལགས་ཀྱི་འགྲོ་གྲོན་མཐུན་འགྱུར་བཟང་པོའི་འོག་ཚར་གྲངས་ཉིས་སྟོང་ཐམ་པ་འགྲེམས་སྤེལ་ཞུས་ཡོད་པར་བཤད།\nསྔ་འགྱུར་རྙིང་མའི་ཞིབ་འཇུག་ལྟེ་གནས་ཁང་ (NNRC) གི་ཞིབ་འཇུག་པ་མཁན་པོ་དཀོན་མཆོག་བསྟན་འཛིན་ནས།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA1KG892"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightClaimed"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "2" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT3D2218C24CE9DD7F" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/TitlePageTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "rdzogs chen rgyud bcu bdun/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+}

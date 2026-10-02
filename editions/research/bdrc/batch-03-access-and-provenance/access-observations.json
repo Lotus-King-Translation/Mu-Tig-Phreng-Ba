@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-02",
+  "note": "HTTP 200 proves manifest access only, not full image access. Preview-only manifests identified by extent. No access control bypass attempted. Standard manifests are also preserved by coordinating agent in editions/metadata.",
+  "observations": [
+    {
+      "id": "I1KG11712",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I1KG11712/manifest",
+      "status": 200,
+      "bytes": 550253,
+      "canvas_count": 580,
+      "first": [
+        "https://iiifpres.bdrc.io/v:bdr:I1KG11712/canvas/I1KG117120003.tif",
+        "https://iiifpres.bdrc.io/v:bdr:I1KG11712/canvas/I1KG117120004.tif"
+      ],
+      "last": [
+        "https://iiifpres.bdrc.io/v:bdr:I1KG11712/canvas/I1KG117120581.tif",
+        "https://iiifpres.bdrc.io/v:bdr:I1KG11712/canvas/I1KG117120582.tif"
+      ],
+      "license": null,
+      "attribution": [
+        {
+          "@language": "en",
+          "@value": "Buddhist Digital Resource Center"
+        },
+        {
+          "@language": "bo",
+          "@value": "\u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d"
+        },
+        {
+          "@language": "zh",
+          "@value": "\u4f5b\u6559\u6570\u5b57\u8d44\u6e90\u4e2d\u5fc3\uff08BDRC\uff09"
+        }
+      ]
+    },
+    {
+      "id": "I4448",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I4448/manifest",
+      "status": 200,
+      "bytes": 549696,
+      "canvas_count": 664,
+      "first": [
+        "https://iiifpres.bdrc.io/v:bdr:I4448/canvas/44480003.tif",
+        "https://iiifpres.bdrc.io/v:bdr:I4448/canvas/44480004.tif"
+      ],
+      "last": [
+        "https://iiifpres.bdrc.io/v:bdr:I4448/canvas/44480665.tif",
+        "https://iiifpres.bdrc.io/v:bdr:I4448/canvas/44480666.tif"
+      ],
+      "license": null,
+      "attribution": [
+        {
+          "@language": "en",
+          "@value": "Buddhist Digital Resource Center"
+        },
+        {
+          "@language": "bo",
+          "@value": "\u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d"
+        },
+        {
+          "@language": "zh",
+          "@value": "\u4f5b\u6559\u6570\u5b57\u8d44\u6e90\u4e2d\u5fc3\uff08BDRC\uff09"
+        }
+      ]
+    },
+    {
+      "id": "I1ER795",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I1ER795/manifest",
+      "status": 200,
+      "bytes": 208479,
+      "canvas_count": 232,
+      "first": [
+        "https://iiifpres.bdrc.io/v:bdr:I1ER795/canvas/I1ER7950002.jpg",
+        "https://iiifpres.bdrc.io/v:bdr:I1ER795/canvas/I1ER7950003.jpg"
+      ],
+      "last": [
+        "https://iiifpres.bdrc.io/v:bdr:I1ER795/canvas/I1ER7950248.jpg",
+        "https://iiifpres.bdrc.io/v:bdr:I1ER795/canvas/I1ER7950249.jpg"
+      ],
+      "license": null,
+      "attribution": [
+        {
+          "@language": "en",
+          "@value": "Buddhist Digital Resource Center"
+        },
+        {
+          "@language": "bo",
+          "@value": "\u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d"
+        },
+        {
+          "@language": "zh",
+          "@value": "\u4f5b\u6559\u6570\u5b57\u8d44\u6e90\u4e2d\u5fc3\uff08BDRC\uff09"
+        }
+      ]
+    },
+    {
+      "id": "I3PD1346",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I3PD1346/manifest",
+      "status": 200,
+      "bytes": 389457,
+      "canvas_count": 470,
+      "first": [
+        "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460003.jpg",
+        "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460004.jpg"
+      ],
+      "last": [
+        "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460471.jpg",
+        "https://iiifpres.bdrc.io/v:bdr:I3PD1346/canvas/I3PD13460472.jpg"
+      ],
+      "license": null,
+      "attribution": [
+        {
+          "@language": "en",
+          "@value": "Buddhist Digital Resource Center"
+        },
+        {
+          "@language": "bo",
+          "@value": "\u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d"
+        },
+        {
+          "@language": "zh",
+          "@value": "\u4f5b\u6559\u6570\u5b57\u8d44\u6e90\u4e2d\u5fc3\uff08BDRC\uff09"
+        }
+      ]
+    },
+    {
+      "id": "I1764",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I1764/manifest",
+      "status": 200,
+      "bytes": 592762,
+      "canvas_count": 652,
+      "first": [
+        "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640003.TIF",
+        "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640004.TIF"
+      ],
+      "last": [
+        "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640653.TIF",
+        "https://iiifpres.bdrc.io/v:bdr:I1764/canvas/17640654.TIF"
+      ],
+      "license": null,
+      "attribution": [
+        {
+          "@language": "en",
+          "@value": "Buddhist Digital Resource Center"
+        },
+        {
+          "@language": "bo",
+          "@value": "\u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d"
+        },
+        {
+          "@language": "zh",
+          "@value": "\u4f5b\u6559\u6570\u5b57\u8d44\u6e90\u4e2d\u5fc3\uff08BDRC\uff09"
+        }
+      ]
+    },
+    {
+      "id": "I0615",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I0615/manifest",
+      "status": 200,
+      "bytes": 706279,
+      "canvas_count": 777,
+      "first": [
+        "https://iiifpres.bdrc.io/v:bdr:I0615/canvas/06150003.tif",
+        "https://iiifpres.bdrc.io/v:bdr:I0615/canvas/06150004.tif"
+      ],
+      "last": [
+        "https://iiifpres.bdrc.io/v:bdr:I0615/canvas/06150778.tif",
+        "https://iiifpres.bdrc.io/v:bdr:I0615/canvas/06150779.tif"
+      ],
+      "license": null,
+      "attribution": [
+        {
+          "@language": "en",
+          "@value": "Buddhist Digital Resource Center"
+        },
+        {
+          "@language": "bo",
+          "@value": "\u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d"
+        },
+        {
+          "@language": "zh",
+          "@value": "\u4f5b\u6559\u6570\u5b57\u8d44\u6e90\u4e2d\u5fc3\uff08BDRC\uff09"
+        }
+      ]
+    },
+    {
+      "id": "I1KG81310",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I1KG81310/manifest",
+      "status": 200,
+      "bytes": 389753,
+      "canvas_count": 427,
+      "first": [
+        "https://iiifpres.bdrc.io/v:bdr:I1KG81310/canvas/I1KG813100003.jpg",
+        "https://iiifpres.bdrc.io/v:bdr:I1KG81310/canvas/I1KG813100004.jpg"
+      ],
+      "last": [
+        "https://iiifpres.bdrc.io/v:bdr:I1KG81310/canvas/I1KG813100427.jpg",
+        "https://iiifpres.bdrc.io/v:bdr:I1KG81310/canvas/I1KG813100428.jpg"
+      ],
+      "license": null,
+      "attribution": [
+        {
+          "@language": "en",
+          "@value": "Buddhist Digital Resource Center"
+        },
+        {
+          "@language": "bo",
+          "@value": "\u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d"
+        },
+        {
+          "@language": "zh",
+          "@value": "\u4f5b\u6559\u6570\u5b57\u8d44\u6e90\u4e2d\u5fc3\uff08BDRC\uff09"
+        }
+      ]
+    },
+    {
+      "id": "I1ER907",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I1ER907/manifest",
+      "status": 200,
+      "bytes": 1512501,
+      "canvas_count": 1692,
+      "first": [
+        "https://iiifpres.bdrc.io/v:bdr:I1BL887/canvas/I1BL8870007.jpg",
+        "https://iiifpres.bdrc.io/v:bdr:I1BL887/canvas/I1BL8870009.jpg"
+      ],
+      "last": [
+        "https://iiifpres.bdrc.io/v:bdr:I1BL909/canvas/I1BL9090894.jpg",
+        "https://iiifpres.bdrc.io/v:bdr:I1BL909/canvas/I1BL9090895.jpg"
+      ],
+      "license": null,
+      "attribution": [
+        {
+          "@language": "en",
+          "@value": "Buddhist Digital Resource Center"
+        },
+        {
+          "@language": "bo",
+          "@value": "\u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d"
+        },
+        {
+          "@language": "zh",
+          "@value": "\u4f5b\u6559\u6570\u5b57\u8d44\u6e90\u4e2d\u5fc3\uff08BDRC\uff09"
+        }
+      ]
+    },
+    {
+      "id": "I3CN3237",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I3CN3237/manifest",
+      "status": 200,
+      "bytes": 36401,
+      "canvas_count": 41,
+      "first": [
+        "https://iiifpres.bdrc.io/v:bdr:I3CN3237/canvas/I3CN32370003.jpg",
+        "https://iiifpres.bdrc.io/v:bdr:I3CN3237/canvas/I3CN32370004.jpg"
+      ],
+      "last": [
+        "https://iiifpres.bdrc.io/v:bdr:I3CN3237/canvas/I3CN32370895.tif",
+        "https://iiifpres.bdrc.io/v:bdr:I3CN3237/canvas/I3CN32370896.tif"
+      ],
+      "license": null,
+      "attribution": [
+        {
+          "@language": "en",
+          "@value": "Buddhist Digital Resource Center"
+        },
+        {
+          "@language": "bo",
+          "@value": "\u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d"
+        },
+        {
+          "@language": "zh",
+          "@value": "\u4f5b\u6559\u6570\u5b57\u8d44\u6e90\u4e2d\u5fc3\uff08BDRC\uff09"
+        }
+      ]
+    },
+    {
+      "id": "I2PD20022",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I2PD20022/manifest",
+      "error": "HTTP Error 401: "
+    },
+    {
+      "id": "I2PD20023",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I2PD20023/manifest",
+      "error": "HTTP Error 401: "
+    },
+    {
+      "id": "I2PD20024",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I2PD20024/manifest",
+      "error": "HTTP Error 401: "
+    },
+    {
+      "id": "I1KG895",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I1KG895/manifest",
+      "status": 200,
+      "bytes": 465364,
+      "canvas_count": 547,
+      "metadata": null,
+      "first": "https://iiifpres.bdrc.io/v:bdr:I1KG895/canvas/I1KG8950003.jpg"
+    },
+    {
+      "id": "I1KG21610",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I1KG21610/manifest",
+      "status": 200,
+      "bytes": 36829,
+      "canvas_count": 41,
+      "metadata": null,
+      "first": "https://iiifpres.bdrc.io/v:bdr:I1KG21610/canvas/I1KG216100003.jpg"
+    },
+    {
+      "id": "I3CN8461",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I3CN8461/manifest",
+      "status": 200,
+      "bytes": 36561,
+      "canvas_count": 41,
+      "metadata": null,
+      "first": "https://iiifpres.bdrc.io/v:bdr:I3CN8461/canvas/I3CN84610003.tif"
+    },
+    {
+      "id": "I3CN8462",
+      "url": "https://iiifpres.bdrc.io/il/v:bdr:I3CN8462/manifest",
+      "status": 200,
+      "bytes": 36561,
+      "canvas_count": 41,
+      "metadata": null,
+      "first": "https://iiifpres.bdrc.io/v:bdr:I3CN8462/canvas/I3CN84620003.tif"
+    }
+  ]
+}

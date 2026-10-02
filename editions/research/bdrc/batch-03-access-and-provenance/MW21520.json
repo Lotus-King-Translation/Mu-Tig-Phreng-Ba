@@ -1,0 +1,171 @@
+{ 
+  "http://purl.bdrc.io/resource/EVB8DEE98589EEBA12" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "1977" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/onYear" : [ { 
+      "type" : "literal" ,
+      "value" : "1977" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW21520" : { 
+    "http://purl.bdrc.io/ontology/core/inCollection" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PR1PL480"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་བཅུ་བདུན། བཅུ་བདུན་རྒྱུད། གསང་ཆེན་ངེས་པའི་རྒྱུད་བཅུ་བདུན། ཡང་གསང་སྙིང་ཐིག་གི་རྒྱུད་བཅུ་བདུན། མངོན་སུམ་སྙིང་ཐིག་གི་རྒྱུད་བཅུ་བདུན། མན་ངག་ཡང་གསང་བླ་མེད་ཀྱི་རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "orgyan dorji" ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "sumra, h.p." ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuMed"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Manuscript"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W21520"
+    }
+     ] ,
+    "http://id.loc.gov/ontologies/bibframe/identifiedBy" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID8E66E3E67DC2296F"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDC7B8C53BFEC8D721"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID2F1E486B6EF6D1FA"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "2 v."
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/note" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/NT1451288EB09665D1"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན། (སྤི་ཏི་དབུ་མེད་བྲིས་མ།)" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EVB8DEE98589EEBA12"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT0C73C5ECC51A2F14"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I1KG1235::I1KG12350008.TIF"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "༈ རྫོགས་པ་ཆེན་པོ་མན་ངག་ཡང་གསང་བླ་མེད་ཀྱི་«བཅུ་བདུན་རྒྱུད་»འདི་ནི་རྒྱ་གར་ཧི་མ་ཆལ྄་མངའ་སྡེའི་ཁོང་གཏོགས་སྤི་ཏིའི་གྲོང་ཁྱེར་དུ་ཆགས་པའི་གཏེར་ཆེན་པདྨ་གླིང་པ་ (1450\u20131521; BDRC: P1693) ཡི་ཆོས་བརྒྱུད་འཛིན་པའི་དགོན་རྙིང་ཨོ་རྒྱན་གསང་སྔགས་ཆོས་གླིང་ཞེས་བྱ་བར། སྔོན་གྱི་ཡིག་རྙིང་པོད་དུ་མ་ཞིག་བཞུགས་པའི་གྲས་སུ་«རྒྱུད་བཅུ་བདུན་»འདི་ཡང་ཀ་མད་ལྟར་གོ་རིམ་བསྒྲིགས་ཏེ་དབུ་མེད་བྲིས་མ་འབྲུ་ཆེན་ཚུགས་ཐུང་གི་རྣམ་པ་ཅན་དུ་བཞུགས། འོན་ཀྱང་དཔེ་རྒྱུན་ཨང་འདིར་བཞུགས་པའི་«བཅུ་བདུན་རྒྱུད་»འདི་ནི་ཆོས་ཚན་དཔེ་རྟགས་༼ཀ་༽དང་༼ཁ་༽དང་༼ག་༽དང་༼ཆ་༽དང་༼ཏ་༽དང་༼པ་༽དང་༼བ་༽བཅས་རྒྱུད་བདུན་ཁ་མི་ཚང་། དེ་ནི་༼༡༽«བཀྲ་ཤིས་མཛེས་ལྡན་གྱི་རྒྱུད་»དང་། ༼༢༽«རིག་པ་རང་ཤར་གྱི་རྒྱུད་»དང་། ༼༣༽«མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་»དང་། ༼༤༽«རིག་པ་རང་གྲོལ་གྱི་རྒྱུད་»དང་། ༼༥༽«རིན་པོ་ཆེ་སྤུངས་པའི་རྒྱུད་»དང་། ༼༦༽«ཉི་ཟླ་ཁ་སྦྱོར་གྱི་རྒྱུད་»དང་། ༼༧༽«རྫོགས་པ་རང་བྱུང་གི་རྒྱུད་»བཅས་བདུན་ཡིན། རྒྱུད་བདུན་པོ་དེ་གོང་གི་དཔེ་རྟགས་བདུན་པོ་གང་གི་ཡིན་མིན་རགས་ཙམ་དཔྱད་ཡོད་ཀྱང་ད་བཞུགས་«རྒྱུད་བཅུ་བདུན་»གྱི་དཔེ་རྒྱུན་མི་འདྲ་བ་ཁག་དང་། གསང་སྔགས་«རྙིང་མའི་རྒྱུད་འབུམ་»ཁག་ཏུ་བཞུགས་པའི་«བཅུ་བདུན་རྒྱུད་»ཀྱི་གོ་རིམ་སྒྲིག་སྟངས་དཔེ་རྒྱུན་འདི་དང་མི་མཐུན་པར་བྱུང་བས་ངོས་འཛིན་དཀའ་བར་སྣང་བ་ཙམ་མ་ཟད། དེས་དཔེ་རྒྱུན་འདི་ནི་གཞན་དང་བརྒྱུད་པ་མི་འདྲ་བའི་དམིགས་བསལ་ཐུན་མིན་གྱི་དཔེ་རྙིང་རྩ་ཆེན་ཞིག་ཏུའང་ངེས་ཐུབ། གཞན་ཡང་པོད་གཉིས་པའི་མཇུག་ཏུ་ལྷ་གཅིག་ཨོ་རྒྱན་པདྨས་མཛད་པར་མཚན་འཁོད་པའི་«གསང་སྔགས་ལམ་རིམ་»སོགས་ཆོས་ཚན་ཕྲན་བུ་རྩ་ཆེན་འགའ་ཞིག་ཀྱང་བཞུགས། གང་ལྟར་དཔེ་རྒྱུན་དེ་ནི་ཕྱིས་སུ་པད་གླིང་བརྒྱུད་འཛིན་བླ་མ་ཨོ་རྒྱན་རྡོ་རྗེ་མཆོག་གིས་བཤེར་པར་བརྒྱབ་སྟེ་དར་སྤེལ་མཛད་དུས་«རིག་པ་རང་ཤར་གྱི་རྒྱུད་»དང་«རྫོགས་པ་རང་བྱུང་གི་རྒྱུད་»སོགས་གཞུང་ཚོགས་མང་བས། གནས་སྐབས་རིང་བསམ་བཞིན་བཞག་པའམ་ཡང་ན་ཆད་ཀྱང་སྲིད་པས་དཔྱོད་ལྡན་དག་གིས་དགོན་པ་དེར་ཕེབས་ནས་ངེས་པར་བཙལ་དགོས་པ་ཞིག་ཏུ་སྣང་།\nསྔ་འགྱུར་རྙིང་མའི་ཞིབ་འཇུག་ལྟེ་གནས་ཁང་ (NNRC) གི་ཞིབ་འཇུག་པ་མཁན་པོ་དཀོན་མཆོག་བསྟན་འཛིན་ནས།" ,
+      "lang" : "bo"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "A reproduction of an ancient manuscript from sPiti of a collection of rNying ma pa Tantras of the Man ngag sde class of the Atiyoga (rDzogs chen)." ,
+      "lang" : "en"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA1KG892"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "2" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/NT1451288EB09665D1" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Note"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/noteText" : [ { 
+      "type" : "literal" ,
+      "value" : "contents:\nv. 1\nyi ge med pa'i rgyud chen po.--sgra thal 'gyur chen po'i rgyud.--kun tu bzang po klong drug pa'i rgyud.--seng+ge rtsal rdzogs chen po'i rgyud\nv. 2\nnor bu 'phra bkod chen po'i rgyud.--kun tu bzang po thugs kyi me long gi rgyud.--rdo rje sems dpa' snying gi me long gi rgyud\nngo sprod spras pa'i rgyud.--sku gdung 'bar ba'i rgyud kyi rtsa ba.--gser gyi me tog mdzes pa rin po che sgron ma 'bar ba'i rgyud.--gsang sngags lam rim gyi rgyud.--\ngsang sngags lam rim gyi dbang bka' shad dka' dang bcas pa.--nyams khrid bdud rtsi'i thigs pa.--chos spyod rgyud kyi rnal 'byor gyi skor rin po che bsil bu.--gsang sngags lam rim gyi tshig rkang.--'grel ba rin po che'i 'phreng ba." ,
+      "lang" : "en"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT0C73C5ECC51A2F14" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/BibliographicalTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud bcu bdun/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+}
