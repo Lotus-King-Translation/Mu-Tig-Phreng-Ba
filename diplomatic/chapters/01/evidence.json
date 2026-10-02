@@ -1,0 +1,120 @@
+[
+  {
+    "id": "CH01-IMG-427",
+    "path": "evidence/golden/01/00427.png",
+    "sha256": "9f8b9df2801dc370550a4e9c956cb4e95095ee91b2ed6762dd3953997cfd0ae7",
+    "anchor_ids": [
+      "MTP-S000002",
+      "MTP-S000004"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Native printed page417; title/opening or exact anchor wording directly identified. Cross-page anchors14 and21 explicitly allocate to both adjacent pages. Chapter1 ends on423; following chapter2 material is excluded.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 427,
+    "reviewer": "coordinating agent; corrections26/42/78 additionally checked by golden_base_review"
+  },
+  {
+    "id": "CH01-IMG-428",
+    "path": "evidence/golden/01/00428.png",
+    "sha256": "2d44d936c0230071d916c17121d52e139b969a076c34075583990bdc07ece57c",
+    "anchor_ids": [
+      "MTP-S000006",
+      "MTP-S000007",
+      "MTP-S000008",
+      "MTP-S000009",
+      "MTP-S000010",
+      "MTP-S000011",
+      "MTP-S000012",
+      "MTP-S000013",
+      "MTP-S000014"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Native printed page418; title/opening or exact anchor wording directly identified. Cross-page anchors14 and21 explicitly allocate to both adjacent pages. Chapter1 ends on423; following chapter2 material is excluded.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 428,
+    "reviewer": "coordinating agent; corrections26/42/78 additionally checked by golden_base_review"
+  },
+  {
+    "id": "CH01-IMG-429",
+    "path": "evidence/golden/01/00429.png",
+    "sha256": "ae6089b6084d08bb6c29dd758d281fd602b4e7098a921cfb8717eb0b701c2f97",
+    "anchor_ids": [
+      "MTP-S000014",
+      "MTP-S000016",
+      "MTP-S000017",
+      "MTP-S000018",
+      "MTP-S000019",
+      "MTP-S000020",
+      "MTP-S000021"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Native printed page419; title/opening or exact anchor wording directly identified. Cross-page anchors14 and21 explicitly allocate to both adjacent pages. Chapter1 ends on423; following chapter2 material is excluded.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 429,
+    "reviewer": "coordinating agent; corrections26/42/78 additionally checked by golden_base_review"
+  },
+  {
+    "id": "CH01-IMG-430",
+    "path": "evidence/golden/01/00430.png",
+    "sha256": "189d934f9a95f4bfde33a961341a88df2fa12cbc7531fa3794d6977db49838f6",
+    "anchor_ids": [
+      "MTP-S000021",
+      "MTP-S000023",
+      "MTP-S000024",
+      "MTP-S000025",
+      "MTP-S000026"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Native printed page420; title/opening or exact anchor wording directly identified. Cross-page anchors14 and21 explicitly allocate to both adjacent pages. Chapter1 ends on423; following chapter2 material is excluded.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 430,
+    "reviewer": "coordinating agent; corrections26/42/78 additionally checked by golden_base_review"
+  },
+  {
+    "id": "CH01-IMG-431",
+    "path": "evidence/golden/01/00431.png",
+    "sha256": "009daf024917392dee8b7df49a16e588d2f4e915d18874a5b93cf513344137d1",
+    "anchor_ids": [
+      "MTP-S000042"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Native printed page421; title/opening or exact anchor wording directly identified. Cross-page anchors14 and21 explicitly allocate to both adjacent pages. Chapter1 ends on423; following chapter2 material is excluded.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 431,
+    "reviewer": "coordinating agent; corrections26/42/78 additionally checked by golden_base_review"
+  },
+  {
+    "id": "CH01-IMG-432",
+    "path": "evidence/golden/01/00432.png",
+    "sha256": "a17458824fed7adb4e043670b6ab3f00a6d9fffc9ff94d15461a939d986cea72",
+    "anchor_ids": [
+      "MTP-S000078"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Native printed page422; title/opening or exact anchor wording directly identified. Cross-page anchors14 and21 explicitly allocate to both adjacent pages. Chapter1 ends on423; following chapter2 material is excluded.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 432,
+    "reviewer": "coordinating agent; corrections26/42/78 additionally checked by golden_base_review"
+  },
+  {
+    "id": "CH01-IMG-433",
+    "path": "evidence/golden/01/00433.png",
+    "sha256": "173a50080f080cb8a6c04e0ec40a512bfc14db63a75524fdbe32ed89c9ea1178",
+    "anchor_ids": [
+      "MTP-S000096",
+      "MTP-S000097"
+    ],
+    "status": "accepted",
+    "allocation_reason": "Native printed page423; title/opening or exact anchor wording directly identified. Cross-page anchors14 and21 explicitly allocate to both adjacent pages. Chapter1 ends on423; following chapter2 material is excluded.",
+    "inspection": "native_image_direct",
+    "source_id": "adzom-1973",
+    "image_index": 433,
+    "reviewer": "coordinating agent; corrections26/42/78 additionally checked by golden_base_review"
+  }
+]

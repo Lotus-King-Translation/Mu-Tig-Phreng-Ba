@@ -1,0 +1,155 @@
+[
+  {
+    "id": "MTP-C01-CHECK-001",
+    "status": "closed",
+    "finding": "Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+    "evidence_ids": [
+      "CH01-IMG-427"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-C01-CHECK-002",
+    "status": "closed",
+    "finding": "The source closes chapter1 here on printed423; chapter2 text later on the shared page is excluded from this release.",
+    "evidence_ids": [
+      "CH01-IMG-433"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-C01-CHECK-003",
+    "status": "closed",
+    "finding": "Preserve electronic @1-derived control token in machine anchors, excluding it from running Tibetan. It is not a transcription of the printed ornamental header and numeral as one root-text unit.",
+    "evidence_ids": [
+      "CH01-IMG-427"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-C01-CHECK-004",
+    "status": "closed",
+    "finding": "Image430 main line3 visibly prints stacked ཙིཏྟའི; this is a scan-supported script correction, not a conjectural Sanskrit reconstruction.",
+    "evidence_ids": [
+      "CH01-IMG-430"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-TRIAGE-001",
+    "status": "closed",
+    "finding": "Classify source title/language heading separately from running root text; visible on native title/opening pages. Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-427",
+      "CH01-IMG-428"
+    ],
+    "uncertainty": [
+      "A Sanskrit title is present after this heading in governing image428 but absent from both electronic renditions. Full grapheme transcription remains unresolved; no unattested Sanskrit text is inserted."
+    ]
+  },
+  {
+    "id": "MTP-TRIAGE-002",
+    "status": "closed",
+    "finding": "Image431 main line2 prints རིན་པོ, distinguishing the source na from the shared electronic ma.",
+    "evidence_ids": [
+      "CH01-IMG-431"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-TRIAGE-003",
+    "status": "closed",
+    "finding": "Image432 main line4 prints final དང; correct the shared electronic དན from the source glyph, not merely list grammar.",
+    "evidence_ids": [
+      "CH01-IMG-432"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "MTP-TRIAGE-004",
+    "status": "closed",
+    "finding": "The source closes chapter1 here on printed423; chapter2 text later on the shared page is excluded from this release.",
+    "evidence_ids": [
+      "CH01-IMG-433"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-SCAN-417",
+    "status": "closed",
+    "finding": "Preserve electronic @1-derived control token in machine anchors, excluding it from running Tibetan. It is not a transcription of the printed ornamental header and numeral as one root-text unit. Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+    "evidence_ids": [
+      "CH01-IMG-427"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-SCAN-418",
+    "status": "closed",
+    "finding": "Classify source title/language heading separately from running root text; visible on native title/opening pages. Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-428",
+      "CH01-IMG-429"
+    ],
+    "uncertainty": [
+      "A Sanskrit title is present after this heading in governing image428 but absent from both electronic renditions. Full grapheme transcription remains unresolved; no unattested Sanskrit text is inserted.",
+      "Smaller source annotations on image428 are distinct from this main-text sequence; their full wording is not transcribed in bounded v1.",
+      "This electronic anchor crosses images428–429; its final དེ begins429. Smaller adjacent annotations remain untranscribed."
+    ]
+  },
+  {
+    "id": "CH01-SCAN-419",
+    "status": "closed",
+    "finding": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-428",
+      "CH01-IMG-429",
+      "CH01-IMG-430"
+    ],
+    "uncertainty": [
+      "This electronic anchor crosses images428–429; its final དེ begins429. Smaller adjacent annotations remain untranscribed.",
+      "Smaller source annotations on image429 remain a separate unresolved layer; they are not silently promoted to root text.",
+      "This electronic anchor crosses images429–430; its page419 marker is only a locator hint."
+    ]
+  },
+  {
+    "id": "CH01-SCAN-420",
+    "status": "closed",
+    "finding": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied. Image430 main line3 visibly prints stacked ཙིཏྟའི; this is a scan-supported script correction, not a conjectural Sanskrit reconstruction.",
+    "evidence_ids": [
+      "CH01-IMG-429",
+      "CH01-IMG-430"
+    ],
+    "uncertainty": [
+      "This electronic anchor crosses images429–430; its page419 marker is only a locator hint.",
+      "Smaller source annotations on image430 remain outside the fully transcribed main-text layer."
+    ]
+  },
+  {
+    "id": "CH01-SCAN-421",
+    "status": "closed",
+    "finding": "Image431 main line2 prints རིན་པོ, distinguishing the source na from the shared electronic ma.",
+    "evidence_ids": [
+      "CH01-IMG-431"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-SCAN-422",
+    "status": "closed",
+    "finding": "Image432 main line4 prints final དང; correct the shared electronic དན from the source glyph, not merely list grammar.",
+    "evidence_ids": [
+      "CH01-IMG-432"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-SCAN-423",
+    "status": "closed",
+    "finding": "The source closes chapter1 here on printed423; chapter2 text later on the shared page is excluded from this release.",
+    "evidence_ids": [
+      "CH01-IMG-433"
+    ],
+    "uncertainty": []
+  }
+]

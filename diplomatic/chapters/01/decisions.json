@@ -1,0 +1,341 @@
+[
+  {
+    "id": "CH01-D000002",
+    "anchor_id": "MTP-S000002",
+    "old": "༄༡",
+    "new": "༄༡",
+    "role": "metadata",
+    "treatment": "classify_layer",
+    "reason": "Preserve electronic @1-derived control token in machine anchors, excluding it from running Tibetan. It is not a transcription of the printed ornamental header and numeral as one root-text unit.",
+    "evidence_ids": [
+      "CH01-IMG-427"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000004",
+    "anchor_id": "MTP-S000004",
+    "old": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས",
+    "new": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས",
+    "role": "heading",
+    "treatment": "classify_layer",
+    "reason": "Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+    "evidence_ids": [
+      "CH01-IMG-427"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000006",
+    "anchor_id": "MTP-S000006",
+    "old": "རྒྱ་གར་སྐད་དུ",
+    "new": "རྒྱ་གར་སྐད་དུ",
+    "role": "heading",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+    "evidence_ids": [
+      "CH01-IMG-428"
+    ],
+    "uncertainty": [
+      "A Sanskrit title is present after this heading in governing image428 but absent from both electronic renditions. Full grapheme transcription remains unresolved; no unattested Sanskrit text is inserted."
+    ]
+  },
+  {
+    "id": "CH01-D000007",
+    "anchor_id": "MTP-S000007",
+    "old": "བོད་སྐད་དུ",
+    "new": "བོད་སྐད་དུ",
+    "role": "heading",
+    "treatment": "classify_layer",
+    "reason": "Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+    "evidence_ids": [
+      "CH01-IMG-428"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000008",
+    "anchor_id": "MTP-S000008",
+    "old": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+    "new": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+    "role": "heading",
+    "treatment": "classify_layer",
+    "reason": "Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+    "evidence_ids": [
+      "CH01-IMG-428"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000009",
+    "anchor_id": "MTP-S000009",
+    "old": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ",
+    "new": "བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-428"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000010",
+    "anchor_id": "MTP-S000010",
+    "old": "འདི་སྐད་བདག་གིས་བསྟན་པའི་དུས་གཅིག་ན",
+    "new": "འདི་སྐད་བདག་གིས་བསྟན་པའི་དུས་གཅིག་ན",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-428"
+    ],
+    "uncertainty": [
+      "Smaller source annotations on image428 are distinct from this main-text sequence; their full wording is not transcribed in bounded v1."
+    ]
+  },
+  {
+    "id": "CH01-D000011",
+    "anchor_id": "MTP-S000011",
+    "old": "ཀྱེ་མ་འཁྲུལ་པའི་བདག་ཉིད་ཆེན་པོ་རྣམས་ཉོན་ཅིག",
+    "new": "ཀྱེ་མ་འཁྲུལ་པའི་བདག་ཉིད་ཆེན་པོ་རྣམས་ཉོན་ཅིག",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-428"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000012",
+    "anchor_id": "MTP-S000012",
+    "old": "ང་མེད་པའི་སྔོན་རོལ་ན",
+    "new": "ང་མེད་པའི་སྔོན་རོལ་ན",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-428"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000013",
+    "anchor_id": "MTP-S000013",
+    "old": "འཁྲུལ་པ་མེད་པའི་རིག་པ",
+    "new": "འཁྲུལ་པ་མེད་པའི་རིག་པ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-428"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000014",
+    "anchor_id": "MTP-S000014",
+    "old": "འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ",
+    "new": "འཁྲུལ་པའི་བདག་ཉིད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-428",
+      "CH01-IMG-429"
+    ],
+    "uncertainty": [
+      "This electronic anchor crosses images428–429; its final དེ begins429. Smaller adjacent annotations remain untranscribed."
+    ]
+  },
+  {
+    "id": "CH01-D000016",
+    "anchor_id": "MTP-S000016",
+    "old": "དེ་ལས་དེ་མ་དག་པ་ལས་འདི་ལྟར་སྣང་བའི་ཆོ་འཕྲུལ་ཆེན་པོ་ཆེར་བྱུང་སྟེ",
+    "new": "དེ་ལས་དེ་མ་དག་པ་ལས་འདི་ལྟར་སྣང་བའི་ཆོ་འཕྲུལ་ཆེན་པོ་ཆེར་བྱུང་སྟེ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-429"
+    ],
+    "uncertainty": [
+      "Smaller source annotations on image429 remain a separate unresolved layer; they are not silently promoted to root text."
+    ]
+  },
+  {
+    "id": "CH01-D000017",
+    "anchor_id": "MTP-S000017",
+    "old": "འཁྲུལ་པས་མ་བགོས་པའི་ཡུལ་སོ་སོར་ཤར་རོ",
+    "new": "འཁྲུལ་པས་མ་བགོས་པའི་ཡུལ་སོ་སོར་ཤར་རོ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-429"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000018",
+    "anchor_id": "MTP-S000018",
+    "old": "དེའི་ཚེ་སྣང་བ་འདུ་བྱེད་ཀྱི་རྒྱལ་པོ",
+    "new": "དེའི་ཚེ་སྣང་བ་འདུ་བྱེད་ཀྱི་རྒྱལ་པོ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-429"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000019",
+    "anchor_id": "MTP-S000019",
+    "old": "སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ",
+    "new": "སྣང་བ་རིས་སུ་འབྱེད་པའི་རིག་པས་སྣང་བའི་རྟོག་པ་དུ་མ་ལྟར་བྱུང་ངོ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-429"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000020",
+    "anchor_id": "MTP-S000020",
+    "old": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས",
+    "new": "འཁྲུལ་པའི་སྣང་བ་ཞིང་ཁམས་སུ་རིག་པ་གཞི་ལ་བཟློག་པའི་ཐབས་མཆོག་ཏུ་ངས་བསྟན་གྱིས",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-429"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000021",
+    "anchor_id": "MTP-S000021",
+    "old": "ལེགས་པའི་ཚུལ་གསུམ་གྱིས་ཉོན་ཅིག",
+    "new": "ལེགས་པའི་ཚུལ་གསུམ་གྱིས་ཉོན་ཅིག",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-429",
+      "CH01-IMG-430"
+    ],
+    "uncertainty": [
+      "This electronic anchor crosses images429–430; its page419 marker is only a locator hint."
+    ]
+  },
+  {
+    "id": "CH01-D000023",
+    "anchor_id": "MTP-S000023",
+    "old": "དེ་ནས་གསང་བའི་བདག་པོས་ཇི་ལྟར་གསུངས་པའི་དོན་ཁོང་དུ་ཆུད་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ",
+    "new": "དེ་ནས་གསང་བའི་བདག་པོས་ཇི་ལྟར་གསུངས་པའི་དོན་ཁོང་དུ་ཆུད་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ",
+    "role": "main_text",
+    "treatment": "retain_with_uncertainty",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-430"
+    ],
+    "uncertainty": [
+      "Smaller source annotations on image430 remain outside the fully transcribed main-text layer."
+    ]
+  },
+  {
+    "id": "CH01-D000024",
+    "anchor_id": "MTP-S000024",
+    "old": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན",
+    "new": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-430"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000025",
+    "anchor_id": "MTP-S000025",
+    "old": "ཆ་ཡིས་མ་བགོས་པའི་གཞལ་ཡས་ཁང་དམ་པ",
+    "new": "ཆ་ཡིས་མ་བགོས་པའི་གཞལ་ཡས་ཁང་དམ་པ",
+    "role": "main_text",
+    "treatment": "retain_base",
+    "reason": "Retain the supplied main-text reading at the targeted native locus. Physical punctuation and smaller annotations are not silently supplied.",
+    "evidence_ids": [
+      "CH01-IMG-430"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000026",
+    "anchor_id": "MTP-S000026",
+    "old": "ཐུགས་ཙིཏ་ཏའི་དཀྱིལ་འཁོར་ན",
+    "new": "ཐུགས་ཙིཏྟའི་དཀྱིལ་འཁོར་ན",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "Image430 main line3 visibly prints stacked ཙིཏྟའི; this is a scan-supported script correction, not a conjectural Sanskrit reconstruction.",
+    "evidence_ids": [
+      "CH01-IMG-430"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000042",
+    "anchor_id": "MTP-S000042",
+    "old": "རིམ་པོ་ཆེའི་རིགས་དང",
+    "new": "རིན་པོ་ཆེའི་རིགས་དང",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "Image431 main line2 prints རིན་པོ, distinguishing the source na from the shared electronic ma.",
+    "evidence_ids": [
+      "CH01-IMG-431"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000078",
+    "anchor_id": "MTP-S000078",
+    "old": "ལྷ་མ་ཡིན་དན",
+    "new": "ལྷ་མ་ཡིན་དང",
+    "role": "main_text",
+    "treatment": "scan_supported_correction",
+    "reason": "Image432 main line4 prints final དང; correct the shared electronic དན from the source glyph, not merely list grammar.",
+    "evidence_ids": [
+      "CH01-IMG-432"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000096",
+    "anchor_id": "MTP-S000096",
+    "old": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+    "new": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "The source closes chapter1 here on printed423; chapter2 text later on the shared page is excluded from this release.",
+    "evidence_ids": [
+      "CH01-IMG-433"
+    ],
+    "uncertainty": []
+  },
+  {
+    "id": "CH01-D000097",
+    "anchor_id": "MTP-S000097",
+    "old": "གླེང་གཞིའི་ལེའུ་སྟེ་དང་པོའོ",
+    "new": "གླེང་གཞིའི་ལེའུ་སྟེ་དང་པོའོ",
+    "role": "chapter_colophon",
+    "treatment": "classify_layer",
+    "reason": "The source closes chapter1 here on printed423; chapter2 text later on the shared page is excluded from this release.",
+    "evidence_ids": [
+      "CH01-IMG-433"
+    ],
+    "uncertainty": []
+  }
+]

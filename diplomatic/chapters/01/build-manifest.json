@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "chapter": 1,
+  "inputs": {
+    "diplomatic/chapters/01/contract.json": "9b670bdac3cd6edf8a712417d74f40760406762d701b9f7dd03ccf4cc75cebaf",
+    "diplomatic/chapters/01/contract.sha256": "b84ae877680346e879f17f7948f85ef999662cdd0904370269aed1788ccdebec",
+    "diplomatic/chapters/01/decisions.json": "a210ce1caa130274542770cf66124b1661e6cdb8b88ec13e6592f208f4efc514",
+    "diplomatic/chapters/01/evidence.json": "662631e947892ca7f5692d3f169a60a7570a74084f16abf4348e5ae1f20d5e15",
+    "diplomatic/chapters/01/source-checks.json": "480126b03168a3ba287b4c2396226f80dbf597c5b29ea3348cebf0cc9703929d",
+    "diplomatic/chapters/01/restorations.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "diplomatic/source-anchors.json": "83875fc89625068a7ccc2e7ed823695abf77d9dd7aee7abc8db290d53eb447a9",
+    "diplomatic/electronic-collation.json": "963157f0ed195706a0750e5bd48d3402e11d82b2cb4972e1b02babccaa353ed4",
+    "diplomatic/chapter-map.json": "7dc731991db28074fd108012597f6dc16f8d269e39f4b1422a9499bfb32b838a",
+    "diplomatic/anomalies.json": "67c593d039dc683cfdda8b3541978f8f40f6e9bff776722e1c3990eb69079b85",
+    "diplomatic/GOVERNING-WITNESS.json": "67e8f03f0a4cd37aaa17dde2d4c4d88e97864742e1c5d2b4bfb68233c187f62a"
+  },
+  "outputs": {
+    "reading.md": "bc4b0c5ae3ef82b468ed06bb67609d3a03005748f1f1c6fa07493864f34b8760",
+    "reading.json": "5cd9542a93561e6589e764adf009dbf74fd6734f889c980e4ea203b4dca63df8",
+    "apparatus.json": "d9c090e6f4f4743730a8fd633cea6320206df09edc6b3617061220152078a946",
+    "changes.json": "cee16e67e53166e3702a21a6a76b7577abc7a8129e21d255ab4d763a65c3cad1",
+    "coverage.json": "90c1db80623b55d1e37a51f1435b467970e10dbc0868d225e63a3c0190f628a7"
+  },
+  "build_method": "scripts/golden_pipeline.py; deterministic UTF-8 JSON/Markdown; no Unicode normalization",
+  "conversion": {
+    "package": "pyewts",
+    "version": "0.2.0",
+    "options": {
+      "fix_spacing": false
+    },
+    "label": "Derived EWTS conversion, not an independent textual witness"
+  },
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  }
+}

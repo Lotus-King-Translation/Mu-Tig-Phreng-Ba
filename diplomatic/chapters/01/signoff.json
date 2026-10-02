@@ -1,0 +1,22 @@
+{
+  "chapter": 1,
+  "approved": true,
+  "reviewer": "coordinating agent; bounded editorial review by golden_base_review",
+  "review": "Approve bounded Adzom chapter1:97originalanchors,3scan-supported corrections,25decisions,15closedchecks;6source limitations retained. No full-proofreading or independent-human claim.",
+  "review_path": "diplomatic/chapters/01/FINAL-REVIEW.md",
+  "review_sha256": "6f80a2e85af66541156c94a2b3ba7e3e42eaa2bbcdb8e58dd8af6f7d0b8cbc86",
+  "build_manifest_sha256": "df5c4f694c0824e14743688789f102ba026008f971e1ddf8f933f517922d1e7f",
+  "output_sha256": {
+    "reading.md": "bc4b0c5ae3ef82b468ed06bb67609d3a03005748f1f1c6fa07493864f34b8760",
+    "reading.json": "5cd9542a93561e6589e764adf009dbf74fd6734f889c980e4ea203b4dca63df8",
+    "apparatus.json": "d9c090e6f4f4743730a8fd633cea6320206df09edc6b3617061220152078a946",
+    "changes.json": "cee16e67e53166e3702a21a6a76b7577abc7a8129e21d255ab4d763a65c3cad1",
+    "coverage.json": "90c1db80623b55d1e37a51f1435b467970e10dbc0868d225e63a3c0190f628a7"
+  },
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "chapter": 1,
+  "anchor_count": 97,
+  "accounted_original_anchors": 97,
+  "restoration_count": 0,
+  "changed_text_anchors": 3,
+  "layer_or_text_changed_anchors": 8,
+  "editorial_decisions_completed": 25,
+  "required_decisions_completed": 25,
+  "required_decisions_remaining": 0,
+  "source_checks_completed": 15,
+  "source_checks_remaining": 0,
+  "electronic_loci_compared": 97,
+  "electronic_difference_count": 0,
+  "retained_unreviewed_transcript_anchors": 72,
+  "accepted_evidence_records": 7,
+  "excluded_evidence_records": 0,
+  "unresolved": [
+    {
+      "id": "MTP-S000006",
+      "uncertainty": [
+        "A Sanskrit title is present after this heading in governing image428 but absent from both electronic renditions. Full grapheme transcription remains unresolved; no unattested Sanskrit text is inserted."
+      ]
+    },
+    {
+      "id": "MTP-S000010",
+      "uncertainty": [
+        "Smaller source annotations on image428 are distinct from this main-text sequence; their full wording is not transcribed in bounded v1."
+      ]
+    },
+    {
+      "id": "MTP-S000014",
+      "uncertainty": [
+        "This electronic anchor crosses images428–429; its final དེ begins429. Smaller adjacent annotations remain untranscribed."
+      ]
+    },
+    {
+      "id": "MTP-S000016",
+      "uncertainty": [
+        "Smaller source annotations on image429 remain a separate unresolved layer; they are not silently promoted to root text."
+      ]
+    },
+    {
+      "id": "MTP-S000021",
+      "uncertainty": [
+        "This electronic anchor crosses images429–430; its page419 marker is only a locator hint."
+      ]
+    },
+    {
+      "id": "MTP-S000023",
+      "uncertainty": [
+        "Smaller source annotations on image430 remain outside the fully transcribed main-text layer."
+      ]
+    }
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "comparison_scope": "Two electronic renditions of the same Valby/Adzom transcription family; not independent witnesses."
+}

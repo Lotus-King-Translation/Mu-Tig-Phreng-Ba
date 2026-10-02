@@ -1,15 +1,15 @@
-# Edition handoff — source intake
+# Golden edition state
 
-No golden-edition work has begun. No governing witness or fixed release has been selected.
+Governing scan: Adzom1973 W1KG892/I1KG895. Electronic base: preserved Tibetan Wikisource; Wylie comparison is the same transcript family.
 
-Source discovery and acquisition are recorded in [the catalogue](../editions/CATALOGUE.md), [register](../editions/REGISTER.csv), [boundary checks](../editions/BOUNDARIES.md), [validation](../editions/VALIDATION.md) and [project status](../PROJECT-STATUS.md).
+- Current chapter: 1; completed chapter publications: 0/8.
+- Anchors in current release: 97; changed text anchors: 3; restorations: 0.
+- Decisions completed/remaining: 25/0.
+- Targeted source checks completed/remaining: 15/0.
+- Current deliverable groups: 6/6 built; bounded validation/signoff passed before publication.
+- Unresolved records: 6; exact loci in chapters/01/coverage.json.
+- Full scan proofreading, exhaustive witness collation and independent human certification: false.
+- Publication receipts: diplomatic/publication/. Prior chapter files remain fixed at their annotated tags.
+- Next finite task: Freeze chapter2 contract. Translation has not begun.
 
-- Original editorial anchors, reading decisions, restorations and changed anchors: 0.
-- Translation pairs and releases: 0.
-- Scan inspection: targeted opening/closing pages only; no full proofreading or exhaustive collation.
-- Acquired facsimiles: 12 manifestations, not 12 certified independent witnesses.
-- Unresolved evidence: six manifest indices in W1ER119 and two in Langtang; no textual omission inferred from those gaps alone.
-- Two open Degé-family copies retain unresolved scan/folio mapping; restricted and preview-only routes remain catalogue entries.
-- All original image responses, metadata and electronic renditions retain source attribution and hash receipts.
-
-Next finite editorial prerequisite: compare the eight unexposed manifest indices against source foliation; establish candidate witness relationships and propose a governing witness with explicit reasons. Do not begin correction or translation merely because a facsimile is available. Rýznar's submitted five-witness edition is an important acquisition lead before duplicating scholarly collation.
+Read RELEASE-POLICY.md, GOVERNING-WITNESS.json and the next chapter contract before substantive work. Never infer physical agreement from electronic equality.

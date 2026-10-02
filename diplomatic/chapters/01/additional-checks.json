@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MTP-TRIAGE-001",
+    "anchor_ids": [
+      "MTP-S000004",
+      "MTP-S000006",
+      "MTP-S000007",
+      "MTP-S000008",
+      "MTP-S000009"
+    ],
+    "question": "Title, Sanskrit-language heading immediately followed by Tibetan-language heading, invocation. No Sanskrit-title string is supplied between lines 6 and 7; inspect scan before diagnosing omission or restoration."
+  },
+  {
+    "id": "MTP-TRIAGE-002",
+    "anchor_ids": [
+      "MTP-S000042"
+    ],
+    "question": "rim po che: unexpected lexical form in a list of families. Candidate source check only."
+  },
+  {
+    "id": "MTP-TRIAGE-003",
+    "anchor_ids": [
+      "MTP-S000078"
+    ],
+    "question": "dan ends an otherwise repeated dang list. Check exact glyph; do not normalize from list grammar."
+  },
+  {
+    "id": "MTP-TRIAGE-004",
+    "anchor_ids": [
+      "MTP-S000096",
+      "MTP-S000097"
+    ],
+    "question": "Classify complete chapter-one closing formula and marker boundary."
+  },
+  {
+    "id": "CH01-SCAN-417",
+    "anchor_ids": [
+      "MTP-S000002",
+      "MTP-S000004"
+    ],
+    "question": "Inspect native governing image for these locators: main-text allocation, source notes, original spelling and cross-page extent. Record unresolved layers without conjecture."
+  },
+  {
+    "id": "CH01-SCAN-418",
+    "anchor_ids": [
+      "MTP-S000006",
+      "MTP-S000007",
+      "MTP-S000008",
+      "MTP-S000009",
+      "MTP-S000010",
+      "MTP-S000011",
+      "MTP-S000012",
+      "MTP-S000013",
+      "MTP-S000014"
+    ],
+    "question": "Inspect native governing image for these locators: main-text allocation, source notes, original spelling and cross-page extent. Record unresolved layers without conjecture."
+  },
+  {
+    "id": "CH01-SCAN-419",
+    "anchor_ids": [
+      "MTP-S000014",
+      "MTP-S000016",
+      "MTP-S000017",
+      "MTP-S000018",
+      "MTP-S000019",
+      "MTP-S000020",
+      "MTP-S000021"
+    ],
+    "question": "Inspect native governing image for these locators: main-text allocation, source notes, original spelling and cross-page extent. Record unresolved layers without conjecture."
+  },
+  {
+    "id": "CH01-SCAN-420",
+    "anchor_ids": [
+      "MTP-S000021",
+      "MTP-S000023",
+      "MTP-S000024",
+      "MTP-S000025",
+      "MTP-S000026"
+    ],
+    "question": "Inspect native governing image for these locators: main-text allocation, source notes, original spelling and cross-page extent. Record unresolved layers without conjecture."
+  },
+  {
+    "id": "CH01-SCAN-421",
+    "anchor_ids": [
+      "MTP-S000042"
+    ],
+    "question": "Inspect native governing image for these locators: main-text allocation, source notes, original spelling and cross-page extent. Record unresolved layers without conjecture."
+  },
+  {
+    "id": "CH01-SCAN-422",
+    "anchor_ids": [
+      "MTP-S000078"
+    ],
+    "question": "Inspect native governing image for these locators: main-text allocation, source notes, original spelling and cross-page extent. Record unresolved layers without conjecture."
+  },
+  {
+    "id": "CH01-SCAN-423",
+    "anchor_ids": [
+      "MTP-S000096",
+      "MTP-S000097"
+    ],
+    "question": "Inspect native governing image for these locators: main-text allocation, source notes, original spelling and cross-page extent. Record unresolved layers without conjecture."
+  }
+]

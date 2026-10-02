@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "chapter": 1,
+  "changes": [
+    {
+      "id": "CH01-D000004",
+      "anchor_id": "MTP-S000004",
+      "old": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས",
+      "new": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས",
+      "role": "heading",
+      "treatment": "classify_layer",
+      "reason": "Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+      "evidence_ids": [
+        "CH01-IMG-427"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "CH01-D000006",
+      "anchor_id": "MTP-S000006",
+      "old": "རྒྱ་གར་སྐད་དུ",
+      "new": "རྒྱ་གར་སྐད་དུ",
+      "role": "heading",
+      "treatment": "retain_with_uncertainty",
+      "reason": "Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+      "evidence_ids": [
+        "CH01-IMG-428"
+      ],
+      "uncertainty": [
+        "A Sanskrit title is present after this heading in governing image428 but absent from both electronic renditions. Full grapheme transcription remains unresolved; no unattested Sanskrit text is inserted."
+      ]
+    },
+    {
+      "id": "CH01-D000007",
+      "anchor_id": "MTP-S000007",
+      "old": "བོད་སྐད་དུ",
+      "new": "བོད་སྐད་དུ",
+      "role": "heading",
+      "treatment": "classify_layer",
+      "reason": "Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+      "evidence_ids": [
+        "CH01-IMG-428"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "CH01-D000008",
+      "anchor_id": "MTP-S000008",
+      "old": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+      "new": "མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ",
+      "role": "heading",
+      "treatment": "classify_layer",
+      "reason": "Classify source title/language heading separately from running root text; visible on native title/opening pages.",
+      "evidence_ids": [
+        "CH01-IMG-428"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "CH01-D000026",
+      "anchor_id": "MTP-S000026",
+      "old": "ཐུགས་ཙིཏ་ཏའི་དཀྱིལ་འཁོར་ན",
+      "new": "ཐུགས་ཙིཏྟའི་དཀྱིལ་འཁོར་ན",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image430 main line3 visibly prints stacked ཙིཏྟའི; this is a scan-supported script correction, not a conjectural Sanskrit reconstruction.",
+      "evidence_ids": [
+        "CH01-IMG-430"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "CH01-D000042",
+      "anchor_id": "MTP-S000042",
+      "old": "རིམ་པོ་ཆེའི་རིགས་དང",
+      "new": "རིན་པོ་ཆེའི་རིགས་དང",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image431 main line2 prints རིན་པོ, distinguishing the source na from the shared electronic ma.",
+      "evidence_ids": [
+        "CH01-IMG-431"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "CH01-D000078",
+      "anchor_id": "MTP-S000078",
+      "old": "ལྷ་མ་ཡིན་དན",
+      "new": "ལྷ་མ་ཡིན་དང",
+      "role": "main_text",
+      "treatment": "scan_supported_correction",
+      "reason": "Image432 main line4 prints final དང; correct the shared electronic དན from the source glyph, not merely list grammar.",
+      "evidence_ids": [
+        "CH01-IMG-432"
+      ],
+      "uncertainty": []
+    },
+    {
+      "id": "CH01-D000096",
+      "anchor_id": "MTP-S000096",
+      "old": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+      "new": "ཞེས་མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་གསང་བ་ལས",
+      "role": "chapter_colophon",
+      "treatment": "classify_layer",
+      "reason": "The source closes chapter1 here on printed423; chapter2 text later on the shared page is excluded from this release.",
+      "evidence_ids": [
+        "CH01-IMG-433"
+      ],
+      "uncertainty": []
+    }
+  ],
+  "restorations": []
+}
