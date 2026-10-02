@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "chapter": 2,
+  "first_index": 98,
+  "last_index": 221,
+  "first_anchor": "MTP-S000098",
+  "last_anchor": "MTP-S000221",
+  "closing_anchor": "MTP-S000221",
+  "anchor_count": 124,
+  "raw_start": 2179,
+  "raw_end": 5405,
+  "page_hints": [
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429
+  ],
+  "boundary_status": "Mechanical colophon locator; requires authored scan review.",
+  "includes_post_chapter_colophon": false,
+  "source_files": {
+    "diplomatic/source-anchors.json": "83875fc89625068a7ccc2e7ed823695abf77d9dd7aee7abc8db290d53eb447a9",
+    "diplomatic/electronic-collation.json": "963157f0ed195706a0750e5bd48d3402e11d82b2cb4972e1b02babccaa353ed4",
+    "diplomatic/chapter-map.json": "7dc731991db28074fd108012597f6dc16f8d269e39f4b1422a9499bfb32b838a",
+    "diplomatic/anomalies.json": "67c593d039dc683cfdda8b3541978f8f40f6e9bff776722e1c3990eb69079b85"
+  },
+  "difference_ids": [],
+  "anomaly_ids": [
+    "MTP-A000098-GRAPHIC"
+  ],
+  "required_decision_anchors": [
+    "MTP-S000098",
+    "MTP-S000099",
+    "MTP-S000117",
+    "MTP-S000124",
+    "MTP-S000128",
+    "MTP-S000129",
+    "MTP-S000178",
+    "MTP-S000183",
+    "MTP-S000184",
+    "MTP-S000185",
+    "MTP-S000186",
+    "MTP-S000188",
+    "MTP-S000193",
+    "MTP-S000220",
+    "MTP-S000221"
+  ],
+  "source_checks": [
+    {
+      "id": "MTP-C02-CHECK-001",
+      "anchor_ids": [
+        "MTP-S000099"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C02-CHECK-002",
+      "anchor_ids": [
+        "MTP-S000221"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-C02-CHECK-003",
+      "anchor_ids": [
+        "MTP-S000098"
+      ],
+      "question": "Inspect governing scan for frozen boundary/anomaly/difference; record allocation and remaining uncertainty."
+    },
+    {
+      "id": "MTP-TRIAGE-005",
+      "anchor_ids": [
+        "MTP-S000117",
+        "MTP-S000124",
+        "MTP-S000128",
+        "MTP-S000129"
+      ],
+      "question": "Long strings containing 'das shes su bdal and bar dor plus two short adjacent lines merit main-text/annotation and line-allocation checks. These are only candidates; short or long lines alone do not prove annotation."
+    },
+    {
+      "id": "MTP-TRIAGE-006",
+      "anchor_ids": [
+        "MTP-S000178",
+        "MTP-S000183",
+        "MTP-S000184",
+        "MTP-S000185",
+        "MTP-S000186",
+        "MTP-S000188",
+        "MTP-S000193"
+      ],
+      "question": "Literal zhes pa nas may signal an abbreviated quotation, cross-reference or source note. Inspect surrounding long lines and ma la zha; do not expand from a parallel passage without source evidence."
+    },
+    {
+      "id": "MTP-TRIAGE-007",
+      "anchor_ids": [
+        "MTP-S000220",
+        "MTP-S000221"
+      ],
+      "question": "Classify chapter-two closing formula."
+    }
+  ],
+  "scope": "Bounded governing-Adzom reading; same-family electronic comparison and targeted scan checks.",
+  "required_outputs": [
+    "reading.md",
+    "reading.json",
+    "apparatus.json",
+    "changes.json",
+    "coverage.json",
+    "build-manifest.json"
+  ],
+  "claims": {
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "independent_witness_electronic_collation": false,
+    "independent_human_certification": false
+  },
+  "outside_scope": [
+    "Full scan proofreading",
+    "Exhaustive witness collation",
+    "Unattested repair",
+    "Translation"
+  ],
+  "freeze_note": "No timestamp in deterministic contract. Exact bytes fixed by contract.sha256; changes require a new edition contract."
+}

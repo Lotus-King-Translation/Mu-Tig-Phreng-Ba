@@ -1,0 +1,33 @@
+[
+  {
+    "id": "MTP-TRIAGE-005",
+    "anchor_ids": [
+      "MTP-S000117",
+      "MTP-S000124",
+      "MTP-S000128",
+      "MTP-S000129"
+    ],
+    "question": "Long strings containing 'das shes su bdal and bar dor plus two short adjacent lines merit main-text/annotation and line-allocation checks. These are only candidates; short or long lines alone do not prove annotation."
+  },
+  {
+    "id": "MTP-TRIAGE-006",
+    "anchor_ids": [
+      "MTP-S000178",
+      "MTP-S000183",
+      "MTP-S000184",
+      "MTP-S000185",
+      "MTP-S000186",
+      "MTP-S000188",
+      "MTP-S000193"
+    ],
+    "question": "Literal zhes pa nas may signal an abbreviated quotation, cross-reference or source note. Inspect surrounding long lines and ma la zha; do not expand from a parallel passage without source evidence."
+  },
+  {
+    "id": "MTP-TRIAGE-007",
+    "anchor_ids": [
+      "MTP-S000220",
+      "MTP-S000221"
+    ],
+    "question": "Classify chapter-two closing formula."
+  }
+]
