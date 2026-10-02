@@ -1,0 +1,109 @@
+[
+  {
+    "id": "MTP-TRIAGE-043",
+    "anchor_ids": [
+      "MTP-S001823",
+      "MTP-S001824",
+      "MTP-S001825",
+      "MTP-S001826"
+    ],
+    "question": "gnad gsum followed by lus dang dang yul: duplicated dang with no intervening noun. Inspect source; any restoration requires separate ID."
+  },
+  {
+    "id": "MTP-TRIAGE-044",
+    "anchor_ids": [
+      "MTP-S001861",
+      "MTP-S001873"
+    ],
+    "question": "lta se and rgyad: verify exact printed endings."
+  },
+  {
+    "id": "MTP-TRIAGE-045",
+    "anchor_ids": [
+      "MTP-S001903"
+    ],
+    "question": "lam drang po within expanded ground/path/result verse may contain interlinear material. This is a layer check, not authority to remove words."
+  },
+  {
+    "id": "MTP-TRIAGE-046",
+    "anchor_ids": [
+      "MTP-S001939",
+      "MTP-S001940",
+      "MTP-S001941",
+      "MTP-S001942",
+      "MTP-S001943",
+      "MTP-S001944",
+      "MTP-S001945",
+      "MTP-S001946",
+      "MTP-S001947",
+      "MTP-S001948",
+      "MTP-S001949"
+    ],
+    "question": "Inspect tantra-name enumeration as printed. The received list contains18 names; do not force it to the conventional corpus label Seventeen Tantras."
+  },
+  {
+    "id": "MTP-TRIAGE-047",
+    "anchor_ids": [
+      "MTP-S001977"
+    ],
+    "question": "go zhub: check exact source syllable."
+  },
+  {
+    "id": "MTP-TRIAGE-048",
+    "anchor_ids": [
+      "MTP-S001981",
+      "MTP-S001982",
+      "MTP-S001983",
+      "MTP-S001984",
+      "MTP-S001985",
+      "MTP-S001986",
+      "MTP-S001987",
+      "MTP-S001988",
+      "MTP-S001989",
+      "MTP-S001990",
+      "MTP-S001991",
+      "MTP-S001992",
+      "MTP-S001993",
+      "MTP-S001994",
+      "MTP-S001995",
+      "MTP-S001996",
+      "MTP-S001997",
+      "MTP-S001998"
+    ],
+    "question": "Enumerated groups total18 if counted 2+2+2+2+4+3+2+1. Check printed numerals as a finite list; never repair arithmetic to17."
+  },
+  {
+    "id": "MTP-TRIAGE-049",
+    "anchor_ids": [
+      "MTP-S002020",
+      "MTP-S002026"
+    ],
+    "question": "brab mo and thus in final summary: check source letters and possible smaller notes."
+  },
+  {
+    "id": "MTP-TRIAGE-050",
+    "anchor_ids": [
+      "MTP-S002034",
+      "MTP-S002035",
+      "MTP-S002036",
+      "MTP-S002037",
+      "MTP-S002038",
+      "MTP-S002039",
+      "MTP-S002040",
+      "MTP-S002041",
+      "MTP-S002042",
+      "MTP-S002043",
+      "MTP-S002044",
+      "MTP-S002045",
+      "MTP-S002046",
+      "MTP-S002047",
+      "MTP-S002048",
+      "MTP-S002049",
+      "MTP-S002050",
+      "MTP-S002051",
+      "MTP-S002052",
+      "MTP-S002053"
+    ],
+    "question": "Last chapter closing, final prose, work ending and commentary notice span the535→537 marker jump. Inspect printed535–537, classify final notices/blessings, and distinguish absent page marker from missing textual span."
+  }
+]
