@@ -1,0 +1,406 @@
+[
+  {
+    "id": "MTP-000031",
+    "golden_ids": [
+      "MTP-S000098"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Electronic chapter control is metadata, not a supplied chapter title."
+  },
+  {
+    "id": "MTP-000032",
+    "golden_ids": [
+      "MTP-S000099",
+      "MTP-S000100"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Narrative introduction identifies the addressee, petitioners, and speech."
+  },
+  {
+    "id": "MTP-000033",
+    "golden_ids": [
+      "MTP-S000101",
+      "MTP-S000102",
+      "MTP-S000103",
+      "MTP-S000104"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line petition about reversing delusion."
+  },
+  {
+    "id": "MTP-000034",
+    "golden_ids": [
+      "MTP-S000105",
+      "MTP-S000106"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Metrical narrative introduction to the reply."
+  },
+  {
+    "id": "MTP-000035",
+    "golden_ids": [
+      "MTP-S000107",
+      "MTP-S000108",
+      "MTP-S000109",
+      "MTP-S000110",
+      "MTP-S000111"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Address and conditional teaching; the consequent continues after the intervening page metadata."
+  },
+  {
+    "id": "MTP-000036",
+    "golden_ids": [
+      "MTP-S000112"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 424."
+  },
+  {
+    "id": "MTP-000037",
+    "golden_ids": [
+      "MTP-S000113",
+      "MTP-S000114",
+      "MTP-S000115",
+      "MTP-S000116",
+      "MTP-S000117"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Consequent and following compressed account of the means; unresolved S117 wording remains exact."
+  },
+  {
+    "id": "MTP-000038",
+    "golden_ids": [
+      "MTP-S000118",
+      "MTP-S000119",
+      "MTP-S000120",
+      "MTP-S000121",
+      "MTP-S000122"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Contiguous sequence of instructions and arising of primordial-knowing appearance."
+  },
+  {
+    "id": "MTP-000039",
+    "golden_ids": [
+      "MTP-S000123",
+      "MTP-S000124"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Mother/child correspondence retained as a two-line unit without resolving its layer uncertainty."
+  },
+  {
+    "id": "MTP-000040",
+    "golden_ids": [
+      "MTP-S000125",
+      "MTP-S000126",
+      "MTP-S000127",
+      "MTP-S000128",
+      "MTP-S000129"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Parallel compressed instructions through the opening of awareness and empty appearance."
+  },
+  {
+    "id": "MTP-000041",
+    "golden_ids": [
+      "MTP-S000130",
+      "MTP-S000131",
+      "MTP-S000132"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Parallel outcome statements before the source page marker."
+  },
+  {
+    "id": "MTP-000042",
+    "golden_ids": [
+      "MTP-S000133"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 425."
+  },
+  {
+    "id": "MTP-000043",
+    "golden_ids": [
+      "MTP-S000134",
+      "MTP-S000135",
+      "MTP-S000136",
+      "MTP-S000137",
+      "MTP-S000138",
+      "MTP-S000139",
+      "MTP-S000140",
+      "MTP-S000141"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Contiguous series of qualities and return to the Ground; final genitive remains within its local series."
+  },
+  {
+    "id": "MTP-000044",
+    "golden_ids": [
+      "MTP-S000142",
+      "MTP-S000143",
+      "MTP-S000144",
+      "MTP-S000145",
+      "MTP-S000146",
+      "MTP-S000147",
+      "MTP-S000148"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Address to Hayagriva and connected account of reversing delusion."
+  },
+  {
+    "id": "MTP-000045",
+    "golden_ids": [
+      "MTP-S000149",
+      "MTP-S000150",
+      "MTP-S000151",
+      "MTP-S000152"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Causal statement about mindfulness appearances and the instruction that follows."
+  },
+  {
+    "id": "MTP-000046",
+    "golden_ids": [
+      "MTP-S000153"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 426."
+  },
+  {
+    "id": "MTP-000047",
+    "golden_ids": [
+      "MTP-S000154",
+      "MTP-S000155",
+      "MTP-S000156",
+      "MTP-S000157",
+      "MTP-S000158"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Causal statement about thinking and the means of reversal."
+  },
+  {
+    "id": "MTP-000048",
+    "golden_ids": [
+      "MTP-S000159",
+      "MTP-S000160",
+      "MTP-S000161",
+      "MTP-S000162",
+      "MTP-S000163",
+      "MTP-S000164",
+      "MTP-S000165"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Vajra-chain appearance, investigation, and concluding statement about mindfulness and awareness."
+  },
+  {
+    "id": "MTP-000049",
+    "golden_ids": [
+      "MTP-S000166",
+      "MTP-S000167",
+      "MTP-S000168",
+      "MTP-S000169",
+      "MTP-S000170",
+      "MTP-S000171"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Address to the Lord of Death and the continuous-realization statement."
+  },
+  {
+    "id": "MTP-000050",
+    "golden_ids": [
+      "MTP-S000172"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Topic introduced before intervening source page marker; the instruction continues at S174."
+  },
+  {
+    "id": "MTP-000051",
+    "golden_ids": [
+      "MTP-S000173"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 427."
+  },
+  {
+    "id": "MTP-000052",
+    "golden_ids": [
+      "MTP-S000174",
+      "MTP-S000175",
+      "MTP-S000176",
+      "MTP-S000177"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Continuation after page marker; S177 is retained before the interleaved annotation."
+  },
+  {
+    "id": "MTP-000053",
+    "golden_ids": [
+      "MTP-S000178"
+    ],
+    "role": "source_annotation",
+    "format": "prose",
+    "rationale": "Golden-v1 classifies the entire span as a source annotation; do not absorb it into main verse."
+  },
+  {
+    "id": "MTP-000054",
+    "golden_ids": [
+      "MTP-S000179",
+      "MTP-S000180",
+      "MTP-S000181",
+      "MTP-S000182",
+      "MTP-S000183"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Main-text continuation after the annotation, through the five-light appearance."
+  },
+  {
+    "id": "MTP-000055",
+    "golden_ids": [
+      "MTP-S000184"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Quoted opening line immediately preceding the literal abbreviation marker."
+  },
+  {
+    "id": "MTP-000056",
+    "golden_ids": [
+      "MTP-S000185"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Literal source abbreviation/cross-reference formula; not metrical verse and not an invented expansion."
+  },
+  {
+    "id": "MTP-000057",
+    "golden_ids": [
+      "MTP-S000186",
+      "MTP-S000187",
+      "MTP-S000188",
+      "MTP-S000189",
+      "MTP-S000190",
+      "MTP-S000191"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Self-liberation and appearance sequence, ending with a causal clause continued after page metadata."
+  },
+  {
+    "id": "MTP-000058",
+    "golden_ids": [
+      "MTP-S000192"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 428."
+  },
+  {
+    "id": "MTP-000059",
+    "golden_ids": [
+      "MTP-S000193"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Consequent with unusual final glyph; retained separately for localized unresolved treatment."
+  },
+  {
+    "id": "MTP-000060",
+    "golden_ids": [
+      "MTP-S000194",
+      "MTP-S000195",
+      "MTP-S000196",
+      "MTP-S000197",
+      "MTP-S000198",
+      "MTP-S000199",
+      "MTP-S000200"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Self-arising primordial knowing, self-appearance, and two similes with their liberation statement."
+  },
+  {
+    "id": "MTP-000061",
+    "golden_ids": [
+      "MTP-S000201",
+      "MTP-S000202",
+      "MTP-S000203",
+      "MTP-S000204",
+      "MTP-S000205",
+      "MTP-S000206",
+      "MTP-S000207"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Essence of awareness and self-appearance of dharma embodiment, through attainment."
+  },
+  {
+    "id": "MTP-000062",
+    "golden_ids": [
+      "MTP-S000208",
+      "MTP-S000209",
+      "MTP-S000210",
+      "MTP-S000211",
+      "MTP-S000212",
+      "MTP-S000213",
+      "MTP-S000214"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Exclamation and first-person declarations, preserving the repeated negated abiding."
+  },
+  {
+    "id": "MTP-000063",
+    "golden_ids": [
+      "MTP-S000215"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page marker 429."
+  },
+  {
+    "id": "MTP-000064",
+    "golden_ids": [
+      "MTP-S000216",
+      "MTP-S000217",
+      "MTP-S000218",
+      "MTP-S000219"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Final two parallel first-person declarations."
+  },
+  {
+    "id": "MTP-000065",
+    "golden_ids": [
+      "MTP-S000220",
+      "MTP-S000221"
+    ],
+    "role": "chapter_colophon",
+    "format": "prose",
+    "rationale": "Complete two-part chapter closing formula; separate from root verse."
+  }
+]
