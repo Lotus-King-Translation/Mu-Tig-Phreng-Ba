@@ -177,7 +177,7 @@
   "next_finite_task": "Complete chapter 4 English and native audit, attach all source endnotes, review independently, build and sign the working candidate. Strict releases remain pending.",
   "chapter_3_state": "Signed reviewed working candidate:34pairs/120objects/165notes;142/142source obligations;105usage records/252occurrences/65proposals;24translated/2locallyunresolved/8metadata; independent QC and reproducible draft-candidate validation passed. Strict final release remains blocked by genuine prior publication.",
   "count_semantics": "Representation counts include explicitly unresolved and nontranslatable metadata objects; they do not measure accuracy or complete decipherment.",
-  "chapter_4_state": "Frozen exact source: 86 pairs / 294 objects; 11 inherited source obligations; source checkpoint 89f3cc0775bfd5e78e41cf466edf4b97a2d8d8fe verified. English drafting and native 19-page comparison are in progress. Workflow structural suites pass 78 checks.",
+  "chapter_4_state": "Source frozen: 86 pairs / 294 objects. Full native audit completed: 19 pages, 294 checks and 326 findings (1 definite wording difference; 2 uncertain checks). All 337 source obligations are fixed. English drafting and independent review are in progress.",
   "source_pairs_frozen": 185,
   "source_objects_frozen": 635
 }

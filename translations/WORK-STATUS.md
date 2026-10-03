@@ -31,3 +31,5 @@ Current finite task: chapter4,MTP-S000342–MTP-S000635,294objects,19images446�
 Formal chapters2–4 tags/receipts remain pending and strict final release checks are unchanged. Chapter5 has not started. The original full-translation authorization remains in force; the current working exception is chapter4 only. External witness research remains outside this bounded translation.
 
 Chapter 4 source checkpoint `89f3cc0775bfd5e78e41cf466edf4b97a2d8d8fe` is remotely verified. English drafting and native comparison are now in progress. All 78 affected structural regression checks pass (36 pipeline, 21 draft continuation, 21 aggregate); these are not semantic certification.
+
+Chapter 4 native audit is complete and sealed: 294 checks on 19 images, with 272 lexical agreements, 19 metadata checks, 2 uncertain checks and 1 definite difference. Its 326 findings comprise 267 local annotation omissions, 36 presentation records, 21 source-layer records, 1 uncertain-reading record and 1 wording difference. Together with 11 inherited obligations, 337 source obligations require endnotes. English drafting and separate QC remain in progress.
