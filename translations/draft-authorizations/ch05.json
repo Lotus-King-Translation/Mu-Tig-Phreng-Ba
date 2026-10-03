@@ -1,0 +1,29 @@
+{
+  "schema_version": 3,
+  "chapter": 5,
+  "prior_chapter": 4,
+  "prior_commit": "730921898da3e3328bb42d97abea7672bf44afcd",
+  "reviewed_priors": [
+    {
+      "chapter": 2,
+      "commit": "f0f7097621c021b4a03863dc7b7e8925c6975f86",
+      "build_manifest_sha256": "5d43adcb8f49e8fb1e76c6bcf5dcc12285111b5f39a51ba27cbcf6f8f853e8b1"
+    },
+    {
+      "chapter": 3,
+      "commit": "50bef02b5b0088911153ce348f7f45612e147158",
+      "build_manifest_sha256": "2b4671cc6b8ac19fd9187379138c460c34a4f746d61cf8a3c25904ede3472885"
+    }
+  ],
+  "unsigned_prior": {
+    "chapter": 4,
+    "commit": "730921898da3e3328bb42d97abea7672bf44afcd",
+    "build_manifest_sha256": "c5091ac7c851c8baa020f9df958d00ceb26cfafa6d94c1b108c37bfacbd55f67",
+    "snapshot_tree_sha": "3a788e26750edf3682407c1643c22483dd199842",
+    "review_state": "unsigned_saved_draft"
+  },
+  "authorized_scope": "working_draft_only",
+  "user_instruction": "cool, then move on to next chapter",
+  "date": "2026-10-03",
+  "reason": "User explicitly instructed chapter 5 after disclosure that chapter 4 final save failed and workspace maintenance removed the final local refinements, lexical records and signoff. Preserve the existing 396-note chapter 4 snapshot as an unsigned saved draft, not a signed or released candidate. Chapters 2 and 3 signed candidates remain pinned; chapter 1 actual release remains mandatory. This exception authorizes chapter 5 working preparation and review only; genuine prior tags/receipts and strict final checks remain required. See DECISIONS.md."
+}
