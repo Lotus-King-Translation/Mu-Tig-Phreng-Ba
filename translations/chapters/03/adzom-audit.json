@@ -5755,7 +5755,7 @@
       "golden_reading": "ཆོས་ཉིད་གོ་ནས་གཉིས་མེད་དང",
       "adzom_reading": null,
       "explanation": "A locally visible smaller-type running note is absent from the golden object sequence. Its exact full wording is explicitly untranscribed in this audit. Root-neighbor location establishes the omission inventory, not complete decipherment, translation, or resolved note attachment. Readable opening fragment at445 is དེ་ཉིད; following446 smaller wording remains untranscribed. This is continuation of the omitted note, not continuation of the golden root anchor.",
-      "english_consequence": "The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated.",
+      "english_consequence": "The English follows the fixed golden root text. The readable source-note opening དེ་ཉིད is provisionally glossed “that very [thing]” or “that itself”; its referent and attachment remain unresolved. The rest of this local smaller note is inventoried as omitted and untranscribed; it has not been deciphered or translated.",
       "evidence": [
         {
           "path": "evidence/translation/03/00445.png",
