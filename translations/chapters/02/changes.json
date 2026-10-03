@@ -1,0 +1,52 @@
+{
+  "chapter": 2,
+  "source_and_glossary_unchanged": true,
+  "draft_snapshot": "translations/chapters/02/translation-draft.md",
+  "snapshot_note": "Completed author draft after translator self-check and early reviewer suggestions, before source-apparatus assembly and final independent QC. Earlier scratch drafts were not fixed releases; exact changed readings are recorded below.",
+  "changes": [
+    {
+      "class": "terminological",
+      "pair_id": "MTP-000054 / MTP-000061",
+      "anchor": "MTP-S000180 / MTP-S000181 / MTP-S000207",
+      "before": "unborn",
+      "after": "non-arising",
+      "reason": "Early independent-review suggestion accepted: preserve established lexical commitment rather than misclassifying a synonym as grammatical inflection."
+    },
+    {
+      "class": "semantic/syntactic",
+      "pair_id": "MTP-000043",
+      "anchor": "MTP-S000135",
+      "before": "extract the five poisons at their source—the state of medicine.",
+      "after": "sum up the five poisons—the state of medicine.",
+      "reason": "Translator consultation and early QC favored summary/extraction for མདོར་ཕྱུང; alternative and uncertainty remain in T02-011."
+    },
+    {
+      "class": "semantic/syntactic",
+      "pair_id": "MTP-000043",
+      "anchor": "MTP-S000141",
+      "before": "[where] the ultimate and the conventional are nondual.",
+      "after": "of the nonduality of the ultimate and the conventional—[attachment unresolved].",
+      "reason": "Retain the final genitive and make absence of a secure head explicit; do not supply a settled location relation."
+    },
+    {
+      "class": "semantic/syntactic",
+      "pair_id": "MTP-000061",
+      "anchor": "MTP-S000205",
+      "before": "it is beyond entities and the mental faculty that recalls.",
+      "after": "it is beyond the mental faculty that recalls entities.",
+      "reason": "Early reviewer suggestion accepted: narrower object/modifier construction; alternative coordination remains in T02-022."
+    },
+    {
+      "class": "presentation",
+      "pair_id": "MTP-000055",
+      "anchor": "MTP-S000184",
+      "before": "“The appearance of awareness is clear light”",
+      "after": "‘The appearance of awareness is clear light’",
+      "reason": "Single quotation marks distinguish the quoted fragment inside the continuing outer speech."
+    },
+    {
+      "class": "documentation",
+      "reason": "Added 25 source-linked translation notes, 96 usage records, 54 separately proposed eight-column glossary records, and local reference coverage for repeated provisional occurrences. No canonical glossary entry activated."
+    }
+  ]
+}
