@@ -8,16 +8,28 @@ The coordinator then ran actual source planning, source generation, source-only 
 
 The coordinator independently checked all 23 native PNGs against exact archived image bytes and the registered manifest: hashes, byte counts, dimensions, source URLs and canvases agree. This is provenance verification; the direct 23-page visual comparison is separately attributed in the audit.
 
-Final English/build checks remain pending and will be appended after independent review.
+Final English/build checks are recorded below after independent review.
 
 ## Independent actual-source check
 
 `/root/ch06_workflow` independently checked the committed source/audit checkpoint read-only: exact ordered anchors and pair roles; all 378 sealed obligations; all 23 PNGs against archive bytes, registered manifest hashes/size/dimensions/URLs/canvases and committed Git/LFS identities; reciprocal page/anchor/finding allocations; and complete unchanged chapter 1–5 inventories, bytes and bound inputs, including the unsigned chapter 4 snapshot. No structural discrepancy was found. This did not repeat the visual or semantic inspection, and no tests were rerun.
 
-Audited identities: audit886ea37f3ece17227b4b101cbab6a3d04658bef9981ce755c8a25340c05d1380; audit seal3e5e006befdf48f61c2fe2dd6c158576fa78cc4abf2025588637fe9d3d556c97; provenance7991c3c0e17d0d5624c7cd548e6f3face0664dc8f10bb5745fd4332a8c7f6798.
+Audited identities: audit `886ea37f3ece17227b4b101cbab6a3d04658bef9981ce755c8a25340c05d1380`; audit seal `3e5e006befdf48f61c2fe2dd6c158576fa78cc4abf2025588637fe9d3d556c97`; provenance `7991c3c0e17d0d5624c7cd548e6f3face0664dc8f10bb5745fd4332a8c7f6798`.
 
 ## Complete first annotated draft
 
 The complete 49-note author draft was independently reviewed before archiving at SHA-256 504c165e8985bf2ebda38a676d723992b7c56858b3380081abe8bd7e27a0ffc1. Adding the authored golden/native apparatus produced 420 notes (49 translator, 13 golden-history, 358 native), covering all 378 source obligations. Preliminary assembly, build and read-only working validation pass at manifest aa839a1ea96a046ee2e99d6d5198e63993e0647f56cd614d5e83dbc5a9225f55. Usage/proposal files are not yet present; this is not final lexical clearance.
 
 Before signoff, the unsigned content gate rejects missing signoff. Strict final mode rejects the missing genuine chapter 2 publication receipt. Combining final mode with the working flag rejects the combination. These expected rejections preserve the publication boundary; they are not final-mode passes.
+
+## Final working candidate
+
+Final manifest SHA-256: `8b00c111bc44a0aabb04e82a6def3cb9039ea0174b2b6548756b786f0d9cd767`. Final English SHA-256: `b0ba089eecc25b340a53c6b852e2b2187396f5cf3a100af3c0fbffe3e4d78ed4`. The coordinator rebuilt the complete candidate and ran read-only working validation after all terminology corrections. `/root/ch06_workflow` independently verified reproducibility with the same manifest; all 48 checked bound input, output and canonical files retained identical hashes and modification times. No broad tests were repeated.
+
+All 132 raw English bodies, including whitespace, match the preserved 49-note archive after removing only reference tokens. All 103 verse pairs retain 346 lines. The final 435 notes cover all 378 obligations. Pair statuses remain 88 translated, 21 locally unresolved and 23 metadata.
+
+All 275 usage records / 473 exact loci have correct source spans, pair ownership, actual local references and matching entries in both note maps. Canonical/comparison headwords exist in the 222-row glossary. All 225 proposals have the exact eight-column schema, remain inactive and cover their linked source/note lists exactly. Grouped inflections and documented contextual realizations account for 236 provisional usage records mapping to 225 proposals; 39 additional records document grammar.
+
+The independent structural reviewer verified all 127 prior chapter files against their fixed inventories and commits, plus current and committed manifest inputs and signed review bindings. Chapter 4 remains its 17-file unsigned snapshot. All 23 chapter 6 native images still match their exact archive and registered manifest identities. Golden source, canonical glossary and standard hashes are unchanged. No material structural gap was found. Content signoff is separately recorded in `signoff.json`; strict publication requirements remain unchanged.
+
+After the independent QC and coordinator signoff were bound to the frozen manifest, the coordinator reran the signed-content gate and read-only working-candidate validation. Both passed. This is not a strict formal-publication validation pass.

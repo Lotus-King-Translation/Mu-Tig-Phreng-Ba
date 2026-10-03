@@ -109,5 +109,19 @@
     "change": "Added narrowly allocated reader-visible lexical support notes; synchronized both note maps and pair-status references.",
     "reason": "Provide actual local note bindings for recurring provisional technical uses and non-obvious grammatical realizations. No glossary proposal is activated.",
     "preservation": "Raw English pair bodies, including whitespace, match the preserved complete author draft exactly after removing only note-reference tokens; archive unchanged."
+  },
+  {
+    "id": "CH06-AUTHOR-C010",
+    "class": "terminological",
+    "note_ids": [
+      "T06-L011",
+      "T06-L012",
+      "T06-L013",
+      "T06-L014",
+      "T06-L015"
+    ],
+    "change": "Added narrowly allocated reader-visible lexical support notes; synchronized both note maps and pair-status references.",
+    "reason": "Provide actual local note bindings for recurring provisional technical uses and non-obvious grammatical realizations. No glossary proposal is activated.",
+    "preservation": "Raw English pair bodies, including whitespace, match the preserved complete author draft exactly after removing only note-reference tokens; archive unchanged."
   }
 ]

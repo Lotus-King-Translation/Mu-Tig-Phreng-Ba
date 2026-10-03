@@ -1,0 +1,16 @@
+{
+  "chapter": 6,
+  "approved": true,
+  "reviewer": "/root",
+  "build_manifest_sha256": "8b00c111bc44a0aabb04e82a6def3cb9039ea0174b2b6548756b786f0d9cd767",
+  "output_sha256": {
+    "reading.md": "5f0fefd582dd4913e3781fb56fe837e7d607bd9877cd388f3f74ff204bc18a9a",
+    "bilingual.md": "e67e324182c3215df6d7b377b88c6ba0fae891e3e27a06fe15ba6d08c08b52a7",
+    "machine.json": "51d66a7461acb33b42ae118f66fd46797da02dcaa2453ba6f9ee8f390d0aac4d",
+    "coverage.json": "425bec0ef6403ae59b5db602bf08c41c59b49ea60479fcb8aaf035da9b640fcc"
+  },
+  "qc_sha256": "d96206feffb93006aa178eb6779600b065fe108c78956a8f576b4ca6344070d6",
+  "review_path": "translations/chapters/06/FINAL-REVIEW.md",
+  "review_sha256": "afd6ff11cfb760dfc7fc77192bcaab1da5447899cb7b0b703104a0b6d538c71f",
+  "approval_scope": "Annotated working candidate content with explicit review flags; not formal release clearance. Genuine prior release tags and receipts remain required; chapter4 is preserved as its explicitly unsigned saved snapshot."
+}

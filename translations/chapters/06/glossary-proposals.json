@@ -2,7 +2,7 @@
   {
     "Tibetan": "རྡོ་རྗེ་འཛིན་",
     "English": "holder of the vajra",
-    "Meaning and scope": "Speaker title; distinct from Vajradhara and from the canonical apprehending-subject noun.",
+    "Meaning and scope": "Holder-of-the-vajra title in narration at S1053/S1143 and address at S1208/S1280; distinct from Vajradhara and from the canonical apprehending-subject noun.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "འཛིན་པ་",
@@ -12,7 +12,7 @@
   {
     "Tibetan": "རྡོ་རྗེ་འཆང་",
     "English": "Vajradhara",
-    "Meaning and scope": "Named addressee; great is separately present in the source.",
+    "Meaning and scope": "Named addressee Vajradhara. Great is an explicit separate modifier at S1054; it is absent from the title occurrences at S1273/S1278.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
@@ -32,11 +32,11 @@
   {
     "Tibetan": "སངས་རྒྱས་",
     "English": "buddha",
-    "Meaning and scope": "Unlisted whole expression; source-supported plural and intensive wording retained. Additional recorded realization: primordially buddha. Primordially comes from overt ye; it is not imported into bare buddha elsewhere.",
+    "Meaning and scope": "Unlisted whole expression; source-supported plural and intensive wording retained. Additional recorded realization: primordially buddha. Primordially comes from overt ye; it is not imported into bare buddha elsewhere. Additional recorded realization: manifestly buddha. Manifestly follows overt mngon; it is not imported into the bare buddha primary.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001055; MTP-S001061; MTP-S001080; MTP-S001085; MTP-S001135; MTP-S001163; MTP-S001257; MTP-S001285; T06-001, T06-015, T06-L001, T06-L006",
+    "Rationale and sources": "MTP-S001055; MTP-S001061; MTP-S001080; MTP-S001085; MTP-S001135; MTP-S001163; MTP-S001257; MTP-S001285; MTP-S001309; MTP-S001399; MTP-S001412; T06-001, T06-015, T06-046, T06-L001, T06-L006, T06-L011, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -46,7 +46,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "སེམས་",
-    "Rationale and sources": "MTP-S001058; MTP-S001146; MTP-S001152; MTP-S001161; MTP-S001164; MTP-S001209; MTP-S001274; T06-001, T06-L001, T06-L006",
+    "Rationale and sources": "MTP-S001058; MTP-S001146; MTP-S001152; MTP-S001161; MTP-S001164; MTP-S001209; MTP-S001274; MTP-S001427; T06-001, T06-049, T06-L001, T06-L006",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -56,7 +56,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001057; MTP-S001100; MTP-S001152; MTP-S001159; MTP-S001198; MTP-S001227; T06-001, T06-023, T06-L001, T06-L006",
+    "Rationale and sources": "MTP-S001057; MTP-S001100; MTP-S001152; MTP-S001159; MTP-S001198; MTP-S001227; MTP-S001349; MTP-S001389; T06-001, T06-023, T06-L001, T06-L006, T06-L012, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -66,7 +66,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "གློ་བུར་བའི་དྲི་མ་",
-    "Rationale and sources": "MTP-S001057; MTP-S001075; MTP-S001100; MTP-S001159; MTP-S001166; T06-001, T06-L001",
+    "Rationale and sources": "MTP-S001057; MTP-S001075; MTP-S001100; MTP-S001159; MTP-S001166; MTP-S001349; MTP-S001389; MTP-S001398; MTP-S001414; T06-001, T06-L001, T06-L012, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -116,7 +116,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "ཞི་ལྷག་ཟུང་འབྲེལ་",
-    "Rationale and sources": "MTP-S001067; T06-004",
+    "Rationale and sources": "MTP-S001067; MTP-S001323; T06-004, T06-037",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -132,31 +132,31 @@
   {
     "Tibetan": "རིམ་གྱིས་",
     "English": "gradual",
-    "Meaning and scope": "Bare predicate in an elliptical line, not a named practitioner type.",
+    "Meaning and scope": "Bare predicate in an elliptical line, not a named practitioner type. Additional recorded realization: gradually. Adverbial realization of the earlier gradual predicate; not a named practitioner class.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "རིམ་སྐྱེས་པ་",
-    "Rationale and sources": "MTP-S001071; T06-004",
+    "Rationale and sources": "MTP-S001071; MTP-S001410; T06-004, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "མཐའ་",
     "English": "extreme",
-    "Meaning and scope": "Limits/extremes in paired absence and emptiness descriptions.",
+    "Meaning and scope": "Bare extremes: paired absence/emptiness descriptions at S1073/S1077, and the two extremes of existence and nonexistence described as completely clear at S1317. No negative predicate is imported into the latter.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001073; MTP-S001077; T06-005",
+    "Rationale and sources": "MTP-S001073; MTP-S001077; MTP-S001317; T06-005, T06-L011",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "རྡུལ་",
     "English": "dust",
-    "Meaning and scope": "Metaphorical dust of extremes; not an asserted particle ontology.",
+    "Meaning and scope": "Metaphorical dust of extremes at S1073; bare dust in the freedom-from-dust clause at S1400. No particle ontology or absent extremes modifier is asserted at the latter.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001073; T06-005",
+    "Rationale and sources": "MTP-S001073; MTP-S001400; T06-005, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -166,17 +166,17 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001076; T06-005",
+    "Rationale and sources": "MTP-S001076; MTP-S001327; MTP-S001332; MTP-S001342; MTP-S001377; MTP-S001411; T06-005, T06-038, T06-L011, T06-L013, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "དངོས་པོ་",
     "English": "entity",
-    "Meaning and scope": "Entities whose extremes are empty; not an automatic equation with phenomena or essence.",
+    "Meaning and scope": "Entity-family uses: entities whose extremes are empty at S1077, the ultimate entity at S1321, and entity itself beside nonentity at S1417. These are not automatically equated with phenomena or essence.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "ངོ་བོ་",
-    "Rationale and sources": "MTP-S001077; T06-005",
+    "Rationale and sources": "MTP-S001077; MTP-S001321; MTP-S001417; T06-005, T06-036, T06-048",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -195,8 +195,8 @@
     "Meaning and scope": "High and low domains; scope-specific use distinct from object below. Additional recorded realization: object. Broad objects; the relations to seeing and apprehension are preserved rather than inferred from a more specific glossary object entry.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "",
-    "Rationale and sources": "MTP-S001079; MTP-S001101; MTP-S001106; MTP-S001117; MTP-S001140; MTP-S001237; MTP-S001268; T06-005, T06-009, T06-L004, T06-L008",
+    "Related entries": "གཞལ་བྱ་; གཟུང་བ་; དམིགས་པ་",
+    "Rationale and sources": "MTP-S001079; MTP-S001101; MTP-S001106; MTP-S001117; MTP-S001140; MTP-S001237; MTP-S001268; MTP-S001315; MTP-S001346; MTP-S001351; MTP-S001366; MTP-S001367; MTP-S001393; MTP-S001407; T06-005, T06-009, T06-040, T06-042, T06-L004, T06-L008, T06-L012, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -206,7 +206,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001081; MTP-S001173; MTP-S001178; MTP-S001209; MTP-S001217; MTP-S001232; T06-006, T06-L004, T06-L008",
+    "Rationale and sources": "MTP-S001081; MTP-S001173; MTP-S001178; MTP-S001209; MTP-S001217; MTP-S001232; MTP-S001330; MTP-S001375; MTP-S001379; T06-006, T06-037, T06-L004, T06-L008, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -226,7 +226,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001082; MTP-S001144; MTP-S001168; MTP-S001234; T06-006, T06-L004, T06-L008",
+    "Rationale and sources": "MTP-S001082; MTP-S001144; MTP-S001168; MTP-S001234; MTP-S001357; MTP-S001359; T06-006, T06-L004, T06-L008, T06-L012",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -246,17 +246,17 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001083; T06-006",
+    "Rationale and sources": "MTP-S001083; MTP-S001385; T06-006, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "དཀྱིལ་འཁོར་",
     "English": "mandala",
-    "Meaning and scope": "Ritual whole expression; number follows the local catalogue.",
+    "Meaning and scope": "Whole mandala expression in the ritual catalogue at S1084, the mandala of awakened mind at S1286, and the lord-of-secret-mantra apposition at S1328; each local nominal relation is preserved.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001084; MTP-S001286; T06-006, T06-032",
+    "Rationale and sources": "MTP-S001084; MTP-S001286; MTP-S001328; T06-006, T06-032, T06-037",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -266,7 +266,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001084; MTP-S001206; T06-006, T06-024",
+    "Rationale and sources": "MTP-S001084; MTP-S001206; MTP-S001383; T06-006, T06-024, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -322,11 +322,11 @@
   {
     "Tibetan": "སྡུད་",
     "English": "gathering",
-    "Meaning and scope": "Repeated gathering form retained; not the complete proliferating-and-gathering entry.",
+    "Meaning and scope": "Repeated gathering form at S1088 and bare gathering verb at S1366; neither silently imports the complete proliferating-and-gathering entry.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "འཕྲོ་འདུ་",
-    "Rationale and sources": "MTP-S001088; T06-007",
+    "Rationale and sources": "MTP-S001088; MTP-S001366; T06-007, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -375,8 +375,8 @@
     "Meaning and scope": "Distinct from cultivation and deep absorption.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "སྒོམ་པ་; ཏིང་ངེ་འཛིན་",
-    "Rationale and sources": "MTP-S001091; T06-008",
+    "Related entries": "ཏིང་ངེ་འཛིན་; སྒོམ་པ་",
+    "Rationale and sources": "MTP-S001091; MTP-S001425; T06-008, T06-048",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -416,7 +416,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "གློ་བུར་བའི་དྲི་མ་",
-    "Rationale and sources": "MTP-S001092; MTP-S001283; T06-008, T06-L009",
+    "Rationale and sources": "MTP-S001092; MTP-S001283; MTP-S001400; T06-008, T06-L009, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -492,11 +492,11 @@
   {
     "Tibetan": "ཁྱད་པར་",
     "English": "distinction",
-    "Meaning and scope": "Nominal distinctions of vehicles; exact coordination remains noted.",
+    "Meaning and scope": "Nominal distinctions of vehicles at S1096 and each distinction of truth at S1406; their distinct genitive constructions are preserved.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001096; T06-009",
+    "Rationale and sources": "MTP-S001096; MTP-S001406; T06-009, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -536,7 +536,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001098; MTP-S001144; MTP-S001274; T06-009, T06-L004, T06-L006",
+    "Rationale and sources": "MTP-S001098; MTP-S001144; MTP-S001274; MTP-S001385; T06-009, T06-L004, T06-L006, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -555,8 +555,8 @@
     "Meaning and scope": "Bare faculties, not a graded faculty or sense-gate whole expression.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "དབང་པོའི་སྒོ་; དབང་པོ་རབ་; དབང་པོ་འབྲིང་; དབང་པོ་ཐ་མ་",
-    "Rationale and sources": "MTP-S001101; T06-009",
+    "Related entries": "དབང་པོ་ཐ་མ་; དབང་པོ་འབྲིང་; དབང་པོ་རབ་; དབང་པོའི་སྒོ་",
+    "Rationale and sources": "MTP-S001101; MTP-S001371; T06-009, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -592,7 +592,7 @@
   {
     "Tibetan": "ཡི་གེ་",
     "English": "letter",
-    "Meaning and scope": "Letters in the name/letter/word/form list.",
+    "Meaning and scope": "Letters in the name/letter/word/form list at S1105 and beside names as subjects of passing beyond sorrow at S1258; the second list is not expanded to repeat word or form.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
@@ -606,7 +606,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001105; MTP-S001175; MTP-S001252; T06-010, T06-L004, T06-L009",
+    "Rationale and sources": "MTP-S001105; MTP-S001175; MTP-S001252; MTP-S001386; T06-010, T06-L004, T06-L009, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -632,7 +632,7 @@
   {
     "Tibetan": "སྒྲ་",
     "English": "sound",
-    "Meaning and scope": "Sensory smell/taste/touch context motivates local exception to canonical word; S1105 keeps word.",
+    "Meaning and scope": "Sensory contexts motivate the local sound exception: smell/taste/touch at S1108 and smell/taste at S1250. S1105 retains canonical word; touch is not supplied to S1250.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "སྒྲ་",
@@ -685,7 +685,7 @@
     "Meaning and scope": "Positive bare form preserves contrivance family in the utterance modifier.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "བཟོ་བཅོས་; མ་བཅོས་; བཅོས་བསླད་; བཟོ་བྱེད་",
+    "Related entries": "བཅོས་བསླད་; བཟོ་བཅོས་; བཟོ་བྱེད་; མ་བཅོས་",
     "Rationale and sources": "MTP-S001114; T06-012",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
@@ -696,7 +696,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "སྒྲ་",
-    "Rationale and sources": "MTP-S001114; T06-012",
+    "Rationale and sources": "MTP-S001114; MTP-S001397; T06-012, T06-046",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -712,11 +712,11 @@
   {
     "Tibetan": "རྟག་ཆད་",
     "English": "permanence and annihilation",
-    "Meaning and scope": "The local neither/nor realization follows overt nyis med; primary pair itself does not import negation.",
+    "Meaning and scope": "The neither/nor realization at S1115 follows overt nyis med; S1318 instead has the limits of permanence and annihilation under a separate no-abiding clause. The primary pair itself does not import negation.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001115; T06-012",
+    "Rationale and sources": "MTP-S001115; MTP-S001318; T06-012, T06-L011",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -732,11 +732,11 @@
   {
     "Tibetan": "ལམ་",
     "English": "path",
-    "Meaning and scope": "Bare path in the no-path contrast; no named stage inferred.",
+    "Meaning and scope": "Bare path across the no-path contrast at S1119 and the affirmative going, bliss/knowing, seeing, and liberation constructions at S1276/S1327/S1333/S1377/S1404; no unnamed stage is inferred.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001119; MTP-S001276; T06-L002, T06-L006",
+    "Rationale and sources": "MTP-S001119; MTP-S001276; MTP-S001327; MTP-S001333; MTP-S001377; MTP-S001404; T06-L002, T06-L006, T06-L011, T06-L012, T06-L013, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -805,7 +805,7 @@
     "Meaning and scope": "Unlisted exact construction; not silently identified with the canonical contriver form.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "བཟོ་བྱེད་; བཟོ་བཅོས་",
+    "Related entries": "བཟོ་བཅོས་; བཟོ་བྱེད་",
     "Rationale and sources": "MTP-S001139; T06-016",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
@@ -822,7 +822,7 @@
   {
     "Tibetan": "ཆོས་ཅན་",
     "English": "bearer of phenomena",
-    "Meaning and scope": "Plural bearers distinguished from canonical nature of phenomena; negative relation remains noted.",
+    "Meaning and scope": "Plural bearers of phenomena, distinguished from canonical nature of phenomena: the negative relation belongs to S1142, while S1215 has the open genitive relation with apprehended object and apprehending subject.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "ཆོས་ཉིད་",
@@ -842,17 +842,17 @@
   {
     "Tibetan": "རྐྱེན་",
     "English": "condition",
-    "Meaning and scope": "Adventitious conditions in the cloud comparison; accepted Q06-001 preserves the accompaniment construction.",
+    "Meaning and scope": "S1155 has adventitious conditions in the cloud comparison, with the accepted Q06-001 accompaniment construction. S1354 has bare conditions of pure appearance; no adventitious modifier is imported there.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001155; T06-018",
+    "Rationale and sources": "MTP-S001155; MTP-S001354; T06-018, T06-L012",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "ངང་",
     "English": "state",
-    "Meaning and scope": "Nominal state of space/oneness; no canonical natural-state expression assumed.",
+    "Meaning and scope": "Nominal state of space/oneness at S1156/S1158, and genuine state of intrinsic nature at S1290; none is silently replaced by the complete canonical natural-state expression.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "གནས་ལུགས་; རང་བཞིན་",
@@ -885,7 +885,7 @@
     "Meaning and scope": "Purification, not the differently attested canonical liberation-in-its-own-place expression.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "རང་སར་གྲོལ་; རང་དག་",
+    "Related entries": "རང་དག་; རང་སར་གྲོལ་",
     "Rationale and sources": "MTP-S001166; T06-019",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
@@ -906,7 +906,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "སྟོང་པ་",
-    "Rationale and sources": "MTP-S001169; MTP-S001247; T06-020, T06-029",
+    "Rationale and sources": "MTP-S001169; MTP-S001247; MTP-S001417; T06-020, T06-029, T06-048",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -915,18 +915,18 @@
     "Meaning and scope": "Bare lamp, without importing one of the complete named lamp assignments.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "སྒྲོན་མ་བཞི་; ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་; ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ་",
-    "Rationale and sources": "MTP-S001177; T06-L003",
+    "Related entries": "ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་; ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ་; སྒྲོན་མ་བཞི་",
+    "Rationale and sources": "MTP-S001177; MTP-S001335; MTP-S001347; T06-039, T06-L003, T06-L012",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "འདོད་ཆགས་",
     "English": "desire",
-    "Meaning and scope": "Affliction term; the adjoining retained source phrase remains unresolved, not silently reconstructed.",
+    "Meaning and scope": "Affliction term at both loci. The adjoining retained source phrase is unresolved at S1179; S1387 simply repeats desire in the later affliction list without that phrase.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "ཞེན་པ་",
-    "Rationale and sources": "MTP-S001179; T06-021",
+    "Rationale and sources": "MTP-S001179; MTP-S001387; T06-021, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -936,37 +936,37 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "བྱིང་བ་; མ་རིག་པ་; འཁྲུལ་པ་",
-    "Rationale and sources": "MTP-S001180; T06-021",
+    "Rationale and sources": "MTP-S001180; MTP-S001388; T06-021, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "ཞེ་སྡང་",
     "English": "hatred",
-    "Meaning and scope": "Affliction term in fire/heat image; no synonym rotation with anger.",
+    "Meaning and scope": "Affliction term in the fire/heat image at S1181 and the later list at S1387; the image is not imported into the list, and wording remains distinct from anger.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001181; T06-021",
+    "Rationale and sources": "MTP-S001181; MTP-S001387; T06-021, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "ང་རྒྱལ་",
     "English": "pride",
-    "Meaning and scope": "Affliction term in head-covering image.",
+    "Meaning and scope": "Affliction term in the head-covering image at S1182 and the later list at S1388; no head-covering image is imported into the latter.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001182; T06-021",
+    "Rationale and sources": "MTP-S001182; MTP-S001388; T06-021, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "ཕྲག་དོག་",
     "English": "jealousy",
-    "Meaning and scope": "Affliction term in door-obstruction image.",
+    "Meaning and scope": "Affliction term in the door-obstruction image at S1183 and the later list at S1388; no door-obstruction image is imported into the latter.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001183; T06-021",
+    "Rationale and sources": "MTP-S001183; MTP-S001388; T06-021, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1062,11 +1062,11 @@
   {
     "Tibetan": "བྱོལ་སོང་",
     "English": "animal",
-    "Meaning and scope": "Category is locally rendered; retained lan bun and tentative catalogue relation remain unresolved.",
+    "Meaning and scope": "Animal category at both loci. Retained lan bun and the tentative catalogue relation concern S1201; S1384 is the later category list without that comparison.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001201; T06-024",
+    "Rationale and sources": "MTP-S001201; MTP-S001384; T06-024, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1076,7 +1076,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001202; T06-L007",
+    "Rationale and sources": "MTP-S001202; MTP-S001383; T06-L007, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1096,7 +1096,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001205; T06-024",
+    "Rationale and sources": "MTP-S001205; MTP-S001383; T06-024, T06-L013",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1125,8 +1125,8 @@
     "Meaning and scope": "Bare liberation verb; no self or primordial modifier imported from more specific canonical compounds.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "རང་གྲོལ་; ཡེ་གྲོལ་; རང་སར་གྲོལ་",
-    "Rationale and sources": "MTP-S001211; MTP-S001214; MTP-S001216; MTP-S001217; T06-025, T06-L008",
+    "Related entries": "ཡེ་གྲོལ་; རང་གྲོལ་; རང་སར་གྲོལ་",
+    "Rationale and sources": "MTP-S001211; MTP-S001214; MTP-S001216; MTP-S001217; MTP-S001404; T06-025, T06-L008, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1156,7 +1156,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "ཤེས་རབ་",
-    "Rationale and sources": "MTP-S001216; MTP-S001241; T06-025, T06-028",
+    "Rationale and sources": "MTP-S001216; MTP-S001241; MTP-S001310; MTP-S001330; T06-025, T06-028, T06-L011",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1172,11 +1172,11 @@
   {
     "Tibetan": "དོན་དམ་",
     "English": "ultimate",
-    "Meaning and scope": "Nominal ultimate in its own clause; no absent truth noun supplied.",
+    "Meaning and scope": "Ultimate is nominal at S1219 and a qualifier in the dharma-embodiment and entity constructions at S1311/S1321. No absent truth noun is supplied at any locus.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001219; T06-026",
+    "Rationale and sources": "MTP-S001219; MTP-S001311; MTP-S001321; T06-026, T06-L011",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1222,11 +1222,11 @@
   {
     "Tibetan": "འོད་",
     "English": "light",
-    "Meaning and scope": "Bare light with overt great modifier at this locus; not clear light unless the full compound occurs.",
+    "Meaning and scope": "Bare light at both loci: great is an overt modifier at S1222, whereas S1331 has unmodified light in the blazing/radiance construction. Clear light is not substituted without the full source compound.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "འོད་གསལ་",
-    "Rationale and sources": "MTP-S001222; T06-L008",
+    "Rationale and sources": "MTP-S001222; MTP-S001331; T06-L008, T06-L011",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1242,11 +1242,11 @@
   {
     "Tibetan": "བདེ་བ་",
     "English": "bliss",
-    "Meaning and scope": "Local bliss in experiential-acquaintance imagery; distinct context from bare pleasure in the feeling list.",
+    "Meaning and scope": "Bliss in experiential-acquaintance imagery at S1225, gathered bliss at S1308, and the union/attainment constructions at S1323/S1325. These uses remain distinct from bare pleasure in the feeling list.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001225; T06-027",
+    "Rationale and sources": "MTP-S001225; MTP-S001308; MTP-S001323; MTP-S001325; T06-027, T06-037, T06-L011",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1262,11 +1262,11 @@
   {
     "Tibetan": "རང་ལུས་",
     "English": "own body",
-    "Meaning and scope": "Explicit own/body compound in the binding image.",
+    "Meaning and scope": "Explicit own/body compound in the binding image at S1226 and essence itself’s own body at S1423; binding is not imported into the latter nominal identification.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001226; T06-027",
+    "Rationale and sources": "MTP-S001226; MTP-S001423; T06-027, T06-048",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1282,11 +1282,11 @@
   {
     "Tibetan": "སྟོང་གསལ་",
     "English": "emptiness and clarity",
-    "Meaning and scope": "Preserves the fixed source order; distinct from reverse-order canonical clarity-emptiness.",
+    "Meaning and scope": "Preserves the fixed source order; distinct from reverse-order canonical clarity-emptiness. Additional recorded realization: emptiness-clarity. Hyphenated expression retains emptiness-then-clarity source order, distinct from canonical reverse-order clarity-emptiness. Additional recorded realization: empty, clear. Predicative realization retains the source order before aware and unchanging; no reverse-order canonical compound substituted.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "གསལ་སྟོང་",
-    "Rationale and sources": "MTP-S001237; T06-028",
+    "Rationale and sources": "MTP-S001237; MTP-S001312; MTP-S001419; T06-028, T06-035, T06-048",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1302,11 +1302,11 @@
   {
     "Tibetan": "རབ་",
     "English": "excellence",
-    "Meaning and scope": "Tentative nominal excellence in the comparative phrase; attachment remains open.",
+    "Meaning and scope": "Tentative nominal excellence in the comparative phrase; attachment remains open. Additional recorded realization: Rab. Quoted component retained in local exposition, distinct from tentative excellence at S1239; it does not promote a component to canonical discerning knowing.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "",
-    "Rationale and sources": "MTP-S001239; T06-028",
+    "Related entries": "ཤེས་རབ་",
+    "Rationale and sources": "MTP-S001239; MTP-S001358; T06-028, T06-041",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1316,17 +1316,17 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001241; T06-028",
+    "Rationale and sources": "MTP-S001241; MTP-S001328; T06-028, T06-L011",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
     "Tibetan": "རྣམ་དག་",
     "English": "completely purified",
-    "Meaning and scope": "Purification construction; no substitution of self-purified, primordial purity or perfectly pure basic space.",
+    "Meaning and scope": "Purification construction; no substitution of self-purified, primordial purity or perfectly pure basic space. Additional recorded realization: completely pure. Adjectival purity in the object relation; same source family as completely purified, without a new canonical assignment.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "རང་དག་; ཀ་དག་; དབྱིངས་རྣམ་པར་དག་པའི་སྒྲོན་མ་",
-    "Rationale and sources": "MTP-S001244; MTP-S001255; T06-L009",
+    "Related entries": "ཀ་དག་; དབྱིངས་རྣམ་པར་དག་པའི་སྒྲོན་མ་; རང་དག་",
+    "Rationale and sources": "MTP-S001244; MTP-S001255; MTP-S001351; T06-040, T06-L009",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1336,7 +1336,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001246; T06-L009",
+    "Rationale and sources": "MTP-S001246; MTP-S001307; T06-L009, T06-L011",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1362,11 +1362,11 @@
   {
     "Tibetan": "སྤྲོས་པ་",
     "English": "conceptual elaboration",
-    "Meaning and scope": "Bare elaborations under explicit med negation; not a silent exact-match claim for spros bral.",
+    "Meaning and scope": "Bare conceptual elaborations occur under explicit med negation at S1251. S1402 instead repeats plural elaborations followed by the separate ma spros unelaborated construction. Neither is a silent exact-match claim for canonical spros bral.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "སྤྲོས་བྲལ་",
-    "Rationale and sources": "MTP-S001251; T06-L009",
+    "Rationale and sources": "MTP-S001251; MTP-S001402; T06-L009, T06-L014",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1436,7 +1436,7 @@
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "ཅོག་གཞག་",
-    "Rationale and sources": "MTP-S001270; T06-L008",
+    "Rationale and sources": "MTP-S001270; MTP-S001424; T06-048, T06-L008",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
   {
@@ -1495,7 +1495,7 @@
     "Meaning and scope": "Standalone respectful term has no approved assignment; does not replace ordinary mind, enlightened intent or compassionate responsiveness.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
-    "Related entries": "སེམས་; དགོངས་པ་; ཐུགས་རྗེ་",
+    "Related entries": "ཐུགས་རྗེ་; དགོངས་པ་; སེམས་",
     "Rationale and sources": "MTP-S001286; T06-032",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   },
@@ -1532,11 +1532,721 @@
   {
     "Tibetan": "བདག་ཉིད་ཅན་",
     "English": "endowed with the identity of",
-    "Meaning and scope": "Whole identity-bearing construction; not a lexical assertion of a metaphysical self.",
+    "Meaning and scope": "Whole identity-bearing construction retains can at both loci: identity of emptiness and clarity at S1297, and fine and darting identity at S1302. The different English order is grammatical, not an omission of identity or a lexical assertion of a metaphysical self.",
     "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
     "Contextual exceptions": "No wider default established.",
     "Related entries": "",
-    "Rationale and sources": "MTP-S001297; T06-034",
+    "Rationale and sources": "MTP-S001297; MTP-S001302; T06-034, T06-035",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "རྩ་",
+    "English": "channel",
+    "Meaning and scope": "Bare channels; no named anatomy beyond the source.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001301; T06-035",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཕྲ་",
+    "English": "fine",
+    "Meaning and scope": "Fine quality in an identity-bearing construction; no invented subtle-body classification.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001302; T06-035",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "འཁྱུག་",
+    "English": "darting",
+    "Meaning and scope": "Movement quality of the spheres, not an inferred specific visionary object.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001302; T06-035",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "འོད་ཟེར་",
+    "English": "ray of light",
+    "Meaning and scope": "Whole light-ray expression; number follows the plural context.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001303; T06-035",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "གཡས་པ་རོ་མ་",
+    "English": "the right, Roma",
+    "Meaning and scope": "Uncertain exact segmentation and root/explanation allocation; the full attested sequence is retained rather than inventing a clean standalone name headword.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001306; T06-035",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཀུན་རྫོབ་",
+    "English": "conventional",
+    "Meaning and scope": "Modifier of sphere; no absent truth noun inserted.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001306; T06-L011",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཡན་ལག་ཆ་",
+    "English": "part of the limbs",
+    "Meaning and scope": "Corrected final single cha retained; no absent chan supplied.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001307; T06-035",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "འབྱུང་གནས་",
+    "English": "source",
+    "Meaning and scope": "Nominal source of gathered bliss; the gathering relation remains tentative.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001308; T06-L011",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "གསང་ཆེན་",
+    "English": "great secret",
+    "Meaning and scope": "Compound with overt greatness, distinguished from bare secret/secrecy.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001309; T06-L011",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "སྤྲོ་བསྡུ་",
+    "English": "proliferating and gathering",
+    "Meaning and scope": "Different written form from canonical aphro adu; current local wording is an alternative to the inactive chapter 5 elaboration-and-withdrawal proposal, not newly approved authority.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "འཕྲོ་འདུ་",
+    "Rationale and sources": "MTP-S001315; T06-L011",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "སྨྲ་བསམ་",
+    "English": "speaking and thinking",
+    "Meaning and scope": "Compressed coordinated activities; does not overwrite separate canonical conceptualizing/conceptual-thought families.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རྟོག་; རྟོག་པ་",
+    "Rationale and sources": "MTP-S001315; T06-036",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "རྣམ་པར་རྟོག་པ་",
+    "English": "differentiating conceptualization",
+    "Meaning and scope": "Expanded attested form locally aligned with the canonical family; the application remains provisional rather than an exact-headword match.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རྣམ་རྟོག་",
+    "Rationale and sources": "MTP-S001316; T06-036",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "རྣམ་པར་རྟོག་མེད་",
+    "English": "free from differentiating conceptualization",
+    "Meaning and scope": "Expanded negative construction locally preserves family and overt negation; no false exact canonical match.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རྣམ་རྟོག་",
+    "Rationale and sources": "MTP-S001319; T06-036",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "བགས་ཀྱིས་",
+    "English": "gently",
+    "Meaning and scope": "Provisional adverb; intended force remains open.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001316; T06-036",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མུ་",
+    "English": "limit",
+    "Meaning and scope": "Bare limits in the permanence/annihilation construction; distinguish exact mtha form.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001318; T06-L011",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ངང་གིས་",
+    "English": "naturally",
+    "Meaning and scope": "Adverbial construction distinct from nominal state and canonical intrinsic nature.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རང་བཞིན་",
+    "Rationale and sources": "MTP-S001320; T06-036",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཁ་སྦྱར་",
+    "English": "joining face to face",
+    "Meaning and scope": "Exact source image; no absent participants or anatomy added.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001325; T06-037",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "རྒྱུ་",
+    "English": "cause",
+    "Meaning and scope": "Bare cause in the nominal predicate sequence.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001326; T06-L011",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཀུན་བདག་",
+    "English": "lord of all",
+    "Meaning and scope": "Mandala apposition: lord of all secret mantra; referent/attachment remains tentative.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001328; T06-037",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "གསང་བ་",
+    "English": "secret",
+    "Meaning and scope": "Nominal secrecy in the primordial-radiance genitive chain and secret in result/title contexts; source construction controls nominal/adjectival use.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001331; MTP-S001412; MTP-S001426; T06-049, T06-L011, T06-L014",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མཐོང་བྱེད་སྒོ་",
+    "English": "gate that enables seeing",
+    "Meaning and scope": "Whole enabling-gate construction; no anatomical location or numerical reconciliation inferred.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001333; T06-038",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "དག་པ་དབྱིངས་ཀྱི་སྒྲོན་མ་",
+    "English": "lamp of pure basic space",
+    "Meaning and scope": "Exact narrower expression lacks the perfectly-pure wording of the longer canonical lamp name.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "དབྱིངས་རྣམ་པར་དག་པའི་སྒྲོན་མ་",
+    "Rationale and sources": "MTP-S001337; T06-038",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཤེས་རབ་རང་བྱུང་ཉིད་",
+    "English": "naturally arising discerning knowing itself",
+    "Meaning and scope": "Whole attested expression retains nyid; no overt lamp noun occurs, so the complete longer lamp assignment is not imported.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "ཤེས་རབ་; ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ་",
+    "Rationale and sources": "MTP-S001338; T06-038",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མཐོང་བྱེད་ཡུལ་",
+    "English": "object of seeing",
+    "Meaning and scope": "Whole seeing/object construction; precise relation remains tentative.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001340; T06-038",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཚངས་པའི་སྒོ་",
+    "English": "gate of Brahmā",
+    "Meaning and scope": "Named gate without a supplied physical location; relation to great bliss remains open.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001342; T06-038",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མདངས་",
+    "English": "luster",
+    "Meaning and scope": "Exact written form distinct from canonical gdangs radiance.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "གདངས་",
+    "Rationale and sources": "MTP-S001343; T06-038",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཐིག་",
+    "English": "Thig",
+    "Meaning and scope": "Isolated syllable transliteration within the local explanation; canonical undivided thig le remains sphere. No independent dictionary meaning approved.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "ཐིག་ལེ་",
+    "Rationale and sources": "MTP-S001344; T06-039",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ལེ་",
+    "English": "le",
+    "Meaning and scope": "Isolated syllable transliteration across the page marker; does not replace sphere for undivided thig le.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "ཐིག་ལེ་",
+    "Rationale and sources": "MTP-S001346; T06-039",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "དག་པ་",
+    "English": "pure",
+    "Meaning and scope": "Bare purity/pure without an absent primordial, self or perfectly modifier; source case and adjectival construction retained.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "ཀ་དག་; རང་དག་",
+    "Rationale and sources": "MTP-S001349; MTP-S001354; MTP-S001414; T06-L012, T06-L014",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཁྱབ་བྱེད་མཐིང་ག་",
+    "English": "pervading blue",
+    "Meaning and scope": "Whole stated blue expression; no unstated colored entity or anatomical referent supplied.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001353; T06-040",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཁ་དོག་",
+    "English": "color",
+    "Meaning and scope": "Explicit five retained without supplying their names.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001355; T06-L012",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མེ་སྒྲོན་",
+    "English": "fire-lamp",
+    "Meaning and scope": "Whole fire-lamp image; burning is independently present as sreg byed, not part of this primary gloss.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001356; T06-L012",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "གཅིག་ཆར་",
+    "English": "simultaneously",
+    "Meaning and scope": "Exact g-prefix adverb distinct from earlier cig char and canonical named practitioner form.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "གཅིག་ཅར་བ་",
+    "Rationale and sources": "MTP-S001357; T06-L012",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "རང་",
+    "English": "Rang",
+    "Meaning and scope": "Quoted self-component within the apparent shes rab rang byung explanation; no general standalone rendering or doctrinal identity approved.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རང་བྱུང་ཡེ་ཤེས་; ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ་",
+    "Rationale and sources": "MTP-S001359; T06-041",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "བྱུང་བ་",
+    "English": "Byung ba",
+    "Meaning and scope": "Quoted arising-component; full byung ba form retained rather than claiming canonical authority for a dissected component.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རང་བྱུང་ཡེ་ཤེས་; ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ་",
+    "Rationale and sources": "MTP-S001360; T06-041",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "གཞན་ལྟོས་",
+    "English": "dependent on others",
+    "Meaning and scope": "Local dependence construction; not an inserted technical taxonomy.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001359; T06-041",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མ་བཀག་",
+    "English": "unobstructed",
+    "Meaning and scope": "Exact negative construction retains ma in the headword, so the primary gloss does not import an absent negation.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001360; T06-041",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "འཆར་བྱེད་སྒོ་",
+    "English": "gate that enables arising",
+    "Meaning and scope": "Whole enabling-gate expression; each separate gate is retained without a supplied location.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001361; MTP-S001405; T06-041, T06-047",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "འཛིན་བྱེད་",
+    "English": "apprehend",
+    "Meaning and scope": "Verbal agent construction for the comparison hook; not a replacement of canonical apprehending-subject noun.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "འཛིན་པ་",
+    "Rationale and sources": "MTP-S001363; T06-L013",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཞགས་",
+    "English": "Lasso",
+    "Meaning and scope": "Isolated nominal component in the apparent named-lamp explanation; no replacement of the complete lamp name.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རྒྱང་ཞགས་ཆུའི་སྒྲོན་མ་",
+    "Rationale and sources": "MTP-S001367; T06-042",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཆུ་",
+    "English": "Water",
+    "Meaning and scope": "Isolated nominal component of the apparent lamp explanation, not a new complete lamp assignment.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རྒྱང་ཞགས་ཆུའི་སྒྲོན་མ་",
+    "Rationale and sources": "MTP-S001369; T06-042",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "གཟུང་",
+    "English": "apprehend",
+    "Meaning and scope": "Provisional verbal rendering; fully follows explicit rnam par. Canonical nominal apprehended object remains separately visible.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "གཟུང་བ་",
+    "Rationale and sources": "MTP-S001368; T06-042",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "དངས་སྙིགས་",
+    "English": "clear and sediment",
+    "Meaning and scope": "Two nominal components in distinguishes the clear from the sediment; not canonical clarity or essence.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "གསལ་བ་; ངོ་བོ་",
+    "Rationale and sources": "MTP-S001369; T06-L013",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "དངས་མ་",
+    "English": "refined essence",
+    "Meaning and scope": "Unlisted refinement term distinct from canonical essence for ngo bo.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "ངོ་བོ་",
+    "Rationale and sources": "MTP-S001371; T06-042",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ལུ་གུ་རྒྱུད་",
+    "English": "chain",
+    "Meaning and scope": "Occurrence-specific proposed exception in the explicit craftsman comparison: gold comes from gser. Canonical vajra chains remains at S1376 and other visionary loci; no approved general exception is claimed.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "ལུ་གུ་རྒྱུད་",
+    "Rationale and sources": "MTP-S001372; T06-043",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "བཟོ་མཁས་",
+    "English": "skilled craftsman",
+    "Meaning and scope": "Ordinary craftsman in the gold-chain comparison, distinct from canonical contriver.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "བཟོ་བྱེད་",
+    "Rationale and sources": "MTP-S001373; T06-043",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "བརྒྱུས་",
+    "English": "string",
+    "Meaning and scope": "Exact verb form distinct from rgyud continuum; no source normalization.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རྒྱུད་",
+    "Rationale and sources": "MTP-S001373; T06-043",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "འབྲེལ་ཆགས་",
+    "English": "connected in succession",
+    "Meaning and scope": "Connection predicate of canonical vajra chains.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001376; T06-043",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "བུ་ག་",
+    "English": "opening",
+    "Meaning and scope": "Bare opening of great bliss; no absent anatomy supplied.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001377; T06-043",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མ་སྨིན་",
+    "English": "unripened",
+    "Meaning and scope": "Exact negative form; the final nominal referent of from the unripened remains open.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001379; MTP-S001386; T06-044",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "གྲོལ་བྱེད་",
+    "English": "liberating",
+    "Meaning and scope": "Whole agentive/causative modifier of embodiments and primordial knowing; no self/primordial liberation modifier imported.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "ཡེ་གྲོལ་; རང་གྲོལ་",
+    "Rationale and sources": "MTP-S001380; T06-L013",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "སྐྱེ་བཞི་",
+    "English": "four births",
+    "Meaning and scope": "Exact short expression with overt four; the following classes are not forced into four named births.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001381; T06-044",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཡི་དྭགས་",
+    "English": "hungry ghost",
+    "Meaning and scope": "Exact later spelling; same local provisional sense as yi dags, with distinct source forms preserved.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001384; T06-044",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མངོན་སྣང་",
+    "English": "manifest appearance",
+    "Meaning and scope": "Explicit manifest-appearance compound; no source substitution of an established vision name.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001393; T06-046",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "འདུ་འབྲལ་",
+    "English": "coming together and separation",
+    "Meaning and scope": "Ordered nominal pair under overt med absence; not canonical proliferating and gathering.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "འཕྲོ་འདུ་",
+    "Rationale and sources": "MTP-S001396; T06-L014",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "རྗོད་བྱེད་",
+    "English": "what expresses",
+    "Meaning and scope": "Nominal expressor construction under freedom-from predicate; distinct from sgr word.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "སྒྲ་",
+    "Rationale and sources": "MTP-S001397; T06-046",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མ་སྤྲོས་",
+    "English": "unelaborated",
+    "Meaning and scope": "Exact negative elaboration verb; not an imported general emptiness claim.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "སྤྲོས་བྲལ་",
+    "Rationale and sources": "MTP-S001402; T06-046",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "འབྲིང་",
+    "English": "middling",
+    "Meaning and scope": "Bare nominal middling without the faculty noun of the canonical whole expression; referent remains open.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "དབང་པོ་འབྲིང་",
+    "Rationale and sources": "MTP-S001404; T06-046",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "བདེན་པ་",
+    "English": "truth",
+    "Meaning and scope": "Full attested truth noun, kept distinct in spelling from earlier bare bden; from each distinction retains las.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001406; T06-L014",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "བརྟས་",
+    "English": "increase",
+    "Meaning and scope": "Appearance increases; no named canonical vision supplied.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001409; T06-047",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མཚན་ཉིད་",
+    "English": "defining characteristic",
+    "Meaning and scope": "Explicit characterization predicate, distinct from canonical essence.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "ངོ་བོ་",
+    "Rationale and sources": "MTP-S001420; T06-048",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཁྱབ་",
+    "English": "pervasiveness",
+    "Meaning and scope": "Bare nominal pervasion without an absent all qualifier.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001422; T06-L014",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "གཅིག་པུ་",
+    "English": "uniqueness",
+    "Meaning and scope": "Nominal unique/single quality in the final triad; distinguish the separately attested nyag gcig form.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001422; T06-L014",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "རང་སོ་",
+    "English": "one’s own condition",
+    "Meaning and scope": "Exact own-condition expression; precise sense remains open.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001424; T06-048",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "རྒྱུད་",
+    "English": "tantra",
+    "Meaning and scope": "Occurrence-specific proposed textual-title exception; canonical continuum remains at S1364. No approved or global replacement asserted.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "རྒྱུད་",
+    "Rationale and sources": "MTP-S001426; T06-049",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "མུ་ཏིག་ཕྲེང་བ་",
+    "English": "String of Pearls",
+    "Meaning and scope": "Whole title in the prose colophon, with precious and secret separately stated.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001426; T06-049",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "རིན་པོ་ཆེ་",
+    "English": "precious",
+    "Meaning and scope": "Title qualifier, not an omitted title honorific or a new default for precious one.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001426; T06-049",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཐབས་ལ་མཁས་པ་",
+    "English": "skill in means",
+    "Meaning and scope": "Exact locative skill-in-means construction; relation to appearances of sentient beings remains reviewable.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001427; T06-049",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "སྒོ་ལྔ་",
+    "English": "five gates",
+    "Meaning and scope": "Overt numbered gate expression in the continuum/stallion image; no absent sense qualifier or named enumeration supplied.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001364; T06-042",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཚད་",
+    "English": "measure",
+    "Meaning and scope": "Measure of realization in a distributive construction, without importing a named vision of awareness reaching its limit.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001408; T06-047",
+    "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
+  },
+  {
+    "Tibetan": "ཡོད་མེད་",
+    "English": "existence and nonexistence",
+    "Meaning and scope": "Ordered overt positive/negative pair; the following predicate remains completely clear rather than being repaired to elimination.",
+    "Allowed grammatical forms": "Source-supported number/inflection only; recorded chapter 6 constructions.",
+    "Contextual exceptions": "No wider default established.",
+    "Related entries": "",
+    "Rationale and sources": "MTP-S001317; T06-036",
     "Status and open questions": "Proposed; inactive. Review exact construction, source and local note before owner approval."
   }
 ]

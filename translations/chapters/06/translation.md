@@ -542,12 +542,12 @@ The right, Roma, is the conventional sphere:
 a part of the limbs of great bliss.
 The source of gathered bliss
 is the great secret of all buddhas;
-[it is] intrinsic nature indicated by means.[^T06-035][^CH06-G001306][^CH06-G001307][^MTP-AUDIT-C06-230][^MTP-AUDIT-C06-238][^MTP-AUDIT-C06-239][^MTP-AUDIT-C06-240][^MTP-AUDIT-C06-241][^MTP-AUDIT-C06-242]
+[it is] intrinsic nature indicated by means.[^T06-035][^CH06-G001306][^CH06-G001307][^MTP-AUDIT-C06-230][^MTP-AUDIT-C06-238][^MTP-AUDIT-C06-239][^MTP-AUDIT-C06-240][^MTP-AUDIT-C06-241][^MTP-AUDIT-C06-242][^T06-L011]
 
 <!-- pair: MTP-000412 -->
 
 Endowed with the intrinsic nature of ultimate dharma embodiment,
-[it] abides as one sphere of emptiness-clarity.[^T06-035][^CH06-G001311][^CH06-G001312][^MTP-AUDIT-C06-230][^MTP-AUDIT-C06-243][^MTP-AUDIT-C06-244]
+[it] abides as one sphere of emptiness-clarity.[^T06-035][^CH06-G001311][^CH06-G001312][^MTP-AUDIT-C06-230][^MTP-AUDIT-C06-243][^MTP-AUDIT-C06-244][^T06-L011]
 
 <!-- pair: MTP-000413 -->
 
@@ -558,27 +558,27 @@ Endowed with the intrinsic nature of ultimate dharma embodiment,
 [It] abides within the center, and intrinsic nature is clear;
 [it] is beyond the objects of proliferating and gathering, speaking and thinking.
 Gently, [it is] free from differentiating conceptualization.
-The two extremes of existence and nonexistence are completely clear.[^T06-036][^MTP-AUDIT-C06-246][^MTP-AUDIT-C06-247][^MTP-AUDIT-C06-248][^MTP-AUDIT-C06-249][^MTP-AUDIT-C06-250][^MTP-AUDIT-C06-251]
+The two extremes of existence and nonexistence are completely clear.[^T06-036][^MTP-AUDIT-C06-246][^MTP-AUDIT-C06-247][^MTP-AUDIT-C06-248][^MTP-AUDIT-C06-249][^MTP-AUDIT-C06-250][^MTP-AUDIT-C06-251][^T06-L011][^T06-L012]
 
 <!-- pair: MTP-000415 -->
 
 There is no abiding at the limits of permanence and annihilation.
 Free from differentiating conceptualization, [there is] spontaneous presence.
 Without expression, [it is] naturally empty.
-[It is] the sphere of the ultimate entity.[^T06-036][^MTP-AUDIT-C06-246][^MTP-AUDIT-C06-252][^MTP-AUDIT-C06-253]
+[It is] the sphere of the ultimate entity.[^T06-036][^MTP-AUDIT-C06-246][^MTP-AUDIT-C06-252][^MTP-AUDIT-C06-253][^T06-L011][^T06-L015]
 
 <!-- pair: MTP-000416 -->
 
 On the left abides the sphere of intrinsic nature.
 Through bliss, union pervades both;
 without abiding utterly,
-through joining face to face, bliss is attained.[^T06-037][^MTP-AUDIT-C06-246][^MTP-AUDIT-C06-254][^MTP-AUDIT-C06-255][^MTP-AUDIT-C06-256][^MTP-AUDIT-C06-257]
+through joining face to face, bliss is attained.[^T06-037][^MTP-AUDIT-C06-246][^MTP-AUDIT-C06-254][^MTP-AUDIT-C06-255][^MTP-AUDIT-C06-256][^MTP-AUDIT-C06-257][^T06-L011]
 
 <!-- pair: MTP-000417 -->
 
 [It is] the cause of Mahamudra itself,
 the path of great bliss, great primordial knowing,
-the mandala, lord of all secret mantra.[^T06-037][^MTP-AUDIT-C06-246][^MTP-AUDIT-C06-258][^MTP-AUDIT-C06-259][^MTP-AUDIT-C06-260][^MTP-AUDIT-C06-261][^MTP-AUDIT-C06-262]
+the mandala, lord of all secret mantra.[^T06-037][^MTP-AUDIT-C06-246][^MTP-AUDIT-C06-258][^MTP-AUDIT-C06-259][^MTP-AUDIT-C06-260][^MTP-AUDIT-C06-261][^MTP-AUDIT-C06-262][^T06-L011]
 
 <!-- pair: MTP-000418 -->
 
@@ -588,13 +588,13 @@ the mandala, lord of all secret mantra.[^T06-037][^MTP-AUDIT-C06-246][^MTP-AUDIT
 
 [It is] the great means that rescues saṃsāra,
 the light blazing with the primordial radiance of secrecy.
-That is the essence of great bliss.[^T06-037][^MTP-AUDIT-C06-260][^MTP-AUDIT-C06-264][^MTP-AUDIT-C06-265][^MTP-AUDIT-C06-266]
+That is the essence of great bliss.[^T06-037][^MTP-AUDIT-C06-260][^MTP-AUDIT-C06-264][^MTP-AUDIT-C06-265][^MTP-AUDIT-C06-266][^T06-L011]
 
 <!-- pair: MTP-000420 -->
 
 The path of going is the gate that enables seeing.
 That itself: two on the right, two on the left, and the center,
-abides in the manner of a blazing lamp.[^T06-038][^MTP-AUDIT-C06-260][^MTP-AUDIT-C06-267][^MTP-AUDIT-C06-268][^MTP-AUDIT-C06-269]
+abides in the manner of a blazing lamp.[^T06-038][^MTP-AUDIT-C06-260][^MTP-AUDIT-C06-267][^MTP-AUDIT-C06-268][^MTP-AUDIT-C06-269][^T06-L012]
 
 <!-- pair: MTP-000421 -->
 
@@ -621,7 +621,7 @@ Thig: there is no change;[^T06-039][^MTP-AUDIT-C06-260][^MTP-AUDIT-C06-278][^MTP
 <!-- pair: MTP-000425 -->
 
 le pervades and appears to objects.
-The lamp transforms darkness into appearance.[^T06-039][^MTP-AUDIT-C06-279][^MTP-AUDIT-C06-283]
+The lamp transforms darkness into appearance.[^T06-039][^MTP-AUDIT-C06-279][^MTP-AUDIT-C06-283][^T06-L012]
 
 <!-- pair: MTP-000426 -->
 
@@ -630,12 +630,12 @@ through purity the stains of affliction are exhausted.
 Basic space is vast, and its extent is unbroken.
 Because the nature of phenomena is completely pure in the object,
 [it] causes arising from the corners of both.
-The pervading blue is unchanging.[^T06-040][^MTP-AUDIT-C06-279][^MTP-AUDIT-C06-284][^MTP-AUDIT-C06-285][^MTP-AUDIT-C06-286][^MTP-AUDIT-C06-287][^MTP-AUDIT-C06-288]
+The pervading blue is unchanging.[^T06-040][^MTP-AUDIT-C06-279][^MTP-AUDIT-C06-284][^MTP-AUDIT-C06-285][^MTP-AUDIT-C06-286][^MTP-AUDIT-C06-287][^MTP-AUDIT-C06-288][^T06-L012]
 
 <!-- pair: MTP-000427 -->
 
 If [it] meets the conditions of pure appearance,
-[it] becomes endowed with five colors.[^T06-040][^MTP-AUDIT-C06-279][^MTP-AUDIT-C06-289][^MTP-AUDIT-C06-290]
+[it] becomes endowed with five colors.[^T06-040][^MTP-AUDIT-C06-279][^MTP-AUDIT-C06-289][^MTP-AUDIT-C06-290][^T06-L012]
 
 <!-- pair: MTP-000428 -->
 
@@ -644,7 +644,7 @@ knowing realizes phenomena simultaneously.
 Rab becomes the summit of all.
 Rang is free from phenomena dependent on others.
 Byung ba, unobstructed, appears in letting be.
-From the left, the gate that enables arising is unceasing.[^T06-041][^MTP-AUDIT-C06-279][^MTP-AUDIT-C06-291][^MTP-AUDIT-C06-292][^MTP-AUDIT-C06-293][^MTP-AUDIT-C06-294][^MTP-AUDIT-C06-295][^MTP-AUDIT-C06-296][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-298]
+From the left, the gate that enables arising is unceasing.[^T06-041][^MTP-AUDIT-C06-279][^MTP-AUDIT-C06-291][^MTP-AUDIT-C06-292][^MTP-AUDIT-C06-293][^MTP-AUDIT-C06-294][^MTP-AUDIT-C06-295][^MTP-AUDIT-C06-296][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-298][^T06-L012]
 
 <!-- pair: MTP-000429 -->
 
@@ -655,7 +655,7 @@ From the left, the gate that enables arising is unceasing.[^T06-041][^MTP-AUDIT-
 Like a hook that apprehends,
 the continuum, on the stallion of the five gates—
 mental consciousness mounts and moves,
-entering all objects and gathering.[^T06-042][^CH06-G001364][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-300][^MTP-AUDIT-C06-301][^MTP-AUDIT-C06-302]
+entering all objects and gathering.[^T06-042][^CH06-G001364][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-300][^MTP-AUDIT-C06-301][^MTP-AUDIT-C06-302][^T06-L012][^T06-L013][^T06-L015]
 
 <!-- pair: MTP-000431 -->
 
@@ -666,7 +666,7 @@ the ordinary mind of the apprehending subject fully apprehends.[^T06-042][^MTP-A
 
 “Water” distinguishes the clear from the sediment.
 Moreover, in the two the portions are equal.
-In brief, [it] is the refined essence of the faculties.[^T06-042][^CH06-G001371][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-303][^MTP-AUDIT-C06-304]
+In brief, [it] is the refined essence of the faculties.[^T06-042][^CH06-G001371][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-303][^MTP-AUDIT-C06-304][^T06-L013]
 
 <!-- pair: MTP-000433 -->
 
@@ -675,13 +675,13 @@ well strung by a skilled craftsman,
 awareness knows and is aware of everything.
 Free from conceptualization, [it] is unstained by saṃsāra.
 Vajra chains are connected in succession.
-The opening of great bliss is the path free from conceptualization.[^T06-043][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-305][^MTP-AUDIT-C06-306][^MTP-AUDIT-C06-307][^MTP-AUDIT-C06-308][^MTP-AUDIT-C06-309]
+The opening of great bliss is the path free from conceptualization.[^T06-043][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-305][^MTP-AUDIT-C06-306][^MTP-AUDIT-C06-307][^MTP-AUDIT-C06-308][^MTP-AUDIT-C06-309][^T06-L013]
 
 <!-- pair: MTP-000434 -->
 
 The result is said to be two རྣལ་བ:
 unripened saṃsāra itself,
-and the liberating embodiments and primordial knowing.[^T06-044][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-310][^MTP-AUDIT-C06-311][^MTP-AUDIT-C06-312]
+and the liberating embodiments and primordial knowing.[^T06-044][^MTP-AUDIT-C06-297][^MTP-AUDIT-C06-310][^MTP-AUDIT-C06-311][^MTP-AUDIT-C06-312][^T06-L013]
 
 <!-- pair: MTP-000435 -->
 
@@ -696,14 +696,14 @@ Those, moreover, are encompassed by the four births:[^T06-044][^MTP-AUDIT-C06-29
 gods, demigods, humans,
 animals, hungry ghosts,
 and likewise the world of hells
-appear as forms from the unripened.[^T06-044][^MTP-AUDIT-C06-314][^MTP-AUDIT-C06-315][^MTP-AUDIT-C06-316][^MTP-AUDIT-C06-317][^MTP-AUDIT-C06-318][^MTP-AUDIT-C06-319]
+appear as forms from the unripened.[^T06-044][^MTP-AUDIT-C06-314][^MTP-AUDIT-C06-315][^MTP-AUDIT-C06-316][^MTP-AUDIT-C06-317][^MTP-AUDIT-C06-318][^MTP-AUDIT-C06-319][^T06-L013]
 
 <!-- pair: MTP-000438 -->
 
 Those have desire and hatred,
 pride, deluded dullness, jealousy, and the like
 as the roots of the stains of affliction;
-[they] are encompassed by many thousands.[^T06-045][^MTP-AUDIT-C06-314][^MTP-AUDIT-C06-320][^MTP-AUDIT-C06-321][^MTP-AUDIT-C06-322]
+[they] are encompassed by many thousands.[^T06-045][^MTP-AUDIT-C06-314][^MTP-AUDIT-C06-320][^MTP-AUDIT-C06-321][^MTP-AUDIT-C06-322][^T06-L014]
 
 <!-- pair: MTP-000439 -->
 
@@ -716,13 +716,13 @@ The object of manifest appearance is like this:
 three embodiments and five primordial knowings
 are pervaded by emptiness and clarity.
 Because the sphere has no coming together or separation,
-[there are] no utterances, and [it is] free from what expresses.[^T06-046][^MTP-AUDIT-C06-314][^MTP-AUDIT-C06-325][^MTP-AUDIT-C06-326][^MTP-AUDIT-C06-327][^MTP-AUDIT-C06-328]
+[there are] no utterances, and [it is] free from what expresses.[^T06-046][^MTP-AUDIT-C06-314][^MTP-AUDIT-C06-325][^MTP-AUDIT-C06-326][^MTP-AUDIT-C06-327][^MTP-AUDIT-C06-328][^T06-L014]
 
 <!-- pair: MTP-000441 -->
 
 In the place of primordial purity
 that is free from stains, all are manifestly buddha;
-there, stainless, [they are] free from dust,[^T06-046][^MTP-AUDIT-C06-314][^MTP-AUDIT-C06-329][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-331][^MTP-AUDIT-C06-332]
+there, stainless, [they are] free from dust,[^T06-046][^MTP-AUDIT-C06-314][^MTP-AUDIT-C06-329][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-331][^MTP-AUDIT-C06-332][^T06-L014]
 
 <!-- pair: MTP-000442 -->
 
@@ -730,32 +730,32 @@ there, stainless, [they are] free from dust,[^T06-046][^MTP-AUDIT-C06-314][^MTP-
 
 <!-- pair: MTP-000443 -->
 
-unelaborated by conceptual elaborations.[^T06-046][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-334]
+unelaborated by conceptual elaborations.[^T06-046][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-334][^T06-L014]
 
 <!-- pair: MTP-000444 -->
 
 Into the spontaneous presence of various appearances,
-the middling and the like are liberated on the path.[^T06-046][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-335][^MTP-AUDIT-C06-336]
+the middling and the like are liberated on the path.[^T06-046][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-335][^MTP-AUDIT-C06-336][^T06-L014]
 
 <!-- pair: MTP-000445 -->
 
 From each of the gates that enable arising,
 from each distinction of truth,
 through each knowing of an object,
-a corresponding measure of realization is found.[^T06-047][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-337][^MTP-AUDIT-C06-338][^MTP-AUDIT-C06-339][^MTP-AUDIT-C06-340]
+a corresponding measure of realization is found.[^T06-047][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-337][^MTP-AUDIT-C06-338][^MTP-AUDIT-C06-339][^MTP-AUDIT-C06-340][^T06-L014]
 
 <!-- pair: MTP-000446 -->
 
 Then, as appearance increases,
 [one] gradually sees the primordial purity of the nature of phenomena.
 Through that too, [one] attains the result, great bliss,
-the single secret of all buddhas.[^T06-047][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-341][^MTP-AUDIT-C06-342][^MTP-AUDIT-C06-343][^MTP-AUDIT-C06-344]
+the single secret of all buddhas.[^T06-047][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-341][^MTP-AUDIT-C06-342][^MTP-AUDIT-C06-343][^MTP-AUDIT-C06-344][^T06-L014]
 
 <!-- pair: MTP-000447 -->
 
 As for the result itself, in those
 the two, stain and purity,
-abide as intrinsic nature.[^T06-048][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-345][^MTP-AUDIT-C06-346]
+abide as intrinsic nature.[^T06-048][^MTP-AUDIT-C06-330][^MTP-AUDIT-C06-345][^MTP-AUDIT-C06-346][^T06-L014]
 
 <!-- pair: MTP-000448 -->
 
@@ -777,7 +777,7 @@ essence is its defining characteristic.[^T06-048][^MTP-AUDIT-C06-330][^MTP-AUDIT
 Primordial purity, pervasiveness, and uniqueness
 are essence itself’s own body.
 Leaving as it is and one’s own condition itself
-are the meditative stability of essence itself.”[^T06-048][^MTP-AUDIT-C06-352][^MTP-AUDIT-C06-355][^MTP-AUDIT-C06-356][^MTP-AUDIT-C06-357]
+are the meditative stability of essence itself.”[^T06-048][^MTP-AUDIT-C06-352][^MTP-AUDIT-C06-355][^MTP-AUDIT-C06-356][^MTP-AUDIT-C06-357][^T06-L014]
 
 <!-- pair: MTP-000452 -->
 
@@ -1645,3 +1645,13 @@ Thus, from the precious secret tantra String of Pearls, the sixth chapter, teach
 [^T06-L009]: The purification series keeps local རྣམ་དག “completely purified,” without substituting self-purified or primordial purity. Full བདེ་བ་ཆེན་པོ is “great bliss,” while short དངོས is “entities”; neither is silently replaced in the source by a different headword spelling. ཀུན་ཁྱབ retains “all-pervading/pervades all,” གཟུགས “form,” and ཡི་གེ “letters.” S1251’s སྤྲོས་པ has provisional “conceptual elaborations,” with “without” supplied by overt མེད. S1283’s དྲི་མེད is adjectival “stainless,” related to earlier nominal stainlessness without an absent adventitious modifier. These remain local proposals.
 
 [^T06-L010]: Expanded ཆོས་ཀྱི་དབྱིངས retains the complete canonical “basic space of phenomena.” The short members ལྟ and སྤྱོད at S1231 retain “view” and “activity.” S1262’s separated སྤྲོས་དང་བྲལ preserves canonical “free from conceptual elaborations.” These are grammatical applications of the named canonical expressions, not new lexical assignments.
+
+[^T06-L011]: The channel/exposition passage retains provisional ཀུན་རྫོབ “conventional,” འབྱུང་གནས “source,” གསང་ཆེན “great secret,” བདེ་བ “bliss,” བདེ་བ་ཆེན་པོ / བདེ་ཆེན “great bliss,” ཐབས “means,” དོན་དམ “ultimate,” རྒྱུ “cause,” ལམ “path,” and སངས་རྒྱས “buddhas.” མཐའ / མུ retain “extremes / limits,” and རྟག་ཆད “permanence and annihilation.” At S1315, “proliferating and gathering” for སྤྲོ་བསྡུ is a local alternative to chapter 5’s inactive “elaboration and withdrawal” proposal; it does not establish that the different canonical འཕྲོ་འདུ occurs here. གསང་སྔགས retains “secret mantra,” while bare གསང་བ and འོད at S1331 are “secrecy” and “light.” None of these recurring uses promotes a proposal to canonical status.
+
+[^T06-L012]: In the lamp exposition, bare ཡུལ and སྒྲོན་མ retain provisional “object” and “lamp”; a complete named-lamp assignment requires its full source expression. ལམ retains “path.” The purity lines keep ཉོན་མོངས “afflictions,” དྲི་མ “stains,” bare དག་པ “purity/pure,” རྐྱེན “conditions,” and ཁ་དོག “colors”; no missing purity modifier or color names are supplied. S1356’s མེ་སྒྲོན is a “fire-lamp,” with burning separately expressed. S1357 has exact གཅིག་ཆར “simultaneously,” distinct from earlier ཅིག་ཆར and from the canonical named practitioner form. Bare ཆོས remains “phenomena,” not an incomplete import of a longer canonical compound.
+
+[^T06-L013]: In the hook/water and result passages, འཛིན་བྱེད has local verbal “apprehends,” and སྡུད “gathering”; neither replaces a complete nominal canonical entry. དངས་སྙིགས is provisionally “the clear [and] the sediment,” and དབང་པོ “faculties.” Recurring འཁོར་བ, བདེ་ཆེན and ལམ remain “saṃsāra,” “great bliss” and “path.” གྲོལ་བྱེད is local “liberating,” retaining the causative/agentive construction. The later being list continues provisional “gods, demigods, humans, animals” for ལྷ, ལྷ་མིན, མི and བྱོལ་སོང; དམྱལ་བ remains “hells,” འཇིག་རྟེན “world,” and གཟུགས “forms.” These are the same scoped choices as their earlier uses, without supplying absent category names.
+
+[^T06-L014]: The closing passage continues provisional “desire, hatred, pride, deluded dullness, jealousy” for འདོད་ཆགས, ཞེ་སྡང, ང་རྒྱལ, གཏི་མུག and ཕྲག་དོག; “deluded dullness” retains the disclosed local alternative to chapter 5’s inactive wording. ཉོན་མོངས / དྲི་མ remain “afflictions / stains,” and bare དག་པ “purity.” ཡུལ, ལམ and bare གྲོལ retain “object,” “path” and “liberated.” འདུ་འབྲལ is “coming together and separation,” with absence separately expressed. དྲི་མེད is “stainless,” རྡུལ “dust,” and སྤྲོས་པ “conceptual elaborations.” Exact བདེན་པ and ཁྱད་པར are “truth” and “distinction”; རིམ་གྱིས becomes adverbial “gradually.” བདེ་ཆེན, གསང་བ and སངས་རྒྱས remain “great bliss,” “secret” and “buddhas.” Bare ཁྱབ and གཅིག་པུ at S1422 are locally nominal “pervasiveness” and “uniqueness,” without adding an absent all qualifier.
+
+[^T06-L015]: S1319’s expanded ལྷུན་གྱིས་གྲུབ preserves canonical “spontaneous presence.” S1365’s short འགྱུ is verbal “moves,” preserving the canonical movement family within the unresolved continuum/stallion/mental-consciousness sentence. These are grammatical applications, not new lexical assignments.
