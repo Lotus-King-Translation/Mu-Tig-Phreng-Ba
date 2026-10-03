@@ -21,5 +21,29 @@
     ],
     "change": "Disclosed chapter6 receptacle/contents and deluded dullness as local alternatives to chapter5 inactive environment/inhabitants and bewilderment proposals.",
     "reason": "Keep prior provisional conventions visible without silently treating either choice as approved. English bodies unchanged."
+  },
+  {
+    "id": "CH06-AUTHOR-C003",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S001265",
+      "MTP-S001266",
+      "MTP-S001267"
+    ],
+    "note_id": "T06-030",
+    "finding": "Q06-002",
+    "old": "This belongs to the perfectly [awakened] buddhas; / [it] has not moved from essence itself: / the unchanging nature of phenomena, utterly stable.",
+    "new": "This, from the perfectly [awakened] buddhas’ / very essence, has not moved: / the unchanging nature of phenomena, utterly stable.",
+    "reason": "Restore the direct genitive relation of buddhas to essence and the outer qualifying relation to nature of phenomena. Note revised to match; fixed source unchanged."
+  },
+  {
+    "id": "CH06-AUTHOR-C004",
+    "class": "presentation",
+    "locus": [
+      "MTP-S001212"
+    ],
+    "old": "for [they] are even in the basic space of phenomena.",
+    "new": "for, in the basic space of phenomena, [they] are even.",
+    "reason": "Make the disclosed predicative evenness reading unmistakable rather than inviting additive even; lexical meaning and fixed source unchanged."
   }
 ]
