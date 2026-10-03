@@ -1,7 +1,7 @@
 # Project status — 2026-10-03
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: English chapter2 reviewed and validated; publication blocked by terminal access; fixed chapter releases1/8
+- Phase: Chapter3 working translation authorized; chapter2 signed candidate awaits tag/receipt; fixed chapter releases1/8
 - Repository: created from Lotus-King-Translation/tibetan-text-project-template
 - Discovery streams: 3/3 bounded surveys completed; BDRC, external catalogues, electronic texts/translations
 - Registered source/research records: 43; this includes unresolved leads and reference works
@@ -21,4 +21,4 @@ Resolve the eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtan
 
 Golden output: [complete reading](golden/reading.md), [machine reading](golden/reading.json), [coverage](golden/coverage.json). Fixed whole-book release: `golden-v1`; publication receipt: `diplomatic/publication/golden-v1.json` on main after the fixed tag.
 
-Golden editorial/source queues are closed. English releases1/8 complete; chapter2 signed working candidate has independent QC and final-mode validation. Canonical coverage221/2053 objects(1832 remaining); released coverage97/2053. Chapter2 has35pairs/175endnotes and152/152 source obligations; four local unresolved pairs. Chapters3–8 have not started. Required chapter2 annotated-tag/receipt publication is blocked: Remote Desktop Commander terminal calls return no output, cloud git lacks authenticated push, and the GitHub connector exposes no annotated-tag creation. Next: restore terminal execution, publish reviewed chapter2, then begin chapter3. See translations/HANDOFF.md. Unresolved witness-research leads remain outside this bounded edition.
+Golden editorial/source queues are closed. English releases1/8 complete; chapter2 signed working candidate has independent QC and final-mode validation. Canonical English coverage221/2053 objects(1832 remaining); released coverage97/2053. Chapter2 has35pairs/175endnotes and152/152 source obligations; four local unresolved pairs. User instructed proceeding to chapter3 while chapter2 annotated-tag/receipt publication is blocked. Chapter3 scope:120objects,8nativepages; source segmentation/audit in progress, no English yet. Chapter4–8 have not started. Final release gates remain strict. See translations/HANDOFF.md and DECISIONS.md.

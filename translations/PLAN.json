@@ -133,28 +133,29 @@
     546,
     547
   ],
-  "current_chapter": 2,
+  "current_chapter": 3,
   "current_source_range": [
-    "MTP-S000098",
-    "MTP-S000221"
+    "MTP-S000222",
+    "MTP-S000341"
   ],
   "current_native_images": [
-    433,
-    434,
-    435,
-    436,
-    437,
-    438,
-    439
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446
   ],
   "source_objects_translated": 221,
   "source_objects_remaining": 1832,
   "chapter_publications_complete": 1,
-  "sequence": "Freeze chapter source pairs; translate; full native main-text comparison and local omission notes; separate QC; validation; signed chapter publication; only then next chapter. Whole-book paired files grow as an explicitly scoped prefix.",
+  "sequence": "Normal sequence: freeze, translate, native audit/endnotes, independent QC, validation, signed chapter publication. User authorized a narrow chapter3 working continuation while the signed chapter2 publication remains pending; final release checks remain strict.",
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
   "independent_human_certification": false,
-  "status": "blocked_at_chapter_2_publication",
+  "status": "chapter_3_working_translation_authorized",
   "source_objects_represented": 221,
   "next_work_authorized": true,
   "chapter_2_state": "Signed reviewed candidate:35pairs/124objects/175endnotes;152/152source obligations; independent QC and final validation passed; annotated tag/receipt pending terminal access.",
@@ -162,5 +163,6 @@
   "chapter_candidates_complete": 2,
   "publication_blocker": "Remote Desktop Commander terminal calls return no output; cloud git has no authenticated push; GitHub connector can commit but exposes no annotated-tag creation.",
   "source_objects_released": 97,
-  "next_finite_task": "Publish reviewed chapter2 annotated tag and verified receipt after terminal access is restored; then freeze chapter3 source pairs."
+  "next_finite_task": "Freeze 120 chapter3 source objects into stable pairs, translate, compare eight Adzom pages, independently review and checkpoint. Chapter2 tag/receipt remains pending.",
+  "chapter_3_state": "Source segmentation and eight-page native audit in progress; no English drafted."
 }

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "chapter": 3,
+  "prior_chapter": 2,
+  "prior_commit": "f0f7097621c021b4a03863dc7b7e8925c6975f86",
+  "prior_build_manifest_sha256": "5d43adcb8f49e8fb1e76c6bcf5dcc12285111b5f39a51ba27cbcf6f8f853e8b1",
+  "authorized_scope": "working_draft_only",
+  "user_instruction": "excellent, move to chapter 3 then",
+  "date": "2026-10-03",
+  "reason": "The user instructed moving to chapter3 after receiving the chapter2 publication blocker. RDC terminal calls returned no output, cloud git has no authenticated push, and the available GitHub connector has no annotated-tag creation. Chapter2 signed candidate remains pinned unchanged; its real tag/receipt and strict final release checks are still required. See DECISIONS.md."
+}

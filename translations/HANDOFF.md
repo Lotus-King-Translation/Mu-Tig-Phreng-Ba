@@ -1,4 +1,4 @@
-# Translation handoff — chapter 2 reviewed; publication access blocked
+# Translation handoff — chapter 3 working continuation
 
 Updated2026-10-03. User authorized continuation through completion on2026-10-02. Fixed source golden-v1 remains commit4d6ba07e1b3379183633127cd387d98d8195eb95. Golden Tibetan and canonical glossary are unchanged.
 
@@ -18,6 +18,8 @@ Updated2026-10-03. User authorized continuation through completion on2026-10-02.
 
 Remote Desktop Commander lists the Mac, but both default-shell and explicit /bin/sh terminal calls returned no output/PID before cancellation. The cloud checkout lacks authenticated git push. GitHub connector checkpoints work, but the available connector has no annotated-tag creation operation. No remote-only Mac work was inspected or modified.
 
-AGENTS.md requires each chapter's release gate before starting the next. Chapter3–8 work has therefore not started. Restore working authenticated terminal access, inspect and preserve any local Mac changes, synchronize this reviewed candidate, rerun chapter2 final validation, publish translate-ch02-v1 with verified tag object/peeled commit and receipt, then begin chapter3(MTP-S000222–MTP-S000341;120objects). Do not move existing fixed tags. The authorization to complete the remaining translation remains in force.
+The user explicitly instructed “excellent, move to chapter 3 then” after receiving this blocker. See DECISIONS.md,2026-10-03. Chapter3 working translation is now authorized despite pending chapter2 publication; no final-release requirement is waived. Preserve chapter2 candidate commit f0f7097621c021b4a03863dc7b7e8925c6975f86 and its signed manifest unchanged. No receipt or tag is fabricated.
+
+Current finite chapter3 scope: MTP-S000222–MTP-S000341,120objects, native images439–446/printed429–436; source segmentation and page comparison in progress, English not started. Freeze source pairs before English, translate all pairs, attach golden/native/translation endnotes, independently review, validate and commit each substantive batch. Real chapter2 tag/receipt remains required before chapter3 final release. Chapter4 has not started.
 
 Unresolved external witness-research leads remain outside this bounded translation task. Golden editorial/source queues stay closed; no new golden changes or restorations were made.
