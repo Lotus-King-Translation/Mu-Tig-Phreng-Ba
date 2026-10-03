@@ -18,8 +18,10 @@ The reviewer has not inspected native images. The separate native audit is evide
 
 - Batch 1: all 49 English pairs 321–369, representing 135 objects S1052–S1186, and all 21 translator notes read against the fixed source. Reviewed draft SHA-256: `a1196126e45f58dc2def9370b74ac7ea256d57905f6c440a609f4f75cdd77ee8`.
 - Seven locally unresolved pairs, 326, 340, 348, 353, 355, 356 and 367, are visibly represented. Retained Tibetan and missing-subject notation are not counted as complete decipherment.
+- Batch 2: all 39 new English pairs 370–408, representing 114 objects S1187–S1300, and translator notes T06-022–034 read against the fixed source. Combined review now covers 88 pairs / 249 objects and all 34 translator notes. Reviewed batch-2 draft SHA-256: `931238dc709ae68f68f402b5641d7c1dd106c7b4bb12acec1b60cd8d6f7efc51`. Six further locally unresolved pairs, 371, 373, 374, 384, 385 and 404, remain visibly represented; the total is thirteen.
+- The S1155 body correction and revised T06-018 were verified, together with their change record. Additions to T06-009/T06-021 explicitly distinguish current provisional terminology from prior inactive proposals; neither becomes approved.
 - Read-only preparation checked exact source order and all 376 audit anchor allocations, finding references and nonempty quoted golden readings against the fixed objects. It read all 21 distinct audit explanation/consequence combinations, the nonagreement records, limitations and special confirmed readings. This is documentary preparation, not complete final generated-endnote QC or visual proof of allocation.
-- Remaining English review: 83 pairs / 241 objects, beginning S1187. Final usage records, eight-column proposals, all generated source endnotes, final outputs and hash-bound QC are still pending.
+- Remaining English review: 44 pairs / 127 objects, beginning S1301. Final usage records, eight-column proposals, all generated source endnotes, final outputs and hash-bound QC are still pending.
 - No automated semantic certification or independent human certification is claimed. The standard's 30 semantic regression fixtures have not been executed by this reviewer.
 
 ## Findings
@@ -34,7 +36,19 @@ The reviewer has not inspected native images. The separate native audit is evide
 - Minimal action: “[they] are accompanied by adventitious conditions”; revise T06-018 to explain the attachment. An alternative analysis would need explicit local support rather than silent separation.
 - Authority: a local grammatical/semantic proposal, not a source edit or activated glossary decision.
 - Rules: Part I §§4–7; QC Q3, Q7, Q9.
-- Disposition: author accepted the immediate construction and plans the body/note correction with the next batch. Verification of the saved correction remains pending.
+- Disposition: author accepted the immediate construction and corrected the body and T06-018 in batch 2, recorded in CH06-AUTHOR-C001. The reviewer verified the saved correction. Closed.
+
+### Q06-002 — the buddhas' essence in the genitive chain
+
+- Source: S1265–S1267, `རྫོགས་པའི་སངས་རྒྱས་ཀྱི / ངོ་བོ་ཉིད་ལས་མ་གཡོས་པའི / མི་འགྱུར་ཆོས་ཉིད་རབ་ཏུ་བརྟན`.
+- Draft: pair MTP-000395, “This belongs to the perfectly [awakened] buddhas; / [it] has not moved from essence itself: / the unchanging nature of phenomena, utterly stable.” T06-030 discloses this attachment as provisional.
+- Label/category: probable error; syntax/reference and possession.
+- Severity: Medium. Confidence: Moderate; the terse predicate remains open to interpretation, but the nearest genitive attachment is appreciably stronger than the drafted redistribution.
+- Evidence: `སངས་རྒྱས་ཀྱི` immediately qualifies `ངོ་བོ་ཉིད`; the outer `མ་གཡོས་པའི` qualifies the unchanging nature of phenomena. “Belongs to” instead attaches possession to “This” while leaving essence unqualified.
+- Minimal action: preserve the buddhas' essence as the complement of “has not moved from,” and retain the nature of phenomena as the described subject. A tentative line-preserving candidate sent to the author is “This, from the perfectly [awakened] buddhas’ / very essence, has not moved: / the unchanging nature of phenomena, utterly stable.” The final local English can improve grammar without changing that relationship.
+- Authority: local syntax correction proposal; no canonical terminology or source edit.
+- Rules: Part I §§4–5, 7; QC Q3, Q7, Q9.
+- Disposition: sent to the author for source recheck and minimal correction; verification pending.
 
 ## Important conforming and unresolved usages
 
@@ -42,4 +56,6 @@ Protected ordinary mind, intrinsic nature, enlightened intent, primordial knowin
 
 The S1114/S1115 print-versus-fixed spelling differences are disclosed locally. The print's prefixed spelling at S1115 does not settle absence of both versus nonduality; T06-012 retains that scope question. T06-013 likewise discloses the alternative at S1123. S1121's “I depend on all” preserves the source direction instead of reversing it. S1146 retains the instrumental form and visible subject gap; S1150 keeps the uncertain fixed form. These are responsible review flags within this batch, not claims that the readings have been resolved.
 
-No other confirmed English-body mismatch was identified within this first batch. Proposed glossary decisions and final usage completeness remain unassessed until their records are supplied. Coverage is partial; complete-chapter disposition is undetermined.
+Batch 2 retains both fixed mother-and-child phrases at S1190–S1191 and explicitly attributes the print's uncertain repetition/layer difference to the native audit. The difficult attachment and binding sequence at S1225–S1234 is not silently turned into a uniform release sequence. The explicit vajra preceding canonical vajra chains at S1291 remains visible and unresolved rather than silently collapsed. S1212's “even” is explained in T06-025 as predicative evenness, not additive “even”; optional word-order clarification was suggested without adding a source-absent verb.
+
+No other confirmed English-body mismatch was identified within the first two batches. Proposed glossary decisions and final usage completeness remain unassessed until their records are supplied. Coverage is partial; complete-chapter disposition is undetermined.

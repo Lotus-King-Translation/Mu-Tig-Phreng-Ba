@@ -170,7 +170,7 @@
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
   "independent_human_certification": false,
-  "status": "chapter_6_english_batch_1",
+  "status": "chapter_6_english_batch_2",
   "source_objects_represented": 1051,
   "next_work_authorized": true,
   "chapter_2_state": "Signed reviewed candidate:35pairs/124objects/175endnotes;152/152source obligations; independent QC and final validation passed; annotated tag/receipt pending terminal access.",
@@ -187,5 +187,5 @@
   "chapter_5_state": "Signed independently reviewed working candidate:135pairs/416objects/520notes;432/432obligations;277usage records/466loci;224inactiveproposals;92translated/16locallyunresolved/27metadata. Reproducible draft-candidate and signed-content checks pass. Genuine formal tags/receipts pending.",
   "chapter_5_build_manifest_sha256": "0afe04a17427ac29e9aff38de4e8c469e9aafbd7a011a9a8acb4a6a49e1abd02",
   "chapter_5_candidate_commit": "c0b7945a56e8c670363d50a6c67448bdda83003a",
-  "chapter_6_state": "English batch1:49pairs/135objects throughS1186;21authornotes;33translated/7unresolved/9metadata. IndependentQCandlexicalsupport inprogress. Complete23pageauditsealed. Remaining83pairs/241objects."
+  "chapter_6_state": "English through S1300: 88 pairs / 249 objects, 34 author notes; 59 translated, 13 unresolved, 16 metadata. First QC attachment correction accepted and saved. Independent review and lexical support continue; final 44 pairs / 127 objects pending."
 }
