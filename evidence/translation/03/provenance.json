@@ -1,0 +1,37 @@
+{
+  "source": "editions/scans/adzom-1973/iiif-response-images.zip",
+  "manifest": "editions/scans/adzom-1973/image-manifest.json",
+  "operation": "Exact native response-image byte extraction; no transformation or enhancement. Small evidence pages stored as normal Git blobs under explicit per-path attributes because authenticated LFS push is unavailable.",
+  "pages": [
+    {
+      "path": "evidence/translation/03/00440.png",
+      "sha256": "e5cf3e7c463b7b151076ef73a448b0452c8ad625d6088bb3c237e8975afa479c",
+      "image_index": 440,
+      "printed_page": 430
+    },
+    {
+      "path": "evidence/translation/03/00441.png",
+      "sha256": "ff18143359ca1b6d843eb28c32fe46f737099732bfe773388d90f32794d5235f",
+      "image_index": 441,
+      "printed_page": 431
+    },
+    {
+      "path": "evidence/translation/03/00442.png",
+      "sha256": "c6a156815f781397421728cee46cd5afe787f92057b6206fe9db145b00efe597",
+      "image_index": 442,
+      "printed_page": 432
+    },
+    {
+      "path": "evidence/translation/03/00443.png",
+      "sha256": "6561e2366702f0992b13b7177fabcea27a08ed5c8ddbebf077b9be77d8f1da51",
+      "image_index": 443,
+      "printed_page": 433
+    },
+    {
+      "path": "evidence/translation/03/00445.png",
+      "sha256": "ea3a251589b21b0548a876d26df03adcfc4a53eddf2583d214c76407c9d550fd",
+      "image_index": 445,
+      "printed_page": 435
+    }
+  ]
+}

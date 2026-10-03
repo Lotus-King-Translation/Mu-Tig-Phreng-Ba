@@ -74,25 +74,46 @@ def golden_obligations(rows,changes):
         for i,_ in enumerate(r['uncertainty']):result[f'golden-uncertainty:{r["id"]}:{i}']={'golden_ids':[r['id']],'kind':'uncertainty'}
     return result
 
-def prior(root,n):
+def fixed_prior(root,k,ref):
+    """Check the complete prior chapter and its inputs against an immutable ref."""
+    d=directory(root,k);prefix=d.relative_to(root).as_posix()+'/'
+    paths=git(root,'ls-tree','-rz','--name-only',ref,'--',prefix).split(b'\0')
+    needed={prefix+x for x in (*OUTPUTS,'build-manifest.json','source.md','translation.md','signoff.json','qc.json')}
+    actual={x.decode() for x in paths if x};need(needed<=actual,'Prior release files missing')
+    for rel in actual:need(safe(root,rel).read_bytes()==git(root,'show',ref+':'+rel),'Prior released bytes changed: '+rel)
+    for rel,expected in load(d/'build-manifest.json')['input_sha256'].items():
+        need(digest(safe(root,rel))==expected,'Prior released input changed: '+rel)
+        tagged=git(root,'show',ref+':'+rel)
+        lfs=re.fullmatch(rb'version https://git-lfs.github.com/spec/v1\noid sha256:([0-9a-f]{64})\nsize ([0-9]+)\n',tagged)
+        need((lfs.group(1).decode() if lfs else sha(tagged))==expected,'Prior tagged input differs: '+rel)
+    final_gate(root,k)
+
+def draft_authorization(root,n,commit):
+    """A chapter-3-only working exception; never a publication receipt."""
+    need(n==3,'Draft continuation is authorized only for chapter 3')
+    need(isinstance(commit,str) and re.fullmatch(r'[0-9a-f]{40}',commit),'Draft prior commit must be a full commit SHA')
+    rel='translations/draft-authorizations/ch03.json';path=safe(root,rel);a=load(path)
+    need(path.read_bytes()==git(root,'show','HEAD:'+rel),'Draft authorization must be committed unchanged')
+    need(a.get('schema_version')==1 and a.get('chapter')==3 and a.get('prior_chapter')==2 and a.get('prior_commit')==commit,'Draft authorization scope/commit mismatch')
+    need(a.get('authorized_scope')=='working_draft_only' and a.get('user_instruction')=='excellent, move to chapter 3 then' and a.get('date') and a.get('reason'),'Incomplete working-draft authorization')
+    need(git(root,'cat-file','-t',commit).strip()==b'commit','Draft prior reference is not a commit')
+    git(root,'merge-base','--is-ancestor',commit,'HEAD')
+    need(sha(git(root,'show',commit+':translations/chapters/02/build-manifest.json'))==a.get('prior_build_manifest_sha256'),'Draft prior manifest pin mismatch')
+    return {'path':rel,'sha256':digest(path),'prior_commit':commit,'scope':'working_draft_only'}
+
+def prior(root,n,draft_prior_commit=None):
+    if draft_prior_commit is not None:draft_authorization(root,n,draft_prior_commit)
     for k in range(1,n):
+        if draft_prior_commit is not None and k==2:
+            fixed_prior(root,k,draft_prior_commit)
+            continue
         d=directory(root,k);r=load(root/f'translations/publication/ch{k:02}-v1.json');tag=f'translate-ch{k:02}-v1'
         need(r['chapter']==k and r['tag']==tag,'Prior translation receipt identity mismatch')
         need(git(root,'cat-file','-t',f'refs/tags/{tag}').strip()==b'tag','Prior tag is not annotated')
         need(git(root,'rev-parse',f'refs/tags/{tag}').decode().strip()==r['remote_tag_object'],'Prior tag object changed')
         need(git(root,'rev-parse',f'refs/tags/{tag}^{{commit}}').decode().strip()==r['release_commit']==r['remote_peeled_commit']==r['remote_main_at_release'],'Prior release commit changed')
         need(digest(d/'build-manifest.json')==r['build_manifest_sha256'],'Prior manifest changed')
-        prefix=d.relative_to(root).as_posix()+'/'
-        paths=git(root,'ls-tree','-rz','--name-only',tag,'--',prefix).split(b'\0')
-        needed={prefix+x for x in (*OUTPUTS,'build-manifest.json','source.md','translation.md','signoff.json','qc.json')}
-        actual={x.decode() for x in paths if x};need(needed<=actual,'Prior release files missing')
-        for rel in actual:need(safe(root,rel).read_bytes()==git(root,'show',tag+':'+rel),'Prior released bytes changed: '+rel)
-        for rel,expected in load(d/'build-manifest.json')['input_sha256'].items():
-            need(digest(safe(root,rel))==expected,'Prior released input changed: '+rel)
-            tagged=git(root,'show',tag+':'+rel)
-            lfs=re.fullmatch(rb'version https://git-lfs.github.com/spec/v1\noid sha256:([0-9a-f]{64})\nsize ([0-9]+)\n',tagged)
-            need((lfs.group(1).decode() if lfs else sha(tagged))==expected,'Prior tagged input differs: '+rel)
-        final_gate(root,k)
+        fixed_prior(root,k,tag)
 
 def contract(root,n):
     pins,rows,changes=baseline(root,n);seg=segmentation(root,n,rows);d=directory(root,n);c=load(d/'contract.json')
@@ -101,13 +122,16 @@ def contract(root,n):
     need(c['segmentation_sha256']==digest(d/'segmentation.json'),'Frozen segmentation changed')
     need(c['golden_ids']==[r['id'] for r in rows],'Contract range changed')
     need(c['known_obligations']==sorted(golden_obligations(rows,changes)),'Contract golden obligations changed')
+    if 'draft_continuation' in c:
+        need(c['draft_continuation']==draft_authorization(root,n,c['draft_continuation']['prior_commit']),'Frozen draft authorization changed')
     return pins,rows,changes,seg
 
-def plan(root,n):
-    prior(root,n);pins,rows,changes=baseline(root,n);segmentation(root,n,rows);d=directory(root,n)
+def plan(root,n,draft_prior_commit=None):
+    prior(root,n,draft_prior_commit);pins,rows,changes=baseline(root,n);segmentation(root,n,rows);d=directory(root,n)
     c={'schema_version':1,'chapter':n,'pins':pins,'golden_ids':[r['id'] for r in rows],
        'segmentation_sha256':digest(d/'segmentation.json'),'known_obligations':sorted(golden_obligations(rows,changes)),
        'audit_gate':'Complete adzom-audit.json and audit-contract hash seal required before candidate build; every later finding adds a mandatory note obligation.','claims':CLAIMS}
+    if draft_prior_commit is not None:c['draft_continuation']=draft_authorization(root,n,draft_prior_commit)
     data=encoded(c)
     if (d/'contract.json').exists():need((d/'contract.json').read_bytes()==data,'Refusing to replace frozen contract')
     write(d/'contract.json',data);write(d/'contract.sha256',(sha(data)+'\n').encode())
@@ -173,13 +197,13 @@ def validate_source(root,n):
         need(p['text']=='\n'.join(amap[x]['text'] for x in s['golden_ids']),'Source text differs from pinned golden: '+p['id'])
     return pins,rows,changes,seg,pairs
 
-def source(root,n):
-    prior(root,n);pins,rows,_,seg=contract(root,n);d=directory(root,n);data=(header(pins,n,n)+source_content(rows,seg)).encode()
+def source(root,n,draft_prior_commit=None):
+    prior(root,n,draft_prior_commit);pins,rows,_,seg=contract(root,n);d=directory(root,n);data=(header(pins,n,n)+source_content(rows,seg)).encode()
     if (d/'source.md').exists():need((d/'source.md').read_bytes()==data,'Existing authored source differs; inspect instead of overwriting')
-    write(d/'source.md',data);assemble(root,n,source_only=True);return {'chapter':n,'source_objects':len(rows),'pairs':len(seg)}
+    write(d/'source.md',data);assemble(root,n,source_only=True,draft_prior_commit=draft_prior_commit);return {'chapter':n,'source_objects':len(rows),'pairs':len(seg)}
 
-def assemble(root,n,source_only=False):
-    prior(root,n);released_prefix_guard(root,n);pins=contract(root,n)[0];sources=[];english=[];notes={}
+def assemble(root,n,source_only=False,draft_prior_commit=None):
+    prior(root,n,draft_prior_commit);released_prefix_guard(root,n);pins=contract(root,n)[0];sources=[];english=[];notes={}
     for k in range(1,n+1):
         validate_source(root,k);d=directory(root,k);st=(d/'source.md').read_text();sources.append(st[st.find('\n---\n',4)+5:].strip('\n'))
         if not source_only:
@@ -234,7 +258,8 @@ def audit(root,n,rows):
         obligations['adzom:'+f['id']]={'golden_ids':f['anchor_ids'],'kind':'audit','type':f['type']}
     return a,obligations,hashes
 
-def seal_audit(root,n):
+def seal_audit(root,n,draft_prior_commit=None):
+    if draft_prior_commit is not None:prior(root,n,draft_prior_commit)
     _,rows,changes,_=contract(root,n);d=directory(root,n);a,extra,hashes=audit(root,n,rows)
     obligations=golden_obligations(rows,changes)|extra
     obj={'chapter':n,'audit_sha256':digest(d/'adzom-audit.json'),'required_obligations':sorted(obligations),'evidence_sha256':dict(sorted(hashes.items()))}
@@ -287,8 +312,8 @@ def released_prefix_guard(root,n):
         need(current[:len(expected)]==expected,'Previously released canonical pair content changed')
         need(all(notes.get(i)==v for i,v in oldnotes.items()),'Previously released canonical endnote changed')
 
-def candidate(root,n):
-    prior(root,n);pins,rows,changes,seg,sp=validate_source(root,n);prefix(root,n);prefix(root,n,True);d=directory(root,n)
+def candidate(root,n,draft_prior_commit=None):
+    prior(root,n,draft_prior_commit);pins,rows,changes,seg,sp=validate_source(root,n);prefix(root,n);prefix(root,n,True);d=directory(root,n)
     fm,ep,defs=parse((d/'translation.md').read_text(),True);check_header(fm,pins,n,n,True)
     need([p['id'] for p in sp]==[p['id'] for p in ep],'Source/English pair symmetry mismatch')
     native,extra,evidence_hashes=audit(root,n,rows);obligations=golden_obligations(rows,changes)|extra
@@ -320,13 +345,15 @@ def candidate(root,n):
     names=['source.md','translation.md','segmentation.json','contract.json','contract.sha256','note-map.json','pair-status.json','adzom-audit.json','audit-contract.json','audit-contract.sha256']
     names += [x for x in ('usage.json','glossary-proposals.json','translation-note-map.json','translation-draft.md') if (d/x).exists()]
     inputs={str((d/name).relative_to(root)):digest(d/name) for name in names};inputs.update(evidence_hashes)
+    continuation=load(d/'contract.json').get('draft_continuation')
+    if continuation:inputs[continuation['path']]=continuation['sha256']
     inputs.update({'golden/reading.json':pins['source_reading_sha256'],pins['glossary']:pins['glossary_sha256'],pins['standard']:pins['standard_sha256']})
     manifest={'chapter':n,'source_pins':pins,'input_sha256':dict(sorted(inputs.items())),'output_sha256':{name:sha(outputs[name]) for name in OUTPUTS},
               'builder':'scripts/translation_pipeline.py; deterministic chapter outputs; canonical pair blocks and endnotes are mirrored exactly.','claims':CLAIMS}
     outputs['build-manifest.json']=encoded(manifest);return outputs
 
-def build(root,n):
-    outputs=candidate(root,n);d=directory(root,n)
+def build(root,n,draft_prior_commit=None):
+    outputs=candidate(root,n,draft_prior_commit);d=directory(root,n)
     if (d/'signoff.json').exists():need(all((d/k).is_file() and (d/k).read_bytes()==v for k,v in outputs.items()),'Refusing to alter signed translation')
     for name,data in outputs.items():write(d/name,data)
     return {'chapter':n,'outputs':len(outputs),'build_manifest_sha256':digest(d/'build-manifest.json')}
@@ -342,25 +369,27 @@ def final_gate(root,n):
     need(s['build_manifest_sha256']==digest(d/'build-manifest.json') and s['output_sha256']==m['output_sha256'] and s['qc_sha256']==digest(d/'qc.json'),'Signoff hash binding mismatch')
     need(digest(safe(root,s['review_path']))==s['review_sha256'],'Final review hash mismatch')
 
-def validate(root,n,source_only=False,final=False):
+def validate(root,n,source_only=False,final=False,draft_prior_commit=None):
     need(not (source_only and final),'Source-only and final modes are incompatible')
-    prior(root,n)
+    need(not (final and draft_prior_commit is not None),'Draft continuation cannot be used for final validation or release')
+    prior(root,n,draft_prior_commit)
     if source_only:
         pins,rows,_,seg,_=validate_source(root,n);prefix(root,n)
-        return {'chapter':n,'mode':'source','passed':True,'pairs':len(seg),'golden_objects':len(rows),'english_required':False}
-    expected=candidate(root,n);d=directory(root,n)
+        return {'chapter':n,'mode':'draft-source' if draft_prior_commit else 'source','passed':True,'pairs':len(seg),'golden_objects':len(rows),'english_required':False}
+    expected=candidate(root,n,draft_prior_commit);d=directory(root,n)
     for name,data in expected.items():need((d/name).is_file() and (d/name).read_bytes()==data,'Output corruption/nonreproducible translation: '+name)
     if final:final_gate(root,n)
     if n==8:
         _,ps,_=parse((root/'paired/source.md').read_text());need(sum(len(p['metadata']['golden'].split()) for p in ps)==2053,'Whole-book coverage is not 2,053')
-    return {'chapter':n,'mode':'final' if final else 'candidate','passed':True,'read_only':True,'build_manifest_sha256':digest(d/'build-manifest.json'),'claims':CLAIMS}
+    return {'chapter':n,'mode':'final' if final else 'draft-candidate' if draft_prior_commit else 'candidate','passed':True,'read_only':True,'build_manifest_sha256':digest(d/'build-manifest.json'),'claims':CLAIMS}
 
 def main():
-    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--root',type=Path,default=ROOT);p.add_argument('command',choices=['plan','source','seal-audit','assemble','build','validate']);p.add_argument('--chapter',type=int,required=True);p.add_argument('--source-only',action='store_true');p.add_argument('--final',action='store_true');a=p.parse_args()
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--root',type=Path,default=ROOT);p.add_argument('command',choices=['plan','source','seal-audit','assemble','build','validate']);p.add_argument('--chapter',type=int,required=True);p.add_argument('--source-only',action='store_true');p.add_argument('--final',action='store_true');p.add_argument('--draft-prior-commit',help='Chapter 3 working continuation under a committed authorization; forbidden with --final');a=p.parse_args()
     try:
-        if a.command=='validate':result=validate(a.root,a.chapter,a.source_only,a.final)
-        elif a.command=='assemble':result=assemble(a.root,a.chapter,a.source_only)
-        else:result={'plan':plan,'source':source,'seal-audit':seal_audit,'build':build}[a.command](a.root,a.chapter)
+        need(not (a.final and a.draft_prior_commit is not None),'Draft continuation cannot be used for final validation or release')
+        if a.command=='validate':result=validate(a.root,a.chapter,a.source_only,a.final,a.draft_prior_commit)
+        elif a.command=='assemble':result=assemble(a.root,a.chapter,a.source_only,a.draft_prior_commit)
+        else:result={'plan':plan,'source':source,'seal-audit':seal_audit,'build':build}[a.command](a.root,a.chapter,a.draft_prior_commit)
         print(json.dumps(result,ensure_ascii=False,indent=2));return 0
     except (Error,OSError,KeyError,TypeError,json.JSONDecodeError) as exc:print('TRANSLATION VALIDATION ERROR: '+str(exc),file=sys.stderr);return 1
 if __name__=='__main__':raise SystemExit(main())
