@@ -25,3 +25,9 @@ The established glossary remains authoritative. Occurrence-specific uncovered se
 ## 2026-10-02 — Stop translation and preserve all work
 
 The user instructed: “Ok, then we stop here. Make sure all the work is fully committed to the repo.” Further translation and source-audit work are stopped. Chapter1 remains the only released English chapter. Its six complete source pages and opening portion of printed423 are represented; English pagination is not set. Chapter2 records were read and a segmentation task was dispatched, then interrupted before any chapter2 artifact or English was created. Resume only on a new explicit user instruction. Commit and verify this stopping state without modifying the fixed chapter release.
+
+## 2026-10-02 — Resume translation through completion
+
+The user instructed: “I want you to continue with the translation from where it is left until completed,” and supplied this repository with GitHub and Remote Desktop Commander selected. This explicitly resumes the stopped translation and source audit under the existing scope, glossary, fixed golden release, Adzom endnote policy, independent agent QC and sequential release gates. Chapters 2–8 and the complete English aggregate are authorized. Existing fixed releases remain unchanged.
+
+Startup recovered remote main `09b0409c1a63eafe19deef1888838d1d3d50d6de` into a clean checkout with all existing annotated releases and scan files. Chapter 1 final read-only validation passed. The selected MacBook was offline when checked; its local-only work, if any, was not inspected or overwritten.

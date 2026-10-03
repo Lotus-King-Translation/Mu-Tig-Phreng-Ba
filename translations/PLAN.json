@@ -133,19 +133,19 @@
     546,
     547
   ],
-  "current_chapter": 1,
+  "current_chapter": 2,
   "current_source_range": [
-    "MTP-S000001",
-    "MTP-S000097"
+    "MTP-S000098",
+    "MTP-S000221"
   ],
   "current_native_images": [
-    427,
-    428,
-    429,
-    430,
-    431,
-    432,
-    433
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439
   ],
   "source_objects_translated": 97,
   "source_objects_remaining": 1956,
@@ -154,9 +154,8 @@
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
   "independent_human_certification": false,
-  "status": "stopped_at_user_request",
+  "status": "in_progress",
   "source_objects_represented": 97,
-  "stop_reason": "User requested stopping and committing all work.",
-  "next_work_authorized": false,
-  "chapter_2_state": "Preparatory reading/task dispatch interrupted; no source-pair artifact or English created."
+  "next_work_authorized": true,
+  "chapter_2_state": "Source pairing, translation and native Adzom audit authorized; no English yet."
 }
