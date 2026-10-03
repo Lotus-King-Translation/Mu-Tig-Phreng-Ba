@@ -47,6 +47,68 @@
     {
       "class": "documentation",
       "reason": "Added 25 source-linked translation notes, 96 usage records, 54 separately proposed eight-column glossary records, and local reference coverage for repeated provisional occurrences. No canonical glossary entry activated."
+    },
+    {
+      "class": "apparatus/QC",
+      "note_id": "MTP-AUDIT-C02-008",
+      "anchor_ids": [
+        "MTP-S000099",
+        "MTP-S000100"
+      ],
+      "before": "This source-only insertion is not present in the fixed golden and is not silently added to the English root text.",
+      "after": "The readable insertion means provisionally “in the presence of” or “before” the addressee. This source-only locative is absent from the fixed golden and is not silently added to the English root text; its precise attachment remains for review.",
+      "reason": "Independent final reviewer requested readable-fragment glosses and established terminology in source endnotes; source readings and evidence unchanged."
+    },
+    {
+      "class": "apparatus/QC",
+      "note_id": "MTP-AUDIT-C02-036",
+      "anchor_ids": [
+        "MTP-S000131"
+      ],
+      "before": "A smaller insertion occurs within S131 before the dharmakaya phrase; complete wording untranscribed.",
+      "after": "A smaller insertion occurs within S131 before the dharma embodiment phrase; complete wording untranscribed.",
+      "reason": "Independent final reviewer requested readable-fragment glosses and established terminology in source endnotes; source readings and evidence unchanged."
+    },
+    {
+      "class": "apparatus/QC",
+      "note_id": "MTP-AUDIT-C02-041",
+      "anchor_ids": [
+        "MTP-S000137"
+      ],
+      "before": "A smaller note follows the cause-of-confusion phrase; complete wording untranscribed.",
+      "after": "A smaller note follows the phrase about the cause of delusion; complete wording untranscribed.",
+      "reason": "Independent final reviewer requested readable-fragment glosses and established terminology in source endnotes; source readings and evidence unchanged."
+    },
+    {
+      "class": "apparatus/QC",
+      "note_id": "MTP-AUDIT-C02-103",
+      "anchor_ids": [
+        "MTP-S000183"
+      ],
+      "before": "The English follows the fixed golden root text. This locally observed smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated.",
+      "after": "The readable fragment ལུ་གུ་རྒྱུད is “vajra chains” under the established glossary. Its attachment to the root text remains unresolved. The English follows the fixed golden root text; the other untranscribed words of this smaller note have not been deciphered or translated.",
+      "reason": "Independent final reviewer requested readable-fragment glosses and established terminology in source endnotes; source readings and evidence unchanged."
+    },
+    {
+      "class": "usage/QC",
+      "usage_id": "T02-U014",
+      "before": "Not canonical རང་ལོག or an invented liberation equivalent; distinct source forms are recorded in the occurrences.",
+      "after": "Distinct attested ལྡོག and བཟློག forms and expressed source cases determine the local direction; no new liberation equivalent or general glossary default is established.",
+      "reason": "Remove an unsupported reference to a nonexistent canonical glossary entry; retain source-form and direction caution."
+    },
+    {
+      "class": "usage/QC",
+      "usage_id": "T02-U088",
+      "before": "མི་རྟོག་པ",
+      "after": "མི་རྟོག",
+      "reason": "Separate the actual shortened source form from the unchanged canonical glossary headword."
+    },
+    {
+      "class": "usage/QC",
+      "usage_id": "T02-U094",
+      "before": "སྐྱེ་བ་མེད་པ",
+      "after": "སྐྱེ་མེད",
+      "reason": "Separate the actual shortened source form from the unchanged canonical glossary headword."
     }
   ]
 }

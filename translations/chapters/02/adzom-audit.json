@@ -3242,7 +3242,7 @@
       "golden_reading": "",
       "adzom_reading": "དྲུང་དུ",
       "explanation": "A smaller insertion reading དྲུང་དུ is printed between the addressee phrase and the next main-text phrase; the golden omits it.",
-      "english_consequence": "This source-only insertion is not present in the fixed golden and is not silently added to the English root text.",
+      "english_consequence": "The readable insertion means provisionally “in the presence of” or “before” the addressee. This source-only locative is absent from the fixed golden and is not silently added to the English root text; its precise attachment remains for review.",
       "evidence": [
         {
           "path": "evidence/golden/02/00433.png",
@@ -3848,7 +3848,7 @@
       ],
       "golden_reading": "",
       "adzom_reading": null,
-      "explanation": "A smaller insertion occurs within S131 before the dharmakaya phrase; complete wording untranscribed.",
+      "explanation": "A smaller insertion occurs within S131 before the dharma embodiment phrase; complete wording untranscribed.",
       "english_consequence": "The English follows the fixed golden root sequence. This smaller printed source material is not silently inserted; its untranscribed wording and local presence remain explicit.",
       "evidence": [
         {
@@ -3954,7 +3954,7 @@
       ],
       "golden_reading": "",
       "adzom_reading": null,
-      "explanation": "A smaller note follows the cause-of-confusion phrase; complete wording untranscribed.",
+      "explanation": "A smaller note follows the phrase about the cause of delusion; complete wording untranscribed.",
       "english_consequence": "The English follows the fixed golden root sequence. This smaller printed source material is not silently inserted; its untranscribed wording and local presence remain explicit.",
       "evidence": [
         {
@@ -5330,7 +5330,7 @@
       "golden_reading": "ད་ལྟར་སྣང་ཞིང་འོད་ལྔ་ལྟར་འབྱུང",
       "adzom_reading": "ལུ་གུ་རྒྱུད",
       "explanation": "A local smaller-type source-note cluster is visible at this position and is not represented as a separate golden object. The readable local fragment is recorded; its root attachment remains unresolved.",
-      "english_consequence": "The English follows the fixed golden root text. This locally observed smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated.",
+      "english_consequence": "The readable fragment ལུ་གུ་རྒྱུད is “vajra chains” under the established glossary. Its attachment to the root text remains unresolved. The English follows the fixed golden root text; the other untranscribed words of this smaller note have not been deciphered or translated.",
       "evidence": [
         {
           "path": "evidence/golden/02/00437.png",

@@ -147,18 +147,20 @@
     438,
     439
   ],
-  "source_objects_translated": 97,
-  "source_objects_remaining": 1956,
+  "source_objects_translated": 221,
+  "source_objects_remaining": 1832,
   "chapter_publications_complete": 1,
   "sequence": "Freeze chapter source pairs; translate; full native main-text comparison and local omission notes; separate QC; validation; signed chapter publication; only then next chapter. Whole-book paired files grow as an explicitly scoped prefix.",
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
   "independent_human_certification": false,
-  "status": "in_progress",
-  "source_objects_represented": 97,
+  "status": "blocked_at_chapter_2_publication",
+  "source_objects_represented": 221,
   "next_work_authorized": true,
-  "chapter_2_state": "Complete assembled candidate: 35 pairs,124 objects,175 endnotes,152/152 source obligations; independent final QC in progress. 4 pairs locally unresolved. Publication pending.",
+  "chapter_2_state": "Signed reviewed candidate:35pairs/124objects/175endnotes;152/152source obligations; independent QC and final validation passed; annotated tag/receipt pending terminal access.",
   "source_objects_represented_in_candidate": 221,
   "chapter_candidates_complete": 2,
-  "publication_blocker": "Remote Desktop Commander terminal calls return no output; cloud git has no authenticated push; GitHub connector can commit but exposes no annotated-tag creation."
+  "publication_blocker": "Remote Desktop Commander terminal calls return no output; cloud git has no authenticated push; GitHub connector can commit but exposes no annotated-tag creation.",
+  "source_objects_released": 97,
+  "next_finite_task": "Publish reviewed chapter2 annotated tag and verified receipt after terminal access is restored; then freeze chapter3 source pairs."
 }

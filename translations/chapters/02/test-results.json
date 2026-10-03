@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-03",
+  "chapter_pipeline_tests": {
+    "command": "python3 scripts/test_translation_pipeline.py",
+    "tests": 36,
+    "passed": 36
+  },
+  "aggregate_tests": {
+    "command": "python3 scripts/test_translation_aggregate.py",
+    "tests": 21,
+    "passed": 21
+  },
+  "unsigned_final_rejected": true,
+  "final_validation_passed": true,
+  "semantic_regression_fixtures": "not newly run",
+  "claims": {
+    "automated_semantic_certification": false,
+    "independent_human_certification": false
+  }
+}

@@ -8,11 +8,11 @@ Tibetan edition and source research for the Dzogchen tantra **མུ་ཏིག
 
 [Read the complete Tibetan edition](golden/reading.md) · [Machine-readable text](golden/reading.json) · [Coverage and uncertainty](golden/coverage.json) · [Fixed release](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-v1)
 
-The Adzom1973–77 printing (W1KG892/I1KG895, printed417–537) governs this maintained reading. All corrections have scan evidence and explicit decisions. The two electronic renditions belong to one transcript family. Full scan proofreading and exhaustive witness collation were not performed: 1,870 anchors retain unreviewed-transcript status, and 96 anchor-level uncertainty records remain visible. English translation has resumed after chapter 1. The released working chapter includes Adzom endnotes and independent agent QC; chapter 2 is now an assembled candidate under final review; chapters 3–8 remain untranslated. Its page-by-page Adzom audit records additional differences without changing golden-v1.
+The Adzom1973–77 printing (W1KG892/I1KG895, printed417–537) governs this maintained reading. All corrections have scan evidence and explicit decisions. The two electronic renditions belong to one transcript family. Full scan proofreading and exhaustive witness collation were not performed: 1,870 anchors retain unreviewed-transcript status, and 96 anchor-level uncertainty records remain visible. English translation has resumed after chapter 1. The released working chapter includes Adzom endnotes and independent agent QC; chapter 2 has passed independent QC and final validation and awaits its required release tag; chapters 3–8 remain untranslated. Its page-by-page Adzom audit records additional differences without changing golden-v1.
 
 - [English translation and endnote policy](translations/README.md)
 - [Chapter 1 English with Adzom endnotes](translations/chapters/01/reading.md)
-- [Chapter 2 English candidate with Adzom endnotes](translations/chapters/02/reading.md)
+- [Chapter 2 reviewed English candidate with Adzom endnotes](translations/chapters/02/reading.md)
 - [Canonical paired English](paired/translation.md)
 - [Project status](PROJECT-STATUS.md)
 - [Golden edition method](guidelines/golden_edition_method.md)
