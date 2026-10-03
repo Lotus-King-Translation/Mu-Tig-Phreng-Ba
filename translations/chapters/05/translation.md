@@ -279,6 +279,254 @@ there is no delusion of apprehending objects.[^T05-019]
 O great lord of wrathful ones, listen well!
 In the phenomena appearing as intrinsic nature,[^T05-001][^T05-019]
 
+<!-- pair: MTP-000231 -->
+
+[Printed page 462.]
+
+<!-- pair: MTP-000232 -->
+
+because there are no stains, subtle and coarse are reversed;
+because there is no apprehended object and apprehending subject, delusion is reversed.
+Because there is no movement, karmic wind is reversed;
+because there is unimpeded penetration, entities are reversed.[^T05-020]
+
+<!-- pair: MTP-000233 -->
+
+Because there is clarity, emptiness is reversed;
+because [it] is complete from the beginning, the generation stage is reversed.
+Because there is no exertion, activity is reversed;
+because [it] is left without seeking, cultivation is reversed.[^T05-020]
+
+<!-- pair: MTP-000234 -->
+
+Because there is self-liberation, appearance is reversed;
+because [it] appears manifestly, view is reversed.
+Because there are no words or phrases, designation is reversed;
+because [it] has never existed, clinging is reversed.[^T05-020]
+
+<!-- pair: MTP-000235 -->
+
+Because [it] has never been nonexistent, dependence on another is reversed;
+because there is nothing to apprehend, conceptual-mind imputation is reversed.
+Because [it] is unique, the limits of number are reversed.[^T05-020]
+
+<!-- pair: MTP-000236 -->
+
+[Printed page 463.]
+
+<!-- pair: MTP-000237 -->
+
+Because [it] pervades all, arising from another ceases;
+because there is self-arising, darkness clears.
+Because [it] is the core, [it] pervades as dharma embodiment;
+because [it] appears clearly, [it] expands as complete enjoyment embodiment.[^T05-021]
+
+<!-- pair: MTP-000238 -->
+
+Because mother and child meet, [it] arises as emanation embodiment;
+because [it] exists as a sign, [it] arises as means.
+Because [it] is beyond thinking, mindfulness clears;
+because there is no permanence or annihilation, philosophical tenets are complete.[^T05-021]
+
+<!-- pair: MTP-000239 -->
+
+By gathering into [retained: བཅུང], awareness is clear;
+because there is self-liberation, [there is] leaving as it is, and
+the awareness of that very reversal,
+because it arises from itself, is called “liberated.”[^T05-022]
+
+<!-- pair: MTP-000240 -->
+
+[Printed page 464.]
+
+<!-- pair: MTP-000241 -->
+
+Because [it] abides, [it] is called “pervading”;
+because there are no marks, [it] is called “empty.”
+Because there is no setting, [it] is called “arisen”;
+because there is no material encumbrance, [there is] unimpeded penetration.[^T05-023]
+
+<!-- pair: MTP-000242 -->
+
+Because [it] abides liberated, [it] is called “reversed”;
+because variety has cleared, [it] is called “purified.”
+Because [it] is not two, [it] is the single one;
+because [it] generates everything, [it] is called “cause.”[^T05-023]
+
+<!-- pair: MTP-000243 -->
+
+Because [it] is complete without remainder, [it] is the result itself;
+because objects of focus are pure, [it] is called “path.”
+Because delusion is exhausted, [it] is also scriptural transmission;
+because [it] abides primordially, [it] is called “continuum.”
+Because [it] can be indicated, [it] is pith instruction;
+because [it] is beyond number, [it] is called “reckoning.”[^T05-023]
+
+<!-- pair: MTP-000244 -->
+
+Such ordinary mind itself
+is like a jewel, fulfilling needs and desires;[^T05-024]
+
+<!-- pair: MTP-000245 -->
+
+[Printed page 465.]
+
+<!-- pair: MTP-000246 -->
+
+like a treasury, containing all that is needed;
+like a mirror, where whatever is shown appears;
+like a stainless, clear crystal orb;
+various appearances—a brocade tent.[^T05-024]
+
+<!-- pair: MTP-000247 -->
+
+Because there is no elaboration or withdrawal, [it] is like a great garuḍa;
+complete in the expressiveness of view, [it] is like a lion.
+Because [it] pervades with complete depth, [it] is like the ocean;
+naturally arising and liberated, [it] is like space.
+Because everything rests upon [it], [it] is like the earth;
+[it] is exceptionally exalted above all objects.[^T05-024]
+
+<!-- pair: MTP-000248 -->
+
+Within awareness without cessation,
+because there is no delusion, there is no conceptual thought.
+Because there is primordial liberation, [it] is utterly exalted;
+because there is self-liberation, object-conditions are exhausted.
+Because there is naked liberation, appearances are pure.[^T05-025]
+
+<!-- pair: MTP-000249 -->
+
+[Printed page 466.]
+
+<!-- pair: MTP-000250 -->
+
+Because there is liberation from extremes, the four alternatives cease;
+because there is liberation of one, the many are emptied.[^T05-025]
+
+<!-- pair: MTP-000251 -->
+
+Since conditions are liberated through conditions,
+I do not depend on phenomena that are objects of focus.
+Since objects are liberated through objects,
+I do not depend on the two, apprehended object and apprehending subject.[^T05-026]
+
+<!-- pair: MTP-000252 -->
+
+When the cause itself is liberated through the cause,
+[there is] no dependence on saṃsāra and nirvāṇa, the two—[retained: ལང].
+When phenomena are liberated through phenomena,
+I do not depend on words of designation.[^T05-026]
+
+<!-- pair: MTP-000253 -->
+
+When ordinary mind itself is liberated through ordinary mind,
+I do not depend on the conceptual mind that indicates.
+Just as stain is deluded through stain,
+that purity is liberated through purity.[^T05-026]
+
+<!-- pair: MTP-000254 -->
+
+As poisons are neutralized by poison,
+iron is cleaved by iron,[^T05-027]
+
+<!-- pair: MTP-000255 -->
+
+[Printed page 467.]
+
+<!-- pair: MTP-000256 -->
+
+stones are broken by stone,
+and wood is burned by wood,
+each makes its own enemy itself;
+liberation does not come through an incompatible kind.[^T05-027]
+
+<!-- pair: MTP-000257 -->
+
+Therefore, in awareness abiding in the Ground,
+because there is self-arising, appearance is complete;
+because there is natural arising, the Ground itself is complete;
+because there is self-appearance, objects too are complete.[^T05-028]
+
+<!-- pair: MTP-000258 -->
+
+Because there is self-liberation, the Ground of delusion is complete;
+because there is self-purification, all paths are complete.
+Because there is self-awareness, what is to be known is complete;
+because there is self-pervasion, the result is complete.[^T05-028]
+
+<!-- pair: MTP-000259 -->
+
+Because [it] is its own place, causes and conditions are complete;
+because [it] is realized by itself, the nature of phenomena is complete.
+Because there is self-reversal, saṃsāra and nirvāṇa are complete;
+because there is self-abiding, tantras and scriptural transmissions are complete.
+Because there is self-completeness, [it] is complete at one time.[^T05-028]
+
+<!-- pair: MTP-000260 -->
+
+[Printed page 468.]
+
+<!-- pair: MTP-000261 -->
+
+Because there is self-knowing, oral instructions are complete;
+because there is self-resting, meditative stability is complete;
+because there is self-abiding, basic space is complete.[^T05-028]
+
+<!-- pair: MTP-000262 -->
+
+Emaho!
+The dharma embodiment of great self-completeness:
+because [it] is pure from the beginning, stains are exhausted;
+because [it] arose at the beginning, transmission is exhausted;
+because [it] is without a counterpart, [it] is beyond reckoning.[^T05-029]
+
+<!-- pair: MTP-000263 -->
+
+Without a cause of suffering—great bliss;
+without a cause of expression—beyond speech and thinking.
+Primordial self-awareness is completely pure awareness.
+Because outflows are exhausted, [it] is not materially encumbered;
+because [retained: དངོས་པོ་བཟོད], [it] abides empty.[^T05-029]
+
+<!-- pair: MTP-000264 -->
+
+The essence itself, not increased by the two,
+is beyond extremes because [it] is free from phenomena.
+Clear and free from conceptualization, movement clears;
+without the two, inert matter and awareness, the two accumulations are complete.[^T05-030]
+
+<!-- pair: MTP-000265 -->
+
+[Printed page 469.]
+
+<!-- pair: MTP-000266 -->
+
+Without a rival counterpart—leaving as it is itself.
+Because that cannot be transformed through phrases,
+there are no contrived phrases; [it] pervades all.
+Without ordinary mind that thinks, [it] is free from mindfulness.[^T05-031]
+
+<!-- pair: MTP-000267 -->
+
+It is freshness itself—[retained: གཉུག་མའི་རང];
+supremely uncontrived, [it] abides authentically.
+With regard to what is to be known, [it] is established just as it settles;
+not before, not later, not from the beginning.[^T05-031]
+
+<!-- pair: MTP-000268 -->
+
+[It] is not movement; mindfulness abides.
+The single ordinary mind that pervades all—
+philosophical limits complete—is the foremost portion;
+[it] is established at the beginning, middle, and end.[^T05-031]
+
+<!-- pair: MTP-000269 -->
+
+The undeluded Ground abiding in this way—
+self-awareness, primordially [retained: འོད་རེགས་ལ]—
+the three embodiments are primordially complete, without being generated.[^T05-032]
+
 <!-- endnotes -->
 
 [^T05-001]: Golden-v1 chapter 5, S637, S638, S639, S640, S649, S650, S654, S736, S739, S766 (printed 454–461). Names and titles are provisional whole expressions, not additions to the canonical glossary: ཁྲོ་བོ / ཁྲོ་བདག are wrathful ones / lord of wrathful ones; རིགས here is families, with no named taxonomy supplied; བཅོམ་ལྡན is Bhagavān; རྡོ་རྗེ་འཆང is Vajradhara. The distinct རྡོ་རྗེ་འཛིན is holder of the vajra, not an automatic application of apprehending subject to every འཛིན compound. གསང་བ་མཆོག་བདག is provisionally Supreme Lord of Secrets. སངས་རྒྱས / སེམས་ཅན are buddhas / sentient beings; the latter is a whole expression and does not replace standalone ordinary mind. At S654, ཀུན་བདག is read as lord of all in apposition to the one mandala; exact attachment remains for review. Quotation boundaries are editorial presentation.
@@ -293,7 +541,7 @@ In the phenomena appearing as intrinsic nature,[^T05-001][^T05-019]
 
 [^T05-006]: Golden-v1 chapter 5, S670, S671, S672, S673 (printed 456). སྦྱིན / ཚུལ་ཁྲིམས / བཟོད་པ are provisionally generosity / ethical discipline / patience. Their instrumental ending in S670 connects to S671, whose exact གནོད་དང་ཕན་འབྲས་བུ་བྲལ is rendered “free from the results of harm and benefit”; this is not a claim that the practices cause harm. S672 བསྒོམས་པས is a verbal/nominal cultivation form, not a new synonym. S673 མཆོག་ཏུ་བརྟགས is tentatively examined supremely; the object is implicit. Review the scope of the instrumental phrases and this superlative.
 
-[^T05-007]: Golden-v1 chapter 5, S674, S675, S676, S677, S678, S680, S681, S682, S683 (printed 456–457). The ritual list uses local proposals: དཀྱིལ་འཁོར mandala, ལྷ deity, ས་བོན seed, སྔགས mantra, ཕྱག་རྒྱ seal, མཆོད་པ offering, དབང empowerment, དམ་ཚིག commitment, བསྙེན་པ approach, སྒྲུབ་པ accomplishment, and གདོན obstructing spirit. Canonical four empowerments does not establish a separate bare empowerment entry. Ritual seals are not the whole-expression Mahamudra entry. S681 འཁོར་ལོ is left as wheels rather than silently equated with mandalas. These are negations within the speaker’s description, not instructions to perform a harmful act. Their technical senses require glossary review.
+[^T05-007]: Golden-v1 chapter 5, S674, S675, S676, S677, S678, S680, S681, S682, S683 (printed 456–457). The ritual list uses local proposals: དཀྱིལ་འཁོར mandala, ལྷ deity, ས་བོན seed, སྔགས mantra, ཕྱག་རྒྱ seal, མཆོད་པ offering, དབང empowerment, དམ་ཚིག commitment, བསྙེན་པ approach, སྒྲུབ་པ accomplishment, and གདོན obstructing spirit. Canonical four empowerments does not establish a separate bare empowerment entry. Ritual seals are not the whole-expression Mahamudra entry. S681 འཁོར་ལོ is left as wheels rather than silently equated with mandalas. These are negations within the speaker’s description. The present “commitment” for དམ་ཚིག is a local English proposal; the saved chapter 4 draft used provisional “samaya.” Neither wording is owner-approved, and this choice does not silently amend that chapter or establish a universal default. Their technical senses require glossary review.
 
 [^T05-008]: Golden-v1 chapter 5, S684, S685, S686, S687, S688, S689, S690, S691, S692 (printed 457). S684 དེ་ནི་ཡིན་འགྲོ་བའང་ཡིན is provisionally “It is that, and is also beings”; འགྲོ་བ can also mean going, and the compressed first clause has no explicit complement beyond དེ. The sense and reference remain for review. S685 སེམས་ལས་བྱུང་བ is represented compositionally as what arises from ordinary mind, without pre-emptively making it the later སེམས་བྱུང technical compound. S687 འཁོར / མྱང་འདས are provisionally saṃsāra / nirvāṇa. S690 bare གྲོལ་བ is liberation, a proposal distinct from established self-liberation and primordial liberation. S692 “cutting [life] off” supplies the object from immediately preceding སྲོག; the verse is an identification within the speech, not an imperative. S688 retains gradual entry, and S689 distinguishes being phenomena from appearing as phenomena.
 
@@ -317,4 +565,30 @@ In the phenomena appearing as intrinsic nature,[^T05-001][^T05-019]
 
 [^T05-018]: Golden-v1 chapter 5, S756, S757, S758, S759 (printed 461). S756 fixed ཆོས་ཞེས་མིང་དུ་དུམ་གྲགས་པས is not silently repaired to an expected negative. The opaque span དུམ་གྲགས་པས is retained locally; the preceding name phrase is represented, and the causal ending is reflected by because without settling the predicate. S757 “delusion imputed by the conceptual mind” preserves བློ་བཏགས rather than substituting the shorter canonical imputed-delusion expression. S759 འགྱུ་བྱེད is provisionally what brings about movement; ངང་གིས is naturally in this construction, not automatic approval of any nominal state entry. Review the unrepaired verb and the compound relation.
 
-[^T05-019]: Golden-v1 chapter 5, S760, S761, S762, S763, S764, S765, S766, S767 (printed 461). S760 preserves two stains, subtle and coarse. S761 འབྱུང་རྐྱེན་འཁྲུལ་པ is provisionally delusion as a condition of arising; the compound relation remains open. S762 བྱ་དང་བྱེད་པ preserves doing and the doer, rather than importing canonical apprehended object/apprehending subject absent from this line. S763/S765 ཡུལ་འཛིན་འཁྲུལ་པ is provisionally delusion of apprehending objects, a verbal construction requiring review, not a new bare འཛིན noun assignment. S767 རང་བཞིན་སྣང་བའི་ཆོས is tentatively phenomena appearing as intrinsic nature; phenomena of intrinsic nature’s appearance is another attachment. This line introduces the following reversal list across the page marker.
+[^T05-019]: Golden-v1 chapter 5, S760, S761, S762, S763, S764, S765, S766, S767 (printed 461). S760 preserves two stains, subtle and coarse. S761 འབྱུང་རྐྱེན་འཁྲུལ་པ is provisionally delusion as a condition of arising; the compound relation remains open. S762 བྱ་དང་བྱེད་པ preserves doing and the doer, rather than importing canonical apprehended object/apprehending subject absent from this line. S763/S765 ཡུལ་འཛིན་འཁྲུལ་པ is provisionally delusion of apprehending objects, a verbal construction requiring review, not a new bare འཛིན noun assignment. S767 རང་བཞིན་སྣང་བའི་ཆོས is tentatively phenomena appearing as intrinsic nature; phenomena of intrinsic nature’s appearance is another attachment. This line introduces the following reversal list across the page marker. At S762/S764 the selected “not two” is only a provisional nondual reading of གཉིས་མེད; “the two—doing and the doer / objects and faculties—are absent” is another plausible scope, especially beside the existence negations in S758–S760. This distinction is unresolved and must not be treated as established nondifference.
+
+[^T05-020]: Golden-v1 chapter 5, S769, S770, S771, S772, S773, S774, S775, S776, S777, S778, S779, S780, S781, S782, S783 (printed 462). The repeated ལོག is provisionally reversed, preserving the refrain without supplying an unexpressed object such as a mistaken view of each item. Thus S773 really says emptiness is reversed, and S775–S778 name activity, cultivation, appearance, and view; the apparent doctrinal tension is not removed by paraphrase. Short ལས་རླུང at S771 is provisionally the karmic-wind compound, not karmic wind inferred from any mention of ordinary wind. S774 བསྐྱེད་རིམ is generation stage; S779 ཐ་སྙད is designation; S782 བློས་བཏགས is conceptual-mind imputation, distinct from canonical constructed by the conceptual mind for བློས་བྱས. S780/S781 མ་མྱོང is read as never having been, preserving the affirmative/negative contrast rather than automatically assigning the separate experiential-acquaintance entry. Review the reversal relation and the scope of never.
+
+[^T05-021]: Golden-v1 chapter 5, S785, S786, S787, S788, S789, S790, S791, S792 (printed 463). S785 གཞན་འབྱུང is provisionally arising from another; “other arising” is another possible relation. S787 keeps སྙིང་པོ as provisional core and ཆོས་སྐུ as canonical dharma embodiment. S788 ལོངས་སྐུ / S789 སྤྲུལ་སྐུ are shortened embodiment compounds provisionally given the established complete enjoyment embodiment / emanation embodiment outputs, without shortening the English. Mother and child are retained without identifying their allegorical referents. S791 preserves mindfulness for དྲན་པ despite the statement that it clears. S792 རྟག་ཆད is provisionally permanence and annihilation, and གྲུབ་མཐའ philosophical tenets; their absence/completion relation is kept. རྟགས at S790 is sign, not permanence རྟག or conceptual thought རྟོག་པ.
+
+[^T05-022]: Golden-v1 chapter 5, S793, S794, S795, S796 (printed 463). S793 fixed བཅུང་དུ་དྲིལ is retained locally within “by gathering into [retained: བཅུང]”; the golden decision explicitly preserves the print-supported form rather than substituting བཅུད. Its intended object remains unresolved. S794 exact ཅོག་བཞག is provisionally leaving as it is by comparison with canonical ཅོག་གཞག, not a silent spelling correction. S795 དེ་ཉིད་ལོག་པའི་རིག་པ is tentatively awareness of that very reversal; “awareness that reverses that itself” is another possible relation. S796 retains arising from itself and the designation liberated; bare liberation remains proposed. Review the retained object and genitive attachment.
+
+[^T05-023]: Golden-v1 chapter 5, S798, S799, S800, S801, S802, S803, S804, S805, S806, S807, S808, S809, S810, S811 (printed 464). These lines assign names through repeated causal phrases, not necessarily literal definitions to be generalized. མཚན་མ is provisionally marks; རྡོས་བཅས is material encumbrance; རྒྱུ cause; ལམ path; ལུང scriptural transmission; མན་ངག pith instruction. S803 exact དངས is provisionally has cleared, while སངས is purified; the distinct Tibetan verbs are not silently equated with clarity གསལ་བ. S809 preserves canonical continuum for རྒྱུད in its association with primordial abiding; a resonance with tantra in the surrounding textual list is possible, but does not make every occurrence a tantra. S811 preserves the apparently paradoxical name reckoning for what is beyond number. S804 “not two” can indicate nonduality or absence of two; neither is amplified into a taxonomy.
+
+[^T05-024]: Golden-v1 chapter 5, S812, S813, S815, S816, S817, S818, S819, S820, S821, S822, S823, S824 (printed 464–465). S812 སེམས་ཉིད is tentatively ordinary mind itself, treating ཉིད as intensive while retaining the protected ordinary-mind vocabulary. A lexicalized compound reading requires its own glossary decision; generic mind or mind-nature is not silently activated. S818 is a nominal juxtaposition of various appearances and a brocade tent, not an explicit verb of creation. S819 སྤྲོ་བསྡུ is provisionally elaboration and withdrawal, distinct from the canonical འཕྲོ་འདུ proliferating and gathering. Great garuḍa is a provisional creature-name, not an explanatory doctrinal addition. S821 complete depth is a tentative reading of གཏིང་རྫོགས. S822 རང་བྱུང་གྲོལ is naturally arising and liberated, keeping two source components; it is not replaced by canonical self-liberation. S823 ས་གཞི is the earth in the comparison, a provisional whole compound rather than automatic The Ground for its final syllable.
+
+[^T05-025]: Golden-v1 chapter 5, S825, S826, S827, S828, S829, S831, S832 (printed 465–466). S825 རིག་པ་ལས is provisionally located within awareness; an ablative relation, from awareness, remains possible. S826 preserves conceptual thought for རྟོག་པ. S827/S828 retain the established primordial liberation and self-liberation. The distinct uncovered compounds ཅེར་གྲོལ / མཐའ་གྲོལ / གཅིག་གྲོལ are provisionally naked liberation / liberation from extremes / liberation of one. Naked seeing and naked resting establish neighboring vocabulary, not these whole expressions. མུ་བཞི is provisionally four alternatives; the source does not enumerate them. S832 སྟོངས is the emptying verb, preserved as the many are emptied, without silently deleting its final consonant or assuming an exact noun entry. Review the compound relations and the unspecified one.
+
+[^T05-026]: Golden-v1 chapter 5, S833, S834, S835, S836, S837, S838, S839, S840, S841, S842, S843, S844 (printed 466). The repeated instrumentals are preserved: conditions through conditions, objects through objects, cause through cause, phenomena through phenomena, ordinary mind itself through ordinary mind. Bare གྲོལ is provisionally liberated; this does not silently extend every established liberation compound. S838 exact འཁོར་འདས་གཉིས་ལང་མི་ལྟོས retains opaque ལང; the English uses an impersonal no dependence, rather than silently inserting the neighboring formula’s “I” into that syllable. Re-segmentation as ལ / ང is a possible proposal, not the fixed source. S841 སེམས་ཉིད keeps the tentative intensive ordinary mind itself; S842 retains conceptual mind as the indicating agent. S843 དྲི་མས་དྲི་མ་འཁྲུལ་བ is translated literally as stain is deluded through stain, despite the compressed metaphor; S844 purity through purity preserves its paired construction. Review these relations instead of importing a conventional causal account.
+
+[^T05-027]: Golden-v1 chapter 5, S845, S846, S848, S849, S850, S851 (printed 466–467). S845 འཛིམས is provisionally neutralized in the poison analogy. S846 གཤོག is tentatively cleaved; it is not silently changed to the following stone-breaking verb གཅོག. S850 རང་རང་དགྲ་ནི་རང་གིས་བྱེད is provisionally each makes its own enemy itself, preserving repeated self-reference while leaving the metaphor’s exact agency open. S851 རིགས་མི་མཐུན is incompatible kind, not automatically the families of the opening address. Bare liberation remains proposed. Review the first verb and the self-enmity relation.
+
+[^T05-028]: Golden-v1 chapter 5, S852, S853, S854, S855, S856, S857, S858, S859, S860, S861, S862, S863, S864, S866, S867, S868 (printed 467–468). The refrain preserves each different self-form. Canonical self-arising, self-appearance and self-liberation remain identifiable; S857 རང་དག uses nominal self-purification as a grammatical realization of self-purified. Uncovered whole forms remain provisional: རང་བྱུང natural arising, རང་རིག self-awareness, རང་ཁྱབ self-pervasion, རང་ས own place, རང་ལོག self-reversal, རང་གནས self-abiding, རང་རྫོགས self-completeness, རང་ཤེས self-knowing, རང་བཞག self-resting. The source relations, not spelling similarity alone, support these local comparisons; no full paradigm is activated. འཁྲུལ་གཞི is Ground of delusion; ཤེས་བྱ what is to be known; གདམས་ངག oral instruction; བསམ་གཏན meditative stability. S863 uses scripture-context tantra provisionally for རྒྱུད rather than universal substitution for continuum. S864 retains one time, without amplifying it to a doctrine of timelessness. S861 realizes རྟོགས verbally and remains distinct from conceptual thought.
+
+[^T05-029]: Golden-v1 chapter 5, S869, S870, S871, S872, S873, S874, S875, S876, S877, S878 (printed 468). Emaho is a provisional transliteration of ཨེ་མ་ཧོ. S870 རང་རྫོགས་པ་ཆེན་པོ is provisionally great self-completeness, retaining the self component and not silently substituting an unqualified Great Perfection title. S871 ཀ་ནས་དག is the expanded primordial-purity family construction. S872 བརྒྱུད་པ is transmission, a different written form from canonical continuum རྒྱུད; the statement that it is exhausted is preserved. S876 རང་རིག remains provisional self-awareness, with awareness separately retained in the predicate. S877 ཟག་པ is provisionally outflows. S878 exact དངོས་པོ་བཟོད is retained because “entities endure / tolerate entities” does not securely establish the intended relation; it is not silently changed to ཟད, exhausted. The final abides empty is translated. Review the retained predicate and the opening modifiers.
+
+[^T05-030]: Golden-v1 chapter 5, S879, S880, S881, S882 (printed 468). S879 preserves “not increased by the two” for གཉིས་ཀྱིས་འཕེལ་མེད without identifying the two. S881 maintains free from conceptualization for རྟོག་མེད, distinct from non-conceptuality and conceptual thought; the clearing of movement is not rewritten as generic stillness. S882 བེམ་རིག is provisionally inert matter and awareness; the shortened རིག is linked to the awareness family but the complete pairing is uncovered. “Without the two” leaves open absence or nondual division rather than asserting a settled ontology. ཚོགས་གཉིས is provisionally two accumulations; their names are not supplied.
+
+[^T05-031]: Golden-v1 chapter 5, S884, S885, S886, S887, S888, S889, S890, S891, S892, S893, S894, S895 (printed 469). S884 ཅོག་བཞག is the same provisional leaving-as-it-is spelling comparison as S794; final རང is tentatively intensive itself. S886 བཅོས་པ keeps the contrivance family through contrived; exact form is not a new synonym. S887 and S892 deliberately retain the contrast between freedom from mindfulness and mindfulness abiding; no doctrinal harmonization is supplied. S888 exact གཉུག་མའི་རང is retained because the incomplete-looking genitive plus རང does not securely supply the full established genuine intrinsic nature expression. S889 རྣལ་མར is provisionally authentically; S890 ལས is tentatively with regard to, while an ablative is possible. S891 preserves the repeated temporal absences without inventing what is absent. S894 སྤྱི་ཕུད is provisionally foremost portion; the comparison’s referent remains open. Review the retained phrase, temporal subjects and superlative.
+
+[^T05-032]: Golden-v1 chapter 5, S896, S897, S898 (printed 469). S897 exact རང་རིག་ཡེ་ནས་འོད་རེགས་ལ is translated up to primordial self-awareness but retains འོད་རེགས་ལ locally. Light is recognizable in འོད, while the following form and locative/continuation relation are unsettled; no plausible-looking repair to a familiar light expression is inserted. S898 retains all three embodiments and the explicit lack of generation; the relation of that statement to the preceding incomplete description remains open. A lexical and source-layer review is required.

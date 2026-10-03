@@ -174,7 +174,7 @@
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
   "independent_human_certification": false,
-  "status": "chapter_5_english_batch_1",
+  "status": "chapter_5_english_batch_2",
   "source_objects_represented": 635,
   "next_work_authorized": true,
   "chapter_2_state": "Signed reviewed candidate:35pairs/124objects/175endnotes;152/152source obligations; independent QC and final validation passed; annotated tag/receipt pending terminal access.",
@@ -182,11 +182,11 @@
   "chapter_candidates_complete": 3,
   "publication_blocker": "Remote Desktop Commander terminal calls return no output; cloud git has no authenticated push; GitHub connector can commit but exposes no annotated-tag creation.",
   "source_objects_released": 97,
-  "next_finite_task": "Preserve English batch1 and continue from S768 / pair231; independent QC reads stable batches.",
+  "next_finite_task": "Preserve English batch2 and native audit; continue from S899 / pair270; independent QC reads stable batches.",
   "chapter_3_state": "Signed reviewed working candidate:34pairs/120objects/165notes;142/142source obligations;105usage records/252occurrences/65proposals;24translated/2locallyunresolved/8metadata; independent QC and reproducible draft-candidate validation passed. Strict final release remains blocked by genuine prior publication.",
   "count_semantics": "Representation counts include explicitly unresolved and nontranslatable metadata objects; they do not measure accuracy or complete decipherment.",
   "chapter_4_state": "Complete saved unsigned annotated draft at730921898da3e3328bb42d97abea7672bf44afcd:86pairs/294objects/396notes;337source obligations;fiveunresolvedpairs. Final397-note revision,finallexicalrecords,reportsand signoff were not committed and local files were pruned. Preserve saved snapshot unchanged.",
   "source_pairs_frozen": 320,
   "source_objects_frozen": 1051,
-  "chapter_5_state": "English batch1:S636–767,45/135pairs and132/416objects;19translatornotes;3locallyunresolvedpairs. Remaining90pairs/284objects. Full27pagenativeauditandlexicalsupportinprogress."
+  "chapter_5_state": "English batches1–2:S636–898,84/135pairs and263/416objects;32translatornotes;8locallyunresolvedpairs. Remaining51pairs/153objects. Native audit complete:27pages/416checks/415findings/twosource-layeruncertainties. Lexical support and final QC pending."
 }

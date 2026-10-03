@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CH05-AUTHOR-C001",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S000762",
+      "MTP-S000764"
+    ],
+    "note_id": "T05-019",
+    "finding": "Q05-001",
+    "change": "Expanded the existing note to disclose the alternative scope of གཉིས་མེད: absence of both members versus nonduality. English body and Tibetan source unchanged.",
+    "reason": "Independent QC and author self-check identified that the neighboring negative sequence does not settle the intended reading.",
+    "authority": "Local provisional annotation, not a glossary or source amendment."
+  },
+  {
+    "id": "CH05-AUTHOR-C002",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S000892"
+    ],
+    "finding": "Q05-002",
+    "old": "There is no movement; mindfulness abides.",
+    "new": "[It] is not movement; mindfulness abides.",
+    "reason": "Preserves predicative negation མ་ཡིན rather than replacing it with existential absence. The implicit subject remains bracketed.",
+    "authority": "Minimal source-supported English correction; fixed Tibetan unchanged."
+  },
+  {
+    "id": "CH05-AUTHOR-C003",
+    "class": "presentation",
+    "note_ids": [
+      "T05-007",
+      "T05-027"
+    ],
+    "change": "Removed unrelated safety framing from ritual-negation and poison-comparison notes.",
+    "reason": "The notes should describe the source function directly."
+  },
+  {
+    "id": "CH05-AUTHOR-C004",
+    "class": "terminological",
+    "locus": [
+      "MTP-S000678"
+    ],
+    "note_id": "T05-007",
+    "change": "Disclosed chapter5 provisional commitment beside saved chapter4 provisional samaya for དམ་ཚིག. English body unchanged.",
+    "reason": "Make the locally chosen alternative explicit; neither provisional wording is promoted to an approved glossary default."
+  }
+]
