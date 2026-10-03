@@ -67,5 +67,19 @@
     "old": "are the own body of essence itself.",
     "new": "are essence itself’s own body.",
     "reason": "Minimal possessive-grammar cleanup retains own, body and essence with the same relationship; fixed source and technical assignments unchanged."
+  },
+  {
+    "id": "CH06-AUTHOR-C007",
+    "class": "terminological",
+    "note_ids": [
+      "T06-L001",
+      "T06-L002",
+      "T06-L003",
+      "T06-L004",
+      "T06-L005"
+    ],
+    "change": "Added narrowly allocated reader-visible lexical support notes; synchronized both note maps and pair-status references.",
+    "reason": "Provide actual local note bindings for recurring provisional technical uses and non-obvious grammatical realizations. No glossary proposal is activated.",
+    "preservation": "Raw English pair bodies, including whitespace, match the preserved complete author draft exactly after removing only note-reference tokens; archive unchanged."
   }
 ]

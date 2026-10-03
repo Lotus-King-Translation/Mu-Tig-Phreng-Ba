@@ -40,13 +40,13 @@ The Bhagavān spoke:[^T06-001][^MTP-AUDIT-C06-003][^MTP-AUDIT-C06-009]
 
 “As for the single truth of all buddhas,
 intrinsic nature, through essence,
-is distinguished from that itself.[^T06-003][^MTP-AUDIT-C06-003][^MTP-AUDIT-C06-010][^MTP-AUDIT-C06-011]
+is distinguished from that itself.[^T06-003][^MTP-AUDIT-C06-003][^MTP-AUDIT-C06-010][^MTP-AUDIT-C06-011][^T06-L001][^T06-L002]
 
 <!-- pair: MTP-000327 -->
 
 In the appearance of essence, primordial knowing,
 intrinsic nature pervades all, endowed with five embodiments.
-The result is the unique sphere.[^T06-003][^MTP-AUDIT-C06-003][^MTP-AUDIT-C06-012][^MTP-AUDIT-C06-013][^MTP-AUDIT-C06-014]
+The result is the unique sphere.[^T06-003][^MTP-AUDIT-C06-003][^MTP-AUDIT-C06-012][^MTP-AUDIT-C06-013][^MTP-AUDIT-C06-014][^T06-L002]
 
 <!-- pair: MTP-000328 -->
 
@@ -70,7 +70,7 @@ within intrinsic nature itself, [it is] gradual.[^T06-004][^MTP-AUDIT-C06-016][^
 In the all-pervading, empty nature of phenomena,
 there is freedom from the dust of extremes.
 In the appearance of intrinsic nature, clear light,
-there is freedom from the stain of delusion.[^T06-005][^MTP-AUDIT-C06-016][^MTP-AUDIT-C06-023][^MTP-AUDIT-C06-024]
+there is freedom from the stain of delusion.[^T06-005][^MTP-AUDIT-C06-016][^MTP-AUDIT-C06-023][^MTP-AUDIT-C06-024][^T06-L001][^T06-L002]
 
 <!-- pair: MTP-000333 -->
 
@@ -83,13 +83,13 @@ In the naturally arising king of awareness,
 
 I myself, from the enlightened intent of buddhas,
 am saṃsāra; I am nirvāṇa.
-I am phenomena; I am non-phenomena.[^T06-006][^MTP-AUDIT-C06-016][^MTP-AUDIT-C06-028][^MTP-AUDIT-C06-029][^MTP-AUDIT-C06-030]
+I am phenomena; I am non-phenomena.[^T06-006][^MTP-AUDIT-C06-016][^MTP-AUDIT-C06-028][^MTP-AUDIT-C06-029][^MTP-AUDIT-C06-030][^T06-L001]
 
 <!-- pair: MTP-000335 -->
 
 I am the lower destinies, hells and the like.
 I am mandalas, deities, and mantra.
-I am the precious ones, buddhas and the like.[^T06-006][^CH06-G001085][^MTP-AUDIT-C06-016][^MTP-AUDIT-C06-031][^MTP-AUDIT-C06-032][^MTP-AUDIT-C06-033][^MTP-AUDIT-C06-034]
+I am the precious ones, buddhas and the like.[^T06-006][^CH06-G001085][^MTP-AUDIT-C06-016][^MTP-AUDIT-C06-031][^MTP-AUDIT-C06-032][^MTP-AUDIT-C06-033][^MTP-AUDIT-C06-034][^T06-L001]
 
 <!-- pair: MTP-000336 -->
 
@@ -100,7 +100,7 @@ I am the precious ones, buddhas and the like.[^T06-006][^CH06-G001085][^MTP-AUDI
 I am the teacher, retinue, and teaching.
 I am gathering—gathering my own retinue.
 I am view, cultivation, and activity.
-I am empowerment, commitments, and vows.[^T06-007][^CH06-G001089][^MTP-AUDIT-C06-033][^MTP-AUDIT-C06-037][^MTP-AUDIT-C06-038][^MTP-AUDIT-C06-039][^MTP-AUDIT-C06-040]
+I am empowerment, commitments, and vows.[^T06-007][^CH06-G001089][^MTP-AUDIT-C06-033][^MTP-AUDIT-C06-037][^MTP-AUDIT-C06-038][^MTP-AUDIT-C06-039][^MTP-AUDIT-C06-040][^T06-L005]
 
 <!-- pair: MTP-000338 -->
 
@@ -120,7 +120,7 @@ I am the world, its receptacle and contents.[^T06-009][^MTP-AUDIT-C06-033][^MTP-
 
 Therefore I am what goes and what does not go.
 I am action and that itself, the stain of affliction.
-I am the faculties and objects.[^T06-009][^MTP-AUDIT-C06-033][^MTP-AUDIT-C06-046][^MTP-AUDIT-C06-047][^MTP-AUDIT-C06-048][^MTP-AUDIT-C06-049]
+I am the faculties and objects.[^T06-009][^MTP-AUDIT-C06-033][^MTP-AUDIT-C06-046][^MTP-AUDIT-C06-047][^MTP-AUDIT-C06-048][^MTP-AUDIT-C06-049][^T06-L001]
 
 <!-- pair: MTP-000341 -->
 
@@ -131,7 +131,7 @@ I am the faculties and objects.[^T06-009][^MTP-AUDIT-C06-033][^MTP-AUDIT-C06-046
 I am the aggregates, elements, and sense bases.
 I am flesh, blood, and bone.
 I am names, letters, words, and forms.
-I am apprehended object and apprehending subject, objects, and conceptualizing a self.[^T06-010][^MTP-AUDIT-C06-048][^MTP-AUDIT-C06-052][^MTP-AUDIT-C06-053]
+I am apprehended object and apprehending subject, objects, and conceptualizing a self.[^T06-010][^MTP-AUDIT-C06-048][^MTP-AUDIT-C06-052][^MTP-AUDIT-C06-053][^T06-L004]
 
 <!-- pair: MTP-000343 -->
 
@@ -139,7 +139,7 @@ I am suffering, ignorance, and delusion.
 I am sound, smell, taste, and touch.
 I am the mistaken apprehension of heat and cold.
 I am hunger, thirst, and bewilderment.
-I am pleasure, suffering, and equanimity.[^T06-011][^MTP-AUDIT-C06-048][^MTP-AUDIT-C06-054][^MTP-AUDIT-C06-055][^MTP-AUDIT-C06-056][^MTP-AUDIT-C06-057][^MTP-AUDIT-C06-058]
+I am pleasure, suffering, and equanimity.[^T06-011][^MTP-AUDIT-C06-048][^MTP-AUDIT-C06-054][^MTP-AUDIT-C06-055][^MTP-AUDIT-C06-056][^MTP-AUDIT-C06-057][^MTP-AUDIT-C06-058][^T06-L005]
 
 <!-- pair: MTP-000344 -->
 
@@ -157,14 +157,14 @@ I have neither permanence nor annihilation; I enter in every manner.[^T06-012][^
 I have no object of seeing; I appear manifestly to all.
 I am complete to the depths of everything; I am greater than all.
 I have no path to traverse; I have passed beyond all.
-I am unique; I am related to all.[^T06-013][^MTP-AUDIT-C06-065][^MTP-AUDIT-C06-069][^MTP-AUDIT-C06-070][^MTP-AUDIT-C06-071]
+I am unique; I am related to all.[^T06-013][^MTP-AUDIT-C06-065][^MTP-AUDIT-C06-069][^MTP-AUDIT-C06-070][^MTP-AUDIT-C06-071][^T06-L002][^T06-L004]
 
 <!-- pair: MTP-000347 -->
 
 I have no ground on which to abide; I depend on all.
 I have no rival to compete with; I am unique among all.
 For me, insentient and aware are not two; I pervade all.
-I wear the clothing of darkness; I show appearance to all.[^T06-013][^MTP-AUDIT-C06-065][^MTP-AUDIT-C06-072][^MTP-AUDIT-C06-073][^MTP-AUDIT-C06-074]
+I wear the clothing of darkness; I show appearance to all.[^T06-013][^MTP-AUDIT-C06-065][^MTP-AUDIT-C06-072][^MTP-AUDIT-C06-073][^MTP-AUDIT-C06-074][^T06-L002]
 
 <!-- pair: MTP-000348 -->
 
@@ -188,7 +188,7 @@ Having spread out the sun and moon as a seat, my splendor is great.[^T06-015][^M
 Because saṃsāra and nirvāṇa are complete in me at one time, I am free from doing.
 Because appearance arises unobstructedly in me, [it is] self-arising itself.
 Because realization and non-realization are absent in me, [I am] primordially buddha.
-Because hope and fear are absent in me, saṃsāra and nirvāṇa are complete at one time.[^T06-015][^MTP-AUDIT-C06-078][^MTP-AUDIT-C06-086][^MTP-AUDIT-C06-087][^MTP-AUDIT-C06-088]
+Because hope and fear are absent in me, saṃsāra and nirvāṇa are complete at one time.[^T06-015][^MTP-AUDIT-C06-078][^MTP-AUDIT-C06-086][^MTP-AUDIT-C06-087][^MTP-AUDIT-C06-088][^T06-L005]
 
 <!-- pair: MTP-000352 -->
 
@@ -200,7 +200,7 @@ Because ཡེ་ང and apprehension are absent in me, I am free from all fear.
 Because there is no master of contriving in me, [there is] letting be from the beginning.
 Because apprehended object and apprehending subject are not objects in me, [there is] self-abiding from the beginning.
 Because receptacle and contents are not two in me, everything is myself.
-Because bearers of phenomena and the nature of phenomena are absent in me, everything is one.”[^T06-016][^MTP-AUDIT-C06-091][^MTP-AUDIT-C06-092][^MTP-AUDIT-C06-093][^MTP-AUDIT-C06-094][^MTP-AUDIT-C06-095][^MTP-AUDIT-C06-096]
+Because bearers of phenomena and the nature of phenomena are absent in me, everything is one.”[^T06-016][^MTP-AUDIT-C06-091][^MTP-AUDIT-C06-092][^MTP-AUDIT-C06-093][^MTP-AUDIT-C06-094][^MTP-AUDIT-C06-095][^MTP-AUDIT-C06-096][^T06-L004]
 
 <!-- pair: MTP-000354 -->
 
@@ -210,14 +210,14 @@ The holder of the vajra again petitioned:[^T06-001][^MTP-AUDIT-C06-091]
 
 “If, in this way, all worldly phenomena of saṃsāra and nirvāṇa
 are one in essence,
-[—] is bound by sentient beings?[^T06-017][^MTP-AUDIT-C06-091][^MTP-AUDIT-C06-097][^MTP-AUDIT-C06-098][^MTP-AUDIT-C06-099]
+[—] is bound by sentient beings?[^T06-017][^MTP-AUDIT-C06-091][^MTP-AUDIT-C06-097][^MTP-AUDIT-C06-098][^MTP-AUDIT-C06-099][^T06-L001][^T06-L004]
 
 <!-- pair: MTP-000356 -->
 
 If it is unfitting that those are bound,
 or is that itself unbound?
 Or is [it] bound by others?
-Bhagavān, སུངས to me.”[^T06-017][^MTP-AUDIT-C06-091][^MTP-AUDIT-C06-100][^MTP-AUDIT-C06-101][^MTP-AUDIT-C06-102]
+Bhagavān, སུངས to me.”[^T06-017][^MTP-AUDIT-C06-091][^MTP-AUDIT-C06-100][^MTP-AUDIT-C06-101][^MTP-AUDIT-C06-102][^T06-L001]
 
 <!-- pair: MTP-000357 -->
 
@@ -225,7 +225,7 @@ The Bhagavān spoke:[^T06-001][^MTP-AUDIT-C06-091]
 
 <!-- pair: MTP-000358 -->
 
-“As for sentient beings’ five afflictions,[^T06-018][^MTP-AUDIT-C06-091][^MTP-AUDIT-C06-103][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-105]
+“As for sentient beings’ five afflictions,[^T06-018][^MTP-AUDIT-C06-091][^MTP-AUDIT-C06-103][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-105][^T06-L001]
 
 <!-- pair: MTP-000359 -->
 
@@ -243,26 +243,26 @@ when they likewise dissolve into space,
 
 Likewise, [there is] no stain of affliction.
 If naturally arising intrinsic nature itself is known,
-how could sentient beings be bound?[^T06-018][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-111][^MTP-AUDIT-C06-112][^MTP-AUDIT-C06-113]
+how could sentient beings be bound?[^T06-018][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-111][^MTP-AUDIT-C06-112][^MTP-AUDIT-C06-113][^T06-L001][^T06-L003]
 
 <!-- pair: MTP-000362 -->
 
 If that itself is held as true,
 even buddhas themselves become bound;
-why would sentient beings not be bound?[^T06-019][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-114][^MTP-AUDIT-C06-115]
+why would sentient beings not be bound?[^T06-019][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-114][^MTP-AUDIT-C06-115][^T06-L001]
 
 <!-- pair: MTP-000363 -->
 
 If [one] knows that there is no truth and no intrinsic nature,
 the stains are purified in their own place.
 Like turbidity in water becoming clear by itself,
-all phenomena are one in lacking intrinsic nature.[^T06-019][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-116][^MTP-AUDIT-C06-117][^MTP-AUDIT-C06-118]
+all phenomena are one in lacking intrinsic nature.[^T06-019][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-116][^MTP-AUDIT-C06-117][^MTP-AUDIT-C06-118][^T06-L001][^T06-L002][^T06-L003][^T06-L004]
 
 <!-- pair: MTP-000364 -->
 
 If [one] does not know nonentity in this way,
 and, regarding the aggregates, elements, and sense bases,
-[one] holds through apprehended object and apprehending subject,[^T06-020][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-119][^MTP-AUDIT-C06-120][^MTP-AUDIT-C06-121][^MTP-AUDIT-C06-122][^MTP-AUDIT-C06-123]
+[one] holds through apprehended object and apprehending subject,[^T06-020][^MTP-AUDIT-C06-104][^MTP-AUDIT-C06-119][^MTP-AUDIT-C06-120][^MTP-AUDIT-C06-121][^MTP-AUDIT-C06-122][^MTP-AUDIT-C06-123][^T06-L004]
 
 <!-- pair: MTP-000365 -->
 
@@ -273,14 +273,14 @@ and, regarding the aggregates, elements, and sense bases,
 [one] abides for a long time in saṃsāra itself.
 In the house of the three realms,
 [one] enters the prison of name and form,
-bound with the iron of ignorance and action,[^T06-020][^MTP-AUDIT-C06-122][^MTP-AUDIT-C06-126][^MTP-AUDIT-C06-127]
+bound with the iron of ignorance and action,[^T06-020][^MTP-AUDIT-C06-122][^MTP-AUDIT-C06-126][^MTP-AUDIT-C06-127][^T06-L004][^T06-L005]
 
 <!-- pair: MTP-000367 -->
 
 separated from the naturally arising lamp itself,
 covered by the thick darkness of saṃsāra,
 attached to the ལན་ཚའི་རོལ of desire,
-bound tightly by the noose of deluded dullness,[^T06-021][^MTP-AUDIT-C06-122][^MTP-AUDIT-C06-128][^MTP-AUDIT-C06-129]
+bound tightly by the noose of deluded dullness,[^T06-021][^MTP-AUDIT-C06-122][^MTP-AUDIT-C06-128][^MTP-AUDIT-C06-129][^T06-L003][^T06-L004]
 
 <!-- pair: MTP-000368 -->
 
@@ -292,7 +292,7 @@ obscured by the door of jealousy itself,[^T06-021][^MTP-AUDIT-C06-122][^MTP-AUDI
 
 surrounded by an army of anger and the like,
 secured on right and left by mindfulness itself,
-and tied by the neck with the noose of apprehended object and apprehending subject.[^T06-021][^MTP-AUDIT-C06-122][^MTP-AUDIT-C06-133][^MTP-AUDIT-C06-134]
+and tied by the neck with the noose of apprehended object and apprehending subject.[^T06-021][^MTP-AUDIT-C06-122][^MTP-AUDIT-C06-133][^MTP-AUDIT-C06-134][^T06-L003]
 
 <!-- pair: MTP-000370 -->
 
@@ -1625,3 +1625,13 @@ Thus, from the precious secret tantra String of Pearls, the sixth chapter, teach
 [^MTP-AUDIT-C06-357]: Source omission; source anchors MTP-S001425. Golden reading: no corresponding text. Adzom reading: `རང་ལ་`. A locally visible smaller annotation is omitted from the fixed golden root sequence. Its full wording and exact syntactic attachment remain untranscribed. A limited fragment is legible as རང་ལ་, provisionally “in itself (the local referent remains to be determined)”; this does not settle the complete annotation or its attachment. English consequence: The annotation is disclosed locally and is not silently supplied as English root text. Evidence: [Adzom p. 502, image 512](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/06/00512.png); Row2 left: small wording before ངོ་བོ་ཉིད་ཀྱི and between that phrase and བསམ་གཏན་ཡིན..
 
 [^MTP-AUDIT-C06-358]: Source layer; source anchors MTP-S001426, MTP-S001427. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. The chapter6 closing title and subject formula is visibly a colophon; the root chapter ends after དྲུག་པའོ. Following dialogue belongs to chapter7 and is outside this helper audit. English consequence: Preserve the two fixed colophon objects as the chapter6 close without including the next chapter opening. Evidence: [Adzom p. 502, image 512](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/06/00512.png); Row2 middle from ཞེས་མུ་ཏིག through row3 left དྲུག་པའོ, followed by a double shad before the next dialogue..
+
+[^T06-L001]: Recurring technical forms in S1061–S1166: སངས་རྒྱས “buddha,” སེམས་ཅན “sentient being,” ཉོན་མོངས “affliction,” དྲི་མ “stain,” and བཅོམ་ལྡན་འདས “Bhagavān” retain the opening provisional treatments. They do not establish new defaults or replace standalone ordinary mind. Explicit numbers and negations belong to their clauses; S1146’s instrument and S1152’s possessive interpretation remain separately flagged. Review these recurring whole expressions under the same unresolved terminology status as their first uses.
+
+[^T06-L002]: S1061/S1065/S1066/S1072/S1119/S1121/S1122/S1165: unlisted བདེན is provisionally “truth,” ཉག་གཅིག “unique,” ཀུན་ཁྱབ “pervades all” or “all-pervading,” ལམ “path,” and ས “ground.” The source’s single/negative modifiers remain outside the bare truth gloss. “Ground” here does not silently substitute for the established The Ground assigned to གཞི. Review the local senses without importing named truth systems, paths or grounds.
+
+[^T06-L003]: S1160/S1167/S1177/S1180/S1186: རང་བྱུང retains provisional “naturally arising”; the complete naturally arising primordial-knowing expression is absent here. In རང་དངས, དངས is provisionally “becoming clear” and རང supplies “by itself”; this is a clearing verb, not an automatic identification with canonical clarity or self-purified. Bare སྒྲོན་མ and ཞགས་པ are provisionally “lamp” and “noose.” No complete named lamp is supplied from those components alone. Review these forms and their local functions.
+
+[^T06-L004]: Recurring forms in S1106–S1178: provisional ཡུལ “object,” ཆོས “phenomenon,” འཇིག་རྟེན “world/worldly,” འཁོར་འདས “saṃsāra and nirvāṇa,” འཁོར་བ “saṃsāra,” ཕུང་པོ “aggregate,” ཁམས “element,” སྐྱེ་མཆེད “sense base,” གཟུགས “form,” and nominal ལས “action” retain their local catalogue or bondage-sequence senses. “Element” in the constituent list remains distinct from “realm” in S1174. The broad object term does not acquire an absent focus/comprehension qualifier; nominal action remains distinct from the homographic ablative particle. Review these recurring proposals and the separately noted clause attachments.
+
+[^T06-L005]: S1089/S1107/S1133/S1135/S1136/S1176: the short forms ལྟ and སྒོམ retain canonical “view” and “cultivation”; མ་རིག retains “ignorance.” Expanded བྱ་དང་བྲལ preserves “free from doing,” རྟོགས་དང་མ་རྟོགས preserves “realization and non-realization,” and རེ་དང་དོགས་པ preserves “hope and fear.” These grammatical realizations keep the established lexical families and source order; realization is not conflated with conceptual thought. Review the expanded constructions without changing the canonical assignments.

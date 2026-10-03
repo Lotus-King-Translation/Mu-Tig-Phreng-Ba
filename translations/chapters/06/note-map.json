@@ -6183,5 +6183,125 @@
     "obligations": [
       "adzom:MTP-AUDIT-C06-358"
     ]
+  },
+  {
+    "id": "T06-L001",
+    "pair_ids": [
+      "MTP-000326",
+      "MTP-000332",
+      "MTP-000334",
+      "MTP-000335",
+      "MTP-000340",
+      "MTP-000355",
+      "MTP-000356",
+      "MTP-000358",
+      "MTP-000361",
+      "MTP-000362",
+      "MTP-000363"
+    ],
+    "golden_ids": [
+      "MTP-S001061",
+      "MTP-S001075",
+      "MTP-S001080",
+      "MTP-S001085",
+      "MTP-S001100",
+      "MTP-S001146",
+      "MTP-S001150",
+      "MTP-S001152",
+      "MTP-S001159",
+      "MTP-S001161",
+      "MTP-S001163",
+      "MTP-S001164",
+      "MTP-S001166"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T06-L002",
+    "pair_ids": [
+      "MTP-000326",
+      "MTP-000327",
+      "MTP-000332",
+      "MTP-000346",
+      "MTP-000347",
+      "MTP-000363"
+    ],
+    "golden_ids": [
+      "MTP-S001061",
+      "MTP-S001065",
+      "MTP-S001066",
+      "MTP-S001072",
+      "MTP-S001119",
+      "MTP-S001121",
+      "MTP-S001122",
+      "MTP-S001165"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T06-L003",
+    "pair_ids": [
+      "MTP-000361",
+      "MTP-000363",
+      "MTP-000367",
+      "MTP-000369"
+    ],
+    "golden_ids": [
+      "MTP-S001160",
+      "MTP-S001167",
+      "MTP-S001177",
+      "MTP-S001180",
+      "MTP-S001186"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T06-L004",
+    "pair_ids": [
+      "MTP-000342",
+      "MTP-000346",
+      "MTP-000353",
+      "MTP-000355",
+      "MTP-000363",
+      "MTP-000364",
+      "MTP-000366",
+      "MTP-000367"
+    ],
+    "golden_ids": [
+      "MTP-S001106",
+      "MTP-S001117",
+      "MTP-S001140",
+      "MTP-S001144",
+      "MTP-S001168",
+      "MTP-S001170",
+      "MTP-S001173",
+      "MTP-S001175",
+      "MTP-S001176",
+      "MTP-S001178"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T06-L005",
+    "pair_ids": [
+      "MTP-000337",
+      "MTP-000343",
+      "MTP-000351",
+      "MTP-000366"
+    ],
+    "golden_ids": [
+      "MTP-S001089",
+      "MTP-S001107",
+      "MTP-S001133",
+      "MTP-S001135",
+      "MTP-S001136",
+      "MTP-S001176"
+    ],
+    "category": "translation_issue",
+    "obligations": []
   }
 ]
