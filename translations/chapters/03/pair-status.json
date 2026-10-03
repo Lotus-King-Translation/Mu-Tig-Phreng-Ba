@@ -3,7 +3,9 @@
     "id": "MTP-000066",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C03-005"
+    ]
   },
   {
     "id": "MTP-000067",
@@ -11,7 +13,12 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T03-001",
-      "T03-024"
+      "T03-024",
+      "CH03-G000223",
+      "MTP-AUDIT-C03-001",
+      "MTP-AUDIT-C03-010",
+      "MTP-AUDIT-C03-011",
+      "MTP-AUDIT-C03-074"
     ]
   },
   {
@@ -22,7 +29,9 @@
       "T03-001",
       "T03-002",
       "T03-004",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-001",
+      "MTP-AUDIT-C03-012"
     ]
   },
   {
@@ -31,7 +40,16 @@
     "reason": "Narrative translated; S229 formula retained exactly with unresolved glyph/encoding and meaning.",
     "note_ids": [
       "T03-001",
-      "T03-003"
+      "T03-003",
+      "CH03-G000228",
+      "CH03-G000229",
+      "MTP-AUDIT-C03-001",
+      "MTP-AUDIT-C03-009",
+      "MTP-AUDIT-C03-013",
+      "MTP-AUDIT-C03-014",
+      "MTP-AUDIT-C03-015",
+      "MTP-AUDIT-C03-016",
+      "MTP-AUDIT-C03-074"
     ]
   },
   {
@@ -40,14 +58,21 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T03-003",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-001",
+      "MTP-AUDIT-C03-017",
+      "MTP-AUDIT-C03-018",
+      "MTP-AUDIT-C03-019",
+      "MTP-AUDIT-C03-074"
     ]
   },
   {
     "id": "MTP-000071",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C03-006"
+    ]
   },
   {
     "id": "MTP-000072",
@@ -56,7 +81,13 @@
     "note_ids": [
       "T03-004",
       "T03-005",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-002",
+      "MTP-AUDIT-C03-020",
+      "MTP-AUDIT-C03-021",
+      "MTP-AUDIT-C03-022",
+      "MTP-AUDIT-C03-023",
+      "MTP-AUDIT-C03-075"
     ]
   },
   {
@@ -65,7 +96,15 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T03-006",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-002",
+      "MTP-AUDIT-C03-024",
+      "MTP-AUDIT-C03-025",
+      "MTP-AUDIT-C03-026",
+      "MTP-AUDIT-C03-027",
+      "MTP-AUDIT-C03-028",
+      "MTP-AUDIT-C03-029",
+      "MTP-AUDIT-C03-075"
     ]
   },
   {
@@ -74,7 +113,15 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T03-007",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-002",
+      "MTP-AUDIT-C03-029",
+      "MTP-AUDIT-C03-030",
+      "MTP-AUDIT-C03-031",
+      "MTP-AUDIT-C03-032",
+      "MTP-AUDIT-C03-033",
+      "MTP-AUDIT-C03-034",
+      "MTP-AUDIT-C03-075"
     ]
   },
   {
@@ -84,21 +131,39 @@
     "note_ids": [
       "T03-001",
       "T03-008",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-002",
+      "MTP-AUDIT-C03-003",
+      "MTP-AUDIT-C03-034",
+      "MTP-AUDIT-C03-035",
+      "MTP-AUDIT-C03-036",
+      "MTP-AUDIT-C03-037",
+      "MTP-AUDIT-C03-038",
+      "MTP-AUDIT-C03-076"
     ]
   },
   {
     "id": "MTP-000076",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C03-007"
+    ]
   },
   {
     "id": "MTP-000077",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T03-009"
+      "T03-009",
+      "MTP-AUDIT-C03-003",
+      "MTP-AUDIT-C03-039",
+      "MTP-AUDIT-C03-040",
+      "MTP-AUDIT-C03-041",
+      "MTP-AUDIT-C03-042",
+      "MTP-AUDIT-C03-043",
+      "MTP-AUDIT-C03-044",
+      "MTP-AUDIT-C03-045"
     ]
   },
   {
@@ -107,7 +172,15 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T03-010",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-003",
+      "MTP-AUDIT-C03-045",
+      "MTP-AUDIT-C03-046",
+      "MTP-AUDIT-C03-047",
+      "MTP-AUDIT-C03-048",
+      "MTP-AUDIT-C03-049",
+      "MTP-AUDIT-C03-050",
+      "MTP-AUDIT-C03-076"
     ]
   },
   {
@@ -115,7 +188,12 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T03-011"
+      "T03-011",
+      "MTP-AUDIT-C03-003",
+      "MTP-AUDIT-C03-051",
+      "MTP-AUDIT-C03-052",
+      "MTP-AUDIT-C03-053",
+      "MTP-AUDIT-C03-054"
     ]
   },
   {
@@ -124,21 +202,40 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T03-001",
-      "T03-012"
+      "T03-012",
+      "MTP-AUDIT-C03-003",
+      "MTP-AUDIT-C03-004",
+      "MTP-AUDIT-C03-055",
+      "MTP-AUDIT-C03-056",
+      "MTP-AUDIT-C03-057",
+      "MTP-AUDIT-C03-058",
+      "MTP-AUDIT-C03-076",
+      "MTP-AUDIT-C03-077"
     ]
   },
   {
     "id": "MTP-000081",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C03-008"
+    ]
   },
   {
     "id": "MTP-000082",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T03-012"
+      "T03-012",
+      "MTP-AUDIT-C03-004",
+      "MTP-AUDIT-C03-059",
+      "MTP-AUDIT-C03-060",
+      "MTP-AUDIT-C03-061",
+      "MTP-AUDIT-C03-062",
+      "MTP-AUDIT-C03-063",
+      "MTP-AUDIT-C03-064",
+      "MTP-AUDIT-C03-065",
+      "MTP-AUDIT-C03-077"
     ]
   },
   {
@@ -150,7 +247,17 @@
       "T03-004",
       "T03-013",
       "T03-014",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-004",
+      "MTP-AUDIT-C03-066",
+      "MTP-AUDIT-C03-067",
+      "MTP-AUDIT-C03-068",
+      "MTP-AUDIT-C03-069",
+      "MTP-AUDIT-C03-070",
+      "MTP-AUDIT-C03-071",
+      "MTP-AUDIT-C03-072",
+      "MTP-AUDIT-C03-073",
+      "MTP-AUDIT-C03-077"
     ]
   },
   {
@@ -158,14 +265,19 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T03-014"
+      "T03-014",
+      "MTP-AUDIT-C03-004",
+      "MTP-AUDIT-C03-088"
     ]
   },
   {
     "id": "MTP-000085",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C03-078",
+      "MTP-AUDIT-C03-079"
+    ]
   },
   {
     "id": "MTP-000086",
@@ -175,7 +287,15 @@
       "T03-011",
       "T03-014",
       "T03-015",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-078",
+      "MTP-AUDIT-C03-089",
+      "MTP-AUDIT-C03-090",
+      "MTP-AUDIT-C03-091",
+      "MTP-AUDIT-C03-092",
+      "MTP-AUDIT-C03-093",
+      "MTP-AUDIT-C03-094",
+      "MTP-AUDIT-C03-095"
     ]
   },
   {
@@ -185,7 +305,9 @@
     "note_ids": [
       "T03-015",
       "T03-016",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-078",
+      "MTP-AUDIT-C03-096"
     ]
   },
   {
@@ -197,14 +319,25 @@
       "T03-015",
       "T03-016",
       "T03-017",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-078",
+      "MTP-AUDIT-C03-097",
+      "MTP-AUDIT-C03-098",
+      "MTP-AUDIT-C03-099",
+      "MTP-AUDIT-C03-100",
+      "MTP-AUDIT-C03-101",
+      "MTP-AUDIT-C03-102",
+      "MTP-AUDIT-C03-103"
     ]
   },
   {
     "id": "MTP-000089",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C03-080",
+      "MTP-AUDIT-C03-081"
+    ]
   },
   {
     "id": "MTP-000090",
@@ -214,7 +347,15 @@
       "T03-016",
       "T03-017",
       "T03-018",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-080",
+      "MTP-AUDIT-C03-104",
+      "MTP-AUDIT-C03-105",
+      "MTP-AUDIT-C03-106",
+      "MTP-AUDIT-C03-107",
+      "MTP-AUDIT-C03-108",
+      "MTP-AUDIT-C03-109",
+      "MTP-AUDIT-C03-110"
     ]
   },
   {
@@ -223,7 +364,12 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T03-001",
-      "T03-019"
+      "T03-019",
+      "CH03-G000315",
+      "MTP-AUDIT-C03-080",
+      "MTP-AUDIT-C03-111",
+      "MTP-AUDIT-C03-112",
+      "MTP-AUDIT-C03-113"
     ]
   },
   {
@@ -232,14 +378,24 @@
     "reason": "S316 numeral is retained but the three-of-certainty grouping remains explicitly unresolved; other source material translated provisionally.",
     "note_ids": [
       "T03-020",
-      "T03-024"
+      "T03-024",
+      "CH03-G000316",
+      "MTP-AUDIT-C03-080",
+      "MTP-AUDIT-C03-086",
+      "MTP-AUDIT-C03-114",
+      "MTP-AUDIT-C03-115",
+      "MTP-AUDIT-C03-116",
+      "MTP-AUDIT-C03-117"
     ]
   },
   {
     "id": "MTP-000093",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C03-082",
+      "MTP-AUDIT-C03-083"
+    ]
   },
   {
     "id": "MTP-000094",
@@ -248,7 +404,13 @@
     "note_ids": [
       "T03-020",
       "T03-021",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-082",
+      "MTP-AUDIT-C03-118",
+      "MTP-AUDIT-C03-119",
+      "MTP-AUDIT-C03-120",
+      "MTP-AUDIT-C03-121",
+      "MTP-AUDIT-C03-122"
     ]
   },
   {
@@ -257,7 +419,12 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T03-021",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-082",
+      "MTP-AUDIT-C03-123",
+      "MTP-AUDIT-C03-124",
+      "MTP-AUDIT-C03-125",
+      "MTP-AUDIT-C03-126"
     ]
   },
   {
@@ -266,14 +433,24 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T03-022",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-082",
+      "MTP-AUDIT-C03-127",
+      "MTP-AUDIT-C03-128",
+      "MTP-AUDIT-C03-129",
+      "MTP-AUDIT-C03-130",
+      "MTP-AUDIT-C03-131",
+      "MTP-AUDIT-C03-132"
     ]
   },
   {
     "id": "MTP-000097",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C03-084",
+      "MTP-AUDIT-C03-085"
+    ]
   },
   {
     "id": "MTP-000098",
@@ -284,7 +461,11 @@
       "T03-014",
       "T03-015",
       "T03-022",
-      "T03-024"
+      "T03-024",
+      "MTP-AUDIT-C03-084",
+      "MTP-AUDIT-C03-133",
+      "MTP-AUDIT-C03-134",
+      "MTP-AUDIT-C03-135"
     ]
   },
   {
@@ -294,7 +475,10 @@
     "note_ids": [
       "T03-001",
       "T03-023",
-      "T03-024"
+      "T03-024",
+      "CH03-G000340",
+      "MTP-AUDIT-C03-084",
+      "MTP-AUDIT-C03-087"
     ]
   }
 ]

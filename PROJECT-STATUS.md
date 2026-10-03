@@ -1,14 +1,14 @@
 # Project status — 2026-10-03
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: Chapter3 working translation authorized; chapter2 signed candidate awaits tag/receipt; fixed chapter releases1/8
+- Phase: Chapter3 drafted; independent review in progress; chapter2 signed candidate awaits tag/receipt; fixed chapter releases1/8
 - Repository: created from Lotus-King-Translation/tibetan-text-project-template
 - Discovery streams: 3/3 bounded surveys completed; BDRC, external catalogues, electronic texts/translations
 - Registered source/research records: 43; this includes unresolved leads and reference works
 - Acquired facsimile manifestations: 12; image pages: 1,122
 - Acquired electronic renditions: 2; both belong to one Valby/Adzom transcription family
 - Governing witness: Adzom1973–77 W1KG892/I1KG895; golden chapter releases8/8; translation/paired chapter releases: 1/8
-- Golden source anchors:2,053; decisions:183; targeted checks:102; changed passages:30; restorations:0; represented pairs:65 (30 released;35 reviewed candidate)
+- Golden source anchors:2,053; decisions:183; targeted checks:102; changed passages:30; restorations:0; represented pairs:99 (30 released;35 reviewed chapter2;34 chapter3 draft)
 - Main-text Adzom comparison and independent agent translation QC: chapters 1–2 (chapter2 release pending); unreadable/source-layer limits remain explicit. Exhaustive witness collation and independent human certification: not performed.
 
 ## Deliverables
@@ -21,4 +21,4 @@ Resolve the eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtan
 
 Golden output: [complete reading](golden/reading.md), [machine reading](golden/reading.json), [coverage](golden/coverage.json). Fixed whole-book release: `golden-v1`; publication receipt: `diplomatic/publication/golden-v1.json` on main after the fixed tag.
 
-Golden editorial/source queues are closed. English releases1/8 complete; chapter2 signed working candidate has independent QC and final-mode validation. Canonical English coverage221/2053 objects(1832 remaining); released coverage97/2053. Chapter2 has35pairs/175endnotes and152/152 source obligations; four local unresolved pairs. User instructed proceeding to chapter3 while chapter2 annotated-tag/receipt publication is blocked. Chapter3 scope:120objects,8nativepages; source segmentation/audit in progress, no English yet. Chapter4–8 have not started. Final release gates remain strict. See translations/HANDOFF.md and DECISIONS.md.
+Golden editorial/source queues are closed. English releases1/8 complete; chapter2 signed candidate is unchanged. Chapter3 is fully drafted:34pairs/120objects,165notes,142source obligations; usage/proposals and independent QC in progress. Canonical coverage341/2053 objects,1712 remaining; released coverage97/2053. Source comparison covers8/8 chapter3 pages with two unresolved source readings and explicit untranscribed annotation limits. Formal tags/receipts remain pending; final release checks are unchanged. Chapter4–8 have not started. See translations/HANDOFF.md.
