@@ -33,7 +33,10 @@
       "height": 767,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Chapter5 opening at row3 middle after chapter4 colophon, then rows4–6; ends with S647 and following smaller annotation.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit"
     },
     {
       "image_index": 465,
@@ -49,7 +52,10 @@
       "height": 809,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six rows: S649 begins row1 left after decorative opening; S651 spans row1right–row2left; S660 ends row6 with annotation continuing image466.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit"
     },
     {
       "image_index": 466,
@@ -65,7 +71,10 @@
       "height": 809,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six rows: opens with the smaller annotation after S660; S662 starts row1left; S678 completes row6right.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit"
     },
     {
       "image_index": 467,
@@ -81,7 +90,10 @@
       "height": 844,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six rows: S680 starts row1 left; S692 begins row6 right and its root continuation lies on image468row1.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit"
     },
     {
       "image_index": 468,
@@ -97,7 +109,10 @@
       "height": 844,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six rows: completes S692 from image467 at row1 left; S708 begins at row6right with དམྱལ་བ and continues469.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit"
     },
     {
       "image_index": 469,
@@ -113,7 +128,10 @@
       "height": 750,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six rows: completes S708 with བྱོལ་སོང་ཡི་དྭགས་དང at row1left; S730 endsrow6right with smaller commentary continuing470.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit"
     },
     {
       "image_index": 470,
@@ -129,7 +147,10 @@
       "height": 750,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six rows: starts with smaller commentary following S730; S732 beginsrow1middle; S749 endsrow6right with annotation continuing471.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit"
     },
     {
       "image_index": 471,
@@ -145,7 +166,10 @@
       "height": 767,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six rows: opens with smaller commentary after S749; S751 begins row1middle; S767 endsrow6right and following annotation continues472.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit"
     },
     {
       "image_index": 472,
@@ -161,7 +185,10 @@
       "height": 767,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six rows: opens with smaller commentary after S767; S769 beginsrow1middle; S783 startsrow6right ཉག་གཅིག་ཡིན་པས and continues473.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit"
     },
     {
       "image_index": 473,
@@ -177,7 +204,10 @@
       "height": 809,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six physical rows, from S783 concluding གྲངས་མཐའ … ལོག through complete S796; S783 preceding words require image472, and the following S796 smaller note continues474.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_473_481"
     },
     {
       "image_index": 474,
@@ -193,7 +223,10 @@
       "height": 809,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six physical rows: opening smaller continuation of S796, then S798 through S813 beginning, ending ནོར་བུ་འ before completion on475.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_473_481"
     },
     {
       "image_index": 475,
@@ -209,7 +242,10 @@
       "height": 844,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six physical rows from S813 concluding འདྲ through S829 beginning ཅེར་གྲོལ … ཡིན་པས; S829 completes on476.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_473_481"
     },
     {
       "image_index": 476,
@@ -225,7 +261,10 @@
       "height": 844,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six physical rows from S829 concluding སྣང་བ་དག through S846 beginning ལྕགས … ཀྱིས་ལྕགས་རྣམས; S846 completes on477.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_473_481"
     },
     {
       "image_index": 477,
@@ -241,7 +280,10 @@
       "height": 750,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six physical rows from S846 concluding གཤོག་པ་དང through S864 beginning རང་རྫོགས་ཡིན་ཕྱིར་དུས་གཅིག; S864 completes on478.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_473_481"
     },
     {
       "image_index": 478,
@@ -257,7 +299,10 @@
       "height": 750,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six physical rows from S864 concluding རྫོགས through S882 beginning བེམ་རིག་གཉིས་མེད; S882 completes on479.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_473_481"
     },
     {
       "image_index": 479,
@@ -273,7 +318,10 @@
       "height": 767,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six physical rows from S882 concluding ཚོགས་གཉིས་རྫོགས through S898 beginning སྐུ་གསུམ་ཡེ་ནས་མ་བསྐྱེད; S898 completes on480.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_473_481"
     },
     {
       "image_index": 480,
@@ -289,7 +337,10 @@
       "height": 767,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six physical rows from S898 concluding རྫོགས through complete S913.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_473_481"
     },
     {
       "image_index": 481,
@@ -305,7 +356,10 @@
       "height": 809,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "All six physical rows from complete S915 through complete S928 and the initial མ of S929 at the extreme end; the remaining S929 words require image482.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_473_481"
     },
     {
       "image_index": 482,
@@ -321,7 +375,10 @@
       "height": 809,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Rows1–6: S929 continuation (initial མ is on481), then S931–946 complete and opening ལྷ་མེད of S947; S947 continues483. Metadata S930 is the external page number. All horizontal chapter5 root words in this span directly compared; smaller annotations separately recorded.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_482_490"
     },
     {
       "image_index": 483,
@@ -337,7 +394,10 @@
       "height": 844,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Rows1–6: S947 continuation མཆོད་པའི་ཡུལ་འདས་པའོ, then S949–962 complete; S962 trailing smaller commentary continues484. Metadata S948 is the external page number. All root words compared, including retained སྤྱིས at S952 and སྔགས at S956.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_482_490"
     },
     {
       "image_index": 484,
@@ -353,7 +413,10 @@
       "height": 844,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Rows1–6: opening continuation of S962 smaller commentary, then S964–980 complete root text; metadata S963 is external page numbering. The opening commentary is separately allocated to S962, not treated as an additional root verse.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_482_490"
     },
     {
       "image_index": 485,
@@ -369,7 +432,10 @@
       "height": 750,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Rows1–6: S982–993 complete and S994 through དམྱལ་བ; its smaller annotation and final root དང continue486. Metadata S981 is external page numbering. All allocated main words compared directly.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_482_490"
     },
     {
       "image_index": 486,
@@ -385,7 +451,10 @@
       "height": 750,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Rows1–6: opening smaller-commentary continuation at S994 followed by its final root དང; S996–1007 complete and S1008 opening དེ་ནས་རིམ, which continues487. Metadata S995 is external page numbering.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_482_490"
     },
     {
       "image_index": 487,
@@ -401,7 +470,10 @@
       "height": 767,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Rows1–6: S1008 continuation གྱིས་ས་ཚིལ་དང, then S1010–1021 complete. Metadata S1009 is external page numbering. All root words compared, including retained སྤྲུལ at S1021.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_482_490"
     },
     {
       "image_index": 488,
@@ -417,7 +489,10 @@
       "height": 767,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Rows1–6: S1023–1036 complete and opening བཅུད་རྣམས of S1037, continued489. Metadata S1022 is external page numbering. S1028 retains printed སྤྲུལ; extra visible ལ at S1033 has uncertain root/annotation allocation and is not certified agreement.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_482_490"
     },
     {
       "image_index": 489,
@@ -433,7 +508,10 @@
       "height": 809,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Rows1–6: smaller annotation following S1037 opening on488, then root continuation སྙིང་པོ་ཉིད་དུ་དྲིལ; S1039–1048 complete and S1049 colophon formula. Metadata S1038 is external page numbering. All these root and colophon words directly compared.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_482_490"
     },
     {
       "image_index": 490,
@@ -449,7 +527,10 @@
       "height": 809,
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
-      "transformations": []
+      "transformations": [],
+      "main_text_coverage": "Row1 left only: complete chapter5 final colophon object S1051 through ལྔ་པའོ and closing double-shad; metadata S1050 is external page numbering. Subsequent དེ་ནས and the remaining rows/marginal labels belong to chapter6 and are excluded.",
+      "inspection": "direct_native_visual; exact-pixel crops used as locators",
+      "inspector": "/root/ch05_audit/native_482_490"
     }
   ],
   "limits": [
