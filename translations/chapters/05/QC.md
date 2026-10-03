@@ -17,7 +17,8 @@ Native comparison is conducted by a separate audit team. The QC reviewer has not
 ## Review progress
 
 - Batch 1: pairs 186–230, S636–767, 45 pairs / 132 objects, all English bodies and all 19 translator notes read against the fixed source. No confirmed body mismatch identified in this batch. Three locally unresolved pairs (190/S645, 193/S651, 227/S756) are visibly represented.
-- Remaining: pairs 231–320 and their translator notes; all native/golden endnotes when assembled; final usage/proposal records; generated coverage, note bindings, and final immutable identities.
+- Batch 2: pairs 231–269, S768–898, 39 pairs / 131 objects, all new English bodies and translator notes T05-020–032 read against the fixed source. Combined reviewed draft scope is 84 pairs / 263 objects and 32 translator notes. The five further locally unresolved pairs (239/S793, 252/S838, 263/S878, 267/S888, 269/S897) retain their problematic wording visibly.
+- Remaining: pairs 270–320 and their translator notes; all native/golden endnotes when assembled; final usage/proposal records; generated coverage, note bindings, and final immutable identities.
 - No automated semantic certification, independent human certification, or whole-chapter clearance is claimed at this stage. The standard's 30 semantic regression fixtures have not been run by this reviewer.
 
 ## Findings
@@ -32,7 +33,28 @@ Native comparison is conducted by a separate audit team. The QC reviewer has not
 - Minimal action: extend T05-019 to disclose the tentative nondual reading and the alternative “the two ... are absent”; do not silently replace the fixed source or impose a settled doctrinal conclusion.
 - Authority: local annotation proposal, not an approved glossary decision.
 - Rules: Part I §§5–7; QC Q2–Q4, Q7, Q9.
-- Disposition: author accepted; amendment pending after the coordinating checkpoint.
+- Disposition: author accepted and expanded T05-019 explicitly; reviewer read the amendment and accepts it as a responsible open question. Neither reading is thereby settled.
+
+### Q05-002 — predication versus existential absence
+
+- Source: S892 `འགྱུ་བ་མ་ཡིན་དྲན་པ་གནས`.
+- Draft: pair 268, “There is no movement; mindfulness abides.”
+- Label/category: confirmed error; meaning/scope.
+- Severity: Medium. Confidence: High regarding the predicate distinction; the implicit subject remains open.
+- Evidence: `མ་ཡིན` negates predication, “is not movement,” whereas the draft asserts existential absence. Nearby S887 `སེམས་མེད` supplies an actual absence construction and should not flatten this distinction.
+- Minimal action: “[It] is not movement; mindfulness abides.” Bracket the unexpressed subject and retain the note's unresolved continuity rather than inventing an agent.
+- Authority: local source-supported semantic/syntactic correction; no glossary update.
+- Rules: Part I §5; QC Q3, Q9.
+- Disposition: author applied the minimal correction; reviewer verified the corrected English.
+
+### Q05-003 — local commitment wording and annotation cleanup
+
+- Source: S678 `དམ་ཚིག`.
+- Draft: pair 200 “commitments”; T05-007 calls the bare mapping a local proposal.
+- Label/category: documentation gap; provisional terminology. Severity: Low. Confidence: High that prior usage differs, without evidence that either local proposal is a body mistranslation.
+- Evidence: the saved chapter 4 draft uses provisional “samaya.” Neither choice is an approved bare glossary entry.
+- Minimal action: explicitly compare and scope chapter 5's provisional “commitment” in its note and lexical records; do not change either chapter merely for stylistic uniformity. The coordinator also requested removal of T05-007's unrelated harmful-act disclaimer from the ritual-negation note.
+- Disposition: author added the explicit commitment/samaya comparison and removed the unrelated framing; reviewer verified both note changes, and analogous cleanup of T05-027. Final lexical documentation remains to verify. No body change requested.
 
 ## Important conforming choices
 
