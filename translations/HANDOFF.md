@@ -1,4 +1,8 @@
-# Translation handoff — chapter 5 signed working candidate
+# Translation handoff — chapter 6 preparation
+
+Current task: the user explicitly instructed GitHub preservation and the next chapter. Remote main `54d7597` and chapter 5 content checks were verified. Chapter 6 preparation now covers S1052–S1427 (376 objects), images490–512. Native provenance is verified; direct comparison and source freeze are underway. No chapter 6 English has yet been authored. Prior signed candidates and the exact unsigned chapter 4 snapshot remain protected. Strict formal publication remains pending; chapter 7 is not started.
+
+## Saved chapter 5 working candidate
 
 Updated 2026-10-03. Chapter 5 is complete as an annotated, independently reviewed working candidate: MTP-S000636–MTP-S001051, 416 source objects in 135 pairs MTP-000186–MTP-000320. The source is fixed golden-v1 at `4d6ba07e1b3379183633127cd387d98d8195eb95`. The final build manifest is `0afe04a17427ac29e9aff38de4e8c469e9aafbd7a011a9a8acb4a6a49e1abd02`. The signed content candidate is preserved at `c0b7945a56e8c670363d50a6c67448bdda83003a`, verified on remote main.
 
@@ -16,7 +20,7 @@ The 94 affected structural tests passed. Final read-only reproducibility and sig
 
 ## Preserved prior state and publication boundary
 
-The user explicitly instructed “cool, then move on to next chapter” after disclosure of chapter 4's final upload failure and local file loss. The committed schema-3 authorization permits this chapter 5 working candidate only. Chapter 6 has not started.
+The user explicitly instructed “cool, then move on to next chapter” after disclosure of chapter 4's final upload failure and local file loss. The committed schema-3 authorization permits the chapter 5 working candidate. The later explicit instruction recorded in DECISIONS.md authorizes chapter 6 under a separate schema-4 working authorization.
 
 Chapter 1 remains the sole actual English release, translate-ch01-v1 (97 objects). Chapter 2's signed candidate remains pinned to `f0f7097621c021b4a03863dc7b7e8925c6975f86` (124 objects/35 pairs/175 notes); chapter 3's to `50bef02b5b0088911153ce348f7f45612e147158` (120 objects/34 pairs/165 notes).
 
@@ -24,4 +28,4 @@ Chapter 4 remains its complete unsigned saved snapshot at `730921898da3e3328bb42
 
 Canonical source and English now represent 320 pairs/1,051 of 2,053 objects; 1,002 remain beyond chapter 5. Fixed English releases remain 1/8. Chapters 2,3,5 are signed reviewed candidates; chapter 4 remains unsigned. Chapters 2–5 annotated tags/receipts remain pending. The GitHub connector supports commit preservation but provides no annotated-tag creation; the previously attempted authenticated remote terminal did not respond. No tag or receipt is fabricated, and strict final/aggregate gates remain unchanged.
 
-The requested chapter 5 work is complete. Next finite work requires an explicit scope decision: restore chapter 4's lost final supporting package and resolve genuine prior publication, or authorize a further bounded working continuation. This handoff does not start chapter 6 or schedule future work.
+The requested chapter 5 work is complete. Current finite work is chapter 6 preparation, translation, annotation, independent review and remote preservation under the new explicit instruction. Chapter 4 recovery and genuine formal publication remain separate open work.
