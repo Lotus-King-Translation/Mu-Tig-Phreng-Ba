@@ -30,12 +30,14 @@
   {
     "id": "T03-002",
     "pair_ids": [
-      "MTP-000068"
+      "MTP-000068",
+      "MTP-000092"
     ],
     "golden_ids": [
       "MTP-S000224",
       "MTP-S000225",
-      "MTP-S000226"
+      "MTP-S000226",
+      "MTP-S000316"
     ],
     "category": "translation_issue",
     "obligations": []
@@ -80,13 +82,15 @@
   {
     "id": "T03-005",
     "pair_ids": [
-      "MTP-000072"
+      "MTP-000072",
+      "MTP-000095"
     ],
     "golden_ids": [
       "MTP-S000234",
       "MTP-S000235",
       "MTP-S000236",
-      "MTP-S000237"
+      "MTP-S000237",
+      "MTP-S000328"
     ],
     "category": "translation_issue",
     "obligations": []
@@ -94,14 +98,16 @@
   {
     "id": "T03-006",
     "pair_ids": [
-      "MTP-000073"
+      "MTP-000073",
+      "MTP-000094"
     ],
     "golden_ids": [
       "MTP-S000238",
       "MTP-S000239",
       "MTP-S000240",
       "MTP-S000241",
-      "MTP-S000242"
+      "MTP-S000242",
+      "MTP-S000324"
     ],
     "category": "translation_issue",
     "obligations": []
@@ -109,9 +115,11 @@
   {
     "id": "T03-007",
     "pair_ids": [
+      "MTP-000070",
       "MTP-000074"
     ],
     "golden_ids": [
+      "MTP-S000232",
       "MTP-S000243",
       "MTP-S000244",
       "MTP-S000245",
@@ -137,14 +145,18 @@
   {
     "id": "T03-009",
     "pair_ids": [
-      "MTP-000077"
+      "MTP-000077",
+      "MTP-000092",
+      "MTP-000096"
     ],
     "golden_ids": [
       "MTP-S000252",
       "MTP-S000253",
       "MTP-S000254",
       "MTP-S000255",
-      "MTP-S000256"
+      "MTP-S000256",
+      "MTP-S000318",
+      "MTP-S000331"
     ],
     "category": "translation_issue",
     "obligations": []
@@ -152,13 +164,15 @@
   {
     "id": "T03-010",
     "pair_ids": [
-      "MTP-000078"
+      "MTP-000078",
+      "MTP-000098"
     ],
     "golden_ids": [
       "MTP-S000257",
       "MTP-S000258",
       "MTP-S000259",
-      "MTP-S000260"
+      "MTP-S000260",
+      "MTP-S000339"
     ],
     "category": "translation_issue",
     "obligations": []
@@ -167,14 +181,16 @@
     "id": "T03-011",
     "pair_ids": [
       "MTP-000079",
-      "MTP-000086"
+      "MTP-000086",
+      "MTP-000092"
     ],
     "golden_ids": [
       "MTP-S000261",
       "MTP-S000262",
       "MTP-S000263",
       "MTP-S000291",
-      "MTP-S000292"
+      "MTP-S000292",
+      "MTP-S000316"
     ],
     "category": "terminology_provisional",
     "obligations": []
@@ -183,7 +199,8 @@
     "id": "T03-012",
     "pair_ids": [
       "MTP-000080",
-      "MTP-000082"
+      "MTP-000082",
+      "MTP-000094"
     ],
     "golden_ids": [
       "MTP-S000265",
@@ -195,7 +212,8 @@
       "MTP-S000272",
       "MTP-S000273",
       "MTP-S000274",
-      "MTP-S000275"
+      "MTP-S000275",
+      "MTP-S000320"
     ],
     "category": "translation_issue",
     "obligations": []
@@ -333,14 +351,27 @@
   {
     "id": "T03-020",
     "pair_ids": [
+      "MTP-000068",
+      "MTP-000077",
+      "MTP-000079",
+      "MTP-000082",
       "MTP-000092",
-      "MTP-000094"
+      "MTP-000094",
+      "MTP-000096",
+      "MTP-000099"
     ],
     "golden_ids": [
+      "MTP-S000226",
+      "MTP-S000252",
+      "MTP-S000253",
+      "MTP-S000261",
+      "MTP-S000271",
       "MTP-S000316",
       "MTP-S000317",
       "MTP-S000318",
-      "MTP-S000320"
+      "MTP-S000320",
+      "MTP-S000331",
+      "MTP-S000340"
     ],
     "category": "translation_issue",
     "obligations": []
@@ -348,10 +379,18 @@
   {
     "id": "T03-021",
     "pair_ids": [
+      "MTP-000072",
+      "MTP-000073",
+      "MTP-000092",
       "MTP-000094",
-      "MTP-000095"
+      "MTP-000095",
+      "MTP-000096",
+      "MTP-000098"
     ],
     "golden_ids": [
+      "MTP-S000236",
+      "MTP-S000241",
+      "MTP-S000318",
       "MTP-S000321",
       "MTP-S000322",
       "MTP-S000323",
@@ -360,7 +399,9 @@
       "MTP-S000326",
       "MTP-S000327",
       "MTP-S000328",
-      "MTP-S000329"
+      "MTP-S000329",
+      "MTP-S000335",
+      "MTP-S000338"
     ],
     "category": "translation_issue",
     "obligations": []
@@ -368,10 +409,19 @@
   {
     "id": "T03-022",
     "pair_ids": [
+      "MTP-000092",
+      "MTP-000094",
+      "MTP-000095",
       "MTP-000096",
       "MTP-000098"
     ],
     "golden_ids": [
+      "MTP-S000318",
+      "MTP-S000321",
+      "MTP-S000323",
+      "MTP-S000325",
+      "MTP-S000327",
+      "MTP-S000329",
       "MTP-S000330",
       "MTP-S000331",
       "MTP-S000332",
@@ -388,9 +438,11 @@
   {
     "id": "T03-023",
     "pair_ids": [
+      "MTP-000092",
       "MTP-000099"
     ],
     "golden_ids": [
+      "MTP-S000317",
       "MTP-S000340",
       "MTP-S000341"
     ],
@@ -457,6 +509,7 @@
       "MTP-S000320",
       "MTP-S000321",
       "MTP-S000323",
+      "MTP-S000324",
       "MTP-S000325",
       "MTP-S000327",
       "MTP-S000328",

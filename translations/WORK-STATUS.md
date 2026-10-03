@@ -1,26 +1,31 @@
-# Translation handoff — chapter 3 drafted; review in progress
+# Translation handoff — chapter 3 reviewed and signed; publication pending
 
-Updated 2026-10-03. The user instructed proceeding to chapter 3 after the chapter 2 publication blocker. See DECISIONS.md and the committed chapter 3 draft authorization. The fixed golden-v1 source and canonical glossary remain unchanged.
+Updated 2026-10-03. User instruction: “excellent, move to chapter 3 then”, after the chapter 2 publication blocker. See DECISIONS.md and the committed, narrowly scoped draft authorization. Fixed golden-v1 and the canonical glossary remain unchanged.
 
-## Current scope and counts
+## Completed chapter 3 work
 
-- Chapter 3: MTP-S000222–MTP-S000341, 120 source objects in 34 pairs (MTP-000066–MTP-000099). All objects are represented in English: 24 translated pairs, 2 locally unresolved pairs (S229 formula and S316 grouping), and 8 metadata pairs. The closing colophon is included.
-- Canonical paired prefix: 99 pairs / 341 of 2,053 objects; 1,712 objects remain beyond chapter 3. Counts describe representation, not accuracy or complete decipherment.
-- Chapter 3 notes: 165 (24 translator, 6 golden-history, 135 native-audit); 142 source obligations covered by the assembled apparatus. Usage/proposals, author self-check and independent QC are in progress; no final chapter 3 clearance yet.
-- Native comparison: all 120 objects and all 8 allocated images 439–446 / printed429–436 inspected. 110 main/colophon lexical agreements, 2 uncertain readings, 8 metadata checks. No definite new main lexical difference identified. Findings:112 local smaller-note omission entries,12 presentation,9 source-layer,2 uncertain-reading. The readable note opening at S335 is provisionally glossed; the rest remains explicitly untranscribed.
-- All native image hashes match the registered archive. Main-text comparison is complete within this scope; complete commentary decipherment, full multi-layer scan proofreading, exhaustive witness collation and independent human certification are not claimed.
-- Original chapter 3 author draft preserved byte-identically in translation-draft.md (SHA-256 48b2c02364bc3b86855386dc8149caf79e65a54e3ee6cbbeaaa969751638d109). Source-note assembly and subsequent QC corrections are distinct from that archive.
+- Scope: MTP-S000222–MTP-S000341,120 source objects in34 pairs (MTP-000066–MTP-000099). All objects are represented:24 translated pairs,2 locally unresolved pairs (S229 formula,S316 numeral/grouping),8 metadata pairs. Both colophon objects are included.
+- Notes:165 total (24 translator,6 golden-history,135 native-audit);142/142 source obligations covered;0 missing. Supporting records:105 usage records/252 exact source occurrences,65 eight-column proposals. All123 provisional occurrences have locally allocated explanatory notes. No proposal is activated in the canonical glossary.
+- Native audit:120/120 objects across8/8 images439–446/printed429–436.110 lexical agreements,2 uncertain readings,8 metadata checks. No definite newly identified main lexical difference. Findings:112 local smaller-note omission entries,12 presentation,9 source-layer,2 uncertain-reading. The readable S335 note opening is provisionally glossed; the rest stays untranscribed.
+- Exact native-image hashes match the registered archive. Complete main-text comparison within this scope is distinguished from complete commentary decipherment, full multi-layer scan proofreading, exhaustive witness collation and independent human certification; those broader claims are not made.
+- Deliverables complete: source/English snapshots, preserved author draft, full endnotes, native audit/evidence, usage/proposals, author self-check, changes, generated reading/bilingual/machine/coverage, independent QC, final content review/signoff and validation record.
+- Independent reviewer `/root/ch02_qc` reviewed all pairs,notes and supporting lexical records. Disposition:ready with explicit review flags, no open semantic revision blockers. Translator `/root/ch02_translate` and its syntax consultation are separate from that QC.
+- Current English SHA-256:cb8b72e3a4ba013d1439f3eb85c8324fb6e06ce3c351268eb4e67e3e59031baf. Manifest SHA-256:2b4671cc6b8ac19fd9187379138c460c34a4f746d61cf8a3c25904ede3472885. First author draft remains byte-identical at48b2c02364bc3b86855386dc8149caf79e65a54e3ee6cbbeaaa969751638d109.
 
-## Prior chapters and publication
+## Whole-project and prior chapter state
 
-Chapter 1 remains the only fixed English release (translate-ch01-v1;97 source objects). Chapter 2 remains the signed, independently reviewed candidate at f0f7097621c021b4a03863dc7b7e8925c6975f86:35pairs/124objects/175notes,152 source obligations,4 locally unresolved pairs. Its snapshot files and signed inputs remain unchanged. Its final validation passed before the canonical prefix extended to chapter 3.
+Canonical paired prefix:99 pairs/341 of2053 source objects;1712 remain beyond chapter3. Counts measure representation, not accuracy or resolved interpretation. English fixed releases:1/8, translate-ch01-v1 (97objects).
 
-Chapter 2's annotated tag/receipt is pending. Remote Desktop Commander directory access responded, but a fresh terminal pwd attempt again returned no output/PID before coordinator interruption. No remote Mac project work was inspected or modified. Cloud git has no authenticated push; GitHub connector commits work but annotated-tag creation is unavailable. No tag or receipt is fabricated.
+Chapter2 remains the signed independently reviewed candidate at f0f7097621c021b4a03863dc7b7e8925c6975f86:35pairs/124objects/175notes,152 source obligations,4 locally unresolved pairs. Every chapter2 snapshot and manifest input remains unchanged. Its final validation passed before the canonical prefix extended to chapter3. Chapter1 fixed release and golden-v1 are unchanged.
 
-The explicit chapter 3 continuation is working-draft-only. Normal final release checks remain strict and cannot be passed using the draft flag. Eventual chapter 2 release must validate its preserved scope and actual publication state honestly; current canonical prefix3 must not be misrepresented as prefix2. Chapter 4 has not started.
+## Verification and publication boundary
 
-## Verification and next finite task
+Reproducible build, exact source/pair/note/evidence checks and read-only draft-candidate validation pass. Signed content-review bindings pass. All24 verse-pair line counts match their fixed source.67 structural tests passed:36 pipeline,10 draft-continuation,21 aggregate. The30 semantic regression fixtures were not newly run. Structural tests do not certify semantic accuracy.
 
-Exact source preservation and native audit/seal checks pass. 36 existing pipeline,10 draft-continuation and21 aggregate structural tests passed; the30 semantic regression fixtures were not newly run. Structural tests do not certify the translation.
+Unsigned content signoff rejected before signing. Strict final validation still rejects the absent real chapter2 tag/receipt; using the draft flag with final validation also rejects. Chapter3 is not falsely reported as final-validated or released. See validation.json and unsigned-final-check.txt.
 
-Finish chapter 3 supporting records, review every pair and note independently, address findings, build reproducible reading/bilingual/machine/coverage outputs, bind QC and final content review, and remotely checkpoint all valuable work. Formal release remains pending the genuine prior tag/receipt gate. External witness-research leads remain outside this bounded translation task.
+Chapter2 and chapter3 annotated tags and publication receipts remain pending. Remote Desktop Commander directory access responded, but fresh terminal execution again returned no output/PID before coordinator interruption. No remote Mac project files, Git state or credentials were read or modified. Cloud git has no authenticated push. GitHub connector checkpoints succeed, but its available operations do not create annotated tags. No tag or receipt is fabricated or moved.
+
+Next finite task: perform genuine chapter2 annotated-tag/receipt publication with correct source-prefix validation, then chapter3 strict final validation/publication. The user-authorized continuation was for chapter3 working preparation only; final release gates remain strict and chapter4 has not started. An isolated validation of the preserved chapter2 commit must not falsely claim that current prefix3 is prefix2 or that remote main equals an older commit. Preserve all candidate files when resolving publication.
+
+The original authorization to complete the remaining translation remains in force. Chapters4–8 and the whole-book aggregate remain unstarted; external witness-research leads remain outside this bounded translation scope.

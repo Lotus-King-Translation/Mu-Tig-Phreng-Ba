@@ -155,14 +155,15 @@
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
   "independent_human_certification": false,
-  "status": "chapter_3_working_translation_authorized",
+  "status": "chapter_3_signed_reviewed_candidate_publication_pending",
   "source_objects_represented": 341,
   "next_work_authorized": true,
   "chapter_2_state": "Signed reviewed candidate:35pairs/124objects/175endnotes;152/152source obligations; independent QC and final validation passed; annotated tag/receipt pending terminal access.",
   "source_objects_represented_in_candidate": 341,
-  "chapter_candidates_complete": 2,
+  "chapter_candidates_complete": 3,
   "publication_blocker": "Remote Desktop Commander terminal calls return no output; cloud git has no authenticated push; GitHub connector can commit but exposes no annotated-tag creation.",
   "source_objects_released": 97,
-  "next_finite_task": "Finish chapter3 usage/proposals and independent review; validate and remotely checkpoint reviewed candidate. Chapter2/3 release tags and receipts remain pending.",
-  "chapter_3_state": "Full draft:34pairs/120objects,24translated/2locallyunresolved/8metadata,165notes,142source obligations. Independent QC and supporting usage/proposals in progress."
+  "next_finite_task": "Publish chapter2 with a genuine verified annotated tag/receipt, then satisfy chapter3 strict final release and publish it. Chapter4 has not started.",
+  "chapter_3_state": "Signed reviewed working candidate:34pairs/120objects/165notes;142/142source obligations;105usage records/252occurrences/65proposals;24translated/2locallyunresolved/8metadata; independent QC and reproducible draft-candidate validation passed. Strict final release remains blocked by genuine prior publication.",
+  "count_semantics": "Representation counts include explicitly unresolved and nontranslatable metadata objects; they do not measure accuracy or complete decipherment."
 }

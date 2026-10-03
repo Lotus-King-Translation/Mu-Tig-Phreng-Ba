@@ -1,0 +1,23 @@
+{
+  "chapter": 3,
+  "candidate_validation": {
+    "chapter": 3,
+    "mode": "draft-candidate",
+    "passed": true,
+    "read_only": true,
+    "build_manifest_sha256": "2b4671cc6b8ac19fd9187379138c460c34a4f746d61cf8a3c25904ede3472885",
+    "claims": {
+      "automated_semantic_certification": false,
+      "independent_human_certification": false
+    }
+  },
+  "content_signoff_check_passed": true,
+  "strict_final_validation_passed": false,
+  "strict_final_blocker": "[Errno 2] No such file or directory: '/workspace/scratch/f2937a92803f/Mu-Tig-Phreng-Ba/translations/publication/ch02-v1.json'",
+  "formal_release_complete": false,
+  "unsigned_rejection_record": "translations/chapters/03/unsigned-final-check.txt",
+  "prior_chapter_1_release_unchanged": true,
+  "prior_chapter_2_signed_candidate_unchanged": true,
+  "source_and_glossary_unchanged": true,
+  "date": "2026-10-03"
+}

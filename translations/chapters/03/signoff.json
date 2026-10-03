@@ -1,0 +1,16 @@
+{
+  "chapter": 3,
+  "approved": true,
+  "reviewer": "/root",
+  "build_manifest_sha256": "2b4671cc6b8ac19fd9187379138c460c34a4f746d61cf8a3c25904ede3472885",
+  "output_sha256": {
+    "reading.md": "91376dd5109c4e4c05483b0ae4877241877a274b5b72ec556f61b8d9108da270",
+    "bilingual.md": "bc9ea3900194b6808b33e191617a851bd347a484edf6722c37c400411156ed21",
+    "machine.json": "ef1304f226270fa35a7bf38a6a1173c5da02ec24241277560ae31ad96f621251",
+    "coverage.json": "f1b88ba39d0661bef9ee9e6a1cd18fa0875557d1f78f6a921cc17dc65d7cd6d1"
+  },
+  "qc_sha256": "3a07d6f911490368948c207fbe5e52f99244d9c0025f38426e0552f759a2a167",
+  "review_path": "translations/chapters/03/FINAL-REVIEW.md",
+  "review_sha256": "d8f73c13b8ee522223c5f0869a88e7778ec9c32567a3584e741d74617b91ac91",
+  "approval_scope": "Annotated working candidate content; not formal release clearance. Genuine prior release tags and receipts remain required."
+}

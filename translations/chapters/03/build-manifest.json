@@ -1,0 +1,51 @@
+{
+  "chapter": 3,
+  "source_pins": {
+    "source_tag": "golden-v1",
+    "source_commit": "4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_reading_sha256": "dc371e71f4eb0fa842963eebf3ebb0bb7c60e9623a038cf1cdcd3339855be2c1",
+    "glossary": "glossary/expanded_tibetan_english_glossary.csv",
+    "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "standard": "guidelines/tibetan_translation_standard_v2.md",
+    "standard_sha256": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760"
+  },
+  "input_sha256": {
+    "evidence/golden/03/00439.png": "3fb1a38345f93668e2c0165da7e18f32d691c2ceb82bbda2f430374801777ab9",
+    "evidence/golden/03/00444.png": "87e589f356e7c17a643f59097dcde8c9875c6c95a109b23c0cc2f89ab0ec6b21",
+    "evidence/golden/03/00446.png": "06098a5872c68fbdbbd794ce053bb1401b214839144022a885fd6b8af6edd096",
+    "evidence/translation/03/00440.png": "e5cf3e7c463b7b151076ef73a448b0452c8ad625d6088bb3c237e8975afa479c",
+    "evidence/translation/03/00441.png": "ff18143359ca1b6d843eb28c32fe46f737099732bfe773388d90f32794d5235f",
+    "evidence/translation/03/00442.png": "c6a156815f781397421728cee46cd5afe787f92057b6206fe9db145b00efe597",
+    "evidence/translation/03/00443.png": "6561e2366702f0992b13b7177fabcea27a08ed5c8ddbebf077b9be77d8f1da51",
+    "evidence/translation/03/00445.png": "ea3a251589b21b0548a876d26df03adcfc4a53eddf2583d214c76407c9d550fd",
+    "glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "golden/reading.json": "dc371e71f4eb0fa842963eebf3ebb0bb7c60e9623a038cf1cdcd3339855be2c1",
+    "guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+    "translations/chapters/03/adzom-audit.json": "b6b02c12617cdc3b0923f3f9089da62076f012b78e8a47254f865c2eff25821e",
+    "translations/chapters/03/audit-contract.json": "302d2c9db217fee5f45d8fb44c210460e1fb65d8227e9d7348e1efd838136346",
+    "translations/chapters/03/audit-contract.sha256": "d6dde3d99d488a1eef7464adb64eba536b389aededef8edd3a21fbda3f7ac0ef",
+    "translations/chapters/03/contract.json": "c6aeae4940a43c7b7bdf1d4e2ec92ef1d505c484246b2832a1d59d897875cebe",
+    "translations/chapters/03/contract.sha256": "8d613a07f0a60a966b4de87732dc327ab181287ee2b17e432a04f93d9c8f4252",
+    "translations/chapters/03/glossary-proposals.json": "94a474f1c220370d133b25242e49c5cd732af3a5391f674a1bdb860dc59035cc",
+    "translations/chapters/03/note-map.json": "e61bf13efadfe78a88bae9475bdd0d778c0ffefc89eac13fc95552ff46e9c5ce",
+    "translations/chapters/03/pair-status.json": "d1e6477b83c0856248255cf182ccad6ccb59a8e88867e67c4e8acca17b0df807",
+    "translations/chapters/03/segmentation.json": "b93735a14fa936cee8ac51d3b550392a147923ab3908ff598d189ccb012df55c",
+    "translations/chapters/03/source.md": "71947f701ddc1bdaccd7b8e3523f12978c0c228fc2547fe67350a609914a1322",
+    "translations/chapters/03/translation-draft.md": "48b2c02364bc3b86855386dc8149caf79e65a54e3ee6cbbeaaa969751638d109",
+    "translations/chapters/03/translation-note-map.json": "dce029274762edf84f07e658399942b3220f0ad07c25de00b7621286501b8ce5",
+    "translations/chapters/03/translation.md": "cb8b72e3a4ba013d1439f3eb85c8324fb6e06ce3c351268eb4e67e3e59031baf",
+    "translations/chapters/03/usage.json": "d266e27db3a5b6f9ae3da4f3394a18afdcba122cc958c71d5cfb93c7adf919f1",
+    "translations/draft-authorizations/ch03.json": "9a252658d76e81281bf46f2907b5eba9630b8f06baa2ec5e568e334296501098"
+  },
+  "output_sha256": {
+    "reading.md": "91376dd5109c4e4c05483b0ae4877241877a274b5b72ec556f61b8d9108da270",
+    "bilingual.md": "bc9ea3900194b6808b33e191617a851bd347a484edf6722c37c400411156ed21",
+    "machine.json": "ef1304f226270fa35a7bf38a6a1173c5da02ec24241277560ae31ad96f621251",
+    "coverage.json": "f1b88ba39d0661bef9ee9e6a1cd18fa0875557d1f78f6a921cc17dc65d7cd6d1"
+  },
+  "builder": "scripts/translation_pipeline.py; deterministic chapter outputs; canonical pair blocks and endnotes are mirrored exactly.",
+  "claims": {
+    "automated_semantic_certification": false,
+    "independent_human_certification": false
+  }
+}

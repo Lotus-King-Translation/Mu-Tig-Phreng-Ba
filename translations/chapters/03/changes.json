@@ -1,0 +1,79 @@
+{
+  "chapter": 3,
+  "source_and_glossary_unchanged": true,
+  "draft_snapshot": "translations/chapters/03/translation-draft.md",
+  "snapshot_note": "The complete first author draft was checkpointed at 8d11688974fd923104a3a79b8d9f2def124ea2d9. The coordinator preserved that draft before source-apparatus assembly and the review refinements below. Translator-side consultation is not independent QC.",
+  "changes": [
+    {
+      "class": "semantic/syntactic",
+      "pair_id": "MTP-000074",
+      "anchor": "MTP-S000247",
+      "before": "the appearances of awareness are not different.",
+      "after": "the appearance of awareness is not different.",
+      "reason": "Retain the source singular presentation and leave the comparison term unstated. T03-007 discloses the compressed relation instead of supplying a comparison among multiple appearances."
+    },
+    {
+      "class": "terminological/syntactic",
+      "pair_id": "MTP-000079",
+      "anchor": "MTP-S000261",
+      "before": "Since the precious pith instruction is manifest,",
+      "after": "Since the precious pith instruction appears manifestly,",
+      "reason": "Early independent reviewer identified loss of the appearance family in the uncovered compound མངོན་སྣང. The revised rendering retains it, with the local compound explicitly proposed in T03-011, T03-U105, and the separate eight-column proposal."
+    },
+    {
+      "class": "semantic/syntactic",
+      "pair_id": "MTP-000087",
+      "anchor": "MTP-S000294 / MTP-S000295",
+      "before": "The seal of the emptiness of self-appearance\nis taught as stamped with the seal of knowing.",
+      "after": "Self-appearance—the seal of emptiness itself—\nis taught as stamped with the seal of knowing.",
+      "reason": "Early reviewer and translator consultation favored apposition consistent with the following seal series; the former wording supplied an additional genitive between self-appearance and emptiness. T03-016 records the alternative attachment and preserves both seal expressions."
+    },
+    {
+      "class": "terminological",
+      "pair_id": "MTP-000091",
+      "anchor": "MTP-S000314",
+      "before": "This instruction of the core’s vital essence—",
+      "after": "This instruction of the core’s vital extract—",
+      "reason": "Use a narrower provisional rendering of བཅུད without colliding with canonical essence for ངོ་བོ. Core renders སྙིང་པོ locally; T03-019 and the corresponding usage/proposal retain the distinction."
+    },
+    {
+      "class": "semantic/syntactic",
+      "pair_id": "MTP-000096",
+      "anchor": "MTP-S000334",
+      "before": "Varied clinging is self-liberated.",
+      "after": "Clinging to variety is self-liberated.",
+      "reason": "Early independent reviewer identified the object relation as more defensible in context. T03-022 preserves the exact Tibetan and the alternate modifier interpretation as an open reading."
+    },
+    {
+      "class": "presentation",
+      "pair_id": "MTP-000080 / MTP-000092",
+      "anchor": "MTP-S000266 / MTP-S000316",
+      "before": "“nirvāṇa.”; “the three of certainty”",
+      "after": "‘nirvāṇa.’; ‘the three of certainty’",
+      "reason": "Use inner single quotation marks within the Bhagavān’s continuing outer speech. No lexical or source change."
+    },
+    {
+      "class": "documentation",
+      "reason": "Completed 24 source-linked translator notes, 105 usage records with 252 exact source-unit occurrences, and 65 separately proposed eight-column glossary records. The coordinator merged the finalized occurrence map with 24 additional local references while keeping the 24 translator note IDs stable. No proposed glossary entry became active."
+    },
+    {
+      "class": "usage/QC",
+      "usage_ids": [
+        "T03-U038",
+        "T03-U069",
+        "T03-U074",
+        "T03-U079",
+        "T03-U092",
+        "T03-U093",
+        "T03-U096",
+        "T03-U099",
+        "T03-U105"
+      ],
+      "reason": "Separate lookup forms from actual per-occurrence attested forms; preserve canonical entries. U038 now names both ascertain the root and trace to the root as local idiom choices. U069 records expanded ཆོས་ཀྱི་སྐུ. U074 distinguishes provisional S237 འགག་མེད from canonical S239 མ་འགགས་པ and correctly labels the proposed lookup as absent from the glossary. U079 removes the false S330 appearance occurrence and records S232 སྣང without cutting into བྱེད. U092, U093, U096, and U099 record actual source forms including S304 ནམ་མཁའི. S261 receives separate provisional compound record U105. The two newly scoped proposals are འགག་མེད་ and མངོན་སྣང་."
+    },
+    {
+      "class": "usage/documentation",
+      "reason": "Renamed glossary comparison lists to search_candidates and stated that literal substring hits and manually compared entries do not establish word boundaries, morphology, components, or lexical-family relationships. This prevents spelling matches from being misrepresented as semantic evidence."
+    }
+  ]
+}

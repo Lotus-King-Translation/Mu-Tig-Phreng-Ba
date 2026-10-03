@@ -371,7 +371,7 @@ Then Hayagrīva, king of the wrathful ones, petitioned in these words:[^T03-001]
 
 “O, O Bhagavān Vajradhara!
 The authoritative teaching of self-awareness’s great primordial knowing—
-please bestow [it], king of certainty!”[^T03-001][^T03-002][^T03-004][^T03-024][^MTP-AUDIT-C03-001][^MTP-AUDIT-C03-012]
+please bestow [it], king of certainty!”[^T03-001][^T03-002][^T03-004][^T03-024][^MTP-AUDIT-C03-001][^MTP-AUDIT-C03-012][^T03-020]
 
 <!-- pair: MTP-000069 -->
 
@@ -383,7 +383,7 @@ he spoke to the assembled gathering:[^T03-001][^T03-003][^CH03-G000228][^CH03-G0
 <!-- pair: MTP-000070 -->
 
 “O, O, listen, assembled retinue!
-This blazing lamp that makes [things] appear,[^T03-003][^T03-024][^MTP-AUDIT-C03-001][^MTP-AUDIT-C03-017][^MTP-AUDIT-C03-018][^MTP-AUDIT-C03-019][^MTP-AUDIT-C03-074]
+This blazing lamp that makes [things] appear,[^T03-003][^T03-024][^MTP-AUDIT-C03-001][^MTP-AUDIT-C03-017][^MTP-AUDIT-C03-018][^MTP-AUDIT-C03-019][^MTP-AUDIT-C03-074][^T03-007]
 
 <!-- pair: MTP-000071 -->
 
@@ -394,7 +394,7 @@ This blazing lamp that makes [things] appear,[^T03-003][^T03-024][^MTP-AUDIT-C03
 since [it is] inseparable from the dharma embodiment,
 as for the way of activity of the object of self-awareness:
 from the embodiment of means, discerning knowing itself—
-everything plays in the unceasing expanse.[^T03-004][^T03-005][^T03-024][^MTP-AUDIT-C03-002][^MTP-AUDIT-C03-020][^MTP-AUDIT-C03-021][^MTP-AUDIT-C03-022][^MTP-AUDIT-C03-023][^MTP-AUDIT-C03-075]
+everything plays in the unceasing expanse.[^T03-004][^T03-005][^T03-024][^MTP-AUDIT-C03-002][^MTP-AUDIT-C03-020][^MTP-AUDIT-C03-021][^MTP-AUDIT-C03-022][^MTP-AUDIT-C03-023][^MTP-AUDIT-C03-075][^T03-021]
 
 <!-- pair: MTP-000073 -->
 
@@ -402,7 +402,7 @@ Since secret primordial knowing is unchanging,
 the unceasing appearance of intrinsic nature
 proliferates like the embodiment of essence itself.
 Since [it is] far beyond both doing and the doer,
-[it] sees and knows appearance in the object of the nature of phenomena.[^T03-006][^T03-024][^MTP-AUDIT-C03-002][^MTP-AUDIT-C03-024][^MTP-AUDIT-C03-025][^MTP-AUDIT-C03-026][^MTP-AUDIT-C03-027][^MTP-AUDIT-C03-028][^MTP-AUDIT-C03-029][^MTP-AUDIT-C03-075]
+[it] sees and knows appearance in the object of the nature of phenomena.[^T03-006][^T03-024][^MTP-AUDIT-C03-002][^MTP-AUDIT-C03-024][^MTP-AUDIT-C03-025][^MTP-AUDIT-C03-026][^MTP-AUDIT-C03-027][^MTP-AUDIT-C03-028][^MTP-AUDIT-C03-029][^MTP-AUDIT-C03-075][^T03-021]
 
 <!-- pair: MTP-000074 -->
 
@@ -410,7 +410,7 @@ The sphere of the lamp’s primordial knowing is clear.
 In the embodiment of awareness, the nature of phenomena is clear.
 [This] is the appearance of the lamp itself.
 Then, since [it] opens the way for appearance,
-the appearances of awareness are not different.[^T03-007][^T03-024][^MTP-AUDIT-C03-002][^MTP-AUDIT-C03-029][^MTP-AUDIT-C03-030][^MTP-AUDIT-C03-031][^MTP-AUDIT-C03-032][^MTP-AUDIT-C03-033][^MTP-AUDIT-C03-034][^MTP-AUDIT-C03-075]
+the appearance of awareness is not different.[^T03-007][^T03-024][^MTP-AUDIT-C03-002][^MTP-AUDIT-C03-029][^MTP-AUDIT-C03-030][^MTP-AUDIT-C03-031][^MTP-AUDIT-C03-032][^MTP-AUDIT-C03-033][^MTP-AUDIT-C03-034][^MTP-AUDIT-C03-075]
 
 <!-- pair: MTP-000075 -->
 
@@ -428,7 +428,7 @@ Since ultimate primordial knowing appears as five,
 conventional primordial knowing is varied:
 [it] appears like embodiment, and awareness gathers.
 Even varied appearances, subtle and coarse,
-do not obscure the meaning of primordial knowing.[^T03-009][^MTP-AUDIT-C03-003][^MTP-AUDIT-C03-039][^MTP-AUDIT-C03-040][^MTP-AUDIT-C03-041][^MTP-AUDIT-C03-042][^MTP-AUDIT-C03-043][^MTP-AUDIT-C03-044][^MTP-AUDIT-C03-045]
+do not obscure the meaning of primordial knowing.[^T03-009][^MTP-AUDIT-C03-003][^MTP-AUDIT-C03-039][^MTP-AUDIT-C03-040][^MTP-AUDIT-C03-041][^MTP-AUDIT-C03-042][^MTP-AUDIT-C03-043][^MTP-AUDIT-C03-044][^MTP-AUDIT-C03-045][^T03-020]
 
 <!-- pair: MTP-000078 -->
 
@@ -439,9 +439,9 @@ the realms of the victors of the three embodiments are clear.[^T03-010][^T03-024
 
 <!-- pair: MTP-000079 -->
 
-Since the precious pith instruction is manifest,
+Since the precious pith instruction appears manifestly,
 [one] reaches the far shore in the ground of awakening.
-[It] is inexpressible, yet appears.[^T03-011][^MTP-AUDIT-C03-003][^MTP-AUDIT-C03-051][^MTP-AUDIT-C03-052][^MTP-AUDIT-C03-053][^MTP-AUDIT-C03-054]
+[It] is inexpressible, yet appears.[^T03-011][^MTP-AUDIT-C03-003][^MTP-AUDIT-C03-051][^MTP-AUDIT-C03-052][^MTP-AUDIT-C03-053][^MTP-AUDIT-C03-054][^T03-020]
 
 <!-- pair: MTP-000080 -->
 
@@ -462,7 +462,7 @@ there is no great bliss to seek.
 If one thoroughly realizes the very limit of faults,
 there is no need to seek great qualities.
 If one realizes the meaning of delusion itself,
-there is no need to seek awareness without delusion.[^T03-012][^MTP-AUDIT-C03-004][^MTP-AUDIT-C03-059][^MTP-AUDIT-C03-060][^MTP-AUDIT-C03-061][^MTP-AUDIT-C03-062][^MTP-AUDIT-C03-063][^MTP-AUDIT-C03-064][^MTP-AUDIT-C03-065][^MTP-AUDIT-C03-077]
+there is no need to seek awareness without delusion.[^T03-012][^MTP-AUDIT-C03-004][^MTP-AUDIT-C03-059][^MTP-AUDIT-C03-060][^MTP-AUDIT-C03-061][^MTP-AUDIT-C03-062][^MTP-AUDIT-C03-063][^MTP-AUDIT-C03-064][^MTP-AUDIT-C03-065][^MTP-AUDIT-C03-077][^T03-020]
 
 <!-- pair: MTP-000083 -->
 
@@ -496,7 +496,7 @@ If one realizes the meaning of A, the nature of phenomena,
 <!-- pair: MTP-000087 -->
 
 Emaho!
-The seal of the emptiness of self-appearance
+Self-appearance—the seal of emptiness itself—
 is taught as stamped with the seal of knowing.[^T03-015][^T03-016][^T03-024][^MTP-AUDIT-C03-078][^MTP-AUDIT-C03-096]
 
 <!-- pair: MTP-000088 -->
@@ -528,14 +528,14 @@ Wondrous authenticity—the seal of awareness.[^T03-016][^T03-017][^T03-018][^T0
 Emaho!
 Listen, great Lord of Secrets.
 The secret empowerment itself is utterly complete.
-This instruction of the core’s vital essence—
+This instruction of the core’s vital extract—
 in the core itself, the core is stable.[^T03-001][^T03-019][^CH03-G000315][^MTP-AUDIT-C03-080][^MTP-AUDIT-C03-111][^MTP-AUDIT-C03-112][^MTP-AUDIT-C03-113]
 
 <!-- pair: MTP-000092 -->
 
 This pith instruction of ‘the three of certainty’ [grouping unresolved]
 becomes the ultimate chief of the tantras.
-Since the ultimate and the conventional are nondual,[^T03-020][^T03-024][^CH03-G000316][^MTP-AUDIT-C03-080][^MTP-AUDIT-C03-086][^MTP-AUDIT-C03-114][^MTP-AUDIT-C03-115][^MTP-AUDIT-C03-116][^MTP-AUDIT-C03-117]
+Since the ultimate and the conventional are nondual,[^T03-020][^T03-024][^CH03-G000316][^MTP-AUDIT-C03-080][^MTP-AUDIT-C03-086][^MTP-AUDIT-C03-114][^MTP-AUDIT-C03-115][^MTP-AUDIT-C03-116][^MTP-AUDIT-C03-117][^T03-002][^T03-009][^T03-011][^T03-021][^T03-022][^T03-023]
 
 <!-- pair: MTP-000093 -->
 
@@ -548,14 +548,14 @@ The sign that the nature of phenomena is nondual:
 [it] does not follow after appearances,
 and appears everywhere, yet is nondual.
 Not abiding in the phenomena of doing and the doer,
-[it] is nondual in the object of self-appearance.[^T03-020][^T03-021][^T03-024][^MTP-AUDIT-C03-082][^MTP-AUDIT-C03-118][^MTP-AUDIT-C03-119][^MTP-AUDIT-C03-120][^MTP-AUDIT-C03-121][^MTP-AUDIT-C03-122]
+[it] is nondual in the object of self-appearance.[^T03-020][^T03-021][^T03-024][^MTP-AUDIT-C03-082][^MTP-AUDIT-C03-118][^MTP-AUDIT-C03-119][^MTP-AUDIT-C03-120][^MTP-AUDIT-C03-121][^MTP-AUDIT-C03-122][^T03-006][^T03-012][^T03-022]
 
 <!-- pair: MTP-000095 -->
 
 Since [it] does not divide into one and many,
 at the time of realization, [it] is nondual.
 Since there is no hardship in the means of secret mantra,
-at the time of understanding, [it] is nondual.[^T03-021][^T03-024][^MTP-AUDIT-C03-082][^MTP-AUDIT-C03-123][^MTP-AUDIT-C03-124][^MTP-AUDIT-C03-125][^MTP-AUDIT-C03-126]
+at the time of understanding, [it] is nondual.[^T03-021][^T03-024][^MTP-AUDIT-C03-082][^MTP-AUDIT-C03-123][^MTP-AUDIT-C03-124][^MTP-AUDIT-C03-125][^MTP-AUDIT-C03-126][^T03-005][^T03-022]
 
 <!-- pair: MTP-000096 -->
 
@@ -564,7 +564,7 @@ in the ultimate itself there is neither one nor two.
 In outer and inner objects there is not even one;
 at the time of knowing, variety arises.
 Clinging to variety is self-liberated.
-Having understood the nature of phenomena, [one is] nondual, and[^T03-022][^T03-024][^MTP-AUDIT-C03-082][^MTP-AUDIT-C03-127][^MTP-AUDIT-C03-128][^MTP-AUDIT-C03-129][^MTP-AUDIT-C03-130][^MTP-AUDIT-C03-131][^MTP-AUDIT-C03-132]
+Having understood the nature of phenomena, [one is] nondual, and[^T03-022][^T03-024][^MTP-AUDIT-C03-082][^MTP-AUDIT-C03-127][^MTP-AUDIT-C03-128][^MTP-AUDIT-C03-129][^MTP-AUDIT-C03-130][^MTP-AUDIT-C03-131][^MTP-AUDIT-C03-132][^T03-009][^T03-020][^T03-021]
 
 <!-- pair: MTP-000097 -->
 
@@ -574,11 +574,11 @@ Having understood the nature of phenomena, [one is] nondual, and[^T03-022][^T03-
 
 if the kinds of delusory appearance are traced to their root,
 the essence of self-awareness is nondual.
-The perfectly pure realm is spontaneously present.”[^T03-004][^T03-014][^T03-015][^T03-022][^T03-024][^MTP-AUDIT-C03-084][^MTP-AUDIT-C03-133][^MTP-AUDIT-C03-134][^MTP-AUDIT-C03-135]
+The perfectly pure realm is spontaneously present.”[^T03-004][^T03-014][^T03-015][^T03-022][^T03-024][^MTP-AUDIT-C03-084][^MTP-AUDIT-C03-133][^MTP-AUDIT-C03-134][^MTP-AUDIT-C03-135][^T03-010][^T03-021]
 
 <!-- pair: MTP-000099 -->
 
-Thus, from the precious secret tantra *The String of Pearls*: the third chapter, “Teaching How to Pass Beyond Delusion.”[^T03-001][^T03-023][^T03-024][^CH03-G000340][^MTP-AUDIT-C03-084][^MTP-AUDIT-C03-087]
+Thus, from the precious secret tantra *The String of Pearls*: the third chapter, “Teaching How to Pass Beyond Delusion.”[^T03-001][^T03-023][^T03-024][^CH03-G000340][^MTP-AUDIT-C03-084][^MTP-AUDIT-C03-087][^T03-020]
 
 <!-- endnotes -->
 
@@ -1170,7 +1170,7 @@ Thus, from the precious secret tantra *The String of Pearls*: the third chapter,
 
 [^T03-006]: Golden-v1, MTP-S000238–S000242 (printed 430): རང་བཞིན་སྣང་བ་མ་འགགས་པ / ངོ་བོ་ཉིད་ཀྱི་སྐུ་ལྟར་འཕྲོ. “The unceasing appearance of intrinsic nature” provisionally supplies a genitive relation; “intrinsic nature—unceasing appearance” is an alternative. The full intrinsic-nature expression remains identifiable, and “like” preserves ལྟར instead of asserting identity. “Proliferates” is the grammatical realization of established འཕྲོ. In ཆོས་ཉིད་ཡུལ་ལ་གཟིགས་སྣང་མཁྱེན, “[it] sees and knows appearance in the object of the nature of phenomena” is a provisional coordination of the honorific verbs. A reading involving “the appearance seen” is possible; the subject is not securely explicit. Review that syntax. བྱ་བྱེད continues the proposed “doing and the doer” pair, not an approved new compound.
 
-[^T03-007]: Golden-v1, MTP-S000243–S000247 (printed 430): སྒྲོན་མའི་ཡེ་ཤེས་ཐིག་ལེ་གསལ. “The sphere of the lamp’s primordial knowing is clear” treats the middle juxtaposition as a genitive relation; “the lamp’s primordial knowing—the sphere is clear” is another possible division. The full established sphere/primordial-knowing/clarity terms remain visible. S245’s “[this]” resumes the preceding appearances without naming an unexpressed agent. སྣང་བའི་གོ་འབྱེད is provisionally “opens the way for appearance,” with “[it]” for the implicit subject; opening space or scope for appearance is also possible. Review the relationships rather than supplying a doctrinal lamp classification absent from these lines.
+[^T03-007]: Golden-v1, MTP-S000243–S000247 (printed 430): སྒྲོན་མའི་ཡེ་ཤེས་ཐིག་ལེ་གསལ. “The sphere of the lamp’s primordial knowing is clear” treats the middle juxtaposition as a genitive relation; “the lamp’s primordial knowing—the sphere is clear” is another possible division. The full established sphere/primordial-knowing/clarity terms remain visible. S245’s “[this]” resumes the preceding appearances without naming an unexpressed agent. སྣང་བའི་གོ་འབྱེད is provisionally “opens the way for appearance,” with “[it]” for the implicit subject; opening space or scope for appearance is also possible. In S247 རིག་པའི་སྣང་བ་ཐ་དད་མིན, the singular “appearance of awareness” leaves the comparison term unstated rather than implying multiple appearances differing from one another. Review the relationships rather than supplying a doctrinal lamp classification absent from these lines.
 
 [^T03-008]: Golden-v1, MTP-S000248–S000250 (printed 430): གསང་བའི་སྤྱི་རྒྱ་རླབ་ཆེན་འདི / སངས་རྒྱས་ཀུན་དང་མཉམ་སྦྱོར་པས / མཐའ་ཡས་ཉིད་ལས་དབུས་མི་དམིགས. “Universal seal” for སྤྱི་རྒྱ and “joins equally” for མཉམ་སྦྱོར are provisional; they are not rebuilt from an unrelated whole-expression entry. “No center is an object of focus” keeps the canonical དམིགས་པ commitment visible while realizing the short verb. “In limitlessness” interprets the ablative ལས contextually; “from limitlessness” is also possible. The supplied subject refers to the seal. Review the type of seal, joining relation, and final case relation before approving these usages.
 
@@ -1178,7 +1178,7 @@ Thus, from the precious secret tantra *The String of Pearls*: the third chapter,
 
 [^T03-010]: Golden-v1, MTP-S000257–S000260 (printed 431): རིན་ཆེན་གཙུག་གི་མར་མེ་བཞིན. “A butter lamp of a crown jewel” retains the literal genitive but leaves the precise image unsettled: a jewel-topped lamp or a lamp associated with a precious crown is possible. The draft does not invent the jewel’s material or a ritual arrangement. S260 སྐུ་གསུམ་རྒྱལ་བའི་ཞིང་ཁམས is provisionally “the realms of the victors of the three embodiments”; the initial juxtaposition could instead identify the victors with the three embodiments. “Victors,” “realm,” and standalone “butter lamp” remain proposals. Review the simile and modifier chain. S259 retains established clear light, not generic clarity.
 
-[^T03-011]: Golden-v1, MTP-S000261–S000263, S000291–S000292 (printed 431, 433). མན་ངག is provisionally “pith instruction,” and བྱང་ཆུབ “awakening.” བྱང་ཆུབ་ས་ལ་ཕ་རོལ་ཕྱིན is “reaches the far shore in the ground of awakening”; “ground” here renders ས, not canonical གཞི → the Ground. The locative could instead express reaching the further limit of an awakening stage; no numbered ground is supplied. The far-shore language renders ཕ་རོལ་ཕྱིན locally without replacing it by the established longer “perfection of discerning knowing,” which is absent. “[One]” and “[it]” make implicit subjects visible; the latter may denote the instruction or its meaning. In S291, “A, the nature of phenomena” treats ཆོས་ཉིད་ཨ as apposition, leaving the single letter as A and adding no mantra expansion. S292 preserves the non-arising family. Review the subjects, far-shore construction, and letter’s role.
+[^T03-011]: Golden-v1, MTP-S000261–S000263, S000291–S000292 (printed 431, 433). མན་ངག is provisionally “pith instruction,” and བྱང་ཆུབ “awakening.” In S261 མངོན་སྣང is provisionally “appears manifestly,” retaining the established appearance family as a verb with the manifest qualifier; this local compound realization does not establish a new canonical mapping. བྱང་ཆུབ་ས་ལ་ཕ་རོལ་ཕྱིན is “reaches the far shore in the ground of awakening”; “ground” here renders ས, not canonical གཞི → the Ground. The locative could instead express reaching the further limit of an awakening stage; no numbered ground is supplied. The far-shore language renders ཕ་རོལ་ཕྱིན locally without replacing it by the established longer “perfection of discerning knowing,” which is absent. “[One]” and “[it]” make implicit subjects visible; the latter may denote the instruction or its meaning. In S291, “A, the nature of phenomena” treats ཆོས་ཉིད་ཨ as apposition, leaving the single letter as A and adding no mantra expansion. S292 preserves the non-arising family. Review the subjects, far-shore construction, and letter’s role.
 
 [^T03-012]: Golden-v1, MTP-S000265–S000275 (printed 431–432). Each ན conditional remains explicit, and its result is not generalized into an unconditional doctrinal claim. In particular མྱ་ངན་འདས་ཞེས་ཡོད་མ་ཡིན is “there is no such thing called nirvāṇa,” while ཡེ་ཤེས་མིང་དུ་ཡོད་མ་ཡིན is “primordial knowing does not exist as a name”; the distinct naming constructions are not flattened into one. བཙལ་དུ་མེད (“there is … none to seek”) remains distinct from བཙལ་མི་དགོས (“there is no need to seek”). Proposed technical expressions here are འཁོར་བ → saṃsāra, ཉོན་མོངས་ལྔ → five afflictions, སྡུག་བསྔལ → suffering, བདེ་བ་ཆེན་པོ → great bliss, སྐྱོན → faults, and ཡོན་ཏན → qualities. No taxonomy is inferred from five. Review these scoped terms and the naming claims; source negations remain as written.
 
@@ -1188,13 +1188,13 @@ Thus, from the precious secret tantra *The String of Pearls*: the third chapter,
 
 [^T03-015]: Golden-v1, MTP-S000287–S000288, S000294, S000296, S000300, S000339 (printed 433–436). “Empty appearance” in སྟོང་པ་སྣང་བ preserves both components rather than replacing the phrase by emptiness alone. ལྷུན་གྱིས་གྲུབ and ལྷུན་གྲུབ་པ are realized as “spontaneously present,” preserving the established spontaneous-presence commitment rather than silently changing it to spontaneous accomplishment. སྟོང་འབྱམས is provisionally “boundless emptiness”; the force of pervasive extension is possible, but the term is not equated with canonical all-encompassing. རང་རྫོགས is “complete in itself,” a proposed construction distinct from spontaneous presence. Review these forms and their family relations.
 
-[^T03-016]: Golden-v1, MTP-S000293–S000310 (printed 433–434). The repeated རྒྱ is provisionally “seal,” supported locally by རྒྱས་བཏབ (“stamped with the seal”) in S295. The draft preserves a nominal seal list, not a new series of commands to seal objects. S294–S295 is construed as the seal of the emptiness of self-appearance being taught as stamped with the seal of knowing; the topic may instead be an implicit instruction. Shortened ཤེས is linked to established knowing and is not expanded to primordial knowing. Dash punctuation in the following lines represents compressed juxtaposition without adding a causal or identity verb. S299 མཚན་མ་དངོས་དག is provisionally “characteristics pure in actuality”; “the substance of characteristics is pure” remains possible. Review the initial syntax and that qualification. No sequence count beyond the exact transmitted lines is supplied.
+[^T03-016]: Golden-v1, MTP-S000293–S000310 (printed 433–434). The repeated རྒྱ is provisionally “seal,” supported locally by རྒྱས་བཏབ (“stamped with the seal”) in S295. The draft preserves a nominal seal list, not a new series of commands to seal objects. S294–S295 is provisionally construed in apposition: self-appearance—the seal of emptiness itself—is taught as stamped with the seal of knowing. The juxtaposition རང་སྣང་སྟོང་པ་ཉིད does not express a genitive between self-appearance and emptiness; “the seal of the emptiness of self-appearance” remains an interpretive alternative, and the topic may instead be an implicit instruction. Shortened ཤེས is linked to established knowing and is not expanded to primordial knowing. Dash punctuation in the following lines represents compressed juxtaposition without adding a causal or identity verb. S299 མཚན་མ་དངོས་དག is provisionally “characteristics pure in actuality”; “the substance of characteristics is pure” remains possible. Review the initial syntax and that qualification. No sequence count beyond the exact transmitted lines is supplied.
 
 [^T03-017]: Golden-v1, MTP-S000301–S000310 (printed 433–434). རྨད་བྱུང is provisionally “wondrous,” repeated without stylistic variation through the series. The established activity, cultivation, view, result, primordial knowing, nature of phenomena, play, realization, discerning knowing, essence, ordinary mind, and awareness mappings remain identifiable. བསྒོམ་པ is a source-attested inflected cultivation form, not a new meditation synonym. In S305, ཆིག་ཆོད is provisionally “single resolution,” preserving single/decisive components; “resolving in one” is another candidate, and no existing Cutting Through entry governs this expression. S310 ཡང་དག is provisionally “authenticity,” without substituting an existing genuine-intrinsic-nature whole expression. Review these two gaps and the wondrous qualifier before activation.
 
 [^T03-018]: Golden-v1, MTP-S000309 (printed 434): ངོ་བོ་རྨད་བྱུང་ལུག་རྒྱུད་རྒྱ. The source is exactly ལུག་རྒྱུད, not ལུ་གུ་རྒྱུད. The golden decision directly retains this contracted-looking printed form. “Vajra chains” is a narrowly provisional identification with the established visionary expression, supported by the chapter’s appearance/seal context; it is not a spelling change to the golden or an assertion that all ལུག་རྒྱུད occurrences share this meaning. A literal sheep-lineage reading is linguistically available in isolation but less plausible here. Review and approve the contracted-form relation separately before adding a canonical form record.
 
-[^T03-019]: Golden-v1, MTP-S000311–S000315 (printed 434): གསང་བའི་དབང་ཉིད་རབ་རྫོགས་པ / སྙིང་པོ་བཅུད་ཀྱི་གདམས་ངག་འདི / སྙིང་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན. “Secret empowerment” and “instruction” are provisional whole expressions; the standalone empowerment mapping is not established merely by the four-empowerments entry. Here སྙིང་པོ is proposed as “core” to avoid conflation with canonical ངོ་བོ → essence; chapter 2’s tentative “essence” for སྙིང་པོ was explicitly unapproved, not an active default. བཅུད is “vital essence,” a provisional compound gloss whose relation to core requires review. The genitive in “the core’s vital essence” is supplied by interpretation of juxtaposition. The repeated core is not removed. S313 could qualify the instruction rather than stand as a separate predicate. Review this attachment and the stable/core relation; corrected initial སྙིང in S315 is retained without reconstructing smaller intervening wording.
+[^T03-019]: Golden-v1, MTP-S000311–S000315 (printed 434): གསང་བའི་དབང་ཉིད་རབ་རྫོགས་པ / སྙིང་པོ་བཅུད་ཀྱི་གདམས་ངག་འདི / སྙིང་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན. “Secret empowerment” and “instruction” are provisional whole expressions; the standalone empowerment mapping is not established merely by the four-empowerments entry. Here སྙིང་པོ is proposed as “core” to avoid conflation with canonical ངོ་བོ → essence; chapter 2’s tentative “essence” for སྙིང་པོ was explicitly unapproved, not an active default. བཅུད is “vital extract,” a provisional compound gloss whose relation to core requires review; “essence” remains identifiable with its established ངོ་བོ assignment. The genitive in “the core’s vital extract” is supplied by interpretation of juxtaposition. The repeated core is not removed. S313 could qualify the instruction rather than stand as a separate predicate. Review this attachment and the stable/core relation; corrected initial སྙིང in S315 is retained without reconstructing smaller intervening wording.
 
 [^T03-020]: Golden-v1, MTP-S000316–S000318 and S000320 (printed 434–435): ངེས་པའི་གསུམ་མན་ངག་འདི / རྒྱུད་ཀྱི་གཙོ་བོ་མཐར་ཐུག་འགྱུར. The draft retains “the three of certainty” with an explicit grouping marker; it does not silently regularize this genitive-before-numeral construction to “three certainties” or invent three named items. The source glyph uncertainty at གསུམ remains distinct from this syntactic question. S317 is provisionally “becomes the ultimate chief of the tantras,” taking the instruction as the subject. This is an occurrence-specific proposed literary sense of རྒྱུད, beyond a title context, not a canonical replacement for continuum. A continuum reading remains possible and requires review. The ultimate/conventional causal clause continues across the page marker to great bliss in the object of self-appearance; no metadata interrupts its grammatical scope.
 

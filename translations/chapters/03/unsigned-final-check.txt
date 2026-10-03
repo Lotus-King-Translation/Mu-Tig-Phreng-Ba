@@ -1,0 +1,3 @@
+PASS: unsigned chapter content-signoff check rejected: Unsigned translation: final signoff missing
+PASS: strict final rejected: [Errno 2] No such file or directory: '/workspace/scratch/f2937a92803f/Mu-Tig-Phreng-Ba/translations/publication/ch02-v1.json'
+PASS: draft flag with final rejected: Draft continuation cannot be used for final validation or release
