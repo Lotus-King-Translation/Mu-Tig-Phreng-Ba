@@ -1,24 +1,27 @@
 # Project status — 2026-10-03
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: Chapter 6 preparation authorized and underway; chapter 5 signed candidate and chapter 4 saved unsigned draft preserved; fixed English releases 1/8
-- Repository: created from Lotus-King-Translation/tibetan-text-project-template
-- Discovery streams: 3/3 bounded surveys completed; BDRC, external catalogues, electronic texts/translations
-- Registered source/research records: 43; this includes unresolved leads and reference works
-- Acquired facsimile manifestations: 12; image pages: 1,122
-- Acquired electronic renditions: 2; both belong to one Valby/Adzom transcription family
-- Governing witness: Adzom1973–77 W1KG892/I1KG895; golden chapter releases8/8; translation/paired chapter releases: 1/8
-- Golden source anchors:2,053; decisions:183; targeted checks:102; changed passages:30; restorations:0; represented pairs: 320 (99 from chapters 1–3; 86 in the chapter 4 draft; 135 in chapter 5)
-- Main-text Adzom comparison: chapters 1–5; signed independent agent QC preserved for chapters 1–3 and 5; chapter 4 final QC/signoff files were not committed before workspace cleanup. Unreadable/source-layer limits remain explicit. Exhaustive witness collation and independent human certification: not performed.
+- Phase: Chapter 6 signed reviewed working candidate complete and preserved on GitHub; chapter 7 not started.
+- Repository: created from Lotus-King-Translation/tibetan-text-project-template.
+- Discovery streams: 3/3 bounded surveys completed: BDRC, external catalogues, electronic texts/translations.
+- Registered source/research records: 43, including unresolved leads and reference works.
+- Acquired facsimile manifestations: 12; image pages: 1,122.
+- Acquired electronic renditions: 2, both in one Valby/Adzom transcription family.
+- Governing witness: Adzom1973–77 W1KG892/I1KG895. Golden chapter releases: 8/8. Fixed English releases: 1/8.
+- Golden source: 2,053 anchors; 183 decisions; 102 targeted checks; 30 changed passages; zero restorations. Golden editorial/source queues are closed.
+- Canonical source and English represent 452 pairs / 1,427 objects through chapter 6; 626 objects remain. Representation includes unresolved and nontranslatable metadata; it is not an accuracy measure.
+- Main-text Adzom comparison covers chapters 1–6. Signed independent agent QC is preserved for chapters 1–3 and 5–6. Chapter 4 retains its complete unsigned saved draft. Exhaustive witness collation and independent human certification have not been performed.
 
-## Deliverables
+## Current deliverables and review
 
-Catalogue, source register, original scan archives, lossless PDFs, metadata/provenance, rights, file hashes and acquisition scripts. Each facsimile passed image/PDF pixel-identity checks. Final read-only integrity results are recorded in editions/INTEGRITY-RESULT.json; methods and limits in editions/VALIDATION.md.
+Chapter 6's signed candidate is preserved at `a02f8c79a31c561c1888495b4178bfa7c25eda45`, verified on remote main. It covers 376 fixed objects in 132 pairs, with 435 notes and all 378 source obligations represented. All 23 allocated native images were compared. The complete terminology ledger has 275 records / 473 loci and 225 inactive proposals. Six review corrections are closed; 21 locally unresolved pairs remain explicit. The reproducible build, independent agent QC, signed-content gate and read-only working validation pass. All 109 affected structural tests passed. The standard's 30 semantic regression fixtures were not newly executed. See [translation handoff](translations/HANDOFF.md) and [chapter 6 reading](translations/chapters/06/reading.md).
 
-## Retained uncertainty / next finite work
+Chapters 2, 3 and 5 remain their unchanged signed reviewed candidates. Chapter 4's complete 396-note saved draft at `730921898da3e3328bb42d97abea7672bf44afcd` remains unchanged. Its final 397-note revision and final lexical/QC/signoff records were lost after an interrupted upload and workspace cleanup; that lost package has not been recreated. Formal publication still requires genuine prior tags and receipts. Chapter 1 remains the sole fixed English release; strict publication gates are unchanged.
 
-Resolve the eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtang:84,85), without presuming missing text. Resolve two Degé-family scan mappings, seek authorized restricted/preview access, locate Rýznar's five-witness thesis, identify Wilkinson's Tibetan basis and reconcile Gangtey labels. No correspondence or purchase has been initiated. These open leads are documented, not counted as acquired sources or independent witnesses.
+Source deliverables include catalogue, source register, original scan archives, lossless PDFs, provenance, rights records, hashes and acquisition scripts. Each facsimile passed image/PDF pixel-identity checks. Read-only integrity results are in `editions/INTEGRITY-RESULT.json`; methods and limits are in `editions/VALIDATION.md`. Fixed whole-book golden release: `golden-v1`; receipt: `diplomatic/publication/golden-v1.json`. See [golden reading](golden/reading.md), [machine reading](golden/reading.json) and [coverage](golden/coverage.json).
 
-Golden output: [complete reading](golden/reading.md), [machine reading](golden/reading.json), [coverage](golden/coverage.json). Fixed whole-book release: `golden-v1`; publication receipt: `diplomatic/publication/golden-v1.json` on main after the fixed tag.
+## Open work
 
-Golden editorial/source queues are closed. English fixed releases remain 1/8. Chapters 2 and 3 are complete signed reviewed candidates awaiting formal publication. Chapter 4's complete saved draft at730921898da3e3328bb42d97abea7672bf44afcd contains 86 pairs / 294 objects, 396 notes and all 337 source obligations. Its final 397-note revision and supporting records/signoff were lost after an interrupted upload and workspace cleanup; the saved unsigned snapshot is preserved unchanged. Chapter 5 is now complete as a signed, independently reviewed working candidate: 135pairs/416objects/520notes; all432sourceobligations covered;277usage records/466loci and224inactiveproposals. Sixteen local unresolved pairs and two native source-layer loci remain explicitly flagged. The27-page native comparison, independentQC, reproducible build and signed-content checks are complete. Canonical source and English now represent320pairs/1,051of2,053objects;1,002remain beyondchapter5. Formal publication remains pending genuine prior tags/receipts; strict gates are unchanged. Chapter 6 preparation is underway under the explicit next-chapter instruction: 376 objects S1052–S1427, images490–512; source frozen in132pairs and complete23page native audit sealed; Complete first annotated English covers all 376 objects in 132 pairs, with 420 notes; all bodies reviewed and all 378 source obligations covered. Lexical support and final apparatus review remain pending. See translations/HANDOFF.md.
+The requested chapter 6 task is complete. Chapter 7 requires its own finite continuation decision or satisfaction of the normal sequential release gate. Genuine formal publication and chapter 4 recovery remain separate open tasks. Full commentary translation, complete multi-layer scan proofreading and exhaustive witness collation are not claimed.
+
+Research leads remain: eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtang:84,85), two Degé-family scan mappings, authorized restricted/preview access, Rýznar's five-witness thesis, Wilkinson's Tibetan basis and Gangtey labels. No correspondence or purchase has been initiated. These are documented leads, not acquired independent witnesses or presumed missing text.
