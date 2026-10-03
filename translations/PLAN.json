@@ -166,7 +166,7 @@
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
   "independent_human_certification": false,
-  "status": "chapter_4_working_continuation_authorized",
+  "status": "chapter_4_translation_and_native_audit_in_progress",
   "source_objects_represented": 341,
   "next_work_authorized": true,
   "chapter_2_state": "Signed reviewed candidate:35pairs/124objects/175endnotes;152/152source obligations; independent QC and final validation passed; annotated tag/receipt pending terminal access.",
@@ -174,10 +174,10 @@
   "chapter_candidates_complete": 3,
   "publication_blocker": "Remote Desktop Commander terminal calls return no output; cloud git has no authenticated push; GitHub connector can commit but exposes no annotated-tag creation.",
   "source_objects_released": 97,
-  "next_finite_task": "Freeze chapter4 source pairs, translate294 objects, compare19 pages, attach complete endnotes, independently review and checkpoint. Strict releases remain pending.",
+  "next_finite_task": "Complete chapter 4 English and native audit, attach all source endnotes, review independently, build and sign the working candidate. Strict releases remain pending.",
   "chapter_3_state": "Signed reviewed working candidate:34pairs/120objects/165notes;142/142source obligations;105usage records/252occurrences/65proposals;24translated/2locallyunresolved/8metadata; independent QC and reproducible draft-candidate validation passed. Strict final release remains blocked by genuine prior publication.",
   "count_semantics": "Representation counts include explicitly unresolved and nontranslatable metadata objects; they do not measure accuracy or complete decipherment.",
-  "chapter_4_state": "Frozen exact source:86pairs/294objects;11 inherited source obligations; native19-page comparison in progress; English not started.",
+  "chapter_4_state": "Frozen exact source: 86 pairs / 294 objects; 11 inherited source obligations; source checkpoint 89f3cc0775bfd5e78e41cf466edf4b97a2d8d8fe verified. English drafting and native 19-page comparison are in progress. Workflow structural suites pass 78 checks.",
   "source_pairs_frozen": 185,
   "source_objects_frozen": 635
 }
