@@ -3,14 +3,18 @@
     "id": "MTP-000186",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-002"
+    ]
   },
   {
     "id": "MTP-000187",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-001"
+      "T05-001",
+      "MTP-AUDIT-C05-001",
+      "MTP-AUDIT-C05-003"
     ]
   },
   {
@@ -19,7 +23,13 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T05-001",
-      "T05-002"
+      "T05-002",
+      "CH05-G000640",
+      "MTP-AUDIT-C05-001",
+      "MTP-AUDIT-C05-003",
+      "MTP-AUDIT-C05-004",
+      "MTP-AUDIT-C05-005",
+      "MTP-AUDIT-C05-006"
     ]
   },
   {
@@ -27,7 +37,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-002"
+      "T05-002",
+      "MTP-AUDIT-C05-001",
+      "MTP-AUDIT-C05-003",
+      "MTP-AUDIT-C05-007",
+      "MTP-AUDIT-C05-008",
+      "MTP-AUDIT-C05-009",
+      "MTP-AUDIT-C05-010"
     ]
   },
   {
@@ -35,21 +51,32 @@
     "status": "unresolved",
     "reason": "S645 has an unresolved complement to “have become”; the gap is shown in the English and discussed in T05-002.",
     "note_ids": [
-      "T05-002"
+      "T05-002",
+      "CH05-G000645",
+      "MTP-AUDIT-C05-001",
+      "MTP-AUDIT-C05-003",
+      "MTP-AUDIT-C05-011",
+      "MTP-AUDIT-C05-012",
+      "MTP-AUDIT-C05-013"
     ]
   },
   {
     "id": "MTP-000191",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-015"
+    ]
   },
   {
     "id": "MTP-000192",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-001"
+      "T05-001",
+      "MTP-AUDIT-C05-014",
+      "MTP-AUDIT-C05-016",
+      "MTP-AUDIT-C05-017"
     ]
   },
   {
@@ -58,7 +85,15 @@
     "reason": "S651 clause relationships and the referent of “two” remain explicitly unresolved in T05-003; all lexical components are represented.",
     "note_ids": [
       "T05-001",
-      "T05-003"
+      "T05-003",
+      "CH05-G000651",
+      "MTP-AUDIT-C05-014",
+      "MTP-AUDIT-C05-016",
+      "MTP-AUDIT-C05-018",
+      "MTP-AUDIT-C05-019",
+      "MTP-AUDIT-C05-020",
+      "MTP-AUDIT-C05-021",
+      "MTP-AUDIT-C05-022"
     ]
   },
   {
@@ -66,7 +101,11 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-004"
+      "T05-004",
+      "MTP-AUDIT-C05-014",
+      "MTP-AUDIT-C05-016",
+      "MTP-AUDIT-C05-023",
+      "MTP-AUDIT-C05-024"
     ]
   },
   {
@@ -74,21 +113,36 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-004"
+      "T05-004",
+      "MTP-AUDIT-C05-014",
+      "MTP-AUDIT-C05-016",
+      "MTP-AUDIT-C05-025",
+      "MTP-AUDIT-C05-026",
+      "MTP-AUDIT-C05-027",
+      "MTP-AUDIT-C05-028",
+      "MTP-AUDIT-C05-030",
+      "MTP-AUDIT-C05-031"
     ]
   },
   {
     "id": "MTP-000196",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-029"
+    ]
   },
   {
     "id": "MTP-000197",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-005"
+      "T05-005",
+      "MTP-AUDIT-C05-028",
+      "MTP-AUDIT-C05-030",
+      "MTP-AUDIT-C05-032",
+      "MTP-AUDIT-C05-033",
+      "MTP-AUDIT-C05-034"
     ]
   },
   {
@@ -96,7 +150,12 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-005"
+      "T05-005",
+      "MTP-AUDIT-C05-028",
+      "MTP-AUDIT-C05-030",
+      "MTP-AUDIT-C05-035",
+      "MTP-AUDIT-C05-036",
+      "MTP-AUDIT-C05-037"
     ]
   },
   {
@@ -104,7 +163,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-006"
+      "T05-006",
+      "MTP-AUDIT-C05-028",
+      "MTP-AUDIT-C05-030",
+      "MTP-AUDIT-C05-038",
+      "MTP-AUDIT-C05-039",
+      "MTP-AUDIT-C05-040",
+      "MTP-AUDIT-C05-041"
     ]
   },
   {
@@ -112,21 +177,36 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-007"
+      "T05-007",
+      "MTP-AUDIT-C05-028",
+      "MTP-AUDIT-C05-030",
+      "MTP-AUDIT-C05-042",
+      "MTP-AUDIT-C05-043",
+      "MTP-AUDIT-C05-044",
+      "MTP-AUDIT-C05-045",
+      "MTP-AUDIT-C05-046"
     ]
   },
   {
     "id": "MTP-000201",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-048"
+    ]
   },
   {
     "id": "MTP-000202",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-007"
+      "T05-007",
+      "MTP-AUDIT-C05-047",
+      "MTP-AUDIT-C05-049",
+      "MTP-AUDIT-C05-050",
+      "MTP-AUDIT-C05-051",
+      "MTP-AUDIT-C05-052",
+      "MTP-AUDIT-C05-053"
     ]
   },
   {
@@ -134,7 +214,12 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-008"
+      "T05-008",
+      "MTP-AUDIT-C05-047",
+      "MTP-AUDIT-C05-049",
+      "MTP-AUDIT-C05-054",
+      "MTP-AUDIT-C05-055",
+      "MTP-AUDIT-C05-056"
     ]
   },
   {
@@ -142,21 +227,38 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-008"
+      "T05-008",
+      "MTP-AUDIT-C05-047",
+      "MTP-AUDIT-C05-049",
+      "MTP-AUDIT-C05-057",
+      "MTP-AUDIT-C05-058",
+      "MTP-AUDIT-C05-059",
+      "MTP-AUDIT-C05-060",
+      "MTP-AUDIT-C05-061",
+      "MTP-AUDIT-C05-062",
+      "MTP-AUDIT-C05-064",
+      "MTP-AUDIT-C05-065"
     ]
   },
   {
     "id": "MTP-000205",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-063"
+    ]
   },
   {
     "id": "MTP-000206",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-009"
+      "T05-009",
+      "MTP-AUDIT-C05-062",
+      "MTP-AUDIT-C05-064",
+      "MTP-AUDIT-C05-066",
+      "MTP-AUDIT-C05-067",
+      "MTP-AUDIT-C05-068"
     ]
   },
   {
@@ -164,7 +266,14 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-009"
+      "T05-009",
+      "MTP-AUDIT-C05-062",
+      "MTP-AUDIT-C05-064",
+      "MTP-AUDIT-C05-069",
+      "MTP-AUDIT-C05-070",
+      "MTP-AUDIT-C05-071",
+      "MTP-AUDIT-C05-072",
+      "MTP-AUDIT-C05-073"
     ]
   },
   {
@@ -172,7 +281,11 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-010"
+      "T05-010",
+      "MTP-AUDIT-C05-062",
+      "MTP-AUDIT-C05-064",
+      "MTP-AUDIT-C05-074",
+      "MTP-AUDIT-C05-075"
     ]
   },
   {
@@ -180,21 +293,30 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-010"
+      "T05-010",
+      "MTP-AUDIT-C05-062",
+      "MTP-AUDIT-C05-064",
+      "MTP-AUDIT-C05-076",
+      "MTP-AUDIT-C05-078"
     ]
   },
   {
     "id": "MTP-000210",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-077"
+    ]
   },
   {
     "id": "MTP-000211",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-010"
+      "T05-010",
+      "MTP-AUDIT-C05-076",
+      "MTP-AUDIT-C05-078",
+      "MTP-AUDIT-C05-079"
     ]
   },
   {
@@ -202,7 +324,10 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-010"
+      "T05-010",
+      "MTP-AUDIT-C05-076",
+      "MTP-AUDIT-C05-078",
+      "MTP-AUDIT-C05-080"
     ]
   },
   {
@@ -210,7 +335,12 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-011"
+      "T05-011",
+      "MTP-AUDIT-C05-076",
+      "MTP-AUDIT-C05-078",
+      "MTP-AUDIT-C05-081",
+      "MTP-AUDIT-C05-082",
+      "MTP-AUDIT-C05-083"
     ]
   },
   {
@@ -218,7 +348,11 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-012"
+      "T05-012",
+      "MTP-AUDIT-C05-076",
+      "MTP-AUDIT-C05-078",
+      "MTP-AUDIT-C05-084",
+      "MTP-AUDIT-C05-085"
     ]
   },
   {
@@ -226,7 +360,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-013"
+      "T05-013",
+      "CH05-G000721",
+      "MTP-AUDIT-C05-076",
+      "MTP-AUDIT-C05-078",
+      "MTP-AUDIT-C05-086",
+      "MTP-AUDIT-C05-087",
+      "MTP-AUDIT-C05-088"
     ]
   },
   {
@@ -234,7 +374,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-014"
+      "T05-014",
+      "MTP-AUDIT-C05-076",
+      "MTP-AUDIT-C05-078",
+      "MTP-AUDIT-C05-089",
+      "MTP-AUDIT-C05-090",
+      "MTP-AUDIT-C05-091",
+      "MTP-AUDIT-C05-092"
     ]
   },
   {
@@ -242,21 +388,35 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-015"
+      "T05-015",
+      "MTP-AUDIT-C05-076",
+      "MTP-AUDIT-C05-078",
+      "MTP-AUDIT-C05-093",
+      "MTP-AUDIT-C05-094",
+      "MTP-AUDIT-C05-095",
+      "MTP-AUDIT-C05-097",
+      "MTP-AUDIT-C05-098"
     ]
   },
   {
     "id": "MTP-000218",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-096"
+    ]
   },
   {
     "id": "MTP-000219",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-015"
+      "T05-015",
+      "MTP-AUDIT-C05-095",
+      "MTP-AUDIT-C05-097",
+      "MTP-AUDIT-C05-099",
+      "MTP-AUDIT-C05-100",
+      "MTP-AUDIT-C05-101"
     ]
   },
   {
@@ -265,7 +425,11 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T05-001",
-      "T05-016"
+      "T05-016",
+      "MTP-AUDIT-C05-095",
+      "MTP-AUDIT-C05-097",
+      "MTP-AUDIT-C05-102",
+      "MTP-AUDIT-C05-103"
     ]
   },
   {
@@ -273,7 +437,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-016"
+      "T05-016",
+      "MTP-AUDIT-C05-095",
+      "MTP-AUDIT-C05-097",
+      "MTP-AUDIT-C05-104",
+      "MTP-AUDIT-C05-105",
+      "MTP-AUDIT-C05-106",
+      "MTP-AUDIT-C05-107"
     ]
   },
   {
@@ -281,7 +451,12 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-017"
+      "T05-017",
+      "MTP-AUDIT-C05-095",
+      "MTP-AUDIT-C05-097",
+      "MTP-AUDIT-C05-108",
+      "MTP-AUDIT-C05-109",
+      "MTP-AUDIT-C05-110"
     ]
   },
   {
@@ -289,21 +464,32 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-017"
+      "T05-017",
+      "MTP-AUDIT-C05-095",
+      "MTP-AUDIT-C05-097",
+      "MTP-AUDIT-C05-111",
+      "MTP-AUDIT-C05-112",
+      "MTP-AUDIT-C05-113",
+      "MTP-AUDIT-C05-115",
+      "MTP-AUDIT-C05-116"
     ]
   },
   {
     "id": "MTP-000224",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-114"
+    ]
   },
   {
     "id": "MTP-000225",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-017"
+      "T05-017",
+      "MTP-AUDIT-C05-113",
+      "MTP-AUDIT-C05-115"
     ]
   },
   {
@@ -311,7 +497,12 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-017"
+      "T05-017",
+      "MTP-AUDIT-C05-113",
+      "MTP-AUDIT-C05-115",
+      "MTP-AUDIT-C05-117",
+      "MTP-AUDIT-C05-118",
+      "MTP-AUDIT-C05-119"
     ]
   },
   {
@@ -319,7 +510,14 @@
     "status": "unresolved",
     "reason": "S756 དུམ་གྲགས་པས remains retained and unresolved; the rest of the pair is translated with a source-linked note.",
     "note_ids": [
-      "T05-018"
+      "T05-018",
+      "CH05-G000756",
+      "MTP-AUDIT-C05-113",
+      "MTP-AUDIT-C05-115",
+      "MTP-AUDIT-C05-120",
+      "MTP-AUDIT-C05-121",
+      "MTP-AUDIT-C05-122",
+      "MTP-AUDIT-C05-123"
     ]
   },
   {
@@ -327,7 +525,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-019"
+      "T05-019",
+      "MTP-AUDIT-C05-113",
+      "MTP-AUDIT-C05-115",
+      "MTP-AUDIT-C05-124",
+      "MTP-AUDIT-C05-125",
+      "MTP-AUDIT-C05-126",
+      "MTP-AUDIT-C05-127"
     ]
   },
   {
@@ -335,7 +539,11 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-019"
+      "T05-019",
+      "MTP-AUDIT-C05-113",
+      "MTP-AUDIT-C05-115",
+      "MTP-AUDIT-C05-128",
+      "MTP-AUDIT-C05-129"
     ]
   },
   {
@@ -344,21 +552,35 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T05-001",
-      "T05-019"
+      "T05-019",
+      "MTP-AUDIT-C05-113",
+      "MTP-AUDIT-C05-115",
+      "MTP-AUDIT-C05-130",
+      "MTP-AUDIT-C05-131",
+      "MTP-AUDIT-C05-132",
+      "MTP-AUDIT-C05-134",
+      "MTP-AUDIT-C05-135"
     ]
   },
   {
     "id": "MTP-000231",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-133"
+    ]
   },
   {
     "id": "MTP-000232",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-020"
+      "T05-020",
+      "MTP-AUDIT-C05-132",
+      "MTP-AUDIT-C05-134",
+      "MTP-AUDIT-C05-136",
+      "MTP-AUDIT-C05-137",
+      "MTP-AUDIT-C05-138"
     ]
   },
   {
@@ -366,7 +588,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-020"
+      "T05-020",
+      "MTP-AUDIT-C05-132",
+      "MTP-AUDIT-C05-134",
+      "MTP-AUDIT-C05-139",
+      "MTP-AUDIT-C05-140",
+      "MTP-AUDIT-C05-141",
+      "MTP-AUDIT-C05-142"
     ]
   },
   {
@@ -374,7 +602,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-020"
+      "T05-020",
+      "MTP-AUDIT-C05-132",
+      "MTP-AUDIT-C05-134",
+      "MTP-AUDIT-C05-143",
+      "MTP-AUDIT-C05-144",
+      "MTP-AUDIT-C05-145",
+      "MTP-AUDIT-C05-146"
     ]
   },
   {
@@ -382,21 +616,35 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-020"
+      "T05-020",
+      "MTP-AUDIT-C05-132",
+      "MTP-AUDIT-C05-134",
+      "MTP-AUDIT-C05-147",
+      "MTP-AUDIT-C05-148",
+      "MTP-AUDIT-C05-149",
+      "MTP-AUDIT-C05-272"
     ]
   },
   {
     "id": "MTP-000236",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-271",
+      "MTP-AUDIT-C05-273"
+    ]
   },
   {
     "id": "MTP-000237",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-021"
+      "T05-021",
+      "MTP-AUDIT-C05-150",
+      "MTP-AUDIT-C05-151",
+      "MTP-AUDIT-C05-152",
+      "MTP-AUDIT-C05-153",
+      "MTP-AUDIT-C05-272"
     ]
   },
   {
@@ -404,7 +652,12 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-021"
+      "T05-021",
+      "MTP-AUDIT-C05-154",
+      "MTP-AUDIT-C05-155",
+      "MTP-AUDIT-C05-156",
+      "MTP-AUDIT-C05-157",
+      "MTP-AUDIT-C05-272"
     ]
   },
   {
@@ -412,21 +665,36 @@
     "status": "unresolved",
     "reason": "S793 བཅུང remains retained and unresolved; S795 attachment is explicitly provisional.",
     "note_ids": [
-      "T05-022"
+      "T05-022",
+      "CH05-G000793",
+      "MTP-AUDIT-C05-158",
+      "MTP-AUDIT-C05-159",
+      "MTP-AUDIT-C05-160",
+      "MTP-AUDIT-C05-161",
+      "MTP-AUDIT-C05-272",
+      "MTP-AUDIT-C05-275"
     ]
   },
   {
     "id": "MTP-000240",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-274",
+      "MTP-AUDIT-C05-276"
+    ]
   },
   {
     "id": "MTP-000241",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-023"
+      "T05-023",
+      "MTP-AUDIT-C05-162",
+      "MTP-AUDIT-C05-163",
+      "MTP-AUDIT-C05-164",
+      "MTP-AUDIT-C05-165",
+      "MTP-AUDIT-C05-275"
     ]
   },
   {
@@ -434,7 +702,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-023"
+      "T05-023",
+      "CH05-G000803",
+      "MTP-AUDIT-C05-166",
+      "MTP-AUDIT-C05-167",
+      "MTP-AUDIT-C05-168",
+      "MTP-AUDIT-C05-169",
+      "MTP-AUDIT-C05-275"
     ]
   },
   {
@@ -442,7 +716,14 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-023"
+      "T05-023",
+      "MTP-AUDIT-C05-170",
+      "MTP-AUDIT-C05-171",
+      "MTP-AUDIT-C05-172",
+      "MTP-AUDIT-C05-173",
+      "MTP-AUDIT-C05-174",
+      "MTP-AUDIT-C05-175",
+      "MTP-AUDIT-C05-275"
     ]
   },
   {
@@ -450,21 +731,33 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-024"
+      "T05-024",
+      "MTP-AUDIT-C05-176",
+      "MTP-AUDIT-C05-177",
+      "MTP-AUDIT-C05-275",
+      "MTP-AUDIT-C05-278"
     ]
   },
   {
     "id": "MTP-000245",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-277",
+      "MTP-AUDIT-C05-279"
+    ]
   },
   {
     "id": "MTP-000246",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-024"
+      "T05-024",
+      "MTP-AUDIT-C05-178",
+      "MTP-AUDIT-C05-179",
+      "MTP-AUDIT-C05-180",
+      "MTP-AUDIT-C05-181",
+      "MTP-AUDIT-C05-278"
     ]
   },
   {
@@ -472,7 +765,14 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-024"
+      "T05-024",
+      "MTP-AUDIT-C05-182",
+      "MTP-AUDIT-C05-183",
+      "MTP-AUDIT-C05-184",
+      "MTP-AUDIT-C05-185",
+      "MTP-AUDIT-C05-186",
+      "MTP-AUDIT-C05-187",
+      "MTP-AUDIT-C05-278"
     ]
   },
   {
@@ -480,21 +780,33 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-025"
+      "T05-025",
+      "MTP-AUDIT-C05-188",
+      "MTP-AUDIT-C05-189",
+      "MTP-AUDIT-C05-190",
+      "MTP-AUDIT-C05-191",
+      "MTP-AUDIT-C05-192",
+      "MTP-AUDIT-C05-278",
+      "MTP-AUDIT-C05-281"
     ]
   },
   {
     "id": "MTP-000249",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-280",
+      "MTP-AUDIT-C05-282"
+    ]
   },
   {
     "id": "MTP-000250",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-025"
+      "T05-025",
+      "MTP-AUDIT-C05-193",
+      "MTP-AUDIT-C05-281"
     ]
   },
   {
@@ -502,7 +814,12 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-026"
+      "T05-026",
+      "MTP-AUDIT-C05-194",
+      "MTP-AUDIT-C05-195",
+      "MTP-AUDIT-C05-196",
+      "MTP-AUDIT-C05-197",
+      "MTP-AUDIT-C05-281"
     ]
   },
   {
@@ -510,7 +827,13 @@
     "status": "unresolved",
     "reason": "S838 fixed ལང remains retained; its segmentation and subject relation are unresolved.",
     "note_ids": [
-      "T05-026"
+      "T05-026",
+      "CH05-G000838",
+      "MTP-AUDIT-C05-198",
+      "MTP-AUDIT-C05-199",
+      "MTP-AUDIT-C05-200",
+      "MTP-AUDIT-C05-201",
+      "MTP-AUDIT-C05-281"
     ]
   },
   {
@@ -518,7 +841,11 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-026"
+      "T05-026",
+      "MTP-AUDIT-C05-202",
+      "MTP-AUDIT-C05-203",
+      "MTP-AUDIT-C05-204",
+      "MTP-AUDIT-C05-281"
     ]
   },
   {
@@ -526,21 +853,31 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-027"
+      "T05-027",
+      "MTP-AUDIT-C05-205",
+      "MTP-AUDIT-C05-281",
+      "MTP-AUDIT-C05-284"
     ]
   },
   {
     "id": "MTP-000255",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-283",
+      "MTP-AUDIT-C05-285"
+    ]
   },
   {
     "id": "MTP-000256",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-027"
+      "T05-027",
+      "MTP-AUDIT-C05-206",
+      "MTP-AUDIT-C05-207",
+      "MTP-AUDIT-C05-208",
+      "MTP-AUDIT-C05-284"
     ]
   },
   {
@@ -548,7 +885,12 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-028"
+      "T05-028",
+      "MTP-AUDIT-C05-209",
+      "MTP-AUDIT-C05-210",
+      "MTP-AUDIT-C05-211",
+      "MTP-AUDIT-C05-212",
+      "MTP-AUDIT-C05-284"
     ]
   },
   {
@@ -556,7 +898,11 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-028"
+      "T05-028",
+      "MTP-AUDIT-C05-213",
+      "MTP-AUDIT-C05-214",
+      "MTP-AUDIT-C05-215",
+      "MTP-AUDIT-C05-284"
     ]
   },
   {
@@ -564,21 +910,32 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-028"
+      "T05-028",
+      "MTP-AUDIT-C05-216",
+      "MTP-AUDIT-C05-217",
+      "MTP-AUDIT-C05-218",
+      "MTP-AUDIT-C05-284",
+      "MTP-AUDIT-C05-287"
     ]
   },
   {
     "id": "MTP-000260",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-286",
+      "MTP-AUDIT-C05-288"
+    ]
   },
   {
     "id": "MTP-000261",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-028"
+      "T05-028",
+      "MTP-AUDIT-C05-219",
+      "MTP-AUDIT-C05-220",
+      "MTP-AUDIT-C05-287"
     ]
   },
   {
@@ -586,7 +943,11 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-029"
+      "T05-029",
+      "MTP-AUDIT-C05-221",
+      "MTP-AUDIT-C05-222",
+      "MTP-AUDIT-C05-223",
+      "MTP-AUDIT-C05-287"
     ]
   },
   {
@@ -594,7 +955,12 @@
     "status": "unresolved",
     "reason": "S878 དངོས་པོ་བཟོད remains retained because the relation of entities and the verb is unresolved.",
     "note_ids": [
-      "T05-029"
+      "T05-029",
+      "MTP-AUDIT-C05-224",
+      "MTP-AUDIT-C05-225",
+      "MTP-AUDIT-C05-226",
+      "MTP-AUDIT-C05-227",
+      "MTP-AUDIT-C05-287"
     ]
   },
   {
@@ -602,21 +968,35 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-030"
+      "T05-030",
+      "MTP-AUDIT-C05-228",
+      "MTP-AUDIT-C05-229",
+      "MTP-AUDIT-C05-230",
+      "MTP-AUDIT-C05-231",
+      "MTP-AUDIT-C05-232",
+      "MTP-AUDIT-C05-287",
+      "MTP-AUDIT-C05-290"
     ]
   },
   {
     "id": "MTP-000265",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C05-289",
+      "MTP-AUDIT-C05-291"
+    ]
   },
   {
     "id": "MTP-000266",
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-031"
+      "T05-031",
+      "MTP-AUDIT-C05-233",
+      "MTP-AUDIT-C05-234",
+      "MTP-AUDIT-C05-235",
+      "MTP-AUDIT-C05-290"
     ]
   },
   {
@@ -624,7 +1004,12 @@
     "status": "unresolved",
     "reason": "S888 གཉུག་མའི་རང remains retained because its apparent missing complement is not reconstructed.",
     "note_ids": [
-      "T05-031"
+      "T05-031",
+      "MTP-AUDIT-C05-236",
+      "MTP-AUDIT-C05-237",
+      "MTP-AUDIT-C05-238",
+      "MTP-AUDIT-C05-239",
+      "MTP-AUDIT-C05-290"
     ]
   },
   {
@@ -632,7 +1017,13 @@
     "status": "translated",
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
-      "T05-031"
+      "T05-031",
+      "MTP-AUDIT-C05-240",
+      "MTP-AUDIT-C05-241",
+      "MTP-AUDIT-C05-242",
+      "MTP-AUDIT-C05-243",
+      "MTP-AUDIT-C05-290",
+      "MTP-AUDIT-C05-298"
     ]
   },
   {
@@ -640,7 +1031,641 @@
     "status": "unresolved",
     "reason": "S897 འོད་རེགས་ལ remains retained; its lexical and grammatical relation is unresolved.",
     "note_ids": [
-      "T05-032"
+      "T05-032",
+      "MTP-AUDIT-C05-244",
+      "MTP-AUDIT-C05-245",
+      "MTP-AUDIT-C05-290",
+      "MTP-AUDIT-C05-293"
+    ]
+  },
+  {
+    "id": "MTP-000270",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-292",
+      "MTP-AUDIT-C05-294"
+    ]
+  },
+  {
+    "id": "MTP-000271",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-033",
+      "CH05-G000902",
+      "MTP-AUDIT-C05-246",
+      "MTP-AUDIT-C05-247",
+      "MTP-AUDIT-C05-248",
+      "MTP-AUDIT-C05-249",
+      "MTP-AUDIT-C05-250",
+      "MTP-AUDIT-C05-293"
+    ]
+  },
+  {
+    "id": "MTP-000272",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-034",
+      "MTP-AUDIT-C05-251",
+      "MTP-AUDIT-C05-252",
+      "MTP-AUDIT-C05-253",
+      "MTP-AUDIT-C05-254",
+      "MTP-AUDIT-C05-293"
+    ]
+  },
+  {
+    "id": "MTP-000273",
+    "status": "unresolved",
+    "reason": "S910 སྐྱོ remains retained because its lexical relation to compassionate responsiveness is unresolved.",
+    "note_ids": [
+      "T05-034",
+      "MTP-AUDIT-C05-255",
+      "MTP-AUDIT-C05-256",
+      "MTP-AUDIT-C05-257",
+      "MTP-AUDIT-C05-258",
+      "MTP-AUDIT-C05-259",
+      "MTP-AUDIT-C05-293"
+    ]
+  },
+  {
+    "id": "MTP-000274",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-295",
+      "MTP-AUDIT-C05-297"
+    ]
+  },
+  {
+    "id": "MTP-000275",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-035",
+      "MTP-AUDIT-C05-260",
+      "MTP-AUDIT-C05-261",
+      "MTP-AUDIT-C05-262",
+      "MTP-AUDIT-C05-296"
+    ]
+  },
+  {
+    "id": "MTP-000276",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-035",
+      "MTP-AUDIT-C05-263",
+      "MTP-AUDIT-C05-264",
+      "MTP-AUDIT-C05-296"
+    ]
+  },
+  {
+    "id": "MTP-000277",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-035",
+      "MTP-AUDIT-C05-265",
+      "MTP-AUDIT-C05-266",
+      "MTP-AUDIT-C05-267",
+      "MTP-AUDIT-C05-268",
+      "MTP-AUDIT-C05-296"
+    ]
+  },
+  {
+    "id": "MTP-000278",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-036",
+      "MTP-AUDIT-C05-269",
+      "MTP-AUDIT-C05-270",
+      "MTP-AUDIT-C05-296",
+      "MTP-AUDIT-C05-299"
+    ]
+  },
+  {
+    "id": "MTP-000279",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-398",
+      "MTP-AUDIT-C05-399"
+    ]
+  },
+  {
+    "id": "MTP-000280",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-036",
+      "MTP-AUDIT-C05-300",
+      "MTP-AUDIT-C05-301",
+      "MTP-AUDIT-C05-302",
+      "MTP-AUDIT-C05-303",
+      "MTP-AUDIT-C05-398",
+      "MTP-AUDIT-C05-399"
+    ]
+  },
+  {
+    "id": "MTP-000281",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-036",
+      "MTP-AUDIT-C05-304",
+      "MTP-AUDIT-C05-305",
+      "MTP-AUDIT-C05-306",
+      "MTP-AUDIT-C05-307",
+      "MTP-AUDIT-C05-398",
+      "MTP-AUDIT-C05-399"
+    ]
+  },
+  {
+    "id": "MTP-000282",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-036",
+      "MTP-AUDIT-C05-308",
+      "MTP-AUDIT-C05-309",
+      "MTP-AUDIT-C05-310",
+      "MTP-AUDIT-C05-398",
+      "MTP-AUDIT-C05-399"
+    ]
+  },
+  {
+    "id": "MTP-000283",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-037",
+      "CH05-G000944",
+      "MTP-AUDIT-C05-311",
+      "MTP-AUDIT-C05-312",
+      "MTP-AUDIT-C05-313",
+      "MTP-AUDIT-C05-314",
+      "MTP-AUDIT-C05-398",
+      "MTP-AUDIT-C05-399",
+      "MTP-AUDIT-C05-400",
+      "MTP-AUDIT-C05-401"
+    ]
+  },
+  {
+    "id": "MTP-000284",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-400",
+      "MTP-AUDIT-C05-401"
+    ]
+  },
+  {
+    "id": "MTP-000285",
+    "status": "unresolved",
+    "reason": "S952 སྤྱིས་གཞི remains retained; the form and relation to Ground of delusion are unresolved.",
+    "note_ids": [
+      "T05-038",
+      "MTP-AUDIT-C05-315",
+      "MTP-AUDIT-C05-316",
+      "MTP-AUDIT-C05-317",
+      "MTP-AUDIT-C05-400",
+      "MTP-AUDIT-C05-401"
+    ]
+  },
+  {
+    "id": "MTP-000286",
+    "status": "unresolved",
+    "reason": "S956 སྔགས remains retained; its predicate relation to essence and conceptual thought is unresolved.",
+    "note_ids": [
+      "T05-038",
+      "MTP-AUDIT-C05-318",
+      "MTP-AUDIT-C05-319",
+      "MTP-AUDIT-C05-320",
+      "MTP-AUDIT-C05-400",
+      "MTP-AUDIT-C05-401"
+    ]
+  },
+  {
+    "id": "MTP-000287",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-039",
+      "MTP-AUDIT-C05-321",
+      "MTP-AUDIT-C05-322",
+      "MTP-AUDIT-C05-323",
+      "MTP-AUDIT-C05-324",
+      "MTP-AUDIT-C05-400",
+      "MTP-AUDIT-C05-401"
+    ]
+  },
+  {
+    "id": "MTP-000288",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-039",
+      "MTP-AUDIT-C05-325",
+      "MTP-AUDIT-C05-326",
+      "MTP-AUDIT-C05-400",
+      "MTP-AUDIT-C05-401"
+    ]
+  },
+  {
+    "id": "MTP-000289",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-402",
+      "MTP-AUDIT-C05-403"
+    ]
+  },
+  {
+    "id": "MTP-000290",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-040",
+      "MTP-AUDIT-C05-327",
+      "MTP-AUDIT-C05-328",
+      "MTP-AUDIT-C05-329",
+      "MTP-AUDIT-C05-402",
+      "MTP-AUDIT-C05-403"
+    ]
+  },
+  {
+    "id": "MTP-000291",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-040",
+      "MTP-AUDIT-C05-330",
+      "MTP-AUDIT-C05-331",
+      "MTP-AUDIT-C05-332",
+      "MTP-AUDIT-C05-402",
+      "MTP-AUDIT-C05-403"
+    ]
+  },
+  {
+    "id": "MTP-000292",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-041",
+      "MTP-AUDIT-C05-333",
+      "MTP-AUDIT-C05-334",
+      "MTP-AUDIT-C05-402",
+      "MTP-AUDIT-C05-403"
+    ]
+  },
+  {
+    "id": "MTP-000293",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-041",
+      "MTP-AUDIT-C05-335",
+      "MTP-AUDIT-C05-336",
+      "MTP-AUDIT-C05-402",
+      "MTP-AUDIT-C05-403"
+    ]
+  },
+  {
+    "id": "MTP-000294",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-042",
+      "MTP-AUDIT-C05-337",
+      "MTP-AUDIT-C05-338",
+      "MTP-AUDIT-C05-339",
+      "MTP-AUDIT-C05-340",
+      "MTP-AUDIT-C05-402",
+      "MTP-AUDIT-C05-403"
+    ]
+  },
+  {
+    "id": "MTP-000295",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-404",
+      "MTP-AUDIT-C05-405"
+    ]
+  },
+  {
+    "id": "MTP-000296",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-042",
+      "MTP-AUDIT-C05-341",
+      "MTP-AUDIT-C05-342",
+      "MTP-AUDIT-C05-343",
+      "MTP-AUDIT-C05-404",
+      "MTP-AUDIT-C05-405"
+    ]
+  },
+  {
+    "id": "MTP-000297",
+    "status": "unresolved",
+    "reason": "S986–S988 formless-list predicates/names remain explicitly unresolved; no standard cosmological taxonomy is silently substituted.",
+    "note_ids": [
+      "T05-043",
+      "MTP-AUDIT-C05-344",
+      "MTP-AUDIT-C05-345",
+      "MTP-AUDIT-C05-346",
+      "MTP-AUDIT-C05-404",
+      "MTP-AUDIT-C05-405"
+    ]
+  },
+  {
+    "id": "MTP-000298",
+    "status": "unresolved",
+    "reason": "S989–S991 has unresolved attachment among Pure Abodes, descending order, Akaniṣṭha and desire; the fragment remains visible.",
+    "note_ids": [
+      "T05-043",
+      "MTP-AUDIT-C05-347",
+      "MTP-AUDIT-C05-348",
+      "MTP-AUDIT-C05-349",
+      "MTP-AUDIT-C05-404",
+      "MTP-AUDIT-C05-405"
+    ]
+  },
+  {
+    "id": "MTP-000299",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-043",
+      "CH05-G000994",
+      "MTP-AUDIT-C05-350",
+      "MTP-AUDIT-C05-351",
+      "MTP-AUDIT-C05-352",
+      "MTP-AUDIT-C05-404",
+      "MTP-AUDIT-C05-405",
+      "MTP-AUDIT-C05-406",
+      "MTP-AUDIT-C05-407"
+    ]
+  },
+  {
+    "id": "MTP-000300",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-406",
+      "MTP-AUDIT-C05-407"
+    ]
+  },
+  {
+    "id": "MTP-000301",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-043",
+      "MTP-AUDIT-C05-353",
+      "MTP-AUDIT-C05-406",
+      "MTP-AUDIT-C05-407"
+    ]
+  },
+  {
+    "id": "MTP-000302",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-044",
+      "MTP-AUDIT-C05-354",
+      "MTP-AUDIT-C05-355",
+      "MTP-AUDIT-C05-356",
+      "MTP-AUDIT-C05-357",
+      "MTP-AUDIT-C05-358",
+      "MTP-AUDIT-C05-406",
+      "MTP-AUDIT-C05-407"
+    ]
+  },
+  {
+    "id": "MTP-000303",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-044",
+      "MTP-AUDIT-C05-359",
+      "MTP-AUDIT-C05-360",
+      "MTP-AUDIT-C05-361",
+      "MTP-AUDIT-C05-362",
+      "MTP-AUDIT-C05-406",
+      "MTP-AUDIT-C05-407"
+    ]
+  },
+  {
+    "id": "MTP-000304",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-044",
+      "MTP-AUDIT-C05-363",
+      "MTP-AUDIT-C05-406",
+      "MTP-AUDIT-C05-407",
+      "MTP-AUDIT-C05-408",
+      "MTP-AUDIT-C05-409"
+    ]
+  },
+  {
+    "id": "MTP-000305",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-408",
+      "MTP-AUDIT-C05-409"
+    ]
+  },
+  {
+    "id": "MTP-000306",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-044",
+      "MTP-AUDIT-C05-364",
+      "MTP-AUDIT-C05-408",
+      "MTP-AUDIT-C05-409"
+    ]
+  },
+  {
+    "id": "MTP-000307",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-045",
+      "MTP-AUDIT-C05-365",
+      "MTP-AUDIT-C05-366",
+      "MTP-AUDIT-C05-367",
+      "MTP-AUDIT-C05-368",
+      "MTP-AUDIT-C05-369",
+      "MTP-AUDIT-C05-370",
+      "MTP-AUDIT-C05-408",
+      "MTP-AUDIT-C05-409"
+    ]
+  },
+  {
+    "id": "MTP-000308",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-045",
+      "MTP-AUDIT-C05-371",
+      "MTP-AUDIT-C05-372",
+      "MTP-AUDIT-C05-373",
+      "MTP-AUDIT-C05-408",
+      "MTP-AUDIT-C05-409"
+    ]
+  },
+  {
+    "id": "MTP-000309",
+    "status": "unresolved",
+    "reason": "S1021 སྤྲུལ in the rope comparison remains retained; serpent is not silently substituted.",
+    "note_ids": [
+      "T05-046",
+      "MTP-AUDIT-C05-374",
+      "MTP-AUDIT-C05-408",
+      "MTP-AUDIT-C05-409"
+    ]
+  },
+  {
+    "id": "MTP-000310",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-410",
+      "MTP-AUDIT-C05-411"
+    ]
+  },
+  {
+    "id": "MTP-000311",
+    "status": "unresolved",
+    "reason": "S1027 ultimate/conventional/endowed-with-form relations remain explicitly unresolved.",
+    "note_ids": [
+      "T05-046",
+      "CH05-G001027",
+      "MTP-AUDIT-C05-375",
+      "MTP-AUDIT-C05-376",
+      "MTP-AUDIT-C05-377",
+      "MTP-AUDIT-C05-378",
+      "MTP-AUDIT-C05-379",
+      "MTP-AUDIT-C05-410",
+      "MTP-AUDIT-C05-411"
+    ]
+  },
+  {
+    "id": "MTP-000312",
+    "status": "unresolved",
+    "reason": "S1028 སྤྲུལ remains retained; truth and bird-comparison relations are provisionally represented.",
+    "note_ids": [
+      "T05-046",
+      "MTP-AUDIT-C05-380",
+      "MTP-AUDIT-C05-381",
+      "MTP-AUDIT-C05-382",
+      "MTP-AUDIT-C05-410",
+      "MTP-AUDIT-C05-411"
+    ]
+  },
+  {
+    "id": "MTP-000313",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-047",
+      "CH05-G001032",
+      "MTP-AUDIT-C05-383",
+      "MTP-AUDIT-C05-384",
+      "MTP-AUDIT-C05-397",
+      "MTP-AUDIT-C05-410",
+      "MTP-AUDIT-C05-411"
+    ]
+  },
+  {
+    "id": "MTP-000314",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-047",
+      "MTP-AUDIT-C05-385",
+      "MTP-AUDIT-C05-386",
+      "MTP-AUDIT-C05-387",
+      "MTP-AUDIT-C05-388",
+      "MTP-AUDIT-C05-410",
+      "MTP-AUDIT-C05-411",
+      "MTP-AUDIT-C05-412",
+      "MTP-AUDIT-C05-413"
+    ]
+  },
+  {
+    "id": "MTP-000315",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-412",
+      "MTP-AUDIT-C05-413"
+    ]
+  },
+  {
+    "id": "MTP-000316",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-048",
+      "MTP-AUDIT-C05-389",
+      "MTP-AUDIT-C05-390",
+      "MTP-AUDIT-C05-391",
+      "MTP-AUDIT-C05-392",
+      "MTP-AUDIT-C05-393",
+      "MTP-AUDIT-C05-412",
+      "MTP-AUDIT-C05-413"
+    ]
+  },
+  {
+    "id": "MTP-000317",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-048",
+      "MTP-AUDIT-C05-394",
+      "MTP-AUDIT-C05-395",
+      "MTP-AUDIT-C05-396",
+      "MTP-AUDIT-C05-412",
+      "MTP-AUDIT-C05-413"
+    ]
+  },
+  {
+    "id": "MTP-000318",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-049",
+      "CH05-G001049",
+      "MTP-AUDIT-C05-412",
+      "MTP-AUDIT-C05-413",
+      "MTP-AUDIT-C05-415"
+    ]
+  },
+  {
+    "id": "MTP-000319",
+    "status": "nontranslatable",
+    "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
+    "note_ids": [
+      "MTP-AUDIT-C05-414"
+    ]
+  },
+  {
+    "id": "MTP-000320",
+    "status": "translated",
+    "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
+    "note_ids": [
+      "T05-049",
+      "MTP-AUDIT-C05-414",
+      "MTP-AUDIT-C05-415"
     ]
   }
 ]
