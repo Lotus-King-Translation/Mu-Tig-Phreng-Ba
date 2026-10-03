@@ -1,0 +1,16 @@
+{
+  "chapter": 5,
+  "reviewer": "/root/ch05_qc",
+  "translator": "/root/ch05_translate",
+  "independent": true,
+  "source_sha256": "0c574b76b678a3b129dfd584bfd3ad694b87956febaf98726e02106590958b3e",
+  "translation_sha256": "67505fa2bf43bee10a240fcbea61772e44a02b2404ef6cb8afe312aef58849e7",
+  "build_manifest_sha256": "0afe04a17427ac29e9aff38de4e8c469e9aafbd7a011a9a8acb4a6a49e1abd02",
+  "coverage": "complete",
+  "disposition": "ready_with_explicit_review_flags",
+  "open_blockers": [],
+  "review_path": "translations/chapters/05/QC.md",
+  "review_sha256": "caca88593e366f701b36f064ceec1ef2501c9151105e4bc2b9d9fdbe0a8bf1ad",
+  "automated_semantic_certification": false,
+  "independent_human_certification": false
+}

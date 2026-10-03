@@ -45,20 +45,22 @@
     "translations/chapters/05/audit-contract.sha256": "f38bc8cd5323d9742d6bca1942e758e7c7321b495a97ca94e2a8f77df96f442e",
     "translations/chapters/05/contract.json": "42f28131d47c7b76358f1be08094ebe498f9fcba78c71d9faff01d9e6897daaf",
     "translations/chapters/05/contract.sha256": "e96275c24264b8ef9ada657faaf0f244ef67e15d32b5f941bd4a1c76cac5ee8b",
-    "translations/chapters/05/note-map.json": "8a6df1b1343662e1685977e04c269b86a1edecf13d70a49ee894c78c8a156b29",
-    "translations/chapters/05/pair-status.json": "ce7b0378b04b37233a3e6f2678241a2777876569eb0fdd76ddb429726817b623",
+    "translations/chapters/05/glossary-proposals.json": "2ef77bb1e447f345476796da34e144a41f702d6d96055dde8fb444aed77c33e8",
+    "translations/chapters/05/note-map.json": "aa5db8ce951ac6f942abd62300e781f8ea54cdc23cef688d33ee6ac5dd06b141",
+    "translations/chapters/05/pair-status.json": "deba44f6757f867a6cd5547d010a6cb02906356b24a28f705ab9176210b55112",
     "translations/chapters/05/segmentation.json": "5489372bbb75cc1af3666b32badb567f53a59f21ef12e3eb4d5b474aeba44fdd",
     "translations/chapters/05/source.md": "0c574b76b678a3b129dfd584bfd3ad694b87956febaf98726e02106590958b3e",
     "translations/chapters/05/translation-draft.md": "8f15b5d3248dc722dab0c1ac3a72ec3126c5cf03da00fb93bd6de5f5c63d39cf",
-    "translations/chapters/05/translation-note-map.json": "01263476955c368adefd11dce0644a0def31fb514fd250b021922c5046f06b9a",
-    "translations/chapters/05/translation.md": "dead99a5c999f98f788731b9ec80ee478afb80e9a5f1dc881d560b52e9cf24ac",
+    "translations/chapters/05/translation-note-map.json": "dd395fb0bc9ce9e97d9ab150cc4b6579c84b70695fe8266176359906e6ddc592",
+    "translations/chapters/05/translation.md": "67505fa2bf43bee10a240fcbea61772e44a02b2404ef6cb8afe312aef58849e7",
+    "translations/chapters/05/usage.json": "ce7053e925101d6f7f6fdafbcf23752581e79b135f52f398f24b8a55a9463ec1",
     "translations/draft-authorizations/ch05.json": "410b6d7eaeb346c9f6168eda1aa6387a4e39ae599833676a55f29b4eb964d20d"
   },
   "output_sha256": {
-    "reading.md": "167c5ca3867f516677873bb36f0b42c7db8f2558812045edc7fb23971fc6597f",
-    "bilingual.md": "4211bc94ab892f61b16ac455ba05e6d339da2358a0e04b4bc5f9a479fe387e24",
-    "machine.json": "6f2ffcf5bb8af31004ef055fd5d6eeff36bd118d1555ba98b5773cced4de037b",
-    "coverage.json": "568c47c30f9b7f0031c337d3bb0726a02beae5dfe4af9e68c850512af4c3dd4f"
+    "reading.md": "f57d574e2505bac9893262ea1ff3f8251fcbdc9d45d8bfc19392a41cf69a3eb3",
+    "bilingual.md": "b32856874a3975d793c7fb3eb5ac5ca9a1408761ca7ba444004f6b3ba0009292",
+    "machine.json": "07ab942c971bdead97e9c17bf31118cd703e4e5bffd3223edbca4ea9f22f4d75",
+    "coverage.json": "61d7e4c3a5098c71a29eafdce7677e6a18b58d50105e60adff39c30a134c0914"
   },
   "builder": "scripts/translation_pipeline.py; deterministic chapter outputs; canonical pair blocks and endnotes are mirrored exactly.",
   "claims": {

@@ -1195,21 +1195,21 @@ In great emptiness, [it] is established just as it settles.[^T05-004][^MTP-AUDIT
 It is not the domain of scriptural transmission and reasoning;
 tantras and pith instructions do not indicate it.
 Through view, cultivation, and activity,
-its meanings do not become known.[^T05-005][^MTP-AUDIT-C05-028][^MTP-AUDIT-C05-030][^MTP-AUDIT-C05-032][^MTP-AUDIT-C05-033][^MTP-AUDIT-C05-034]
+its meanings do not become known.[^T05-005][^MTP-AUDIT-C05-028][^MTP-AUDIT-C05-030][^MTP-AUDIT-C05-032][^MTP-AUDIT-C05-033][^MTP-AUDIT-C05-034][^T05-L038]
 
 <!-- pair: MTP-000198 -->
 
 As for its meaning, there is no accomplishment of a result;
 through phenomena, that itself becomes obscured.
 It is not accomplished through thinking,
-nor can it be examined through discerning knowing.[^T05-005][^MTP-AUDIT-C05-028][^MTP-AUDIT-C05-030][^MTP-AUDIT-C05-035][^MTP-AUDIT-C05-036][^MTP-AUDIT-C05-037]
+nor can it be examined through discerning knowing.[^T05-005][^MTP-AUDIT-C05-028][^MTP-AUDIT-C05-030][^MTP-AUDIT-C05-035][^MTP-AUDIT-C05-036][^MTP-AUDIT-C05-037][^T05-L002][^T05-L004]
 
 <!-- pair: MTP-000199 -->
 
 Through generosity, ethical discipline, and patience,
 that itself is free from the results of harm and benefit.
 Through hearing, thinking, and cultivation,
-even if [it] is examined supremely, the meaning is not seen.[^T05-006][^MTP-AUDIT-C05-028][^MTP-AUDIT-C05-030][^MTP-AUDIT-C05-038][^MTP-AUDIT-C05-039][^MTP-AUDIT-C05-040][^MTP-AUDIT-C05-041]
+even if [it] is examined supremely, the meaning is not seen.[^T05-006][^MTP-AUDIT-C05-028][^MTP-AUDIT-C05-030][^MTP-AUDIT-C05-038][^MTP-AUDIT-C05-039][^MTP-AUDIT-C05-040][^MTP-AUDIT-C05-041][^T05-L004]
 
 <!-- pair: MTP-000200 -->
 
@@ -1228,7 +1228,7 @@ Where are empowerment and commitments?[^T05-007][^MTP-AUDIT-C05-028][^MTP-AUDIT-
 There is no approach or accomplishment;
 there is no elaboration of wheels.
 There is no protection and no object of protection;
-[it] is beyond the domain of obstructing spirits and harm.[^T05-007][^MTP-AUDIT-C05-047][^MTP-AUDIT-C05-049][^MTP-AUDIT-C05-050][^MTP-AUDIT-C05-051][^MTP-AUDIT-C05-052][^MTP-AUDIT-C05-053]
+[it] is beyond the domain of obstructing spirits and harm.[^T05-007][^MTP-AUDIT-C05-047][^MTP-AUDIT-C05-049][^MTP-AUDIT-C05-050][^MTP-AUDIT-C05-051][^MTP-AUDIT-C05-052][^MTP-AUDIT-C05-053][^T05-L038]
 
 <!-- pair: MTP-000203 -->
 
@@ -1243,7 +1243,7 @@ It is gradual entry into mandalas and the like;
 it is phenomena and appears as phenomena.
 It is abiding, and it is liberation;
 it is sitting, lying down, and walking.
-It is life, and it is also cutting [life] off.[^T05-008][^MTP-AUDIT-C05-047][^MTP-AUDIT-C05-049][^MTP-AUDIT-C05-057][^MTP-AUDIT-C05-058][^MTP-AUDIT-C05-059][^MTP-AUDIT-C05-060][^MTP-AUDIT-C05-061][^MTP-AUDIT-C05-062][^MTP-AUDIT-C05-064][^MTP-AUDIT-C05-065]
+It is life, and it is also cutting [life] off.[^T05-008][^MTP-AUDIT-C05-047][^MTP-AUDIT-C05-049][^MTP-AUDIT-C05-057][^MTP-AUDIT-C05-058][^MTP-AUDIT-C05-059][^MTP-AUDIT-C05-060][^MTP-AUDIT-C05-061][^MTP-AUDIT-C05-062][^MTP-AUDIT-C05-064][^MTP-AUDIT-C05-065][^T05-L001][^T05-L002]
 
 <!-- pair: MTP-000205 -->
 
@@ -1254,7 +1254,7 @@ It is life, and it is also cutting [life] off.[^T05-008][^MTP-AUDIT-C05-047][^MT
 The three worlds arise from that;
 [it] appears as deities, mantra, and seals.
 [It] arises as virtue and its result;
-the ten perfections, too, are that.[^T05-009][^MTP-AUDIT-C05-062][^MTP-AUDIT-C05-064][^MTP-AUDIT-C05-066][^MTP-AUDIT-C05-067][^MTP-AUDIT-C05-068]
+the ten perfections, too, are that.[^T05-009][^MTP-AUDIT-C05-062][^MTP-AUDIT-C05-064][^MTP-AUDIT-C05-066][^MTP-AUDIT-C05-067][^MTP-AUDIT-C05-068][^T05-L001]
 
 <!-- pair: MTP-000207 -->
 
@@ -1274,7 +1274,7 @@ the great elements—arise from that.[^T05-010][^MTP-AUDIT-C05-062][^MTP-AUDIT-C
 <!-- pair: MTP-000209 -->
 
 Gods, demigods, and humans,
-hell beings, animals, and hungry ghosts[^T05-010][^MTP-AUDIT-C05-062][^MTP-AUDIT-C05-064][^MTP-AUDIT-C05-076][^MTP-AUDIT-C05-078]
+hell beings, animals, and hungry ghosts[^T05-010][^MTP-AUDIT-C05-062][^MTP-AUDIT-C05-064][^MTP-AUDIT-C05-076][^MTP-AUDIT-C05-078][^T05-L025]
 
 <!-- pair: MTP-000210 -->
 
@@ -1331,7 +1331,7 @@ all arise from my own identity.[^T05-015][^MTP-AUDIT-C05-076][^MTP-AUDIT-C05-078
 Men, women, horses, and cattle—
 all forms arise from that.
 Eating, lying down, and sitting,
-the various actions, arise.[^T05-015][^MTP-AUDIT-C05-095][^MTP-AUDIT-C05-097][^MTP-AUDIT-C05-099][^MTP-AUDIT-C05-100][^MTP-AUDIT-C05-101]
+the various actions, arise.[^T05-015][^MTP-AUDIT-C05-095][^MTP-AUDIT-C05-097][^MTP-AUDIT-C05-099][^MTP-AUDIT-C05-100][^MTP-AUDIT-C05-101][^T05-L005][^T05-L006]
 
 <!-- pair: MTP-000220 -->
 
@@ -1345,7 +1345,7 @@ is obscured by adventitious clouds of sentient beings.[^T05-001][^T05-016][^MTP-
 Even the undeluded nature of phenomena
 is endowed with an adventitious manner of delusion.
 Momentary, together with causes and conditions,
-although it appears thus with regard to objects,[^T05-016][^MTP-AUDIT-C05-095][^MTP-AUDIT-C05-097][^MTP-AUDIT-C05-104][^MTP-AUDIT-C05-105][^MTP-AUDIT-C05-106][^MTP-AUDIT-C05-107]
+although it appears thus with regard to objects,[^T05-016][^MTP-AUDIT-C05-095][^MTP-AUDIT-C05-097][^MTP-AUDIT-C05-104][^MTP-AUDIT-C05-105][^MTP-AUDIT-C05-106][^MTP-AUDIT-C05-107][^T05-L003]
 
 <!-- pair: MTP-000222 -->
 
@@ -1379,24 +1379,24 @@ there is no imputed delusion.[^T05-017][^MTP-AUDIT-C05-113][^MTP-AUDIT-C05-115][
 Because, as the name “phenomena,” [retained: དུམ་གྲགས་པས],
 there is not even the name of delusion imputed by the conceptual mind.
 Because it is not established as ordinary mind and mental faculty,
-the delusion that brings about movement is naturally absent.[^T05-018][^CH05-G000756][^MTP-AUDIT-C05-113][^MTP-AUDIT-C05-115][^MTP-AUDIT-C05-120][^MTP-AUDIT-C05-121][^MTP-AUDIT-C05-122][^MTP-AUDIT-C05-123]
+the delusion that brings about movement is naturally absent.[^T05-018][^CH05-G000756][^MTP-AUDIT-C05-113][^MTP-AUDIT-C05-115][^MTP-AUDIT-C05-120][^MTP-AUDIT-C05-121][^MTP-AUDIT-C05-122][^MTP-AUDIT-C05-123][^T05-L002]
 
 <!-- pair: MTP-000228 -->
 
 Because there are no two stains, subtle and coarse,
 delusion as a condition of arising is naturally absent.
 Because doing and the doer are not two,
-where is the delusion of apprehending objects?[^T05-019][^MTP-AUDIT-C05-113][^MTP-AUDIT-C05-115][^MTP-AUDIT-C05-124][^MTP-AUDIT-C05-125][^MTP-AUDIT-C05-126][^MTP-AUDIT-C05-127]
+where is the delusion of apprehending objects?[^T05-019][^MTP-AUDIT-C05-113][^MTP-AUDIT-C05-115][^MTP-AUDIT-C05-124][^MTP-AUDIT-C05-125][^MTP-AUDIT-C05-126][^MTP-AUDIT-C05-127][^T05-L007][^T05-L008]
 
 <!-- pair: MTP-000229 -->
 
 Because objects and faculties are not two,
-there is no delusion of apprehending objects.[^T05-019][^MTP-AUDIT-C05-113][^MTP-AUDIT-C05-115][^MTP-AUDIT-C05-128][^MTP-AUDIT-C05-129]
+there is no delusion of apprehending objects.[^T05-019][^MTP-AUDIT-C05-113][^MTP-AUDIT-C05-115][^MTP-AUDIT-C05-128][^MTP-AUDIT-C05-129][^T05-L003]
 
 <!-- pair: MTP-000230 -->
 
 O great lord of wrathful ones, listen well!
-In the phenomena appearing as intrinsic nature,[^T05-001][^T05-019][^MTP-AUDIT-C05-113][^MTP-AUDIT-C05-115][^MTP-AUDIT-C05-130][^MTP-AUDIT-C05-131][^MTP-AUDIT-C05-132][^MTP-AUDIT-C05-134][^MTP-AUDIT-C05-135]
+In the phenomena appearing as intrinsic nature,[^T05-001][^T05-019][^MTP-AUDIT-C05-113][^MTP-AUDIT-C05-115][^MTP-AUDIT-C05-130][^MTP-AUDIT-C05-131][^MTP-AUDIT-C05-132][^MTP-AUDIT-C05-134][^MTP-AUDIT-C05-135][^T05-L002]
 
 <!-- pair: MTP-000231 -->
 
@@ -1407,14 +1407,14 @@ In the phenomena appearing as intrinsic nature,[^T05-001][^T05-019][^MTP-AUDIT-C
 because there are no stains, subtle and coarse are reversed;
 because there is no apprehended object and apprehending subject, delusion is reversed.
 Because there is no movement, karmic wind is reversed;
-because there is unimpeded penetration, entities are reversed.[^T05-020][^MTP-AUDIT-C05-132][^MTP-AUDIT-C05-134][^MTP-AUDIT-C05-136][^MTP-AUDIT-C05-137][^MTP-AUDIT-C05-138]
+because there is unimpeded penetration, entities are reversed.[^T05-020][^MTP-AUDIT-C05-132][^MTP-AUDIT-C05-134][^MTP-AUDIT-C05-136][^MTP-AUDIT-C05-137][^MTP-AUDIT-C05-138][^T05-L009][^T05-L010]
 
 <!-- pair: MTP-000233 -->
 
 Because there is clarity, emptiness is reversed;
 because [it] is complete from the beginning, the generation stage is reversed.
 Because there is no exertion, activity is reversed;
-because [it] is left without seeking, cultivation is reversed.[^T05-020][^MTP-AUDIT-C05-132][^MTP-AUDIT-C05-134][^MTP-AUDIT-C05-139][^MTP-AUDIT-C05-140][^MTP-AUDIT-C05-141][^MTP-AUDIT-C05-142]
+because [it] is left without seeking, cultivation is reversed.[^T05-020][^MTP-AUDIT-C05-132][^MTP-AUDIT-C05-134][^MTP-AUDIT-C05-139][^MTP-AUDIT-C05-140][^MTP-AUDIT-C05-141][^MTP-AUDIT-C05-142][^T05-L011]
 
 <!-- pair: MTP-000234 -->
 
@@ -1445,7 +1445,7 @@ because [it] appears clearly, [it] expands as complete enjoyment embodiment.[^T0
 Because mother and child meet, [it] arises as emanation embodiment;
 because [it] exists as a sign, [it] arises as means.
 Because [it] is beyond thinking, mindfulness clears;
-because there is no permanence or annihilation, philosophical tenets are complete.[^T05-021][^MTP-AUDIT-C05-154][^MTP-AUDIT-C05-155][^MTP-AUDIT-C05-156][^MTP-AUDIT-C05-157][^MTP-AUDIT-C05-272]
+because there is no permanence or annihilation, philosophical tenets are complete.[^T05-021][^MTP-AUDIT-C05-154][^MTP-AUDIT-C05-155][^MTP-AUDIT-C05-156][^MTP-AUDIT-C05-157][^MTP-AUDIT-C05-272][^T05-L012]
 
 <!-- pair: MTP-000239 -->
 
@@ -1470,7 +1470,7 @@ because there is no material encumbrance, [there is] unimpeded penetration.[^T05
 Because [it] abides liberated, [it] is called “reversed”;
 because variety has cleared, [it] is called “purified.”
 Because [it] is not two, [it] is the single one;
-because [it] generates everything, [it] is called “cause.”[^T05-023][^CH05-G000803][^MTP-AUDIT-C05-166][^MTP-AUDIT-C05-167][^MTP-AUDIT-C05-168][^MTP-AUDIT-C05-169][^MTP-AUDIT-C05-275]
+because [it] generates everything, [it] is called “cause.”[^T05-023][^CH05-G000803][^MTP-AUDIT-C05-166][^MTP-AUDIT-C05-167][^MTP-AUDIT-C05-168][^MTP-AUDIT-C05-169][^MTP-AUDIT-C05-275][^T05-L037]
 
 <!-- pair: MTP-000243 -->
 
@@ -1484,7 +1484,7 @@ because [it] is beyond number, [it] is called “reckoning.”[^T05-023][^MTP-AU
 <!-- pair: MTP-000244 -->
 
 Such ordinary mind itself
-is like a jewel, fulfilling needs and desires;[^T05-024][^MTP-AUDIT-C05-176][^MTP-AUDIT-C05-177][^MTP-AUDIT-C05-275][^MTP-AUDIT-C05-278]
+is like a jewel, fulfilling needs and desires;[^T05-024][^MTP-AUDIT-C05-176][^MTP-AUDIT-C05-177][^MTP-AUDIT-C05-275][^MTP-AUDIT-C05-278][^T05-L022]
 
 <!-- pair: MTP-000245 -->
 
@@ -1495,7 +1495,7 @@ is like a jewel, fulfilling needs and desires;[^T05-024][^MTP-AUDIT-C05-176][^MT
 like a treasury, containing all that is needed;
 like a mirror, where whatever is shown appears;
 like a stainless, clear crystal orb;
-various appearances—a brocade tent.[^T05-024][^MTP-AUDIT-C05-178][^MTP-AUDIT-C05-179][^MTP-AUDIT-C05-180][^MTP-AUDIT-C05-181][^MTP-AUDIT-C05-278]
+various appearances—a brocade tent.[^T05-024][^MTP-AUDIT-C05-178][^MTP-AUDIT-C05-179][^MTP-AUDIT-C05-180][^MTP-AUDIT-C05-181][^MTP-AUDIT-C05-278][^T05-L022]
 
 <!-- pair: MTP-000247 -->
 
@@ -1504,7 +1504,7 @@ complete in the expressiveness of view, [it] is like a lion.
 Because [it] pervades with complete depth, [it] is like the ocean;
 naturally arising and liberated, [it] is like space.
 Because everything rests upon [it], [it] is like the earth;
-[it] is exceptionally exalted above all objects.[^T05-024][^MTP-AUDIT-C05-182][^MTP-AUDIT-C05-183][^MTP-AUDIT-C05-184][^MTP-AUDIT-C05-185][^MTP-AUDIT-C05-186][^MTP-AUDIT-C05-187][^MTP-AUDIT-C05-278]
+[it] is exceptionally exalted above all objects.[^T05-024][^MTP-AUDIT-C05-182][^MTP-AUDIT-C05-183][^MTP-AUDIT-C05-184][^MTP-AUDIT-C05-185][^MTP-AUDIT-C05-186][^MTP-AUDIT-C05-187][^MTP-AUDIT-C05-278][^T05-L014]
 
 <!-- pair: MTP-000248 -->
 
@@ -1512,7 +1512,7 @@ Within awareness without cessation,
 because there is no delusion, there is no conceptual thought.
 Because there is primordial liberation, [it] is utterly exalted;
 because there is self-liberation, object-conditions are exhausted.
-Because there is naked liberation, appearances are pure.[^T05-025][^MTP-AUDIT-C05-188][^MTP-AUDIT-C05-189][^MTP-AUDIT-C05-190][^MTP-AUDIT-C05-191][^MTP-AUDIT-C05-192][^MTP-AUDIT-C05-278][^MTP-AUDIT-C05-281]
+Because there is naked liberation, appearances are pure.[^T05-025][^MTP-AUDIT-C05-188][^MTP-AUDIT-C05-189][^MTP-AUDIT-C05-190][^MTP-AUDIT-C05-191][^MTP-AUDIT-C05-192][^MTP-AUDIT-C05-278][^MTP-AUDIT-C05-281][^T05-L014][^T05-L023]
 
 <!-- pair: MTP-000249 -->
 
@@ -1528,21 +1528,21 @@ because there is liberation of one, the many are emptied.[^T05-025][^MTP-AUDIT-C
 Since conditions are liberated through conditions,
 I do not depend on phenomena that are objects of focus.
 Since objects are liberated through objects,
-I do not depend on the two, apprehended object and apprehending subject.[^T05-026][^MTP-AUDIT-C05-194][^MTP-AUDIT-C05-195][^MTP-AUDIT-C05-196][^MTP-AUDIT-C05-197][^MTP-AUDIT-C05-281]
+I do not depend on the two, apprehended object and apprehending subject.[^T05-026][^MTP-AUDIT-C05-194][^MTP-AUDIT-C05-195][^MTP-AUDIT-C05-196][^MTP-AUDIT-C05-197][^MTP-AUDIT-C05-281][^T05-L013][^T05-L015]
 
 <!-- pair: MTP-000252 -->
 
 When the cause itself is liberated through the cause,
 [there is] no dependence on saṃsāra and nirvāṇa, the two—[retained: ལང].
 When phenomena are liberated through phenomena,
-I do not depend on words of designation.[^T05-026][^CH05-G000838][^MTP-AUDIT-C05-198][^MTP-AUDIT-C05-199][^MTP-AUDIT-C05-200][^MTP-AUDIT-C05-201][^MTP-AUDIT-C05-281]
+I do not depend on words of designation.[^T05-026][^CH05-G000838][^MTP-AUDIT-C05-198][^MTP-AUDIT-C05-199][^MTP-AUDIT-C05-200][^MTP-AUDIT-C05-201][^MTP-AUDIT-C05-281][^T05-L013][^T05-L015][^T05-L016][^T05-L039]
 
 <!-- pair: MTP-000253 -->
 
 When ordinary mind itself is liberated through ordinary mind,
 I do not depend on the conceptual mind that indicates.
 Just as stain is deluded through stain,
-that purity is liberated through purity.[^T05-026][^MTP-AUDIT-C05-202][^MTP-AUDIT-C05-203][^MTP-AUDIT-C05-204][^MTP-AUDIT-C05-281]
+that purity is liberated through purity.[^T05-026][^MTP-AUDIT-C05-202][^MTP-AUDIT-C05-203][^MTP-AUDIT-C05-204][^MTP-AUDIT-C05-281][^T05-L009]
 
 <!-- pair: MTP-000254 -->
 
@@ -1558,21 +1558,21 @@ iron is cleaved by iron,[^T05-027][^MTP-AUDIT-C05-205][^MTP-AUDIT-C05-281][^MTP-
 stones are broken by stone,
 and wood is burned by wood,
 each makes its own enemy itself;
-liberation does not come through an incompatible kind.[^T05-027][^MTP-AUDIT-C05-206][^MTP-AUDIT-C05-207][^MTP-AUDIT-C05-208][^MTP-AUDIT-C05-284]
+liberation does not come through an incompatible kind.[^T05-027][^MTP-AUDIT-C05-206][^MTP-AUDIT-C05-207][^MTP-AUDIT-C05-208][^MTP-AUDIT-C05-284][^T05-L013]
 
 <!-- pair: MTP-000257 -->
 
 Therefore, in awareness abiding in the Ground,
 because there is self-arising, appearance is complete;
 because there is natural arising, the Ground itself is complete;
-because there is self-appearance, objects too are complete.[^T05-028][^MTP-AUDIT-C05-209][^MTP-AUDIT-C05-210][^MTP-AUDIT-C05-211][^MTP-AUDIT-C05-212][^MTP-AUDIT-C05-284]
+because there is self-appearance, objects too are complete.[^T05-028][^MTP-AUDIT-C05-209][^MTP-AUDIT-C05-210][^MTP-AUDIT-C05-211][^MTP-AUDIT-C05-212][^MTP-AUDIT-C05-284][^T05-L013]
 
 <!-- pair: MTP-000258 -->
 
 Because there is self-liberation, the Ground of delusion is complete;
 because there is self-purification, all paths are complete.
 Because there is self-awareness, what is to be known is complete;
-because there is self-pervasion, the result is complete.[^T05-028][^MTP-AUDIT-C05-213][^MTP-AUDIT-C05-214][^MTP-AUDIT-C05-215][^MTP-AUDIT-C05-284]
+because there is self-pervasion, the result is complete.[^T05-028][^MTP-AUDIT-C05-213][^MTP-AUDIT-C05-214][^MTP-AUDIT-C05-215][^MTP-AUDIT-C05-284][^T05-L017]
 
 <!-- pair: MTP-000259 -->
 
@@ -1580,7 +1580,7 @@ Because [it] is its own place, causes and conditions are complete;
 because [it] is realized by itself, the nature of phenomena is complete.
 Because there is self-reversal, saṃsāra and nirvāṇa are complete;
 because there is self-abiding, tantras and scriptural transmissions are complete.
-Because there is self-completeness, [it] is complete at one time.[^T05-028][^MTP-AUDIT-C05-216][^MTP-AUDIT-C05-217][^MTP-AUDIT-C05-218][^MTP-AUDIT-C05-284][^MTP-AUDIT-C05-287]
+Because there is self-completeness, [it] is complete at one time.[^T05-028][^MTP-AUDIT-C05-216][^MTP-AUDIT-C05-217][^MTP-AUDIT-C05-218][^MTP-AUDIT-C05-284][^MTP-AUDIT-C05-287][^T05-L013][^T05-L016][^T05-L018]
 
 <!-- pair: MTP-000260 -->
 
@@ -1598,7 +1598,7 @@ Emaho!
 The dharma embodiment of great self-completeness:
 because [it] is pure from the beginning, stains are exhausted;
 because [it] arose at the beginning, transmission is exhausted;
-because [it] is without a counterpart, [it] is beyond reckoning.[^T05-029][^MTP-AUDIT-C05-221][^MTP-AUDIT-C05-222][^MTP-AUDIT-C05-223][^MTP-AUDIT-C05-287]
+because [it] is without a counterpart, [it] is beyond reckoning.[^T05-029][^MTP-AUDIT-C05-221][^MTP-AUDIT-C05-222][^MTP-AUDIT-C05-223][^MTP-AUDIT-C05-287][^T05-L009][^T05-L019]
 
 <!-- pair: MTP-000263 -->
 
@@ -1606,14 +1606,14 @@ Without a cause of suffering—great bliss;
 without a cause of expression—beyond speech and thinking.
 Primordial self-awareness is completely pure awareness.
 Because outflows are exhausted, [it] is not materially encumbered;
-because [retained: དངོས་པོ་བཟོད], [it] abides empty.[^T05-029][^MTP-AUDIT-C05-224][^MTP-AUDIT-C05-225][^MTP-AUDIT-C05-226][^MTP-AUDIT-C05-227][^MTP-AUDIT-C05-287]
+because [retained: དངོས་པོ་བཟོད], [it] abides empty.[^T05-029][^MTP-AUDIT-C05-224][^MTP-AUDIT-C05-225][^MTP-AUDIT-C05-226][^MTP-AUDIT-C05-227][^MTP-AUDIT-C05-287][^T05-L020][^T05-L021]
 
 <!-- pair: MTP-000264 -->
 
 The essence itself, not increased by the two,
 is beyond extremes because [it] is free from phenomena.
 Clear and free from conceptualization, movement clears;
-without the two, inert matter and awareness, the two accumulations are complete.[^T05-030][^MTP-AUDIT-C05-228][^MTP-AUDIT-C05-229][^MTP-AUDIT-C05-230][^MTP-AUDIT-C05-231][^MTP-AUDIT-C05-232][^MTP-AUDIT-C05-287][^MTP-AUDIT-C05-290]
+without the two, inert matter and awareness, the two accumulations are complete.[^T05-030][^MTP-AUDIT-C05-228][^MTP-AUDIT-C05-229][^MTP-AUDIT-C05-230][^MTP-AUDIT-C05-231][^MTP-AUDIT-C05-232][^MTP-AUDIT-C05-287][^MTP-AUDIT-C05-290][^T05-L015]
 
 <!-- pair: MTP-000265 -->
 
@@ -1631,14 +1631,14 @@ Without ordinary mind that thinks, [it] is free from mindfulness.[^T05-031][^MTP
 It is freshness itself—[retained: གཉུག་མའི་རང];
 supremely uncontrived, [it] abides authentically.
 With regard to what is to be known, [it] is established just as it settles;
-not before, not later, not from the beginning.[^T05-031][^MTP-AUDIT-C05-236][^MTP-AUDIT-C05-237][^MTP-AUDIT-C05-238][^MTP-AUDIT-C05-239][^MTP-AUDIT-C05-290]
+not before, not later, not from the beginning.[^T05-031][^MTP-AUDIT-C05-236][^MTP-AUDIT-C05-237][^MTP-AUDIT-C05-238][^MTP-AUDIT-C05-239][^MTP-AUDIT-C05-290][^T05-L024]
 
 <!-- pair: MTP-000268 -->
 
 [It] is not movement; mindfulness abides.
 The single ordinary mind that pervades all—
 philosophical limits complete—is the foremost portion;
-[it] is established at the beginning, middle, and end.[^T05-031][^MTP-AUDIT-C05-240][^MTP-AUDIT-C05-241][^MTP-AUDIT-C05-242][^MTP-AUDIT-C05-243][^MTP-AUDIT-C05-290][^MTP-AUDIT-C05-298]
+[it] is established at the beginning, middle, and end.[^T05-031][^MTP-AUDIT-C05-240][^MTP-AUDIT-C05-241][^MTP-AUDIT-C05-242][^MTP-AUDIT-C05-243][^MTP-AUDIT-C05-290][^MTP-AUDIT-C05-298][^T05-L040]
 
 <!-- pair: MTP-000269 -->
 
@@ -1656,7 +1656,7 @@ The result abides of itself primordially;
 primordially, it cannot be contrived through phenomena.
 Primordially, it is free from being sustained by philosophical tenets;
 primordially, it is unstained by the five poisons.
-Where could there be gathering or separation of saṃsāra and nirvāṇa?[^T05-033][^CH05-G000902][^MTP-AUDIT-C05-246][^MTP-AUDIT-C05-247][^MTP-AUDIT-C05-248][^MTP-AUDIT-C05-249][^MTP-AUDIT-C05-250][^MTP-AUDIT-C05-293]
+Where could there be gathering or separation of saṃsāra and nirvāṇa?[^T05-033][^CH05-G000902][^MTP-AUDIT-C05-246][^MTP-AUDIT-C05-247][^MTP-AUDIT-C05-248][^MTP-AUDIT-C05-249][^MTP-AUDIT-C05-250][^MTP-AUDIT-C05-293][^T05-L027]
 
 <!-- pair: MTP-000272 -->
 
@@ -1671,7 +1671,7 @@ Intrinsic nature, all-pervading—how great its spread!
 Compassionate responsiveness, source of all—how great [retained: སྐྱོ]!
 Pervasion, primordial radiance—how clear its brilliance!
 Abiding, unobstructed—how swift its pace!
-Awareness’s own radiance—how clear its light![^T05-034][^MTP-AUDIT-C05-255][^MTP-AUDIT-C05-256][^MTP-AUDIT-C05-257][^MTP-AUDIT-C05-258][^MTP-AUDIT-C05-259][^MTP-AUDIT-C05-293]
+Awareness’s own radiance—how clear its light![^T05-034][^MTP-AUDIT-C05-255][^MTP-AUDIT-C05-256][^MTP-AUDIT-C05-257][^MTP-AUDIT-C05-258][^MTP-AUDIT-C05-259][^MTP-AUDIT-C05-293][^T05-L031]
 
 <!-- pair: MTP-000274 -->
 
@@ -1689,20 +1689,20 @@ Appearance and existence arise as the Ground—its height rises by stages.[^T05-
 Effortless self-liberation—how vast its extent!
 Great primordial realization—how skilled its turning!
 Endowed with five colors—how well painted!
-Completely pure appearance and existence—how even within![^T05-035][^MTP-AUDIT-C05-263][^MTP-AUDIT-C05-264][^MTP-AUDIT-C05-296]
+Completely pure appearance and existence—how even within![^T05-035][^MTP-AUDIT-C05-263][^MTP-AUDIT-C05-264][^MTP-AUDIT-C05-296][^T05-L031]
 
 <!-- pair: MTP-000277 -->
 
 Naturally arising clear light—how well arranged!
 Great Ground-appearance—how vast its capacity!
 The two, saṃsāra and nirvāṇa—how skillfully connected!
-Five embodiments and primordial knowing—how well arrayed in layers![^T05-035][^MTP-AUDIT-C05-265][^MTP-AUDIT-C05-266][^MTP-AUDIT-C05-267][^MTP-AUDIT-C05-268][^MTP-AUDIT-C05-296]
+Five embodiments and primordial knowing—how well arrayed in layers![^T05-035][^MTP-AUDIT-C05-265][^MTP-AUDIT-C05-266][^MTP-AUDIT-C05-267][^MTP-AUDIT-C05-268][^MTP-AUDIT-C05-296][^T05-L016]
 
 <!-- pair: MTP-000278 -->
 
 In the essence abiding as intrinsic nature,
 there are no buddhas and no sentient beings;
-there is no ignorance and no delusion.[^T05-036][^MTP-AUDIT-C05-269][^MTP-AUDIT-C05-270][^MTP-AUDIT-C05-296][^MTP-AUDIT-C05-299]
+there is no ignorance and no delusion.[^T05-036][^MTP-AUDIT-C05-269][^MTP-AUDIT-C05-270][^MTP-AUDIT-C05-296][^MTP-AUDIT-C05-299][^T05-L025]
 
 <!-- pair: MTP-000279 -->
 
@@ -1713,21 +1713,21 @@ there is no ignorance and no delusion.[^T05-036][^MTP-AUDIT-C05-269][^MTP-AUDIT-
 There is no ordinary mind, nor is there mental faculty;
 there are no enemies, friends, or kin.
 There are no afflictions and no grasping at “I”;
-there is no going and no coming.[^T05-036][^MTP-AUDIT-C05-300][^MTP-AUDIT-C05-301][^MTP-AUDIT-C05-302][^MTP-AUDIT-C05-303][^MTP-AUDIT-C05-398][^MTP-AUDIT-C05-399]
+there is no going and no coming.[^T05-036][^MTP-AUDIT-C05-300][^MTP-AUDIT-C05-301][^MTP-AUDIT-C05-302][^MTP-AUDIT-C05-303][^MTP-AUDIT-C05-398][^MTP-AUDIT-C05-399][^T05-L026]
 
 <!-- pair: MTP-000281 -->
 
 There are no phenomena and no appearing as phenomena;
 there are no means, nor discerning knowing itself.
 There are no aggregates, nor elements;
-there are no objects, nothing to be apprehended.[^T05-036][^MTP-AUDIT-C05-304][^MTP-AUDIT-C05-305][^MTP-AUDIT-C05-306][^MTP-AUDIT-C05-307][^MTP-AUDIT-C05-398][^MTP-AUDIT-C05-399]
+there are no objects, nothing to be apprehended.[^T05-036][^MTP-AUDIT-C05-304][^MTP-AUDIT-C05-305][^MTP-AUDIT-C05-306][^MTP-AUDIT-C05-307][^MTP-AUDIT-C05-398][^MTP-AUDIT-C05-399][^T05-L027][^T05-L028][^T05-L029]
 
 <!-- pair: MTP-000282 -->
 
 There are no faculties, nor objects;
 there is what is to be apprehended, and no apprehending subject.
 There are no embodiments, nor primordial knowing itself;
-there is no lord of knowing and what is to be known.[^T05-036][^MTP-AUDIT-C05-308][^MTP-AUDIT-C05-309][^MTP-AUDIT-C05-310][^MTP-AUDIT-C05-398][^MTP-AUDIT-C05-399]
+there is no lord of knowing and what is to be known.[^T05-036][^MTP-AUDIT-C05-308][^MTP-AUDIT-C05-309][^MTP-AUDIT-C05-310][^MTP-AUDIT-C05-398][^MTP-AUDIT-C05-399][^T05-L029][^T05-L030]
 
 <!-- pair: MTP-000283 -->
 
@@ -1735,7 +1735,7 @@ There is no light, nor color;
 there is no sound, no smell or the like.
 There is no desire and no clinging;
 there is no basic space, nor a measureless palace.
-There is no deity; [it] is beyond the object of offering.[^T05-037][^CH05-G000944][^MTP-AUDIT-C05-311][^MTP-AUDIT-C05-312][^MTP-AUDIT-C05-313][^MTP-AUDIT-C05-314][^MTP-AUDIT-C05-398][^MTP-AUDIT-C05-399][^MTP-AUDIT-C05-400][^MTP-AUDIT-C05-401]
+There is no deity; [it] is beyond the object of offering.[^T05-037][^CH05-G000944][^MTP-AUDIT-C05-311][^MTP-AUDIT-C05-312][^MTP-AUDIT-C05-313][^MTP-AUDIT-C05-314][^MTP-AUDIT-C05-398][^MTP-AUDIT-C05-399][^MTP-AUDIT-C05-400][^MTP-AUDIT-C05-401][^T05-L031]
 
 <!-- pair: MTP-000284 -->
 
@@ -1746,14 +1746,14 @@ There is no deity; [it] is beyond the object of offering.[^T05-037][^CH05-G00094
 O Lord of Secrets, holder of the vajra!
 In the appearance of the great distinction,
 existence and nonexistence, the two, arise—
-what is called “[retained: སྤྱིས་གཞི], Ground of delusion.”[^T05-038][^MTP-AUDIT-C05-315][^MTP-AUDIT-C05-316][^MTP-AUDIT-C05-317][^MTP-AUDIT-C05-400][^MTP-AUDIT-C05-401]
+what is called “[retained: སྤྱིས་གཞི], Ground of delusion.”[^T05-038][^MTP-AUDIT-C05-315][^MTP-AUDIT-C05-316][^MTP-AUDIT-C05-317][^MTP-AUDIT-C05-400][^MTP-AUDIT-C05-401][^T05-L042]
 
 <!-- pair: MTP-000286 -->
 
 Because [it] is mixed with ignorance itself,
 even what is to be known appears as stain.
 Because mindfulness and thinking arise from ordinary mind,
-the essence itself, through conceptual thought—[retained: སྔགས].[^T05-038][^MTP-AUDIT-C05-318][^MTP-AUDIT-C05-319][^MTP-AUDIT-C05-320][^MTP-AUDIT-C05-400][^MTP-AUDIT-C05-401]
+the essence itself, through conceptual thought—[retained: སྔགས].[^T05-038][^MTP-AUDIT-C05-318][^MTP-AUDIT-C05-319][^MTP-AUDIT-C05-320][^MTP-AUDIT-C05-400][^MTP-AUDIT-C05-401][^T05-L030][^T05-L032]
 
 <!-- pair: MTP-000287 -->
 
@@ -1776,7 +1776,7 @@ appearance itself arises as many.[^T05-039][^MTP-AUDIT-C05-325][^MTP-AUDIT-C05-3
 Because that very appearance appears as objects,
 wind rests on space, and on that, water;
 with eleven hundred-thousands,
-[it] forms into a rolled sphere.[^T05-040][^MTP-AUDIT-C05-327][^MTP-AUDIT-C05-328][^MTP-AUDIT-C05-329][^MTP-AUDIT-C05-402][^MTP-AUDIT-C05-403]
+[it] forms into a rolled sphere.[^T05-040][^MTP-AUDIT-C05-327][^MTP-AUDIT-C05-328][^MTP-AUDIT-C05-329][^MTP-AUDIT-C05-402][^MTP-AUDIT-C05-403][^T05-L033]
 
 <!-- pair: MTP-000291 -->
 
@@ -1818,7 +1818,7 @@ the three realms—depend on that.[^T05-042][^MTP-AUDIT-C05-341][^MTP-AUDIT-C05-
 
 Not existing, and nothing at all,
 and not the slightest consciousness—
-the formless ones arise from that.[^T05-043][^MTP-AUDIT-C05-344][^MTP-AUDIT-C05-345][^MTP-AUDIT-C05-346][^MTP-AUDIT-C05-404][^MTP-AUDIT-C05-405]
+the formless ones arise from that.[^T05-043][^MTP-AUDIT-C05-344][^MTP-AUDIT-C05-345][^MTP-AUDIT-C05-346][^MTP-AUDIT-C05-404][^MTP-AUDIT-C05-405][^T05-L041]
 
 <!-- pair: MTP-000298 -->
 
@@ -1830,7 +1830,7 @@ Akaniṣṭha and the like, desire.[^T05-043][^MTP-AUDIT-C05-347][^MTP-AUDIT-C05
 
 For gods and demigods,
 [there is] higher existence; then the three places—
-animals, hungry ghosts, and hell beings;[^T05-043][^CH05-G000994][^MTP-AUDIT-C05-350][^MTP-AUDIT-C05-351][^MTP-AUDIT-C05-352][^MTP-AUDIT-C05-404][^MTP-AUDIT-C05-405][^MTP-AUDIT-C05-406][^MTP-AUDIT-C05-407]
+animals, hungry ghosts, and hell beings;[^T05-043][^CH05-G000994][^MTP-AUDIT-C05-350][^MTP-AUDIT-C05-351][^MTP-AUDIT-C05-352][^MTP-AUDIT-C05-404][^MTP-AUDIT-C05-405][^MTP-AUDIT-C05-406][^MTP-AUDIT-C05-407][^T05-L025]
 
 <!-- pair: MTP-000300 -->
 
@@ -1838,7 +1838,7 @@ animals, hungry ghosts, and hell beings;[^T05-043][^CH05-G000994][^MTP-AUDIT-C05
 
 <!-- pair: MTP-000301 -->
 
-those sentient beings [have] four births.[^T05-043][^MTP-AUDIT-C05-353][^MTP-AUDIT-C05-406][^MTP-AUDIT-C05-407]
+those sentient beings [have] four births.[^T05-043][^MTP-AUDIT-C05-353][^MTP-AUDIT-C05-406][^MTP-AUDIT-C05-407][^T05-L025]
 
 <!-- pair: MTP-000302 -->
 
@@ -1847,7 +1847,7 @@ with form, youth, and bodily signs,
 their bodies pervaded by intense light and luster,
 [had] food of merit, such as wish-yielding [food];
 the lifespan of creatures, too, was eighty thousand,
-and there were no male or female organs.[^T05-044][^MTP-AUDIT-C05-354][^MTP-AUDIT-C05-355][^MTP-AUDIT-C05-356][^MTP-AUDIT-C05-357][^MTP-AUDIT-C05-358][^MTP-AUDIT-C05-406][^MTP-AUDIT-C05-407]
+and there were no male or female organs.[^T05-044][^MTP-AUDIT-C05-354][^MTP-AUDIT-C05-355][^MTP-AUDIT-C05-356][^MTP-AUDIT-C05-357][^MTP-AUDIT-C05-358][^MTP-AUDIT-C05-406][^MTP-AUDIT-C05-407][^T05-L025][^T05-L031][^T05-L005]
 
 <!-- pair: MTP-000303 -->
 
@@ -1855,7 +1855,7 @@ Then, from the two causes of delusion,
 afflictions such as desire
 gradually became coarse.
 Gates, such as the faculties, emerged;
-because merit was exhausted, light and the like diminished.[^T05-044][^MTP-AUDIT-C05-359][^MTP-AUDIT-C05-360][^MTP-AUDIT-C05-361][^MTP-AUDIT-C05-362][^MTP-AUDIT-C05-406][^MTP-AUDIT-C05-407]
+because merit was exhausted, light and the like diminished.[^T05-044][^MTP-AUDIT-C05-359][^MTP-AUDIT-C05-360][^MTP-AUDIT-C05-361][^MTP-AUDIT-C05-362][^MTP-AUDIT-C05-406][^MTP-AUDIT-C05-407][^T05-L026][^T05-L029][^T05-L031][^T05-L034]
 
 <!-- pair: MTP-000304 -->
 
@@ -1876,7 +1876,7 @@ five aggregates and five faculties,
 five limbs and five vital organs,
 five objects and five afflictions,
 five ordinary minds, five mental faculties, five conceptual thoughts—
-are established as saṃsāra of apprehended object and apprehending subject.[^T05-045][^MTP-AUDIT-C05-365][^MTP-AUDIT-C05-366][^MTP-AUDIT-C05-367][^MTP-AUDIT-C05-368][^MTP-AUDIT-C05-369][^MTP-AUDIT-C05-370][^MTP-AUDIT-C05-408][^MTP-AUDIT-C05-409]
+are established as saṃsāra of apprehended object and apprehending subject.[^T05-045][^MTP-AUDIT-C05-365][^MTP-AUDIT-C05-366][^MTP-AUDIT-C05-367][^MTP-AUDIT-C05-368][^MTP-AUDIT-C05-369][^MTP-AUDIT-C05-370][^MTP-AUDIT-C05-408][^MTP-AUDIT-C05-409][^T05-L026][^T05-L029][^T05-L035]
 
 <!-- pair: MTP-000308 -->
 
@@ -1918,7 +1918,7 @@ without relation to authenticity itself.[^T05-047][^CH05-G001032][^MTP-AUDIT-C05
 From the basic space of emptiness,
 all is liberated as its essence.
 Since awareness, empty and clear, pervades greatly,
-the inhabitants are gathered into the core itself.[^T05-047][^MTP-AUDIT-C05-385][^MTP-AUDIT-C05-386][^MTP-AUDIT-C05-387][^MTP-AUDIT-C05-388][^MTP-AUDIT-C05-410][^MTP-AUDIT-C05-411][^MTP-AUDIT-C05-412][^MTP-AUDIT-C05-413]
+the inhabitants are gathered into the core itself.[^T05-047][^MTP-AUDIT-C05-385][^MTP-AUDIT-C05-386][^MTP-AUDIT-C05-387][^MTP-AUDIT-C05-388][^MTP-AUDIT-C05-410][^MTP-AUDIT-C05-411][^MTP-AUDIT-C05-412][^MTP-AUDIT-C05-413][^T05-L036][^T05-L037]
 
 <!-- pair: MTP-000315 -->
 
@@ -1931,7 +1931,7 @@ the five embodiments and five primordial knowings,
 five lights, five aspects of color,
 five phenomena, five winds of primordial knowing,
 five essences and five intrinsic natures—
-with five compassionate responsivenesses, [it] pervades all.[^T05-048][^MTP-AUDIT-C05-389][^MTP-AUDIT-C05-390][^MTP-AUDIT-C05-391][^MTP-AUDIT-C05-392][^MTP-AUDIT-C05-393][^MTP-AUDIT-C05-412][^MTP-AUDIT-C05-413]
+with five compassionate responsivenesses, [it] pervades all.[^T05-048][^MTP-AUDIT-C05-389][^MTP-AUDIT-C05-390][^MTP-AUDIT-C05-391][^MTP-AUDIT-C05-392][^MTP-AUDIT-C05-393][^MTP-AUDIT-C05-412][^MTP-AUDIT-C05-413][^T05-L027][^T05-L031][^T05-L036]
 
 <!-- pair: MTP-000317 -->
 
@@ -3726,7 +3726,7 @@ the fifth chapter, which teaches the natural state and delusion as self-complete
 
 [^T05-035]: Golden-v1 chapter 5, S915, S916, S917, S918, S919, S920, S921, S922, S923, S924, S925, S926 (printed 471). The exclamatory praise continues without supplying new named agents. S916 རྒྱུན is provisionally continuity, distinct in spelling and recorded output from canonical continuum རྒྱུད. S917 རང་བྱུང is provisional naturally arising. S918 སྣང་སྲིད is provisionally appearance and existence; གཞིར་བཞེངས is arises as the Ground; དཔངས་རིམ་ཐོ is tentatively its height rises by stages, a spatial image whose scope remains open. S920 ཡེ་རྟོགས is primordial realization, a local compound retaining realization; འཁོར་རེ་མཁས is tentatively how skilled its turning, not automatically a retinue. S922 ཁོང་རེ་སྙོམས is how even within. S926 preserves five embodiments and primordial knowing without supplying an unexpressed second five; བརྩེགས is arrayed in layers. Review these images rather than normalizing them into doctrinal definitions.
 
-[^T05-036]: Golden-v1 chapter 5, S927, S928, S929, S931, S932, S933, S934, S935, S936, S937, S938, S939, S940, S941, S942 (printed 471–472). S927 རང་བཞིན་གནས་པའི་ངོ་བོ is tentatively essence abiding as intrinsic nature; attachment of intrinsic nature to abiding could differ. The following list keeps each absence and the distinctions ordinary mind / mental faculty / awareness-family knowing. S933 ངར་འཛིན is provisionally grasping at “I,” a complete construction, not a generic replacement for canonical apprehending subject. S938 འཛིན་པར་བྱ་བ is the verbal prospective nothing to be apprehended. Crucially, S940 fixed གཟུང་བར་བྱ་ཞིང་འཛིན་པ་མེད does not negate its first clause: “there is what is to be apprehended, and no apprehending subject.” The draft does not carry earlier negatives backward to erase that positive wording. S942 ཤེས is the short knowing form; lord of knowing and what is to be known preserves the ownership relation, without inventing a theory of an external knower. Review these scope and attachment questions.
+[^T05-036]: Golden-v1 chapter 5, S927, S928, S929, S931, S932, S933, S934, S935, S936, S937, S938, S939, S940, S941, S942 (printed 471–472). S927 རང་བཞིན་གནས་པའི་ངོ་བོ is tentatively essence abiding as intrinsic nature; attachment of intrinsic nature to abiding could differ. The following list keeps each absence and the distinctions ordinary mind / mental faculty / awareness-family knowing. S933 ངར་འཛིན is provisionally grasping at “I,” a complete construction, not a generic replacement for canonical apprehending subject. S938 འཛིན་པར་བྱ་བ is the verbal prospective nothing to be apprehended. At S940 fixed གཟུང་བར་བྱ་ཞིང་འཛིན་པ་མེད, the draft tentatively reads a positive first clause: “there is what is to be apprehended, and no apprehending subject.” The lack of a separate negative before ཞིང does not settle its scope: final མེད can plausibly negate both coordinated members, giving “neither what is to be apprehended nor an apprehending subject.” The surrounding negative sequence supports considering that alternative. The present choice remains provisional, not a claim that the source requires a positive first clause. S942 ཤེས is the short knowing form; lord of knowing and what is to be known preserves the ownership relation, without inventing a theory of an external knower. Review these scope and attachment questions.
 
 [^T05-037]: Golden-v1 chapter 5, S943, S944, S945, S946, S947 (printed 472). S944 སྒྲ is provisionally sound in the sensory pairing with smell, an explicit local exception proposal against canonical word; the golden-corrected དྲི་ལ is retained in the source and supports smell and the like. S945 འདོད་པ is desire, an uncovered nominal form distinct from the clinging entry. S946 གཞལ་ཡས་ཁང is provisionally measureless palace, not the separate object-of-comprehension term merely because both begin གཞལ. S947 keeps beyond the object of offering, without silently turning it into a further simple existential negative. The bare light, color, deity, object and offering senses remain local proposals.
 
@@ -3746,7 +3746,7 @@ the fifth chapter, which teaches the natural state and delusion as self-complete
 
 [^T05-045]: Golden-v1 chapter 5, S1011, S1012, S1013, S1014, S1015, S1016, S1017, S1018, S1019 (printed 477). All explicit fives are retained without supplying taxonomies. S1013 དོན་སྙིང is provisionally vital organs as an anatomical compound beside limbs, not a mechanical combination of canonical meaning and provisional core. S1015 keeps five ordinary minds, five mental faculties and five conceptual thoughts distinct. S1016 གཟུང་འཛིན་འཁོར་བ is tentatively saṃsāra of apprehended object and apprehending subject; the relationship is compressed but both canonical members remain. S1017 གཉིས་སྣང is provisional twofold appearance. S1018 མྱུར་འགྲོའི་འཁོར་ལོ is a swiftly moving wheel, without importing a special named apparatus. S1019 རྒྱུད་ཆགས keeps continuum in a connected-continuum construction, while འཁོར is verbal revolves here; neither is automatically the scripture-context tantra or saṃsāra sense. Review the numbered referents and final relation.
 
-[^T05-046]: Golden-v1 chapter 5, S1020, S1021, S1023, S1024, S1025, S1026, S1027, S1028, S1029, S1030 (printed 477–478). S1021/S1028 fixed སྤྲུལ is retained in the rope comparison. The familiar rope/serpent example might suggest སྦྲུལ, but the fixed source and native audit support the supplied letters; no snake is silently substituted and no emanation interpretation is treated as settled. S1023’s that/not-that distinction is preserved. S1024/S1026 སྣོད་བཅུད is provisionally environment and its inhabitants, a complete compound, not generic vessel and essence. S1027 དོན་དམ་ཀུན་རྫོབ་གཟུགས་ཅན is rendered as a nominal sequence, ultimate and conventional—endowed with form; the scope of form and the relation of the first two terms remain unsettled. S1028 retains the seeing/belief criterion of truth; S1029 supplies reality in brackets after authentic. S1030 མཐོ་ལ་བྱ་གནས is provisionally a bird abiding on a high place; whether མཐོ indicates height, an elevated object, or another lexical sense needs review. No missing explanatory material is reconstructed.
+[^T05-046]: Golden-v1 chapter 5, S1020, S1021, S1023, S1024, S1025, S1026, S1027, S1028, S1029, S1030 (printed 477–478). S1021/S1028 fixed སྤྲུལ is retained in the rope comparison. The familiar rope/serpent example might suggest སྦྲུལ, but the fixed source and native audit support the supplied letters; no snake is silently substituted and no emanation interpretation is treated as settled. S1023’s that/not-that distinction is preserved. Exact བཟུང་བས at S1023 is provisionally by apprehending, the same instrumental verbal-form treatment as S958; it is not automatically a grammatical realization of the canonical apprehended-object noun. S1024/S1026 སྣོད་བཅུད is provisionally environment and its inhabitants, a complete compound, not generic vessel and essence. S1027 དོན་དམ་ཀུན་རྫོབ་གཟུགས་ཅན is rendered as a nominal sequence, ultimate and conventional—endowed with form; the scope of form and the relation of the first two terms remain unsettled. S1028 retains the seeing criterion of truth; S1029 supplies reality in brackets after authentic. S1030 མཐོ་ལ་བྱ་གནས is provisionally a bird abiding on a high place; whether མཐོ indicates height, an elevated object, or another lexical sense needs review. No missing explanatory material is reconstructed.
 
 [^T05-047]: Golden-v1 chapter 5, S1031, S1032, S1033, S1034, S1035, S1036, S1037 (printed 478). S1031 བདེན་པ་གཉིས is provisionally two truths; S1032 ཀུན་རྫོབ is convention in the predicate, associated with the preceding conventional adjective but not treated as an approved default. S1033 follows the fixed text without inserting the additional printed ལ whose root/gloss allocation the native audit leaves unresolved. “Without relation to authenticity itself” is a tentative construction of ཡང་དག་ཉིད་འབྲེལ་པ་མེད, not certification of that extra particle. S1034 སྟོང་པ་ཉིད is emptiness with an intensive/abstract suffix. S1036 སྟོང་གསལ keeps the source’s reversed component order as empty and clear, rather than automatically imposing canonical clarity-emptiness for གསལ་སྟོང. S1037 bare བཅུད is provisionally inhabitants by continuity with the environment/inhabitants compound, while སྙིང་པོ is core; the two are not conflated. Review the truth predicates, source-layer relation and final gathering image.
 
@@ -4729,3 +4729,87 @@ the fifth chapter, which teaches the natural state and delusion as self-complete
 
 [^MTP-AUDIT-C05-415]: Source layer; source anchors MTP-S001049, MTP-S001051. Golden reading: `ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ལས
     གནས་ལུགས་འཁྲུལ་པ་རང་རྫོགས་སུ་བསྟན་པའི་ལེའུ་སྟེ་ལྔ་པའོ`. Adzom wording: not fully transcribed or not securely resolved. The title formula and chapter-five closing words span the page turn. They agree with the two fixed colophon objects; the physical break and the next chapter opening do not create an omitted chapter-five verse. The closing double-shad is presentation. English consequence: Retain the chapter colophon as a distinct translated source role. Chapter6 text on490 is outside this audit. Evidence: [Adzom p. 479, image 489](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/05/00489.png); 489row6 right title formula; 490row1 left chapter title through ལྔ་པའོ, ending before the next དེ་ནས; [Adzom p. 480, image 490](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/05/00490.png); 489row6 right title formula; 490row1 left chapter title through ལྔ་པའོ, ending before the next དེ་ནས.
+
+[^T05-L001]: Golden-v1 chapter 5, S688 and S695 (printed 457–458). Repeated ritual expressions remain provisional: exact དཀྱིལ་འཁོར at S688 is “mandalas”; exact ལྷ / སྔགས / ཕྱག་རྒྱར at S695 are “deities / mantra / seals.” The seal is not the complete canonical ཕྱག་རྒྱ་ཆེན་པོ, Mahamudra; these bare ritual terms have no active glossary entries. Plural and predicative forms follow the local source construction. Review the occurrence-specific terms and their ritual scope; no taxonomy or canonical addition is asserted.
+
+[^T05-L002]: Golden-v1 chapter 5, S667, S689, S756 and S767 (printed 456–461). Bare exact ཆོས is provisionally “phenomena” in these descriptions and quoted designation. This does not replace the established complete expressions ཆོས་སྐུ (dharma embodiment), ཆོས་ཉིད (nature of phenomena), or ཆོས་དབྱིངས (basic space of phenomena), nor establish “phenomena” for every future ཆོས occurrence. The source’s contrast between being, appearing, obscuring and naming is retained. Review the standalone scope and each attachment; S756 remains textually unresolved under its separate syntax note.
+
+[^T05-L003]: Golden-v1 chapter 5, S743, S764 and S765 (printed 460–461). Exact ཡུལ is provisionally “object(s)” in appearance and apprehension contexts; exact དབང་པོ at S764 is “faculties.” Neither the bare object nor bare faculty has an active primary entry. Canonical དམིགས་པ (object of focus), གཞལ་བྱ (object of comprehension), གཟུང་བ (apprehended object), and the graded faculty expressions remain distinct. Review these broad occurrence-specific senses; do not infer that every object is an apprehended object or that every faculty here names a particular sense organ.
+
+[^T05-L004]: Golden-v1 chapter 5, S668 and S672 (printed 456). Exact བསམ is provisionally “thinking” in the accomplishment and hearing/thinking/cultivation constructions. It is not the distinct glossary རྟོག (conceptualizing), རྟོག་པ (conceptual thought), ཀུན་རྟོག (conceptualization), or རྣམ་རྟོག (differentiating conceptualization). The ordinary verbal form is retained without importing an account of conceptual processes. Review the unlisted local usage; no technical synonym is activated.
+
+[^T05-L005]: Golden-v1 chapter 5, S733 (printed 460). Exact གཟུགས is provisionally “forms” after the list of men, women, horses and cattle. No active bare form entry is supplied by the glossary; this local use neither supplies an aggregate taxonomy nor limits all future occurrences to animate bodies. Review the scope of “all forms” before establishing a general mapping. At S998 (printed 476), bare གཟུགས is likewise provisionally “form” in the bodily-quality list; this occurrence does not supply a new anatomy taxonomy.
+
+[^T05-L006]: Golden-v1 chapter 5, S735 (printed 460). Exact ལས is provisionally “actions” after eating, lying down and sitting. This sense is supported by the immediate list; no technical karma account is added. Canonical ལས་ཀྱི་རླུང (karmic wind) remains a separate whole expression and is not present here. Review the local action sense before any wider glossary extension.
+
+[^T05-L007]: Golden-v1 chapter 5, S761 (printed 461). Exact ངང་གིས is provisionally “naturally” in “delusion as a condition of arising is naturally absent,” repeating the local construction at S759. This adverb does not replace canonical རང་བཞིན (intrinsic nature), གནས་ལུགས (natural state), or ཡེ་བབས (natural settling). Review the adverbial force and compound attachment; neither is an approved general equivalent.
+
+[^T05-L008]: Golden-v1 chapter 5, S762 (printed 461). Exact བྱེད་པ is provisionally “doer” opposite བྱ, rendered “doing” in continuity with canonical བྱ་བ. This agentive reading is not the distinct canonical བཟོ་བྱེད (contriver), nor an inserted apprehending subject. Review the local doing/doer relation; a generic doer mapping remains inactive.
+
+[^T05-L009]: Golden-v1 chapter 5, S769/S843/S871 (printed 462, 466, 468). Bare དྲི་མ remains provisionally “stain(s)”; S843 has instrumental དྲི་མས and repeated དྲི་མ, preserving “stain is deluded through stain.” This is not the complete established གློ་བུར་བའི་དྲི་མ, adventitious stain: no absent qualifier is supplied. Review the bare term and the deliberately retained instrumental metaphor; neither is settled by recurrence.
+
+[^T05-L010]: Golden-v1 chapter 5, S772 (printed 462). Exact དངོས་པོ is provisionally “entities” in the reversal refrain. It has no active glossary entry and is not collapsed into phenomena ཆོས or essence ངོ་བོ. Review its substantial-entity scope; the associated assertion “entities are reversed” is retained without inserting a mistaken-view qualifier. The distinct unresolved S878 construction is not resolved by this local usage.
+
+[^T05-L011]: Golden-v1 chapter 5, S775 (printed 462). Exact རྩོལ་བ is provisionally “exertion” in “because there is no exertion, activity is reversed.” Canonical activity སྤྱོད་པ and doing བྱ་བ remain separate expressions; the absent exertion is not equated with either. Review this local term, whose negation and relationship to the reversal refrain remain overt.
+
+[^T05-L012]: Golden-v1 chapter 5, S790 (printed 463). Exact ཐབས is provisionally “means” in the causal statement about appearing as a sign. Canonical discerning knowing ཤེས་རབ is not present in this line, and a complete means-and-knowing doctrine is not supplied. Review this bare technical term and the sign/means relationship before any glossary activation.
+
+[^T05-L013]: Golden-v1 chapter 5, S833/S835/S837/S851/S855/S860 (printed 466–467). Bare རྐྱེན, ཡུལ and རྒྱུ remain provisional “condition(s),” “object(s)” and “cause(s)” at their exact occurrences: conditions through conditions at S833; objects through objects at S835; cause through cause at S837; objects at S855; causes and conditions at S860. The instrumental repetitions are preserved. S851 རིགས in “incompatible kind” is a separate local kind sense, compared with the opening family usage but not identified with its taxonomy. No specialized object-of-focus or apprehended-object label is supplied when absent. Review each causal/object sense and the kinds analogy; these are not approved general defaults.
+
+[^T05-L014]: Golden-v1 chapter 5, S824/S828 (printed 465). Bare exact ཡུལ at S824 is provisionally “objects.” The compound ཡུལ་རྐྱེན at S828 is provisionally “object-conditions”; its relation is not silently expanded into a named doctrinal condition scheme. These uses remain distinct from canonical object of focus དམིགས་པ, object of comprehension གཞལ་བྱ, and apprehended object གཟུང་བ. Review the bare and compound senses separately.
+
+[^T05-L015]: Golden-v1 chapter 5, S834/S839/S880 (printed 466, 468). Bare ཆོས remains provisionally “phenomena,” including phenomena that are objects of focus, phenomena liberated through phenomena, and freedom from phenomena. Its repeated instrumental and negation relationships are retained; the English does not identify these bare uses with the separately established whole expressions nature of phenomena, basic space of phenomena, or dharma embodiment. Review the exact standalone scopes; recurrence is not approval.
+
+[^T05-L016]: Golden-v1 chapter 5, S838/S862 (printed 466–467). Exact short འཁོར་འདས is provisionally “saṃsāra and nirvāṇa,” preserving both members and their order. It is not ordinary circling plus a freely selected past form; the context of the paired domain supports the local technical proposal. S838 retains its separate opaque ལང and no subject is supplied to repair it. Review the compressed pair and the unresolved source construction before any glossary addition. The exact short pair recurs at S925 (printed 471) with the same provisional English and explicit two.
+
+[^T05-L017]: Golden-v1 chapter 5, S857 (printed 467). Exact ལམ is provisionally “paths.” No active bare path entry is present; “all paths” is retained without supplying stages, vehicle names, or a taxonomy. Review this local technical scope, distinct from the canonical cultivation and natural-state terms.
+
+[^T05-L018]: Golden-v1 chapter 5, S863 (printed 467). Bare ལུང is provisionally “scriptural transmissions,” paired with the explicitly provisional tantra reading of རྒྱུད. The complete canonical ལུང་མ་བསྟན, stagnant neutrality, is absent. The textual sense is local and does not override the canonical continuum choice retained at S809. Review each occurrence independently.
+
+[^T05-L019]: Golden-v1 chapter 5, S873 (printed 468). Exact རྩིས is provisionally “reckoning,” repeated from the naming sequence S811. The counterpart and reckoning comparison is preserved without replacing the word with a new metaphysical technical term. No active bare reckoning entry exists; review its numerical/calculative scope.
+
+[^T05-L020]: Golden-v1 chapter 5, S874 (printed 468). Exact སྡུག་བསྔལ / རྒྱུ / བདེ་ཆེན་པོ are provisionally “suffering / cause / great bliss.” Great bliss continues the attested བདེ་ཆེན family from S653, while the final nominal phrase remains compressed. No active canonical equivalent is supplied for these bare expressions. Review their relation; the line does not insert a causal account beyond the expressed lack of a cause of suffering.
+
+[^T05-L021]: Golden-v1 chapter 5, S877 (printed 468). Exact རྡོས་བཅས is provisionally “materially encumbered,” the predicative form corresponding to “material encumbrance” at S801. It is not a synonym for ordinary mind, inert matter, or entities by automatic doctrinal inference. Review this local reading; the proposal remains inactive.
+
+[^T05-L022]: Golden-v1 chapter 5, S813/S817/S818 (printed 464–465). Terms in the similes remain local proposals: ནོར་བུ “jewel,” ཤེལ་སྒོང “crystal orb,” and ཟ་འོག “brocade.” They are concrete objects here, with no jewel-class, anatomy, or visionary system inferred from other glossary compounds. S817 དྲི་མེད is “stainless,” retaining the locally proposed stain family. Review these object identifications and the compressed brocade-tent juxtaposition without changing the source.
+
+[^T05-L023]: Golden-v1 chapter 5, S825 (printed 465). Exact འགག་པ་མེད་པ is rendered “without cessation,” provisionally relating the nominal cessation construction to the established མ་འགགས་པ (unceasing) and རང་འགགས (self-cessation) family without claiming an exact whole-expression match. The source’s negation is preserved. Review this local form comparison and the separately noted within/from relation.
+
+[^T05-L024]: Golden-v1 chapter 5, S890 (printed 469). Exact ཤེས་བྱ is provisionally “what is to be known,” as at S858; it preserves the knowing family without replacing the separate canonical object of comprehension གཞལ་བྱ. Exact བབ་ཀྱིས is provisionally “just as it settles,” compared with S660 བབས་ཀྱིས and canonical ཡེ་བབས (natural settling), with no silent spelling repair. Review the local construction, its with-regard-to/ablative attachment, and the form relationship; neither rendering is a universal approved gloss.
+
+[^T05-L025]: Golden-v1 chapter 5, the listed anchors (printed 458, 471, 475–476). Repeated beings/classes retain provisional whole-expression mappings: མི at S707/S997 “humans”; སངས་རྒྱས / སེམས་ཅན at S928 “buddhas / sentient beings”; ལྷ / ལྷ་མིན at S992 “gods / demigods”; བྱོལ་སོང / ཡི་དགས / དམྱལ་བ at S994 “animals / hungry ghosts / hell beings”; སེམས་ཅན at S996 “sentient beings”; and སྐྱེད་གུ at S1001 “creatures.” The hungry-ghost spelling differs from S708 ཡི་དྭགས and is not silently normalized. Bare ordinary mind is not substituted for the whole sentient-being expression. Review the exact forms and class scopes; no additional realm or birth taxonomy is supplied.
+
+[^T05-L026]: Golden-v1 chapter 5, S933/S1004/S1014 (printed 472, 476–477). Repeated ཉོན་མོངས remains provisionally “afflictions”; S1004 འདོད་ཆགས remains provisionally “desire.” The explicit five at S1014 is retained without inserting a list. These choices do not replace canonical ignorance, delusion, clinging or conceptual thought, and repetition does not make them approved. Review the bare terms and their stated quantities.
+
+[^T05-L027]: Golden-v1 chapter 5, S901/S935/S1042 (printed 470, 472, 479). Bare ཆོས remains provisionally “phenomena”: through phenomena, absence/appearing-as-phenomena, and five phenomena are distinct local constructions. No bare mapping overrides canonical dharma embodiment, nature of phenomena or basic space of phenomena. The explicit five is not expanded into named members. Review standalone sense and scope; the glossary is unchanged.
+
+[^T05-L028]: Golden-v1 chapter 5, S936 (printed 472). Bare ཐབས remains provisionally “means,” here negated beside canonical ཤེས་རབ, discerning knowing. The juxtaposition does not itself approve a universal means mapping or identify a particular method. Review the local pair while preserving the established knowing term and both negations.
+
+[^T05-L029]: Golden-v1 chapter 5, the listed anchors (printed 472, 476–477). Constituent terms remain local proposals: ཕུང་པོ at S937/S1012 “aggregates”; ཁམས at S937 “elements”; ཡུལ at S938/S939/S1014 “objects”; དབང་པོ at S939/S1006/S1012 “faculties.” Bare faculties are distinct from the complete sense-gates and graded-faculty entries and from the explicitly contextual male/female organs at S1002. Bare objects do not import the complete apprehended-object, object-of-focus or object-of-comprehension entries. Review scope and enumerations without filling in unstated names.
+
+[^T05-L030]: Golden-v1 chapter 5, S942/S954 (printed 472–473). Exact ཤེས་བྱ remains provisionally “what is to be known,” retaining the knowing component and gerundive force. It is not substituted for the separate canonical object of comprehension གཞལ་བྱ. The lord-of relationship at S942 and appearance as stain at S954 are independently preserved; review both rather than inferring an external knower or a new technical entity.
+
+[^T05-L031]: Golden-v1 chapter 5, the listed anchors (printed 470–472, 476, 479). Bare འོད remains provisionally “light(s)” at S913/S943/S999/S1007/S1041, and ཁ་དོག “color(s)” at S921/S943/S1041. The actual five is preserved where supplied. These bare uses are distinct from canonical clear light འོད་གསལ and radiance གདངས; S999 separately uses the proposed luster for མདངས. Review these sensory/praise terms and their number without imposing a color taxonomy.
+
+[^T05-L032]: Golden-v1 chapter 5, S954 (printed 473). Bare དྲི་མ remains provisionally “stain” in “what is to be known appears as stain.” This is an appearance relation, not a silently asserted identity, and the full canonical adventitious-stain expression is absent. Review the local bare term and predication; recurrence does not activate a new glossary row.
+
+[^T05-L033]: Golden-v1 chapter 5, S964 (printed 474). The compound ཡུལ་སྣང is provisionally the verbal “appears as objects,” with appearance retained in the preceding phrase as well. No new fixed noun “object-appearance” or automatic canonical apprehended-object identity is introduced. Review the object/appearance relation; the form is recorded separately from standalone appearance and the bare object proposal.
+
+[^T05-L034]: Golden-v1 chapter 5, S1003 (printed 476). Exact རྒྱུ is provisionally “causes”; the explicit two causes of delusion are retained without identifying them from outside the root. The proposed bare cause usage does not supply a causal theory or resolve the following narrative beyond its overt relation. Review the unnamed two and the local construction.
+
+[^T05-L035]: Golden-v1 chapter 5, S1011 (printed 477). Exact འཇིག་རྟེན is provisionally “worlds,” retaining the explicit three and intensive wording. No three-world taxonomy is supplied beyond the text, and this repeats the local proposal at S694 rather than creating an approved default. Review the scope of the following numerical list.
+
+[^T05-L036]: Golden-v1 chapter 5, S1037/S1039 (printed 478–479). Bare སྙིང་པོ remains provisionally “core,” here with itself/very supplied by ཉིད or the demonstrative construction. It remains distinct from canonical ངོ་བོ, essence, and from the adjacent proposed inhabitants for བཅུད. Review the core metaphor and its relation to the final enumeration, without collapsing the three different Tibetan expressions.
+
+[^T05-L037]: Golden-v1 chapter 5, S802/S1035 (printed 464, 478). Bare exact གྲོལ་བར / གྲོལ is provisionally “liberated,” distinct from established self-liberation, primordial liberation and liberated in its own place. S802 names abiding liberated “reversed” for ལོག, retaining the local reversal proposal; S1035 says all is liberated as its essence without adding an agent. Review these bare liberation constructions and their distinct predicates; neither repetition nor shared components activates a glossary entry.
+
+[^T05-L038]: Golden-v1 chapter 5, S662/S683 (printed 456–457). Exact སྤྱོད་ཡུལ at S662 is provisionally “domain,” while bare ཡུལ at S683 is also locally “domain” in the phrase about obstructing spirits and harm. The first is a whole domain-of-activity construction, not a change to standalone canonical activity; the second differs in context from the proposed object uses elsewhere. The shared English is disclosed rather than treated as proof of Tibetan identity. Review both limited senses independently.
+
+[^T05-L039]: Golden-v1 chapter 5, S840 (printed 466). Exact ཐ་སྙད་ཚིག is provisionally “words of designation”: ཐ་སྙད retains the proposed designation sense and ཚིག is locally “words” in this English phrase. Elsewhere ཚིག appears as phrases; the canonical སྒྲ remains word except for explicitly proposed sensory sound uses. The local word/phrase choice is disclosed, not a new default collapsing those Tibetan forms. Review the compound relation and English collision before activation.
+
+[^T05-L040]: Golden-v1 chapter 5, S894 (printed 469). Exact གྲུབ་པའི་མཐའ is provisionally “philosophical limits,” preserving the expanded construction, compared with provisional “philosophical tenets” for compact གྲུབ་མཐའ at S792 and its instrumental at S902. Neither form has an active glossary assignment. The difference is openly recorded, not an approved universal contrast or evidence that the source is corrupt. Review whether this local expansion warrants the different English realization.
+
+[^T05-L041]: Golden-v1 chapter 5, S988 (printed 475). Exact གཟུགས་མེད་རྣམས is provisionally “the formless ones,” a substantivized plural corresponding to “formlessness” in the preceding realm list. The unusual predicates in S986–S987 remain unrepaired, and familiar names of formless attainments are not inserted. Review the referent and nominal sense; the source is represented without claiming its cosmological taxonomy resolved.
+
+[^T05-L042]: Golden-v1 chapter 5, S949 (printed 473). Exact རྡོ་རྗེ་འཛིན is provisionally “holder of the vajra,” the distinct title-form also used at S650. This is not the exact name-form རྡོ་རྗེ་འཆང, Vajradhara, and it does not replace canonical apprehending subject for other འཛིན applications. Review the title equivalence and reference; no new canonical row is activated.

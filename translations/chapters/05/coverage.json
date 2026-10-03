@@ -14,7 +14,7 @@
     "translated": 92,
     "unresolved": 16
   },
-  "note_count": 478,
+  "note_count": 520,
   "obligations_required": 432,
   "obligations_covered": 432,
   "obligations_remaining": 0,
@@ -30,8 +30,8 @@
   },
   "closing_objects": 2,
   "supporting_records": {
-    "usage.json": false,
-    "glossary-proposals.json": false
+    "usage.json": true,
+    "glossary-proposals.json": true
   },
   "claims": {
     "automated_semantic_certification": false,
