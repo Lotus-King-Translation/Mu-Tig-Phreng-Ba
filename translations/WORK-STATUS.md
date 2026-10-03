@@ -1,6 +1,6 @@
 # Translation handoff — chapter 6 preparation
 
-Current task: the user explicitly instructed GitHub preservation and the next chapter. Remote main `54d7597` and chapter 5 content checks were verified. Chapter 6 preparation now covers S1052–S1427 (376 objects), images490–512. Native provenance is verified; direct comparison and source freeze are underway. No chapter 6 English has yet been authored. Prior signed candidates and the exact unsigned chapter 4 snapshot remain protected. Strict formal publication remains pending; chapter 7 is not started.
+Current task: the user explicitly instructed GitHub preservation and the next chapter. Remote main `54d7597` and chapter 5 content checks were verified. Chapter 6 preparation now covers S1052–S1427 (376 objects), images490–512. Source freeze and complete native comparison are now validated: 132pairs / 376objects; 378requiredsourceobligations. All23 native pages compared, with348agreements,23metadata,2differences and3uncertain source checks. No chapter 6 English has yet been authored. Prior signed candidates and the exact unsigned chapter 4 snapshot remain protected. Strict formal publication remains pending; chapter 7 is not started.
 
 ## Saved chapter 5 working candidate
 

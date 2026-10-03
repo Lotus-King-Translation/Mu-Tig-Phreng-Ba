@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "MTP-000321",
+    "golden_ids": [
+      "MTP-S001052"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Electronic chapter-control token; separate from the opening request."
+  },
+  {
+    "id": "MTP-000322",
+    "golden_ids": [
+      "MTP-S001053"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Prose request formula naming the vajra-holder as speaker."
+  },
+  {
+    "id": "MTP-000323",
+    "golden_ids": [
+      "MTP-S001054",
+      "MTP-S001055",
+      "MTP-S001056"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Address and question concerning the enlightened intent of the unity of all buddhas."
+  },
+  {
+    "id": "MTP-000324",
+    "golden_ids": [
+      "MTP-S001057",
+      "MTP-S001058",
+      "MTP-S001059"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Question about bondage by the five afflictions and concluding petition."
+  },
+  {
+    "id": "MTP-000325",
+    "golden_ids": [
+      "MTP-S001060"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Prose response formula; separate from the ensuing speech."
+  },
+  {
+    "id": "MTP-000326",
+    "golden_ids": [
+      "MTP-S001061",
+      "MTP-S001062",
+      "MTP-S001063"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Connected opening account of one truth, intrinsic nature and essence."
+  },
+  {
+    "id": "MTP-000327",
+    "golden_ids": [
+      "MTP-S001064",
+      "MTP-S001065",
+      "MTP-S001066"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three related predications concerning primordial knowing, five embodiments and the single sphere."
+  },
+  {
+    "id": "MTP-000328",
+    "golden_ids": [
+      "MTP-S001067"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Appearance clause before page metadata; its parallel emptiness clause continues at S1069."
+  },
+  {
+    "id": "MTP-000329",
+    "golden_ids": [
+      "MTP-S001068"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000330",
+    "golden_ids": [
+      "MTP-S001069"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Emptiness clause completing the parallel construction begun at S1067 across page metadata."
+  },
+  {
+    "id": "MTP-000331",
+    "golden_ids": [
+      "MTP-S001070",
+      "MTP-S001071"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Paired simultaneous and gradual predications."
+  },
+  {
+    "id": "MTP-000332",
+    "golden_ids": [
+      "MTP-S001072",
+      "MTP-S001073",
+      "MTP-S001074",
+      "MTP-S001075"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired descriptions of freedom from extremes and delusion."
+  },
+  {
+    "id": "MTP-000333",
+    "golden_ids": [
+      "MTP-S001076",
+      "MTP-S001077",
+      "MTP-S001078",
+      "MTP-S001079"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Paired descriptions of dharma embodiment and the king of self-arisen awareness."
+  },
+  {
+    "id": "MTP-000334",
+    "golden_ids": [
+      "MTP-S001080",
+      "MTP-S001081",
+      "MTP-S001082"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "First-person declaration and its opening samsara/nirvana and phenomena/non-phenomena pairs."
+  },
+  {
+    "id": "MTP-000335",
+    "golden_ids": [
+      "MTP-S001083",
+      "MTP-S001084",
+      "MTP-S001085"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three further first-person identifications with destinies, mandala deities and the jewels."
+  },
+  {
+    "id": "MTP-000336",
+    "golden_ids": [
+      "MTP-S001086"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000337",
+    "golden_ids": [
+      "MTP-S001087",
+      "MTP-S001088",
+      "MTP-S001089",
+      "MTP-S001090"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Teaching, retinue, practice and empowerment identifications within the repeated first-person catalogue."
+  },
+  {
+    "id": "MTP-000338",
+    "golden_ids": [
+      "MTP-S001091",
+      "MTP-S001092",
+      "MTP-S001093",
+      "MTP-S001094"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Offering, purity, activity and scriptural identifications within the first-person catalogue."
+  },
+  {
+    "id": "MTP-000339",
+    "golden_ids": [
+      "MTP-S001095",
+      "MTP-S001096",
+      "MTP-S001097",
+      "MTP-S001098"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Truths, vehicles, karma and world identifications within the first-person catalogue."
+  },
+  {
+    "id": "MTP-000340",
+    "golden_ids": [
+      "MTP-S001099",
+      "MTP-S001100",
+      "MTP-S001101"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Connected catalogue continuation concerning movement, affliction and faculties."
+  },
+  {
+    "id": "MTP-000341",
+    "golden_ids": [
+      "MTP-S001102"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000342",
+    "golden_ids": [
+      "MTP-S001103",
+      "MTP-S001104",
+      "MTP-S001105",
+      "MTP-S001106"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Constituents, bodily substances, names and apprehension identifications."
+  },
+  {
+    "id": "MTP-000343",
+    "golden_ids": [
+      "MTP-S001107",
+      "MTP-S001108",
+      "MTP-S001109",
+      "MTP-S001110",
+      "MTP-S001111"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five lines continuing the catalogue through suffering, sensory experience and feeling."
+  },
+  {
+    "id": "MTP-000344",
+    "golden_ids": [
+      "MTP-S001112",
+      "MTP-S001113",
+      "MTP-S001114",
+      "MTP-S001115"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Catalogue summary followed by the opening emphatic first-person assertions."
+  },
+  {
+    "id": "MTP-000345",
+    "golden_ids": [
+      "MTP-S001116"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000346",
+    "golden_ids": [
+      "MTP-S001117",
+      "MTP-S001118",
+      "MTP-S001119",
+      "MTP-S001120"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four parallel emphatic assertions concerning appearance, completeness, path and connection."
+  },
+  {
+    "id": "MTP-000347",
+    "golden_ids": [
+      "MTP-S001121",
+      "MTP-S001122",
+      "MTP-S001123",
+      "MTP-S001124"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four parallel assertions concerning abiding, uniqueness, pervasion and appearance."
+  },
+  {
+    "id": "MTP-000348",
+    "golden_ids": [
+      "MTP-S001125",
+      "MTP-S001126",
+      "MTP-S001127"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three first-person actions expressed through mountain and ocean images."
+  },
+  {
+    "id": "MTP-000349",
+    "golden_ids": [
+      "MTP-S001128"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000350",
+    "golden_ids": [
+      "MTP-S001129",
+      "MTP-S001130",
+      "MTP-S001131",
+      "MTP-S001132"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four further first-person actions using darkness, stride, grounds and sun-and-moon images."
+  },
+  {
+    "id": "MTP-000351",
+    "golden_ids": [
+      "MTP-S001133",
+      "MTP-S001134",
+      "MTP-S001135",
+      "MTP-S001136"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four parallel first-person qualities concerning completeness, appearance, realization and hope/fear."
+  },
+  {
+    "id": "MTP-000352",
+    "golden_ids": [
+      "MTP-S001137"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000353",
+    "golden_ids": [
+      "MTP-S001138",
+      "MTP-S001139",
+      "MTP-S001140",
+      "MTP-S001141",
+      "MTP-S001142"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five linked first-person absence-and-consequence statements closing this speech."
+  },
+  {
+    "id": "MTP-000354",
+    "golden_ids": [
+      "MTP-S001143"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "New prose request formula; split at the change of speaker."
+  },
+  {
+    "id": "MTP-000355",
+    "golden_ids": [
+      "MTP-S001144",
+      "MTP-S001145",
+      "MTP-S001146"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Conditional unity premise and compressed question about bondage; no missing wording is supplied."
+  },
+  {
+    "id": "MTP-000356",
+    "golden_ids": [
+      "MTP-S001147",
+      "MTP-S001148",
+      "MTP-S001149",
+      "MTP-S001150"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Alternative questions about bondage and the concluding petition, retaining the printed S1150 form."
+  },
+  {
+    "id": "MTP-000357",
+    "golden_ids": [
+      "MTP-S001151"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Prose response formula; separate from the following cloud comparison."
+  },
+  {
+    "id": "MTP-000358",
+    "golden_ids": [
+      "MTP-S001152"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Subject of the afflictions comparison before page metadata; the comparison continues at S1154."
+  },
+  {
+    "id": "MTP-000359",
+    "golden_ids": [
+      "MTP-S001153"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000360",
+    "golden_ids": [
+      "MTP-S001154",
+      "MTP-S001155",
+      "MTP-S001156",
+      "MTP-S001157",
+      "MTP-S001158"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Cloud-and-space comparison continuing the subject at S1152 and reaching its inseparability conclusion."
+  },
+  {
+    "id": "MTP-000361",
+    "golden_ids": [
+      "MTP-S001159",
+      "MTP-S001160",
+      "MTP-S001161"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Conditional knowledge statement and its question about binding sentient beings."
+  },
+  {
+    "id": "MTP-000362",
+    "golden_ids": [
+      "MTP-S001162",
+      "MTP-S001163",
+      "MTP-S001164"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Truth-apprehension condition and paired consequences for buddhas and sentient beings."
+  },
+  {
+    "id": "MTP-000363",
+    "golden_ids": [
+      "MTP-S001165",
+      "MTP-S001166",
+      "MTP-S001167",
+      "MTP-S001168"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Knowledge, purification and water-turbidity comparison with its concluding shared intrinsic-nature statement."
+  },
+  {
+    "id": "MTP-000364",
+    "golden_ids": [
+      "MTP-S001169",
+      "MTP-S001170",
+      "MTP-S001171"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Unknowing and apprehension conditions before page metadata; consequence begins at S1173."
+  },
+  {
+    "id": "MTP-000365",
+    "golden_ids": [
+      "MTP-S001172"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000366",
+    "golden_ids": [
+      "MTP-S001173",
+      "MTP-S001174",
+      "MTP-S001175",
+      "MTP-S001176"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Consequences of S1169–1171, developed through the house, prison and fetter images."
+  },
+  {
+    "id": "MTP-000367",
+    "golden_ids": [
+      "MTP-S001177",
+      "MTP-S001178",
+      "MTP-S001179",
+      "MTP-S001180"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Lamp, darkness, desire and noose images continuing the bondage description."
+  },
+  {
+    "id": "MTP-000368",
+    "golden_ids": [
+      "MTP-S001181",
+      "MTP-S001182",
+      "MTP-S001183"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three connected affliction images concerning heat, covering and obstruction."
+  },
+  {
+    "id": "MTP-000369",
+    "golden_ids": [
+      "MTP-S001184",
+      "MTP-S001185",
+      "MTP-S001186"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Troop, flanking and neck-noose images concluding this part of the bondage sequence."
+  },
+  {
+    "id": "MTP-000370",
+    "golden_ids": [
+      "MTP-S001187"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000371",
+    "golden_ids": [
+      "MTP-S001188",
+      "MTP-S001189",
+      "MTP-S001190",
+      "MTP-S001191"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Habitual tendencies, maturation and repeated karmic mother-child relationships."
+  },
+  {
+    "id": "MTP-000372",
+    "golden_ids": [
+      "MTP-S001192",
+      "MTP-S001193",
+      "MTP-S001194"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Waterwheel comparison, successive bodies and birth in respective classes."
+  },
+  {
+    "id": "MTP-000373",
+    "golden_ids": [
+      "MTP-S001195",
+      "MTP-S001196",
+      "MTP-S001197",
+      "MTP-S001198"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four connected images of self-apprehension, suffering and self-bondage."
+  },
+  {
+    "id": "MTP-000374",
+    "golden_ids": [
+      "MTP-S001199",
+      "MTP-S001200",
+      "MTP-S001201"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three lower-destiny appearance statements, retaining all source spellings and divisions."
+  },
+  {
+    "id": "MTP-000375",
+    "golden_ids": [
+      "MTP-S001202",
+      "MTP-S001203",
+      "MTP-S001204"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Human constituents and the following threefold feeling description."
+  },
+  {
+    "id": "MTP-000376",
+    "golden_ids": [
+      "MTP-S001205",
+      "MTP-S001206"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Paired appearance descriptions for asuras and gods."
+  },
+  {
+    "id": "MTP-000377",
+    "golden_ids": [
+      "MTP-S001207"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000378",
+    "golden_ids": [
+      "MTP-S001208",
+      "MTP-S001209",
+      "MTP-S001210",
+      "MTP-S001211",
+      "MTP-S001212"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Address, bondage by differentiating conceptualization and the connected liberation claim and reason."
+  },
+  {
+    "id": "MTP-000379",
+    "golden_ids": [
+      "MTP-S001213",
+      "MTP-S001214",
+      "MTP-S001215",
+      "MTP-S001216"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired liberation statements concerning constituents and the apprehension relation."
+  },
+  {
+    "id": "MTP-000380",
+    "golden_ids": [
+      "MTP-S001217",
+      "MTP-S001218",
+      "MTP-S001219",
+      "MTP-S001220"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Liberation in the basic space of phenomena and connected descriptive claims."
+  },
+  {
+    "id": "MTP-000381",
+    "golden_ids": [
+      "MTP-S001221",
+      "MTP-S001222",
+      "MTP-S001223"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Lamp and awareness images followed by the snake-knot comparison."
+  },
+  {
+    "id": "MTP-000382",
+    "golden_ids": [
+      "MTP-S001224"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000383",
+    "golden_ids": [
+      "MTP-S001225",
+      "MTP-S001226",
+      "MTP-S001227",
+      "MTP-S001228",
+      "MTP-S001229"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five linked bliss, noose, fire, garment and treasury-door images; source irregularities remain intact."
+  },
+  {
+    "id": "MTP-000384",
+    "golden_ids": [
+      "MTP-S001230",
+      "MTP-S001231",
+      "MTP-S001232"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Army, support and conceptual-thought noose images; the binding claim remains in its supplied position."
+  },
+  {
+    "id": "MTP-000385",
+    "golden_ids": [
+      "MTP-S001233",
+      "MTP-S001234",
+      "MTP-S001235",
+      "MTP-S001236"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Appearance, joined hands and mother-child meeting leading to the single primordial knowing."
+  },
+  {
+    "id": "MTP-000386",
+    "golden_ids": [
+      "MTP-S001237",
+      "MTP-S001238",
+      "MTP-S001239",
+      "MTP-S001240"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Connected finding, attainment, surpassing and liberation statements."
+  },
+  {
+    "id": "MTP-000387",
+    "golden_ids": [
+      "MTP-S001241",
+      "MTP-S001242"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Paired concluding claims concerning secret-mantra enlightened intent and primordial knowing."
+  },
+  {
+    "id": "MTP-000388",
+    "golden_ids": [
+      "MTP-S001243"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000389",
+    "golden_ids": [
+      "MTP-S001244",
+      "MTP-S001245",
+      "MTP-S001246",
+      "MTP-S001247"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two linked purification and great-bliss statements."
+  },
+  {
+    "id": "MTP-000390",
+    "golden_ids": [
+      "MTP-S001248",
+      "MTP-S001249",
+      "MTP-S001250"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Emptiness and all-pervading primordial knowing leading into the nirvana catalogue."
+  },
+  {
+    "id": "MTP-000391",
+    "golden_ids": [
+      "MTP-S001251",
+      "MTP-S001252",
+      "MTP-S001253",
+      "MTP-S001254"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired nirvana statements concerning dharma embodiment and all-pervading primordial knowing."
+  },
+  {
+    "id": "MTP-000392",
+    "golden_ids": [
+      "MTP-S001255",
+      "MTP-S001256",
+      "MTP-S001257",
+      "MTP-S001258"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired nirvana statements concerning the basic space of phenomena and one embodiment."
+  },
+  {
+    "id": "MTP-000393",
+    "golden_ids": [
+      "MTP-S001259"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000394",
+    "golden_ids": [
+      "MTP-S001260",
+      "MTP-S001261",
+      "MTP-S001262",
+      "MTP-S001263"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired nirvana statements concerning primordial knowing and the nature of phenomena."
+  },
+  {
+    "id": "MTP-000395",
+    "golden_ids": [
+      "MTP-S001264",
+      "MTP-S001265",
+      "MTP-S001266",
+      "MTP-S001267"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Exclamation with the following three-line assertion of unwavering essence and stability."
+  },
+  {
+    "id": "MTP-000396",
+    "golden_ids": [
+      "MTP-S001268",
+      "MTP-S001269",
+      "MTP-S001270"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three parallel self-related statements closing with the resting formula."
+  },
+  {
+    "id": "MTP-000397",
+    "golden_ids": [
+      "MTP-S001271",
+      "MTP-S001272"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two metrical narrative lines introduce the vajra-bearers next question; kept apart from direct speech."
+  },
+  {
+    "id": "MTP-000398",
+    "golden_ids": [
+      "MTP-S001273",
+      "MTP-S001274",
+      "MTP-S001275",
+      "MTP-S001276",
+      "MTP-S001277",
+      "MTP-S001278"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Address, three linked questions about abiding place, path and result, and concluding petition."
+  },
+  {
+    "id": "MTP-000399",
+    "golden_ids": [
+      "MTP-S001279"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Prose response formula introducing the final extended answer."
+  },
+  {
+    "id": "MTP-000400",
+    "golden_ids": [
+      "MTP-S001280",
+      "MTP-S001281"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Address and bodily location clause before metadata; its predicate continues at S1283–1284."
+  },
+  {
+    "id": "MTP-000401",
+    "golden_ids": [
+      "MTP-S001282"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000402",
+    "golden_ids": [
+      "MTP-S001283",
+      "MTP-S001284"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Dharma-embodiment predicate completing the bodily location construction begun at S1281."
+  },
+  {
+    "id": "MTP-000403",
+    "golden_ids": [
+      "MTP-S001285",
+      "MTP-S001286",
+      "MTP-S001287",
+      "MTP-S001288"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired descriptions of complete and all-pervading embodiment."
+  },
+  {
+    "id": "MTP-000404",
+    "golden_ids": [
+      "MTP-S001289",
+      "MTP-S001290",
+      "MTP-S001291",
+      "MTP-S001292"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired abiding statements concerning ordinary mind and the embodiment of vajra chains."
+  },
+  {
+    "id": "MTP-000405",
+    "golden_ids": [
+      "MTP-S001293",
+      "MTP-S001294"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Numerous chains and inconceivable parts form one explanatory couplet."
+  },
+  {
+    "id": "MTP-000406",
+    "golden_ids": [
+      "MTP-S001295",
+      "MTP-S001296",
+      "MTP-S001297"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Single-existence and appearance construction; the final modifier continues through metadata to S1299."
+  },
+  {
+    "id": "MTP-000407",
+    "golden_ids": [
+      "MTP-S001298"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000408",
+    "golden_ids": [
+      "MTP-S001299",
+      "MTP-S001300"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Predication and embodiment-essence conclusion continuing S1295–1297."
+  },
+  {
+    "id": "MTP-000409",
+    "golden_ids": [
+      "MTP-S001301",
+      "MTP-S001302",
+      "MTP-S001303"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line account of channels, spheres and rays."
+  },
+  {
+    "id": "MTP-000410",
+    "golden_ids": [
+      "MTP-S001304",
+      "MTP-S001305"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Threefold division into right, left and center."
+  },
+  {
+    "id": "MTP-000411",
+    "golden_ids": [
+      "MTP-S001306",
+      "MTP-S001307",
+      "MTP-S001308",
+      "MTP-S001309",
+      "MTP-S001310"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-line right-side account; the unresolved layer phrase and short final S1307 form remain unsplit and unchanged."
+  },
+  {
+    "id": "MTP-000412",
+    "golden_ids": [
+      "MTP-S001311",
+      "MTP-S001312"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Ultimate dharma-embodiment and sphere predications preceding the central continuation."
+  },
+  {
+    "id": "MTP-000413",
+    "golden_ids": [
+      "MTP-S001313"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000414",
+    "golden_ids": [
+      "MTP-S001314",
+      "MTP-S001315",
+      "MTP-S001316",
+      "MTP-S001317"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four linked descriptions of central abiding and its relation to conceptualization and extremes."
+  },
+  {
+    "id": "MTP-000415",
+    "golden_ids": [
+      "MTP-S001318",
+      "MTP-S001319",
+      "MTP-S001320",
+      "MTP-S001321"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Further central descriptions reaching the concluding sphere identification."
+  },
+  {
+    "id": "MTP-000416",
+    "golden_ids": [
+      "MTP-S001322",
+      "MTP-S001323",
+      "MTP-S001324",
+      "MTP-S001325"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four connected statements introducing the left-side sphere and bliss."
+  },
+  {
+    "id": "MTP-000417",
+    "golden_ids": [
+      "MTP-S001326",
+      "MTP-S001327",
+      "MTP-S001328"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Related cause, path and mandala designations."
+  },
+  {
+    "id": "MTP-000418",
+    "golden_ids": [
+      "MTP-S001329"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000419",
+    "golden_ids": [
+      "MTP-S001330",
+      "MTP-S001331",
+      "MTP-S001332"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Means and radiance descriptions concluding with the essence of great bliss."
+  },
+  {
+    "id": "MTP-000420",
+    "golden_ids": [
+      "MTP-S001333",
+      "MTP-S001334",
+      "MTP-S001335"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Path and seeing-gate introduction with the unchanged right-left-center enumeration."
+  },
+  {
+    "id": "MTP-000421",
+    "golden_ids": [
+      "MTP-S001336",
+      "MTP-S001337",
+      "MTP-S001338",
+      "MTP-S001339",
+      "MTP-S001340"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-item lamp enumeration and its common appearance predicate."
+  },
+  {
+    "id": "MTP-000422",
+    "golden_ids": [
+      "MTP-S001341",
+      "MTP-S001342",
+      "MTP-S001343"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Awareness and chains appearing through a gate, with the peacock comparison."
+  },
+  {
+    "id": "MTP-000423",
+    "golden_ids": [
+      "MTP-S001344"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Explanation of the syllable thig before metadata; the le and lamp explanations continue at S1346–1347."
+  },
+  {
+    "id": "MTP-000424",
+    "golden_ids": [
+      "MTP-S001345"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000425",
+    "golden_ids": [
+      "MTP-S001346",
+      "MTP-S001347"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Explanations of le and lamp continue the word analysis begun at S1344."
+  },
+  {
+    "id": "MTP-000426",
+    "golden_ids": [
+      "MTP-S001348",
+      "MTP-S001349",
+      "MTP-S001350",
+      "MTP-S001351",
+      "MTP-S001352",
+      "MTP-S001353"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Rainbow comparison and connected explanation of purity, basic space and appearance."
+  },
+  {
+    "id": "MTP-000427",
+    "golden_ids": [
+      "MTP-S001354",
+      "MTP-S001355"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Condition and resulting possession of five colors."
+  },
+  {
+    "id": "MTP-000428",
+    "golden_ids": [
+      "MTP-S001356",
+      "MTP-S001357",
+      "MTP-S001358",
+      "MTP-S001359",
+      "MTP-S001360",
+      "MTP-S001361"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Fire-lamp comparison followed by the shes/rab/rang/byung explanation and its left-gate conclusion."
+  },
+  {
+    "id": "MTP-000429",
+    "golden_ids": [
+      "MTP-S001362"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000430",
+    "golden_ids": [
+      "MTP-S001363",
+      "MTP-S001364",
+      "MTP-S001365",
+      "MTP-S001366"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Hook comparison and continuum-horse account with mental consciousness as rider."
+  },
+  {
+    "id": "MTP-000431",
+    "golden_ids": [
+      "MTP-S001367",
+      "MTP-S001368"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two-line explanation of zhags through apprehended object and apprehending ordinary mind."
+  },
+  {
+    "id": "MTP-000432",
+    "golden_ids": [
+      "MTP-S001369",
+      "MTP-S001370",
+      "MTP-S001371"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line water explanation and its faculty-essence conclusion."
+  },
+  {
+    "id": "MTP-000433",
+    "golden_ids": [
+      "MTP-S001372",
+      "MTP-S001373",
+      "MTP-S001374",
+      "MTP-S001375",
+      "MTP-S001376",
+      "MTP-S001377"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Gold-chain comparison with connected awareness, conceptualization-free and path explanations."
+  },
+  {
+    "id": "MTP-000434",
+    "golden_ids": [
+      "MTP-S001378",
+      "MTP-S001379",
+      "MTP-S001380"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Result introduction and the following twofold specification, retaining the unusual source wording."
+  },
+  {
+    "id": "MTP-000435",
+    "golden_ids": [
+      "MTP-S001381"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-birth introduction before metadata; its list and predicate continue at S1383–1386."
+  },
+  {
+    "id": "MTP-000436",
+    "golden_ids": [
+      "MTP-S001382"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000437",
+    "golden_ids": [
+      "MTP-S001383",
+      "MTP-S001384",
+      "MTP-S001385",
+      "MTP-S001386"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "List of destinations and appearance predicate completing the introduction at S1381."
+  },
+  {
+    "id": "MTP-000438",
+    "golden_ids": [
+      "MTP-S001387",
+      "MTP-S001388",
+      "MTP-S001389",
+      "MTP-S001390"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Affliction enumeration, root characterization and concluding quantity statement."
+  },
+  {
+    "id": "MTP-000439",
+    "golden_ids": [
+      "MTP-S001391",
+      "MTP-S001392"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Paired description of bondage through ordinary mind, apprehension and mental faculty."
+  },
+  {
+    "id": "MTP-000440",
+    "golden_ids": [
+      "MTP-S001393",
+      "MTP-S001394",
+      "MTP-S001395",
+      "MTP-S001396",
+      "MTP-S001397"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Manifest-appearance introduction and connected descriptions of embodiments, primordial knowing and spheres."
+  },
+  {
+    "id": "MTP-000441",
+    "golden_ids": [
+      "MTP-S001398",
+      "MTP-S001399",
+      "MTP-S001400"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Primordial-purity location and freedom-from-stains description, continued after metadata at S1402."
+  },
+  {
+    "id": "MTP-000442",
+    "golden_ids": [
+      "MTP-S001401"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000443",
+    "golden_ids": [
+      "MTP-S001402"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "No-elaboration conclusion continuing the preceding purity description across page metadata."
+  },
+  {
+    "id": "MTP-000444",
+    "golden_ids": [
+      "MTP-S001403",
+      "MTP-S001404"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two-line claim linking varied appearances, spontaneous presence and liberation on the path."
+  },
+  {
+    "id": "MTP-000445",
+    "golden_ids": [
+      "MTP-S001405",
+      "MTP-S001406",
+      "MTP-S001407",
+      "MTP-S001408"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four repeated each-by-each relations between gates, truth, knowing and realization."
+  },
+  {
+    "id": "MTP-000446",
+    "golden_ids": [
+      "MTP-S001409",
+      "MTP-S001410",
+      "MTP-S001411",
+      "MTP-S001412"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Appearance growth, gradual seeing and result attainment with the shared-secret conclusion."
+  },
+  {
+    "id": "MTP-000447",
+    "golden_ids": [
+      "MTP-S001413",
+      "MTP-S001414",
+      "MTP-S001415"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line result account describing stains and purity."
+  },
+  {
+    "id": "MTP-000448",
+    "golden_ids": [
+      "MTP-S001416",
+      "MTP-S001417",
+      "MTP-S001418"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line result account describing existence and nonexistence."
+  },
+  {
+    "id": "MTP-000449",
+    "golden_ids": [
+      "MTP-S001419",
+      "MTP-S001420"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Paired description and definition of essence."
+  },
+  {
+    "id": "MTP-000450",
+    "golden_ids": [
+      "MTP-S001421"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000451",
+    "golden_ids": [
+      "MTP-S001422",
+      "MTP-S001423",
+      "MTP-S001424",
+      "MTP-S001425"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two final couplets concerning essence, primordial purity and resting."
+  },
+  {
+    "id": "MTP-000452",
+    "golden_ids": [
+      "MTP-S001426",
+      "MTP-S001427"
+    ],
+    "role": "chapter_colophon",
+    "format": "prose",
+    "rationale": "Connected title and numbered sixth-chapter closing formula; separate from the concluding verse."
+  }
+]

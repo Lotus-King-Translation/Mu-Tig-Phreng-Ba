@@ -170,7 +170,7 @@
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
   "independent_human_certification": false,
-  "status": "chapter_6_preparation",
+  "status": "chapter_6_source_frozen_before_english",
   "source_objects_represented": 1051,
   "next_work_authorized": true,
   "chapter_2_state": "Signed reviewed candidate:35pairs/124objects/175endnotes;152/152source obligations; independent QC and final validation passed; annotated tag/receipt pending terminal access.",
@@ -182,10 +182,10 @@
   "chapter_3_state": "Signed reviewed working candidate:34pairs/120objects/165notes;142/142source obligations;105usage records/252occurrences/65proposals;24translated/2locallyunresolved/8metadata; independent QC and reproducible draft-candidate validation passed. Strict final release remains blocked by genuine prior publication.",
   "count_semantics": "Representation counts include explicitly unresolved and nontranslatable metadata objects; they do not measure accuracy or complete decipherment.",
   "chapter_4_state": "Complete saved unsigned annotated draft at730921898da3e3328bb42d97abea7672bf44afcd:86pairs/294objects/396notes;337source obligations;fiveunresolvedpairs. Final397-note revision,finallexicalrecords,reportsand signoff were not committed and local files were pruned. Preserve saved snapshot unchanged.",
-  "source_pairs_frozen": 320,
-  "source_objects_frozen": 1051,
+  "source_pairs_frozen": 452,
+  "source_objects_frozen": 1427,
   "chapter_5_state": "Signed independently reviewed working candidate:135pairs/416objects/520notes;432/432obligations;277usage records/466loci;224inactiveproposals;92translated/16locallyunresolved/27metadata. Reproducible draft-candidate and signed-content checks pass. Genuine formal tags/receipts pending.",
   "chapter_5_build_manifest_sha256": "0afe04a17427ac29e9aff38de4e8c469e9aafbd7a011a9a8acb4a6a49e1abd02",
   "chapter_5_candidate_commit": "c0b7945a56e8c670363d50a6c67448bdda83003a",
-  "chapter_6_state": "Preparation: source segmentation and verified native provenance available; source freeze and visual allocation pending; no English yet."
+  "chapter_6_state": "Source frozen:132pairs/376objects;20golden obligations plus358native obligations=378required. Complete23page native audit:348agreements,23metadata,2differences,3uncertain. English not yet authored."
 }
