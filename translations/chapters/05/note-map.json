@@ -7353,5 +7353,552 @@
     "obligations": [
       "adzom:MTP-AUDIT-C05-415"
     ]
+  },
+  {
+    "id": "T05-L001",
+    "pair_ids": [
+      "MTP-000204",
+      "MTP-000206"
+    ],
+    "golden_ids": [
+      "MTP-S000688",
+      "MTP-S000695"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L002",
+    "pair_ids": [
+      "MTP-000198",
+      "MTP-000204",
+      "MTP-000227",
+      "MTP-000230"
+    ],
+    "golden_ids": [
+      "MTP-S000667",
+      "MTP-S000689",
+      "MTP-S000756",
+      "MTP-S000767"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L003",
+    "pair_ids": [
+      "MTP-000221",
+      "MTP-000229"
+    ],
+    "golden_ids": [
+      "MTP-S000743",
+      "MTP-S000764",
+      "MTP-S000765"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L004",
+    "pair_ids": [
+      "MTP-000198",
+      "MTP-000199"
+    ],
+    "golden_ids": [
+      "MTP-S000668",
+      "MTP-S000672"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L005",
+    "pair_ids": [
+      "MTP-000219",
+      "MTP-000302"
+    ],
+    "golden_ids": [
+      "MTP-S000733",
+      "MTP-S000998"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L006",
+    "pair_ids": [
+      "MTP-000219"
+    ],
+    "golden_ids": [
+      "MTP-S000735"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L007",
+    "pair_ids": [
+      "MTP-000228"
+    ],
+    "golden_ids": [
+      "MTP-S000761"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L008",
+    "pair_ids": [
+      "MTP-000228"
+    ],
+    "golden_ids": [
+      "MTP-S000762"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L009",
+    "pair_ids": [
+      "MTP-000232",
+      "MTP-000253",
+      "MTP-000262"
+    ],
+    "golden_ids": [
+      "MTP-S000769",
+      "MTP-S000843",
+      "MTP-S000871"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L010",
+    "pair_ids": [
+      "MTP-000232"
+    ],
+    "golden_ids": [
+      "MTP-S000772"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L011",
+    "pair_ids": [
+      "MTP-000233"
+    ],
+    "golden_ids": [
+      "MTP-S000775"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L012",
+    "pair_ids": [
+      "MTP-000238"
+    ],
+    "golden_ids": [
+      "MTP-S000790"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L013",
+    "pair_ids": [
+      "MTP-000251",
+      "MTP-000252",
+      "MTP-000256",
+      "MTP-000257",
+      "MTP-000259"
+    ],
+    "golden_ids": [
+      "MTP-S000833",
+      "MTP-S000835",
+      "MTP-S000837",
+      "MTP-S000851",
+      "MTP-S000855",
+      "MTP-S000860"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L014",
+    "pair_ids": [
+      "MTP-000247",
+      "MTP-000248"
+    ],
+    "golden_ids": [
+      "MTP-S000824",
+      "MTP-S000828"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L015",
+    "pair_ids": [
+      "MTP-000251",
+      "MTP-000252",
+      "MTP-000264"
+    ],
+    "golden_ids": [
+      "MTP-S000834",
+      "MTP-S000839",
+      "MTP-S000880"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L016",
+    "pair_ids": [
+      "MTP-000252",
+      "MTP-000259",
+      "MTP-000277"
+    ],
+    "golden_ids": [
+      "MTP-S000838",
+      "MTP-S000862",
+      "MTP-S000925"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L017",
+    "pair_ids": [
+      "MTP-000258"
+    ],
+    "golden_ids": [
+      "MTP-S000857"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L018",
+    "pair_ids": [
+      "MTP-000259"
+    ],
+    "golden_ids": [
+      "MTP-S000863"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L019",
+    "pair_ids": [
+      "MTP-000262"
+    ],
+    "golden_ids": [
+      "MTP-S000873"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L020",
+    "pair_ids": [
+      "MTP-000263"
+    ],
+    "golden_ids": [
+      "MTP-S000874"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L021",
+    "pair_ids": [
+      "MTP-000263"
+    ],
+    "golden_ids": [
+      "MTP-S000877"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L022",
+    "pair_ids": [
+      "MTP-000244",
+      "MTP-000246"
+    ],
+    "golden_ids": [
+      "MTP-S000813",
+      "MTP-S000817",
+      "MTP-S000818"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L023",
+    "pair_ids": [
+      "MTP-000248"
+    ],
+    "golden_ids": [
+      "MTP-S000825"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L024",
+    "pair_ids": [
+      "MTP-000267"
+    ],
+    "golden_ids": [
+      "MTP-S000890"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L025",
+    "pair_ids": [
+      "MTP-000209",
+      "MTP-000278",
+      "MTP-000299",
+      "MTP-000301",
+      "MTP-000302"
+    ],
+    "golden_ids": [
+      "MTP-S000707",
+      "MTP-S000928",
+      "MTP-S000992",
+      "MTP-S000994",
+      "MTP-S000996",
+      "MTP-S000997",
+      "MTP-S001001"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L026",
+    "pair_ids": [
+      "MTP-000280",
+      "MTP-000303",
+      "MTP-000307"
+    ],
+    "golden_ids": [
+      "MTP-S000933",
+      "MTP-S001004",
+      "MTP-S001014"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L027",
+    "pair_ids": [
+      "MTP-000271",
+      "MTP-000281",
+      "MTP-000316"
+    ],
+    "golden_ids": [
+      "MTP-S000901",
+      "MTP-S000935",
+      "MTP-S001042"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L028",
+    "pair_ids": [
+      "MTP-000281"
+    ],
+    "golden_ids": [
+      "MTP-S000936"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L029",
+    "pair_ids": [
+      "MTP-000281",
+      "MTP-000282",
+      "MTP-000303",
+      "MTP-000307"
+    ],
+    "golden_ids": [
+      "MTP-S000937",
+      "MTP-S000938",
+      "MTP-S000939",
+      "MTP-S001006",
+      "MTP-S001012",
+      "MTP-S001014"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L030",
+    "pair_ids": [
+      "MTP-000282",
+      "MTP-000286"
+    ],
+    "golden_ids": [
+      "MTP-S000942",
+      "MTP-S000954"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L031",
+    "pair_ids": [
+      "MTP-000273",
+      "MTP-000276",
+      "MTP-000283",
+      "MTP-000302",
+      "MTP-000303",
+      "MTP-000316"
+    ],
+    "golden_ids": [
+      "MTP-S000913",
+      "MTP-S000921",
+      "MTP-S000943",
+      "MTP-S000999",
+      "MTP-S001007",
+      "MTP-S001041"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L032",
+    "pair_ids": [
+      "MTP-000286"
+    ],
+    "golden_ids": [
+      "MTP-S000954"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L033",
+    "pair_ids": [
+      "MTP-000290"
+    ],
+    "golden_ids": [
+      "MTP-S000964"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L034",
+    "pair_ids": [
+      "MTP-000303"
+    ],
+    "golden_ids": [
+      "MTP-S001003"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L035",
+    "pair_ids": [
+      "MTP-000307"
+    ],
+    "golden_ids": [
+      "MTP-S001011"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L036",
+    "pair_ids": [
+      "MTP-000314",
+      "MTP-000316"
+    ],
+    "golden_ids": [
+      "MTP-S001037",
+      "MTP-S001039"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L037",
+    "pair_ids": [
+      "MTP-000242",
+      "MTP-000314"
+    ],
+    "golden_ids": [
+      "MTP-S000802",
+      "MTP-S001035"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L038",
+    "pair_ids": [
+      "MTP-000197",
+      "MTP-000202"
+    ],
+    "golden_ids": [
+      "MTP-S000662",
+      "MTP-S000683"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L039",
+    "pair_ids": [
+      "MTP-000252"
+    ],
+    "golden_ids": [
+      "MTP-S000840"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L040",
+    "pair_ids": [
+      "MTP-000268"
+    ],
+    "golden_ids": [
+      "MTP-S000894"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L041",
+    "pair_ids": [
+      "MTP-000297"
+    ],
+    "golden_ids": [
+      "MTP-S000988"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T05-L042",
+    "pair_ids": [
+      "MTP-000285"
+    ],
+    "golden_ids": [
+      "MTP-S000949"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
   }
 ]

@@ -43,5 +43,132 @@
     "note_id": "T05-007",
     "change": "Disclosed chapter5 provisional commitment beside saved chapter4 provisional samaya for དམ་ཚིག. English body unchanged.",
     "reason": "Make the locally chosen alternative explicit; neither provisional wording is promoted to an approved glossary default."
+  },
+  {
+    "id": "CH05-AUTHOR-C005",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S000940"
+    ],
+    "note_id": "T05-036",
+    "finding": "Q05-004",
+    "change": "Replaced categorical positive-clause claim with explicitly tentative reading and coordinated-negation alternative; English body unchanged.",
+    "reason": "Final མེད can plausibly scope both clauses coordinated by ཞིང, even without a separate earlier negative.",
+    "authority": "Source-linked open interpretation, not a source amendment."
+  },
+  {
+    "id": "CH05-AUTHOR-C006",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S001028"
+    ],
+    "note_id": "T05-046",
+    "finding": "Q05-005",
+    "change": "Changed seeing/belief criterion to seeing criterion.",
+    "reason": "The source and English express seeing; belief was unsupported in the note."
+  },
+  {
+    "id": "CH05-AUTHOR-C007",
+    "class": "terminological",
+    "note_ids": [
+      "T05-L001",
+      "T05-L002",
+      "T05-L003",
+      "T05-L004",
+      "T05-L005",
+      "T05-L006",
+      "T05-L007",
+      "T05-L008",
+      "T05-L009",
+      "T05-L010",
+      "T05-L011",
+      "T05-L012",
+      "T05-L013",
+      "T05-L014",
+      "T05-L015",
+      "T05-L016",
+      "T05-L017",
+      "T05-L018",
+      "T05-L019",
+      "T05-L020",
+      "T05-L021",
+      "T05-L022",
+      "T05-L023",
+      "T05-L024",
+      "T05-L025",
+      "T05-L026",
+      "T05-L027",
+      "T05-L028",
+      "T05-L029",
+      "T05-L030",
+      "T05-L031",
+      "T05-L032",
+      "T05-L033",
+      "T05-L034",
+      "T05-L035",
+      "T05-L036"
+    ],
+    "change": "Added 36 narrowly allocated reader-visible terminology notes for repeated or otherwise uncovered provisional usages. Synchronized source/pair note mappings and status-note references.",
+    "reason": "Make every recorded provisional technical locus traceable to an actual local English note; no unapproved glossary default is activated.",
+    "preservation": "English pair bodies after stripping note-reference tokens remain unchanged; first complete49-note author draft remains unchanged."
+  },
+  {
+    "id": "CH05-AUTHOR-C008",
+    "class": "terminological",
+    "note_ids": [
+      "T05-L005",
+      "T05-L016",
+      "T05-L037",
+      "T05-L038",
+      "T05-L039",
+      "T05-L040",
+      "T05-L041",
+      "T05-L042"
+    ],
+    "change": "Added six narrow terminology notes and extended two existing notes to exact additional form/saṃsāra loci; synchronized both maps and status-note references.",
+    "reason": "Final lexical-locality check exposed weak implicit or cross-pair note support at eleven source-linked loci; closure makes the actual treatments explicit.",
+    "preservation": "English bodies unchanged after stripping note references; original49-note draft unchanged."
+  },
+  {
+    "id": "CH05-AUTHOR-C009",
+    "class": "terminological",
+    "finding": "Q05-006",
+    "headwords": [
+      "འབྱུང་བ་",
+      "བརྟགས་",
+      "འགག་པ་"
+    ],
+    "change": "Normalized proposed primary English to element, imputed and cessation; actual great/negative source constructions remain scoped in proposals and usage conditions.",
+    "reason": "Bare proposed headwords must not import modifiers or negation absent from their own form. English translation unchanged."
+  },
+  {
+    "id": "CH05-AUTHOR-C010",
+    "class": "semantic/syntactic",
+    "finding": "Q05-007",
+    "usage_id": "T05-U260",
+    "locus": [
+      "MTP-S000940"
+    ],
+    "change": "Aligned condition_evidence with the already qualified T05-036: positive first clause is tentative and coordination-wide final-negation scope remains open.",
+    "reason": "Remove stale categorical metadata; English body unchanged."
+  },
+  {
+    "id": "CH05-AUTHOR-C011",
+    "class": "terminological",
+    "finding": "Q05-008",
+    "usage_id": "T05-U268",
+    "locus": [
+      "MTP-S001023"
+    ],
+    "note_id": "T05-046",
+    "change": "Classified by apprehending as provisional, consistently with identical instrumental verbal form at S958; explicitly recorded local treatment in the existing reader note and added S1023 to the existing proposal. Bare proposal English is apprehending; by remains the actual instrumental realization.",
+    "reason": "The same verbal form and sense require consistent authority status; neither spelling similarity nor recurrence silently approves a nominal-to-verbal technical assignment. English bodies and note count unchanged."
+  },
+  {
+    "id": "CH05-COORDINATOR-C012",
+    "class": "presentation",
+    "change": "Removed extra blank lines at 53 pair boundaries introduced during lexical-note attachment.",
+    "reason": "Restore canonical pair spacing and exact verse line counts without altering English wording, notes, reference IDs or the first draft archive.",
+    "reviewer": "/root"
   }
 ]
