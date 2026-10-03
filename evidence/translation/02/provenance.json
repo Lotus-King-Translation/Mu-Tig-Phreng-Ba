@@ -1,0 +1,24 @@
+[
+  {
+    "path": "evidence/translation/02/00435.png",
+    "image_index": 435,
+    "printed_page": 425,
+    "sha256": "3802c6fe54c9e2c926f7b3f8d27d2d184d0fe9c5b6dce6f548f6baba86cbc979",
+    "bytes": 62144,
+    "source_archive": "editions/scans/adzom-1973/iiif-response-images.zip",
+    "source_manifest": "editions/scans/adzom-1973/image-manifest.json",
+    "operation": "Exact native image response bytes extracted from the preserved archive; no resampling or pixel transformation.",
+    "storage": "Small native PNG stored directly in Git; exact-path attribute exception. Existing scan archives and other evidence retain Git LFS."
+  },
+  {
+    "path": "evidence/translation/02/00436.png",
+    "image_index": 436,
+    "printed_page": 426,
+    "sha256": "e299093b731166d55cc6347d5c02d61fa8fb9e9a920aa7556d02387c5914b9a4",
+    "bytes": 62903,
+    "source_archive": "editions/scans/adzom-1973/iiif-response-images.zip",
+    "source_manifest": "editions/scans/adzom-1973/image-manifest.json",
+    "operation": "Exact native image response bytes extracted from the preserved archive; no resampling or pixel transformation.",
+    "storage": "Small native PNG stored directly in Git; exact-path attribute exception. Existing scan archives and other evidence retain Git LFS."
+  }
+]
