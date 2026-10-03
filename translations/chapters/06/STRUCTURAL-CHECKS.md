@@ -15,3 +15,9 @@ Final English/build checks remain pending and will be appended after independent
 `/root/ch06_workflow` independently checked the committed source/audit checkpoint read-only: exact ordered anchors and pair roles; all 378 sealed obligations; all 23 PNGs against archive bytes, registered manifest hashes/size/dimensions/URLs/canvases and committed Git/LFS identities; reciprocal page/anchor/finding allocations; and complete unchanged chapter 1–5 inventories, bytes and bound inputs, including the unsigned chapter 4 snapshot. No structural discrepancy was found. This did not repeat the visual or semantic inspection, and no tests were rerun.
 
 Audited identities: audit886ea37f3ece17227b4b101cbab6a3d04658bef9981ce755c8a25340c05d1380; audit seal3e5e006befdf48f61c2fe2dd6c158576fa78cc4abf2025588637fe9d3d556c97; provenance7991c3c0e17d0d5624c7cd548e6f3face0664dc8f10bb5745fd4332a8c7f6798.
+
+## Complete first annotated draft
+
+The complete 49-note author draft was independently reviewed before archiving at SHA-256 504c165e8985bf2ebda38a676d723992b7c56858b3380081abe8bd7e27a0ffc1. Adding the authored golden/native apparatus produced 420 notes (49 translator, 13 golden-history, 358 native), covering all 378 source obligations. Preliminary assembly, build and read-only working validation pass at manifest aa839a1ea96a046ee2e99d6d5198e63993e0647f56cd614d5e83dbc5a9225f55. Usage/proposal files are not yet present; this is not final lexical clearance.
+
+Before signoff, the unsigned content gate rejects missing signoff. Strict final mode rejects the missing genuine chapter 2 publication receipt. Combining final mode with the working flag rejects the combination. These expected rejections preserve the publication boundary; they are not final-mode passes.

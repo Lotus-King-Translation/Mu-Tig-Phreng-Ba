@@ -45,5 +45,27 @@
     "old": "for [they] are even in the basic space of phenomena.",
     "new": "for, in the basic space of phenomena, [they] are even.",
     "reason": "Make the disclosed predicative evenness reading unmistakable rather than inviting additive even; lexical meaning and fixed source unchanged."
+  },
+  {
+    "id": "CH06-AUTHOR-C005",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S001405",
+      "MTP-S001406"
+    ],
+    "note_id": "T06-047",
+    "finding": "Q06-003",
+    "change": "Corrected the note from two ལས phrases to the ནས and ལས phrases.",
+    "reason": "The first source line ends ནས, the second ལས. Existing English from/from was correct and remains unchanged."
+  },
+  {
+    "id": "CH06-AUTHOR-C006",
+    "class": "presentation",
+    "locus": [
+      "MTP-S001423"
+    ],
+    "old": "are the own body of essence itself.",
+    "new": "are essence itself’s own body.",
+    "reason": "Minimal possessive-grammar cleanup retains own, body and essence with the same relationship; fixed source and technical assignments unchanged."
   }
 ]

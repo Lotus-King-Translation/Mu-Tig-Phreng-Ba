@@ -1,6 +1,6 @@
 # Chapter 6 independent agent QC
 
-**Partial review in progress. This report does not clear the complete chapter or its formal publication.**
+**All first-draft English bodies and 49 author notes reviewed; final lexical and apparatus review remains in progress. This report does not yet clear the complete candidate or its formal publication.**
 
 Reviewer: `/root/ch06_qc`. Translator: `/root/ch06_translate`. Review date: 2026-10-03. The author's lexical helper remains on the author side. Review mode is sequential complete batches against the Tibetan, with final lexical and apparatus review still pending.
 
@@ -20,8 +20,11 @@ The reviewer has not inspected native images. The separate native audit is evide
 - Seven locally unresolved pairs, 326, 340, 348, 353, 355, 356 and 367, are visibly represented. Retained Tibetan and missing-subject notation are not counted as complete decipherment.
 - Batch 2: all 39 new English pairs 370–408, representing 114 objects S1187–S1300, and translator notes T06-022–034 read against the fixed source. Combined review now covers 88 pairs / 249 objects and all 34 translator notes. Reviewed batch-2 draft SHA-256: `931238dc709ae68f68f402b5641d7c1dd106c7b4bb12acec1b60cd8d6f7efc51`. Six further locally unresolved pairs, 371, 373, 374, 384, 385 and 404, remain visibly represented; the total is thirteen.
 - The S1155 body correction and revised T06-018 were verified, together with their change record. Additions to T06-009/T06-021 explicitly distinguish current provisional terminology from prior inactive proposals; neither becomes approved.
+- Batch 3: all 44 new pairs 409–452, representing 127 objects S1301–S1427, and all notes T06-035–049 read against the fixed source. The complete first-draft scope is now 132 pairs / 376 objects and 49 author notes. Initial full-draft SHA-256: `a79458e0ab92c818295d3b9fe4e46c6cb07236724c66c4a0b25ec8c7ba48ef88`. Eight further locally unresolved pairs, 411, 416, 420, 428, 430, 431, 434 and 448, make twenty-one. These are coverage/status counts, not accuracy measures.
+- Q06-002's corrected body and T06-030 were verified, together with CH06-AUTHOR-C003. The meaning-preserving S1212 word-order clarification is recorded as presentation change C004 and was verified.
+- The author corrected Q06-003 and adopted the possessive grammar “are essence itself’s own body,” recorded as C005/C006. Both were independently verified. The resulting complete 49-note author draft has SHA-256 `504c165e8985bf2ebda38a676d723992b7c56858b3380081abe8bd7e27a0ffc1`; no first-draft body or author-note correction request remains open.
 - Read-only preparation checked exact source order and all 376 audit anchor allocations, finding references and nonempty quoted golden readings against the fixed objects. It read all 21 distinct audit explanation/consequence combinations, the nonagreement records, limitations and special confirmed readings. This is documentary preparation, not complete final generated-endnote QC or visual proof of allocation.
-- Remaining English review: 44 pairs / 127 objects, beginning S1301. Final usage records, eight-column proposals, all generated source endnotes, final outputs and hash-bound QC are still pending.
+- Remaining review: final usage records, eight-column proposals, generated source endnotes, final outputs and hash-bound QC.
 - No automated semantic certification or independent human certification is claimed. The standard's 30 semantic regression fixtures have not been executed by this reviewer.
 
 ## Findings
@@ -48,7 +51,18 @@ The reviewer has not inspected native images. The separate native audit is evide
 - Minimal action: preserve the buddhas' essence as the complement of “has not moved from,” and retain the nature of phenomena as the described subject. A tentative line-preserving candidate sent to the author is “This, from the perfectly [awakened] buddhas’ / very essence, has not moved: / the unchanging nature of phenomena, utterly stable.” The final local English can improve grammar without changing that relationship.
 - Authority: local syntax correction proposal; no canonical terminology or source edit.
 - Rules: Part I §§4–5, 7; QC Q3, Q7, Q9.
-- Disposition: sent to the author for source recheck and minimal correction; verification pending.
+- Disposition: author adopted the direct genitive construction and revised T06-030. The reviewer verified the corrected body, note and CH06-AUTHOR-C003 record. Closed.
+
+### Q06-003 — precise ablative particles in the review note
+
+- Source: S1405 `འཆར་བྱེད་སྒོ་རྣམས་སོ་སོ་ནས`; S1406 `བདེན་པའི་ཁྱད་པར་རེ་རེ་ལས`.
+- Draft: T06-047 says “The two ལས phrases are represented as ‘from’.” The English body correctly uses “from” for both.
+- Label/category: confirmed documentation error; source precision in annotation.
+- Severity: Low. Confidence: High; one particle is ནས and the other is ལས.
+- Minimal action: “The ནས and ལས phrases are represented as ‘from’.” No body change.
+- Authority: exact source-based note correction, not a lexical decision.
+- Rules: Part I §7; QC Q2, Q7, Q9.
+- Disposition: author applied the exact correction in T06-047, recorded as CH06-AUTHOR-C005. Reviewer verified it; body unchanged. Closed.
 
 ## Important conforming and unresolved usages
 
@@ -58,4 +72,8 @@ The S1114/S1115 print-versus-fixed spelling differences are disclosed locally. T
 
 Batch 2 retains both fixed mother-and-child phrases at S1190–S1191 and explicitly attributes the print's uncertain repetition/layer difference to the native audit. The difficult attachment and binding sequence at S1225–S1234 is not silently turned into a uniform release sequence. The explicit vajra preceding canonical vajra chains at S1291 remains visible and unresolved rather than silently collapsed. S1212's “even” is explained in T06-025 as predicative evenness, not additive “even”; optional word-order clarification was suggested without adding a source-absent verb.
 
-No other confirmed English-body mismatch was identified within the first two batches. Proposed glossary decisions and final usage completeness remain unassessed until their records are supplied. Coverage is partial; complete-chapter disposition is undetermined.
+The final batch preserves the unresolved S1306 source-layer allocation, exact single ཆ at S1307, the thig/le syllable analysis across metadata, the shes/rab/rang/byung exposition, fixed continuum at S1364, and the retained རྣལ་བ at S1378. Neither the two/right/two/left/center enumeration nor the four-birth and being-class lists are silently reconciled. The gold-chain comparison is explicitly a scoped provisional departure from the visionary glossary term; the latter remains present elsewhere.
+
+A presentation/grammar cleanup was suggested for pair 451's “are the own body of essence itself.” The author adopted “are essence itself’s own body,” preserving the source's own/body/essence relationship. The reviewer verified this local grammar correction and its C006 record.
+
+No other confirmed English-body mismatch was identified within the three batches. Body and original author-note review coverage is complete; final artifact/usage coverage and complete-candidate disposition remain undetermined until the remaining records are reviewed.
