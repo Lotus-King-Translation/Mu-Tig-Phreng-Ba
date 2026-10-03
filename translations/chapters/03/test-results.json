@@ -1,0 +1,23 @@
+{
+  "chapter": 3,
+  "verification_scope": "Structural pipeline and explicit draft-continuation gates; no semantic certification.",
+  "pipeline_tests": {
+    "command": "python3 scripts/test_translation_pipeline.py",
+    "passed": 36,
+    "failed": 0
+  },
+  "draft_continuation_tests": {
+    "command": "python3 scripts/test_translation_draft_continuation.py",
+    "passed": 10,
+    "failed": 0
+  },
+  "aggregate_tests": {
+    "command": "python3 scripts/test_translation_aggregate.py",
+    "passed": 21,
+    "failed": 0
+  },
+  "reviewer": "/root/ch03_workflow",
+  "existing_chapter2_final_pass_before_prefix_extension": true,
+  "semantic_regression_fixtures_newly_run": false,
+  "date": "2026-10-03"
+}

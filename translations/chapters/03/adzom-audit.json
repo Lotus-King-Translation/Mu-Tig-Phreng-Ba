@@ -230,7 +230,24 @@
         "MTP-S000302"
       ],
       "status": "direct_native_inspection_complete_for_allocated_chapter_span",
-      "unresolved": [],
+      "unresolved": [
+        "MTP-AUDIT-C03-079",
+        "MTP-AUDIT-C03-088",
+        "MTP-AUDIT-C03-089",
+        "MTP-AUDIT-C03-090",
+        "MTP-AUDIT-C03-091",
+        "MTP-AUDIT-C03-092",
+        "MTP-AUDIT-C03-093",
+        "MTP-AUDIT-C03-094",
+        "MTP-AUDIT-C03-095",
+        "MTP-AUDIT-C03-096",
+        "MTP-AUDIT-C03-097",
+        "MTP-AUDIT-C03-098",
+        "MTP-AUDIT-C03-099",
+        "MTP-AUDIT-C03-100",
+        "MTP-AUDIT-C03-101",
+        "MTP-AUDIT-C03-102"
+      ],
       "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950443.TIF/full/max/0/default.png"
     },
     {
@@ -259,7 +276,23 @@
       ],
       "status": "direct_native_inspection_complete_for_allocated_chapter_span",
       "unresolved": [
-        "MTP-AUDIT-C03-086"
+        "MTP-AUDIT-C03-081",
+        "MTP-AUDIT-C03-086",
+        "MTP-AUDIT-C03-103",
+        "MTP-AUDIT-C03-104",
+        "MTP-AUDIT-C03-105",
+        "MTP-AUDIT-C03-106",
+        "MTP-AUDIT-C03-107",
+        "MTP-AUDIT-C03-108",
+        "MTP-AUDIT-C03-109",
+        "MTP-AUDIT-C03-110",
+        "MTP-AUDIT-C03-111",
+        "MTP-AUDIT-C03-112",
+        "MTP-AUDIT-C03-113",
+        "MTP-AUDIT-C03-114",
+        "MTP-AUDIT-C03-115",
+        "MTP-AUDIT-C03-116",
+        "MTP-AUDIT-C03-117"
       ],
       "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950444.TIF/full/max/0/default.png"
     },
@@ -289,7 +322,24 @@
         "MTP-S000335"
       ],
       "status": "direct_native_inspection_complete_for_allocated_chapter_span",
-      "unresolved": [],
+      "unresolved": [
+        "MTP-AUDIT-C03-083",
+        "MTP-AUDIT-C03-118",
+        "MTP-AUDIT-C03-119",
+        "MTP-AUDIT-C03-120",
+        "MTP-AUDIT-C03-121",
+        "MTP-AUDIT-C03-122",
+        "MTP-AUDIT-C03-123",
+        "MTP-AUDIT-C03-124",
+        "MTP-AUDIT-C03-125",
+        "MTP-AUDIT-C03-126",
+        "MTP-AUDIT-C03-127",
+        "MTP-AUDIT-C03-128",
+        "MTP-AUDIT-C03-129",
+        "MTP-AUDIT-C03-130",
+        "MTP-AUDIT-C03-131",
+        "MTP-AUDIT-C03-132"
+      ],
       "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950445.TIF/full/max/0/default.png"
     },
     {
@@ -307,7 +357,13 @@
         "MTP-S000341"
       ],
       "status": "direct_native_inspection_complete_for_allocated_chapter_span",
-      "unresolved": [],
+      "unresolved": [
+        "MTP-AUDIT-C03-085",
+        "MTP-AUDIT-C03-132",
+        "MTP-AUDIT-C03-133",
+        "MTP-AUDIT-C03-134",
+        "MTP-AUDIT-C03-135"
+      ],
       "source_url": "https://iiif.bdrc.io/bdr:I1KG895::I1KG8950446.TIF/full/max/0/default.png"
     }
   ],
@@ -5791,5 +5847,6 @@
     "Existing golden uncertainty records and the S315 transcript correction remain independently mandatory translation obligations. The fixed golden-v1 text, source roles and canonical glossary are unchanged; a historical correction agreeing with the print is not an actual departure from Adzom.",
     "Native images440,441,442,443 and445 were extracted without transformation from the registered response ZIP; all eight image hashes match editions/scans/adzom-1973/image-manifest.json. Transient crops do not replace the native originals as evidence.",
     "Full multi-layer scan proofreading, exhaustive witness collation and independent human palaeographic certification are not claimed. Adjoining chapter2/chapter4 main text was outside this audit."
-  ]
+  ],
+  "image_unresolved_semantics": "Each image unresolved list contains every allocated uncertain_reading, source_omission or source_layer finding whose adzom_reading is null. Allocation uses the finding evidence image_index, including each image of a cross-page finding. Null means untranscribed or unresolved, not absent. Presentation-only findings are excluded."
 }
