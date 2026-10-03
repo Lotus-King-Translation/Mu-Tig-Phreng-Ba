@@ -1,0 +1,5751 @@
+[
+  {
+    "id": "T04-001",
+    "pair_ids": [
+      "MTP-000101",
+      "MTP-000103",
+      "MTP-000104",
+      "MTP-000110",
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000343",
+      "MTP-S000348",
+      "MTP-S000351",
+      "MTP-S000370",
+      "MTP-S000390"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-002",
+    "pair_ids": [
+      "MTP-000101",
+      "MTP-000102",
+      "MTP-000105",
+      "MTP-000108",
+      "MTP-000109",
+      "MTP-000110",
+      "MTP-000113",
+      "MTP-000115",
+      "MTP-000117",
+      "MTP-000118",
+      "MTP-000119",
+      "MTP-000121",
+      "MTP-000122",
+      "MTP-000123",
+      "MTP-000125",
+      "MTP-000126",
+      "MTP-000127",
+      "MTP-000128",
+      "MTP-000130",
+      "MTP-000131",
+      "MTP-000134",
+      "MTP-000135",
+      "MTP-000136",
+      "MTP-000138",
+      "MTP-000139"
+    ],
+    "golden_ids": [
+      "MTP-S000343",
+      "MTP-S000345",
+      "MTP-S000346",
+      "MTP-S000354",
+      "MTP-S000355",
+      "MTP-S000356",
+      "MTP-S000360",
+      "MTP-S000361",
+      "MTP-S000363",
+      "MTP-S000368",
+      "MTP-S000369",
+      "MTP-S000378",
+      "MTP-S000380",
+      "MTP-S000389",
+      "MTP-S000396",
+      "MTP-S000400",
+      "MTP-S000401",
+      "MTP-S000408",
+      "MTP-S000409",
+      "MTP-S000411",
+      "MTP-S000412",
+      "MTP-S000415",
+      "MTP-S000416",
+      "MTP-S000417",
+      "MTP-S000420",
+      "MTP-S000424",
+      "MTP-S000425",
+      "MTP-S000426",
+      "MTP-S000430",
+      "MTP-S000433",
+      "MTP-S000434",
+      "MTP-S000435",
+      "MTP-S000437",
+      "MTP-S000438",
+      "MTP-S000440",
+      "MTP-S000441",
+      "MTP-S000442",
+      "MTP-S000443",
+      "MTP-S000446",
+      "MTP-S000448",
+      "MTP-S000449",
+      "MTP-S000450",
+      "MTP-S000451",
+      "MTP-S000452",
+      "MTP-S000453",
+      "MTP-S000455",
+      "MTP-S000461",
+      "MTP-S000465",
+      "MTP-S000466",
+      "MTP-S000469",
+      "MTP-S000473",
+      "MTP-S000475",
+      "MTP-S000481",
+      "MTP-S000482",
+      "MTP-S000483",
+      "MTP-S000484",
+      "MTP-S000485"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-003",
+    "pair_ids": [
+      "MTP-000102"
+    ],
+    "golden_ids": [
+      "MTP-S000344",
+      "MTP-S000345",
+      "MTP-S000346"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-004",
+    "pair_ids": [
+      "MTP-000104",
+      "MTP-000109",
+      "MTP-000110",
+      "MTP-000111",
+      "MTP-000139"
+    ],
+    "golden_ids": [
+      "MTP-S000351",
+      "MTP-S000367",
+      "MTP-S000368",
+      "MTP-S000369",
+      "MTP-S000370",
+      "MTP-S000371",
+      "MTP-S000485"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-005",
+    "pair_ids": [
+      "MTP-000105"
+    ],
+    "golden_ids": [
+      "MTP-S000353",
+      "MTP-S000354",
+      "MTP-S000355",
+      "MTP-S000356"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-006",
+    "pair_ids": [
+      "MTP-000106",
+      "MTP-000108"
+    ],
+    "golden_ids": [
+      "MTP-S000357",
+      "MTP-S000359",
+      "MTP-S000360",
+      "MTP-S000361",
+      "MTP-S000362"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-007",
+    "pair_ids": [
+      "MTP-000109"
+    ],
+    "golden_ids": [
+      "MTP-S000363",
+      "MTP-S000364",
+      "MTP-S000365",
+      "MTP-S000366",
+      "MTP-S000367"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-008",
+    "pair_ids": [
+      "MTP-000110",
+      "MTP-000111",
+      "MTP-000113"
+    ],
+    "golden_ids": [
+      "MTP-S000368",
+      "MTP-S000369",
+      "MTP-S000374",
+      "MTP-S000375",
+      "MTP-S000376",
+      "MTP-S000378",
+      "MTP-S000379",
+      "MTP-S000380",
+      "MTP-S000381",
+      "MTP-S000382",
+      "MTP-S000383",
+      "MTP-S000384"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-009",
+    "pair_ids": [
+      "MTP-000114"
+    ],
+    "golden_ids": [
+      "MTP-S000385",
+      "MTP-S000386",
+      "MTP-S000387",
+      "MTP-S000388"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-010",
+    "pair_ids": [
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000389",
+      "MTP-S000390",
+      "MTP-S000391",
+      "MTP-S000392",
+      "MTP-S000393",
+      "MTP-S000394"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-011",
+    "pair_ids": [
+      "MTP-000117"
+    ],
+    "golden_ids": [
+      "MTP-S000396",
+      "MTP-S000397",
+      "MTP-S000398",
+      "MTP-S000399",
+      "MTP-S000400"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-012",
+    "pair_ids": [
+      "MTP-000118"
+    ],
+    "golden_ids": [
+      "MTP-S000401",
+      "MTP-S000402",
+      "MTP-S000403",
+      "MTP-S000404",
+      "MTP-S000405",
+      "MTP-S000406",
+      "MTP-S000407"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-013",
+    "pair_ids": [
+      "MTP-000119",
+      "MTP-000121"
+    ],
+    "golden_ids": [
+      "MTP-S000408",
+      "MTP-S000409",
+      "MTP-S000410",
+      "MTP-S000411",
+      "MTP-S000412",
+      "MTP-S000414",
+      "MTP-S000415",
+      "MTP-S000416",
+      "MTP-S000417",
+      "MTP-S000418"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-014",
+    "pair_ids": [
+      "MTP-000122"
+    ],
+    "golden_ids": [
+      "MTP-S000419",
+      "MTP-S000420",
+      "MTP-S000421",
+      "MTP-S000422",
+      "MTP-S000423"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-015",
+    "pair_ids": [
+      "MTP-000123"
+    ],
+    "golden_ids": [
+      "MTP-S000424",
+      "MTP-S000425"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-016",
+    "pair_ids": [
+      "MTP-000123",
+      "MTP-000125"
+    ],
+    "golden_ids": [
+      "MTP-S000426",
+      "MTP-S000427",
+      "MTP-S000428",
+      "MTP-S000430",
+      "MTP-S000431"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-017",
+    "pair_ids": [
+      "MTP-000126"
+    ],
+    "golden_ids": [
+      "MTP-S000432",
+      "MTP-S000433",
+      "MTP-S000434",
+      "MTP-S000435",
+      "MTP-S000436"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-018",
+    "pair_ids": [
+      "MTP-000127"
+    ],
+    "golden_ids": [
+      "MTP-S000437",
+      "MTP-S000438",
+      "MTP-S000439"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-019",
+    "pair_ids": [
+      "MTP-000128"
+    ],
+    "golden_ids": [
+      "MTP-S000440",
+      "MTP-S000441",
+      "MTP-S000442",
+      "MTP-S000443",
+      "MTP-S000444"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-020",
+    "pair_ids": [
+      "MTP-000130"
+    ],
+    "golden_ids": [
+      "MTP-S000446",
+      "MTP-S000447",
+      "MTP-S000448",
+      "MTP-S000449",
+      "MTP-S000450",
+      "MTP-S000451"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-021",
+    "pair_ids": [
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000452",
+      "MTP-S000453",
+      "MTP-S000454",
+      "MTP-S000455",
+      "MTP-S000456",
+      "MTP-S000457"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-022",
+    "pair_ids": [
+      "MTP-000132",
+      "MTP-000134"
+    ],
+    "golden_ids": [
+      "MTP-S000458",
+      "MTP-S000459",
+      "MTP-S000461",
+      "MTP-S000462",
+      "MTP-S000463",
+      "MTP-S000464",
+      "MTP-S000465",
+      "MTP-S000466"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-023",
+    "pair_ids": [
+      "MTP-000135"
+    ],
+    "golden_ids": [
+      "MTP-S000467",
+      "MTP-S000468",
+      "MTP-S000469",
+      "MTP-S000470",
+      "MTP-S000471",
+      "MTP-S000472"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-024",
+    "pair_ids": [
+      "MTP-000136",
+      "MTP-000138"
+    ],
+    "golden_ids": [
+      "MTP-S000473",
+      "MTP-S000475",
+      "MTP-S000476",
+      "MTP-S000477",
+      "MTP-S000478",
+      "MTP-S000479"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-025",
+    "pair_ids": [
+      "MTP-000139"
+    ],
+    "golden_ids": [
+      "MTP-S000480",
+      "MTP-S000481",
+      "MTP-S000482",
+      "MTP-S000483",
+      "MTP-S000484",
+      "MTP-S000485"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-101",
+    "pair_ids": [
+      "MTP-000140",
+      "MTP-000143",
+      "MTP-000156",
+      "MTP-000158",
+      "MTP-000171",
+      "MTP-000172",
+      "MTP-000175"
+    ],
+    "golden_ids": [
+      "MTP-S000486",
+      "MTP-S000491",
+      "MTP-S000540",
+      "MTP-S000542",
+      "MTP-S000545",
+      "MTP-S000593",
+      "MTP-S000594",
+      "MTP-S000604"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-102",
+    "pair_ids": [
+      "MTP-000140",
+      "MTP-000142",
+      "MTP-000143"
+    ],
+    "golden_ids": [
+      "MTP-S000486",
+      "MTP-S000487",
+      "MTP-S000489",
+      "MTP-S000490",
+      "MTP-S000491",
+      "MTP-S000492",
+      "MTP-S000493"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-103",
+    "pair_ids": [
+      "MTP-000144"
+    ],
+    "golden_ids": [
+      "MTP-S000494",
+      "MTP-S000495",
+      "MTP-S000496",
+      "MTP-S000497",
+      "MTP-S000498"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-104",
+    "pair_ids": [
+      "MTP-000145"
+    ],
+    "golden_ids": [
+      "MTP-S000499",
+      "MTP-S000500"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-105",
+    "pair_ids": [
+      "MTP-000145"
+    ],
+    "golden_ids": [
+      "MTP-S000501",
+      "MTP-S000502"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-106",
+    "pair_ids": [
+      "MTP-000145",
+      "MTP-000147"
+    ],
+    "golden_ids": [
+      "MTP-S000503",
+      "MTP-S000505"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-107",
+    "pair_ids": [
+      "MTP-000148"
+    ],
+    "golden_ids": [
+      "MTP-S000506",
+      "MTP-S000507",
+      "MTP-S000508",
+      "MTP-S000509",
+      "MTP-S000510"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-108",
+    "pair_ids": [
+      "MTP-000148",
+      "MTP-000149",
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000507",
+      "MTP-S000510",
+      "MTP-S000511",
+      "MTP-S000512",
+      "MTP-S000513",
+      "MTP-S000514",
+      "MTP-S000515",
+      "MTP-S000516",
+      "MTP-S000517",
+      "MTP-S000529",
+      "MTP-S000530",
+      "MTP-S000531",
+      "MTP-S000532",
+      "MTP-S000533"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-109",
+    "pair_ids": [
+      "MTP-000149",
+      "MTP-000165"
+    ],
+    "golden_ids": [
+      "MTP-S000514",
+      "MTP-S000517",
+      "MTP-S000568"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-110",
+    "pair_ids": [
+      "MTP-000151"
+    ],
+    "golden_ids": [
+      "MTP-S000519",
+      "MTP-S000520",
+      "MTP-S000521",
+      "MTP-S000522",
+      "MTP-S000523",
+      "MTP-S000524"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-111",
+    "pair_ids": [
+      "MTP-000152"
+    ],
+    "golden_ids": [
+      "MTP-S000525",
+      "MTP-S000526",
+      "MTP-S000527",
+      "MTP-S000528"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-112",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000529",
+      "MTP-S000530",
+      "MTP-S000531",
+      "MTP-S000533",
+      "MTP-S000534"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-113",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000532"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-114",
+    "pair_ids": [
+      "MTP-000155"
+    ],
+    "golden_ids": [
+      "MTP-S000536",
+      "MTP-S000537",
+      "MTP-S000538",
+      "MTP-S000539"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-115",
+    "pair_ids": [
+      "MTP-000157",
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000543",
+      "MTP-S000544",
+      "MTP-S000595",
+      "MTP-S000596"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-116",
+    "pair_ids": [
+      "MTP-000159",
+      "MTP-000161"
+    ],
+    "golden_ids": [
+      "MTP-S000546",
+      "MTP-S000547",
+      "MTP-S000548",
+      "MTP-S000549",
+      "MTP-S000550",
+      "MTP-S000552",
+      "MTP-S000553",
+      "MTP-S000554",
+      "MTP-S000555",
+      "MTP-S000556"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-117",
+    "pair_ids": [
+      "MTP-000161"
+    ],
+    "golden_ids": [
+      "MTP-S000552",
+      "MTP-S000553"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-118",
+    "pair_ids": [
+      "MTP-000162",
+      "MTP-000163",
+      "MTP-000165",
+      "MTP-000166",
+      "MTP-000167"
+    ],
+    "golden_ids": [
+      "MTP-S000557",
+      "MTP-S000558",
+      "MTP-S000559",
+      "MTP-S000560",
+      "MTP-S000561",
+      "MTP-S000562",
+      "MTP-S000563",
+      "MTP-S000564",
+      "MTP-S000565",
+      "MTP-S000566",
+      "MTP-S000568",
+      "MTP-S000569",
+      "MTP-S000570",
+      "MTP-S000571",
+      "MTP-S000572",
+      "MTP-S000573",
+      "MTP-S000574",
+      "MTP-S000575",
+      "MTP-S000576",
+      "MTP-S000577",
+      "MTP-S000578",
+      "MTP-S000579",
+      "MTP-S000580",
+      "MTP-S000581",
+      "MTP-S000582"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-119",
+    "pair_ids": [
+      "MTP-000163"
+    ],
+    "golden_ids": [
+      "MTP-S000565"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-120",
+    "pair_ids": [
+      "MTP-000163",
+      "MTP-000165"
+    ],
+    "golden_ids": [
+      "MTP-S000566",
+      "MTP-S000572"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-121",
+    "pair_ids": [
+      "MTP-000166"
+    ],
+    "golden_ids": [
+      "MTP-S000575",
+      "MTP-S000577"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-122",
+    "pair_ids": [
+      "MTP-000167"
+    ],
+    "golden_ids": [
+      "MTP-S000578",
+      "MTP-S000579"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-123",
+    "pair_ids": [
+      "MTP-000168",
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000583",
+      "MTP-S000585"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-124",
+    "pair_ids": [
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000586",
+      "MTP-S000587",
+      "MTP-S000588",
+      "MTP-S000589",
+      "MTP-S000590",
+      "MTP-S000591",
+      "MTP-S000592"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-125",
+    "pair_ids": [
+      "MTP-000171"
+    ],
+    "golden_ids": [
+      "MTP-S000593"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-126",
+    "pair_ids": [
+      "MTP-000172",
+      "MTP-000174"
+    ],
+    "golden_ids": [
+      "MTP-S000597",
+      "MTP-S000598",
+      "MTP-S000600",
+      "MTP-S000601",
+      "MTP-S000602",
+      "MTP-S000603"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-127",
+    "pair_ids": [
+      "MTP-000176"
+    ],
+    "golden_ids": [
+      "MTP-S000605",
+      "MTP-S000606"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-128",
+    "pair_ids": [
+      "MTP-000177",
+      "MTP-000178"
+    ],
+    "golden_ids": [
+      "MTP-S000607",
+      "MTP-S000608",
+      "MTP-S000609",
+      "MTP-S000610",
+      "MTP-S000611",
+      "MTP-S000612",
+      "MTP-S000613",
+      "MTP-S000614"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-129",
+    "pair_ids": [
+      "MTP-000178"
+    ],
+    "golden_ids": [
+      "MTP-S000611",
+      "MTP-S000612",
+      "MTP-S000613",
+      "MTP-S000614"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-130",
+    "pair_ids": [
+      "MTP-000180"
+    ],
+    "golden_ids": [
+      "MTP-S000616",
+      "MTP-S000617",
+      "MTP-S000618",
+      "MTP-S000619"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-131",
+    "pair_ids": [
+      "MTP-000181"
+    ],
+    "golden_ids": [
+      "MTP-S000620",
+      "MTP-S000621",
+      "MTP-S000622",
+      "MTP-S000623",
+      "MTP-S000624",
+      "MTP-S000625"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-132",
+    "pair_ids": [
+      "MTP-000182"
+    ],
+    "golden_ids": [
+      "MTP-S000626",
+      "MTP-S000627",
+      "MTP-S000628",
+      "MTP-S000629"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T04-133",
+    "pair_ids": [
+      "MTP-000184"
+    ],
+    "golden_ids": [
+      "MTP-S000631",
+      "MTP-S000632",
+      "MTP-S000633"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-134",
+    "pair_ids": [
+      "MTP-000185"
+    ],
+    "golden_ids": [
+      "MTP-S000634",
+      "MTP-S000635"
+    ],
+    "category": "terminology_provisional",
+    "obligations": []
+  },
+  {
+    "id": "T04-135",
+    "pair_ids": [
+      "MTP-000180",
+      "MTP-000181"
+    ],
+    "golden_ids": [
+      "MTP-S000617",
+      "MTP-S000621",
+      "MTP-S000622"
+    ],
+    "category": "presentation",
+    "obligations": []
+  },
+  {
+    "id": "CH04-G000343",
+    "pair_ids": [
+      "MTP-000101"
+    ],
+    "golden_ids": [
+      "MTP-S000343"
+    ],
+    "category": "golden_uncertainty",
+    "obligations": [
+      "golden-uncertainty:MTP-S000343:0"
+    ]
+  },
+  {
+    "id": "CH04-G000355",
+    "pair_ids": [
+      "MTP-000105"
+    ],
+    "golden_ids": [
+      "MTP-S000355"
+    ],
+    "category": "golden_uncertainty",
+    "obligations": [
+      "golden-uncertainty:MTP-S000355:0"
+    ]
+  },
+  {
+    "id": "CH04-G000356",
+    "pair_ids": [
+      "MTP-000105"
+    ],
+    "golden_ids": [
+      "MTP-S000356"
+    ],
+    "category": "golden_uncertainty",
+    "obligations": [
+      "golden-uncertainty:MTP-S000356:0"
+    ]
+  },
+  {
+    "id": "CH04-G000446",
+    "pair_ids": [
+      "MTP-000130"
+    ],
+    "golden_ids": [
+      "MTP-S000446"
+    ],
+    "category": "golden_uncertainty",
+    "obligations": [
+      "golden-uncertainty:MTP-S000446:0"
+    ]
+  },
+  {
+    "id": "CH04-G000456",
+    "pair_ids": [
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000456"
+    ],
+    "category": "golden_uncertainty",
+    "obligations": [
+      "golden-uncertainty:MTP-S000456:0"
+    ]
+  },
+  {
+    "id": "CH04-G000469",
+    "pair_ids": [
+      "MTP-000135"
+    ],
+    "golden_ids": [
+      "MTP-S000469"
+    ],
+    "category": "transcript_correction",
+    "obligations": [
+      "golden-change:MTP-C04-PIPE-D000469",
+      "golden-uncertainty:MTP-S000469:0"
+    ]
+  },
+  {
+    "id": "CH04-G000470",
+    "pair_ids": [
+      "MTP-000135"
+    ],
+    "golden_ids": [
+      "MTP-S000470"
+    ],
+    "category": "transcript_correction",
+    "obligations": [
+      "golden-change:MTP-C04-PIPE-D000470"
+    ]
+  },
+  {
+    "id": "CH04-G000618",
+    "pair_ids": [
+      "MTP-000180"
+    ],
+    "golden_ids": [
+      "MTP-S000618"
+    ],
+    "category": "golden_uncertainty",
+    "obligations": [
+      "golden-uncertainty:MTP-S000618:0"
+    ]
+  },
+  {
+    "id": "CH04-G000619",
+    "pair_ids": [
+      "MTP-000180"
+    ],
+    "golden_ids": [
+      "MTP-S000619"
+    ],
+    "category": "golden_uncertainty",
+    "obligations": [
+      "golden-uncertainty:MTP-S000619:0"
+    ]
+  },
+  {
+    "id": "CH04-G000634",
+    "pair_ids": [
+      "MTP-000185"
+    ],
+    "golden_ids": [
+      "MTP-S000634"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "golden-change:CH04-D000634"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-001",
+    "pair_ids": [
+      "MTP-000101",
+      "MTP-000102",
+      "MTP-000103",
+      "MTP-000104",
+      "MTP-000105",
+      "MTP-000106"
+    ],
+    "golden_ids": [
+      "MTP-S000343",
+      "MTP-S000344",
+      "MTP-S000345",
+      "MTP-S000346",
+      "MTP-S000347",
+      "MTP-S000348",
+      "MTP-S000349",
+      "MTP-S000350",
+      "MTP-S000351",
+      "MTP-S000352",
+      "MTP-S000353",
+      "MTP-S000354",
+      "MTP-S000355",
+      "MTP-S000356",
+      "MTP-S000357"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-001"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-002",
+    "pair_ids": [
+      "MTP-000106",
+      "MTP-000108",
+      "MTP-000109",
+      "MTP-000110",
+      "MTP-000111"
+    ],
+    "golden_ids": [
+      "MTP-S000357",
+      "MTP-S000359",
+      "MTP-S000360",
+      "MTP-S000361",
+      "MTP-S000362",
+      "MTP-S000363",
+      "MTP-S000364",
+      "MTP-S000365",
+      "MTP-S000366",
+      "MTP-S000367",
+      "MTP-S000368",
+      "MTP-S000369",
+      "MTP-S000370",
+      "MTP-S000371",
+      "MTP-S000372",
+      "MTP-S000373",
+      "MTP-S000374",
+      "MTP-S000375",
+      "MTP-S000376"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-002"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-003",
+    "pair_ids": [
+      "MTP-000111",
+      "MTP-000113",
+      "MTP-000114",
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000376",
+      "MTP-S000378",
+      "MTP-S000379",
+      "MTP-S000380",
+      "MTP-S000381",
+      "MTP-S000382",
+      "MTP-S000383",
+      "MTP-S000384",
+      "MTP-S000385",
+      "MTP-S000386",
+      "MTP-S000387",
+      "MTP-S000388",
+      "MTP-S000389",
+      "MTP-S000390",
+      "MTP-S000391",
+      "MTP-S000392",
+      "MTP-S000393",
+      "MTP-S000394"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-003"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-004",
+    "pair_ids": [
+      "MTP-000115",
+      "MTP-000117",
+      "MTP-000118",
+      "MTP-000119"
+    ],
+    "golden_ids": [
+      "MTP-S000394",
+      "MTP-S000396",
+      "MTP-S000397",
+      "MTP-S000398",
+      "MTP-S000399",
+      "MTP-S000400",
+      "MTP-S000401",
+      "MTP-S000402",
+      "MTP-S000403",
+      "MTP-S000404",
+      "MTP-S000405",
+      "MTP-S000406",
+      "MTP-S000407",
+      "MTP-S000408",
+      "MTP-S000409",
+      "MTP-S000410",
+      "MTP-S000411",
+      "MTP-S000412"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-004"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-005",
+    "pair_ids": [
+      "MTP-000119",
+      "MTP-000121",
+      "MTP-000122",
+      "MTP-000123"
+    ],
+    "golden_ids": [
+      "MTP-S000412",
+      "MTP-S000414",
+      "MTP-S000415",
+      "MTP-S000416",
+      "MTP-S000417",
+      "MTP-S000418",
+      "MTP-S000419",
+      "MTP-S000420",
+      "MTP-S000421",
+      "MTP-S000422",
+      "MTP-S000423",
+      "MTP-S000424",
+      "MTP-S000425",
+      "MTP-S000426",
+      "MTP-S000427",
+      "MTP-S000428"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-005"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-006",
+    "pair_ids": [
+      "MTP-000123",
+      "MTP-000125",
+      "MTP-000126",
+      "MTP-000127",
+      "MTP-000128"
+    ],
+    "golden_ids": [
+      "MTP-S000428",
+      "MTP-S000430",
+      "MTP-S000431",
+      "MTP-S000432",
+      "MTP-S000433",
+      "MTP-S000434",
+      "MTP-S000435",
+      "MTP-S000436",
+      "MTP-S000437",
+      "MTP-S000438",
+      "MTP-S000439",
+      "MTP-S000440",
+      "MTP-S000441",
+      "MTP-S000442",
+      "MTP-S000443",
+      "MTP-S000444"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-006"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-007",
+    "pair_ids": [
+      "MTP-000128",
+      "MTP-000130",
+      "MTP-000131",
+      "MTP-000132"
+    ],
+    "golden_ids": [
+      "MTP-S000444",
+      "MTP-S000446",
+      "MTP-S000447",
+      "MTP-S000448",
+      "MTP-S000449",
+      "MTP-S000450",
+      "MTP-S000451",
+      "MTP-S000452",
+      "MTP-S000453",
+      "MTP-S000454",
+      "MTP-S000455",
+      "MTP-S000456",
+      "MTP-S000457",
+      "MTP-S000458",
+      "MTP-S000459"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-007"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-008",
+    "pair_ids": [
+      "MTP-000100"
+    ],
+    "golden_ids": [
+      "MTP-S000342"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-008"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-009",
+    "pair_ids": [
+      "MTP-000107"
+    ],
+    "golden_ids": [
+      "MTP-S000358"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-009"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-010",
+    "pair_ids": [
+      "MTP-000112"
+    ],
+    "golden_ids": [
+      "MTP-S000377"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-010"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-011",
+    "pair_ids": [
+      "MTP-000116"
+    ],
+    "golden_ids": [
+      "MTP-S000395"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-011"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-012",
+    "pair_ids": [
+      "MTP-000120"
+    ],
+    "golden_ids": [
+      "MTP-S000413"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-012"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-013",
+    "pair_ids": [
+      "MTP-000124"
+    ],
+    "golden_ids": [
+      "MTP-S000429"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-013"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-014",
+    "pair_ids": [
+      "MTP-000129"
+    ],
+    "golden_ids": [
+      "MTP-S000445"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-014"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-015",
+    "pair_ids": [
+      "MTP-000105"
+    ],
+    "golden_ids": [
+      "MTP-S000355",
+      "MTP-S000356"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-015"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-016",
+    "pair_ids": [
+      "MTP-000122"
+    ],
+    "golden_ids": [
+      "MTP-S000421"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-016"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-017",
+    "pair_ids": [
+      "MTP-000130"
+    ],
+    "golden_ids": [
+      "MTP-S000446"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-017"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-018",
+    "pair_ids": [
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000456"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-018"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-019",
+    "pair_ids": [
+      "MTP-000101"
+    ],
+    "golden_ids": [
+      "MTP-S000343"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-019"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-020",
+    "pair_ids": [
+      "MTP-000102"
+    ],
+    "golden_ids": [
+      "MTP-S000345"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-020"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-021",
+    "pair_ids": [
+      "MTP-000102"
+    ],
+    "golden_ids": [
+      "MTP-S000346"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-021"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-022",
+    "pair_ids": [
+      "MTP-000103"
+    ],
+    "golden_ids": [
+      "MTP-S000347"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-022"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-023",
+    "pair_ids": [
+      "MTP-000103"
+    ],
+    "golden_ids": [
+      "MTP-S000349"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-023"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-024",
+    "pair_ids": [
+      "MTP-000105"
+    ],
+    "golden_ids": [
+      "MTP-S000353"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-024"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-025",
+    "pair_ids": [
+      "MTP-000105"
+    ],
+    "golden_ids": [
+      "MTP-S000354"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-025"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-026",
+    "pair_ids": [
+      "MTP-000105"
+    ],
+    "golden_ids": [
+      "MTP-S000356"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-026"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-027",
+    "pair_ids": [
+      "MTP-000106"
+    ],
+    "golden_ids": [
+      "MTP-S000357"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-027"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-028",
+    "pair_ids": [
+      "MTP-000108"
+    ],
+    "golden_ids": [
+      "MTP-S000359"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-028"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-029",
+    "pair_ids": [
+      "MTP-000108"
+    ],
+    "golden_ids": [
+      "MTP-S000360"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-029"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-030",
+    "pair_ids": [
+      "MTP-000108"
+    ],
+    "golden_ids": [
+      "MTP-S000361"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-030"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-031",
+    "pair_ids": [
+      "MTP-000108"
+    ],
+    "golden_ids": [
+      "MTP-S000362"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-031"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-032",
+    "pair_ids": [
+      "MTP-000109"
+    ],
+    "golden_ids": [
+      "MTP-S000363"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-032"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-033",
+    "pair_ids": [
+      "MTP-000109"
+    ],
+    "golden_ids": [
+      "MTP-S000364"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-033"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-034",
+    "pair_ids": [
+      "MTP-000109"
+    ],
+    "golden_ids": [
+      "MTP-S000365"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-034"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-035",
+    "pair_ids": [
+      "MTP-000109"
+    ],
+    "golden_ids": [
+      "MTP-S000366"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-035"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-036",
+    "pair_ids": [
+      "MTP-000109"
+    ],
+    "golden_ids": [
+      "MTP-S000367"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-036"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-037",
+    "pair_ids": [
+      "MTP-000110"
+    ],
+    "golden_ids": [
+      "MTP-S000368"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-037"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-038",
+    "pair_ids": [
+      "MTP-000110"
+    ],
+    "golden_ids": [
+      "MTP-S000369"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-038"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-039",
+    "pair_ids": [
+      "MTP-000111"
+    ],
+    "golden_ids": [
+      "MTP-S000371"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-039"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-040",
+    "pair_ids": [
+      "MTP-000111"
+    ],
+    "golden_ids": [
+      "MTP-S000373"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-040"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-041",
+    "pair_ids": [
+      "MTP-000111"
+    ],
+    "golden_ids": [
+      "MTP-S000374"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-041"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-042",
+    "pair_ids": [
+      "MTP-000111"
+    ],
+    "golden_ids": [
+      "MTP-S000375"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-042"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-043",
+    "pair_ids": [
+      "MTP-000111"
+    ],
+    "golden_ids": [
+      "MTP-S000376"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-043"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-044",
+    "pair_ids": [
+      "MTP-000113"
+    ],
+    "golden_ids": [
+      "MTP-S000378"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-044"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-045",
+    "pair_ids": [
+      "MTP-000113"
+    ],
+    "golden_ids": [
+      "MTP-S000379"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-045"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-046",
+    "pair_ids": [
+      "MTP-000113"
+    ],
+    "golden_ids": [
+      "MTP-S000380"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-046"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-047",
+    "pair_ids": [
+      "MTP-000113"
+    ],
+    "golden_ids": [
+      "MTP-S000381"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-047"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-048",
+    "pair_ids": [
+      "MTP-000113"
+    ],
+    "golden_ids": [
+      "MTP-S000383"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-048"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-049",
+    "pair_ids": [
+      "MTP-000113"
+    ],
+    "golden_ids": [
+      "MTP-S000384"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-049"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-050",
+    "pair_ids": [
+      "MTP-000114"
+    ],
+    "golden_ids": [
+      "MTP-S000385"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-050"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-051",
+    "pair_ids": [
+      "MTP-000114"
+    ],
+    "golden_ids": [
+      "MTP-S000386"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-051"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-052",
+    "pair_ids": [
+      "MTP-000114"
+    ],
+    "golden_ids": [
+      "MTP-S000387"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-052"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-053",
+    "pair_ids": [
+      "MTP-000114"
+    ],
+    "golden_ids": [
+      "MTP-S000388"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-053"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-054",
+    "pair_ids": [
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000389"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-054"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-055",
+    "pair_ids": [
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000390"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-055"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-056",
+    "pair_ids": [
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000391"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-056"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-057",
+    "pair_ids": [
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000392"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-057"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-058",
+    "pair_ids": [
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000393"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-058"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-059",
+    "pair_ids": [
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000394"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-059"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-060",
+    "pair_ids": [
+      "MTP-000117"
+    ],
+    "golden_ids": [
+      "MTP-S000396"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-060"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-061",
+    "pair_ids": [
+      "MTP-000117"
+    ],
+    "golden_ids": [
+      "MTP-S000397"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-061"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-062",
+    "pair_ids": [
+      "MTP-000117"
+    ],
+    "golden_ids": [
+      "MTP-S000398"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-062"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-063",
+    "pair_ids": [
+      "MTP-000117"
+    ],
+    "golden_ids": [
+      "MTP-S000399"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-063"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-064",
+    "pair_ids": [
+      "MTP-000117"
+    ],
+    "golden_ids": [
+      "MTP-S000400"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-064"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-065",
+    "pair_ids": [
+      "MTP-000118"
+    ],
+    "golden_ids": [
+      "MTP-S000401"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-065"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-066",
+    "pair_ids": [
+      "MTP-000118"
+    ],
+    "golden_ids": [
+      "MTP-S000402"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-066"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-067",
+    "pair_ids": [
+      "MTP-000118"
+    ],
+    "golden_ids": [
+      "MTP-S000404"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-067"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-068",
+    "pair_ids": [
+      "MTP-000118"
+    ],
+    "golden_ids": [
+      "MTP-S000406"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-068"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-069",
+    "pair_ids": [
+      "MTP-000118"
+    ],
+    "golden_ids": [
+      "MTP-S000407"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-069"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-070",
+    "pair_ids": [
+      "MTP-000119"
+    ],
+    "golden_ids": [
+      "MTP-S000408"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-070"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-071",
+    "pair_ids": [
+      "MTP-000119"
+    ],
+    "golden_ids": [
+      "MTP-S000409"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-071"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-072",
+    "pair_ids": [
+      "MTP-000119"
+    ],
+    "golden_ids": [
+      "MTP-S000410"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-072"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-073",
+    "pair_ids": [
+      "MTP-000119"
+    ],
+    "golden_ids": [
+      "MTP-S000411"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-073"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-074",
+    "pair_ids": [
+      "MTP-000119"
+    ],
+    "golden_ids": [
+      "MTP-S000412"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-074"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-075",
+    "pair_ids": [
+      "MTP-000121"
+    ],
+    "golden_ids": [
+      "MTP-S000414"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-075"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-076",
+    "pair_ids": [
+      "MTP-000121"
+    ],
+    "golden_ids": [
+      "MTP-S000415"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-076"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-077",
+    "pair_ids": [
+      "MTP-000121"
+    ],
+    "golden_ids": [
+      "MTP-S000416"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-077"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-078",
+    "pair_ids": [
+      "MTP-000121"
+    ],
+    "golden_ids": [
+      "MTP-S000417"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-078"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-079",
+    "pair_ids": [
+      "MTP-000121"
+    ],
+    "golden_ids": [
+      "MTP-S000418"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-079"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-080",
+    "pair_ids": [
+      "MTP-000122"
+    ],
+    "golden_ids": [
+      "MTP-S000420"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-080"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-081",
+    "pair_ids": [
+      "MTP-000122"
+    ],
+    "golden_ids": [
+      "MTP-S000421"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-081"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-082",
+    "pair_ids": [
+      "MTP-000122"
+    ],
+    "golden_ids": [
+      "MTP-S000422"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-082"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-083",
+    "pair_ids": [
+      "MTP-000122"
+    ],
+    "golden_ids": [
+      "MTP-S000423"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-083"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-084",
+    "pair_ids": [
+      "MTP-000123"
+    ],
+    "golden_ids": [
+      "MTP-S000424"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-084"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-085",
+    "pair_ids": [
+      "MTP-000123"
+    ],
+    "golden_ids": [
+      "MTP-S000425"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-085"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-086",
+    "pair_ids": [
+      "MTP-000123"
+    ],
+    "golden_ids": [
+      "MTP-S000426"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-086"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-087",
+    "pair_ids": [
+      "MTP-000123"
+    ],
+    "golden_ids": [
+      "MTP-S000427"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-087"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-088",
+    "pair_ids": [
+      "MTP-000123"
+    ],
+    "golden_ids": [
+      "MTP-S000428"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-088"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-089",
+    "pair_ids": [
+      "MTP-000123"
+    ],
+    "golden_ids": [
+      "MTP-S000428"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-089"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-090",
+    "pair_ids": [
+      "MTP-000125"
+    ],
+    "golden_ids": [
+      "MTP-S000430"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-090"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-091",
+    "pair_ids": [
+      "MTP-000125"
+    ],
+    "golden_ids": [
+      "MTP-S000431"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-091"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-092",
+    "pair_ids": [
+      "MTP-000126"
+    ],
+    "golden_ids": [
+      "MTP-S000433"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-092"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-093",
+    "pair_ids": [
+      "MTP-000126"
+    ],
+    "golden_ids": [
+      "MTP-S000434"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-093"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-094",
+    "pair_ids": [
+      "MTP-000126"
+    ],
+    "golden_ids": [
+      "MTP-S000435"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-094"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-095",
+    "pair_ids": [
+      "MTP-000126"
+    ],
+    "golden_ids": [
+      "MTP-S000436"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-095"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-096",
+    "pair_ids": [
+      "MTP-000127"
+    ],
+    "golden_ids": [
+      "MTP-S000437"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-096"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-097",
+    "pair_ids": [
+      "MTP-000127"
+    ],
+    "golden_ids": [
+      "MTP-S000438"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-097"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-098",
+    "pair_ids": [
+      "MTP-000127"
+    ],
+    "golden_ids": [
+      "MTP-S000439"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-098"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-099",
+    "pair_ids": [
+      "MTP-000128"
+    ],
+    "golden_ids": [
+      "MTP-S000440"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-099"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-100",
+    "pair_ids": [
+      "MTP-000128"
+    ],
+    "golden_ids": [
+      "MTP-S000441"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-100"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-101",
+    "pair_ids": [
+      "MTP-000128"
+    ],
+    "golden_ids": [
+      "MTP-S000442"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-101"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-102",
+    "pair_ids": [
+      "MTP-000128"
+    ],
+    "golden_ids": [
+      "MTP-S000443"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-102"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-103",
+    "pair_ids": [
+      "MTP-000128"
+    ],
+    "golden_ids": [
+      "MTP-S000444"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-103"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-104",
+    "pair_ids": [
+      "MTP-000130"
+    ],
+    "golden_ids": [
+      "MTP-S000446"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-104"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-105",
+    "pair_ids": [
+      "MTP-000130"
+    ],
+    "golden_ids": [
+      "MTP-S000447"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-105"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-106",
+    "pair_ids": [
+      "MTP-000130"
+    ],
+    "golden_ids": [
+      "MTP-S000448"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-106"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-107",
+    "pair_ids": [
+      "MTP-000130"
+    ],
+    "golden_ids": [
+      "MTP-S000449"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-107"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-108",
+    "pair_ids": [
+      "MTP-000130"
+    ],
+    "golden_ids": [
+      "MTP-S000450"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-108"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-109",
+    "pair_ids": [
+      "MTP-000130"
+    ],
+    "golden_ids": [
+      "MTP-S000451"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-109"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-110",
+    "pair_ids": [
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000452"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-110"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-111",
+    "pair_ids": [
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000453"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-111"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-112",
+    "pair_ids": [
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000454"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-112"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-113",
+    "pair_ids": [
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000455"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-113"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-114",
+    "pair_ids": [
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000456"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-114"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-115",
+    "pair_ids": [
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000457"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-115"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-116",
+    "pair_ids": [
+      "MTP-000132"
+    ],
+    "golden_ids": [
+      "MTP-S000458"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-116"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-117",
+    "pair_ids": [
+      "MTP-000132"
+    ],
+    "golden_ids": [
+      "MTP-S000459"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-117"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-118",
+    "pair_ids": [
+      "MTP-000101",
+      "MTP-000103",
+      "MTP-000105"
+    ],
+    "golden_ids": [
+      "MTP-S000343",
+      "MTP-S000349",
+      "MTP-S000355"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-118"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-119",
+    "pair_ids": [
+      "MTP-000108",
+      "MTP-000109",
+      "MTP-000111"
+    ],
+    "golden_ids": [
+      "MTP-S000359",
+      "MTP-S000365",
+      "MTP-S000373"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-119"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-120",
+    "pair_ids": [
+      "MTP-000111",
+      "MTP-000114",
+      "MTP-000115"
+    ],
+    "golden_ids": [
+      "MTP-S000376",
+      "MTP-S000385",
+      "MTP-S000391"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-120"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-121",
+    "pair_ids": [
+      "MTP-000117",
+      "MTP-000118",
+      "MTP-000119"
+    ],
+    "golden_ids": [
+      "MTP-S000396",
+      "MTP-S000402",
+      "MTP-S000409"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-121"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-122",
+    "pair_ids": [
+      "MTP-000121",
+      "MTP-000122",
+      "MTP-000123"
+    ],
+    "golden_ids": [
+      "MTP-S000414",
+      "MTP-S000422",
+      "MTP-S000426"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-122"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-123",
+    "pair_ids": [
+      "MTP-000125",
+      "MTP-000127",
+      "MTP-000128"
+    ],
+    "golden_ids": [
+      "MTP-S000430",
+      "MTP-S000437",
+      "MTP-S000443"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-123"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-124",
+    "pair_ids": [
+      "MTP-000130",
+      "MTP-000131"
+    ],
+    "golden_ids": [
+      "MTP-S000446",
+      "MTP-S000452",
+      "MTP-S000457"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-124"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-125",
+    "pair_ids": [
+      "MTP-000133"
+    ],
+    "golden_ids": [
+      "MTP-S000460"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-125"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-126",
+    "pair_ids": [
+      "MTP-000134",
+      "MTP-000135",
+      "MTP-000136"
+    ],
+    "golden_ids": [
+      "MTP-S000461",
+      "MTP-S000462",
+      "MTP-S000463",
+      "MTP-S000464",
+      "MTP-S000465",
+      "MTP-S000466",
+      "MTP-S000467",
+      "MTP-S000468",
+      "MTP-S000469",
+      "MTP-S000470",
+      "MTP-S000471",
+      "MTP-S000472",
+      "MTP-S000473"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-126"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-127",
+    "pair_ids": [
+      "MTP-000133"
+    ],
+    "golden_ids": [
+      "MTP-S000460"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-127"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-128",
+    "pair_ids": [
+      "MTP-000137"
+    ],
+    "golden_ids": [
+      "MTP-S000474"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-128"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-129",
+    "pair_ids": [
+      "MTP-000138",
+      "MTP-000139",
+      "MTP-000140"
+    ],
+    "golden_ids": [
+      "MTP-S000475",
+      "MTP-S000476",
+      "MTP-S000477",
+      "MTP-S000478",
+      "MTP-S000479",
+      "MTP-S000480",
+      "MTP-S000481",
+      "MTP-S000482",
+      "MTP-S000483",
+      "MTP-S000484",
+      "MTP-S000485",
+      "MTP-S000486",
+      "MTP-S000487"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-129"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-130",
+    "pair_ids": [
+      "MTP-000137"
+    ],
+    "golden_ids": [
+      "MTP-S000474"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-130"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-131",
+    "pair_ids": [
+      "MTP-000141"
+    ],
+    "golden_ids": [
+      "MTP-S000488"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-131"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-132",
+    "pair_ids": [
+      "MTP-000142",
+      "MTP-000143",
+      "MTP-000144",
+      "MTP-000145"
+    ],
+    "golden_ids": [
+      "MTP-S000489",
+      "MTP-S000490",
+      "MTP-S000491",
+      "MTP-S000492",
+      "MTP-S000493",
+      "MTP-S000494",
+      "MTP-S000495",
+      "MTP-S000496",
+      "MTP-S000497",
+      "MTP-S000498",
+      "MTP-S000499",
+      "MTP-S000500",
+      "MTP-S000501",
+      "MTP-S000502",
+      "MTP-S000503"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-132"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-133",
+    "pair_ids": [
+      "MTP-000141"
+    ],
+    "golden_ids": [
+      "MTP-S000488"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-133"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-134",
+    "pair_ids": [
+      "MTP-000146"
+    ],
+    "golden_ids": [
+      "MTP-S000504"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-134"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-135",
+    "pair_ids": [
+      "MTP-000147",
+      "MTP-000148",
+      "MTP-000149"
+    ],
+    "golden_ids": [
+      "MTP-S000505",
+      "MTP-S000506",
+      "MTP-S000507",
+      "MTP-S000508",
+      "MTP-S000509",
+      "MTP-S000510",
+      "MTP-S000511",
+      "MTP-S000512",
+      "MTP-S000513",
+      "MTP-S000514",
+      "MTP-S000515",
+      "MTP-S000516",
+      "MTP-S000517"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-135"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-136",
+    "pair_ids": [
+      "MTP-000146"
+    ],
+    "golden_ids": [
+      "MTP-S000504"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-136"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-137",
+    "pair_ids": [
+      "MTP-000150"
+    ],
+    "golden_ids": [
+      "MTP-S000518"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-137"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-138",
+    "pair_ids": [
+      "MTP-000151",
+      "MTP-000152",
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000519",
+      "MTP-S000520",
+      "MTP-S000521",
+      "MTP-S000522",
+      "MTP-S000523",
+      "MTP-S000524",
+      "MTP-S000525",
+      "MTP-S000526",
+      "MTP-S000527",
+      "MTP-S000528",
+      "MTP-S000529",
+      "MTP-S000530",
+      "MTP-S000531",
+      "MTP-S000532",
+      "MTP-S000533",
+      "MTP-S000534"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-138"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-139",
+    "pair_ids": [
+      "MTP-000150"
+    ],
+    "golden_ids": [
+      "MTP-S000518"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-139"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-140",
+    "pair_ids": [
+      "MTP-000154"
+    ],
+    "golden_ids": [
+      "MTP-S000535"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-140"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-141",
+    "pair_ids": [
+      "MTP-000155",
+      "MTP-000156",
+      "MTP-000157",
+      "MTP-000158",
+      "MTP-000159"
+    ],
+    "golden_ids": [
+      "MTP-S000536",
+      "MTP-S000537",
+      "MTP-S000538",
+      "MTP-S000539",
+      "MTP-S000540",
+      "MTP-S000541",
+      "MTP-S000542",
+      "MTP-S000543",
+      "MTP-S000544",
+      "MTP-S000545",
+      "MTP-S000546",
+      "MTP-S000547",
+      "MTP-S000548",
+      "MTP-S000549",
+      "MTP-S000550"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-141"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-142",
+    "pair_ids": [
+      "MTP-000154"
+    ],
+    "golden_ids": [
+      "MTP-S000535"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-142"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-143",
+    "pair_ids": [
+      "MTP-000132"
+    ],
+    "golden_ids": [
+      "MTP-S000459"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-143"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-144",
+    "pair_ids": [
+      "MTP-000134"
+    ],
+    "golden_ids": [
+      "MTP-S000461"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-144"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-145",
+    "pair_ids": [
+      "MTP-000134"
+    ],
+    "golden_ids": [
+      "MTP-S000463"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-145"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-146",
+    "pair_ids": [
+      "MTP-000134"
+    ],
+    "golden_ids": [
+      "MTP-S000464"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-146"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-147",
+    "pair_ids": [
+      "MTP-000134"
+    ],
+    "golden_ids": [
+      "MTP-S000465"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-147"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-148",
+    "pair_ids": [
+      "MTP-000134"
+    ],
+    "golden_ids": [
+      "MTP-S000466"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-148"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-149",
+    "pair_ids": [
+      "MTP-000135"
+    ],
+    "golden_ids": [
+      "MTP-S000467"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-149"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-150",
+    "pair_ids": [
+      "MTP-000135"
+    ],
+    "golden_ids": [
+      "MTP-S000468"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-150"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-151",
+    "pair_ids": [
+      "MTP-000135"
+    ],
+    "golden_ids": [
+      "MTP-S000469"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-151"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-152",
+    "pair_ids": [
+      "MTP-000135"
+    ],
+    "golden_ids": [
+      "MTP-S000470"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-152"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-153",
+    "pair_ids": [
+      "MTP-000135"
+    ],
+    "golden_ids": [
+      "MTP-S000472"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-153"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-154",
+    "pair_ids": [
+      "MTP-000136"
+    ],
+    "golden_ids": [
+      "MTP-S000473"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-154"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-155",
+    "pair_ids": [
+      "MTP-000136"
+    ],
+    "golden_ids": [
+      "MTP-S000473"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-155"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-156",
+    "pair_ids": [
+      "MTP-000138"
+    ],
+    "golden_ids": [
+      "MTP-S000475"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-156"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-157",
+    "pair_ids": [
+      "MTP-000138"
+    ],
+    "golden_ids": [
+      "MTP-S000476"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-157"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-158",
+    "pair_ids": [
+      "MTP-000138"
+    ],
+    "golden_ids": [
+      "MTP-S000477"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-158"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-159",
+    "pair_ids": [
+      "MTP-000138"
+    ],
+    "golden_ids": [
+      "MTP-S000478"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-159"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-160",
+    "pair_ids": [
+      "MTP-000138"
+    ],
+    "golden_ids": [
+      "MTP-S000479"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-160"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-161",
+    "pair_ids": [
+      "MTP-000139"
+    ],
+    "golden_ids": [
+      "MTP-S000480"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-161"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-162",
+    "pair_ids": [
+      "MTP-000139"
+    ],
+    "golden_ids": [
+      "MTP-S000481"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-162"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-163",
+    "pair_ids": [
+      "MTP-000139"
+    ],
+    "golden_ids": [
+      "MTP-S000482"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-163"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-164",
+    "pair_ids": [
+      "MTP-000139"
+    ],
+    "golden_ids": [
+      "MTP-S000484"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-164"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-165",
+    "pair_ids": [
+      "MTP-000139"
+    ],
+    "golden_ids": [
+      "MTP-S000485"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-165"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-166",
+    "pair_ids": [
+      "MTP-000140"
+    ],
+    "golden_ids": [
+      "MTP-S000487"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-166"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-167",
+    "pair_ids": [
+      "MTP-000142"
+    ],
+    "golden_ids": [
+      "MTP-S000489"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-167"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-168",
+    "pair_ids": [
+      "MTP-000143"
+    ],
+    "golden_ids": [
+      "MTP-S000491"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-168"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-169",
+    "pair_ids": [
+      "MTP-000143"
+    ],
+    "golden_ids": [
+      "MTP-S000492"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-169"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-170",
+    "pair_ids": [
+      "MTP-000143"
+    ],
+    "golden_ids": [
+      "MTP-S000493"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-170"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-171",
+    "pair_ids": [
+      "MTP-000144"
+    ],
+    "golden_ids": [
+      "MTP-S000494"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-171"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-172",
+    "pair_ids": [
+      "MTP-000144"
+    ],
+    "golden_ids": [
+      "MTP-S000495"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-172"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-173",
+    "pair_ids": [
+      "MTP-000144"
+    ],
+    "golden_ids": [
+      "MTP-S000497"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-173"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-174",
+    "pair_ids": [
+      "MTP-000144"
+    ],
+    "golden_ids": [
+      "MTP-S000498"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-174"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-175",
+    "pair_ids": [
+      "MTP-000145"
+    ],
+    "golden_ids": [
+      "MTP-S000499"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-175"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-176",
+    "pair_ids": [
+      "MTP-000145"
+    ],
+    "golden_ids": [
+      "MTP-S000500"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-176"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-177",
+    "pair_ids": [
+      "MTP-000145"
+    ],
+    "golden_ids": [
+      "MTP-S000501"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-177"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-178",
+    "pair_ids": [
+      "MTP-000145"
+    ],
+    "golden_ids": [
+      "MTP-S000502"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-178"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-179",
+    "pair_ids": [
+      "MTP-000145"
+    ],
+    "golden_ids": [
+      "MTP-S000503"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-179"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-180",
+    "pair_ids": [
+      "MTP-000147"
+    ],
+    "golden_ids": [
+      "MTP-S000505"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-180"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-181",
+    "pair_ids": [
+      "MTP-000148"
+    ],
+    "golden_ids": [
+      "MTP-S000506"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-181"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-182",
+    "pair_ids": [
+      "MTP-000148"
+    ],
+    "golden_ids": [
+      "MTP-S000507"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-182"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-183",
+    "pair_ids": [
+      "MTP-000148"
+    ],
+    "golden_ids": [
+      "MTP-S000508"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-183"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-184",
+    "pair_ids": [
+      "MTP-000148"
+    ],
+    "golden_ids": [
+      "MTP-S000510"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-184"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-185",
+    "pair_ids": [
+      "MTP-000148"
+    ],
+    "golden_ids": [
+      "MTP-S000511"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-185"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-186",
+    "pair_ids": [
+      "MTP-000148"
+    ],
+    "golden_ids": [
+      "MTP-S000512"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-186"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-187",
+    "pair_ids": [
+      "MTP-000149"
+    ],
+    "golden_ids": [
+      "MTP-S000513"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-187"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-188",
+    "pair_ids": [
+      "MTP-000149"
+    ],
+    "golden_ids": [
+      "MTP-S000514"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-188"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-189",
+    "pair_ids": [
+      "MTP-000149"
+    ],
+    "golden_ids": [
+      "MTP-S000515"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-189"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-190",
+    "pair_ids": [
+      "MTP-000149"
+    ],
+    "golden_ids": [
+      "MTP-S000516"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-190"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-191",
+    "pair_ids": [
+      "MTP-000149"
+    ],
+    "golden_ids": [
+      "MTP-S000517"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-191"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-192",
+    "pair_ids": [
+      "MTP-000149"
+    ],
+    "golden_ids": [
+      "MTP-S000517"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-192"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-193",
+    "pair_ids": [
+      "MTP-000151"
+    ],
+    "golden_ids": [
+      "MTP-S000519"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-193"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-194",
+    "pair_ids": [
+      "MTP-000151"
+    ],
+    "golden_ids": [
+      "MTP-S000520"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-194"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-195",
+    "pair_ids": [
+      "MTP-000151"
+    ],
+    "golden_ids": [
+      "MTP-S000521"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-195"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-196",
+    "pair_ids": [
+      "MTP-000151"
+    ],
+    "golden_ids": [
+      "MTP-S000522"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-196"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-197",
+    "pair_ids": [
+      "MTP-000151"
+    ],
+    "golden_ids": [
+      "MTP-S000523"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-197"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-198",
+    "pair_ids": [
+      "MTP-000151"
+    ],
+    "golden_ids": [
+      "MTP-S000524"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-198"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-199",
+    "pair_ids": [
+      "MTP-000152"
+    ],
+    "golden_ids": [
+      "MTP-S000527"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-199"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-200",
+    "pair_ids": [
+      "MTP-000152"
+    ],
+    "golden_ids": [
+      "MTP-S000528"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-200"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-201",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000529"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-201"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-202",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000530"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-202"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-203",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000531"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-203"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-204",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000532"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-204"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-205",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000533"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-205"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-206",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000534"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-206"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-207",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000534"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-207"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-208",
+    "pair_ids": [
+      "MTP-000155"
+    ],
+    "golden_ids": [
+      "MTP-S000536"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-208"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-209",
+    "pair_ids": [
+      "MTP-000155"
+    ],
+    "golden_ids": [
+      "MTP-S000537"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-209"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-210",
+    "pair_ids": [
+      "MTP-000155"
+    ],
+    "golden_ids": [
+      "MTP-S000538"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-210"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-211",
+    "pair_ids": [
+      "MTP-000155"
+    ],
+    "golden_ids": [
+      "MTP-S000539"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-211"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-212",
+    "pair_ids": [
+      "MTP-000156"
+    ],
+    "golden_ids": [
+      "MTP-S000540"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-212"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-213",
+    "pair_ids": [
+      "MTP-000156"
+    ],
+    "golden_ids": [
+      "MTP-S000541"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-213"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-214",
+    "pair_ids": [
+      "MTP-000156"
+    ],
+    "golden_ids": [
+      "MTP-S000542"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-214"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-215",
+    "pair_ids": [
+      "MTP-000157"
+    ],
+    "golden_ids": [
+      "MTP-S000543"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-215"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-216",
+    "pair_ids": [
+      "MTP-000157"
+    ],
+    "golden_ids": [
+      "MTP-S000544"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-216"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-217",
+    "pair_ids": [
+      "MTP-000158"
+    ],
+    "golden_ids": [
+      "MTP-S000545"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-217"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-218",
+    "pair_ids": [
+      "MTP-000159"
+    ],
+    "golden_ids": [
+      "MTP-S000546"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-218"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-219",
+    "pair_ids": [
+      "MTP-000159"
+    ],
+    "golden_ids": [
+      "MTP-S000547"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-219"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-220",
+    "pair_ids": [
+      "MTP-000159"
+    ],
+    "golden_ids": [
+      "MTP-S000548"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-220"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-221",
+    "pair_ids": [
+      "MTP-000159"
+    ],
+    "golden_ids": [
+      "MTP-S000549"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-221"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-222",
+    "pair_ids": [
+      "MTP-000159"
+    ],
+    "golden_ids": [
+      "MTP-S000550"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-222"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-223",
+    "pair_ids": [
+      "MTP-000145"
+    ],
+    "golden_ids": [
+      "MTP-S000501"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-223"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-224",
+    "pair_ids": [
+      "MTP-000153"
+    ],
+    "golden_ids": [
+      "MTP-S000529"
+    ],
+    "category": "uncertain_reading",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-224"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-225",
+    "pair_ids": [
+      "MTP-000160",
+      "MTP-000161",
+      "MTP-000162",
+      "MTP-000163"
+    ],
+    "golden_ids": [
+      "MTP-S000551",
+      "MTP-S000552",
+      "MTP-S000553",
+      "MTP-S000554",
+      "MTP-S000555",
+      "MTP-S000556",
+      "MTP-S000557",
+      "MTP-S000558",
+      "MTP-S000559",
+      "MTP-S000560",
+      "MTP-S000561",
+      "MTP-S000562",
+      "MTP-S000563",
+      "MTP-S000564",
+      "MTP-S000565",
+      "MTP-S000566"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-225"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-226",
+    "pair_ids": [
+      "MTP-000160"
+    ],
+    "golden_ids": [
+      "MTP-S000551"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-226"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-227",
+    "pair_ids": [
+      "MTP-000164",
+      "MTP-000165",
+      "MTP-000166",
+      "MTP-000167",
+      "MTP-000168"
+    ],
+    "golden_ids": [
+      "MTP-S000567",
+      "MTP-S000568",
+      "MTP-S000569",
+      "MTP-S000570",
+      "MTP-S000571",
+      "MTP-S000572",
+      "MTP-S000573",
+      "MTP-S000574",
+      "MTP-S000575",
+      "MTP-S000576",
+      "MTP-S000577",
+      "MTP-S000578",
+      "MTP-S000579",
+      "MTP-S000580",
+      "MTP-S000581",
+      "MTP-S000582",
+      "MTP-S000583"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-227"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-228",
+    "pair_ids": [
+      "MTP-000164"
+    ],
+    "golden_ids": [
+      "MTP-S000567"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-228"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-229",
+    "pair_ids": [
+      "MTP-000169",
+      "MTP-000170",
+      "MTP-000171",
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000584",
+      "MTP-S000585",
+      "MTP-S000586",
+      "MTP-S000587",
+      "MTP-S000588",
+      "MTP-S000589",
+      "MTP-S000590",
+      "MTP-S000591",
+      "MTP-S000592",
+      "MTP-S000593",
+      "MTP-S000594",
+      "MTP-S000595",
+      "MTP-S000596",
+      "MTP-S000597",
+      "MTP-S000598"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-229"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-230",
+    "pair_ids": [
+      "MTP-000169"
+    ],
+    "golden_ids": [
+      "MTP-S000584"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-230"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-231",
+    "pair_ids": [
+      "MTP-000173",
+      "MTP-000174",
+      "MTP-000175",
+      "MTP-000176",
+      "MTP-000177",
+      "MTP-000178"
+    ],
+    "golden_ids": [
+      "MTP-S000599",
+      "MTP-S000600",
+      "MTP-S000601",
+      "MTP-S000602",
+      "MTP-S000603",
+      "MTP-S000604",
+      "MTP-S000605",
+      "MTP-S000606",
+      "MTP-S000607",
+      "MTP-S000608",
+      "MTP-S000609",
+      "MTP-S000610",
+      "MTP-S000611",
+      "MTP-S000612",
+      "MTP-S000613",
+      "MTP-S000614"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-231"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-232",
+    "pair_ids": [
+      "MTP-000173"
+    ],
+    "golden_ids": [
+      "MTP-S000599"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-232"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-233",
+    "pair_ids": [
+      "MTP-000179",
+      "MTP-000180",
+      "MTP-000181",
+      "MTP-000182"
+    ],
+    "golden_ids": [
+      "MTP-S000615",
+      "MTP-S000616",
+      "MTP-S000617",
+      "MTP-S000618",
+      "MTP-S000619",
+      "MTP-S000620",
+      "MTP-S000621",
+      "MTP-S000622",
+      "MTP-S000623",
+      "MTP-S000624",
+      "MTP-S000625",
+      "MTP-S000626",
+      "MTP-S000627",
+      "MTP-S000628",
+      "MTP-S000629"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-233"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-234",
+    "pair_ids": [
+      "MTP-000179"
+    ],
+    "golden_ids": [
+      "MTP-S000615"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-234"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-235",
+    "pair_ids": [
+      "MTP-000183",
+      "MTP-000184",
+      "MTP-000185"
+    ],
+    "golden_ids": [
+      "MTP-S000630",
+      "MTP-S000631",
+      "MTP-S000632",
+      "MTP-S000633",
+      "MTP-S000634",
+      "MTP-S000635"
+    ],
+    "category": "presentation",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-235"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-236",
+    "pair_ids": [
+      "MTP-000183"
+    ],
+    "golden_ids": [
+      "MTP-S000630"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-236"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-237",
+    "pair_ids": [
+      "MTP-000168"
+    ],
+    "golden_ids": [
+      "MTP-S000583"
+    ],
+    "category": "adzom_difference",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-237"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-238",
+    "pair_ids": [
+      "MTP-000185"
+    ],
+    "golden_ids": [
+      "MTP-S000634",
+      "MTP-S000635"
+    ],
+    "category": "source_layer",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-238"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-239",
+    "pair_ids": [
+      "MTP-000159"
+    ],
+    "golden_ids": [
+      "MTP-S000550"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-239"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-240",
+    "pair_ids": [
+      "MTP-000161"
+    ],
+    "golden_ids": [
+      "MTP-S000553"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-240"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-241",
+    "pair_ids": [
+      "MTP-000161"
+    ],
+    "golden_ids": [
+      "MTP-S000554"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-241"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-242",
+    "pair_ids": [
+      "MTP-000161"
+    ],
+    "golden_ids": [
+      "MTP-S000555"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-242"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-243",
+    "pair_ids": [
+      "MTP-000161"
+    ],
+    "golden_ids": [
+      "MTP-S000556"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-243"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-244",
+    "pair_ids": [
+      "MTP-000162"
+    ],
+    "golden_ids": [
+      "MTP-S000557"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-244"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-245",
+    "pair_ids": [
+      "MTP-000162"
+    ],
+    "golden_ids": [
+      "MTP-S000558"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-245"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-246",
+    "pair_ids": [
+      "MTP-000162"
+    ],
+    "golden_ids": [
+      "MTP-S000559"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-246"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-247",
+    "pair_ids": [
+      "MTP-000162"
+    ],
+    "golden_ids": [
+      "MTP-S000560"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-247"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-248",
+    "pair_ids": [
+      "MTP-000162"
+    ],
+    "golden_ids": [
+      "MTP-S000561"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-248"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-249",
+    "pair_ids": [
+      "MTP-000163"
+    ],
+    "golden_ids": [
+      "MTP-S000562"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-249"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-250",
+    "pair_ids": [
+      "MTP-000163"
+    ],
+    "golden_ids": [
+      "MTP-S000563"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-250"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-251",
+    "pair_ids": [
+      "MTP-000163"
+    ],
+    "golden_ids": [
+      "MTP-S000564"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-251"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-252",
+    "pair_ids": [
+      "MTP-000163"
+    ],
+    "golden_ids": [
+      "MTP-S000565"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-252"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-253",
+    "pair_ids": [
+      "MTP-000163"
+    ],
+    "golden_ids": [
+      "MTP-S000566"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-253"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-254",
+    "pair_ids": [
+      "MTP-000165"
+    ],
+    "golden_ids": [
+      "MTP-S000568"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-254"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-255",
+    "pair_ids": [
+      "MTP-000165"
+    ],
+    "golden_ids": [
+      "MTP-S000569"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-255"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-256",
+    "pair_ids": [
+      "MTP-000165"
+    ],
+    "golden_ids": [
+      "MTP-S000570"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-256"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-257",
+    "pair_ids": [
+      "MTP-000165"
+    ],
+    "golden_ids": [
+      "MTP-S000571"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-257"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-258",
+    "pair_ids": [
+      "MTP-000165"
+    ],
+    "golden_ids": [
+      "MTP-S000572"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-258"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-259",
+    "pair_ids": [
+      "MTP-000166"
+    ],
+    "golden_ids": [
+      "MTP-S000573"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-259"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-260",
+    "pair_ids": [
+      "MTP-000166"
+    ],
+    "golden_ids": [
+      "MTP-S000574"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-260"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-261",
+    "pair_ids": [
+      "MTP-000166"
+    ],
+    "golden_ids": [
+      "MTP-S000575"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-261"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-262",
+    "pair_ids": [
+      "MTP-000166"
+    ],
+    "golden_ids": [
+      "MTP-S000576"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-262"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-263",
+    "pair_ids": [
+      "MTP-000166"
+    ],
+    "golden_ids": [
+      "MTP-S000577"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-263"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-264",
+    "pair_ids": [
+      "MTP-000167"
+    ],
+    "golden_ids": [
+      "MTP-S000578"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-264"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-265",
+    "pair_ids": [
+      "MTP-000167"
+    ],
+    "golden_ids": [
+      "MTP-S000579"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-265"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-266",
+    "pair_ids": [
+      "MTP-000167"
+    ],
+    "golden_ids": [
+      "MTP-S000580"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-266"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-267",
+    "pair_ids": [
+      "MTP-000167"
+    ],
+    "golden_ids": [
+      "MTP-S000581"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-267"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-268",
+    "pair_ids": [
+      "MTP-000167"
+    ],
+    "golden_ids": [
+      "MTP-S000582"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-268"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-269",
+    "pair_ids": [
+      "MTP-000168"
+    ],
+    "golden_ids": [
+      "MTP-S000583"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-269"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-270",
+    "pair_ids": [
+      "MTP-000168"
+    ],
+    "golden_ids": [
+      "MTP-S000583"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-270"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-271",
+    "pair_ids": [
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000586"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-271"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-272",
+    "pair_ids": [
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000586"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-272"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-273",
+    "pair_ids": [
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000587"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-273"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-274",
+    "pair_ids": [
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000588"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-274"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-275",
+    "pair_ids": [
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000589"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-275"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-276",
+    "pair_ids": [
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000590"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-276"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-277",
+    "pair_ids": [
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000591"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-277"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-278",
+    "pair_ids": [
+      "MTP-000170"
+    ],
+    "golden_ids": [
+      "MTP-S000592"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-278"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-279",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000594"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-279"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-280",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000595"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-280"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-281",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000595"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-281"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-282",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000596"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-282"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-283",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000596"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-283"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-284",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000597"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-284"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-285",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000597"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-285"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-286",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000597"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-286"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-287",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000597"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-287"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-288",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000598"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-288"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-289",
+    "pair_ids": [
+      "MTP-000172"
+    ],
+    "golden_ids": [
+      "MTP-S000598"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-289"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-290",
+    "pair_ids": [
+      "MTP-000174"
+    ],
+    "golden_ids": [
+      "MTP-S000600"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-290"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-291",
+    "pair_ids": [
+      "MTP-000174"
+    ],
+    "golden_ids": [
+      "MTP-S000601"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-291"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-292",
+    "pair_ids": [
+      "MTP-000174"
+    ],
+    "golden_ids": [
+      "MTP-S000603"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-292"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-293",
+    "pair_ids": [
+      "MTP-000174"
+    ],
+    "golden_ids": [
+      "MTP-S000603"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-293"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-294",
+    "pair_ids": [
+      "MTP-000174"
+    ],
+    "golden_ids": [
+      "MTP-S000603"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-294"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-295",
+    "pair_ids": [
+      "MTP-000175"
+    ],
+    "golden_ids": [
+      "MTP-S000604"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-295"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-296",
+    "pair_ids": [
+      "MTP-000175"
+    ],
+    "golden_ids": [
+      "MTP-S000604"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-296"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-297",
+    "pair_ids": [
+      "MTP-000176"
+    ],
+    "golden_ids": [
+      "MTP-S000606"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-297"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-298",
+    "pair_ids": [
+      "MTP-000176"
+    ],
+    "golden_ids": [
+      "MTP-S000606"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-298"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-299",
+    "pair_ids": [
+      "MTP-000177"
+    ],
+    "golden_ids": [
+      "MTP-S000608"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-299"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-300",
+    "pair_ids": [
+      "MTP-000177"
+    ],
+    "golden_ids": [
+      "MTP-S000609"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-300"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-301",
+    "pair_ids": [
+      "MTP-000177"
+    ],
+    "golden_ids": [
+      "MTP-S000609"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-301"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-302",
+    "pair_ids": [
+      "MTP-000177"
+    ],
+    "golden_ids": [
+      "MTP-S000610"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-302"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-303",
+    "pair_ids": [
+      "MTP-000177"
+    ],
+    "golden_ids": [
+      "MTP-S000610"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-303"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-304",
+    "pair_ids": [
+      "MTP-000177"
+    ],
+    "golden_ids": [
+      "MTP-S000610"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-304"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-305",
+    "pair_ids": [
+      "MTP-000178"
+    ],
+    "golden_ids": [
+      "MTP-S000611"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-305"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-306",
+    "pair_ids": [
+      "MTP-000178"
+    ],
+    "golden_ids": [
+      "MTP-S000612"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-306"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-307",
+    "pair_ids": [
+      "MTP-000178"
+    ],
+    "golden_ids": [
+      "MTP-S000613"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-307"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-308",
+    "pair_ids": [
+      "MTP-000178"
+    ],
+    "golden_ids": [
+      "MTP-S000614"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-308"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-309",
+    "pair_ids": [
+      "MTP-000180"
+    ],
+    "golden_ids": [
+      "MTP-S000616"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-309"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-310",
+    "pair_ids": [
+      "MTP-000180"
+    ],
+    "golden_ids": [
+      "MTP-S000617"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-310"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-311",
+    "pair_ids": [
+      "MTP-000180"
+    ],
+    "golden_ids": [
+      "MTP-S000618"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-311"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-312",
+    "pair_ids": [
+      "MTP-000180"
+    ],
+    "golden_ids": [
+      "MTP-S000619"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-312"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-313",
+    "pair_ids": [
+      "MTP-000181"
+    ],
+    "golden_ids": [
+      "MTP-S000620"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-313"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-314",
+    "pair_ids": [
+      "MTP-000181"
+    ],
+    "golden_ids": [
+      "MTP-S000620"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-314"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-315",
+    "pair_ids": [
+      "MTP-000181"
+    ],
+    "golden_ids": [
+      "MTP-S000621"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-315"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-316",
+    "pair_ids": [
+      "MTP-000181"
+    ],
+    "golden_ids": [
+      "MTP-S000622"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-316"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-317",
+    "pair_ids": [
+      "MTP-000181"
+    ],
+    "golden_ids": [
+      "MTP-S000623"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-317"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-318",
+    "pair_ids": [
+      "MTP-000181"
+    ],
+    "golden_ids": [
+      "MTP-S000625"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-318"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-319",
+    "pair_ids": [
+      "MTP-000182"
+    ],
+    "golden_ids": [
+      "MTP-S000626"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-319"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-320",
+    "pair_ids": [
+      "MTP-000182"
+    ],
+    "golden_ids": [
+      "MTP-S000627"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-320"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-321",
+    "pair_ids": [
+      "MTP-000182"
+    ],
+    "golden_ids": [
+      "MTP-S000628"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-321"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-322",
+    "pair_ids": [
+      "MTP-000182"
+    ],
+    "golden_ids": [
+      "MTP-S000629"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-322"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-323",
+    "pair_ids": [
+      "MTP-000182"
+    ],
+    "golden_ids": [
+      "MTP-S000629"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-323"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-324",
+    "pair_ids": [
+      "MTP-000184"
+    ],
+    "golden_ids": [
+      "MTP-S000631"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-324"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-325",
+    "pair_ids": [
+      "MTP-000184"
+    ],
+    "golden_ids": [
+      "MTP-S000632"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-325"
+    ]
+  },
+  {
+    "id": "MTP-AUDIT-C04-326",
+    "pair_ids": [
+      "MTP-000184"
+    ],
+    "golden_ids": [
+      "MTP-S000633"
+    ],
+    "category": "source_omission",
+    "obligations": [
+      "adzom:MTP-AUDIT-C04-326"
+    ]
+  }
+]
