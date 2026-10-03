@@ -9,3 +9,9 @@ The coordinator then ran actual source planning, source generation, source-only 
 The coordinator independently checked all 23 native PNGs against exact archived image bytes and the registered manifest: hashes, byte counts, dimensions, source URLs and canvases agree. This is provenance verification; the direct 23-page visual comparison is separately attributed in the audit.
 
 Final English/build checks remain pending and will be appended after independent review.
+
+## Independent actual-source check
+
+`/root/ch06_workflow` independently checked the committed source/audit checkpoint read-only: exact ordered anchors and pair roles; all 378 sealed obligations; all 23 PNGs against archive bytes, registered manifest hashes/size/dimensions/URLs/canvases and committed Git/LFS identities; reciprocal page/anchor/finding allocations; and complete unchanged chapter 1–5 inventories, bytes and bound inputs, including the unsigned chapter 4 snapshot. No structural discrepancy was found. This did not repeat the visual or semantic inspection, and no tests were rerun.
+
+Audited identities: audit886ea37f3ece17227b4b101cbab6a3d04658bef9981ce755c8a25340c05d1380; audit seal3e5e006befdf48f61c2fe2dd6c158576fa78cc4abf2025588637fe9d3d556c97; provenance7991c3c0e17d0d5624c7cd548e6f3face0664dc8f10bb5745fd4332a8c7f6798.
