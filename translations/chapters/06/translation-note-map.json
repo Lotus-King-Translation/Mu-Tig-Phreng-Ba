@@ -355,5 +355,261 @@
     ],
     "category": "translation_issue",
     "obligations": []
+  },
+  {
+    "id": "T06-022",
+    "pair_ids": [
+      "MTP-000371",
+      "MTP-000372"
+    ],
+    "golden_ids": [
+      "MTP-S001188",
+      "MTP-S001189",
+      "MTP-S001190",
+      "MTP-S001191",
+      "MTP-S001192",
+      "MTP-S001193",
+      "MTP-S001194"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-023",
+    "pair_ids": [
+      "MTP-000373"
+    ],
+    "golden_ids": [
+      "MTP-S001195",
+      "MTP-S001196",
+      "MTP-S001197",
+      "MTP-S001198"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-024",
+    "pair_ids": [
+      "MTP-000374",
+      "MTP-000375",
+      "MTP-000376"
+    ],
+    "golden_ids": [
+      "MTP-S001199",
+      "MTP-S001200",
+      "MTP-S001201",
+      "MTP-S001202",
+      "MTP-S001203",
+      "MTP-S001204",
+      "MTP-S001205",
+      "MTP-S001206"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-025",
+    "pair_ids": [
+      "MTP-000378",
+      "MTP-000379"
+    ],
+    "golden_ids": [
+      "MTP-S001208",
+      "MTP-S001209",
+      "MTP-S001210",
+      "MTP-S001211",
+      "MTP-S001212",
+      "MTP-S001213",
+      "MTP-S001214",
+      "MTP-S001215",
+      "MTP-S001216"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-026",
+    "pair_ids": [
+      "MTP-000380",
+      "MTP-000381"
+    ],
+    "golden_ids": [
+      "MTP-S001217",
+      "MTP-S001218",
+      "MTP-S001219",
+      "MTP-S001220",
+      "MTP-S001221",
+      "MTP-S001222",
+      "MTP-S001223"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-027",
+    "pair_ids": [
+      "MTP-000383",
+      "MTP-000384",
+      "MTP-000385"
+    ],
+    "golden_ids": [
+      "MTP-S001225",
+      "MTP-S001226",
+      "MTP-S001227",
+      "MTP-S001228",
+      "MTP-S001229",
+      "MTP-S001230",
+      "MTP-S001231",
+      "MTP-S001232",
+      "MTP-S001233",
+      "MTP-S001234",
+      "MTP-S001235",
+      "MTP-S001236"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-028",
+    "pair_ids": [
+      "MTP-000386",
+      "MTP-000387"
+    ],
+    "golden_ids": [
+      "MTP-S001237",
+      "MTP-S001238",
+      "MTP-S001239",
+      "MTP-S001240",
+      "MTP-S001241",
+      "MTP-S001242"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-029",
+    "pair_ids": [
+      "MTP-000389",
+      "MTP-000390",
+      "MTP-000391",
+      "MTP-000392",
+      "MTP-000394"
+    ],
+    "golden_ids": [
+      "MTP-S001244",
+      "MTP-S001245",
+      "MTP-S001246",
+      "MTP-S001247",
+      "MTP-S001248",
+      "MTP-S001249",
+      "MTP-S001250",
+      "MTP-S001251",
+      "MTP-S001252",
+      "MTP-S001253",
+      "MTP-S001254",
+      "MTP-S001255",
+      "MTP-S001256",
+      "MTP-S001257",
+      "MTP-S001258",
+      "MTP-S001260",
+      "MTP-S001261",
+      "MTP-S001262",
+      "MTP-S001263"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-030",
+    "pair_ids": [
+      "MTP-000395",
+      "MTP-000396"
+    ],
+    "golden_ids": [
+      "MTP-S001264",
+      "MTP-S001265",
+      "MTP-S001266",
+      "MTP-S001267",
+      "MTP-S001268",
+      "MTP-S001269",
+      "MTP-S001270"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-031",
+    "pair_ids": [
+      "MTP-000397",
+      "MTP-000398",
+      "MTP-000399",
+      "MTP-000400"
+    ],
+    "golden_ids": [
+      "MTP-S001271",
+      "MTP-S001272",
+      "MTP-S001273",
+      "MTP-S001274",
+      "MTP-S001275",
+      "MTP-S001276",
+      "MTP-S001277",
+      "MTP-S001278",
+      "MTP-S001279",
+      "MTP-S001280",
+      "MTP-S001281"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-032",
+    "pair_ids": [
+      "MTP-000402",
+      "MTP-000403"
+    ],
+    "golden_ids": [
+      "MTP-S001283",
+      "MTP-S001284",
+      "MTP-S001285",
+      "MTP-S001286",
+      "MTP-S001287",
+      "MTP-S001288"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-033",
+    "pair_ids": [
+      "MTP-000404",
+      "MTP-000405"
+    ],
+    "golden_ids": [
+      "MTP-S001289",
+      "MTP-S001290",
+      "MTP-S001291",
+      "MTP-S001292",
+      "MTP-S001293",
+      "MTP-S001294"
+    ],
+    "category": "translation_issue",
+    "obligations": []
+  },
+  {
+    "id": "T06-034",
+    "pair_ids": [
+      "MTP-000406",
+      "MTP-000408"
+    ],
+    "golden_ids": [
+      "MTP-S001295",
+      "MTP-S001296",
+      "MTP-S001297",
+      "MTP-S001299",
+      "MTP-S001300"
+    ],
+    "category": "translation_issue",
+    "obligations": []
   }
 ]

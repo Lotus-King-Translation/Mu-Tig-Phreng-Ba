@@ -1,0 +1,25 @@
+[
+  {
+    "id": "CH06-AUTHOR-C001",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S001155"
+    ],
+    "note_id": "T06-018",
+    "finding": "Q06-001",
+    "old": "[they] are adventitious and have conditions.",
+    "new": "[they] are accompanied by adventitious conditions.",
+    "reason": "The immediate གློ་བུར་རྐྱེན་དང་བཅས་པ construction makes adventitious qualify conditions within the accompanied-by relation. The note now records that attachment.",
+    "authority": "Minimal source-supported English attachment correction; fixed source and canonical glossary unchanged."
+  },
+  {
+    "id": "CH06-AUTHOR-C002",
+    "class": "terminological",
+    "note_ids": [
+      "T06-009",
+      "T06-021"
+    ],
+    "change": "Disclosed chapter6 receptacle/contents and deluded dullness as local alternatives to chapter5 inactive environment/inhabitants and bewilderment proposals.",
+    "reason": "Keep prior provisional conventions visible without silently treating either choice as approved. English bodies unchanged."
+  }
+]
