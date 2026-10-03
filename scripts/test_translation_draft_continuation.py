@@ -159,7 +159,7 @@ class ChapterFourDraftContinuationTests(unittest.TestCase):
         with self.assertRaisesRegex(t.Error,'cannot be used for final'):t.validate(self.r,4,final=True,draft_prior_commit=self.latest)
 
     def test_chapter_five_is_not_authorized(self):
-        with self.assertRaisesRegex(t.Error,'only for chapters 3 and 4'):t.prior(self.r,5,self.latest)
+        with self.assertRaises(FileNotFoundError):t.prior(self.r,5,self.latest)
 
     def test_chapter_one_actual_receipt_is_required(self):
         (self.r/'translations/publication/ch01-v1.json').unlink()
@@ -210,6 +210,158 @@ class ChapterFourDraftContinuationTests(unittest.TestCase):
                 'build_manifest_sha256':t.digest(t.directory(self.r,n)/'build-manifest.json')})
         self.assertTrue(t.validate(self.r,4)['passed']);self.assertEqual(before,t.candidate(self.r,4))
         with self.assertRaisesRegex(t.Error,'Unsigned'):t.validate(self.r,4,final=True)
+
+
+class ChapterFiveDraftContinuationTests(unittest.TestCase):
+    unsigned_chapters={3,4,5}
+    @classmethod
+    def setUpClass(cls):
+        cls.shared=tempfile.TemporaryDirectory(prefix='mtp-translation-ch05-draft-fixture-')
+        cls.base=Path(cls.shared.name);fixture(cls.base)
+
+    @classmethod
+    def tearDownClass(cls):cls.shared.cleanup()
+
+    def setUp(self):
+        ChapterFourDraftContinuationTests.setUp(self)
+        ChapterFourDraftContinuationTests.prepare(self)
+        # Give chapter 4 its own real manifest-bound evidence, so mutation tests
+        # exercise its unsigned gate rather than fail on a signed predecessor.
+        evidence='evidence/ch04-synthetic.png'
+        t.write(self.r/evidence,(self.r/'evidence/synthetic.png').read_bytes())
+        audit=t.load(self.d/'adzom-audit.json')
+        for image in audit['images']:image['path']=evidence
+        for finding in audit['findings']:
+            for item in finding['evidence']:item['path']=evidence
+        t.write(self.d/'adzom-audit.json',audit)
+        t.seal_audit(self.r,4,self.latest);t.build(self.r,4,self.latest)
+        git(self.r,'add','.');git(self.r,'commit','-qm','Synthetic saved unsigned chapter 4')
+        self.saved=git(self.r,'rev-parse','HEAD')
+        reviewed=t.load(self.path)['reviewed_priors']
+        self.path=self.r/'translations/draft-authorizations/ch05.json';self.d=t.directory(self.r,5)
+        t.write(self.path,{'schema_version':3,'chapter':5,'prior_chapter':4,'prior_commit':self.saved,
+            'reviewed_priors':reviewed,'unsigned_prior':{'chapter':4,'commit':self.saved,
+                'build_manifest_sha256':t.digest(t.directory(self.r,4)/'build-manifest.json'),
+                'snapshot_tree_sha':git(self.r,'rev-parse',self.saved+':translations/chapters/04'),
+                'review_state':'unsigned_saved_draft'},
+            'authorized_scope':'working_draft_only','user_instruction':'cool, then move on to next chapter',
+            'date':'2026-10-03','reason':'Synthetic explicit continuation after disclosure of lost final refinements.'})
+        git(self.r,'add','.');git(self.r,'commit','-qm','Synthetic chapter 5 authorization')
+
+    def tearDown(self):self.tmp.cleanup()
+
+    def prepare(self):
+        t.plan(self.r,5,self.saved);t.source(self.r,5,self.saved)
+        t.assemble(self.r,5,draft_prior_commit=self.saved);t.build(self.r,5,self.saved)
+
+    def change_authorization(self,change):ChapterFourDraftContinuationTests.change_authorization(self,change)
+
+    def repin_saved(self):
+        self.saved=git(self.r,'rev-parse','HEAD')
+        self.change_authorization(lambda a:(a.update(prior_commit=self.saved),a['unsigned_prior'].update(
+            commit=self.saved,snapshot_tree_sha=git(self.r,'rev-parse',self.saved+':translations/chapters/04'),
+            build_manifest_sha256=t.digest(t.directory(self.r,4)/'build-manifest.json'))))
+
+    def test_chapter_five_candidate_preserves_priors_and_unsigned_state(self):
+        before={p:p.read_bytes() for n in (1,2,3,4) for p in t.directory(self.r,n).iterdir() if p.is_file()}
+        old_auth={n:(self.r/f'translations/draft-authorizations/ch{n:02}.json').read_bytes() for n in (3,4)}
+        self.prepare()
+        self.assertEqual(t.validate(self.r,5,source_only=True,draft_prior_commit=self.saved)['mode'],'draft-source')
+        self.assertEqual(t.validate(self.r,5,draft_prior_commit=self.saved)['mode'],'draft-candidate')
+        self.assertEqual(before,{p:p.read_bytes() for p in before})
+        self.assertEqual(old_auth,{n:(self.r/f'translations/draft-authorizations/ch{n:02}.json').read_bytes() for n in old_auth})
+        self.assertEqual(t.load(self.d/'build-manifest.json')['input_sha256']['translations/draft-authorizations/ch05.json'],t.digest(self.path))
+        self.assertFalse((t.directory(self.r,4)/'qc.json').exists())
+        with self.assertRaisesRegex(t.Error,'Unsigned'):t.final_gate(self.r,4)
+
+    def test_default_final_and_aggregate_still_require_real_releases(self):
+        import build_translation_aggregate as aggregate
+        with self.assertRaises(FileNotFoundError):t.prior(self.r,5)
+        with self.assertRaisesRegex(t.Error,'cannot be used for final'):t.validate(self.r,5,final=True,draft_prior_commit=self.saved)
+        with self.assertRaisesRegex(t.Error,'publication receipt required'):aggregate.build(self.r)
+
+    def test_chapter_six_is_not_authorized(self):
+        with self.assertRaisesRegex(t.Error,'only for chapters 3, 4 and 5'):t.prior(self.r,6,self.saved)
+
+    def test_chapter_one_actual_receipt_is_required(self):
+        (self.r/'translations/publication/ch01-v1.json').unlink()
+        with self.assertRaises(FileNotFoundError):t.prior(self.r,5,self.saved)
+
+    def test_unsigned_snapshot_bytes_are_frozen(self):
+        for name in ('translation.md','source.md','note-map.json','adzom-audit.json','reading.md','build-manifest.json'):
+            with self.subTest(file=name):
+                p=t.directory(self.r,4)/name;before=p.read_bytes();p.write_bytes(before+b' ')
+                try:
+                    with self.assertRaisesRegex(t.Error,'Unsigned saved draft bytes changed'):t.prior(self.r,5,self.saved)
+                finally:p.write_bytes(before)
+
+    def test_unsigned_snapshot_cannot_gain_final_or_lexical_records(self):
+        for name in ('qc.json','signoff.json','usage.json','glossary-proposals.json'):
+            with self.subTest(file=name):
+                p=t.directory(self.r,4)/name;p.write_bytes(b'{}\n')
+                try:
+                    with self.assertRaisesRegex(t.Error,'file inventory changed'):t.prior(self.r,5,self.saved)
+                finally:p.unlink()
+
+    def test_unsigned_snapshot_cannot_lose_a_file(self):
+        (t.directory(self.r,4)/'note-map.json').unlink()
+        with self.assertRaisesRegex(t.Error,'file inventory changed'):t.prior(self.r,5,self.saved)
+
+    def test_unsigned_native_input_is_frozen(self):
+        (self.r/'evidence/ch04-synthetic.png').write_bytes(b'Changed chapter 4 evidence')
+        with self.assertRaisesRegex(t.Error,'Unsigned saved draft input changed'):t.prior(self.r,5,self.saved)
+
+    def test_unsigned_committed_input_must_match_manifest(self):
+        p=self.r/'evidence/ch04-synthetic.png';before=p.read_bytes();p.write_bytes(b'Changed committed evidence')
+        git(self.r,'add','.');git(self.r,'commit','-qm','Synthetic inconsistent saved evidence')
+        self.repin_saved();p.write_bytes(before)
+        with self.assertRaisesRegex(t.Error,'committed input differs'):t.prior(self.r,5,self.saved)
+
+    def test_repinning_cannot_label_signed_snapshot_unsigned(self):
+        t.write(t.directory(self.r,4)/'signoff.json',{'approved':True})
+        git(self.r,'add','.');git(self.r,'commit','-qm','Synthetic false saved signoff')
+        self.repin_saved()
+        with self.assertRaisesRegex(t.Error,'unexpectedly has final review records'):t.prior(self.r,5,self.saved)
+
+    def test_unsigned_output_hashes_are_checked_after_repinning(self):
+        path=t.directory(self.r,4)/'build-manifest.json';manifest=t.load(path)
+        manifest['output_sha256']['reading.md']='0'*64;t.write(path,manifest)
+        git(self.r,'add','.');git(self.r,'commit','-qm','Synthetic inconsistent output hash')
+        self.repin_saved()
+        with self.assertRaisesRegex(t.Error,'output hash mismatch'):t.prior(self.r,5,self.saved)
+
+    def test_prior_reviewed_candidates_are_still_signed_and_frozen(self):
+        for n in (2,3):
+            with self.subTest(chapter=n):
+                path=t.directory(self.r,n)/'qc.json';before=path.read_bytes();path.write_bytes(before+b' ')
+                try:
+                    with self.assertRaisesRegex(t.Error,'Prior released bytes changed'):t.prior(self.r,5,self.saved)
+                finally:path.write_bytes(before)
+
+    def test_reviewed_pins_must_match_existing_chapter_four_authorization(self):
+        self.change_authorization(lambda a:a['reviewed_priors'][1].update(build_manifest_sha256='0'*64))
+        with self.assertRaisesRegex(t.Error,'reviewed priors differ'):t.prior(self.r,5,self.saved)
+
+    def test_unsigned_tree_and_manifest_pins_are_required(self):
+        for field,value,error in [('snapshot_tree_sha','0'*40,'tree pin mismatch'),('build_manifest_sha256','0'*64,'manifest pin mismatch')]:
+            with self.subTest(field=field):
+                original=t.load(self.path)['unsigned_prior'][field]
+                self.change_authorization(lambda a:a['unsigned_prior'].update({field:value}))
+                with self.assertRaisesRegex(t.Error,error):t.prior(self.r,5,self.saved)
+                self.change_authorization(lambda a:a['unsigned_prior'].update({field:original}))
+
+    def test_unsigned_state_and_exact_instruction_are_required(self):
+        self.change_authorization(lambda a:a['unsigned_prior'].update(review_state='signed_candidate'))
+        with self.assertRaisesRegex(t.Error,'acknowledged unsigned'):t.prior(self.r,5,self.saved)
+        self.change_authorization(lambda a:(a['unsigned_prior'].update(review_state='unsigned_saved_draft'),a.update(user_instruction='excellent, next chapter')))
+        with self.assertRaisesRegex(t.Error,'Incomplete working-draft authorization'):t.prior(self.r,5,self.saved)
+
+    def test_chapter_five_authorization_is_committed_and_contract_frozen(self):
+        self.prepare();before=self.path.read_bytes();self.path.write_bytes(before+b' ')
+        with self.assertRaisesRegex(t.Error,'committed unchanged'):t.prior(self.r,5,self.saved)
+        self.path.write_bytes(before)
+        self.change_authorization(lambda a:a.update(reason='Synthetic altered decision record'))
+        with self.assertRaisesRegex(t.Error,'Frozen draft authorization changed'):t.validate(self.r,5,draft_prior_commit=self.saved)
 
 
 if __name__=='__main__':unittest.main(verbosity=2)

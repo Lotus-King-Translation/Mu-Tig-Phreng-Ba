@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "MTP-000186",
+    "golden_ids": [
+      "MTP-S000636"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Electronic chapter-control token; separate from the spoken introduction."
+  },
+  {
+    "id": "MTP-000187",
+    "golden_ids": [
+      "MTP-S000637"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Prose request formula identifying the wrathful deities as speakers."
+  },
+  {
+    "id": "MTP-000188",
+    "golden_ids": [
+      "MTP-S000638",
+      "MTP-S000639",
+      "MTP-S000640"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line address and question about the intrinsic nature of all buddhas abiding in sentient beings."
+  },
+  {
+    "id": "MTP-000189",
+    "golden_ids": [
+      "MTP-S000641",
+      "MTP-S000642",
+      "MTP-S000643",
+      "MTP-S000644"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Conditional challenge and related questions about delusion, its reversal, and undeluded primordial knowing."
+  },
+  {
+    "id": "MTP-000190",
+    "golden_ids": [
+      "MTP-S000645",
+      "MTP-S000646",
+      "MTP-S000647"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line petition retaining the short S645 construction with the following questions."
+  },
+  {
+    "id": "MTP-000191",
+    "golden_ids": [
+      "MTP-S000648"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000192",
+    "golden_ids": [
+      "MTP-S000649"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Response introduction naming Vajradhara; separate from the ensuing direct speech."
+  },
+  {
+    "id": "MTP-000193",
+    "golden_ids": [
+      "MTP-S000650",
+      "MTP-S000651",
+      "MTP-S000652",
+      "MTP-S000653",
+      "MTP-S000654"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Address and connected description of the shared ground, enlightened intent, sphere, and mandala."
+  },
+  {
+    "id": "MTP-000194",
+    "golden_ids": [
+      "MTP-S000655",
+      "MTP-S000656"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Paired essence and intrinsic-nature predications."
+  },
+  {
+    "id": "MTP-000195",
+    "golden_ids": [
+      "MTP-S000657",
+      "MTP-S000658",
+      "MTP-S000659",
+      "MTP-S000660"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line sequence concerning locations, existence, number, and great emptiness."
+  },
+  {
+    "id": "MTP-000196",
+    "golden_ids": [
+      "MTP-S000661"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000197",
+    "golden_ids": [
+      "MTP-S000662",
+      "MTP-S000663",
+      "MTP-S000664",
+      "MTP-S000665"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four lines on scripture, reasoning, instructions, and the view-cultivation-activity sequence."
+  },
+  {
+    "id": "MTP-000198",
+    "golden_ids": [
+      "MTP-S000666",
+      "MTP-S000667",
+      "MTP-S000668",
+      "MTP-S000669"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four related negations concerning result, phenomena, thought, and discerning knowing."
+  },
+  {
+    "id": "MTP-000199",
+    "golden_ids": [
+      "MTP-S000670",
+      "MTP-S000671",
+      "MTP-S000672",
+      "MTP-S000673"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired constructions about giving and discipline, then hearing, reflection, and cultivation."
+  },
+  {
+    "id": "MTP-000200",
+    "golden_ids": [
+      "MTP-S000674",
+      "MTP-S000675",
+      "MTP-S000676",
+      "MTP-S000677",
+      "MTP-S000678"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-line ritual sequence ending with empowerment and commitments before the page marker."
+  },
+  {
+    "id": "MTP-000201",
+    "golden_ids": [
+      "MTP-S000679"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000202",
+    "golden_ids": [
+      "MTP-S000680",
+      "MTP-S000681",
+      "MTP-S000682",
+      "MTP-S000683"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Continuation of ritual negations and the paired protecting/protected relationship."
+  },
+  {
+    "id": "MTP-000203",
+    "golden_ids": [
+      "MTP-S000684",
+      "MTP-S000685",
+      "MTP-S000686",
+      "MTP-S000687"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line series of identity statements, ending with samsara and nirvana."
+  },
+  {
+    "id": "MTP-000204",
+    "golden_ids": [
+      "MTP-S000688",
+      "MTP-S000689",
+      "MTP-S000690",
+      "MTP-S000691",
+      "MTP-S000692"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five linked identity statements concerning ritual entry, phenomena, liberation, activities, and life."
+  },
+  {
+    "id": "MTP-000205",
+    "golden_ids": [
+      "MTP-S000693"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000206",
+    "golden_ids": [
+      "MTP-S000694",
+      "MTP-S000695",
+      "MTP-S000696",
+      "MTP-S000697"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line account of worlds, ritual appearances, virtue, and perfections."
+  },
+  {
+    "id": "MTP-000207",
+    "golden_ids": [
+      "MTP-S000698",
+      "MTP-S000699",
+      "MTP-S000700",
+      "MTP-S000701",
+      "MTP-S000702",
+      "MTP-S000703"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three linked two-line constructions concerning grounds and qualities, activity and view, and vehicles."
+  },
+  {
+    "id": "MTP-000208",
+    "golden_ids": [
+      "MTP-S000704",
+      "MTP-S000705",
+      "MTP-S000706"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Summary introduction and the great-element enumeration."
+  },
+  {
+    "id": "MTP-000209",
+    "golden_ids": [
+      "MTP-S000707",
+      "MTP-S000708"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "List of beings; its governing predicate continues at S710 across the page metadata."
+  },
+  {
+    "id": "MTP-000210",
+    "golden_ids": [
+      "MTP-S000709"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the surrounding sentence continues across it."
+  },
+  {
+    "id": "MTP-000211",
+    "golden_ids": [
+      "MTP-S000710"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the list begun at S707–S708; no new subject is introduced by segmentation."
+  },
+  {
+    "id": "MTP-000212",
+    "golden_ids": [
+      "MTP-S000711",
+      "MTP-S000712",
+      "MTP-S000713"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Affliction list and its concluding magical-display predicate."
+  },
+  {
+    "id": "MTP-000213",
+    "golden_ids": [
+      "MTP-S000714",
+      "MTP-S000715",
+      "MTP-S000716",
+      "MTP-S000717"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line list of cognitive and aggregate categories with its arising predicate."
+  },
+  {
+    "id": "MTP-000214",
+    "golden_ids": [
+      "MTP-S000718",
+      "MTP-S000719",
+      "MTP-S000720"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Sense-object list and its adornment predicate."
+  },
+  {
+    "id": "MTP-000215",
+    "golden_ids": [
+      "MTP-S000721",
+      "MTP-S000722",
+      "MTP-S000723"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line list retaining the unusual S721 wording with its concluding expressiveness/play predicate."
+  },
+  {
+    "id": "MTP-000216",
+    "golden_ids": [
+      "MTP-S000724",
+      "MTP-S000725",
+      "MTP-S000726",
+      "MTP-S000727"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "All-basis and bodily-component sequence with its concluding arising predicate."
+  },
+  {
+    "id": "MTP-000217",
+    "golden_ids": [
+      "MTP-S000728",
+      "MTP-S000729",
+      "MTP-S000730"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Body, speech, mental faculty, mental factors, and afflictions with their shared predicate."
+  },
+  {
+    "id": "MTP-000218",
+    "golden_ids": [
+      "MTP-S000731"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000219",
+    "golden_ids": [
+      "MTP-S000732",
+      "MTP-S000733",
+      "MTP-S000734",
+      "MTP-S000735"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two pairs concerning forms and activities arising."
+  },
+  {
+    "id": "MTP-000220",
+    "golden_ids": [
+      "MTP-S000736",
+      "MTP-S000737",
+      "MTP-S000738",
+      "MTP-S000739"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Direct address, primordial absence of delusion, and the sky/cloud comparison."
+  },
+  {
+    "id": "MTP-000221",
+    "golden_ids": [
+      "MTP-S000740",
+      "MTP-S000741",
+      "MTP-S000742",
+      "MTP-S000743"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line qualification concerning adventitious delusion and conditioned appearance."
+  },
+  {
+    "id": "MTP-000222",
+    "golden_ids": [
+      "MTP-S000744",
+      "MTP-S000745",
+      "MTP-S000746",
+      "MTP-S000747"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line discussion of primordial purity, delusion, and non-delusion."
+  },
+  {
+    "id": "MTP-000223",
+    "golden_ids": [
+      "MTP-S000748",
+      "MTP-S000749"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Ground-appearance and ignorance clause; its consequence continues at S751."
+  },
+  {
+    "id": "MTP-000224",
+    "golden_ids": [
+      "MTP-S000750"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the surrounding sentence continues across it."
+  },
+  {
+    "id": "MTP-000225",
+    "golden_ids": [
+      "MTP-S000751"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the causal construction begun at S748–S749."
+  },
+  {
+    "id": "MTP-000226",
+    "golden_ids": [
+      "MTP-S000752",
+      "MTP-S000753",
+      "MTP-S000754",
+      "MTP-S000755"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two causal constructions concerning conceptual mind, names, and letters."
+  },
+  {
+    "id": "MTP-000227",
+    "golden_ids": [
+      "MTP-S000756",
+      "MTP-S000757",
+      "MTP-S000758",
+      "MTP-S000759"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two causal constructions retaining the unusual S756 wording and the ordinary-mind/mental-faculty pair."
+  },
+  {
+    "id": "MTP-000228",
+    "golden_ids": [
+      "MTP-S000760",
+      "MTP-S000761",
+      "MTP-S000762",
+      "MTP-S000763"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two causal constructions concerning subtle/coarse stains and doing/agent distinctions."
+  },
+  {
+    "id": "MTP-000229",
+    "golden_ids": [
+      "MTP-S000764",
+      "MTP-S000765"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Object and faculty condition with its concluding negation of delusion."
+  },
+  {
+    "id": "MTP-000230",
+    "golden_ids": [
+      "MTP-S000766",
+      "MTP-S000767"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Direct address and the topic phrase whose predications continue after the page marker."
+  },
+  {
+    "id": "MTP-000231",
+    "golden_ids": [
+      "MTP-S000768"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the following predicates continue S767."
+  },
+  {
+    "id": "MTP-000232",
+    "golden_ids": [
+      "MTP-S000769",
+      "MTP-S000770",
+      "MTP-S000771",
+      "MTP-S000772"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "First four parallel reversal clauses under the preceding topic."
+  },
+  {
+    "id": "MTP-000233",
+    "golden_ids": [
+      "MTP-S000773",
+      "MTP-S000774",
+      "MTP-S000775",
+      "MTP-S000776"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four parallel reversal clauses concerning clarity, primordial completeness, activity, and cultivation."
+  },
+  {
+    "id": "MTP-000234",
+    "golden_ids": [
+      "MTP-S000777",
+      "MTP-S000778",
+      "MTP-S000779",
+      "MTP-S000780"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four parallel reversal clauses concerning liberation, view, terminology, and clinging."
+  },
+  {
+    "id": "MTP-000235",
+    "golden_ids": [
+      "MTP-S000781",
+      "MTP-S000782",
+      "MTP-S000783"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three concluding reversal clauses before the page boundary."
+  },
+  {
+    "id": "MTP-000236",
+    "golden_ids": [
+      "MTP-S000784"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000237",
+    "golden_ids": [
+      "MTP-S000785",
+      "MTP-S000786",
+      "MTP-S000787",
+      "MTP-S000788"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four related clauses concerning pervasion, self-arising, and embodiments."
+  },
+  {
+    "id": "MTP-000238",
+    "golden_ids": [
+      "MTP-S000789",
+      "MTP-S000790",
+      "MTP-S000791",
+      "MTP-S000792"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four related clauses concerning mother/child, signs, thought, and tenets."
+  },
+  {
+    "id": "MTP-000239",
+    "golden_ids": [
+      "MTP-S000793",
+      "MTP-S000794",
+      "MTP-S000795",
+      "MTP-S000796"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line sequence retaining the S793 uncertainty and the connected liberation/awareness construction."
+  },
+  {
+    "id": "MTP-000240",
+    "golden_ids": [
+      "MTP-S000797"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the naming sequence continues across it."
+  },
+  {
+    "id": "MTP-000241",
+    "golden_ids": [
+      "MTP-S000798",
+      "MTP-S000799",
+      "MTP-S000800",
+      "MTP-S000801"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four parallel predications of pervasion, emptiness, arising, and unimpeded penetration."
+  },
+  {
+    "id": "MTP-000242",
+    "golden_ids": [
+      "MTP-S000802",
+      "MTP-S000803",
+      "MTP-S000804",
+      "MTP-S000805"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four parallel naming clauses ending with cause."
+  },
+  {
+    "id": "MTP-000243",
+    "golden_ids": [
+      "MTP-S000806",
+      "MTP-S000807",
+      "MTP-S000808",
+      "MTP-S000809",
+      "MTP-S000810",
+      "MTP-S000811"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Six related naming clauses concerning result, path, scripture, continuum, instruction, and reckoning."
+  },
+  {
+    "id": "MTP-000244",
+    "golden_ids": [
+      "MTP-S000812",
+      "MTP-S000813"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Topic and first simile; further similes continue after page metadata."
+  },
+  {
+    "id": "MTP-000245",
+    "golden_ids": [
+      "MTP-S000814"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the simile sequence continues across it."
+  },
+  {
+    "id": "MTP-000246",
+    "golden_ids": [
+      "MTP-S000815",
+      "MTP-S000816",
+      "MTP-S000817",
+      "MTP-S000818"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four continuing similes of treasury, mirror, crystal, and patterned tent."
+  },
+  {
+    "id": "MTP-000247",
+    "golden_ids": [
+      "MTP-S000819",
+      "MTP-S000820",
+      "MTP-S000821",
+      "MTP-S000822",
+      "MTP-S000823",
+      "MTP-S000824"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five continuing similes and their concluding comparison."
+  },
+  {
+    "id": "MTP-000248",
+    "golden_ids": [
+      "MTP-S000825",
+      "MTP-S000826",
+      "MTP-S000827",
+      "MTP-S000828",
+      "MTP-S000829"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Awareness topic with four ensuing clauses, retaining the related liberation sequence."
+  },
+  {
+    "id": "MTP-000249",
+    "golden_ids": [
+      "MTP-S000830"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the liberation sequence continues across it."
+  },
+  {
+    "id": "MTP-000250",
+    "golden_ids": [
+      "MTP-S000831",
+      "MTP-S000832"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two further liberation clauses completing the preceding sequence."
+  },
+  {
+    "id": "MTP-000251",
+    "golden_ids": [
+      "MTP-S000833",
+      "MTP-S000834",
+      "MTP-S000835",
+      "MTP-S000836"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired liberation/non-reliance constructions concerning conditions and objects."
+  },
+  {
+    "id": "MTP-000252",
+    "golden_ids": [
+      "MTP-S000837",
+      "MTP-S000838",
+      "MTP-S000839",
+      "MTP-S000840"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two paired liberation/non-reliance constructions concerning cause and phenomena; retain S838 unchanged."
+  },
+  {
+    "id": "MTP-000253",
+    "golden_ids": [
+      "MTP-S000841",
+      "MTP-S000842",
+      "MTP-S000843",
+      "MTP-S000844"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Ordinary-mind construction followed by the stain/purity comparison."
+  },
+  {
+    "id": "MTP-000254",
+    "golden_ids": [
+      "MTP-S000845",
+      "MTP-S000846"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Opening poison and iron comparisons; the list continues after page metadata."
+  },
+  {
+    "id": "MTP-000255",
+    "golden_ids": [
+      "MTP-S000847"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the comparison list continues across it."
+  },
+  {
+    "id": "MTP-000256",
+    "golden_ids": [
+      "MTP-S000848",
+      "MTP-S000849",
+      "MTP-S000850",
+      "MTP-S000851"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the comparison list and states its two-line consequence."
+  },
+  {
+    "id": "MTP-000257",
+    "golden_ids": [
+      "MTP-S000852",
+      "MTP-S000853",
+      "MTP-S000854",
+      "MTP-S000855"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Ground-abiding awareness topic and first three completeness clauses."
+  },
+  {
+    "id": "MTP-000258",
+    "golden_ids": [
+      "MTP-S000856",
+      "MTP-S000857",
+      "MTP-S000858",
+      "MTP-S000859"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four parallel completeness clauses concerning liberation, purity, awareness, and pervasion."
+  },
+  {
+    "id": "MTP-000259",
+    "golden_ids": [
+      "MTP-S000860",
+      "MTP-S000861",
+      "MTP-S000862",
+      "MTP-S000863",
+      "MTP-S000864"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five parallel completeness clauses before the page boundary."
+  },
+  {
+    "id": "MTP-000260",
+    "golden_ids": [
+      "MTP-S000865"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the completeness sequence continues across it."
+  },
+  {
+    "id": "MTP-000261",
+    "golden_ids": [
+      "MTP-S000866",
+      "MTP-S000867",
+      "MTP-S000868"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three concluding completeness clauses."
+  },
+  {
+    "id": "MTP-000262",
+    "golden_ids": [
+      "MTP-S000869",
+      "MTP-S000870",
+      "MTP-S000871",
+      "MTP-S000872",
+      "MTP-S000873"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Exclamation, Dharma-embodiment topic, and three connected predications; exclamation retains its own source line."
+  },
+  {
+    "id": "MTP-000263",
+    "golden_ids": [
+      "MTP-S000874",
+      "MTP-S000875",
+      "MTP-S000876",
+      "MTP-S000877",
+      "MTP-S000878"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five related predications of great bliss, awareness, and freedom from defilement."
+  },
+  {
+    "id": "MTP-000264",
+    "golden_ids": [
+      "MTP-S000879",
+      "MTP-S000880",
+      "MTP-S000881",
+      "MTP-S000882"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four predications concerning essence, extremes, conceptualization, and the two accumulations."
+  },
+  {
+    "id": "MTP-000265",
+    "golden_ids": [
+      "MTP-S000883"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000266",
+    "golden_ids": [
+      "MTP-S000884",
+      "MTP-S000885",
+      "MTP-S000886",
+      "MTP-S000887"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line sequence concerning resting, alteration by words, pervasion, and ordinary mind."
+  },
+  {
+    "id": "MTP-000267",
+    "golden_ids": [
+      "MTP-S000888",
+      "MTP-S000889",
+      "MTP-S000890",
+      "MTP-S000891"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line sequence concerning freshness, naturalness, the knowable, and temporal limits."
+  },
+  {
+    "id": "MTP-000268",
+    "golden_ids": [
+      "MTP-S000892",
+      "MTP-S000893",
+      "MTP-S000894",
+      "MTP-S000895"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line sequence concerning movement, mindfulness, ordinary mind, and accomplishment."
+  },
+  {
+    "id": "MTP-000269",
+    "golden_ids": [
+      "MTP-S000896",
+      "MTP-S000897",
+      "MTP-S000898"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Undeluded-ground topic and initial primordial-completeness clauses, continued after page metadata."
+  },
+  {
+    "id": "MTP-000270",
+    "golden_ids": [
+      "MTP-S000899"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the primordial-completeness sequence continues across it."
+  },
+  {
+    "id": "MTP-000271",
+    "golden_ids": [
+      "MTP-S000900",
+      "MTP-S000901",
+      "MTP-S000902",
+      "MTP-S000903",
+      "MTP-S000904"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five continuing primordial clauses ending with the samsara/nirvana question."
+  },
+  {
+    "id": "MTP-000272",
+    "golden_ids": [
+      "MTP-S000905",
+      "MTP-S000906",
+      "MTP-S000907",
+      "MTP-S000908"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "First four parallel exclamatory descriptions."
+  },
+  {
+    "id": "MTP-000273",
+    "golden_ids": [
+      "MTP-S000909",
+      "MTP-S000910",
+      "MTP-S000911",
+      "MTP-S000912",
+      "MTP-S000913"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five parallel exclamatory descriptions of intrinsic nature, responsiveness, pervasion, abiding, and awareness."
+  },
+  {
+    "id": "MTP-000274",
+    "golden_ids": [
+      "MTP-S000914"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the exclamatory series continues across it."
+  },
+  {
+    "id": "MTP-000275",
+    "golden_ids": [
+      "MTP-S000915",
+      "MTP-S000916",
+      "MTP-S000917",
+      "MTP-S000918"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four continuing exclamatory descriptions."
+  },
+  {
+    "id": "MTP-000276",
+    "golden_ids": [
+      "MTP-S000919",
+      "MTP-S000920",
+      "MTP-S000921",
+      "MTP-S000922"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four continuing exclamatory descriptions concerning liberation, realization, color, and appearance/existence."
+  },
+  {
+    "id": "MTP-000277",
+    "golden_ids": [
+      "MTP-S000923",
+      "MTP-S000924",
+      "MTP-S000925",
+      "MTP-S000926"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four concluding exclamatory descriptions."
+  },
+  {
+    "id": "MTP-000278",
+    "golden_ids": [
+      "MTP-S000927",
+      "MTP-S000928",
+      "MTP-S000929"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Essence topic and opening negations; the series continues across page metadata."
+  },
+  {
+    "id": "MTP-000279",
+    "golden_ids": [
+      "MTP-S000930"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the negation sequence continues across it."
+  },
+  {
+    "id": "MTP-000280",
+    "golden_ids": [
+      "MTP-S000931",
+      "MTP-S000932",
+      "MTP-S000933",
+      "MTP-S000934"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four continuing negation clauses concerning cognition, relationships, afflictions, and movement."
+  },
+  {
+    "id": "MTP-000281",
+    "golden_ids": [
+      "MTP-S000935",
+      "MTP-S000936",
+      "MTP-S000937",
+      "MTP-S000938"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four continuing negation clauses concerning phenomena, means, aggregates, and objects."
+  },
+  {
+    "id": "MTP-000282",
+    "golden_ids": [
+      "MTP-S000939",
+      "MTP-S000940",
+      "MTP-S000941",
+      "MTP-S000942"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four continuing negation clauses concerning faculties, apprehension, embodiments, and knowing."
+  },
+  {
+    "id": "MTP-000283",
+    "golden_ids": [
+      "MTP-S000943",
+      "MTP-S000944",
+      "MTP-S000945",
+      "MTP-S000946",
+      "MTP-S000947"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five concluding negation clauses concerning light, sensory qualities, basic space, and worship."
+  },
+  {
+    "id": "MTP-000284",
+    "golden_ids": [
+      "MTP-S000948"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000285",
+    "golden_ids": [
+      "MTP-S000949",
+      "MTP-S000950",
+      "MTP-S000951",
+      "MTP-S000952"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "New address and topic introducing the twofold appearance and basis of delusion."
+  },
+  {
+    "id": "MTP-000286",
+    "golden_ids": [
+      "MTP-S000953",
+      "MTP-S000954",
+      "MTP-S000955",
+      "MTP-S000956"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two cause-and-consequence constructions concerning ignorance and conceptual thought."
+  },
+  {
+    "id": "MTP-000287",
+    "golden_ids": [
+      "MTP-S000957",
+      "MTP-S000958",
+      "MTP-S000959",
+      "MTP-S000960"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two cause-and-consequence constructions concerning apprehension and particles."
+  },
+  {
+    "id": "MTP-000288",
+    "golden_ids": [
+      "MTP-S000961",
+      "MTP-S000962"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two-line condition and result concerning the four conditions and manifold appearance."
+  },
+  {
+    "id": "MTP-000289",
+    "golden_ids": [
+      "MTP-S000963"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000290",
+    "golden_ids": [
+      "MTP-S000964",
+      "MTP-S000965",
+      "MTP-S000966",
+      "MTP-S000967"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line cosmological account of appearance, space, wind, water, and its numerical measure."
+  },
+  {
+    "id": "MTP-000291",
+    "golden_ids": [
+      "MTP-S000968",
+      "MTP-S000969",
+      "MTP-S000970"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Milk comparison and earth/wind numerical measures; do not harmonize their quantities."
+  },
+  {
+    "id": "MTP-000292",
+    "golden_ids": [
+      "MTP-S000971",
+      "MTP-S000972",
+      "MTP-S000973",
+      "MTP-S000974"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two-line wind list followed by the two-line water list."
+  },
+  {
+    "id": "MTP-000293",
+    "golden_ids": [
+      "MTP-S000975",
+      "MTP-S000976"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two-line earth list, preserving its stated count."
+  },
+  {
+    "id": "MTP-000294",
+    "golden_ids": [
+      "MTP-S000977",
+      "MTP-S000978",
+      "MTP-S000979",
+      "MTP-S000980"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Churning comparison and mountain description; the geographical enumeration continues after page metadata."
+  },
+  {
+    "id": "MTP-000295",
+    "golden_ids": [
+      "MTP-S000981"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the geographical enumeration continues across it."
+  },
+  {
+    "id": "MTP-000296",
+    "golden_ids": [
+      "MTP-S000982",
+      "MTP-S000983",
+      "MTP-S000984",
+      "MTP-S000985"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the geographical enumeration and adds the three realms."
+  },
+  {
+    "id": "MTP-000297",
+    "golden_ids": [
+      "MTP-S000986",
+      "MTP-S000987",
+      "MTP-S000988"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line formless-realm construction; retain its unusual list without editorial reconstruction."
+  },
+  {
+    "id": "MTP-000298",
+    "golden_ids": [
+      "MTP-S000989",
+      "MTP-S000990",
+      "MTP-S000991"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line description of embodied abodes and their vertical sequence."
+  },
+  {
+    "id": "MTP-000299",
+    "golden_ids": [
+      "MTP-S000992",
+      "MTP-S000993",
+      "MTP-S000994"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Divine realms and three lower abodes; S994 itself spans native images485–486."
+  },
+  {
+    "id": "MTP-000300",
+    "golden_ids": [
+      "MTP-S000995"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000301",
+    "golden_ids": [
+      "MTP-S000996"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Single statement of the four births, closing the preceding enumeration."
+  },
+  {
+    "id": "MTP-000302",
+    "golden_ids": [
+      "MTP-S000997",
+      "MTP-S000998",
+      "MTP-S000999",
+      "MTP-S001000",
+      "MTP-S001001",
+      "MTP-S001002"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Six-line description of early-age humans, form, radiance, food, lifespan, and sexual faculties."
+  },
+  {
+    "id": "MTP-000303",
+    "golden_ids": [
+      "MTP-S001003",
+      "MTP-S001004",
+      "MTP-S001005",
+      "MTP-S001006",
+      "MTP-S001007"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-line causal account of delusion, coarsening afflictions, faculties, and diminished radiance."
+  },
+  {
+    "id": "MTP-000304",
+    "golden_ids": [
+      "MTP-S001008"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Food sequence begins here and continues at S1010 across page metadata."
+  },
+  {
+    "id": "MTP-000305",
+    "golden_ids": [
+      "MTP-S001009"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the food sentence continues across it."
+  },
+  {
+    "id": "MTP-000306",
+    "golden_ids": [
+      "MTP-S001010"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the food sequence begun at S1008."
+  },
+  {
+    "id": "MTP-000307",
+    "golden_ids": [
+      "MTP-S001011",
+      "MTP-S001012",
+      "MTP-S001013",
+      "MTP-S001014",
+      "MTP-S001015",
+      "MTP-S001016"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Summary and linked fivefold lists with their concluding samsaric predicate."
+  },
+  {
+    "id": "MTP-000308",
+    "golden_ids": [
+      "MTP-S001017",
+      "MTP-S001018",
+      "MTP-S001019"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line delusion comparison involving a rapidly moving wheel."
+  },
+  {
+    "id": "MTP-000309",
+    "golden_ids": [
+      "MTP-S001020",
+      "MTP-S001021"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Appearance and rope comparison; its explanation continues after page metadata."
+  },
+  {
+    "id": "MTP-000310",
+    "golden_ids": [
+      "MTP-S001022"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; the rope comparison continues across it."
+  },
+  {
+    "id": "MTP-000311",
+    "golden_ids": [
+      "MTP-S001023",
+      "MTP-S001024",
+      "MTP-S001025",
+      "MTP-S001026",
+      "MTP-S001027"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-line continuation of the rope comparison, world/inhabitant distinction, and two-truths wording."
+  },
+  {
+    "id": "MTP-000312",
+    "golden_ids": [
+      "MTP-S001028",
+      "MTP-S001029",
+      "MTP-S001030"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line truth comparison retaining both appearance and rope predications with the following analogy."
+  },
+  {
+    "id": "MTP-000313",
+    "golden_ids": [
+      "MTP-S001031",
+      "MTP-S001032",
+      "MTP-S001033"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line statement about the intrinsic nature of the two truths and their relation."
+  },
+  {
+    "id": "MTP-000314",
+    "golden_ids": [
+      "MTP-S001034",
+      "MTP-S001035",
+      "MTP-S001036",
+      "MTP-S001037"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line liberation and essence conclusion."
+  },
+  {
+    "id": "MTP-000315",
+    "golden_ids": [
+      "MTP-S001038"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not root-text wording."
+  },
+  {
+    "id": "MTP-000316",
+    "golden_ids": [
+      "MTP-S001039",
+      "MTP-S001040",
+      "MTP-S001041",
+      "MTP-S001042",
+      "MTP-S001043",
+      "MTP-S001044"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Essence topic and complete connected fivefold enumeration."
+  },
+  {
+    "id": "MTP-000317",
+    "golden_ids": [
+      "MTP-S001045",
+      "MTP-S001046",
+      "MTP-S001047",
+      "MTP-S001048"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line concluding statement before the colophon."
+  },
+  {
+    "id": "MTP-000318",
+    "golden_ids": [
+      "MTP-S001049"
+    ],
+    "role": "chapter_colophon",
+    "format": "prose",
+    "rationale": "Opening title formula of the chapter colophon; continues at S1051."
+  },
+  {
+    "id": "MTP-000319",
+    "golden_ids": [
+      "MTP-S001050"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata separating the two colophon objects."
+  },
+  {
+    "id": "MTP-000320",
+    "golden_ids": [
+      "MTP-S001051"
+    ],
+    "role": "chapter_colophon",
+    "format": "prose",
+    "rationale": "Numbered fifth-chapter colophon completing S1049; no chapter6 text included."
+  }
+]

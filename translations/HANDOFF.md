@@ -1,6 +1,6 @@
 # Translation handoff — chapter 5 authorized preparation
 
-Updated 2026-10-03. The user instructed “cool, then move on to next chapter” after the chapter 4 save-failure and file-loss disclosure. Chapter 5 working preparation is now authorized under DECISIONS.md and draft-authorizations/ch05.json. Finite scope: MTP-S000636–MTP-S001051, 416 source objects, native images 464–490 / printed454–480. The first and last image spans are partial. Source segmentation and native preparation are in progress; no chapter 5 English has yet been authored.
+Updated 2026-10-03. The user instructed “cool, then move on to next chapter” after the chapter 4 save-failure and file-loss disclosure. Chapter 5 working preparation is now authorized under DECISIONS.md and draft-authorizations/ch05.json. Finite scope: MTP-S000636–MTP-S001051, 416 source objects, native images 464–490 / printed454–480. The first and last image spans are partial. The source is frozen as135pairs MTP-000186–MTP-000320:104versepairs/385verseobjects,two proseintroductions,27metadata andtwo colophonpairs. Source-onlyvalidationpasses. Nativeaudit is underway; no chapter5English has yet been authored.
 
 ## Preserved prior state and recovery limits
 
