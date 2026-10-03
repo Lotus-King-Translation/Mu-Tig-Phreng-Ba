@@ -81,5 +81,33 @@
     "change": "Added narrowly allocated reader-visible lexical support notes; synchronized both note maps and pair-status references.",
     "reason": "Provide actual local note bindings for recurring provisional technical uses and non-obvious grammatical realizations. No glossary proposal is activated.",
     "preservation": "Raw English pair bodies, including whitespace, match the preserved complete author draft exactly after removing only note-reference tokens; archive unchanged."
+  },
+  {
+    "id": "CH06-AUTHOR-C008",
+    "class": "terminological",
+    "locus": [
+      "MTP-S001270",
+      "MTP-S001424"
+    ],
+    "note_ids": [
+      "T06-030",
+      "T06-048"
+    ],
+    "change": "Replaced shorter-form descriptions of ཅོག་བཞག with differently written attested form; its application to canonical leaving as it is remains provisional.",
+    "reason": "Both ཅོག་བཞག and canonical ཅོག་གཞག have two syllables. The difference is orthographic, not an abbreviation. English bodies and archived draft unchanged."
+  },
+  {
+    "id": "CH06-AUTHOR-C009",
+    "class": "terminological",
+    "note_ids": [
+      "T06-L006",
+      "T06-L007",
+      "T06-L008",
+      "T06-L009",
+      "T06-L010"
+    ],
+    "change": "Added narrowly allocated reader-visible lexical support notes; synchronized both note maps and pair-status references.",
+    "reason": "Provide actual local note bindings for recurring provisional technical uses and non-obvious grammatical realizations. No glossary proposal is activated.",
+    "preservation": "Raw English pair bodies, including whitespace, match the preserved complete author draft exactly after removing only note-reference tokens; archive unchanged."
   }
 ]

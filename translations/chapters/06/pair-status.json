@@ -609,7 +609,8 @@
       "MTP-AUDIT-C06-137",
       "MTP-AUDIT-C06-138",
       "MTP-AUDIT-C06-139",
-      "MTP-AUDIT-C06-140"
+      "MTP-AUDIT-C06-140",
+      "T06-L006"
     ]
   },
   {
@@ -633,7 +634,8 @@
       "MTP-AUDIT-C06-137",
       "MTP-AUDIT-C06-144",
       "MTP-AUDIT-C06-145",
-      "MTP-AUDIT-C06-146"
+      "MTP-AUDIT-C06-146",
+      "T06-L006"
     ]
   },
   {
@@ -656,7 +658,8 @@
       "MTP-AUDIT-C06-137",
       "MTP-AUDIT-C06-148",
       "MTP-AUDIT-C06-149",
-      "MTP-AUDIT-C06-150"
+      "MTP-AUDIT-C06-150",
+      "T06-L007"
     ]
   },
   {
@@ -688,7 +691,9 @@
       "MTP-AUDIT-C06-152",
       "MTP-AUDIT-C06-155",
       "MTP-AUDIT-C06-156",
-      "MTP-AUDIT-C06-157"
+      "MTP-AUDIT-C06-157",
+      "T06-L006",
+      "T06-L008"
     ]
   },
   {
@@ -701,7 +706,8 @@
       "MTP-AUDIT-C06-152",
       "MTP-AUDIT-C06-158",
       "MTP-AUDIT-C06-159",
-      "MTP-AUDIT-C06-160"
+      "MTP-AUDIT-C06-160",
+      "T06-L007"
     ]
   },
   {
@@ -712,7 +718,9 @@
       "T06-026",
       "MTP-AUDIT-C06-152",
       "MTP-AUDIT-C06-161",
-      "MTP-AUDIT-C06-162"
+      "MTP-AUDIT-C06-162",
+      "T06-L008",
+      "T06-L010"
     ]
   },
   {
@@ -725,7 +733,8 @@
       "MTP-AUDIT-C06-163",
       "MTP-AUDIT-C06-164",
       "MTP-AUDIT-C06-165",
-      "MTP-AUDIT-C06-166"
+      "MTP-AUDIT-C06-166",
+      "T06-L008"
     ]
   },
   {
@@ -747,7 +756,9 @@
       "MTP-AUDIT-C06-169",
       "MTP-AUDIT-C06-170",
       "MTP-AUDIT-C06-171",
-      "MTP-AUDIT-C06-172"
+      "MTP-AUDIT-C06-172",
+      "T06-L006",
+      "T06-L008"
     ]
   },
   {
@@ -758,7 +769,9 @@
       "T06-027",
       "MTP-AUDIT-C06-165",
       "MTP-AUDIT-C06-173",
-      "MTP-AUDIT-C06-174"
+      "MTP-AUDIT-C06-174",
+      "T06-L008",
+      "T06-L010"
     ]
   },
   {
@@ -769,7 +782,8 @@
       "T06-027",
       "MTP-AUDIT-C06-165",
       "MTP-AUDIT-C06-175",
-      "MTP-AUDIT-C06-176"
+      "MTP-AUDIT-C06-176",
+      "T06-L008"
     ]
   },
   {
@@ -782,7 +796,9 @@
       "MTP-AUDIT-C06-177",
       "MTP-AUDIT-C06-178",
       "MTP-AUDIT-C06-179",
-      "MTP-AUDIT-C06-180"
+      "MTP-AUDIT-C06-180",
+      "T06-L006",
+      "T06-L008"
     ]
   },
   {
@@ -814,7 +830,8 @@
       "MTP-AUDIT-C06-182",
       "MTP-AUDIT-C06-185",
       "MTP-AUDIT-C06-186",
-      "MTP-AUDIT-C06-187"
+      "MTP-AUDIT-C06-187",
+      "T06-L009"
     ]
   },
   {
@@ -826,7 +843,8 @@
       "MTP-AUDIT-C06-182",
       "MTP-AUDIT-C06-188",
       "MTP-AUDIT-C06-189",
-      "MTP-AUDIT-C06-190"
+      "MTP-AUDIT-C06-190",
+      "T06-L009"
     ]
   },
   {
@@ -838,7 +856,8 @@
       "MTP-AUDIT-C06-182",
       "MTP-AUDIT-C06-191",
       "MTP-AUDIT-C06-192",
-      "MTP-AUDIT-C06-193"
+      "MTP-AUDIT-C06-193",
+      "T06-L009"
     ]
   },
   {
@@ -853,7 +872,10 @@
       "MTP-AUDIT-C06-195",
       "MTP-AUDIT-C06-196",
       "MTP-AUDIT-C06-197",
-      "MTP-AUDIT-C06-198"
+      "MTP-AUDIT-C06-198",
+      "T06-L006",
+      "T06-L007",
+      "T06-L009"
     ]
   },
   {
@@ -874,7 +896,8 @@
       "MTP-AUDIT-C06-201",
       "MTP-AUDIT-C06-202",
       "MTP-AUDIT-C06-203",
-      "MTP-AUDIT-C06-204"
+      "MTP-AUDIT-C06-204",
+      "T06-L010"
     ]
   },
   {
@@ -897,7 +920,8 @@
       "T06-030",
       "MTP-AUDIT-C06-200",
       "MTP-AUDIT-C06-208",
-      "MTP-AUDIT-C06-209"
+      "MTP-AUDIT-C06-209",
+      "T06-L008"
     ]
   },
   {
@@ -906,7 +930,8 @@
     "reason": "All substantive units represented in working English with local syntax and terminology qualifications.",
     "note_ids": [
       "T06-031",
-      "MTP-AUDIT-C06-200"
+      "MTP-AUDIT-C06-200",
+      "T06-L006"
     ]
   },
   {
@@ -917,7 +942,8 @@
       "T06-031",
       "MTP-AUDIT-C06-200",
       "MTP-AUDIT-C06-210",
-      "MTP-AUDIT-C06-211"
+      "MTP-AUDIT-C06-211",
+      "T06-L006"
     ]
   },
   {
@@ -927,7 +953,8 @@
     "note_ids": [
       "T06-031",
       "MTP-AUDIT-C06-200",
-      "MTP-AUDIT-C06-212"
+      "MTP-AUDIT-C06-212",
+      "T06-L006"
     ]
   },
   {
@@ -938,7 +965,8 @@
       "T06-031",
       "MTP-AUDIT-C06-200",
       "MTP-AUDIT-C06-213",
-      "MTP-AUDIT-C06-214"
+      "MTP-AUDIT-C06-214",
+      "T06-L006"
     ]
   },
   {
@@ -958,7 +986,8 @@
       "MTP-AUDIT-C06-216",
       "MTP-AUDIT-C06-217",
       "MTP-AUDIT-C06-218",
-      "MTP-AUDIT-C06-219"
+      "MTP-AUDIT-C06-219",
+      "T06-L009"
     ]
   },
   {
@@ -969,7 +998,8 @@
       "T06-032",
       "MTP-AUDIT-C06-216",
       "MTP-AUDIT-C06-220",
-      "MTP-AUDIT-C06-221"
+      "MTP-AUDIT-C06-221",
+      "T06-L006"
     ]
   },
   {

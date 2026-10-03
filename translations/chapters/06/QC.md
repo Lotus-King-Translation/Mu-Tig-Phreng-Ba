@@ -1,8 +1,8 @@
 # Chapter 6 independent agent QC
 
-**All first-draft English bodies and 49 author notes reviewed; final lexical and apparatus review remains in progress. This report does not yet clear the complete candidate or its formal publication.**
+**All first-draft English bodies, 49 original author notes, the complete source apparatus and the bounded first lexical batch reviewed; final chapter-wide lexical review remains in progress. This report does not yet clear the complete candidate or its formal publication.**
 
-Reviewer: `/root/ch06_qc`. Translator: `/root/ch06_translate`. Review date: 2026-10-03. The author's lexical helper remains on the author side. Review mode is sequential complete batches against the Tibetan, with final lexical and apparatus review still pending.
+Reviewer: `/root/ch06_qc`. Translator: `/root/ch06_translate`. Review date: 2026-10-03. The author's lexical helper remains on the author side. Review mode is sequential complete batches against the Tibetan, with final chapter-wide lexical review still pending.
 
 ## Scope and authority
 
@@ -25,8 +25,10 @@ The reviewer has not inspected native images. The separate native audit is evide
 - The author corrected Q06-003 and adopted the possessive grammar “are essence itself’s own body,” recorded as C005/C006. Both were independently verified. The resulting complete 49-note author draft has SHA-256 `504c165e8985bf2ebda38a676d723992b7c56858b3380081abe8bd7e27a0ffc1`; no first-draft body or author-note correction request remains open.
 - Read-only preparation checked exact source order and all 376 audit anchor allocations, finding references and nonempty quoted golden readings against the fixed objects. It read all 21 distinct audit explanation/consequence combinations, the nonagreement records, limitations and special confirmed readings. This is documentary preparation, not complete final generated-endnote QC or visual proof of allocation.
 - Completed source-apparatus pass: read all thirteen generated golden-history notes against the eight change records and twelve uncertainty statements, and all 358 native records' individual anchor/row locators and quoted readings. Repeated explanation/consequence text was de-duplicated, while every record remained accounted for. A focused independent check confirmed that every native reader note preserves the exact record explanation, English consequence, readings, evidence path, page/image/row locator and all-and-only corresponding pair references; multiline Markdown continuation indentation was accounted for. All thirteen history-note allocations and exact change/uncertainty text likewise passed. No source-apparatus correction request was identified. This is documentary and translation review, not an independent visual audit.
-- The first five supplementary lexical notes T06-L001–005 were read in full. Their provisional/canonical distinctions conform within the stated loci; final ledger completeness and local record bindings remain for the lexical pass.
-- Remaining review: final usage records, eight-column proposals, further supplementary lexical notes, final outputs and hash-bound QC.
+- The first five supplementary lexical notes T06-L001–005 were read in full. Their provisional/canonical distinctions conform within the stated loci. The bounded first lexical batch, S1052–S1186 / pairs 321–369, was reviewed in full: all 114 usage records (103 provisional and 11 grammatical), 163 source loci and 100 inactive eight-column proposals. Exact source spans, frozen pair ownership, canonical comparison entries, note definitions, note-map allocations and actual reader references passed independent checks for every record. Inflections, coordinated negative realizations and alternative realizations within grouped records were read against their actual English bodies. No lexical sense or authority correction was identified within that bounded ledger; Q06-004 concerns two stale proposal scope descriptions.
+- The ledger explicitly identifies its source artifact as `diplomatic/chapters/06/reading.json`, whose SHA-256 `b26d02301cda2611d38bc7cbb5db94f83b357330f664c187b128acb667fd31eb` was independently verified. It separately identifies the paired `translations/chapters/06/source.md` and its verified `29b3b89…` hash. The hashes therefore describe distinct named artifacts, not contradictory versions of one file.
+- The note-only orthographic correction in T06-030/T06-048 and C008 was verified. All 132 raw English pair bodies, including whitespace, still match the preserved complete author draft after removing only note-reference tokens. The archived draft retains SHA-256 `504c165e8985bf2ebda38a676d723992b7c56858b3380081abe8bd7e27a0ffc1`.
+- Remaining review: later usage records and proposals, further supplementary lexical notes, final outputs and hash-bound QC. The first lexical batch is explicitly partial and does not establish whole-chapter lexical coverage.
 - No automated semantic certification or independent human certification is claimed. The standard's 30 semantic regression fixtures have not been executed by this reviewer.
 
 ## Findings
@@ -65,6 +67,28 @@ The reviewer has not inspected native images. The separate native audit is evide
 - Authority: exact source-based note correction, not a lexical decision.
 - Rules: Part I §7; QC Q2, Q7, Q9.
 - Disposition: author applied the exact correction in T06-047, recorded as CH06-AUTHOR-C005. Reviewer verified it; body unchanged. Closed.
+
+### Q06-004 — stale attachment status in two lexical proposals
+
+- Source: S1155; proposal headwords `གློ་བུར་` and `རྐྱེན་`.
+- Draft: their scope fields respectively say “Final attachment must be verified after author writes batch 2” and “pending actual author revision.”
+- Label/category: confirmed documentation error; proposal state disagrees with the corrected text.
+- Severity: Low. Confidence: High.
+- Evidence: the body, T06-018 and usage records T06-U086/U087 already contain the corrected adventitious-conditions attachment; Q06-001 was independently verified closed.
+- Minimal action: synchronize the two proposal descriptions to that corrected state. Keep both proposals inactive; no English-body change.
+- Authority: exact artifact-state correction, not owner approval of the proposals.
+- Disposition: sent to the lexical helper, author and root; correction pending verification.
+
+### Q06-005 — orthographic difference described as abbreviation
+
+- Source: S1270/S1424 `ཅོག་བཞག`; canonical entry `ཅོག་གཞག`.
+- Draft: T06-030/T06-048 called the source spelling a shorter form of the canonical entry.
+- Label/category: confirmed documentation error; orthographic precision in annotation.
+- Severity: Low. Confidence: High; both forms have two syllables.
+- Origin: identified by the separate audit helper and confirmed by root; independently verified here.
+- Minimal action: describe a differently written attested form, with its link to canonical “leaving as it is” remaining provisional.
+- Authority: exact source-form description; no extension of canonical authority.
+- Disposition: author corrected both notes and recorded CH06-AUTHOR-C008. Reviewer verified the corrections and unchanged English bodies/archive. Closed.
 
 ## Important conforming and unresolved usages
 
