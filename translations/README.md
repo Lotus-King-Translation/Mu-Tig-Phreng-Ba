@@ -18,6 +18,6 @@ Canonical content is in `paired/source.md` and `paired/translation.md`, mirrored
 | 2 | [English](chapters/02/reading.md) | Signed, independently reviewed candidate; tag/receipt pending |
 | 3 | [English](chapters/03/reading.md) | Signed, independently reviewed working candidate; strict final release and tag/receipt pending |
 | 4 | [English](chapters/04/reading.md) | Complete saved 396-note draft; unsigned after final upload/file loss |
-| 5 | [Fixed source](chapters/05/source.md) | 135 pairs / 416 objects frozen; English and native audit in progress |
+| 5 | [English](chapters/05/reading.md) · [Bilingual](chapters/05/bilingual.md) | Signed, independently reviewed working candidate; 520 notes; formal release pending |
 
-Chapters 1–4 represent 635 source objects, including unresolved passages and metadata. Chapter 5 drafting is underway; chapters 6–8 have not started. The [handoff](HANDOFF.md) records exact coverage, unresolved readings and publication state.
+Chapters 1–5 represent 1,051 source objects, including unresolved passages and metadata; 1,002 remain. Chapter 5 retains sixteen locally unresolved pairs. Chapters 6–8 have not started. The [handoff](HANDOFF.md) records exact coverage, unresolved readings and publication state.
