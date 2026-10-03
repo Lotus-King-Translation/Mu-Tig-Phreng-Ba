@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "chapter": 4,
+  "prior_chapter": 3,
+  "prior_commit": "50bef02b5b0088911153ce348f7f45612e147158",
+  "reviewed_priors": [
+    {
+      "chapter": 2,
+      "commit": "f0f7097621c021b4a03863dc7b7e8925c6975f86",
+      "build_manifest_sha256": "5d43adcb8f49e8fb1e76c6bcf5dcc12285111b5f39a51ba27cbcf6f8f853e8b1"
+    },
+    {
+      "chapter": 3,
+      "commit": "50bef02b5b0088911153ce348f7f45612e147158",
+      "build_manifest_sha256": "2b4671cc6b8ac19fd9187379138c460c34a4f746d61cf8a3c25904ede3472885"
+    }
+  ],
+  "authorized_scope": "working_draft_only",
+  "user_instruction": "excellent, next chapter",
+  "date": "2026-10-03",
+  "reason": "User explicitly requested the next chapter after receiving chapter3 and the pending-release disclosure. This authorizes chapter4 working preparation only. Prior reviewed chapter2/3 candidates remain pinned unchanged, chapter1 real release remains mandatory, and genuine prior tags/receipts are still required by strict final validation. See DECISIONS.md."
+}

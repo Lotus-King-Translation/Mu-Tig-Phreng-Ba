@@ -1,6 +1,6 @@
-# Translation handoff — chapter 3 reviewed and signed; publication pending
+# Translation handoff — chapter 4 working continuation
 
-Updated 2026-10-03. User instruction: “excellent, move to chapter 3 then”, after the chapter 2 publication blocker. See DECISIONS.md and the committed, narrowly scoped draft authorization. Fixed golden-v1 and the canonical glossary remain unchanged.
+Updated 2026-10-03. Latest user instruction: “excellent, next chapter”, after chapter3 completion and the pending-release disclosure. Chapter4 working preparation is authorized; see DECISIONS.md and draft-authorizations/ch04.json. See DECISIONS.md and the committed, narrowly scoped draft authorization. Fixed golden-v1 and the canonical glossary remain unchanged.
 
 ## Completed chapter 3 work
 
@@ -26,6 +26,6 @@ Unsigned content signoff rejected before signing. Strict final validation still 
 
 Chapter2 and chapter3 annotated tags and publication receipts remain pending. Remote Desktop Commander directory access responded, but fresh terminal execution again returned no output/PID before coordinator interruption. No remote Mac project files, Git state or credentials were read or modified. Cloud git has no authenticated push. GitHub connector checkpoints succeed, but its available operations do not create annotated tags. No tag or receipt is fabricated or moved.
 
-Next finite task: perform genuine chapter2 annotated-tag/receipt publication with correct source-prefix validation, then chapter3 strict final validation/publication. The user-authorized continuation was for chapter3 working preparation only; final release gates remain strict and chapter4 has not started. An isolated validation of the preserved chapter2 commit must not falsely claim that current prefix3 is prefix2 or that remote main equals an older commit. Preserve all candidate files when resolving publication.
+Current finite task: chapter4,MTP-S000342–MTP-S000635,294objects,19images446–464/printed436–454. Source segmentation and native comparison are in progress; no English yet. Freeze exact pairs before drafting, then produce full English/source notes, usage/proposals, independent QC, deterministic outputs and signed content review. Prior chapter1 release and signed chapter2/3 candidates remain unchanged. The chapter4 committed draft authorization binds both unreleased priors; no release receipt is fabricated.
 
-The original authorization to complete the remaining translation remains in force. Chapters4–8 and the whole-book aggregate remain unstarted; external witness-research leads remain outside this bounded translation scope.
+Formal chapters2–4 tags/receipts remain pending and strict final release checks are unchanged. Chapter5 has not started. The original full-translation authorization remains in force; the current working exception is chapter4 only. External witness research remains outside this bounded translation.

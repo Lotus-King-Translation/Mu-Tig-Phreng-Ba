@@ -1,7 +1,7 @@
 # Project status — 2026-10-03
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: Chapter3 signed and independently reviewed; chapters2–3 tags/receipts pending; fixed chapter releases1/8
+- Phase: Chapter4 working continuation authorized; chapters2–3 signed candidates and tags/receipts pending; fixed chapter releases1/8
 - Repository: created from Lotus-King-Translation/tibetan-text-project-template
 - Discovery streams: 3/3 bounded surveys completed; BDRC, external catalogues, electronic texts/translations
 - Registered source/research records: 43; this includes unresolved leads and reference works
@@ -21,4 +21,4 @@ Resolve the eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtan
 
 Golden output: [complete reading](golden/reading.md), [machine reading](golden/reading.json), [coverage](golden/coverage.json). Fixed whole-book release: `golden-v1`; publication receipt: `diplomatic/publication/golden-v1.json` on main after the fixed tag.
 
-Golden editorial/source queues are closed. English fixed releases1/8 complete; chapter2 signed candidate is unchanged. Chapter3 is a complete signed working candidate:34pairs/120objects,165notes,142/142source obligations,105usage records/252occurrences/65proposals. Independent QC and reproducible draft-candidate validation pass. Two local unresolved pairs and all source-annotation limits remain explicit. Canonical coverage341/2053 objects,1712 remaining; released coverage97/2053. Formal chapters2–3 tags/receipts remain pending; strict final release checks are unchanged and chapter3 final-mode validation is blocked. Chapters4–8 have not started. See translations/HANDOFF.md.
+Golden editorial/source queues are closed. English fixed releases1/8 complete; chapter2 signed candidate is unchanged. Chapter3 is a complete signed working candidate:34pairs/120objects,165notes,142/142source obligations,105usage records/252occurrences/65proposals. Independent QC and reproducible draft-candidate validation pass. Two local unresolved pairs and all source-annotation limits remain explicit. Canonical coverage341/2053 objects,1712 remaining; released coverage97/2053. Formal chapters2–3 tags/receipts remain pending; strict final release checks are unchanged and chapter3 final-mode validation is blocked. User authorized the next chapter: chapter4 source segmentation and 19-page native comparison are now in progress, with no English yet. Chapters5–8 have not started. See translations/HANDOFF.md.
