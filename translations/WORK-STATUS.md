@@ -9,3 +9,5 @@ Next finite task: chapter 2, MTP-S000098–MTP-S000221, 124 source objects, prin
 Source editorial queues remain closed: no golden changes/restorations are proposed. New local print differences will be translation endnotes. Full commentary decipherment, exhaustive witness collation and independent human certification are not claimed. Source uncertainty and untranscribed annotations remain explicit.
 
 Startup: clean GitHub checkout at 09b0409c1a63eafe19deef1888838d1d3d50d6de; chapter 1 read-only final gate passes. MacBook offline; remote-only interrupted work remains unverified.
+
+Chapter 2 audit checkpoint: all 124 source objects checked across all seven native images; 138 local findings (2 lexical differences, 5 uncertain-reading findings, 10 source-layer, 10 presentation, 111 omitted-small-note records). Seven anchor checks remain uncertain. 152 golden/audit obligations sealed; these are note obligations, not an accuracy measure. Full main-text comparison performed; small-note presence inventoried, not fully deciphered or translated. English draft has all35 pairs represented and is under independent review; no chapter2 release yet.
