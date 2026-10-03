@@ -14,7 +14,7 @@ Updated 2026-10-03. Latest user instruction: “excellent, next chapter”, afte
 
 ## Whole-project and prior chapter state
 
-Canonical paired prefix:99 pairs/341 of2053 source objects;1712 remain beyond chapter3. Counts measure representation, not accuracy or resolved interpretation. English fixed releases:1/8, translate-ch01-v1 (97objects).
+Canonical English prefix:99 pairs/341 of2053 source objects;1712 remain beyond chapter3. Source-only preparation now extends to185 pairs/635 objects through chapter4; the source and English scopes are intentionally separate until chapter4 is drafted and assembled. Counts measure representation, not accuracy or resolved interpretation. English fixed releases:1/8, translate-ch01-v1 (97objects).
 
 Chapter2 remains the signed independently reviewed candidate at f0f7097621c021b4a03863dc7b7e8925c6975f86:35pairs/124objects/175notes,152 source obligations,4 locally unresolved pairs. Every chapter2 snapshot and manifest input remains unchanged. Its final validation passed before the canonical prefix extended to chapter3. Chapter1 fixed release and golden-v1 are unchanged.
 
@@ -26,6 +26,6 @@ Unsigned content signoff rejected before signing. Strict final validation still 
 
 Chapter2 and chapter3 annotated tags and publication receipts remain pending. Remote Desktop Commander directory access responded, but fresh terminal execution again returned no output/PID before coordinator interruption. No remote Mac project files, Git state or credentials were read or modified. Cloud git has no authenticated push. GitHub connector checkpoints succeed, but its available operations do not create annotated tags. No tag or receipt is fabricated or moved.
 
-Current finite task: chapter4,MTP-S000342–MTP-S000635,294objects,19images446–464/printed436–454. Source segmentation and native comparison are in progress; no English yet. Freeze exact pairs before drafting, then produce full English/source notes, usage/proposals, independent QC, deterministic outputs and signed content review. Prior chapter1 release and signed chapter2/3 candidates remain unchanged. The chapter4 committed draft authorization binds both unreleased priors; no release receipt is fabricated.
+Current finite task: chapter4,MTP-S000342–MTP-S000635,294objects,19images446–464/printed436–454. Exact source is frozen in86 pairs MTP-000100–MTP-000185; source-only validation passes and11 inherited source obligations are recorded. Native comparison is in progress; no English yet. Freeze exact pairs before drafting, then produce full English/source notes, usage/proposals, independent QC, deterministic outputs and signed content review. Prior chapter1 release and signed chapter2/3 candidates remain unchanged. The chapter4 committed draft authorization binds both unreleased priors; no release receipt is fabricated.
 
 Formal chapters2–4 tags/receipts remain pending and strict final release checks are unchanged. Chapter5 has not started. The original full-translation authorization remains in force; the current working exception is chapter4 only. External witness research remains outside this bounded translation.

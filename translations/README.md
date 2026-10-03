@@ -2,7 +2,7 @@
 
 The translation follows the fixed [golden-v1 Tibetan edition](../golden/reading.md), under the unchanged [glossary](../glossary/expanded_tibetan_english_glossary.csv) and [translation/QC standard](../guidelines/tibetan_translation_standard_v2.md).
 
-Work normally proceeds through eight sequential chapter releases. The documented owner instruction permits chapter 3 working preparation while chapter 2 awaits publication; it does not waive final release checks. See [current status](HANDOFF.md), [source pins and coverage plan](PLAN.json), and [endnote policy](ENDNOTE-POLICY.md). Until all eight chapters are released, the canonical paired files explicitly declare their chapter-prefix scope.
+Work normally proceeds through eight sequential chapter releases. The documented owner instructions permit chapter 3 and then chapter 4 working preparation while prior chapters await publication; it does not waive final release checks. See [current status](HANDOFF.md), [source pins and coverage plan](PLAN.json), and [endnote policy](ENDNOTE-POLICY.md). Until all eight chapters are released, the canonical paired files explicitly declare their chapter-prefix scope.
 
 Endnotes distinguish actual Adzom differences, electronic transcript corrections that agree with Adzom, omitted source annotations, presentation conventions, uncertain readings, and translation or terminology questions. The translation phase compares every chapter's governing main-text span against the native print; untranscribed annotations and unreadable wording remain explicit. This is an agent-produced working translation for human review.
 
@@ -18,4 +18,4 @@ Canonical content is in `paired/source.md` and `paired/translation.md`, mirrored
 | 2 | [English](chapters/02/reading.md) | Signed, independently reviewed candidate; tag/receipt pending |
 | 3 | [English](chapters/03/reading.md) | Signed, independently reviewed working candidate; strict final release and tag/receipt pending |
 
-Chapters 4–8 have not started. The [handoff](HANDOFF.md) records exact coverage, unresolved readings and publication state.
+Chapter4 exact source is frozen for translation; native comparison is in progress. Chapters5–8 have not started. The [handoff](HANDOFF.md) records exact coverage, unresolved readings and publication state.

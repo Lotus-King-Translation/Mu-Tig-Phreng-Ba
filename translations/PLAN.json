@@ -177,5 +177,7 @@
   "next_finite_task": "Freeze chapter4 source pairs, translate294 objects, compare19 pages, attach complete endnotes, independently review and checkpoint. Strict releases remain pending.",
   "chapter_3_state": "Signed reviewed working candidate:34pairs/120objects/165notes;142/142source obligations;105usage records/252occurrences/65proposals;24translated/2locallyunresolved/8metadata; independent QC and reproducible draft-candidate validation passed. Strict final release remains blocked by genuine prior publication.",
   "count_semantics": "Representation counts include explicitly unresolved and nontranslatable metadata objects; they do not measure accuracy or complete decipherment.",
-  "chapter_4_state": "Source segmentation and 19-page native comparison in progress; English not started."
+  "chapter_4_state": "Frozen exact source:86pairs/294objects;11 inherited source obligations; native19-page comparison in progress; English not started.",
+  "source_pairs_frozen": 185,
+  "source_objects_frozen": 635
 }

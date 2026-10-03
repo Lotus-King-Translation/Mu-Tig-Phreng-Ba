@@ -89,23 +89,40 @@ def fixed_prior(root,k,ref):
     final_gate(root,k)
 
 def draft_authorization(root,n,commit):
-    """A chapter-3-only working exception; never a publication receipt."""
-    need(n==3,'Draft continuation is authorized only for chapter 3')
+    """Explicit chapter 3/4 working exceptions; never publication receipts."""
+    need(n in {3,4},'Draft continuation is authorized only for chapters 3 and 4')
     need(isinstance(commit,str) and re.fullmatch(r'[0-9a-f]{40}',commit),'Draft prior commit must be a full commit SHA')
-    rel='translations/draft-authorizations/ch03.json';path=safe(root,rel);a=load(path)
+    rel=f'translations/draft-authorizations/ch{n:02}.json';path=safe(root,rel);a=load(path)
     need(path.read_bytes()==git(root,'show','HEAD:'+rel),'Draft authorization must be committed unchanged')
-    need(a.get('schema_version')==1 and a.get('chapter')==3 and a.get('prior_chapter')==2 and a.get('prior_commit')==commit,'Draft authorization scope/commit mismatch')
-    need(a.get('authorized_scope')=='working_draft_only' and a.get('user_instruction')=='excellent, move to chapter 3 then' and a.get('date') and a.get('reason'),'Incomplete working-draft authorization')
-    need(git(root,'cat-file','-t',commit).strip()==b'commit','Draft prior reference is not a commit')
-    git(root,'merge-base','--is-ancestor',commit,'HEAD')
-    need(sha(git(root,'show',commit+':translations/chapters/02/build-manifest.json'))==a.get('prior_build_manifest_sha256'),'Draft prior manifest pin mismatch')
+    need(a.get('schema_version')==(1 if n==3 else 2) and a.get('chapter')==n and a.get('prior_chapter')==n-1 and a.get('prior_commit')==commit,'Draft authorization scope/commit mismatch')
+    instruction={3:'excellent, move to chapter 3 then',4:'excellent, next chapter'}[n]
+    need(a.get('authorized_scope')=='working_draft_only' and a.get('user_instruction')==instruction and a.get('date') and a.get('reason'),'Incomplete working-draft authorization')
+    if n==3:
+        records=[{'chapter':2,'commit':commit,'build_manifest_sha256':a.get('prior_build_manifest_sha256')}]
+    else:
+        records=a.get('reviewed_priors')
+        need(isinstance(records,list) and all(isinstance(x,dict) for x in records) and [x.get('chapter') for x in records]==[2,3],'Draft authorization must pin exactly chapters 2 and 3 in order')
+        need(records[-1].get('commit')==commit,'Draft authorization latest prior commit mismatch')
+        legacy=draft_authorization(root,3,records[0].get('commit'))
+        previous=load(safe(root,legacy['path']))
+        need(records[0].get('build_manifest_sha256')==previous['prior_build_manifest_sha256'],'Draft chapter 2 pin differs from chapter 3 authorization')
+    for record in records:
+        ref=record.get('commit');k=record['chapter']
+        need(isinstance(ref,str) and re.fullmatch(r'[0-9a-f]{40}',ref),'Draft prior commit must be a full commit SHA')
+        need(git(root,'cat-file','-t',ref).strip()==b'commit','Draft prior reference is not a commit')
+        git(root,'merge-base','--is-ancestor',ref,commit)
+        git(root,'merge-base','--is-ancestor',ref,'HEAD')
+        need(sha(git(root,'show',ref+f':translations/chapters/{k:02}/build-manifest.json'))==record.get('build_manifest_sha256'),'Draft prior manifest pin mismatch')
     return {'path':rel,'sha256':digest(path),'prior_commit':commit,'scope':'working_draft_only'}
 
 def prior(root,n,draft_prior_commit=None):
-    if draft_prior_commit is not None:draft_authorization(root,n,draft_prior_commit)
+    reviewed={}
+    if draft_prior_commit is not None:
+        authorization=draft_authorization(root,n,draft_prior_commit)
+        reviewed={2:draft_prior_commit} if n==3 else {x['chapter']:x['commit'] for x in load(safe(root,authorization['path']))['reviewed_priors']}
     for k in range(1,n):
-        if draft_prior_commit is not None and k==2:
-            fixed_prior(root,k,draft_prior_commit)
+        if k in reviewed:
+            fixed_prior(root,k,reviewed[k])
             continue
         d=directory(root,k);r=load(root/f'translations/publication/ch{k:02}-v1.json');tag=f'translate-ch{k:02}-v1'
         need(r['chapter']==k and r['tag']==tag,'Prior translation receipt identity mismatch')
@@ -384,7 +401,7 @@ def validate(root,n,source_only=False,final=False,draft_prior_commit=None):
     return {'chapter':n,'mode':'final' if final else 'draft-candidate' if draft_prior_commit else 'candidate','passed':True,'read_only':True,'build_manifest_sha256':digest(d/'build-manifest.json'),'claims':CLAIMS}
 
 def main():
-    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--root',type=Path,default=ROOT);p.add_argument('command',choices=['plan','source','seal-audit','assemble','build','validate']);p.add_argument('--chapter',type=int,required=True);p.add_argument('--source-only',action='store_true');p.add_argument('--final',action='store_true');p.add_argument('--draft-prior-commit',help='Chapter 3 working continuation under a committed authorization; forbidden with --final');a=p.parse_args()
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--root',type=Path,default=ROOT);p.add_argument('command',choices=['plan','source','seal-audit','assemble','build','validate']);p.add_argument('--chapter',type=int,required=True);p.add_argument('--source-only',action='store_true');p.add_argument('--final',action='store_true');p.add_argument('--draft-prior-commit',help='Chapter 3 or 4 working continuation under its committed authorization; forbidden with --final');a=p.parse_args()
     try:
         need(not (a.final and a.draft_prior_commit is not None),'Draft continuation cannot be used for final validation or release')
         if a.command=='validate':result=validate(a.root,a.chapter,a.source_only,a.final,a.draft_prior_commit)

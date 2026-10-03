@@ -1,0 +1,984 @@
+[
+  {
+    "id": "MTP-000100",
+    "golden_ids": [
+      "MTP-S000342"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Electronic chapter-control token; keep separate from the prose opening."
+  },
+  {
+    "id": "MTP-000101",
+    "golden_ids": [
+      "MTP-S000343"
+    ],
+    "role": "main_text",
+    "format": "prose",
+    "rationale": "Prose request formula introducing the speaker and petition."
+  },
+  {
+    "id": "MTP-000102",
+    "golden_ids": [
+      "MTP-S000344",
+      "MTP-S000345",
+      "MTP-S000346"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line petition, preserving its address and requested teaching together."
+  },
+  {
+    "id": "MTP-000103",
+    "golden_ids": [
+      "MTP-S000347",
+      "MTP-S000348",
+      "MTP-S000349",
+      "MTP-S000350"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Metrical narrative introducing the response and assembled audience."
+  },
+  {
+    "id": "MTP-000104",
+    "golden_ids": [
+      "MTP-S000351",
+      "MTP-S000352"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two-line direct address opening the teaching."
+  },
+  {
+    "id": "MTP-000105",
+    "golden_ids": [
+      "MTP-S000353",
+      "MTP-S000354",
+      "MTP-S000355",
+      "MTP-S000356"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Connected description; keep the unusual S355–S356 wording in one unit without altering its two stable objects or internal division."
+  },
+  {
+    "id": "MTP-000106",
+    "golden_ids": [
+      "MTP-S000357"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Opening subject of the clause continued at S359; metadata requires a separate pair."
+  },
+  {
+    "id": "MTP-000107",
+    "golden_ids": [
+      "MTP-S000358"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000108",
+    "golden_ids": [
+      "MTP-S000359",
+      "MTP-S000360",
+      "MTP-S000361",
+      "MTP-S000362"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the pre-page clause, then retains the linked embodiment/nature-of-phenomena description."
+  },
+  {
+    "id": "MTP-000109",
+    "golden_ids": [
+      "MTP-S000363",
+      "MTP-S000364",
+      "MTP-S000365",
+      "MTP-S000366",
+      "MTP-S000367"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-line adornment, spheres, embodiment, and primordial-knowing description."
+  },
+  {
+    "id": "MTP-000110",
+    "golden_ids": [
+      "MTP-S000368",
+      "MTP-S000369",
+      "MTP-S000370"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line statement connecting the mandala and the teaching of activity."
+  },
+  {
+    "id": "MTP-000111",
+    "golden_ids": [
+      "MTP-S000371",
+      "MTP-S000372",
+      "MTP-S000373",
+      "MTP-S000374",
+      "MTP-S000375",
+      "MTP-S000376"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Exclamation and the following descriptive sequence; final causal construction continues across the page marker."
+  },
+  {
+    "id": "MTP-000112",
+    "golden_ids": [
+      "MTP-S000377"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000113",
+    "golden_ids": [
+      "MTP-S000378",
+      "MTP-S000379",
+      "MTP-S000380",
+      "MTP-S000381",
+      "MTP-S000382",
+      "MTP-S000383",
+      "MTP-S000384"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Continuation of the previous construction and the related primordial-knowing descriptions."
+  },
+  {
+    "id": "MTP-000114",
+    "golden_ids": [
+      "MTP-S000385",
+      "MTP-S000386",
+      "MTP-S000387",
+      "MTP-S000388"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line activity and abiding sequence with a shared construction."
+  },
+  {
+    "id": "MTP-000115",
+    "golden_ids": [
+      "MTP-S000389",
+      "MTP-S000390",
+      "MTP-S000391",
+      "MTP-S000392",
+      "MTP-S000393",
+      "MTP-S000394"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Connected account of view, displayed embodiment, and teaching through the stated three."
+  },
+  {
+    "id": "MTP-000116",
+    "golden_ids": [
+      "MTP-S000395"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000117",
+    "golden_ids": [
+      "MTP-S000396",
+      "MTP-S000397",
+      "MTP-S000398",
+      "MTP-S000399",
+      "MTP-S000400"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-line root/activity/path construction, preserving its modifier chain."
+  },
+  {
+    "id": "MTP-000118",
+    "golden_ids": [
+      "MTP-S000401",
+      "MTP-S000402",
+      "MTP-S000403",
+      "MTP-S000404",
+      "MTP-S000405",
+      "MTP-S000406",
+      "MTP-S000407"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Connected descriptions of means, speech, view, responsiveness, and discerning knowing."
+  },
+  {
+    "id": "MTP-000119",
+    "golden_ids": [
+      "MTP-S000408",
+      "MTP-S000409",
+      "MTP-S000410",
+      "MTP-S000411",
+      "MTP-S000412"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Root and naturally arising sequence; the final nominal construction continues after page metadata."
+  },
+  {
+    "id": "MTP-000120",
+    "golden_ids": [
+      "MTP-S000413"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000121",
+    "golden_ids": [
+      "MTP-S000414",
+      "MTP-S000415",
+      "MTP-S000416",
+      "MTP-S000417",
+      "MTP-S000418"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Continuation and conclusion of the preceding root/means construction."
+  },
+  {
+    "id": "MTP-000122",
+    "golden_ids": [
+      "MTP-S000419",
+      "MTP-S000420",
+      "MTP-S000421",
+      "MTP-S000422",
+      "MTP-S000423"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Exclamation and the opening view/pith-instruction imagery, including exact S421 wording."
+  },
+  {
+    "id": "MTP-000123",
+    "golden_ids": [
+      "MTP-S000424",
+      "MTP-S000425",
+      "MTP-S000426",
+      "MTP-S000427",
+      "MTP-S000428"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five linked instruction lines with their conditions and actions."
+  },
+  {
+    "id": "MTP-000124",
+    "golden_ids": [
+      "MTP-S000429"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000125",
+    "golden_ids": [
+      "MTP-S000430",
+      "MTP-S000431"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the preceding instruction sequence before a new exclamation."
+  },
+  {
+    "id": "MTP-000126",
+    "golden_ids": [
+      "MTP-S000432",
+      "MTP-S000433",
+      "MTP-S000434",
+      "MTP-S000435",
+      "MTP-S000436"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Exclamation and the four following instruction lines."
+  },
+  {
+    "id": "MTP-000127",
+    "golden_ids": [
+      "MTP-S000437",
+      "MTP-S000438",
+      "MTP-S000439"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three-line roots, remembering, and appearance construction."
+  },
+  {
+    "id": "MTP-000128",
+    "golden_ids": [
+      "MTP-S000440",
+      "MTP-S000441",
+      "MTP-S000442",
+      "MTP-S000443",
+      "MTP-S000444"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "All-basis/mirror sequence and its concluding aggregates/body couplet."
+  },
+  {
+    "id": "MTP-000129",
+    "golden_ids": [
+      "MTP-S000445"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000130",
+    "golden_ids": [
+      "MTP-S000446",
+      "MTP-S000447",
+      "MTP-S000448",
+      "MTP-S000449",
+      "MTP-S000450",
+      "MTP-S000451"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three parallel causal/result couplets for elements, faculties, and afflictions."
+  },
+  {
+    "id": "MTP-000131",
+    "golden_ids": [
+      "MTP-S000452",
+      "MTP-S000453",
+      "MTP-S000454",
+      "MTP-S000455",
+      "MTP-S000456",
+      "MTP-S000457"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three parallel causal/result constructions, retaining the unusual complete S456 clause for local review."
+  },
+  {
+    "id": "MTP-000132",
+    "golden_ids": [
+      "MTP-S000458",
+      "MTP-S000459"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Breath and birth/death couplet."
+  },
+  {
+    "id": "MTP-000133",
+    "golden_ids": [
+      "MTP-S000460"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000134",
+    "golden_ids": [
+      "MTP-S000461",
+      "MTP-S000462",
+      "MTP-S000463",
+      "MTP-S000464",
+      "MTP-S000465",
+      "MTP-S000466"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three parallel couplets concerning qualities, limbs/path, and speech."
+  },
+  {
+    "id": "MTP-000135",
+    "golden_ids": [
+      "MTP-S000467",
+      "MTP-S000468",
+      "MTP-S000469",
+      "MTP-S000470",
+      "MTP-S000471",
+      "MTP-S000472"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three linked couplets concerning proliferating/gathering, stains, and doing."
+  },
+  {
+    "id": "MTP-000136",
+    "golden_ids": [
+      "MTP-S000473"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Causal opening continued at S475 across page metadata."
+  },
+  {
+    "id": "MTP-000137",
+    "golden_ids": [
+      "MTP-S000474"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000138",
+    "golden_ids": [
+      "MTP-S000475",
+      "MTP-S000476",
+      "MTP-S000477",
+      "MTP-S000478",
+      "MTP-S000479"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the causal opening and continues with number/sphere and darkness/light couplets."
+  },
+  {
+    "id": "MTP-000139",
+    "golden_ids": [
+      "MTP-S000480",
+      "MTP-S000481",
+      "MTP-S000482",
+      "MTP-S000483",
+      "MTP-S000484",
+      "MTP-S000485"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three concluding causal/result couplets of the speech."
+  },
+  {
+    "id": "MTP-000140",
+    "golden_ids": [
+      "MTP-S000486",
+      "MTP-S000487"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Opening of the following metrical narrative, continued after the page marker."
+  },
+  {
+    "id": "MTP-000141",
+    "golden_ids": [
+      "MTP-S000488"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000142",
+    "golden_ids": [
+      "MTP-S000489",
+      "MTP-S000490"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completion of the preceding narrative event."
+  },
+  {
+    "id": "MTP-000143",
+    "golden_ids": [
+      "MTP-S000491",
+      "MTP-S000492",
+      "MTP-S000493"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Metrical introduction to Vajradhara’s ensuing speech."
+  },
+  {
+    "id": "MTP-000144",
+    "golden_ids": [
+      "MTP-S000494",
+      "MTP-S000495",
+      "MTP-S000496",
+      "MTP-S000497",
+      "MTP-S000498"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Opening exclamation, question, and answer concerning appearance and activity."
+  },
+  {
+    "id": "MTP-000145",
+    "golden_ids": [
+      "MTP-S000499",
+      "MTP-S000500",
+      "MTP-S000501",
+      "MTP-S000502",
+      "MTP-S000503"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Parallel cultivation/view/result statements; the last topic continues at S505."
+  },
+  {
+    "id": "MTP-000146",
+    "golden_ids": [
+      "MTP-S000504"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000147",
+    "golden_ids": [
+      "MTP-S000505"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Predicate completing S503 before the next ritual-description sequence."
+  },
+  {
+    "id": "MTP-000148",
+    "golden_ids": [
+      "MTP-S000506",
+      "MTP-S000507",
+      "MTP-S000508",
+      "MTP-S000509",
+      "MTP-S000510",
+      "MTP-S000511",
+      "MTP-S000512"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Connected seven-line mandala, path, posture, and gesture sequence."
+  },
+  {
+    "id": "MTP-000149",
+    "golden_ids": [
+      "MTP-S000513",
+      "MTP-S000514",
+      "MTP-S000515",
+      "MTP-S000516",
+      "MTP-S000517"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five parallel descriptions of speech, thought, movement, form, and word."
+  },
+  {
+    "id": "MTP-000150",
+    "golden_ids": [
+      "MTP-S000518"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000151",
+    "golden_ids": [
+      "MTP-S000519",
+      "MTP-S000520",
+      "MTP-S000521",
+      "MTP-S000522",
+      "MTP-S000523",
+      "MTP-S000524"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Body-as-vessel sequence and its empowerment conclusion."
+  },
+  {
+    "id": "MTP-000152",
+    "golden_ids": [
+      "MTP-S000525",
+      "MTP-S000526",
+      "MTP-S000527",
+      "MTP-S000528"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line samaya sequence retaining the contrasted desires and their predicates."
+  },
+  {
+    "id": "MTP-000153",
+    "golden_ids": [
+      "MTP-S000529",
+      "MTP-S000530",
+      "MTP-S000531",
+      "MTP-S000532",
+      "MTP-S000533",
+      "MTP-S000534"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Three paired descriptions of approach/accomplishment, consecration/mandala, and gesture/experiential acquaintance."
+  },
+  {
+    "id": "MTP-000154",
+    "golden_ids": [
+      "MTP-S000535"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000155",
+    "golden_ids": [
+      "MTP-S000536",
+      "MTP-S000537",
+      "MTP-S000538",
+      "MTP-S000539"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line instruction and realization conclusion."
+  },
+  {
+    "id": "MTP-000156",
+    "golden_ids": [
+      "MTP-S000540",
+      "MTP-S000541",
+      "MTP-S000542"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Metrical narrative introducing the primordial-knowing dakinis’ petition."
+  },
+  {
+    "id": "MTP-000157",
+    "golden_ids": [
+      "MTP-S000543",
+      "MTP-S000544"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two-line question, distinct from the following response formula."
+  },
+  {
+    "id": "MTP-000158",
+    "golden_ids": [
+      "MTP-S000545"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Metrical response formula; keep speaker introduction distinct from quoted teaching."
+  },
+  {
+    "id": "MTP-000159",
+    "golden_ids": [
+      "MTP-S000546",
+      "MTP-S000547",
+      "MTP-S000548",
+      "MTP-S000549",
+      "MTP-S000550"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Initial elemental causal/result sequence; final fire clause continues across the page marker."
+  },
+  {
+    "id": "MTP-000160",
+    "golden_ids": [
+      "MTP-S000551"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000161",
+    "golden_ids": [
+      "MTP-S000552",
+      "MTP-S000553",
+      "MTP-S000554",
+      "MTP-S000555",
+      "MTP-S000556"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the fire clause and the earth/water couplets."
+  },
+  {
+    "id": "MTP-000162",
+    "golden_ids": [
+      "MTP-S000557",
+      "MTP-S000558",
+      "MTP-S000559",
+      "MTP-S000560",
+      "MTP-S000561"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-element series under the space relation, preserving listed order and cases."
+  },
+  {
+    "id": "MTP-000163",
+    "golden_ids": [
+      "MTP-S000562",
+      "MTP-S000563",
+      "MTP-S000564",
+      "MTP-S000565",
+      "MTP-S000566"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-element series under the wind relation, preserving listed order and cases."
+  },
+  {
+    "id": "MTP-000164",
+    "golden_ids": [
+      "MTP-S000567"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000165",
+    "golden_ids": [
+      "MTP-S000568",
+      "MTP-S000569",
+      "MTP-S000570",
+      "MTP-S000571",
+      "MTP-S000572"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-element series under the water relation, preserving listed order and cases."
+  },
+  {
+    "id": "MTP-000166",
+    "golden_ids": [
+      "MTP-S000573",
+      "MTP-S000574",
+      "MTP-S000575",
+      "MTP-S000576",
+      "MTP-S000577"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-element series under the fire relation, preserving listed order and cases."
+  },
+  {
+    "id": "MTP-000167",
+    "golden_ids": [
+      "MTP-S000578",
+      "MTP-S000579",
+      "MTP-S000580",
+      "MTP-S000581",
+      "MTP-S000582"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Five-element series under the earth relation, preserving listed order and cases."
+  },
+  {
+    "id": "MTP-000168",
+    "golden_ids": [
+      "MTP-S000583"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Opening instrumental construction continued at S585 across page metadata."
+  },
+  {
+    "id": "MTP-000169",
+    "golden_ids": [
+      "MTP-S000584"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000170",
+    "golden_ids": [
+      "MTP-S000585",
+      "MTP-S000586",
+      "MTP-S000587",
+      "MTP-S000588",
+      "MTP-S000589",
+      "MTP-S000590",
+      "MTP-S000591",
+      "MTP-S000592"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the instrumental construction and the following parallel liberation statements."
+  },
+  {
+    "id": "MTP-000171",
+    "golden_ids": [
+      "MTP-S000593"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Metrical introduction to the renewed petition."
+  },
+  {
+    "id": "MTP-000172",
+    "golden_ids": [
+      "MTP-S000594",
+      "MTP-S000595",
+      "MTP-S000596",
+      "MTP-S000597",
+      "MTP-S000598"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Address and question concerning world and beings; the final alternative continues across the page marker."
+  },
+  {
+    "id": "MTP-000173",
+    "golden_ids": [
+      "MTP-S000599"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000174",
+    "golden_ids": [
+      "MTP-S000600",
+      "MTP-S000601",
+      "MTP-S000602",
+      "MTP-S000603"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Completes the alternative and the petition’s effort/liberation question."
+  },
+  {
+    "id": "MTP-000175",
+    "golden_ids": [
+      "MTP-S000604"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Metrical response formula, separate from the quoted answer."
+  },
+  {
+    "id": "MTP-000176",
+    "golden_ids": [
+      "MTP-S000605",
+      "MTP-S000606"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Opening two-line response concerning effort and primordial liberation."
+  },
+  {
+    "id": "MTP-000177",
+    "golden_ids": [
+      "MTP-S000607",
+      "MTP-S000608",
+      "MTP-S000609",
+      "MTP-S000610"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Four-line means/discerning-knowing and parental-cause construction."
+  },
+  {
+    "id": "MTP-000178",
+    "golden_ids": [
+      "MTP-S000611",
+      "MTP-S000612",
+      "MTP-S000613",
+      "MTP-S000614"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Two linked seed/emptiness and bliss/means constructions."
+  },
+  {
+    "id": "MTP-000179",
+    "golden_ids": [
+      "MTP-S000615"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000180",
+    "golden_ids": [
+      "MTP-S000616",
+      "MTP-S000617",
+      "MTP-S000618",
+      "MTP-S000619"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Gestation sequence retaining both numerical statements without harmonization."
+  },
+  {
+    "id": "MTP-000181",
+    "golden_ids": [
+      "MTP-S000620",
+      "MTP-S000621",
+      "MTP-S000622",
+      "MTP-S000623",
+      "MTP-S000624",
+      "MTP-S000625"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Six-line birth, body, aging, illness, and death sequence."
+  },
+  {
+    "id": "MTP-000182",
+    "golden_ids": [
+      "MTP-S000626",
+      "MTP-S000627",
+      "MTP-S000628",
+      "MTP-S000629"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Conclusion concerning beings and effort, followed by the opening peroration."
+  },
+  {
+    "id": "MTP-000183",
+    "golden_ids": [
+      "MTP-S000630"
+    ],
+    "role": "source_metadata",
+    "format": "prose",
+    "rationale": "Printed-page metadata; not a root-text word."
+  },
+  {
+    "id": "MTP-000184",
+    "golden_ids": [
+      "MTP-S000631",
+      "MTP-S000632",
+      "MTP-S000633"
+    ],
+    "role": "main_text",
+    "format": "verse",
+    "rationale": "Remaining peroration and closing seal statement."
+  },
+  {
+    "id": "MTP-000185",
+    "golden_ids": [
+      "MTP-S000634",
+      "MTP-S000635"
+    ],
+    "role": "chapter_colophon",
+    "format": "prose",
+    "rationale": "Chapter-four colophon: preserve work title, chapter title, and numbered closing together."
+  }
+]
