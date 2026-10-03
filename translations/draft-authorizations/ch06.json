@@ -1,0 +1,34 @@
+{
+  "schema_version": 4,
+  "chapter": 6,
+  "prior_chapter": 5,
+  "prior_commit": "c0b7945a56e8c670363d50a6c67448bdda83003a",
+  "reviewed_priors": [
+    {
+      "chapter": 2,
+      "commit": "f0f7097621c021b4a03863dc7b7e8925c6975f86",
+      "build_manifest_sha256": "5d43adcb8f49e8fb1e76c6bcf5dcc12285111b5f39a51ba27cbcf6f8f853e8b1"
+    },
+    {
+      "chapter": 3,
+      "commit": "50bef02b5b0088911153ce348f7f45612e147158",
+      "build_manifest_sha256": "2b4671cc6b8ac19fd9187379138c460c34a4f746d61cf8a3c25904ede3472885"
+    },
+    {
+      "chapter": 5,
+      "commit": "c0b7945a56e8c670363d50a6c67448bdda83003a",
+      "build_manifest_sha256": "0afe04a17427ac29e9aff38de4e8c469e9aafbd7a011a9a8acb4a6a49e1abd02"
+    }
+  ],
+  "unsigned_prior": {
+    "chapter": 4,
+    "commit": "730921898da3e3328bb42d97abea7672bf44afcd",
+    "build_manifest_sha256": "c5091ac7c851c8baa020f9df958d00ceb26cfafa6d94c1b108c37bfacbd55f67",
+    "snapshot_tree_sha": "3a788e26750edf3682407c1643c22483dd199842",
+    "review_state": "unsigned_saved_draft"
+  },
+  "authorized_scope": "working_draft_only",
+  "user_instruction": "So make sure that everything is in github up to date, and move on to the next chapter.",
+  "date": "2026-10-03",
+  "reason": "User explicitly requested the next chapter after receiving chapter 5 as a signed independently reviewed working candidate and disclosure that formal releases remain pending. This authorizes chapter 6 working preparation, translation, review and repository preservation only. Preserve chapter 1 actual release, chapters 2, 3 and 5 signed candidates, and the exact unsigned saved chapter 4 snapshot inherited from chapter 5 authorization. Genuine prior annotated tags and receipts remain required by strict final and aggregate gates. See DECISIONS.md."
+}
