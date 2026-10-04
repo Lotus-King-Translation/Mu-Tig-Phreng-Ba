@@ -1,0 +1,2701 @@
+{
+  "chapter": 7,
+  "scope": "Partial chapter 7 author support: batch 1, all 123 fixed source objects S1428–S1550 / 37 pairs MTP-000453–MTP-000489 reviewed against the actual English and 23 translator notes. Later chapter ranges are not yet covered by this ledger.",
+  "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+  "source_sha256": "8421cb4036370b7332fba41fbedbb1e1ca1590211af5fb134cb4f234be9dd953",
+  "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+  "glossary_rows_read": 222,
+  "policy": "Compact records group actual source loci and reader-linked local notes. All provisional usages remain proposed. Unrendered unresolved Tibetan stays in translator notes and receives no invented equivalent. Routine canonical repetitions, ordinary function words and obvious environmental/body/adornment nouns are excluded unless a technical sense, collision or material construction requires a record.",
+  "records": [
+    {
+      "id": "T07-U001",
+      "category": "provisional",
+      "lookup_form": "རྡོ་རྗེ་འཛིན་",
+      "canonical_entry": null,
+      "english_realization": "holder of the vajra",
+      "source_units": [
+        {
+          "pair_id": "MTP-000454",
+          "golden_id": "MTP-S001429",
+          "exact_tibetan_span": "རྡོ་རྗེ་འཛིན",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000479",
+          "golden_id": "MTP-S001508",
+          "exact_tibetan_span": "རྡོ་རྗེ་འཛིན",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "འཛིན་པ་"
+      ],
+      "condition_evidence": "Speaker title and direct address; distinct from the canonical apprehending-subject noun."
+    },
+    {
+      "id": "T07-U002",
+      "category": "provisional",
+      "lookup_form": "རྡོ་རྗེ་འཆང་",
+      "canonical_entry": null,
+      "english_realization": "Vajradhara",
+      "source_units": [
+        {
+          "pair_id": "MTP-000454",
+          "golden_id": "MTP-S001430",
+          "exact_tibetan_span": "རྡོ་རྗེ་འཆང",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000456",
+          "golden_id": "MTP-S001435",
+          "exact_tibetan_span": "རྡོ་རྗེ་འཆང",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Provisional title identification. Great occurs explicitly only at S1435."
+    },
+    {
+      "id": "T07-U003",
+      "category": "provisional",
+      "lookup_form": "སེམས་ཅན་",
+      "canonical_entry": null,
+      "english_realization": "sentient beings",
+      "source_units": [
+        {
+          "pair_id": "MTP-000455",
+          "golden_id": "MTP-S001431",
+          "exact_tibetan_span": "སེམས་ཅན",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000457",
+          "golden_id": "MTP-S001441",
+          "exact_tibetan_span": "སེམས་ཅན",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སེམས་"
+      ],
+      "condition_evidence": "Whole-expression treatment; does not shorten ordinary mind. The domain possessive at S1441 remains flagged."
+    },
+    {
+      "id": "T07-U004",
+      "category": "provisional",
+      "lookup_form": "འཁོར་འདས་",
+      "canonical_entry": null,
+      "english_realization": "saṃsāra and nirvāṇa",
+      "source_units": [
+        {
+          "pair_id": "MTP-000455",
+          "golden_id": "MTP-S001431",
+          "exact_tibetan_span": "འཁོར་འདས",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "The contracted pair is preserved in its source order; no component becomes a universal bare default."
+    },
+    {
+      "id": "T07-U005",
+      "category": "provisional",
+      "lookup_form": "འཁོར་བ་",
+      "canonical_entry": null,
+      "english_realization": "saṃsāra",
+      "source_units": [
+        {
+          "pair_id": "MTP-000457",
+          "golden_id": "MTP-S001438",
+          "exact_tibetan_span": "འཁོར་བ",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000479",
+          "golden_id": "MTP-S001511",
+          "exact_tibetan_span": "འཁོར་བ",
+          "local_note_ids": [
+            "T07-015"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Bare cyclic-existence term; the das-stong construction at S1511 remains unresolved and is not given an invented equivalent."
+    },
+    {
+      "id": "T07-U006",
+      "category": "provisional",
+      "lookup_form": "ཆོས་",
+      "canonical_entry": null,
+      "english_realization": "phenomena",
+      "source_units": [
+        {
+          "pair_id": "MTP-000455",
+          "golden_id": "MTP-S001431",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000457",
+          "golden_id": "MTP-S001438",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000463",
+          "golden_id": "MTP-S001454",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T07-006"
+          ]
+        },
+        {
+          "pair_id": "MTP-000471",
+          "golden_id": "MTP-S001482",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T07-010"
+          ]
+        },
+        {
+          "pair_id": "MTP-000478",
+          "golden_id": "MTP-S001504",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T07-014"
+          ]
+        },
+        {
+          "pair_id": "MTP-000478",
+          "golden_id": "MTP-S001507",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T07-014"
+          ]
+        },
+        {
+          "pair_id": "MTP-000479",
+          "golden_id": "MTP-S001509",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T07-015"
+          ]
+        },
+        {
+          "pair_id": "MTP-000479",
+          "golden_id": "MTP-S001511",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T07-015"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཆོས་ཉིད་",
+        "ཆོས་དབྱིངས་",
+        "ཆོས་སྐུ་"
+      ],
+      "condition_evidence": "Bare phenomena in the descriptive constructions; no nature, embodiment or basic-space component is imported."
+    },
+    {
+      "id": "T07-U007",
+      "category": "provisional",
+      "lookup_form": "ཆོས་",
+      "canonical_entry": null,
+      "english_realization": "Dharma",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001539",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཆོས་ཉིད་",
+        "ཆོས་དབྱིངས་",
+        "ཆོས་སྐུ་"
+      ],
+      "condition_evidence": "Distinct local Three Jewels use; does not replace the provisional phenomena treatment elsewhere."
+    },
+    {
+      "id": "T07-U008",
+      "category": "provisional",
+      "lookup_form": "བཅོམ་ལྡན་འདས་",
+      "canonical_entry": null,
+      "english_realization": "Bhagavān",
+      "source_units": [
+        {
+          "pair_id": "MTP-000455",
+          "golden_id": "MTP-S001434",
+          "exact_tibetan_span": "བཅོམ་ལྡན་འདས",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Provisional honorific transliteration without an etymological expansion."
+    },
+    {
+      "id": "T07-U009",
+      "category": "provisional",
+      "lookup_form": "བདེ་བ་",
+      "canonical_entry": null,
+      "english_realization": "bliss",
+      "source_units": [
+        {
+          "pair_id": "MTP-000456",
+          "golden_id": "MTP-S001436",
+          "exact_tibetan_span": "བདེ་བ",
+          "local_note_ids": [
+            "T07-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001496",
+          "exact_tibetan_span": "བདེ་བ",
+          "local_note_ids": [
+            "T07-012"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Seat qualifier at S1436 and the taste/experiential-acquaintance construction at S1496; the latter attachment remains open."
+    },
+    {
+      "id": "T07-U010",
+      "category": "provisional",
+      "lookup_form": "བརྟགས་",
+      "canonical_entry": null,
+      "english_realization": "imputed",
+      "source_units": [
+        {
+          "pair_id": "MTP-000457",
+          "golden_id": "MTP-S001440",
+          "exact_tibetan_span": "བརྟགས",
+          "local_note_ids": [
+            "T07-002"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "བཏགས་པའི་འཁྲུལ་པ་",
+        "རྟོག་",
+        "རྟོགས་པ་"
+      ],
+      "condition_evidence": "Local imputation construction with delusion and an object; exact brtags is not fuzzy-matched to rtog or rtogs."
+    },
+    {
+      "id": "T07-U011",
+      "category": "provisional",
+      "lookup_form": "ཡུལ་",
+      "canonical_entry": null,
+      "english_realization": "objects; domain",
+      "source_units": [
+        {
+          "pair_id": "MTP-000457",
+          "golden_id": "MTP-S001440",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T07-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000457",
+          "golden_id": "MTP-S001441",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T07-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001494",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T07-012"
+          ]
+        },
+        {
+          "pair_id": "MTP-000483",
+          "golden_id": "MTP-S001530",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T07-018"
+          ]
+        },
+        {
+          "pair_id": "MTP-000486",
+          "golden_id": "MTP-S001538",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T07-020"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "དམིགས་པ་",
+        "གཞལ་བྱ་",
+        "གཟུང་བ་"
+      ],
+      "condition_evidence": "Objects at S1440/S1530 and domain at S1441/S1494/S1538. The sentient-being, nature-of-phenomena and knowable modifiers belong to their actual constructions."
+    },
+    {
+      "id": "T07-U012",
+      "category": "provisional",
+      "lookup_form": "འབྲས་བུ་",
+      "canonical_entry": "འབྲས་བུ་",
+      "english_realization": "fruit",
+      "source_units": [
+        {
+          "pair_id": "MTP-000461",
+          "golden_id": "MTP-S001450",
+          "exact_tibetan_span": "འབྲས་བུ",
+          "local_note_ids": [
+            "T07-004"
+          ]
+        },
+        {
+          "pair_id": "MTP-000468",
+          "golden_id": "MTP-S001471",
+          "exact_tibetan_span": "འབྲས་བུ",
+          "local_note_ids": [
+            "T07-004"
+          ]
+        },
+        {
+          "pair_id": "MTP-000474",
+          "golden_id": "MTP-S001493",
+          "exact_tibetan_span": "འབྲས་བུ",
+          "local_note_ids": [
+            "T07-004"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "འབྲས་བུ་"
+      ],
+      "condition_evidence": "Occurrence-specific botanical rendering and its two corresponding body/embodiment lines; canonical result remains at S1528."
+    },
+    {
+      "id": "T07-U013",
+      "category": "provisional",
+      "lookup_form": "དྲི་",
+      "canonical_entry": null,
+      "english_realization": "smell",
+      "source_units": [
+        {
+          "pair_id": "MTP-000462",
+          "golden_id": "MTP-S001451",
+          "exact_tibetan_span": "དྲི",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000469",
+          "golden_id": "MTP-S001472",
+          "exact_tibetan_span": "དྲི",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001495",
+          "exact_tibetan_span": "དྲི",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གློ་བུར་བའི་དྲི་མ་"
+      ],
+      "condition_evidence": "Sensory smell in three correspondences; distinct from dri ma stain. The unexpected speech correspondence is retained."
+    },
+    {
+      "id": "T07-U014",
+      "category": "provisional",
+      "lookup_form": "རོ་",
+      "canonical_entry": null,
+      "english_realization": "taste",
+      "source_units": [
+        {
+          "pair_id": "MTP-000462",
+          "golden_id": "MTP-S001451",
+          "exact_tibetan_span": "རོ",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000469",
+          "golden_id": "MTP-S001472",
+          "exact_tibetan_span": "རོ",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001496",
+          "exact_tibetan_span": "རོ",
+          "local_note_ids": [
+            "T07-012"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཉམས་མྱོང་"
+      ],
+      "condition_evidence": "Sensory taste and the taste-of-bliss construction; no collapse of experiential acquaintance into experience."
+    },
+    {
+      "id": "T07-U015",
+      "category": "provisional",
+      "lookup_form": "སྒྲ་",
+      "canonical_entry": "སྒྲ་",
+      "english_realization": "sound",
+      "source_units": [
+        {
+          "pair_id": "MTP-000462",
+          "golden_id": "MTP-S001451",
+          "exact_tibetan_span": "སྒྲ",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000469",
+          "golden_id": "MTP-S001473",
+          "exact_tibetan_span": "སྒྲ",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001494",
+          "exact_tibetan_span": "སྒྲ་ནི་ཆོས་ཉིད་ཡུལ་གྱི་སྒྲ",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྒྲ་"
+      ],
+      "condition_evidence": "Proposed sensory exception from canonical word. The full S1494 source span records both sound occurrences; both remain in English."
+    },
+    {
+      "id": "T07-U016",
+      "category": "provisional",
+      "lookup_form": "རེག་",
+      "canonical_entry": null,
+      "english_realization": "touch",
+      "source_units": [
+        {
+          "pair_id": "MTP-000462",
+          "golden_id": "MTP-S001451",
+          "exact_tibetan_span": "རེག",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000469",
+          "golden_id": "MTP-S001473",
+          "exact_tibetan_span": "རེག",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001497",
+          "exact_tibetan_span": "རེག",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Sensory term; the source predicates illness and a garment in the later correspondences without an explanatory repair."
+    },
+    {
+      "id": "T07-U017",
+      "category": "provisional",
+      "lookup_form": "རོལ་མོ་",
+      "canonical_entry": null,
+      "english_realization": "music",
+      "source_units": [
+        {
+          "pair_id": "MTP-000462",
+          "golden_id": "MTP-S001452",
+          "exact_tibetan_span": "རོལ་མོ",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000470",
+          "golden_id": "MTP-S001474",
+          "exact_tibetan_span": "རོལ་མོ",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001498",
+          "exact_tibetan_span": "རོལ་མོ",
+          "local_note_ids": [
+            "T07-005"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རོལ་པ་"
+      ],
+      "condition_evidence": "Whole-expression treatment distinct from canonical play for rol pa; the bodily and mandala correspondences remain unchanged."
+    },
+    {
+      "id": "T07-U018",
+      "category": "provisional",
+      "lookup_form": "རྣལ་འབྱོར་",
+      "canonical_entry": null,
+      "english_realization": "yogin",
+      "source_units": [
+        {
+          "pair_id": "MTP-000463",
+          "golden_id": "MTP-S001455",
+          "exact_tibetan_span": "རྣལ་འབྱོར",
+          "local_note_ids": [
+            "T07-006"
+          ]
+        },
+        {
+          "pair_id": "MTP-000470",
+          "golden_id": "MTP-S001477",
+          "exact_tibetan_span": "རྣལ་འབྱོར",
+          "local_note_ids": [
+            "T07-006"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "བླ་མའི་རྣལ་འབྱོར་"
+      ],
+      "condition_evidence": "Provisional person reading in the two bodily constructions; not activation of a bare yoga assignment."
+    },
+    {
+      "id": "T07-U019",
+      "category": "provisional",
+      "lookup_form": "ལུས་",
+      "canonical_entry": null,
+      "english_realization": "body",
+      "source_units": [
+        {
+          "pair_id": "MTP-000463",
+          "golden_id": "MTP-S001455",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T07-006"
+          ]
+        },
+        {
+          "pair_id": "MTP-000464",
+          "golden_id": "MTP-S001458",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        },
+        {
+          "pair_id": "MTP-000464",
+          "golden_id": "MTP-S001459",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        },
+        {
+          "pair_id": "MTP-000464",
+          "golden_id": "MTP-S001460",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        },
+        {
+          "pair_id": "MTP-000468",
+          "golden_id": "MTP-S001467",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T07-008"
+          ]
+        },
+        {
+          "pair_id": "MTP-000468",
+          "golden_id": "MTP-S001471",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T07-004"
+          ]
+        },
+        {
+          "pair_id": "MTP-000470",
+          "golden_id": "MTP-S001477",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T07-006"
+          ]
+        },
+        {
+          "pair_id": "MTP-000479",
+          "golden_id": "MTP-S001510",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T07-006"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྐུ་",
+        "སེམས་"
+      ],
+      "condition_evidence": "Physical body remains distinct from canonical embodiment. S1455 has an explicit supplied locative; S1510 pairs body with ordinary mind."
+    },
+    {
+      "id": "T07-U020",
+      "category": "provisional",
+      "lookup_form": "དངོས་པོ་",
+      "canonical_entry": null,
+      "english_realization": "entity",
+      "source_units": [
+        {
+          "pair_id": "MTP-000464",
+          "golden_id": "MTP-S001456",
+          "exact_tibetan_span": "དངོས་པོ",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "Local flesh predicate; not a repair or equivalent for retained dngos bo at S1506."
+    },
+    {
+      "id": "T07-U021",
+      "category": "provisional",
+      "lookup_form": "སྡུད་པ་",
+      "canonical_entry": null,
+      "english_realization": "gathering",
+      "source_units": [
+        {
+          "pair_id": "MTP-000464",
+          "golden_id": "MTP-S001457",
+          "exact_tibetan_span": "སྡུད་པ",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "འཕྲོ་འདུ་"
+      ],
+      "condition_evidence": "Water/blood predicate; standalone sdud is not the established proliferating-and-gathering compound."
+    },
+    {
+      "id": "T07-U022",
+      "category": "provisional",
+      "lookup_form": "ཟུངས་",
+      "canonical_entry": null,
+      "english_realization": "vitality",
+      "source_units": [
+        {
+          "pair_id": "MTP-000464",
+          "golden_id": "MTP-S001459",
+          "exact_tibetan_span": "ཟུངས",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Body-qualified complement of active holding; the physiological interpretation remains provisional."
+    },
+    {
+      "id": "T07-U023",
+      "category": "provisional",
+      "lookup_form": "དངོས་",
+      "canonical_entry": null,
+      "english_realization": "material presence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000464",
+          "golden_id": "MTP-S001460",
+          "exact_tibetan_span": "དངོས",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "Body-qualified complement of active holding; exact shorter form is preserved without treating it as canonical essence."
+    },
+    {
+      "id": "T07-U024",
+      "category": "provisional",
+      "lookup_form": "འཛིན་",
+      "canonical_entry": "འཛིན་པ་",
+      "english_realization": "holding",
+      "source_units": [
+        {
+          "pair_id": "MTP-000464",
+          "golden_id": "MTP-S001459",
+          "exact_tibetan_span": "འཛིན",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        },
+        {
+          "pair_id": "MTP-000464",
+          "golden_id": "MTP-S001460",
+          "exact_tibetan_span": "འཛིན",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "འཛིན་པ་"
+      ],
+      "condition_evidence": "Active holding of bodily vitality/material presence; local verbal sense does not replace canonical apprehending subject."
+    },
+    {
+      "id": "T07-U025",
+      "category": "provisional",
+      "lookup_form": "སྐྱེ་བ་",
+      "canonical_entry": null,
+      "english_realization": "birth",
+      "source_units": [
+        {
+          "pair_id": "MTP-000465",
+          "golden_id": "MTP-S001462",
+          "exact_tibetan_span": "སྐྱེ་བ",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྐྱེ་བ་མེད་པ་"
+      ],
+      "condition_evidence": "Male correspondence is locally nominal birth; the complete non-arising assignment does not establish every bare positive use."
+    },
+    {
+      "id": "T07-U026",
+      "category": "provisional",
+      "lookup_form": "འཚོ་པ་",
+      "canonical_entry": null,
+      "english_realization": "sustaining life",
+      "source_units": [
+        {
+          "pair_id": "MTP-000465",
+          "golden_id": "MTP-S001463",
+          "exact_tibetan_span": "འཚོ་པར",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "The female correspondence retains the supplied tsho par form and appearance predicate. No source spelling is repaired."
+    },
+    {
+      "id": "T07-U027",
+      "category": "provisional",
+      "lookup_form": "རྩ་",
+      "canonical_entry": null,
+      "english_realization": "channels",
+      "source_units": [
+        {
+          "pair_id": "MTP-000466",
+          "golden_id": "MTP-S001465",
+          "exact_tibetan_span": "རྩ",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཀ་ཏི་ཤེལ་གྱི་སྦུ་གུ་ཅན་"
+      ],
+      "condition_evidence": "Provisional physiological interpretation in the tree correspondence; no named channel is supplied."
+    },
+    {
+      "id": "T07-U028",
+      "category": "provisional",
+      "lookup_form": "དབང་པོ་",
+      "canonical_entry": null,
+      "english_realization": "five faculties",
+      "source_units": [
+        {
+          "pair_id": "MTP-000468",
+          "golden_id": "MTP-S001470",
+          "exact_tibetan_span": "དབང་པོ",
+          "local_note_ids": [
+            "T07-008"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "དབང་པོའི་སྒོ་",
+        "དབང་པོ་རབ་",
+        "དབང་པོ་འབྲིང་",
+        "དབང་པོ་ཐ་མ་"
+      ],
+      "condition_evidence": "Five is explicit in this flower correspondence; the source does not enumerate the five faculties."
+    },
+    {
+      "id": "T07-U029",
+      "category": "provisional",
+      "lookup_form": "འབྱུང་བ་",
+      "canonical_entry": null,
+      "english_realization": "five elements",
+      "source_units": [
+        {
+          "pair_id": "MTP-000471",
+          "golden_id": "MTP-S001479",
+          "exact_tibetan_span": "འབྱུང་བ",
+          "local_note_ids": [
+            "T07-010"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "The explicit five elements are related to five lights; no absent names or doctrinal classification is inserted."
+    },
+    {
+      "id": "T07-U030",
+      "category": "provisional",
+      "lookup_form": "འོད་",
+      "canonical_entry": null,
+      "english_realization": "five lights",
+      "source_units": [
+        {
+          "pair_id": "MTP-000471",
+          "golden_id": "MTP-S001479",
+          "exact_tibetan_span": "འོད",
+          "local_note_ids": [
+            "T07-010"
+          ]
+        },
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001498",
+          "exact_tibetan_span": "འོད",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        },
+        {
+          "pair_id": "MTP-000483",
+          "golden_id": "MTP-S001530",
+          "exact_tibetan_span": "འོད",
+          "local_note_ids": [
+            "T07-018"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "འོད་གསལ་"
+      ],
+      "condition_evidence": "Five is explicitly supported at each recorded locus; bare light does not import clear from the separate clear-light entry."
+    },
+    {
+      "id": "T07-U031",
+      "category": "provisional",
+      "lookup_form": "ཐབས་",
+      "canonical_entry": null,
+      "english_realization": "means",
+      "source_units": [
+        {
+          "pair_id": "MTP-000471",
+          "golden_id": "MTP-S001480",
+          "exact_tibetan_span": "ཐབས",
+          "local_note_ids": [
+            "T07-010"
+          ]
+        },
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001523",
+          "exact_tibetan_span": "ཐབས",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        },
+        {
+          "pair_id": "MTP-000483",
+          "golden_id": "MTP-S001525",
+          "exact_tibetan_span": "ཐབས",
+          "local_note_ids": [
+            "T07-018"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཤེས་རབ་",
+        "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་"
+      ],
+      "condition_evidence": "Means follows discerning knowing at S1480, qualifies perfection at S1523 and precedes discerning knowing at S1525. Source order and relationships remain explicit."
+    },
+    {
+      "id": "T07-U032",
+      "category": "provisional",
+      "lookup_form": "རྟོགས་ཚད་",
+      "canonical_entry": null,
+      "english_realization": "measure of realization",
+      "source_units": [
+        {
+          "pair_id": "MTP-000471",
+          "golden_id": "MTP-S001482",
+          "exact_tibetan_span": "རྟོགས་ཚད",
+          "local_note_ids": [
+            "T07-010"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རྟོགས་པ་",
+        "རིག་པ་ཚད་ཕེབས་ཀྱི་སྣང་བ་"
+      ],
+      "condition_evidence": "The realization component is retained; this is not the separate awareness-reaching-its-limit whole expression."
+    },
+    {
+      "id": "T07-U033",
+      "category": "provisional",
+      "lookup_form": "ལམ་",
+      "canonical_entry": null,
+      "english_realization": "path",
+      "source_units": [
+        {
+          "pair_id": "MTP-000473",
+          "golden_id": "MTP-S001485",
+          "exact_tibetan_span": "ལམ",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        },
+        {
+          "pair_id": "MTP-000483",
+          "golden_id": "MTP-S001528",
+          "exact_tibetan_span": "ལམ",
+          "local_note_ids": [
+            "T07-018"
+          ]
+        },
+        {
+          "pair_id": "MTP-000489",
+          "golden_id": "MTP-S001548",
+          "exact_tibetan_span": "ལམ",
+          "local_note_ids": [
+            "T07-023"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཆོས་ཉིད་",
+        "གཞི་",
+        "འབྲས་བུ་"
+      ],
+      "condition_evidence": "Path occurs in the nature-of-phenomena expansion, Ground/path/result and truth constructions; no expanded path system is supplied."
+    },
+    {
+      "id": "T07-U034",
+      "category": "provisional",
+      "lookup_form": "རྒྱུ་",
+      "canonical_entry": null,
+      "english_realization": "cause",
+      "source_units": [
+        {
+          "pair_id": "MTP-000474",
+          "golden_id": "MTP-S001488",
+          "exact_tibetan_span": "རྒྱུ",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཆོས་སྐུ་",
+        "གཞི་"
+      ],
+      "condition_evidence": "Single is an explicit local modifier of the dharma-embodiment correspondence, not part of the proposed bare equivalent."
+    },
+    {
+      "id": "T07-U035",
+      "category": "provisional",
+      "lookup_form": "བྱང་ཆུབ་ཡན་ལག་",
+      "canonical_entry": null,
+      "english_realization": "limbs of awakening",
+      "source_units": [
+        {
+          "pair_id": "MTP-000474",
+          "golden_id": "MTP-S001489",
+          "exact_tibetan_span": "བྱང་ཆུབ་ཡན་ལག",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Branch/limb correspondence retained without supplying an absent sevenfold list."
+    },
+    {
+      "id": "T07-U036",
+      "category": "provisional",
+      "lookup_form": "རོ་གཅིག་",
+      "canonical_entry": null,
+      "english_realization": "one taste",
+      "source_units": [
+        {
+          "pair_id": "MTP-000474",
+          "golden_id": "MTP-S001490",
+          "exact_tibetan_span": "རོ་གཅིག",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྟོང་པ་"
+      ],
+      "condition_evidence": "The trunk correspondence uses this whole phrase with an emptiness construction; no universal identity with emptiness is asserted."
+    },
+    {
+      "id": "T07-U037",
+      "category": "provisional",
+      "lookup_form": "ཁྱབ་བྱེད་",
+      "canonical_entry": null,
+      "english_realization": "pervading",
+      "source_units": [
+        {
+          "pair_id": "MTP-000474",
+          "golden_id": "MTP-S001491",
+          "exact_tibetan_span": "ཁྱབ་བྱེད",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཆོས་དབྱིངས་",
+        "དབྱིངས་"
+      ],
+      "condition_evidence": "Qualifier of basic space of phenomena; not a separate entity or an automatic use of another all-encompassing entry."
+    },
+    {
+      "id": "T07-U038",
+      "category": "provisional",
+      "lookup_form": "སྒྲོན་མ་",
+      "canonical_entry": null,
+      "english_realization": "lamp",
+      "source_units": [
+        {
+          "pair_id": "MTP-000474",
+          "golden_id": "MTP-S001492",
+          "exact_tibetan_span": "སྒྲོན་མ",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྒྲོན་མ་བཞི་",
+        "ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ་"
+      ],
+      "condition_evidence": "Bare lamp is explicitly qualified by primordial knowing; no fourfold number or discerning-knowing component is imported."
+    },
+    {
+      "id": "T07-U039",
+      "category": "provisional",
+      "lookup_form": "རང་རྫོགས་",
+      "canonical_entry": null,
+      "english_realization": "complete in themselves",
+      "source_units": [
+        {
+          "pair_id": "MTP-000474",
+          "golden_id": "MTP-S001493",
+          "exact_tibetan_span": "རང་རྫོགས",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྐུ་གསུམ་",
+        "ལྷུན་གྲུབ་",
+        "རང་གྲོལ་"
+      ],
+      "condition_evidence": "Self-related completeness predicates the three embodiments; not substitution of spontaneous presence or self-liberation."
+    },
+    {
+      "id": "T07-U040",
+      "category": "provisional",
+      "lookup_form": "སངས་རྒྱས་",
+      "canonical_entry": null,
+      "english_realization": "buddha",
+      "source_units": [
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001495",
+          "exact_tibetan_span": "སངས་རྒྱས",
+          "local_note_ids": [
+            "T07-012"
+          ]
+        },
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001502",
+          "exact_tibetan_span": "སངས་རྒྱས",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        },
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001539",
+          "exact_tibetan_span": "སངས་རྒྱས",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Local plural in the speech construction, appositional predicate at S1502 and Three Jewels term at S1539; no unstated primordial modifier or act of becoming."
+    },
+    {
+      "id": "T07-U041",
+      "category": "provisional",
+      "lookup_form": "གསུང་",
+      "canonical_entry": null,
+      "english_realization": "speech",
+      "source_units": [
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001495",
+          "exact_tibetan_span": "གསུང",
+          "local_note_ids": [
+            "T07-012"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྒྲ་"
+      ],
+      "condition_evidence": "Honorific speech in the retained smell correspondence; distinct source form from canonical sgra word."
+    },
+    {
+      "id": "T07-U042",
+      "category": "provisional",
+      "lookup_form": "བསམ་གཏན་",
+      "canonical_entry": null,
+      "english_realization": "meditative stability",
+      "source_units": [
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001497",
+          "exact_tibetan_span": "བསམ་གཏན",
+          "local_note_ids": [
+            "T07-012"
+          ]
+        },
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001521",
+          "exact_tibetan_span": "བསམ་གཏན",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཏིང་ངེ་འཛིན་"
+      ],
+      "condition_evidence": "Distinct from canonical deep absorption. Great is explicit at S1497 and absent from S1521."
+    },
+    {
+      "id": "T07-U043",
+      "category": "provisional",
+      "lookup_form": "དཀྱིལ་འཁོར་",
+      "canonical_entry": null,
+      "english_realization": "maṇḍala",
+      "source_units": [
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001498",
+          "exact_tibetan_span": "དཀྱིལ་འཁོར",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        },
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001512",
+          "exact_tibetan_span": "དཀྱིལ་འཁོར",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Whole-expression treatment in the light correspondence and ritual list; no unlisted deity system or component analysis is supplied."
+    },
+    {
+      "id": "T07-U044",
+      "category": "provisional",
+      "lookup_form": "ཁ་དོག་",
+      "canonical_entry": null,
+      "english_realization": "colors",
+      "source_units": [
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001499",
+          "exact_tibetan_span": "ཁ་དོག",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        },
+        {
+          "pair_id": "MTP-000483",
+          "golden_id": "MTP-S001530",
+          "exact_tibetan_span": "ཁ་དོག",
+          "local_note_ids": [
+            "T07-018"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Color noun in the pennant correspondence and list; five at S1530 directly qualifies the separate light noun, not automatically colors."
+    },
+    {
+      "id": "T07-U045",
+      "category": "provisional",
+      "lookup_form": "དངས་",
+      "canonical_entry": null,
+      "english_realization": "limpid",
+      "source_units": [
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001499",
+          "exact_tibetan_span": "དངས",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གསལ་བ་",
+        "གདངས་"
+      ],
+      "condition_evidence": "Distinct predicate following canonical clarity; exact dangs is not gdangs radiance."
+    },
+    {
+      "id": "T07-U046",
+      "category": "provisional",
+      "lookup_form": "སྐྱོབ་པ་",
+      "canonical_entry": null,
+      "english_realization": "protection",
+      "source_units": [
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001500",
+          "exact_tibetan_span": "སྐྱོབ་པ",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཤེས་རབ་",
+        "གདངས་"
+      ],
+      "condition_evidence": "Parasol correspondence with the radiance of discerning knowing; no additional protector agent is supplied."
+    },
+    {
+      "id": "T07-U047",
+      "category": "provisional",
+      "lookup_form": "མན་ངག་",
+      "canonical_entry": null,
+      "english_realization": "pith instructions",
+      "source_units": [
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001501",
+          "exact_tibetan_span": "མན་ངག",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        },
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001515",
+          "exact_tibetan_span": "མན་ངག",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Greatness genitive at S1501 and bestowal construction at S1515; the latter verb remains a separate source query."
+    },
+    {
+      "id": "T07-U048",
+      "category": "provisional",
+      "lookup_form": "གནད་",
+      "canonical_entry": null,
+      "english_realization": "key point",
+      "source_units": [
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001501",
+          "exact_tibetan_span": "གནད",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Key point of the greatness of pith instructions is a provisional modifier-chain reading, not a blanket definition of the bare term."
+    },
+    {
+      "id": "T07-U049",
+      "category": "provisional",
+      "lookup_form": "མངོན་",
+      "canonical_entry": null,
+      "english_realization": "manifestly",
+      "source_units": [
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001502",
+          "exact_tibetan_span": "མངོན",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "མངོན་སུམ་",
+        "རྟོགས་པ་"
+      ],
+      "condition_evidence": "Local adverbial treatment within the appositional realization/buddha statement; no act of becoming or direct-perception claim is added."
+    },
+    {
+      "id": "T07-U050",
+      "category": "provisional",
+      "lookup_form": "སེམས་ཉིད་",
+      "canonical_entry": null,
+      "english_realization": "ordinary mind itself",
+      "source_units": [
+        {
+          "pair_id": "MTP-000478",
+          "golden_id": "MTP-S001504",
+          "exact_tibetan_span": "སེམས་ཉིད",
+          "local_note_ids": [
+            "T07-014"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སེམས་"
+      ],
+      "condition_evidence": "The canonical ordinary-mind component is retained in the full local expression; no generic mind replacement."
+    },
+    {
+      "id": "T07-U051",
+      "category": "provisional",
+      "lookup_form": "འདས་པ་",
+      "canonical_entry": null,
+      "english_realization": "transcendence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000479",
+          "golden_id": "MTP-S001509",
+          "exact_tibetan_span": "འདས་པ",
+          "local_note_ids": [
+            "T07-015"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "White remains a separate explicit modifier of phenomena in this construction; the different das-stong phrase at S1511 remains unresolved."
+    },
+    {
+      "id": "T07-U052",
+      "category": "provisional",
+      "lookup_form": "ལྷ་",
+      "canonical_entry": null,
+      "english_realization": "deities",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001512",
+          "exact_tibetan_span": "ལྷ",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Ritual-list term without added deity names or classes."
+    },
+    {
+      "id": "T07-U053",
+      "category": "provisional",
+      "lookup_form": "མཆོད་པ་",
+      "canonical_entry": null,
+      "english_realization": "offerings",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001512",
+          "exact_tibetan_span": "མཆོད་པ",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Ritual-list term; no offerings are enumerated."
+    },
+    {
+      "id": "T07-U054",
+      "category": "provisional",
+      "lookup_form": "སྔགས་",
+      "canonical_entry": null,
+      "english_realization": "mantras",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001513",
+          "exact_tibetan_span": "སྔགས",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Ritual-list term without an absent secret modifier."
+    },
+    {
+      "id": "T07-U055",
+      "category": "provisional",
+      "lookup_form": "ཕྱག་རྒྱ་",
+      "canonical_entry": null,
+      "english_realization": "mudrās",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001513",
+          "exact_tibetan_span": "ཕྱག་རྒྱ",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཕྱག་རྒྱ་ཆེན་པོ་",
+        "མཉམ་གཞག་"
+      ],
+      "condition_evidence": "Bare expression; Mahamudra does not authorize inserting great, and the proposed equipoise posture wording is not activated."
+    },
+    {
+      "id": "T07-U056",
+      "category": "provisional",
+      "lookup_form": "ཏིང་འཛིན་",
+      "canonical_entry": null,
+      "english_realization": "deep absorption",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001513",
+          "exact_tibetan_span": "ཏིང་འཛིན",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཏིང་ངེ་འཛིན་"
+      ],
+      "condition_evidence": "Short attested form is provisionally identified with the full canonical expression; distinct from meditative stability."
+    },
+    {
+      "id": "T07-U057",
+      "category": "provisional",
+      "lookup_form": "དབང་བསྐུར་བ་",
+      "canonical_entry": null,
+      "english_realization": "empowerment",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001514",
+          "exact_tibetan_span": "དབང་བསྐུར་བ",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "དབང་བཞི་"
+      ],
+      "condition_evidence": "Bare empowerment process; no fourfold count is present."
+    },
+    {
+      "id": "T07-U058",
+      "category": "provisional",
+      "lookup_form": "དམ་ཚིག་",
+      "canonical_entry": null,
+      "english_realization": "commitments",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001514",
+          "exact_tibetan_span": "དམ་ཚིག",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Ritual-list term; prior chapter use is not owner approval."
+    },
+    {
+      "id": "T07-U059",
+      "category": "provisional",
+      "lookup_form": "འབོགས་",
+      "canonical_entry": null,
+      "english_realization": "bestowal",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001515",
+          "exact_tibetan_span": "འབོགས",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Bestowal of pith instructions is provisional for exact bogs; the unusual source form remains a verb query, not an emendation."
+    },
+    {
+      "id": "T07-U060",
+      "category": "provisional",
+      "lookup_form": "བསྐྱེད་པའི་རིམ་པ་",
+      "canonical_entry": null,
+      "english_realization": "generation stage",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001516",
+          "exact_tibetan_span": "བསྐྱེད་པའི་རིམ་པ",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྒོམ་པ་",
+        "སྐྱེ་བ་མེད་པ་"
+      ],
+      "condition_evidence": "Whole-expression technical treatment, not derived from unrelated cultivation or non-arising assignments."
+    },
+    {
+      "id": "T07-U061",
+      "category": "provisional",
+      "lookup_form": "ཐོས་",
+      "canonical_entry": null,
+      "english_realization": "hearing",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001517",
+          "exact_tibetan_span": "ཐོས",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Nominal practice-list use coordinated with reflection and canonical cultivation."
+    },
+    {
+      "id": "T07-U062",
+      "category": "provisional",
+      "lookup_form": "བསམ་",
+      "canonical_entry": null,
+      "english_realization": "reflection",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001517",
+          "exact_tibetan_span": "བསམ",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Nominal practice-list use; not a reduction of the distinct bsam gtan expression."
+    },
+    {
+      "id": "T07-U063",
+      "category": "provisional",
+      "lookup_form": "སྦྱིན་",
+      "canonical_entry": null,
+      "english_realization": "generosity",
+      "source_units": [
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001520",
+          "exact_tibetan_span": "སྦྱིན",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Short nominal term in the perfection sequence; no doctrinal definition is supplied."
+    },
+    {
+      "id": "T07-U064",
+      "category": "provisional",
+      "lookup_form": "ཚུལ་ཁྲིམས་",
+      "canonical_entry": null,
+      "english_realization": "ethical discipline",
+      "source_units": [
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001520",
+          "exact_tibetan_span": "ཚུལ་ཁྲིམས",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Perfection-list term; no additional conduct rules are supplied."
+    },
+    {
+      "id": "T07-U065",
+      "category": "provisional",
+      "lookup_form": "བཟོད་པ་",
+      "canonical_entry": null,
+      "english_realization": "patience",
+      "source_units": [
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001520",
+          "exact_tibetan_span": "བཟོད་པ",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Perfection-list term; exact local sense remains proposed."
+    },
+    {
+      "id": "T07-U066",
+      "category": "provisional",
+      "lookup_form": "བརྩོན་འགྲུས་",
+      "canonical_entry": null,
+      "english_realization": "diligence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001521",
+          "exact_tibetan_span": "བརྩོན་འགྲུས",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Perfection-list term, kept consistent without free synonym variation."
+    },
+    {
+      "id": "T07-U067",
+      "category": "provisional",
+      "lookup_form": "སྟོབས་",
+      "canonical_entry": null,
+      "english_realization": "strength",
+      "source_units": [
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001522",
+          "exact_tibetan_span": "སྟོབས",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Perfection-list term without an added count or classification."
+    },
+    {
+      "id": "T07-U068",
+      "category": "provisional",
+      "lookup_form": "སྨོན་ལམ་",
+      "canonical_entry": null,
+      "english_realization": "aspiration",
+      "source_units": [
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001522",
+          "exact_tibetan_span": "སྨོན་ལམ",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "The fixed corrected smon lam form is retained; the earlier transcript spelling is not restored."
+    },
+    {
+      "id": "T07-U069",
+      "category": "provisional",
+      "lookup_form": "ཕ་རོལ་ཕྱིན་",
+      "canonical_entry": null,
+      "english_realization": "perfection",
+      "source_units": [
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001523",
+          "exact_tibetan_span": "ཕ་རོལ་ཕྱིན",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་"
+      ],
+      "condition_evidence": "Explicitly qualified by means; the established discerning-knowing whole expression is a family reference, not permission to change the object."
+    },
+    {
+      "id": "T07-U070",
+      "category": "provisional",
+      "lookup_form": "དགེ་བཅུ་",
+      "canonical_entry": null,
+      "english_realization": "ten virtues",
+      "source_units": [
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001524",
+          "exact_tibetan_span": "དགེ་བཅུ",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྤྱོད་པ་"
+      ],
+      "condition_evidence": "The count is explicit; their activity is named without an inserted ten-item list."
+    },
+    {
+      "id": "T07-U071",
+      "category": "provisional",
+      "lookup_form": "འདུག་ཚུལ་",
+      "canonical_entry": null,
+      "english_realization": "mode of abiding",
+      "source_units": [
+        {
+          "pair_id": "MTP-000483",
+          "golden_id": "MTP-S001527",
+          "exact_tibetan_span": "འདུག་ཚུལ",
+          "local_note_ids": [
+            "T07-018"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གནས་པ་",
+        "གནས་ལུགས་",
+        "སྐུ་དང་ཡེ་ཤེས་"
+      ],
+      "condition_evidence": "Their is an English possessive supplied to attach the mode to embodiments and primordial knowing; the attachment remains reviewable."
+    },
+    {
+      "id": "T07-U072",
+      "category": "provisional",
+      "lookup_form": "སྤྲོས་པ་མེད་",
+      "canonical_entry": null,
+      "english_realization": "absence of conceptual elaborations",
+      "source_units": [
+        {
+          "pair_id": "MTP-000485",
+          "golden_id": "MTP-S001532",
+          "exact_tibetan_span": "སྤྲོས་པ་མེད",
+          "local_note_ids": [
+            "T07-019"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྤྲོས་བྲལ་"
+      ],
+      "condition_evidence": "Explicit med-negated construction; related to the canonical bral expression without claiming identical syntax."
+    },
+    {
+      "id": "T07-U073",
+      "category": "provisional",
+      "lookup_form": "བདག་ཉིད་",
+      "canonical_entry": null,
+      "english_realization": "great identity",
+      "source_units": [
+        {
+          "pair_id": "MTP-000485",
+          "golden_id": "MTP-S001534",
+          "exact_tibetan_span": "བདག་ཉིད",
+          "local_note_ids": [
+            "T07-019"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་",
+        "རང་བཞིན་"
+      ],
+      "condition_evidence": "Great is explicit at this locus; the bare identity sense and attachment remain provisional, while ngang-dangs is unresolved."
+    },
+    {
+      "id": "T07-U074",
+      "category": "provisional",
+      "lookup_form": "སྤྱི་སའི་གཞི་",
+      "canonical_entry": null,
+      "english_realization": "Ground of the common domain",
+      "source_units": [
+        {
+          "pair_id": "MTP-000485",
+          "golden_id": "MTP-S001536",
+          "exact_tibetan_span": "སྤྱི་སའི་གཞི",
+          "local_note_ids": [
+            "T07-019"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གཞི་",
+        "ཀུན་གཞི་"
+      ],
+      "condition_evidence": "Compound interpretation preserves canonical Ground; no universal definition or all-basis identification is asserted."
+    },
+    {
+      "id": "T07-U075",
+      "category": "provisional",
+      "lookup_form": "འཁྲུལ་གཞི་",
+      "canonical_entry": null,
+      "english_realization": "Ground of delusion",
+      "source_units": [
+        {
+          "pair_id": "MTP-000485",
+          "golden_id": "MTP-S001536",
+          "exact_tibetan_span": "འཁྲུལ་གཞི",
+          "local_note_ids": [
+            "T07-019"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གཞི་",
+        "འཁྲུལ་པ་",
+        "གཞི་སྣང་"
+      ],
+      "condition_evidence": "Local compound preserves Ground and delusion; no silent change to another ground-related whole expression."
+    },
+    {
+      "id": "T07-U076",
+      "category": "provisional",
+      "lookup_form": "ཨེ་མ་ཧོ་",
+      "canonical_entry": null,
+      "english_realization": "Emaho",
+      "source_units": [
+        {
+          "pair_id": "MTP-000486",
+          "golden_id": "MTP-S001537",
+          "exact_tibetan_span": "ཨེ་མ་ཧོ",
+          "local_note_ids": [
+            "T07-020"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Transliteration of the exclamation without an etymological expansion."
+    },
+    {
+      "id": "T07-U077",
+      "category": "provisional",
+      "lookup_form": "ཤེས་བྱ་",
+      "canonical_entry": null,
+      "english_realization": "what is to be known",
+      "source_units": [
+        {
+          "pair_id": "MTP-000486",
+          "golden_id": "MTP-S001538",
+          "exact_tibetan_span": "ཤེས་བྱ",
+          "local_note_ids": [
+            "T07-020"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཤེས་པ་",
+        "གཞལ་བྱ་",
+        "དམིགས་པ་"
+      ],
+      "condition_evidence": "The knowable expression qualifies domain; not the canonical object of comprehension or object of focus."
+    },
+    {
+      "id": "T07-U078",
+      "category": "provisional",
+      "lookup_form": "དགེ་འདུན་",
+      "canonical_entry": null,
+      "english_realization": "Saṅgha",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001539",
+          "exact_tibetan_span": "དགེ་འདུན",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Three Jewels whole expression; not derived from the separate proposed ten-virtues usage."
+    },
+    {
+      "id": "T07-U079",
+      "category": "provisional",
+      "lookup_form": "བསྟན་པ་",
+      "canonical_entry": null,
+      "english_realization": "teaching",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001540",
+          "exact_tibetan_span": "བསྟན་པ",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Exact bstan pa remains teaching and is not silently rewritten as ston pa teacher."
+    },
+    {
+      "id": "T07-U080",
+      "category": "provisional",
+      "lookup_form": "གནས་",
+      "canonical_entry": "གནས་པ་",
+      "english_realization": "place",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001540",
+          "exact_tibetan_span": "གནས",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གནས་པ་"
+      ],
+      "condition_evidence": "Local noun in the teaching/place/retinue/time sequence, distinct from canonical abiding as retained at S1550."
+    },
+    {
+      "id": "T07-U081",
+      "category": "provisional",
+      "lookup_form": "འཁོར་",
+      "canonical_entry": null,
+      "english_realization": "retinue",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001540",
+          "exact_tibetan_span": "འཁོར",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Local teaching-circumstance noun; distinct from the khor ba samsara expression."
+    },
+    {
+      "id": "T07-U082",
+      "category": "provisional",
+      "lookup_form": "ལོངས་སྐུ་",
+      "canonical_entry": null,
+      "english_realization": "complete enjoyment embodiment",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001541",
+          "exact_tibetan_span": "ལོངས་སྐུ",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ལོངས་སྤྱོད་རྫོགས་སྐུ་",
+        "སྐུ་"
+      ],
+      "condition_evidence": "Short attested source form provisionally identified with the full canonical whole expression; all English components retained."
+    },
+    {
+      "id": "T07-U083",
+      "category": "provisional",
+      "lookup_form": "སྤྲུལ་སྐུ་",
+      "canonical_entry": null,
+      "english_realization": "emanation embodiment",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001541",
+          "exact_tibetan_span": "སྤྲུལ་སྐུ",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྤྲུལ་པའི་སྐུ་",
+        "སྐུ་"
+      ],
+      "condition_evidence": "Short attested source form provisionally identified with the full canonical whole expression."
+    },
+    {
+      "id": "T07-U084",
+      "category": "provisional",
+      "lookup_form": "མདོ་སྡེ་",
+      "canonical_entry": null,
+      "english_realization": "sūtra collection",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001542",
+          "exact_tibetan_span": "མདོ་སྡེ",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Local collection identification; no external doctrinal synopsis is supplied."
+    },
+    {
+      "id": "T07-U085",
+      "category": "provisional",
+      "lookup_form": "འདུལ་བ་",
+      "canonical_entry": null,
+      "english_realization": "Vinaya",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001542",
+          "exact_tibetan_span": "འདུལ་བ",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Provisional collection identification in the named sequence."
+    },
+    {
+      "id": "T07-U086",
+      "category": "provisional",
+      "lookup_form": "མངོན་པ་",
+      "canonical_entry": null,
+      "english_realization": "great Abhidharma",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001542",
+          "exact_tibetan_span": "མངོན་པ",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "མངོན་སུམ་"
+      ],
+      "condition_evidence": "Great is explicit in this occurrence; the bare collection identification remains proposed."
+    },
+    {
+      "id": "T07-U087",
+      "category": "provisional",
+      "lookup_form": "ཉན་ཐོས་",
+      "canonical_entry": null,
+      "english_realization": "hearers",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001543",
+          "exact_tibetan_span": "ཉན་ཐོས",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        },
+        {
+          "pair_id": "MTP-000488",
+          "golden_id": "MTP-S001544",
+          "exact_tibetan_span": "ཉན་ཐོས",
+          "local_note_ids": [
+            "T07-022"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Practitioner label and the school-list possessive; the nearby byang chub sems remains unresolved."
+    },
+    {
+      "id": "T07-U088",
+      "category": "provisional",
+      "lookup_form": "རང་རྒྱལ་",
+      "canonical_entry": null,
+      "english_realization": "solitary victors",
+      "source_units": [
+        {
+          "pair_id": "MTP-000487",
+          "golden_id": "MTP-S001543",
+          "exact_tibetan_span": "རང་རྒྱལ",
+          "local_note_ids": [
+            "T07-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Descriptive provisional label; no unmarked conventional name or absent syllable is supplied."
+    },
+    {
+      "id": "T07-U089",
+      "category": "provisional",
+      "lookup_form": "ཕལ་ཆེན་སྡེ་པ་",
+      "canonical_entry": null,
+      "english_realization": "Great Assembly school",
+      "source_units": [
+        {
+          "pair_id": "MTP-000488",
+          "golden_id": "MTP-S001544",
+          "exact_tibetan_span": "ཕལ་ཆེན་སྡེ་པ",
+          "local_note_ids": [
+            "T07-022"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Descriptive school label within the hearer context; not a newly authorized historical taxonomy."
+    },
+    {
+      "id": "T07-U090",
+      "category": "provisional",
+      "lookup_form": "ཐམས་ཅད་ཡོད་སྨྲ་",
+      "canonical_entry": null,
+      "english_realization": "Proponents of All-Existence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000488",
+          "golden_id": "MTP-S001545",
+          "exact_tibetan_span": "ཐམས་ཅད་ཡོད་སྨྲ",
+          "local_note_ids": [
+            "T07-022"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Descriptive provisional school name retaining the all-exists/proclaiming components; no conventional replacement is silently imposed."
+    },
+    {
+      "id": "T07-U091",
+      "category": "provisional",
+      "lookup_form": "ཀུན་གྱིས་བཀུར་",
+      "canonical_entry": null,
+      "english_realization": "Honored-by-All",
+      "source_units": [
+        {
+          "pair_id": "MTP-000488",
+          "golden_id": "MTP-S001545",
+          "exact_tibetan_span": "ཀུན་གྱིས་བཀུར",
+          "local_note_ids": [
+            "T07-022"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Descriptive provisional school name; the source relationship remains explicit."
+    },
+    {
+      "id": "T07-U092",
+      "category": "provisional",
+      "lookup_form": "རྩ་སྡེ་",
+      "canonical_entry": null,
+      "english_realization": "four root schools",
+      "source_units": [
+        {
+          "pair_id": "MTP-000488",
+          "golden_id": "MTP-S001546",
+          "exact_tibetan_span": "རྩ་སྡེ",
+          "local_note_ids": [
+            "T07-022"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Four is explicit. The unresolved gnas bstan member is not silently corrected or assigned a conventional name."
+    },
+    {
+      "id": "T07-U093",
+      "category": "provisional",
+      "lookup_form": "སྡུག་བསྔལ་",
+      "canonical_entry": null,
+      "english_realization": "suffering",
+      "source_units": [
+        {
+          "pair_id": "MTP-000489",
+          "golden_id": "MTP-S001547",
+          "exact_tibetan_span": "སྡུག་བསྔལ",
+          "local_note_ids": [
+            "T07-023"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Truth-list term; no standard definition is substituted for the local wording."
+    },
+    {
+      "id": "T07-U094",
+      "category": "provisional",
+      "lookup_form": "ཀུན་འབྱུང་",
+      "canonical_entry": null,
+      "english_realization": "origin",
+      "source_units": [
+        {
+          "pair_id": "MTP-000489",
+          "golden_id": "MTP-S001547",
+          "exact_tibetan_span": "ཀུན་འབྱུང",
+          "local_note_ids": [
+            "T07-023"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Truth-list term; does not establish every all-arising expression as one universal synonym."
+    },
+    {
+      "id": "T07-U095",
+      "category": "provisional",
+      "lookup_form": "འགོག་པ་",
+      "canonical_entry": null,
+      "english_realization": "cessation",
+      "source_units": [
+        {
+          "pair_id": "MTP-000489",
+          "golden_id": "MTP-S001547",
+          "exact_tibetan_span": "འགོག་པ",
+          "local_note_ids": [
+            "T07-023"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རང་འགགས་"
+      ],
+      "condition_evidence": "Truth-list term distinct from the complete self-cessation expression."
+    },
+    {
+      "id": "T07-U096",
+      "category": "provisional",
+      "lookup_form": "བདེན་པ་",
+      "canonical_entry": null,
+      "english_realization": "truth",
+      "source_units": [
+        {
+          "pair_id": "MTP-000489",
+          "golden_id": "MTP-S001548",
+          "exact_tibetan_span": "བདེན་པ",
+          "local_note_ids": [
+            "T07-023"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Path is an explicit local qualifier; it is not built into the proposed bare headword."
+    },
+    {
+      "id": "T07-U097",
+      "category": "provisional",
+      "lookup_form": "ཟག་པ་",
+      "canonical_entry": null,
+      "english_realization": "with outflows; without outflows",
+      "source_units": [
+        {
+          "pair_id": "MTP-000489",
+          "golden_id": "MTP-S001549",
+          "exact_tibetan_span": "ཟག་པ་བཅས་དང་ཟག་མེད་དང",
+          "local_note_ids": [
+            "T07-023"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གློ་བུར་བའི་དྲི་མ་"
+      ],
+      "condition_evidence": "Both affirmed and negated outflow constructions are preserved in the full exact source span; no conflation with the stain family."
+    },
+    {
+      "id": "T07-U098",
+      "category": "provisional",
+      "lookup_form": "ས་",
+      "canonical_entry": null,
+      "english_realization": "stages",
+      "source_units": [
+        {
+          "pair_id": "MTP-000489",
+          "golden_id": "MTP-S001550",
+          "exact_tibetan_span": "ས",
+          "local_note_ids": [
+            "T07-023"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གཞི་"
+      ],
+      "condition_evidence": "Contextual stage sense in the surpassing/abiding pair, distinct from ordinary earth in the elemental list and from canonical Ground."
+    },
+    {
+      "id": "T07-U099",
+      "category": "grammatical",
+      "lookup_form": "གསལ་བ་",
+      "canonical_entry": "གསལ་བ་",
+      "english_realization": "making clear",
+      "source_units": [
+        {
+          "pair_id": "MTP-000465",
+          "golden_id": "MTP-S001461",
+          "exact_tibetan_span": "གསལ་བར་བྱེད",
+          "local_note_ids": [
+            "T07-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "བྱ་བ་"
+      ],
+      "condition_evidence": "Causative grammatical realization preserves clarity and the explicit making action."
+    },
+    {
+      "id": "T07-U100",
+      "category": "grammatical",
+      "lookup_form": "གསལ་བ་",
+      "canonical_entry": "གསལ་བ་",
+      "english_realization": "through clarity",
+      "source_units": [
+        {
+          "pair_id": "MTP-000476",
+          "golden_id": "MTP-S001499",
+          "exact_tibetan_span": "གསལ་བས",
+          "local_note_ids": [
+            "T07-013"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གདངས་"
+      ],
+      "condition_evidence": "Instrumental clarity remains distinct from the following provisional dangs predicate."
+    },
+    {
+      "id": "T07-U101",
+      "category": "grammatical",
+      "lookup_form": "ཆོས་ཉིད་",
+      "canonical_entry": "ཆོས་ཉིད་",
+      "english_realization": "path of the nature of phenomena’s expansion",
+      "source_units": [
+        {
+          "pair_id": "MTP-000473",
+          "golden_id": "MTP-S001485",
+          "exact_tibetan_span": "ཆོས་ཉིད་རྒྱས་པའི་ལམ",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Genitive scope is retained in the provisional English construction and remains reviewable."
+    },
+    {
+      "id": "T07-U102",
+      "category": "grammatical",
+      "lookup_form": "སྟོང་པ་",
+      "canonical_entry": "སྟོང་པ་",
+      "english_realization": "in emptiness",
+      "source_units": [
+        {
+          "pair_id": "MTP-000474",
+          "golden_id": "MTP-S001490",
+          "exact_tibetan_span": "སྟོང་པར",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Locative reading of the attached par form; no causation is added."
+    },
+    {
+      "id": "T07-U103",
+      "category": "grammatical",
+      "lookup_form": "ཆོས་དབྱིངས་",
+      "canonical_entry": "ཆོས་དབྱིངས་",
+      "english_realization": "basic space of phenomena",
+      "source_units": [
+        {
+          "pair_id": "MTP-000474",
+          "golden_id": "MTP-S001491",
+          "exact_tibetan_span": "ཆོས་ཀྱི་དབྱིངས",
+          "local_note_ids": [
+            "T07-011"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "དབྱིངས་"
+      ],
+      "condition_evidence": "Expanded genitive form preserves the complete canonical expression."
+    },
+    {
+      "id": "T07-U104",
+      "category": "grammatical",
+      "lookup_form": "ཉམས་མྱོང་",
+      "canonical_entry": "ཉམས་མྱོང་",
+      "english_realization": "experiential acquaintance, the taste of bliss",
+      "source_units": [
+        {
+          "pair_id": "MTP-000475",
+          "golden_id": "MTP-S001496",
+          "exact_tibetan_span": "ཉམས་མྱོང་བདེ་བའི་རོ",
+          "local_note_ids": [
+            "T07-012"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཉམས་"
+      ],
+      "condition_evidence": "Provisional apposition retains the canonical term; a competing modifier attachment remains explicitly open."
+    },
+    {
+      "id": "T07-U105",
+      "category": "grammatical",
+      "lookup_form": "ངོ་བོ་",
+      "canonical_entry": "ངོ་བོ་",
+      "english_realization": "phenomena of the essence of ordinary mind itself",
+      "source_units": [
+        {
+          "pair_id": "MTP-000478",
+          "golden_id": "MTP-S001504",
+          "exact_tibetan_span": "སེམས་ཉིད་ངོ་བོའི་ཆོས་རྣམས་ནི",
+          "local_note_ids": [
+            "T07-014"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སེམས་"
+      ],
+      "condition_evidence": "The essence genitive remains attached to phenomena, with the ordinary-mind-itself expression kept visible."
+    },
+    {
+      "id": "T07-U106",
+      "category": "grammatical",
+      "lookup_form": "སྒོམ་པ་",
+      "canonical_entry": "སྒོམ་པ་",
+      "english_realization": "cultivation",
+      "source_units": [
+        {
+          "pair_id": "MTP-000480",
+          "golden_id": "MTP-S001517",
+          "exact_tibetan_span": "སྒོམ་པ",
+          "local_note_ids": [
+            "T07-016"
+          ]
+        },
+        {
+          "pair_id": "MTP-000482",
+          "golden_id": "MTP-S001519",
+          "exact_tibetan_span": "བསྒོམ་པ",
+          "local_note_ids": [
+            "T07-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "The shorter sgom and prefixed bsgom forms are nominal members of practice lists; canonical cultivation is retained."
+    },
+    {
+      "id": "T07-U107",
+      "category": "grammatical",
+      "lookup_form": "ཤེས་རབ་",
+      "canonical_entry": "ཤེས་རབ་",
+      "english_realization": "Within means and discerning knowing themselves",
+      "source_units": [
+        {
+          "pair_id": "MTP-000483",
+          "golden_id": "MTP-S001525",
+          "exact_tibetan_span": "ཐབས་དང་ཤེས་རབ་ཉིད་ལ་ཡང",
+          "local_note_ids": [
+            "T07-018"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Open locative list introduction is made explicit; source order and canonical discerning knowing remain unchanged."
+    },
+    {
+      "id": "T07-U108",
+      "category": "grammatical",
+      "lookup_form": "རྟོགས་པ་",
+      "canonical_entry": "རྟོགས་པ་",
+      "english_realization": "manner of realization",
+      "source_units": [
+        {
+          "pair_id": "MTP-000483",
+          "golden_id": "MTP-S001529",
+          "exact_tibetan_span": "རྟོགས་ཚུལ",
+          "local_note_ids": [
+            "T07-018"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རྟོག་པ་"
+      ],
+      "condition_evidence": "Compound with tshul preserves realization and its distinction from rtog."
+    },
+    {
+      "id": "T07-U109",
+      "category": "grammatical",
+      "lookup_form": "གཞི་",
+      "canonical_entry": "གཞི་",
+      "english_realization": "the Ground",
+      "source_units": [
+        {
+          "pair_id": "MTP-000471",
+          "golden_id": "MTP-S001481",
+          "exact_tibetan_span": "གཞི",
+          "local_note_ids": [
+            "T07-010"
+          ]
+        },
+        {
+          "pair_id": "MTP-000483",
+          "golden_id": "MTP-S001528",
+          "exact_tibetan_span": "གཞི",
+          "local_note_ids": [
+            "T07-018"
+          ]
+        },
+        {
+          "pair_id": "MTP-000485",
+          "golden_id": "MTP-S001536",
+          "exact_tibetan_span": "སྤྱི་སའི་གཞི་དང་འཁྲུལ་གཞིའོ",
+          "local_note_ids": [
+            "T07-019"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Consistent internal capitalization is a provisional presentation choice, not a changed lexical assignment. Both S1536 compounds retain the canonical component."
+    },
+    {
+      "id": "T07-U110",
+      "category": "grammatical",
+      "lookup_form": "གནས་པ་",
+      "canonical_entry": "གནས་པ་",
+      "english_realization": "abiding [in them]",
+      "source_units": [
+        {
+          "pair_id": "MTP-000489",
+          "golden_id": "MTP-S001550",
+          "exact_tibetan_span": "གནས་པ",
+          "local_note_ids": [
+            "T07-023"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Canonical abiding remains explicit. The bracketed complement refers to stages and remains a disclosed interpretive supply."
+    }
+  ],
+  "source_path": "diplomatic/chapters/07/reading.json",
+  "paired_source_path": "translations/chapters/07/source.md",
+  "paired_source_sha256": "02eaaf0774ceda5510dfe8f2ffbc67b9bd8e18e4f32c3e2de7ddefb9914f438b",
+  "validation": {
+    "status": "All recorded exact spans, fixed-source pair allocation, actual reader-note references and note-map bindings checked; no errors.",
+    "records": 110,
+    "source_loci": 163,
+    "record_categories": {
+      "provisional": 98,
+      "grammatical": 12
+    },
+    "locus_categories": {
+      "provisional": 148,
+      "grammatical": 15
+    },
+    "inactive_proposals": 97,
+    "independent_semantic_certification": false,
+    "review_limits": "Author-side lexical support for batch 1 only. A source locus is a record/source-object span, not a token count; a full S1494 span includes both sgra occurrences. Independent QC is separate."
+  },
+  "glossary_search": "All 222 complete eight-column rows read. Whole expressions, exact forms, source construction, canonical families and English collisions considered; no fuzzy spelling identity or prior-proposal approval inferred."
+}
