@@ -165,7 +165,7 @@
   "frozen_golden_unchanged": true,
   "glossary_unchanged": true,
   "independent_human_certification": false,
-  "status": "formal_publication_in_progress",
+  "status": "complete_aggregate_under_independent_review",
   "source_objects_represented": 2053,
   "next_work_authorized": true,
   "chapter_2_state": "Fixed annotated release translate-ch02-v1: 124 objects / 35 pairs / 175 notes; all 152 obligations. Independent agent QC and strict final gates passed; unresolved readings remain explicit.",
@@ -173,7 +173,7 @@
   "chapter_candidates_complete": 8,
   "publication_blocker": null,
   "source_objects_released": 2053,
-  "next_finite_task": "Build, independently review, sign and publish the complete translation-v1 aggregate.",
+  "next_finite_task": "Complete independent aggregate assembly review, exact-manifest signoff and genuine translation-v1 publication.",
   "chapter_3_state": "Fixed annotated release translate-ch03-v1: 120 objects / 34 pairs / 165 notes; all 142 obligations. Independent agent QC and strict final gates passed; unresolved readings remain explicit.",
   "count_semantics": "Representation counts include explicitly unresolved and nontranslatable metadata objects; they do not measure accuracy or complete decipherment.",
   "chapter_4_state": "Fixed annotated release translate-ch04-v1; 294 objects / 86 pairs / 396 notes / 337 obligations. Three fresh corrections; original unsigned snapshot and author archive preserved. Lost historical final package not presumed recovered.",
@@ -252,5 +252,7 @@
   "publication_transport": "Connected Mac authenticated gh access verified for exact repository; coordinator-only annotated-tag creation available.",
   "canonical_scope_last_chapter": 8,
   "aggregate_publication_complete": false,
-  "chapter_1_state": "Fixed annotated release translate-ch01-v1: 97 objects / 30 pairs / 112 notes; all 93 obligations. Independent agent QC and strict final gates passed; unresolved readings remain explicit."
+  "chapter_1_state": "Fixed annotated release translate-ch01-v1: 97 objects / 30 pairs / 112 notes; all 93 obligations. Independent agent QC and strict final gates passed; unresolved readings remain explicit.",
+  "aggregate_candidate_built": true,
+  "aggregate_build_manifest_sha256": "f4da172a28c9f1c08fb08337bb06ecea87f76f93eaedb57057f3230663ce4968"
 }

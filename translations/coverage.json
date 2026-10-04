@@ -1,0 +1,402 @@
+{
+  "edition": "translation-v1",
+  "chapters_released": 8,
+  "source_objects_represented": 2053,
+  "source_objects_remaining": 0,
+  "source_objects_by_pair_treatment": {
+    "nontranslatable": 129,
+    "translated": 1412,
+    "unresolved": 512
+  },
+  "totals": {
+    "pairs": 674,
+    "golden_objects": 2053,
+    "source_objects_remaining_in_chapter": 0,
+    "note_count": 2597,
+    "obligations_required": 2199,
+    "obligations_covered": 2199,
+    "obligations_remaining": 0,
+    "native_anchor_checks": 2053,
+    "native_images": 128,
+    "native_findings": 2048,
+    "golden_uncertainty_statements": 101,
+    "golden_changes": 50,
+    "closing_objects": 22
+  },
+  "pair_statuses": {
+    "nontranslatable": 127,
+    "translated": 407,
+    "unresolved": 140
+  },
+  "formats": {
+    "prose": 173,
+    "h1": 1,
+    "h2": 2,
+    "verse": 498
+  },
+  "unique_native_images": 121,
+  "chapter_coverage": [
+    {
+      "chapter": 1,
+      "coverage": {
+        "chapter": 1,
+        "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+        "pairs": 30,
+        "golden_objects": 97,
+        "source_objects_remaining_in_chapter": 0,
+        "paired_prefix_last_chapter": 1,
+        "formats": {
+          "prose": 27,
+          "h1": 1,
+          "h2": 2
+        },
+        "statuses": {
+          "nontranslatable": 7,
+          "translated": 22,
+          "unresolved": 1
+        },
+        "note_count": 112,
+        "obligations_required": 93,
+        "obligations_covered": 93,
+        "obligations_remaining": 0,
+        "native_anchor_checks": 97,
+        "native_images": 7,
+        "native_findings": 79,
+        "golden_uncertainty_statements": 6,
+        "golden_changes": 8,
+        "source_roles": {
+          "blank": 1,
+          "metadata": 8,
+          "heading": 4,
+          "main_text": 82,
+          "chapter_colophon": 2
+        },
+        "closing_objects": 2,
+        "supporting_records": {
+          "usage.json": true,
+          "glossary-proposals.json": true
+        },
+        "claims": {
+          "automated_semantic_certification": false,
+          "independent_human_certification": false
+        }
+      }
+    },
+    {
+      "chapter": 2,
+      "coverage": {
+        "chapter": 2,
+        "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+        "pairs": 35,
+        "golden_objects": 124,
+        "source_objects_remaining_in_chapter": 0,
+        "paired_prefix_last_chapter": 2,
+        "formats": {
+          "prose": 11,
+          "verse": 24
+        },
+        "statuses": {
+          "nontranslatable": 7,
+          "translated": 24,
+          "unresolved": 4
+        },
+        "note_count": 175,
+        "obligations_required": 152,
+        "obligations_covered": 152,
+        "obligations_remaining": 0,
+        "native_anchor_checks": 124,
+        "native_images": 7,
+        "native_findings": 138,
+        "golden_uncertainty_statements": 11,
+        "golden_changes": 3,
+        "source_roles": {
+          "metadata": 7,
+          "main_text": 114,
+          "annotation": 1,
+          "chapter_colophon": 2
+        },
+        "closing_objects": 2,
+        "supporting_records": {
+          "usage.json": true,
+          "glossary-proposals.json": true
+        },
+        "claims": {
+          "automated_semantic_certification": false,
+          "independent_human_certification": false
+        }
+      }
+    },
+    {
+      "chapter": 3,
+      "coverage": {
+        "chapter": 3,
+        "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+        "pairs": 34,
+        "golden_objects": 120,
+        "source_objects_remaining_in_chapter": 0,
+        "paired_prefix_last_chapter": 3,
+        "formats": {
+          "prose": 10,
+          "verse": 24
+        },
+        "statuses": {
+          "nontranslatable": 8,
+          "translated": 24,
+          "unresolved": 2
+        },
+        "note_count": 165,
+        "obligations_required": 142,
+        "obligations_covered": 142,
+        "obligations_remaining": 0,
+        "native_anchor_checks": 120,
+        "native_images": 8,
+        "native_findings": 135,
+        "golden_uncertainty_statements": 5,
+        "golden_changes": 2,
+        "source_roles": {
+          "metadata": 8,
+          "main_text": 110,
+          "chapter_colophon": 2
+        },
+        "closing_objects": 2,
+        "supporting_records": {
+          "usage.json": true,
+          "glossary-proposals.json": true
+        },
+        "claims": {
+          "automated_semantic_certification": false,
+          "independent_human_certification": false
+        }
+      }
+    },
+    {
+      "chapter": 4,
+      "coverage": {
+        "chapter": 4,
+        "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+        "pairs": 86,
+        "golden_objects": 294,
+        "source_objects_remaining_in_chapter": 0,
+        "paired_prefix_last_chapter": 4,
+        "formats": {
+          "prose": 21,
+          "verse": 65
+        },
+        "statuses": {
+          "nontranslatable": 19,
+          "translated": 62,
+          "unresolved": 5
+        },
+        "note_count": 396,
+        "obligations_required": 337,
+        "obligations_covered": 337,
+        "obligations_remaining": 0,
+        "native_anchor_checks": 294,
+        "native_images": 19,
+        "native_findings": 326,
+        "golden_uncertainty_statements": 8,
+        "golden_changes": 3,
+        "source_roles": {
+          "metadata": 19,
+          "main_text": 273,
+          "chapter_colophon": 2
+        },
+        "closing_objects": 2,
+        "supporting_records": {
+          "usage.json": true,
+          "glossary-proposals.json": true
+        },
+        "claims": {
+          "automated_semantic_certification": false,
+          "independent_human_certification": false
+        }
+      }
+    },
+    {
+      "chapter": 5,
+      "coverage": {
+        "chapter": 5,
+        "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+        "pairs": 135,
+        "golden_objects": 416,
+        "source_objects_remaining_in_chapter": 0,
+        "paired_prefix_last_chapter": 5,
+        "formats": {
+          "prose": 31,
+          "verse": 104
+        },
+        "statuses": {
+          "nontranslatable": 27,
+          "translated": 92,
+          "unresolved": 16
+        },
+        "note_count": 520,
+        "obligations_required": 432,
+        "obligations_covered": 432,
+        "obligations_remaining": 0,
+        "native_anchor_checks": 416,
+        "native_images": 27,
+        "native_findings": 415,
+        "golden_uncertainty_statements": 11,
+        "golden_changes": 6,
+        "source_roles": {
+          "metadata": 27,
+          "main_text": 387,
+          "chapter_colophon": 2
+        },
+        "closing_objects": 2,
+        "supporting_records": {
+          "usage.json": true,
+          "glossary-proposals.json": true
+        },
+        "claims": {
+          "automated_semantic_certification": false,
+          "independent_human_certification": false
+        }
+      }
+    },
+    {
+      "chapter": 6,
+      "coverage": {
+        "chapter": 6,
+        "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+        "pairs": 132,
+        "golden_objects": 376,
+        "source_objects_remaining_in_chapter": 0,
+        "paired_prefix_last_chapter": 6,
+        "formats": {
+          "prose": 29,
+          "verse": 103
+        },
+        "statuses": {
+          "nontranslatable": 23,
+          "translated": 88,
+          "unresolved": 21
+        },
+        "note_count": 435,
+        "obligations_required": 378,
+        "obligations_covered": 378,
+        "obligations_remaining": 0,
+        "native_anchor_checks": 376,
+        "native_images": 23,
+        "native_findings": 358,
+        "golden_uncertainty_statements": 12,
+        "golden_changes": 8,
+        "source_roles": {
+          "metadata": 23,
+          "main_text": 351,
+          "chapter_colophon": 2
+        },
+        "closing_objects": 2,
+        "supporting_records": {
+          "usage.json": true,
+          "glossary-proposals.json": true
+        },
+        "claims": {
+          "automated_semantic_certification": false,
+          "independent_human_certification": false
+        }
+      }
+    },
+    {
+      "chapter": 7,
+      "coverage": {
+        "chapter": 7,
+        "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+        "pairs": 115,
+        "golden_objects": 342,
+        "source_objects_remaining_in_chapter": 0,
+        "paired_prefix_last_chapter": 7,
+        "formats": {
+          "prose": 20,
+          "verse": 95
+        },
+        "statuses": {
+          "nontranslatable": 19,
+          "translated": 51,
+          "unresolved": 45
+        },
+        "note_count": 373,
+        "obligations_required": 304,
+        "obligations_covered": 304,
+        "obligations_remaining": 0,
+        "native_anchor_checks": 342,
+        "native_images": 19,
+        "native_findings": 291,
+        "golden_uncertainty_statements": 7,
+        "golden_changes": 6,
+        "source_roles": {
+          "metadata": 19,
+          "main_text": 321,
+          "chapter_colophon": 2
+        },
+        "closing_objects": 2,
+        "supporting_records": {
+          "usage.json": true,
+          "glossary-proposals.json": true
+        },
+        "claims": {
+          "automated_semantic_certification": false,
+          "independent_human_certification": false
+        }
+      }
+    },
+    {
+      "chapter": 8,
+      "coverage": {
+        "chapter": 8,
+        "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+        "pairs": 107,
+        "golden_objects": 284,
+        "source_objects_remaining_in_chapter": 0,
+        "paired_prefix_last_chapter": 8,
+        "formats": {
+          "prose": 24,
+          "verse": 83
+        },
+        "statuses": {
+          "nontranslatable": 17,
+          "translated": 44,
+          "unresolved": 46
+        },
+        "note_count": 421,
+        "obligations_required": 361,
+        "obligations_covered": 361,
+        "obligations_remaining": 0,
+        "native_anchor_checks": 284,
+        "native_images": 18,
+        "native_findings": 306,
+        "golden_uncertainty_statements": 41,
+        "golden_changes": 14,
+        "source_roles": {
+          "metadata": 17,
+          "main_text": 257,
+          "chapter_colophon": 2,
+          "colophon": 6,
+          "annotation": 2
+        },
+        "closing_objects": 8,
+        "supporting_records": {
+          "usage.json": true,
+          "glossary-proposals.json": true
+        },
+        "claims": {
+          "automated_semantic_certification": false,
+          "independent_human_certification": false
+        }
+      }
+    }
+  ],
+  "limits": [
+    "Agent-produced English working translation for human review; no independent human certification.",
+    "All golden objects are represented; represented does not mean every reading or interpretation is resolved.",
+    "Native main-text audits retain local unreadable and untranscribed source-layer limits; complete commentary decipherment is not claimed.",
+    "Mechanical validation proves structure and provenance, not semantic correctness.",
+    "The fixed golden Tibetan and canonical glossary remain unchanged; provisional usages do not amend the glossary."
+  ],
+  "claims": {
+    "automated_semantic_certification": false,
+    "independent_human_certification": false
+  },
+  "count_note": "Represented objects include explicitly unresolved and nontranslatable pairs. Native-image and evidence counts may overlap between chapters; no accuracy percentage is inferred."
+}

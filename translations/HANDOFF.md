@@ -1,3 +1,7 @@
+# Complete aggregate candidate — independent review in progress
+
+All eight chapter releases and their receipts are verified. The complete English and bilingual outputs have been built reproducibly from the released snapshots: 2,053 objects, 674 pairs, 2,597 notes and all 2,199 source obligations. Candidate manifest: `f4da172a28c9f1c08fb08337bb06ecea87f76f93eaedb57057f3230663ce4968`. Independent whole-book assembly/readability review and final signoff are in progress; the aggregate tag is not yet published.
+
 # English translation — formal publication in progress
 
 Updated 2026-10-04. All eight working chapters are complete: 2053 fixed source objects / 674 pairs / 2597 notes. Zero chapters remain to draft. Representation includes explicitly unresolved passages and metadata; these counts do not measure accuracy or complete decipherment.

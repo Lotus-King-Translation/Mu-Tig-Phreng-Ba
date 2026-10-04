@@ -1,0 +1,60 @@
+{
+  "verified_at_utc": "2026-10-04T12:17:51.917741+00:00",
+  "chapter_releases": [
+    {
+      "chapter": 1,
+      "tag": "translate-ch01-v1",
+      "tag_object": "601ee9f11790e19fa52ff2269595b2d1a829032f",
+      "peeled_commit": "2a25fd13805628a76aadea614bfc7fd7248cd392"
+    },
+    {
+      "chapter": 2,
+      "tag": "translate-ch02-v1",
+      "tag_object": "ac905d8e9e2c085a9172cf560d13bdaf0d5c5d80",
+      "peeled_commit": "3cbe657cea281992123ccb85e0008e306e9d3108"
+    },
+    {
+      "chapter": 3,
+      "tag": "translate-ch03-v1",
+      "tag_object": "238c498de680dc12a8bf3465925b6ab82e9a1448",
+      "peeled_commit": "bd235b87322eb84718930c56e92d4bbe7c198a11"
+    },
+    {
+      "chapter": 4,
+      "tag": "translate-ch04-v1",
+      "tag_object": "3920988c3829b5f313c2c6ebc09dcc3a0edf78cc",
+      "peeled_commit": "7c5f10610915ee029837c866c9b33835962d924d"
+    },
+    {
+      "chapter": 5,
+      "tag": "translate-ch05-v1",
+      "tag_object": "f2338c31f8f60e612a3a3ff48499ca29f0cbd6ff",
+      "peeled_commit": "23cb6d38ba494dd8f53f22c6618168cd50761782"
+    },
+    {
+      "chapter": 6,
+      "tag": "translate-ch06-v1",
+      "tag_object": "896ac288c08b29c80458621c22a49a123e2b6227",
+      "peeled_commit": "713aa49a269ce42ac505bd8dff0299c6946bbdfa"
+    },
+    {
+      "chapter": 7,
+      "tag": "translate-ch07-v1",
+      "tag_object": "b88926a22f750ac23475d42475681e0b0b53ae99",
+      "peeled_commit": "3fae729775f57b100c785cb7ed5c23340524d3ae"
+    },
+    {
+      "chapter": 8,
+      "tag": "translate-ch08-v1",
+      "tag_object": "cb4ab7f12468fe3e3ec2294e4b24a4b5b242187e",
+      "peeled_commit": "71480071296de443e80f82216c464c558001e7c1"
+    }
+  ],
+  "golden_release": {
+    "tag": "golden-v1",
+    "tag_object": "2dda46d0a11ee533a30dec1e196f506307a4957f",
+    "peeled_commit": "4d6ba07e1b3379183633127cd387d98d8195eb95"
+  },
+  "main_observed": "06db5c454cbb52153a076c820528f44e0bb22dd8",
+  "scope": "Fresh immutable chapter/golden remote refs; final tag publication separately rechecks current main and these refs."
+}
