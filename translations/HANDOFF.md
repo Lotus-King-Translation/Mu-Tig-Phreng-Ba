@@ -1,3 +1,15 @@
+# Active handoff — chapter 4 fresh review and formal publication
+
+Updated 2026-10-04. All eight chapters are drafted; the user authorized completion of remaining review and publication. The full working edition at `3972b751e37538779cbbfcc01c9bdc7e5c6beb24` is preserved on `archive/working-edition-3972b751`. An isolated `review/ch04-final-20261004` branch holds the fresh chapter 4 task. Do not treat its work as recovery of the lost final revision.
+
+Chapter 4 scope: 294 objects / 86 pairs / 272 verse lines / 396 notes / 337 source obligations. Preserve original author archive and fixed source/audit inputs. Initial author and independent source/English reads identify three small closure/annotation corrections; occurrence-bound lexical records and full support-record review are in progress. No current signed package is yet claimed.
+
+Authenticated GitHub publication through the connected Mac now works. Root coordinator alone will create genuine sequential chapter 2–8 annotated tags at verified actual main commits, verify tag objects and peeled commits, then commit receipts. Existing canonical prefix validation requires temporary projections through each released chapter; complete chapter directories and the archive branch remain intact. Strict prior-release validation supersedes historical working-mode exceptions after promotion; do not alter their old pins. All signed later chapter directories stay byte-identical. Finish with complete aggregate build, independent assembly review, exact-manifest signoff, annotated tag and receipt.
+
+The older handoff below remains historical evidence; its transport blocker is resolved. No full commentary translation, exhaustive collation, complete multi-layer proofreading or independent human certification is claimed.
+
+---
+
 # Translation handoff — complete working text
 
 Updated 2026-10-04. The final chapter requested by the user is complete. All eight chapters now have working English representations: 2,053 fixed objects / 674 matching canonical pairs, with zero objects and zero chapters remaining to draft. Explicit unresolved readings and metadata are included in these representation counts.
