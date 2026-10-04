@@ -1,6 +1,6 @@
 # Chapter 8 independent QC review
 
-Reviewer: `/root/ch08_qc`. Updated 2026-10-04. This reviewer is separate from the English author. Current state: source segmentation and native-audit record review are complete; all three English batches have been independently reviewed, with the first batch’s one concrete correction verified. The lexical ledger through the second batch and its proposed glossary rows have also been reviewed, including one corrected support-only scope clarification. All generated source notes have also been reviewed. Final lexical support and the assembled candidate have not yet been reviewed. Chapter-wide coverage and disposition remain **undetermined**. This report gives no chapter clearance.
+Reviewer: `/root/ch08_qc`. Updated 2026-10-04. This reviewer is separate from the English author. Final review coverage is **complete** for all 107 pairs / 284 fixed objects, all 421 reader notes, all recorded lexical support and the exact assembled candidate. Disposition: **ready_with_explicit_review_flags**. There are no open concrete correction blockers. Q08-001, the single English correction, and Q08-L001, the support-only clarification, are corrected and verified. Forty-six pairs remain explicitly unresolved and all 172 glossary proposals remain inactive. This is independent agent review of a working draft, not formal release or human or automated semantic certification. Earlier pending statements below record the sequence of finite reviews and are superseded by the final sections.
 
 ## Authority and finite scope
 
@@ -16,11 +16,11 @@ The eighteen named items S1939–S1948 and the subsequent groups 2+2+2+2+4+3+2 p
 
 Closing boundaries are substantive: S2034–S2035 are the chapter colophon; S2036–S2045 continue the narrative; S2046–S2048 close the work; S2049–S2050 are source annotations by function and placement, not a claim that their type is smaller; S2051–S2053 retain all three blessings. The missing electronic page marker 536 is not evidence of missing source text. All locally untranscribed smaller explanations must remain separate from the translated root and receive the required apparatus.
 
-## Pending review and limits
+## Review sequence and limits
 
-Each frozen English batch will be checked independently against its complete source and authored notes. Subsequent passes must cover every native-audit record and locator, every lexical record and all eight columns of every proposed glossary row, all rendered source notes and generated outputs, and the exact final manifest binding. Findings will distinguish concrete correction blockers from explicitly preserved reading or terminology questions.
+Each frozen English batch was checked independently against its complete source and authored notes. Subsequent passes covered every native-audit record and locator, every lexical record and all eight columns of every proposed glossary row, all rendered source notes and generated outputs, and the exact final manifest binding. Findings distinguish concrete correction blockers from explicitly preserved reading or terminology questions.
 
-No native images have been independently reinspected by this QC reviewer at this preparation stage. The standard's thirty semantic fixtures were read but not newly executed. No automated semantic certification, independent human certification, complete multi-layer scan proofreading, full commentary transcription or exhaustive witness collation is claimed.
+No native images were independently reinspected by this QC reviewer. The standard's thirty semantic fixtures were read but not newly executed. No automated semantic certification, independent human certification, complete multi-layer scan proofreading, full commentary transcription or exhaustive witness collation is claimed.
 
 ## Frozen source segmentation
 
@@ -105,3 +105,38 @@ I read all 46 generated golden notes, including all fixed and corrected source q
 No generated-note correction blocker was identified. In particular, notes MTP-AUDIT-C08-199 and -297 are attached to pair 626 / S1937 and disclose omitted compact `འི་རིམ` with unresolved root-versus-explanation allocation. Note -298 is attached to pair 637 / S1965 and discloses compact `གི` after `ཟློག` with the same allocation limit. These satisfy the reader-disclosure checks left pending in the second English review without silently changing the fixed source. The S1792 larger-type genitive difference, S1825 missing member, both citta initial-consonant uncertainties, S1998 `ཁྱེ`, S2037 ending conjunction, historical page-536 mismatch and all closing layer boundaries remain explicitly disclosed. Omitted smaller commentary is inventoried, not presented as transcribed or translated.
 
 Read-only checks confirmed all 421 note definitions, maps, body references, exact note-to-pair attachments, source scopes and status-note bindings. The 46 golden notes account for all fourteen change/layer records and 41 inherited uncertainty statements; every quoted field and all 32 cited golden-evidence links match the recorded inputs and local byte identities. All 306 native notes retain their sealed explanations, English consequences, source allocations, supplied reading fields and every recorded evidence locator, link, printed-page/image label and local hash. The expanded audit contract already includes the inherited golden obligations: its 361 required obligations each occur exactly once in the note map and are covered by the 352 source notes. The overall 421 notes additionally include 69 author notes; note count is distinct from source-obligation count. These checks passed; they establish preservation and traceability, not independent human or automated semantic certification. Final lexical reconciliation and assembled reader-output/manifest review remain pending.
+
+
+## Final lexical support review
+
+I read every field of all 100 new records T08-U208–T08-U307 and all eight columns of each of the 42 new and 29 modified glossary proposals. Together with the two preceding complete finite reviews and preserved-row comparisons, this covers all 307 usage records / 489 recorded source loci and all 172 proposed rows. The inventory comprises 216 provisional records / 329 loci and 91 grammatical records / 160 loci. Scope is the complete 284-object chapter, all 107 pairs and all 69 author notes. This is review of the complete recorded support inventory, not exhaustive token alignment; routine canonical repetitions and ordinary obvious vocabulary remain outside that inventory.
+
+Final usage SHA-256: `b0976eca20e12b8f0696f367073251656e4ec470ffad66fb1e66fb94a149b002`. Final proposals SHA-256: `d2a8453b7ee20eb97e1fdd1cb1fe5234cd8360fe29885c03333b85e68e930ac2`. The recorded English review hash matches the preserved complete author draft, `29e125260b83b5fc744ac56878b9ce5c1f3b287ea1b93f0b0cea8ffe868154f8`. I verified all original 207 records and 101 unchanged proposal rows against the earlier reviewed state. The corrected proposal baseline was reconstructed from checkpoint `426a795` using only the already verified Q08-L001 sentence replacement; its bytes reproduce SHA-256 `5d123ef676bb5b39891a37579fe4351b1fcee05004e4ac2abdf385264ca3a306`. The final inventory preserves that correction. The actual changed/new headword sets exactly match the supplied finite delta.
+
+No additional concrete lexical correction blocker was identified. The final records preserve the separate root/channel forms, the two and three mother/child contexts, citta and standalone `ཐུགས` uncertainty, exact confidence spelling, the three blessings, and the source's plural petitioners followed by singular me. Fruit beside canonical result and the six exact textual-reference/title/corpus loci using tantra remain explicitly scoped proposals. Other continuum usages remain intact. None of these records approves a canonical glossary amendment or supplies an English equivalent for retained unresolved Tibetan.
+
+Integrated read-only checks passed for all 489 exact source spans, pair membership, actual body-note references and mapped source scopes; all canonical and comparison heads; all 172 exact eight-column schemas and inactive statuses; and every proposal's complete source/note reference sets against its associated provisional records. No lexical input was edited by this reviewer.
+
+
+## Assembled candidate and exact output binding
+
+The reviewed build manifest is SHA-256 `f6ea186a1450eb178679622bab9d1ac3b3f97c531214ce6ea22f4856e47e3d8e`. I independently recomputed and matched all 36 bound input hashes and all four output hashes. Source and annotated English remain the exact files reviewed above; the complete author archive, lexical support, source and audit seals, evidence images, standard and glossary retain their recorded identities.
+
+Every one of the 107 machine pair records matches its complete source-object data, source and English bodies, source allocation, role, format, status, reason and note list. Every reader pair, after removing only its documented role display and verse hard-break formatting, equals the reviewed English body exactly. Every bilingual pair contains the exact reviewed Tibetan and English in order. All 421 complete endnotes are projected exactly into both Markdown readers and the machine export; the machine note map equals the reviewed map. All 107 archived author bodies remain unchanged after removing only the subsequently added source-note references, and all 69 author-note definitions are unchanged. Thus the earlier complete body and note reading applies to these exact projections; no new semantic claim is inferred from a successful comparison.
+
+The coverage output agrees with 107 pairs, 284 source objects, 83 verse pairs / 248 verse lines, 24 prose pairs, 44 translated pairs, 46 unresolved pairs and seventeen nontranslatable metadata pairs. All 361 required source obligations are present exactly once in the note map, with none remaining. Closing narrative, both colophons, both source notices and all three blessings survive the projections, with source-layer labels retained. The output claim fields expressly deny automated semantic and independent human certification.
+
+The canonical whole-book paired source and English are exact ordered concatenations of the eight chapter files, with all 674 pairs, all 2,053 fixed source IDs in order exactly once, and all 2,597 complete chapter note definitions preserved. This is whole-book correspondence checking, not a new semantic review of chapters 1–7.
+
+| Output | SHA-256 |
+| --- | --- |
+| `reading.md` | `4d5217e82d97725d4c8ce39294b00f37e5ddb16199a15252c2cc7f894442dce0` |
+| `bilingual.md` | `fde99575e7ea7ef7b3b98272d116abe78c786c733b6a3a219fbe6f12034b5c9c` |
+| `machine.json` | `373de7a486cf191c3283b2a23845494f8e6d8186ac41b17325d98a9b9287fe14` |
+| `coverage.json` | `e9ed6cee58f570ac51d0e68b97343ffcc3ce5f1c1c7b29c09306e46cda74420f` |
+
+## Final disposition
+
+Coverage: **complete**. Disposition: **ready_with_explicit_review_flags**. Open concrete correction blockers: **none**. The two recorded findings are closed: Q08-001 is the English instrumental/qualificatory correction, and Q08-L001 is the support-only three-core scope clarification. Source uncertainties, forty-six unresolved pair constructions, the seven native uncertain readings, omitted smaller commentary, tentative title identifications and all inactive terminology proposals remain visible review limitations. Completion here means complete working-draft coverage and review of the recorded chapter artifacts; it does not mean those questions are settled.
+
+This disposition binds only the exact manifest and files identified above. It permits the coordinator to record the corresponding working-draft review and signoff. It does not itself create a formal release, a human review receipt, an authoritative glossary approval, a full commentary translation, exhaustive source collation or semantic certification.

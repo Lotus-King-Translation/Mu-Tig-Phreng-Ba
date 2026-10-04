@@ -1,38 +1,19 @@
-# Current work — final chapter fully drafted
+# Current state — all eight working translations complete
 
-Updated 2026-10-04. Chapter 8 now has complete English, independently reviewed and saved at `30289f701fa9359dc736e5a65882b41814531050`, fetched and verified on remote main. All 107 pairs / 284 fixed objects / 248 verse lines and 69 translator notes are represented. Statuses: 44 translated, 46 locally unresolved and seventeen metadata pairs. No chapters or source objects remain to draft; representation includes explicit uncertainty and is not an accuracy measure. The fixed source and canonical glossary remain unchanged.
+Updated 2026-10-04. No chapters remain to draft. Canonical Tibetan and English cover all 2,053 fixed source objects in 674 matching pairs. Representation includes explicitly unresolved material and nontranslatable metadata; these counts do not measure accuracy or complete decipherment.
 
-One English construction correction (Q08-001) and one support-only proposal-scope clarification (Q08-L001) are closed. Lexical support is complete and frozen (307 records / 489 loci / 172 inactive proposals); final independent review is in progress. Native comparison covers eighteen allocated images, with 284 checks / 306 findings and 361 source obligations. All image identities and frozen source bindings pass. All 140 affected structural tests passed their first complete runs; no semantic fixtures were newly executed.
+Chapter 8 is complete as a signed independently reviewed annotated working candidate: 284 objects / 107 pairs / 248 verse lines, 421 locally linked notes and all 361 source obligations. It includes both colophons, the closing narrative, two source notices and all three blessings. Forty-six pairs remain explicitly unresolved. One English correction and one support-only clarification are closed; no concrete correction blocker remains. The lexical ledger has 307 records / 489 exact source loci and 172 inactive eight-column proposals. The fixed golden source and canonical glossary are unchanged.
 
-The reviewed author draft is now archived exactly and all source apparatus has passed independent review: 421 notes (69 translator, 46 golden-history, 306 native) cover all 361 obligations exactly once. No English body or original translator note changed. Canonical English is now assembled through all 2,053 objects / 674 pairs. The complete annotated build and root read-only reproduction pass at manifest `f6ea186a1450eb178679622bab9d1ac3b3f97c531214ce6ea22f4856e47e3d8e`. Independent final lexical/output/manifest and structural reviews are in progress; coordinator signoff is still pending. Formal releases and chapter 4 recovery remain separate open work; no source, prior chapter, strict release gate or canonical terminology is changed. Full commentary translation, complete multi-layer proofreading, exhaustive witness collation and independent human certification are not claimed.
+Candidate: `Final signed candidate is being preserved; exact commit will be recorded in the following globals-only checkpoint.`. Build manifest: `f6ea186a1450eb178679622bab9d1ac3b3f97c531214ce6ea22f4856e47e3d8e`. See [chapter 8 reading](translations/chapters/08/reading.md), [bilingual reading](translations/chapters/08/bilingual.md), [independent QC](translations/chapters/08/QC.md), [final review](translations/chapters/08/FINAL-REVIEW.md) and [handoff](translations/HANDOFF.md).
 
-## Preserved chapter 7 checkpoint
+All eighteen allocated native images 530–547 were compared; evidence identities match the registered archive. Reproducible build, independent structural verification, signed-content check and read-only working validation pass. All 140 affected structural tests passed their first complete runs. The thirty semantic fixtures were not newly executed. Full commentary translation, complete multi-layer scan proofreading, exhaustive witness collation and independent human certification are not claimed.
 
+## Preserved state and remaining work
 
-- Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: Chapter 7 signed reviewed working candidate complete; preserved and verified on GitHub.
-- Repository: created from Lotus-King-Translation/tibetan-text-project-template.
-- Discovery streams: 3/3 bounded surveys completed: BDRC, external catalogues, electronic texts/translations.
-- Registered source/research records: 43, including unresolved leads and reference works.
-- Acquired facsimile manifestations: 12; image pages: 1,122.
-- Acquired electronic renditions: 2, both in one Valby/Adzom transcription family.
-- Governing witness: Adzom1973–77 W1KG892/I1KG895. Golden chapter releases: 8/8. Fixed English releases: 1/8.
-- Golden source: 2,053 anchors; 183 decisions; 102 targeted checks; 30 changed passages; zero restorations. Golden editorial/source queues are closed.
-- Canonical source covers 567 pairs / 1,769 objects through chapter 7; English represents 567 pairs / 1,769 objects through chapter 7, with 284 objects remaining. Representation includes unresolved and nontranslatable metadata; it is not an accuracy measure.
-- Main-text Adzom comparison covers chapters 1–7, with explicitly unresolved source-layer readings retained. Signed independent agent QC is preserved for chapters 1–3 and 5–7. Chapter 4 retains its complete unsigned saved draft. Exhaustive witness collation and independent human certification have not been performed.
+Seven chapters have signed content packages (1, 2, 3, 5, 6, 7, 8); chapter 4 retains its complete unsigned saved 396-note draft at `730921898da3e3328bb42d97abea7672bf44afcd`. Its lost final 397-note revision and final lexical/QC/signoff package have not been recreated. All prior chapter files and bound inputs remain unchanged.
 
-## Current deliverables and review
+Chapter 1 remains the sole actual fixed English release. Genuine later annotated tags and publication receipts remain pending, and strict final/aggregate gates still reject missing prior publication. Working-content signoff does not waive those gates. Separate finite work remains for formal publication and chapter 4 recovery/review; there is no next chapter.
 
-Signed chapter 7 candidate: `e40041ace3efe51bf2aa205a092c7d117011514a`, fetched and verified on remote main with a clean checkout.
+The fixed whole-book Tibetan release is `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`: eight golden chapter releases, 2,053 anchors, 183 decisions, 102 targeted checks, thirty changed passages and zero restorations. Source editorial queues are closed. Discovery retains 43 source/research records, twelve acquired facsimile manifestations / 1,122 pages and two electronic renditions in one transcription family. See `editions/INTEGRITY-RESULT.json`, `editions/VALIDATION.md` and `diplomatic/publication/golden-v1.json`.
 
-Chapter 7 is complete as a signed independently reviewed annotated working candidate: 342 fixed objects / 115 pairs / 321 verse lines, 373 notes and all 304 source obligations. All nineteen allocated native images were compared. The complete terminology ledger contains 250 records / 478 exact loci and 183 inactive proposals. Two substantive review corrections are closed; 45 locally unresolved pairs remain explicit. Final manifest: `288560e60dfbb38e73991311599f47fd55a7d9046bf747299311dec1ed84b8f9`. Reproducible build, independent structural review, signed-content gate and read-only working validation pass. All 124 distinct affected structural tests passed across documented runs and reruns; the thirty semantic fixtures were not newly executed. See [translation handoff](translations/HANDOFF.md) and [chapter 7 reading](translations/chapters/07/reading.md).
-
-Signed chapter 2,3,5,6 candidates remain unchanged, including chapter 6 at `a02f8c79a31c561c1888495b4178bfa7c25eda45`. Chapter 4's complete unsigned 396-note snapshot at `730921898da3e3328bb42d97abea7672bf44afcd` remains exact; its lost final 397-note revision and lexical/QC/signoff package have not been recreated. Chapter 1 remains the sole fixed English release. Genuine later annotated tags and publication receipts remain pending; strict publication gates are unchanged.
-
-Source deliverables include catalogue, source register, archival scans and lossless PDFs, provenance, rights records, hashes and acquisition scripts. Each facsimile passed image/PDF pixel-identity checks. See `editions/INTEGRITY-RESULT.json` and `editions/VALIDATION.md`. The fixed whole-book golden release is `golden-v1`, with receipt `diplomatic/publication/golden-v1.json`; see [golden reading](golden/reading.md) and [coverage](golden/coverage.json).
-
-## Open work
-
-The user's chapter 8 continuation is recorded in DECISIONS.md. Its final 80 objects remain to draft; complete lexical and annotated-output review is still pending. Genuine formal publication and chapter 4 recovery remain separate open tasks. Full commentary translation, complete multi-layer scan proofreading and exhaustive witness collation are not claimed.
-
-Research leads remain: eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtang:84,85), two Degé-family scan mappings, authorized restricted/preview access, Rýznar's five-witness thesis, Wilkinson's Tibetan basis and Gangtey labels. No correspondence or purchase has been initiated. These are documented leads, not acquired independent witnesses or presumed missing text.
+Research leads remain: eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtang:84,85), two Degé-family scan mappings, authorized restricted/preview access, Rýznar's five-witness thesis, Wilkinson's Tibetan basis and Gangtey labels. No correspondence or purchase was initiated. These are leads, not acquired independent witnesses or presumed missing text.
