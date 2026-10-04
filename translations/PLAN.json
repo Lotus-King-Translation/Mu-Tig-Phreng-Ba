@@ -174,7 +174,7 @@
   "chapter_candidates_complete": 6,
   "publication_blocker": "GitHub connector can preserve commits but exposes no annotated-tag creation; prior authenticated remote-terminal attempt returned no usable output. Genuine prior publication receipts remain missing; strict gates are unchanged.",
   "source_objects_released": 97,
-  "next_finite_task": "Preserve and verify final chapter7 candidate on GitHub. Then satisfy genuine publication gates or establish an explicit chapter8 continuation for284 fixed objects; chapter4 recovery remains separate.",
+  "next_finite_task": "Satisfy genuine publication gates or establish an explicit chapter8 continuation for284 fixed objects; chapter4 recovery remains separate.",
   "chapter_3_state": "Signed reviewed working candidate:34pairs/120objects/165notes;142/142source obligations;105usage records/252occurrences/65proposals;24translated/2locallyunresolved/8metadata; independent QC and reproducible draft-candidate validation passed. Strict final release remains blocked by genuine prior publication.",
   "count_semantics": "Representation counts include explicitly unresolved and nontranslatable metadata objects; they do not measure accuracy or complete decipherment.",
   "chapter_4_state": "Complete saved unsigned annotated draft at730921898da3e3328bb42d97abea7672bf44afcd:86pairs/294objects/396notes;337source obligations;fiveunresolvedpairs. Final397-note revision,finallexicalrecords,reportsand signoff were not committed and local files were pruned. Preserve saved snapshot unchanged.",
@@ -215,5 +215,6 @@
   "chapter_7_build_manifest_sha256": "288560e60dfbb38e73991311599f47fd55a7d9046bf747299311dec1ed84b8f9",
   "chapter_7_endnotes": 373,
   "chapter_7_unresolved_pairs": 45,
-  "chapter_8_started": false
+  "chapter_8_started": false,
+  "chapter_7_candidate_commit": "e40041ace3efe51bf2aa205a092c7d117011514a"
 }

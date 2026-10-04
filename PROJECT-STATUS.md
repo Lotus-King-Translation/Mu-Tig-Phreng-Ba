@@ -1,7 +1,7 @@
 # Project status — 2026-10-04
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: Chapter 7 signed reviewed working candidate complete; final GitHub preservation underway.
+- Phase: Chapter 7 signed reviewed working candidate complete; preserved and verified on GitHub.
 - Repository: created from Lotus-King-Translation/tibetan-text-project-template.
 - Discovery streams: 3/3 bounded surveys completed: BDRC, external catalogues, electronic texts/translations.
 - Registered source/research records: 43, including unresolved leads and reference works.
@@ -13,6 +13,8 @@
 - Main-text Adzom comparison covers chapters 1–7, with explicitly unresolved source-layer readings retained. Signed independent agent QC is preserved for chapters 1–3 and 5–7. Chapter 4 retains its complete unsigned saved draft. Exhaustive witness collation and independent human certification have not been performed.
 
 ## Current deliverables and review
+
+Signed chapter 7 candidate: `e40041ace3efe51bf2aa205a092c7d117011514a`, fetched and verified on remote main with a clean checkout.
 
 Chapter 7 is complete as an signed independently reviewed annotated working candidate: 342 fixed objects / 115 pairs / 321 verse lines, 373 notes and all 304 source obligations. All nineteen allocated native images were compared. The complete terminology ledger contains 250 records / 478 exact loci and 183 inactive proposals. Two substantive review corrections are closed; 45 locally unresolved pairs remain explicit. Final manifest: `288560e60dfbb38e73991311599f47fd55a7d9046bf747299311dec1ed84b8f9`. Reproducible build, independent structural review, signed-content gate and read-only working validation pass. All 124 distinct affected structural tests passed across documented runs and reruns; the thirty semantic fixtures were not newly executed. See [translation handoff](translations/HANDOFF.md) and [chapter 7 reading](translations/chapters/07/reading.md).
 

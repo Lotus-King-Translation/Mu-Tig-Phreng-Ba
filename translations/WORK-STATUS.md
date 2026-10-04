@@ -1,6 +1,6 @@
 # Translation work status — 2026-10-04
 
-The bounded chapter 7 working continuation is complete: 342 source objects / 115 pairs, 321 verse lines, 373 notes and all 304 source obligations. Its statuses are 51 translated / 45 locally unresolved / 19 metadata. All nineteen allocated native pages were compared; one spelling difference and four uncertain source-layer objects remain disclosed. No chapter object or required note obligation remains unrepresented.
+The signed chapter 7 candidate is preserved at `e40041ace3efe51bf2aa205a092c7d117011514a`, fetched and verified on remote main with a clean checkout. The bounded continuation is complete: 342 source objects / 115 pairs, 321 verse lines, 373 notes and all 304 source obligations. Its statuses are 51 translated / 45 locally unresolved / 19 metadata. All nineteen allocated native pages were compared; one spelling difference and four uncertain source-layer objects remain disclosed. No chapter object or required note obligation remains unrepresented.
 
 Independent content review, author self-check, complete apparatus and lexical reconciliation are finished with no concrete correction blocker. Two substantive review corrections and one endnote-format correction are recorded. The ledger has 250 records / 478 exact loci and 183 inactive eight-column proposals. The fixed source and canonical glossary are unchanged.
 

@@ -1,6 +1,6 @@
 # Translation handoff — chapter 7 reviewed working candidate
 
-Updated 2026-10-04. The user's “go on” instruction has been completed for the bounded chapter 7 continuation. Source remains fixed `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Final manifest SHA-256: `288560e60dfbb38e73991311599f47fd55a7d9046bf747299311dec1ed84b8f9`. Final candidate commit will be recorded after remote verification. Chapter 8 has not started.
+Updated 2026-10-04. The user's “go on” instruction has been completed for the bounded chapter 7 continuation. Source remains fixed `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Final manifest SHA-256: `288560e60dfbb38e73991311599f47fd55a7d9046bf747299311dec1ed84b8f9`. Signed candidate commit: `e40041ace3efe51bf2aa205a092c7d117011514a`, fetched and verified on remote main with a clean checkout. Chapter 8 has not started.
 
 ## Completed scope and deliverables
 
