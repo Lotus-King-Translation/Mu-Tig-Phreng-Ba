@@ -441,6 +441,170 @@ If [you] know the continuum that is like the heart,[^T08-046]
 
 it is like firmly fitting a door to it.[^T08-046]
 
+<!-- pair: MTP-000643 -->
+
+If [you] know the secret continuum [རང་གཞུང: construction unresolved],
+it is like surrounding the perimeter with an iron wall.[^T08-047]
+
+<!-- pair: MTP-000644 -->
+
+If [you] know the continuum that is like a weapon,
+it is like an armored guardian of the gate.[^T08-048]
+
+<!-- pair: MTP-000645 -->
+
+Ah! Since all continua in that way
+are supremely great wonders,
+all their meanings are to be explained.[^T08-049]
+
+<!-- pair: MTP-000646 -->
+
+Further, the sequence of continua:
+the two root continua
+explain all phenomena as one.[^T08-049]
+
+<!-- pair: MTP-000647 -->
+
+The two explanatory continua, mother and child,
+explain in the manner of leaves spreading.[^T08-049]
+
+<!-- pair: MTP-000648 -->
+
+The two limb continua
+explain as planets and stars arising in an ocean.[^T08-049]
+
+<!-- pair: MTP-000649 -->
+
+The two continua that make transmitted teaching and awareness clear
+explain in the manner of flowers opening.[^T08-049][^T08-050]
+
+<!-- pair: MTP-000650 -->
+
+The four continua of the pith-instruction class[^T08-049][^T08-051]
+
+<!-- pair: MTP-000651 -->
+
+[Printed page 534.]
+
+<!-- pair: MTP-000652 -->
+
+explain in the manner of fruit ripening.[^T08-049][^T08-051]
+
+<!-- pair: MTP-000653 -->
+
+The three continua of enlightened intent abiding in itself
+explain in the manner of eyes that see.[^T08-049][^T08-052]
+
+<!-- pair: MTP-000654 -->
+
+The two continua of entry and self-liberation
+explain in the manner of the heart, the Ground of mindfulness.[^T08-049][^T08-053]
+
+<!-- pair: MTP-000655 -->
+
+The continuum of the learned one’s ritual
+explains like [མེ་ལ་ཚེ་བྱེད་པའི་ཁྱེ: construction unresolved].[^T08-049][^T08-054]
+
+<!-- pair: MTP-000656 -->
+
+Thus, through all continua, all of them,
+the meaning is explained most clearly.
+Through distinguishing the essence of the summation,
+[one] attains the intrinsic nature of all buddhas.
+That is how [it] is to be put into words.”[^T08-055]
+
+<!-- pair: MTP-000657 -->
+
+Then the holders of the vajra,
+through the secret continua being distinguished,
+had an ordinary mind of joy, delight and satisfaction arise;
+joining their palms to Vajradhara,
+they earnestly petitioned in these words:[^T08-056]
+
+<!-- pair: MTP-000658 -->
+
+[Printed page 535.]
+
+<!-- pair: MTP-000659 -->
+
+“O, sixth Vajradhara,
+if the sequence of all continua is like that,
+also for sentient beings to come,
+of [what] becomes one through summing all continua,
+having drawn together the entire core,
+how should [this] be taught to sentient beings?
+Vajradhara, speak to me.”[^T08-057]
+
+<!-- pair: MTP-000660 -->
+
+Then the teacher solemnly spoke:[^T08-058]
+
+<!-- pair: MTP-000661 -->
+
+“All that is to be expressed, however [it is expressed],
+though it amounts merely to enumeration,
+draw the summary into profound meaning.[^T08-058]
+
+<!-- pair: MTP-000662 -->
+
+Although the natural state cannot be encompassed by reflection,
+[it] is three aspects of primordial knowing.[^T08-059]
+
+<!-- pair: MTP-000663 -->
+
+Although many aspects of the Ground of delusion are explained,
+[it is] spontaneous presence and compassionate responsiveness.[^T08-059]
+
+<!-- pair: MTP-000664 -->
+
+Self-abiding embodiment, awareness and primordial knowing;
+abiding: [ཐུགས: unresolved], the center of citta.
+The path is four channels; wind causes movement.
+The four gates that make [it] arise are eyes and so forth.[^T08-060]
+
+<!-- pair: MTP-000665 -->
+
+Space, free from conditions, is gathered as the object.
+Taking into practice is Cutting Through and Leapover.
+The measure is the yoga of the four confidences itself.[^T08-061]
+
+<!-- pair: MTP-000666 -->
+
+Through joining the two, mother and child, in the intermediate state,
+the very place of liberation is the beginning.”[^T08-062]
+
+<!-- pair: MTP-000667 -->
+
+Thus, from the precious tantra String of Pearls, the eighth chapter, teaching all continua gathered together.[^T08-063]
+
+<!-- pair: MTP-000668 -->
+
+When awareness without ordinary mind had spoken in those words, awareness, the sharp vajra, and so forth; the Tathāgatas of the five families;[^T08-064]
+
+<!-- pair: MTP-000669 -->
+
+[Printed page 537.]
+
+<!-- pair: MTP-000670 -->
+
+the wrathful ones of the three families; buddhas, Dharma and Saṅgha; deities and asuras; immeasurable ḍākinīs; and the world together with gandharvas rejoiced and openly praised what the Bhagavān had said.[^T08-065]
+
+<!-- pair: MTP-000671 -->
+
+This, called the precious secret tantra String of Pearls, has been brought forth as a distinctive [work] among sixty-four groups of one hundred thousand tantras of intrinsic nature, Great Perfection. Complete.[^T08-066]
+
+<!-- pair: MTP-000672 -->
+
+[Source annotation.] There is a commentary on the String of Pearls tantra called “Making Clear.”[^T08-067]
+
+<!-- pair: MTP-000673 -->
+
+[Source annotation.] For the String of Pearls tantra: mother and child—three [grouping unresolved].[^T08-068]
+
+<!-- pair: MTP-000674 -->
+
+Virtue! Virtue! Virtue![^T08-069]
+
 <!-- endnotes -->
 
 [^T08-001]: Location: golden-v1 S1771–S1778 and S1868, printed520 and526. The uncovered title forms རྡོ་རྗེ་འཛིན་པ / རྡོ་རྗེ་འཛིན are provisionally “holder of the vajra,” རྡོ་རྗེ་འཆང “Vajradhara,” སྟོན་པ “teacher,” བཅོམ་ལྡན་འདས “Bhagavān,” and སངས་རྒྱས “buddha.” S1773 has the shorter exact རྡོ་རྗེ་སེམས, provisionally taken as the name Vajrasattva; the missing དཔའ is not restored to the source. A literal vajra/ordinary-mind construction remains a possible reading of that shortened form. S1777 སྟོན་པས་གསུངས་པ་རྡོ་རྗེ་འཛིན is treated as teacher response followed by vocative, not as a reassigned speaker. Review the abbreviated name and these title boundaries; none establishes a general exception to ordinary mind or apprehending subject.
@@ -534,3 +698,49 @@ it is like firmly fitting a door to it.[^T08-046]
 [^T08-045]: Location: S1967–S1968, printed532. ཡན་ལག་རྒྱུད་ཆེན་གཉིས is provisionally “two great limb continua,” retaining the numeral and great without silently identifying particular subsidiary works. Exact བ་གམ remains visible as an unresolved architectural term; possibilities involving a projecting or upper building feature require a specific lexical decision. The source retains attachment and four faces, not an invented fourfold doctrinal schema. Review limb classification and the physical structure before resolving the architectural noun.
 
 [^T08-046]: Location: S1969–S1973, printed532–533. རྣལ་འབྱོར་གྲོལ་བའི is provisionally “yogic liberation,” leaving its possible practitioner-related genitive for review; standalone yoga/yogin and liberation usages remain proposed. The king is explicitly placed at the fortress summit. The next continuum is compared with སྙིང, provisionally heart, distinct from core སྙིང་པོ. Its conditional continues across the page marker into S1973, “firmly fitting a door to it.” The pronoun’s referent is left as it rather than resolved to the heart or a newly supplied building. Review both genitives and the cross-page simile.
+
+[^T08-047]: Location: S1974–S1975, printed533. Exact གསང་བ་རང་གཞུང་རྒྱུད retains secret and canonical continuum while རང་གཞུང remains in a construction marker. An own-text or own-system interpretation is possible but has not been established as the name of a particular work. མཐའ་མ / ལྕགས་རི are provisionally perimeter / iron wall in the fortress simile; the latter is a contextual enclosure reading of the iron/mountain expression, not an insertion of a named cosmological mountain. Review the compound and architectural sense.
+
+[^T08-048]: Location: S1976–S1977, printed533. མཚོན་ཆ is provisionally “weapon,” distinct from the earlier indicating vocabulary. Exact གོ་ཞུབ is provisionally “armor,” with its spelling preserved rather than silently normalized; སྒོ་བསྲུང is “guardian of the gate.” The possession relation in ལྡན་པའི is expressed as armored. Review these physical terms and their simile function before establishing any general technical mappings.
+
+[^T08-049]: Location: S1978–S1998, printed533–534. The classification retains the printed numbers: two root continua, two explanatory mother/child continua, two limb continua, two that clarify transmitted teaching and awareness, four in the pith-instruction class, three of self-abiding enlightened intent, and two of entry/self-liberation. The final learned-one/ritual category has no explicit numeral; no count of one or revised total is added to the Tibetan or main English. Root, explanatory and limb are provisional technical classifications. The repeated instrumental continuum phrases are grammatically rendered as the agents of “explain,” not as an unprinted human teacher. Mother and child at S1984 are retained as the two labels without importing catalog titles. The planetary/ocean and leaf/flower similes remain in source order. Canonical continuum remains active across the classification; these counts do not authorize a universal tantra exception. Review the classification boundaries and shared explanation function.
+
+[^T08-050]: Location: S1988–S1989, printed533. Exact ལུང་རིག་གསལ་བའི is provisionally “that make transmitted teaching and awareness clear,” retaining the canonical awareness component of the fixed spelling རིག. The source is not silently changed to རིགས or interpreted as an already approved reasoning term. A different lexicalized compound interpretation remains possible. The opening-flower simile is separate from the two continua. Review the compound boundary and active clarity construction.
+
+[^T08-051]: Location: S1990–S1992, printed533–534. མན་ངག་རྒྱུད་སྡེ་བཞི is provisionally “four continua of the pith-instruction class,” retaining the explicit four without assigning individual titles. The phrase continues across the electronic page marker into its predicate. At S1992 འབྲས་བུ is provisionally “fruit” in the botanical sequence of spreading leaves and opening flowers, beside canonical result; this local contextual use is inactive and does not replace result elsewhere. Ripening remains the action of the simile. Review the class/continuum relation and fruit use.
+
+[^T08-052]: Location: S1993–S1994, printed534. དགོངས་པ་རང་གནས is provisionally “enlightened intent abiding in itself,” keeping the complete canonical term and the abiding family. The reflexive relation and whether the phrase functions as a class-name remain open. The three continua are not merged with the three primordial knowings elsewhere. མཐོང་བྱེད་མིག is represented as eyes that see, preserving the seeing function. Review the reflexive modifier and classification.
+
+[^T08-053]: Location: S1995–S1996, printed534. འཇུག་པ་རང་གྲོལ is provisionally coordinated as “entry and self-liberation”; the source has no explicit conjunction, and a self-liberation-upon-entry or compound-title relation remains possible. Self-liberation remains the canonical whole expression. དྲན་གཞི་སྙིང is provisionally appositional as “the heart, the Ground of mindfulness,” keeping mindfulness and Ground while distinguishing heart from core སྙིང་པོ. Review both compact constructions without inserting a physiological explanation.
+
+[^T08-054]: Location: S1997–S1998, printed534. མཁས་པ་ཆོ་གའི་རྒྱུད is provisionally “the continuum of the learned one’s ritual”; the learned-one/ritual attachment remains open and no numeral is supplied. Exact མེ་ལ་ཚེ་བྱེད་པའི་ཁྱེ remains as an unresolved construction marker before the translated like/explains relation. Its fire, life/doing and final ཁྱེ components do not establish a responsible complete English simile. The inherited source uncertainty and MTP-AUDIT-C08-299 leave main-text versus smaller-note allocation around ཁྱེ uncertified. Review that layer boundary and grammar; do not silently repair the wording to a familiar fire simile.
+
+[^T08-055]: Location: S1999–S2003, printed534. རྒྱུད་ཀུན་ཐམས་ཅད retains the repeated totality as all continua, all of them. སྡོམ་པའི་ངོ་བོ is provisionally “essence of the summation” in the gathering/classification context; a restraint or other sense of the unlisted སྡོམ་པ is not established here. Canonical meaning, clarity, essence, intrinsic nature and attainment retain their identities. “[One]” and “[it]” disclose the implicit subjects of attaining and putting into words. Review the summation sense and concluding instruction force.
+
+[^T08-056]: Location: S2004–S2008, printed534–535. The plural རྡོ་རྗེ་འཛིན་པ་རྣམས is kept as holders of the vajra, and རྡོ་རྗེ་འཆང remains the local name Vajradhara. Exact དགའ་མགུ་རངས་པའི་སེམས preserves all three joy/delight/satisfaction descriptions and canonical ordinary mind; the collective singular is not silently replaced with generic hearts. ཐལ་སྦྱར is provisionally joining palms, and རབ་ཏུ་གསོལ is earnestly petitioning. Review the causal clause and collective ordinary-mind relation; the shift from plural petitioners to singular “me” in the following question is retained.
+
+[^T08-057]: Location: S2010–S2016, printed535. “Sixth Vajradhara” preserves the exact ordinal དྲུག་པ without adding a five-buddha explanation. སེམས་ཅན is provisionally the whole expression sentient beings; standalone ordinary mind remains unchanged. The future-beings phrase and later repeated sentient beings both remain. S2013–S2014 རྒྱུད་ཀུན་བསྡོམས་པས་གཅིག་གྱུར་པའི / སྙིང་པོ་ཐམས་ཅད་དྲིལ་ནས་ནི has a compressed genitive: “of [what] becomes one” links provisionally to the entire core. The subject of gathering and what is to be taught remain supplied/implicit. S2016 preserves singular me despite the preceding plural petitioners. Review that chain and question without harmonizing its number.
+
+[^T08-058]: Location: S2017–S2020, printed535. བཀའ་སྩལ་པ is locally represented as solemn speaking, not an independently established headword. Exact ཇི་ལྟར་བརྗོད་བྱ་ཐམས་ཅད་ཀུན is provisionally “all that is to be expressed, however [it is expressed]”; the repeated expressed phrase is an English grammatical supply for the manner clause. བགྲངས་པ་ཙམ་དུ་ཟད་མོད་ཀྱང is tentatively “though it amounts merely to enumeration,” retaining the limiting and concessive force. མདོ is provisionally summary in this gathering instruction, not an unmarked title sūtra. The corrected ཟབ་མོའི remains profound; canonical meaning is retained. Review enumeration scope and whether the final gathering is imperative or declarative.
+
+[^T08-059]: Location: S2021–S2024, printed535. བསམ is provisionally reflection; the natural state remains beyond its encompassing rather than silently called a different technical state. Three aspects of primordial knowing preserves the explicit number and complete canonical term without supplying their names. འཁྲུལ་གཞི is provisionally Ground of delusion, preserving both established components. The following spontaneous presence and compassionate responsiveness are retained as the source’s compressed response to many aspects, not expanded into a newly stated universal equation. Both “[it]” supplies and the scope of the two concessive clauses require review.
+
+[^T08-060]: Location: S2025–S2028, printed535–536; the final source line is on536 despite historical page hint535. རང་གནས་སྐུ་རིག་ཡེ་ཤེས is provisionally “self-abiding embodiment, awareness and primordial knowing”; its coordination or compound relation remains open. S2026 is exactly གནས་པ་ཐུགས་ཏེ་ཅིཏྟའི་དཀྱིལ. Abiding preserves གནས་པ; a place-of-abiding interpretation remains possible. Standalone ཐུགས stays unresolved and is not assigned ordinary mind, enlightened intent or compassionate responsiveness from neighboring glossary entries. Citta remains a transliteration of the fixed stacked form with native ca/tsa uncertainty; center is the provisional sense of དཀྱིལ, not an unprinted maṇḍala. The four channels, movement-causing wind and four appearance-causing gates remain explicit; “[it]” does not identify an unprinted object. Review the compressed residence/path/gate constructions and source-layer limits (MTP-AUDIT-C08-300).
+
+[^T08-061]: Location: S2029–S2031, actual printed536, historical page hint535. ནམ་མཁའ་རྐྱེན་བྲལ་ཡུལ་དུ་འདུས is provisionally “space, free from conditions, is gathered as the object”; the modifier and as-object relation remain open. ཉམས་བླངས is locally taking into practice, kept distinct from experiential acquaintance. Cutting Through and Leapover retain their whole-expression assignments; Cutting Through’s internal capitals are a consistent provisional presentation choice. Exact གདིང་བཞི differs in form from canonical གདེང་བཞི; the local four-confidences treatment is proposed, not a silent source correction. Measure and yoga are provisional senses of ཚད / རྣལ་འབྱོར. Review the object sentence and practice/measure relations.
+
+[^T08-062]: Location: S2032–S2033, actual printed536, historical page hint535. བར་དོ་མ་བུ་གཉིས་སྦྱོར་བས is provisionally joining the two, mother and child, in the intermediate state. The locative relation and mother/child referents remain open; no particular lights or awarenesses are inserted. གྲོལ་ས is provisionally place of liberation, not silently equated with a named stage or canonical Ground. The unusual predicate ཐོག་མ remains beginning and is not rewritten as a doctrinal goal. Review the referents, place sense and final identity statement.
+
+[^T08-063]: Location: S2034–S2035, actual printed536, historical page hint535. This is the chapter-eight colophon, separate from the following narrative. མུ་ཏིག་ཕྲེང་བ / རིན་པོ་ཆེ are provisionally String of Pearls / precious. The title occurrence of རྒྱུད is locally tantra, beside canonical continuum, while S2035’s all-continua gathering description retains the canonical term. The ordinal eighth and summing/teaching relation are preserved. Review the title usage and gathering attachment; neither the title convention nor prior chapter colophons approves a global glossary change.
+
+[^T08-064]: Location: S2036–S2038, actual printed536–537; historical page hint535 precedes the final metadata break. སེམས་མེད་པའི་རིག་པ remains awareness without ordinary mind, provisionally functioning as speaker. Exact རིག་པ་རྡོ་རྗེ་རྣོན་པོ་ལ་སོགས་པ is tentatively “awareness, the sharp vajra, and so forth,” preserving the appositional possibility without silently treating awareness as a generic personal name or omitting sharp. The native audit leaves the smaller explanation’s ending/attachment uncertain (MTP-AUDIT-C08-301); it is not used to complete the English list. Tathāgata and family remain local proposals, and five is explicit. The subject list continues across metadata into pair670, where rejoicing and praise supply the predicates. Review the name/apposition and list boundaries.
+
+[^T08-065]: Location: S2040–S2045, printed537. The closing subject list provisionally renders ཁྲོ་བོ wrathful ones, རིགས family, སངས་རྒྱས buddhas, ཆོས Dharma, དགེ་འདུན Saṅgha, ལྷ deities, ལྷ་མ་ཡིན asuras, མཁའ་འགྲོ་མ ḍākinīs, དྲི་ཟ gandharvas, and བཅོམ་ལྡན་འདས Bhagavān. These are uncovered names/contextual expressions, not activated glossary additions. Three families and immeasurable ḍākinīs remain explicit. འཇིག་རྟེན is locally world and ཡི་རང rejoicing; the list/world grouping is provisional. Praising what the Bhagavān said remains distinct from merely rejoicing. Review collective scope and title boundaries, without importing the omitted smaller explanations.
+
+[^T08-066]: Location: S2046–S2048, printed537. This work colophon is distinct from the chapter colophon and closing narrative. The title’s precious and secret modifiers are both present. Exact འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞི retains sixty-four groups of one hundred thousand; it is not replaced by a familiar alternative numeral or silently harmonized. ཁྱད་པར་དུ་ཕྱུང is provisionally “brought forth as a distinctive [work] among”; work and among expose the interpretation of the genitive/distinction relation. རང་བཞིན་རྫོགས་པ་ཆེན་པོ is tentatively intrinsic nature, Great Perfection, with attachment open. Both occurrences of རྒྱུད in this textual-title/corpus statement are locally tantra, an inactive contextual proposal beside canonical continuum. Smaller colophon explanation remains untranscribed and does not authorize arithmetic or syntax repair. Review the number’s referent, source relationship and intrinsic-nature attachment.
+
+[^T08-067]: Location: S2049, printed537. The fixed source classifies this post-completion notice as annotation/paratext, not a continuation of the root discourse. འགྲེལ་པ is provisionally commentary and its title གསལ་བྱེད “Making Clear,” preserving the clarity family through the causative construction without claiming an approved title equivalent. The named String of Pearls tantra uses the same explicitly provisional textual-title treatment. The existence statement is retained; no author, date or external work identification is supplied. Review the title and commentary relationship.
+
+[^T08-068]: Location: S2050, printed537. This second post-work notice is also annotation/paratext. Exact མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ལ་མ་བུ་གསུམ is represented with its title, mother, child and three, while the grouping remains explicitly unresolved. The fixed text does not settle whether it means a mother with two children, three mother/child groups, or another catalog relation. No full titles or missing participants are supplied. Tantra is the local inactive title usage beside canonical continuum. Review the numerical grouping and the relationship to the preceding commentary notice.
+
+[^T08-069]: Location: S2051–S2053, printed537. Three separate closing-colophon objects each read exactly དགེའོ. All three are retained as the provisional closing blessing “Virtue!” rather than collapsed to a single formula. This does not add an unprinted dedicatee, prayer or fourth blessing. Review the English blessing form; the threefold count and closing role are fixed.
