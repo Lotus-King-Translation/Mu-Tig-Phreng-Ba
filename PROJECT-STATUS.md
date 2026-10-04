@@ -2,7 +2,7 @@
 
 Updated 2026-10-04. The user explicitly requested the next chapter; chapter 8 is the final chapter. Its finite scope is 284 objects MTP-S001770–MTP-S002053, 107 frozen pairs MTP-000568–MTP-000674, and 18 native images 530–547. English drafting has not started. Native comparison is in progress; all 18 image identities match exact archive members and the registered manifest. Four previously unextracted native PNGs are preserved without alteration. Full scan proofreading and exhaustive witness collation are not claimed.
 
-The schema-6 working authorization and regression checks preserve every prior chapter snapshot and all strict release gates. Pipeline and aggregate suites pass; the full continuation suite is still running. Next finite task: generate and validate the frozen source, complete and seal native comparison, then translate and independently review finite batches. The 55 inherited source obligations and new audit findings must all receive local notes. See [translation handoff](translations/HANDOFF.md).
+The schema-6 working authorization and regression checks preserve every prior chapter snapshot and all strict release gates. Pipeline and aggregate suites pass; the full continuation suite is still running. The frozen source validates: all 284 chapter objects / 107 pairs are exact; canonical source now covers all 2,053 objects / 674 pairs. Next finite task: complete and seal native comparison, then translate and independently review finite batches. The 55 inherited source obligations and new audit findings must all receive local notes. See [translation handoff](translations/HANDOFF.md).
 
 ## Preserved chapter 7 checkpoint
 
