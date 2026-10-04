@@ -3,14 +3,18 @@
     "id": "MTP-000568",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-001",
+      "MTP-AUDIT-C08-002"
+    ]
   },
   {
     "id": "MTP-000569",
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-001"
+      "T08-001",
+      "MTP-AUDIT-C08-003"
     ]
   },
   {
@@ -19,7 +23,11 @@
     "reason": "S1773 abbreviated name/title remains a provisional whole-expression reading.",
     "note_ids": [
       "T08-001",
-      "T08-002"
+      "T08-002",
+      "MTP-AUDIT-C08-003",
+      "MTP-AUDIT-C08-004",
+      "MTP-AUDIT-C08-005",
+      "MTP-AUDIT-C08-006"
     ]
   },
   {
@@ -27,7 +35,9 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-001"
+      "T08-001",
+      "MTP-AUDIT-C08-003",
+      "MTP-AUDIT-C08-007"
     ]
   },
   {
@@ -36,21 +46,31 @@
     "reason": "S1779 compressed Ground/essence relation and following predicate remain provisional.",
     "note_ids": [
       "T08-001",
-      "T08-002"
+      "T08-002",
+      "MTP-AUDIT-C08-003",
+      "MTP-AUDIT-C08-008",
+      "MTP-AUDIT-C08-009",
+      "MTP-AUDIT-C08-012"
     ]
   },
   {
     "id": "MTP-000573",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-010",
+      "MTP-AUDIT-C08-011"
+    ]
   },
   {
     "id": "MTP-000574",
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-002"
+      "T08-002",
+      "MTP-AUDIT-C08-012",
+      "MTP-AUDIT-C08-013",
+      "MTP-AUDIT-C08-014"
     ]
   },
   {
@@ -58,7 +78,11 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-002"
+      "T08-002",
+      "MTP-AUDIT-C08-012",
+      "MTP-AUDIT-C08-015",
+      "MTP-AUDIT-C08-016",
+      "MTP-AUDIT-C08-017"
     ]
   },
   {
@@ -66,7 +90,9 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-002"
+      "T08-002",
+      "MTP-AUDIT-C08-012",
+      "MTP-AUDIT-C08-018"
     ]
   },
   {
@@ -74,7 +100,17 @@
     "status": "unresolved",
     "reason": "S1788 construction retained unresolved; S1786 causal relation and S1790 predication require review.",
     "note_ids": [
-      "T08-003"
+      "T08-003",
+      "MTP-AUDIT-C08-012",
+      "MTP-AUDIT-C08-019",
+      "MTP-AUDIT-C08-020",
+      "MTP-AUDIT-C08-021",
+      "MTP-AUDIT-C08-022",
+      "MTP-AUDIT-C08-023",
+      "MTP-AUDIT-C08-024",
+      "MTP-AUDIT-C08-025",
+      "MTP-AUDIT-C08-026",
+      "MTP-AUDIT-C08-027"
     ]
   },
   {
@@ -82,7 +118,13 @@
     "status": "unresolved",
     "reason": "Non-arising/mindfulness scope, supplied attachment and repeated dngos te construction remain unresolved.",
     "note_ids": [
-      "T08-004"
+      "T08-004",
+      "MTP-AUDIT-C08-012",
+      "MTP-AUDIT-C08-028",
+      "MTP-AUDIT-C08-029",
+      "MTP-AUDIT-C08-030",
+      "MTP-AUDIT-C08-031",
+      "MTP-AUDIT-C08-172"
     ]
   },
   {
@@ -90,21 +132,41 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-005"
+      "T08-005",
+      "MTP-AUDIT-C08-012",
+      "MTP-AUDIT-C08-032",
+      "MTP-AUDIT-C08-033",
+      "MTP-AUDIT-C08-034",
+      "MTP-AUDIT-C08-035",
+      "MTP-AUDIT-C08-036",
+      "MTP-AUDIT-C08-039",
+      "MTP-AUDIT-C08-040"
     ]
   },
   {
     "id": "MTP-000580",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-037",
+      "MTP-AUDIT-C08-038"
+    ]
   },
   {
     "id": "MTP-000581",
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-006"
+      "T08-006",
+      "MTP-AUDIT-C08-039",
+      "MTP-AUDIT-C08-041",
+      "MTP-AUDIT-C08-042",
+      "MTP-AUDIT-C08-043",
+      "MTP-AUDIT-C08-044",
+      "MTP-AUDIT-C08-045",
+      "MTP-AUDIT-C08-046",
+      "MTP-AUDIT-C08-047",
+      "MTP-AUDIT-C08-048"
     ]
   },
   {
@@ -112,7 +174,9 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-007"
+      "T08-007",
+      "MTP-AUDIT-C08-039",
+      "MTP-AUDIT-C08-049"
     ]
   },
   {
@@ -120,7 +184,10 @@
     "status": "unresolved",
     "reason": "S1808 turn-away/difference relation remains unresolved.",
     "note_ids": [
-      "T08-008"
+      "T08-008",
+      "MTP-AUDIT-C08-039",
+      "MTP-AUDIT-C08-050",
+      "MTP-AUDIT-C08-051"
     ]
   },
   {
@@ -128,7 +195,12 @@
     "status": "unresolved",
     "reason": "Source-form proposal and S1810 clarity attachment remain provisional.",
     "note_ids": [
-      "T08-009"
+      "T08-009",
+      "MTP-AUDIT-C08-039",
+      "MTP-AUDIT-C08-052",
+      "MTP-AUDIT-C08-053",
+      "MTP-AUDIT-C08-054",
+      "MTP-AUDIT-C08-055"
     ]
   },
   {
@@ -136,21 +208,34 @@
     "status": "unresolved",
     "reason": "Object-appearance adjective scope remains provisional.",
     "note_ids": [
-      "T08-010"
+      "T08-010",
+      "MTP-AUDIT-C08-039",
+      "MTP-AUDIT-C08-056",
+      "MTP-AUDIT-C08-057",
+      "MTP-AUDIT-C08-060",
+      "MTP-AUDIT-C08-061",
+      "MTP-AUDIT-C08-062"
     ]
   },
   {
     "id": "MTP-000586",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-058",
+      "MTP-AUDIT-C08-059"
+    ]
   },
   {
     "id": "MTP-000587",
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-011"
+      "T08-011",
+      "MTP-AUDIT-C08-060",
+      "MTP-AUDIT-C08-063",
+      "MTP-AUDIT-C08-064",
+      "MTP-AUDIT-C08-065"
     ]
   },
   {
@@ -158,7 +243,11 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-011"
+      "T08-011",
+      "MTP-AUDIT-C08-060",
+      "MTP-AUDIT-C08-066",
+      "MTP-AUDIT-C08-067",
+      "MTP-AUDIT-C08-068"
     ]
   },
   {
@@ -166,7 +255,14 @@
     "status": "unresolved",
     "reason": "S1825 repeated conjunction and apparent missing list member remain unresolved.",
     "note_ids": [
-      "T08-012"
+      "T08-012",
+      "CH08-G001823",
+      "CH08-G001825",
+      "MTP-AUDIT-C08-060",
+      "MTP-AUDIT-C08-069",
+      "MTP-AUDIT-C08-070",
+      "MTP-AUDIT-C08-071",
+      "MTP-AUDIT-C08-173"
     ]
   },
   {
@@ -174,21 +270,36 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-013"
+      "T08-013",
+      "CH08-G001826",
+      "MTP-AUDIT-C08-060",
+      "MTP-AUDIT-C08-072",
+      "MTP-AUDIT-C08-073",
+      "MTP-AUDIT-C08-074",
+      "MTP-AUDIT-C08-075",
+      "MTP-AUDIT-C08-078"
     ]
   },
   {
     "id": "MTP-000591",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-076",
+      "MTP-AUDIT-C08-077"
+    ]
   },
   {
     "id": "MTP-000592",
     "status": "unresolved",
     "reason": "S1830–S1831 reference and coordination remain open.",
     "note_ids": [
-      "T08-014"
+      "T08-014",
+      "MTP-AUDIT-C08-078",
+      "MTP-AUDIT-C08-079",
+      "MTP-AUDIT-C08-080",
+      "MTP-AUDIT-C08-081",
+      "MTP-AUDIT-C08-082"
     ]
   },
   {
@@ -196,7 +307,12 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-015"
+      "T08-015",
+      "MTP-AUDIT-C08-078",
+      "MTP-AUDIT-C08-083",
+      "MTP-AUDIT-C08-084",
+      "MTP-AUDIT-C08-085",
+      "MTP-AUDIT-C08-086"
     ]
   },
   {
@@ -204,7 +320,13 @@
     "status": "unresolved",
     "reason": "S1838 mindfulness-clearing construction remains provisional.",
     "note_ids": [
-      "T08-016"
+      "T08-016",
+      "MTP-AUDIT-C08-078",
+      "MTP-AUDIT-C08-087",
+      "MTP-AUDIT-C08-088",
+      "MTP-AUDIT-C08-089",
+      "MTP-AUDIT-C08-090",
+      "MTP-AUDIT-C08-091"
     ]
   },
   {
@@ -212,21 +334,38 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-017"
+      "T08-017",
+      "MTP-AUDIT-C08-078",
+      "MTP-AUDIT-C08-092",
+      "MTP-AUDIT-C08-093",
+      "MTP-AUDIT-C08-094",
+      "MTP-AUDIT-C08-097"
     ]
   },
   {
     "id": "MTP-000596",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-095",
+      "MTP-AUDIT-C08-096"
+    ]
   },
   {
     "id": "MTP-000597",
     "status": "unresolved",
     "reason": "Arising/element condition and paired compound scopes remain unresolved.",
     "note_ids": [
-      "T08-018"
+      "T08-018",
+      "MTP-AUDIT-C08-097",
+      "MTP-AUDIT-C08-098",
+      "MTP-AUDIT-C08-099",
+      "MTP-AUDIT-C08-100",
+      "MTP-AUDIT-C08-101",
+      "MTP-AUDIT-C08-102",
+      "MTP-AUDIT-C08-103",
+      "MTP-AUDIT-C08-104",
+      "MTP-AUDIT-C08-105"
     ]
   },
   {
@@ -234,7 +373,13 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-019"
+      "T08-019",
+      "MTP-AUDIT-C08-097",
+      "MTP-AUDIT-C08-106",
+      "MTP-AUDIT-C08-107",
+      "MTP-AUDIT-C08-108",
+      "MTP-AUDIT-C08-109",
+      "MTP-AUDIT-C08-110"
     ]
   },
   {
@@ -242,7 +387,10 @@
     "status": "unresolved",
     "reason": "Nested genitive and instructional/declarative force remain provisional.",
     "note_ids": [
-      "T08-020"
+      "T08-020",
+      "MTP-AUDIT-C08-097",
+      "MTP-AUDIT-C08-111",
+      "MTP-AUDIT-C08-112"
     ]
   },
   {
@@ -250,21 +398,41 @@
     "status": "unresolved",
     "reason": "S1853–S1858 agency, genitives and final modifier attachment remain unresolved.",
     "note_ids": [
-      "T08-021"
+      "T08-021",
+      "MTP-AUDIT-C08-097",
+      "MTP-AUDIT-C08-113",
+      "MTP-AUDIT-C08-114",
+      "MTP-AUDIT-C08-115",
+      "MTP-AUDIT-C08-116",
+      "MTP-AUDIT-C08-117",
+      "MTP-AUDIT-C08-118",
+      "MTP-AUDIT-C08-119",
+      "MTP-AUDIT-C08-120",
+      "MTP-AUDIT-C08-121",
+      "MTP-AUDIT-C08-124",
+      "MTP-AUDIT-C08-125"
     ]
   },
   {
     "id": "MTP-000601",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-122",
+      "MTP-AUDIT-C08-123"
+    ]
   },
   {
     "id": "MTP-000602",
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-022"
+      "T08-022",
+      "CH08-G001861",
+      "MTP-AUDIT-C08-124",
+      "MTP-AUDIT-C08-126",
+      "MTP-AUDIT-C08-127",
+      "MTP-AUDIT-C08-128"
     ]
   },
   {
@@ -273,7 +441,14 @@
     "reason": "Ground/triad scope and sole-state supply remain provisional.",
     "note_ids": [
       "T08-001",
-      "T08-023"
+      "T08-023",
+      "MTP-AUDIT-C08-124",
+      "MTP-AUDIT-C08-129",
+      "MTP-AUDIT-C08-130",
+      "MTP-AUDIT-C08-131",
+      "MTP-AUDIT-C08-132",
+      "MTP-AUDIT-C08-133",
+      "MTP-AUDIT-C08-134"
     ]
   },
   {
@@ -281,21 +456,37 @@
     "status": "unresolved",
     "reason": "Final exact rgyad retained unresolved; core/family and non-appearing clarity chains require review.",
     "note_ids": [
-      "T08-024"
+      "T08-024",
+      "CH08-G001873",
+      "MTP-AUDIT-C08-124",
+      "MTP-AUDIT-C08-135",
+      "MTP-AUDIT-C08-136",
+      "MTP-AUDIT-C08-137",
+      "MTP-AUDIT-C08-138",
+      "MTP-AUDIT-C08-141",
+      "MTP-AUDIT-C08-142"
     ]
   },
   {
     "id": "MTP-000605",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-139",
+      "MTP-AUDIT-C08-140"
+    ]
   },
   {
     "id": "MTP-000606",
     "status": "unresolved",
     "reason": "S1877 citta form and intrinsic-nature attachment remain unresolved.",
     "note_ids": [
-      "T08-025"
+      "T08-025",
+      "CH08-G001877",
+      "MTP-AUDIT-C08-141",
+      "MTP-AUDIT-C08-143",
+      "MTP-AUDIT-C08-144",
+      "MTP-AUDIT-C08-174"
     ]
   },
   {
@@ -303,7 +494,11 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-026"
+      "T08-026",
+      "MTP-AUDIT-C08-141",
+      "MTP-AUDIT-C08-145",
+      "MTP-AUDIT-C08-146",
+      "MTP-AUDIT-C08-147"
     ]
   },
   {
@@ -311,7 +506,14 @@
     "status": "unresolved",
     "reason": "S1882–S1886 genitive chain and bliss-secret scope remain provisional.",
     "note_ids": [
-      "T08-027"
+      "T08-027",
+      "MTP-AUDIT-C08-141",
+      "MTP-AUDIT-C08-148",
+      "MTP-AUDIT-C08-149",
+      "MTP-AUDIT-C08-150",
+      "MTP-AUDIT-C08-151",
+      "MTP-AUDIT-C08-152",
+      "MTP-AUDIT-C08-153"
     ]
   },
   {
@@ -319,21 +521,33 @@
     "status": "unresolved",
     "reason": "Flower qualification, self-awareness plurality and text-reference sense remain provisional.",
     "note_ids": [
-      "T08-028"
+      "T08-028",
+      "MTP-AUDIT-C08-141",
+      "MTP-AUDIT-C08-154",
+      "MTP-AUDIT-C08-155",
+      "MTP-AUDIT-C08-156",
+      "MTP-AUDIT-C08-157",
+      "MTP-AUDIT-C08-160",
+      "MTP-AUDIT-C08-161"
     ]
   },
   {
     "id": "MTP-000610",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-158",
+      "MTP-AUDIT-C08-159"
+    ]
   },
   {
     "id": "MTP-000611",
     "status": "unresolved",
     "reason": "Potential holding construction and apposition remain provisional.",
     "note_ids": [
-      "T08-029"
+      "T08-029",
+      "MTP-AUDIT-C08-160",
+      "MTP-AUDIT-C08-162"
     ]
   },
   {
@@ -341,7 +555,12 @@
     "status": "unresolved",
     "reason": "S1896–S1897 supplied predicate and instrumental scope remain provisional.",
     "note_ids": [
-      "T08-030"
+      "T08-030",
+      "CH08-G001896",
+      "MTP-AUDIT-C08-160",
+      "MTP-AUDIT-C08-163",
+      "MTP-AUDIT-C08-164",
+      "MTP-AUDIT-C08-165"
     ]
   },
   {
@@ -349,7 +568,10 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-031"
+      "T08-031",
+      "MTP-AUDIT-C08-160",
+      "MTP-AUDIT-C08-166",
+      "MTP-AUDIT-C08-167"
     ]
   },
   {
@@ -357,7 +579,10 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-032"
+      "T08-032",
+      "MTP-AUDIT-C08-160",
+      "MTP-AUDIT-C08-168",
+      "MTP-AUDIT-C08-169"
     ]
   },
   {
@@ -365,21 +590,34 @@
     "status": "unresolved",
     "reason": "First-path sequence and holding predicate remain provisional.",
     "note_ids": [
-      "T08-033"
+      "T08-033",
+      "CH08-G001903",
+      "MTP-AUDIT-C08-160",
+      "MTP-AUDIT-C08-170",
+      "MTP-AUDIT-C08-171",
+      "MTP-AUDIT-C08-175",
+      "MTP-AUDIT-C08-271"
     ]
   },
   {
     "id": "MTP-000616",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-270",
+      "MTP-AUDIT-C08-272"
+    ]
   },
   {
     "id": "MTP-000617",
     "status": "unresolved",
     "reason": "Intrinsic-nature settling relation remains provisional.",
     "note_ids": [
-      "T08-034"
+      "T08-034",
+      "MTP-AUDIT-C08-176",
+      "MTP-AUDIT-C08-177",
+      "MTP-AUDIT-C08-178",
+      "MTP-AUDIT-C08-271"
     ]
   },
   {
@@ -387,7 +625,13 @@
     "status": "unresolved",
     "reason": "Shared continuum labels and Ground/essence dependency remain provisional.",
     "note_ids": [
-      "T08-035"
+      "T08-035",
+      "MTP-AUDIT-C08-179",
+      "MTP-AUDIT-C08-180",
+      "MTP-AUDIT-C08-181",
+      "MTP-AUDIT-C08-182",
+      "MTP-AUDIT-C08-183",
+      "MTP-AUDIT-C08-271"
     ]
   },
   {
@@ -395,7 +639,12 @@
     "status": "unresolved",
     "reason": "Calling/appearance relationship relies on disclosed supplies.",
     "note_ids": [
-      "T08-036"
+      "T08-036",
+      "MTP-AUDIT-C08-184",
+      "MTP-AUDIT-C08-185",
+      "MTP-AUDIT-C08-186",
+      "MTP-AUDIT-C08-187",
+      "MTP-AUDIT-C08-271"
     ]
   },
   {
@@ -403,7 +652,9 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-037"
+      "T08-037",
+      "MTP-AUDIT-C08-188",
+      "MTP-AUDIT-C08-271"
     ]
   },
   {
@@ -412,14 +663,21 @@
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
       "T08-037",
-      "T08-038"
+      "T08-038",
+      "MTP-AUDIT-C08-189",
+      "MTP-AUDIT-C08-190",
+      "MTP-AUDIT-C08-271",
+      "MTP-AUDIT-C08-274"
     ]
   },
   {
     "id": "MTP-000622",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-273",
+      "MTP-AUDIT-C08-275"
+    ]
   },
   {
     "id": "MTP-000623",
@@ -427,7 +685,11 @@
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
       "T08-037",
-      "T08-038"
+      "T08-038",
+      "MTP-AUDIT-C08-191",
+      "MTP-AUDIT-C08-192",
+      "MTP-AUDIT-C08-193",
+      "MTP-AUDIT-C08-274"
     ]
   },
   {
@@ -436,7 +698,9 @@
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
       "T08-037",
-      "T08-038"
+      "T08-038",
+      "MTP-AUDIT-C08-194",
+      "MTP-AUDIT-C08-274"
     ]
   },
   {
@@ -445,7 +709,11 @@
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
       "T08-037",
-      "T08-038"
+      "T08-038",
+      "MTP-AUDIT-C08-195",
+      "MTP-AUDIT-C08-196",
+      "MTP-AUDIT-C08-197",
+      "MTP-AUDIT-C08-274"
     ]
   },
   {
@@ -453,7 +721,12 @@
     "status": "unresolved",
     "reason": "Exposition force, cutting-off attachment and unravelled-meaning action remain provisional.",
     "note_ids": [
-      "T08-039"
+      "T08-039",
+      "MTP-AUDIT-C08-198",
+      "MTP-AUDIT-C08-199",
+      "MTP-AUDIT-C08-200",
+      "MTP-AUDIT-C08-274",
+      "MTP-AUDIT-C08-297"
     ]
   },
   {
@@ -461,21 +734,44 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-040"
+      "T08-040",
+      "CH08-G001939",
+      "CH08-G001940",
+      "MTP-AUDIT-C08-201",
+      "MTP-AUDIT-C08-202",
+      "MTP-AUDIT-C08-274"
     ]
   },
   {
     "id": "MTP-000628",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-276",
+      "MTP-AUDIT-C08-278"
+    ]
   },
   {
     "id": "MTP-000629",
     "status": "unresolved",
     "reason": "Exact gsal shing and rgyal pos title forms remain unresolved.",
     "note_ids": [
-      "T08-040"
+      "T08-040",
+      "CH08-G001942",
+      "CH08-G001943",
+      "CH08-G001944",
+      "CH08-G001945",
+      "CH08-G001946",
+      "CH08-G001947",
+      "CH08-G001948",
+      "MTP-AUDIT-C08-203",
+      "MTP-AUDIT-C08-204",
+      "MTP-AUDIT-C08-205",
+      "MTP-AUDIT-C08-206",
+      "MTP-AUDIT-C08-207",
+      "MTP-AUDIT-C08-208",
+      "MTP-AUDIT-C08-209",
+      "MTP-AUDIT-C08-277"
     ]
   },
   {
@@ -484,21 +780,32 @@
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
       "T08-037",
-      "T08-041"
+      "T08-041",
+      "MTP-AUDIT-C08-210",
+      "MTP-AUDIT-C08-211",
+      "MTP-AUDIT-C08-212",
+      "MTP-AUDIT-C08-277",
+      "MTP-AUDIT-C08-280"
     ]
   },
   {
     "id": "MTP-000631",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-279",
+      "MTP-AUDIT-C08-281"
+    ]
   },
   {
     "id": "MTP-000632",
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-042"
+      "T08-042",
+      "MTP-AUDIT-C08-213",
+      "MTP-AUDIT-C08-214",
+      "MTP-AUDIT-C08-280"
     ]
   },
   {
@@ -506,7 +813,11 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-042"
+      "T08-042",
+      "CH08-G001957",
+      "MTP-AUDIT-C08-215",
+      "MTP-AUDIT-C08-216",
+      "MTP-AUDIT-C08-280"
     ]
   },
   {
@@ -514,7 +825,10 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-042"
+      "T08-042",
+      "MTP-AUDIT-C08-217",
+      "MTP-AUDIT-C08-218",
+      "MTP-AUDIT-C08-280"
     ]
   },
   {
@@ -522,7 +836,9 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-043"
+      "T08-043",
+      "MTP-AUDIT-C08-219",
+      "MTP-AUDIT-C08-280"
     ]
   },
   {
@@ -530,7 +846,10 @@
     "status": "unresolved",
     "reason": "Depth/completion and summit construction remain unresolved.",
     "note_ids": [
-      "T08-043"
+      "T08-043",
+      "MTP-AUDIT-C08-220",
+      "MTP-AUDIT-C08-221",
+      "MTP-AUDIT-C08-280"
     ]
   },
   {
@@ -538,7 +857,10 @@
     "status": "unresolved",
     "reason": "Exact primordial-knowing/three/reversal construction retained unresolved.",
     "note_ids": [
-      "T08-044"
+      "T08-044",
+      "MTP-AUDIT-C08-222",
+      "MTP-AUDIT-C08-280",
+      "MTP-AUDIT-C08-298"
     ]
   },
   {
@@ -546,7 +868,9 @@
     "status": "unresolved",
     "reason": "Architectural ba gam retained unresolved.",
     "note_ids": [
-      "T08-045"
+      "T08-045",
+      "MTP-AUDIT-C08-223",
+      "MTP-AUDIT-C08-280"
     ]
   },
   {
@@ -554,7 +878,10 @@
     "status": "unresolved",
     "reason": "Yogic-liberation genitive remains provisional.",
     "note_ids": [
-      "T08-046"
+      "T08-046",
+      "MTP-AUDIT-C08-224",
+      "MTP-AUDIT-C08-225",
+      "MTP-AUDIT-C08-280"
     ]
   },
   {
@@ -562,21 +889,29 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-046"
+      "T08-046",
+      "MTP-AUDIT-C08-226",
+      "MTP-AUDIT-C08-280",
+      "MTP-AUDIT-C08-283"
     ]
   },
   {
     "id": "MTP-000641",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-282",
+      "MTP-AUDIT-C08-284"
+    ]
   },
   {
     "id": "MTP-000642",
     "status": "unresolved",
     "reason": "Cross-page simile pronoun reference remains open.",
     "note_ids": [
-      "T08-046"
+      "T08-046",
+      "MTP-AUDIT-C08-227",
+      "MTP-AUDIT-C08-283"
     ]
   },
   {
@@ -584,7 +919,10 @@
     "status": "unresolved",
     "reason": "Exact rang gzhung construction retained unresolved.",
     "note_ids": [
-      "T08-047"
+      "T08-047",
+      "MTP-AUDIT-C08-228",
+      "MTP-AUDIT-C08-229",
+      "MTP-AUDIT-C08-283"
     ]
   },
   {
@@ -592,7 +930,11 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-048"
+      "T08-048",
+      "CH08-G001977",
+      "MTP-AUDIT-C08-230",
+      "MTP-AUDIT-C08-231",
+      "MTP-AUDIT-C08-283"
     ]
   },
   {
@@ -600,7 +942,9 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-049"
+      "T08-049",
+      "MTP-AUDIT-C08-232",
+      "MTP-AUDIT-C08-283"
     ]
   },
   {
@@ -608,7 +952,12 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-049"
+      "T08-049",
+      "CH08-G001982",
+      "CH08-G001983",
+      "MTP-AUDIT-C08-233",
+      "MTP-AUDIT-C08-234",
+      "MTP-AUDIT-C08-283"
     ]
   },
   {
@@ -616,7 +965,10 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-049"
+      "T08-049",
+      "CH08-G001984",
+      "MTP-AUDIT-C08-235",
+      "MTP-AUDIT-C08-283"
     ]
   },
   {
@@ -624,7 +976,12 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-049"
+      "T08-049",
+      "CH08-G001986",
+      "CH08-G001987",
+      "MTP-AUDIT-C08-236",
+      "MTP-AUDIT-C08-237",
+      "MTP-AUDIT-C08-283"
     ]
   },
   {
@@ -633,7 +990,10 @@
     "reason": "Lung rig compound and active clarity construction remain provisional.",
     "note_ids": [
       "T08-049",
-      "T08-050"
+      "T08-050",
+      "CH08-G001988",
+      "MTP-AUDIT-C08-238",
+      "MTP-AUDIT-C08-283"
     ]
   },
   {
@@ -642,14 +1002,21 @@
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
       "T08-049",
-      "T08-051"
+      "T08-051",
+      "CH08-G001990",
+      "MTP-AUDIT-C08-239",
+      "MTP-AUDIT-C08-283",
+      "MTP-AUDIT-C08-286"
     ]
   },
   {
     "id": "MTP-000651",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-285",
+      "MTP-AUDIT-C08-287"
+    ]
   },
   {
     "id": "MTP-000652",
@@ -657,7 +1024,8 @@
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
       "T08-049",
-      "T08-051"
+      "T08-051",
+      "MTP-AUDIT-C08-286"
     ]
   },
   {
@@ -666,7 +1034,12 @@
     "reason": "Self-abiding enlightened-intent modifier remains provisional.",
     "note_ids": [
       "T08-049",
-      "T08-052"
+      "T08-052",
+      "CH08-G001993",
+      "CH08-G001994",
+      "MTP-AUDIT-C08-240",
+      "MTP-AUDIT-C08-241",
+      "MTP-AUDIT-C08-286"
     ]
   },
   {
@@ -675,7 +1048,12 @@
     "reason": "Entry/self-liberation and heart/Ground-of-mindfulness compounds remain provisional.",
     "note_ids": [
       "T08-049",
-      "T08-053"
+      "T08-053",
+      "CH08-G001995",
+      "CH08-G001996",
+      "MTP-AUDIT-C08-242",
+      "MTP-AUDIT-C08-243",
+      "MTP-AUDIT-C08-286"
     ]
   },
   {
@@ -684,7 +1062,13 @@
     "reason": "S1998 fire/life/khye construction and source-layer allocation remain unresolved.",
     "note_ids": [
       "T08-049",
-      "T08-054"
+      "T08-054",
+      "CH08-G001997",
+      "CH08-G001998",
+      "MTP-AUDIT-C08-244",
+      "MTP-AUDIT-C08-245",
+      "MTP-AUDIT-C08-286",
+      "MTP-AUDIT-C08-299"
     ]
   },
   {
@@ -692,7 +1076,10 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-055"
+      "T08-055",
+      "MTP-AUDIT-C08-246",
+      "MTP-AUDIT-C08-247",
+      "MTP-AUDIT-C08-286"
     ]
   },
   {
@@ -700,21 +1087,34 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-056"
+      "T08-056",
+      "MTP-AUDIT-C08-248",
+      "MTP-AUDIT-C08-249",
+      "MTP-AUDIT-C08-286",
+      "MTP-AUDIT-C08-289"
     ]
   },
   {
     "id": "MTP-000658",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-288",
+      "MTP-AUDIT-C08-290"
+    ]
   },
   {
     "id": "MTP-000659",
     "status": "unresolved",
     "reason": "S2013–S2014 genitive chain and supplied question reference remain provisional.",
     "note_ids": [
-      "T08-057"
+      "T08-057",
+      "MTP-AUDIT-C08-250",
+      "MTP-AUDIT-C08-251",
+      "MTP-AUDIT-C08-252",
+      "MTP-AUDIT-C08-253",
+      "MTP-AUDIT-C08-254",
+      "MTP-AUDIT-C08-289"
     ]
   },
   {
@@ -722,7 +1122,8 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-058"
+      "T08-058",
+      "MTP-AUDIT-C08-289"
     ]
   },
   {
@@ -730,7 +1131,11 @@
     "status": "unresolved",
     "reason": "Expression/enumeration scope and final instruction force remain provisional.",
     "note_ids": [
-      "T08-058"
+      "T08-058",
+      "CH08-G002020",
+      "MTP-AUDIT-C08-255",
+      "MTP-AUDIT-C08-256",
+      "MTP-AUDIT-C08-289"
     ]
   },
   {
@@ -738,7 +1143,9 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-059"
+      "T08-059",
+      "MTP-AUDIT-C08-257",
+      "MTP-AUDIT-C08-289"
     ]
   },
   {
@@ -746,7 +1153,9 @@
     "status": "unresolved",
     "reason": "Ground-of-delusion response reference remains provisional.",
     "note_ids": [
-      "T08-059"
+      "T08-059",
+      "MTP-AUDIT-C08-258",
+      "MTP-AUDIT-C08-289"
     ]
   },
   {
@@ -754,7 +1163,16 @@
     "status": "unresolved",
     "reason": "Standalone thugs retained unresolved; citta spelling and residence/path/gate relations remain open.",
     "note_ids": [
-      "T08-060"
+      "T08-060",
+      "CH08-G002026",
+      "MTP-AUDIT-C08-259",
+      "MTP-AUDIT-C08-260",
+      "MTP-AUDIT-C08-261",
+      "MTP-AUDIT-C08-289",
+      "MTP-AUDIT-C08-291",
+      "MTP-AUDIT-C08-292",
+      "MTP-AUDIT-C08-296",
+      "MTP-AUDIT-C08-300"
     ]
   },
   {
@@ -762,7 +1180,12 @@
     "status": "unresolved",
     "reason": "Condition-free object relation and confidence-form proposal remain provisional.",
     "note_ids": [
-      "T08-061"
+      "T08-061",
+      "MTP-AUDIT-C08-262",
+      "MTP-AUDIT-C08-263",
+      "MTP-AUDIT-C08-264",
+      "MTP-AUDIT-C08-291",
+      "MTP-AUDIT-C08-296"
     ]
   },
   {
@@ -770,7 +1193,10 @@
     "status": "unresolved",
     "reason": "Mother/child reference and place-of-liberation predicate remain provisional.",
     "note_ids": [
-      "T08-062"
+      "T08-062",
+      "MTP-AUDIT-C08-265",
+      "MTP-AUDIT-C08-291",
+      "MTP-AUDIT-C08-296"
     ]
   },
   {
@@ -778,7 +1204,11 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-063"
+      "T08-063",
+      "CH08-G002034",
+      "MTP-AUDIT-C08-291",
+      "MTP-AUDIT-C08-296",
+      "MTP-AUDIT-C08-302"
     ]
   },
   {
@@ -786,21 +1216,37 @@
     "status": "unresolved",
     "reason": "Speaker/list/name apposition and source-layer attachment remain unresolved.",
     "note_ids": [
-      "T08-064"
+      "T08-064",
+      "CH08-G002037",
+      "MTP-AUDIT-C08-266",
+      "MTP-AUDIT-C08-291",
+      "MTP-AUDIT-C08-294",
+      "MTP-AUDIT-C08-296",
+      "MTP-AUDIT-C08-301",
+      "MTP-AUDIT-C08-303"
     ]
   },
   {
     "id": "MTP-000669",
     "status": "nontranslatable",
     "reason": "Electronic control/page metadata represented by an explicit label; not root wording.",
-    "note_ids": []
+    "note_ids": [
+      "MTP-AUDIT-C08-293",
+      "MTP-AUDIT-C08-295"
+    ]
   },
   {
     "id": "MTP-000670",
     "status": "unresolved",
     "reason": "Closing subject-list/world grouping remains provisional.",
     "note_ids": [
-      "T08-065"
+      "T08-065",
+      "CH08-G002042",
+      "CH08-G002043",
+      "MTP-AUDIT-C08-267",
+      "MTP-AUDIT-C08-268",
+      "MTP-AUDIT-C08-294",
+      "MTP-AUDIT-C08-303"
     ]
   },
   {
@@ -808,7 +1254,13 @@
     "status": "unresolved",
     "reason": "Numeral referent, extraction relation and intrinsic-nature attachment remain provisional.",
     "note_ids": [
-      "T08-066"
+      "T08-066",
+      "CH08-G002046",
+      "CH08-G002047",
+      "CH08-G002048",
+      "MTP-AUDIT-C08-269",
+      "MTP-AUDIT-C08-294",
+      "MTP-AUDIT-C08-304"
     ]
   },
   {
@@ -816,7 +1268,10 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-067"
+      "T08-067",
+      "CH08-G002049",
+      "MTP-AUDIT-C08-294",
+      "MTP-AUDIT-C08-305"
     ]
   },
   {
@@ -824,7 +1279,10 @@
     "status": "unresolved",
     "reason": "Mother/child/three grouping remains unresolved.",
     "note_ids": [
-      "T08-068"
+      "T08-068",
+      "CH08-G002050",
+      "MTP-AUDIT-C08-294",
+      "MTP-AUDIT-C08-305"
     ]
   },
   {
@@ -832,7 +1290,12 @@
     "status": "translated",
     "reason": "Working source-linked English; provisional technical treatments remain explicitly annotated.",
     "note_ids": [
-      "T08-069"
+      "T08-069",
+      "CH08-G002051",
+      "CH08-G002052",
+      "CH08-G002053",
+      "MTP-AUDIT-C08-294",
+      "MTP-AUDIT-C08-306"
     ]
   }
 ]
