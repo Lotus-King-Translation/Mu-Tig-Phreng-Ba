@@ -17,7 +17,7 @@
     "retrieved_date": "2026-10-02",
     "source_manifest": "editions/metadata/adzom-1973/volume-manifest.json"
   },
-  "scope": "Native source evidence allocated to chapter7, printed502–520/images512–530. Direct visual comparison is pending; boundary images contain adjacent-chapter spans. Byte identity and visual textual allocation are separate checks.",
+  "scope": "Native source evidence allocated to chapter7, printed502–520/images512–530. All 19 pages have direct visual main-root comparison attempts; first/last boundary images contain excluded adjacent-chapter spans. Exact byte identity and visual textual allocation are separate checks.",
   "images": [
     {
       "image_index": 512,
@@ -34,8 +34,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "Chapter7 begins row3 middle with S1429 after the chapter6 colophon. S1443 starts with ས་དང at row6 right and continues on image513 row1."
     },
     {
       "image_index": 513,
@@ -52,8 +53,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "All six rows: S1443 completes row1 left–middle; S1445 begins row1 middle. S1465 ends its main wording with རྩ on image514 row1 left."
     },
     {
       "image_index": 514,
@@ -70,8 +72,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "All six rows: S1465 completes with རྩ and adjacent smaller wording at row1 left. S1482 begins row6 right and continues on image515 row1."
     },
     {
       "image_index": 515,
@@ -88,8 +91,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "All six rows: S1482 completes with སྐར་མ་ཆོས at row1 middle. S1502 begins row6 right with རྒྱལ་མཚན and continues on image516 row1."
     },
     {
       "image_index": 516,
@@ -106,8 +110,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "All six rows: S1502 completes row1 left. S1517 begins row6 right with ཐོས་དང་བསམ and continues on image517 row1."
     },
     {
       "image_index": 517,
@@ -124,8 +129,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "All six rows: S1517 completes row1 left with དང་སྒོམ་པ་དང. S1530 is complete at row6 right; its following smaller explanation continues there."
     },
     {
       "image_index": 518,
@@ -142,8 +148,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "All six rows: S1532 opens row1 left. S1550 begins row6 right with ས་ལས་འདས and continues on image519 row1."
     },
     {
       "image_index": 519,
@@ -160,8 +167,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "All six rows: S1550 completes row1 left with དང་གནས་པའོ. S1572 is complete at row6 right."
     },
     {
       "image_index": 520,
@@ -178,8 +186,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "All six rows: S1574 opens row1 left. S1595 begins with བསམ at row6 right and continues on image521 row1."
     },
     {
       "image_index": 521,
@@ -196,8 +205,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit",
+      "main_text_coverage": "All six rows: S1595 completes row1 left. S1613 begins with ཡེ at row6 right and continues on image522 row1."
     },
     {
       "image_index": 522,
@@ -214,8 +224,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit/native_522_530",
+      "main_text_coverage": "Incoming S1613 completes in row1 left (initial portion on lead image521); S1630 begins at row6 right and continues image523."
     },
     {
       "image_index": 523,
@@ -232,8 +243,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit/native_522_530",
+      "main_text_coverage": "S1630 completes at row1 left; S1649 ends this page at བྱུང་བ and its སྟེ continues image524."
     },
     {
       "image_index": 524,
@@ -250,8 +262,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit/native_522_530",
+      "main_text_coverage": "S1649 completes with སྟེ at row1 left; S1668 ends row6 right."
     },
     {
       "image_index": 525,
@@ -268,8 +281,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit/native_522_530",
+      "main_text_coverage": "S1670 begins row1 after the decorative opening; S1686 ends this image with ཡེ and continues image526."
     },
     {
       "image_index": 526,
@@ -286,8 +300,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit/native_522_530",
+      "main_text_coverage": "Incoming S1686 completes with རྫོགས་པས at row1 left; S1707 begins row6 right and continues image527."
     },
     {
       "image_index": 527,
@@ -304,8 +319,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit/native_522_530",
+      "main_text_coverage": "S1707 completes row1 left; S1726 begins row6 right and continues image528."
     },
     {
       "image_index": 528,
@@ -322,8 +338,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit/native_522_530",
+      "main_text_coverage": "S1726 completes row1 left; S1742 begins row6 right and continues image529."
     },
     {
       "image_index": 529,
@@ -340,8 +357,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit/native_522_530",
+      "main_text_coverage": "S1742 completes row1 left; S1758 begins with ཕྲ at row6 right and continues image530."
     },
     {
       "image_index": 530,
@@ -358,8 +376,9 @@
       "byte_identity_with_archive_member": true,
       "byte_identity_with_registered_manifest": true,
       "transformations": [],
-      "inspection": "pending_direct_native_comparison",
-      "inspector": null
+      "inspection": "direct_native_visual; exact-pixel crops used for readability",
+      "inspector": "/root/ch07_audit/native_522_530",
+      "main_text_coverage": "S1758 completes row1 left. Chapter7 ends in row4 center at S1769 བདུན་པའོ; the chapter8 opening farther right and rows5–6 are outside this comparison."
     }
   ],
   "limits": [

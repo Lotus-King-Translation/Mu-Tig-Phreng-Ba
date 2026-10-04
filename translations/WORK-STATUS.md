@@ -1,6 +1,6 @@
-# Translation work status — chapter 7 source freeze
+# Translation work status — chapter 7 source and audit complete
 
-Current task, 2026-10-04: the user instructed “go on” after chapter 6 completion. Chapter 7 source is frozen: 342 objects S1428–S1769 in 115 pairs MTP-000453–MTP-000567. All 95 verse pairs preserve 321 source lines; 19 metadata pairs and one colophon pair remain distinct. Source-only validation passes. The scoped schema-5 continuation is committed and prior-state checks pass. All 19 native image identities are verified; direct visual comparison is being finalized. No chapter 7 English has been drafted. Canonical source now covers 567 pairs / 1,769 objects; canonical English remains through chapter 6 at 452 pairs / 1,427 objects. Chapter 8 has not started.
+Current task, 2026-10-04: the user instructed “go on” after chapter 6 completion. Chapter 7 source is frozen: 342 objects S1428–S1769 in 115 pairs MTP-000453–MTP-000567. All 95 verse pairs preserve 321 source lines; 19 metadata pairs and one colophon pair remain distinct. Source-only validation passes. The scoped schema-5 continuation is committed and prior-state checks pass. All 19 native image identities are verified and direct main-word comparison is complete. The 342 checks comprise 318 agreements, 19 metadata, four uncertain objects and one spelling difference. All 291 native findings plus 13 inherited obligations are sealed (304 total). The fixed source remains unchanged. No chapter 7 English has been drafted. Canonical source now covers 567 pairs / 1,769 objects; canonical English remains through chapter 6 at 452 pairs / 1,427 objects. Chapter 8 has not started.
 
 ## Saved chapter 6 completion record
 

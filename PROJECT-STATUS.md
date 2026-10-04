@@ -1,7 +1,7 @@
 # Project status — 2026-10-04
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: Chapter 7 source frozen and native audit underway; chapter 6 signed reviewed candidate preserved on GitHub.
+- Phase: Chapter 7 source and native audit complete; chapter 6 signed reviewed candidate preserved on GitHub.
 - Repository: created from Lotus-King-Translation/tibetan-text-project-template.
 - Discovery streams: 3/3 bounded surveys completed: BDRC, external catalogues, electronic texts/translations.
 - Registered source/research records: 43, including unresolved leads and reference works.
@@ -10,7 +10,7 @@
 - Governing witness: Adzom1973–77 W1KG892/I1KG895. Golden chapter releases: 8/8. Fixed English releases: 1/8.
 - Golden source: 2,053 anchors; 183 decisions; 102 targeted checks; 30 changed passages; zero restorations. Golden editorial/source queues are closed.
 - Canonical source covers 567 pairs / 1,769 objects through chapter 7; English represents 452 pairs / 1,427 objects through chapter 6, with 626 objects remaining. Representation includes unresolved and nontranslatable metadata; it is not an accuracy measure.
-- Main-text Adzom comparison covers chapters 1–6. Signed independent agent QC is preserved for chapters 1–3 and 5–6. Chapter 4 retains its complete unsigned saved draft. Exhaustive witness collation and independent human certification have not been performed.
+- Main-text Adzom comparison covers chapters 1–7, with explicitly unresolved source-layer readings retained. Signed independent agent QC is preserved for chapters 1–3 and 5–6. Chapter 4 retains its complete unsigned saved draft. Exhaustive witness collation and independent human certification have not been performed.
 
 ## Current deliverables and review
 
@@ -22,6 +22,6 @@ Source deliverables include catalogue, source register, original scan archives, 
 
 ## Open work
 
-Chapter 6 is complete. The user’s 2026-10-04 “go on” instruction authorizes chapter 7 working continuation: 342 source objects and 19 native pages. Its 342 source objects are frozen in 115 pairs and pass source-only validation. The scoped continuation record is committed; native comparison is being finalized and English has not started. Chapter 8 remains outside the current exception. Genuine formal publication and chapter 4 recovery remain separate open tasks. Full commentary translation, complete multi-layer scan proofreading and exhaustive witness collation are not claimed.
+Chapter 6 is complete. The user’s 2026-10-04 “go on” instruction authorizes chapter 7 working continuation: 342 source objects and 19 native pages. Its 342 source objects are frozen in 115 pairs and pass source-only validation. The scoped continuation record is committed. All 19 native images have been compared, with one spelling difference and four uncertain source-layer objects retained. Its 304 source obligations are sealed; English has not started. Chapter 8 remains outside the current exception. Genuine formal publication and chapter 4 recovery remain separate open tasks. Full commentary translation, complete multi-layer scan proofreading and exhaustive witness collation are not claimed.
 
 Research leads remain: eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtang:84,85), two Degé-family scan mappings, authorized restricted/preview access, Rýznar's five-witness thesis, Wilkinson's Tibetan basis and Gangtey labels. No correspondence or purchase has been initiated. These are documented leads, not acquired independent witnesses or presumed missing text.
