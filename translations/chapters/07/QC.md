@@ -1,6 +1,6 @@
 # Chapter 7 independent QC — preparation
 
-Reviewer: `/root/ch07_qc`. Updated 2026-10-04. This is an independent agent review, separate from translation authorship. English review has not started; no final disposition or clearance is issued.
+Reviewer: `/root/ch07_qc`. Updated 2026-10-04. This is an independent agent review, separate from translation authorship. The first English batch has been reviewed; no whole-chapter disposition or clearance is issued.
 
 ## Authority and finite scope
 
@@ -20,4 +20,23 @@ The translation review must retain local disclosure of S1472, S1564, S1751 and S
 
 ## Pending review
 
-English bodies, translator notes, generated golden/native endnotes, statuses, usage records and complete eight-column proposals remain to be reviewed when authored. No complete coverage or semantic disposition is asserted here. No automated semantic certification, independent human certification, full commentary transcription, complete multi-layer scan proofreading or exhaustive witness collation is claimed. The standard's thirty semantic regression fixtures have not been newly executed.
+English beyond pair 489, generated golden/native endnotes, the complete usage records and eight-column proposals remain to be reviewed when authored. No complete chapter coverage or semantic disposition is asserted here. No automated semantic certification, independent human certification, full commentary transcription, complete multi-layer scan proofreading or exhaustive witness collation is claimed. The standard's thirty semantic regression fixtures have not been newly executed.
+
+## First English batch: pairs 453–489
+
+I independently read all 37 source/English pairs, covering 123 objects S1428–S1550, and all 23 translator notes T07-001–T07-023. Reviewed English SHA-256: `ea9a56354a415801e806385f001cedcd789171dc4569e23b8a4b34a8d3baf425`. Read-only checks confirmed 116 verse lines, exact pair order, note-reference bindings and attributed golden-object membership. The batch statuses are twenty translated, ten locally unresolved and seven metadata pairs. The usage ledger and full generated source apparatus are not yet included in this batch verdict.
+
+Protected terminology remains identifiable, including ordinary mind, discerning knowing, primordial knowing, experiential acquaintance, intrinsic nature and compassionate responsiveness. The botanical fruit and sensory sound uses are disclosed local proposals, not silently activated defaults. Unusual source spellings and incomplete female, school and awakening/ordinary-mind identifications remain visible. The source's nonsymmetrical bodily correspondences have not been filled with invented counterparts. These conforming decisions require no conventionalizing rewrite.
+
+### Q07-001 — S1439 absence versus beginninglessness
+
+- Location: pair MTP-000457, S1439, printed page 502; T07-002.
+- Exact source: `ཐོག་མ་ཉིད་ནི་འདི་མེད་པས`.
+- Reviewed English: “since this has no beginning”.
+- Finding: probable error; meaning/scope and syntax/reference; medium severity, moderate confidence.
+- Evidence: beginning is marked as topic by `ནི`, while the overt predicate is `འདི་མེད` (“this is absent”). The English converts this into possession/nonexistence of a beginning and leaves the emphatic `ཉིད` unrepresented. T07-002 acknowledges the alternative but does not qualify that stronger body assertion itself.
+- Requested action: use a less committal, explicitly provisional line, for example “since this is absent [at] the very beginning,” and retain the referent and topic/locative question in the note. The bracketed locative is an interpretive supply, not an approved settled parsing.
+- Authority: source-based local suggestion under standard Q3, Q6, Q7 and Q9. It neither changes the source nor creates a canonical glossary mapping.
+- Disposition: corrected and independently verified. The author adopted “since this is absent [at] the very beginning,” and revised T07-002 to explain the supplied locative, emphatic term and unresolved topic/referent relation. Change CH07-AUTHOR-C001 records the semantic correction. Revised English SHA-256: `08f5bda7f2cb63d7693da9154e11a88fd59eae215b963e83829725e1b4761f06`. CH07-AUTHOR-C002 separately records the canonical endnote-boundary formatting correction; both note maps match.
+
+No first-batch correction blocker remains in the bodies and translator notes reviewed. The ten unresolved pairs and other local proposals remain review flags, not resolved readings or publication clearance. The lexical ledger and complete generated source apparatus remain pending, as does English beyond pair 489.

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "CH07-AUTHOR-C001",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S001439"
+    ],
+    "note_id": "T07-002",
+    "finding": "Q07-001",
+    "old": "since this has no beginning,",
+    "new": "since this is absent [at] the very beginning,",
+    "reason": "The fixed source predicates absence of this with beginning as topic. The revision retains the overt absence and emphatic nyid, marking the locative supply and keeping reference/topic attachment provisional.",
+    "authority": "Minimal source-supported provisional English correction; fixed source and canonical glossary unchanged."
+  },
+  {
+    "id": "CH07-AUTHOR-C002",
+    "class": "presentation",
+    "locus": [],
+    "old": "## Translation notes",
+    "new": "<!-- endnotes -->",
+    "reason": "Use the canonical pipeline endnote boundary so definitions are parsed separately from the final pair body.",
+    "authority": "Structural formatting correction only; English meaning and note bodies unchanged by this boundary edit."
+  }
+]
