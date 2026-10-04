@@ -1,7 +1,7 @@
-# Project status — 2026-10-03
+# Project status — 2026-10-04
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: Chapter 6 signed reviewed working candidate complete and preserved on GitHub; chapter 7 not started.
+- Phase: Chapter 7 preparation authorized and underway; chapter 6 signed reviewed candidate preserved on GitHub.
 - Repository: created from Lotus-King-Translation/tibetan-text-project-template.
 - Discovery streams: 3/3 bounded surveys completed: BDRC, external catalogues, electronic texts/translations.
 - Registered source/research records: 43, including unresolved leads and reference works.
@@ -22,6 +22,6 @@ Source deliverables include catalogue, source register, original scan archives, 
 
 ## Open work
 
-The requested chapter 6 task is complete. Chapter 7 requires its own finite continuation decision or satisfaction of the normal sequential release gate. Genuine formal publication and chapter 4 recovery remain separate open tasks. Full commentary translation, complete multi-layer scan proofreading and exhaustive witness collation are not claimed.
+Chapter 6 is complete. The user’s 2026-10-04 “go on” instruction authorizes chapter 7 working continuation: 342 source objects and 19 native pages. Source grouping, native comparison and a scoped continuation record are underway; English has not started. Chapter 8 remains outside the current exception. Genuine formal publication and chapter 4 recovery remain separate open tasks. Full commentary translation, complete multi-layer scan proofreading and exhaustive witness collation are not claimed.
 
 Research leads remain: eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtang:84,85), two Degé-family scan mappings, authorized restricted/preview access, Rýznar's five-witness thesis, Wilkinson's Tibetan basis and Gangtey labels. No correspondence or purchase has been initiated. These are documented leads, not acquired independent witnesses or presumed missing text.

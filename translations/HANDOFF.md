@@ -1,4 +1,8 @@
-# Translation handoff — chapter 6 complete working candidate
+# Translation handoff — chapter 7 preparation
+
+Current task, 2026-10-04: the user instructed “go on” after chapter 6 completion. Chapter 7 preparation is authorized: 342 objects S1428–S1769, 19 native images 512–530. Prior chapter 6 content and remote main were reverified; exact image identities are checked. Source grouping and direct native comparison are in progress; no chapter 7 English has been drafted. The new scoped continuation authorization is being prepared. Chapter 8 has not started.
+
+## Saved chapter 6 completion record
 
 Updated 2026-10-03. The requested GitHub preservation and next-chapter work are complete. Chapter 6 is a signed, independently reviewed annotated working candidate at `a02f8c79a31c561c1888495b4178bfa7c25eda45`, fetched and verified on remote main. The source remains fixed `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Final manifest SHA-256: `8b00c111bc44a0aabb04e82a6def3cb9039ea0174b2b6548756b786f0d9cd767`. Chapter 7 has not started.
 
