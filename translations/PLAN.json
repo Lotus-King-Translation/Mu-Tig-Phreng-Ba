@@ -247,5 +247,6 @@
   "working_chapters_represented": 8,
   "chapter_8_state": "Signed independently reviewed annotated working candidate:107pairs/284objects/248verse lines/421notes;361/361source obligations;44translated/46unresolved/17metadata. One English correction and one support-only clarification closed. Reproducible working validation and signed-content gate pass; formal tags/receipts pending.",
   "chapter_8_correction_blockers_remaining": 0,
-  "chapter_8_support_corrections_closed": 1
+  "chapter_8_support_corrections_closed": 1,
+  "chapter_8_candidate_commit": "87f0e34062a09adebb41a8b72ba945c43cbc5827"
 }

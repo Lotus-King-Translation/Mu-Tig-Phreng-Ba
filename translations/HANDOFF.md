@@ -4,7 +4,7 @@ Updated 2026-10-04. The final chapter requested by the user is complete. All eig
 
 ## Chapter 8 package
 
-Signed candidate: `Final signed candidate is being preserved; exact commit will be recorded in the following globals-only checkpoint.`. Governing source: `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Final manifest SHA-256: `f6ea186a1450eb178679622bab9d1ac3b3f97c531214ce6ea22f4856e47e3d8e`. Canonical annotated English SHA-256: `b9f9b595aa5b50166ce2cb945998153aac6ed08a4287510344cffa5185bf3fdc`. Exact reviewed author archive SHA-256: `29e125260b83b5fc744ac56878b9ce5c1f3b287ea1b93f0b0cea8ffe868154f8`.
+Signed candidate: `87f0e34062a09adebb41a8b72ba945c43cbc5827`. Governing source: `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Final manifest SHA-256: `f6ea186a1450eb178679622bab9d1ac3b3f97c531214ce6ea22f4856e47e3d8e`. Canonical annotated English SHA-256: `b9f9b595aa5b50166ce2cb945998153aac6ed08a4287510344cffa5185bf3fdc`. Exact reviewed author archive SHA-256: `29e125260b83b5fc744ac56878b9ce5c1f3b287ea1b93f0b0cea8ffe868154f8`.
 
 The complete chapter covers MTP-S001770–MTP-S002053 / MTP-000568–MTP-000674: 284 source objects, 107 pairs, 83 verse pairs / 248 lines and 24 prose pairs with their original roles. Statuses: 44 translated, 46 unresolved and seventeen nontranslatable metadata pairs. The 421 notes comprise 69 translator, 46 golden-history and 306 native-audit notes, accounting for all 361 source obligations exactly once. Current raw bodies match the archive after removing note-reference tokens, and all original translator notes remain exact.
 
