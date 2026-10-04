@@ -15,7 +15,7 @@ Governing Tibetan: `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Fi
 | 7 | 342 | 115 | 373 | Signed reviewed candidate; tag pending |
 | 8 | 284 | 107 | 421 | Signed reviewed candidate; tag pending |
 
-Actual chapter releases: 6/8. The complete aggregate release remains pending. Canonical paired files currently cover chapters 1–6; all eight chapter directories remain available. Temporary prefixes satisfy the existing bounded release gate and do not remove later chapter text.
+Actual chapter releases: 6/8. The complete aggregate release remains pending. Canonical paired files currently cover chapters 1–7; all eight chapter directories remain available. Temporary prefixes satisfy the existing bounded release gate and do not remove later chapter text.
 
 All 2199 source obligations are represented in the chapter apparatus. Native main-text comparisons preserve their recorded uncertainties, untranscribed annotations, actual print differences and electronic correction history. Fresh chapter 4 review does not claim a second nineteen-page visual audit. Full commentary translation, complete multi-layer proofreading, exhaustive witness collation, automated semantic certification and independent human certification are not claimed. Provisional terminology remains inactive.
 
