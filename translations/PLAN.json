@@ -232,7 +232,7 @@
   "chapter_8_source_obligations_remaining": 0,
   "chapter_8_translator_notes": 69,
   "chapter_8_english_corrections_closed": 1,
-  "canonical_english_objects": 221,
+  "canonical_english_objects": 341,
   "chapter_8_usage_records": 307,
   "chapter_8_usage_loci": 489,
   "chapter_8_inactive_proposals": 172,
@@ -241,7 +241,7 @@
   "chapter_8_unresolved_pairs": 46,
   "chapter_8_english_candidate_commit": "30289f701fa9359dc736e5a65882b41814531050",
   "chapter_8_endnotes": 421,
-  "canonical_english_pairs": 65,
+  "canonical_english_pairs": 99,
   "chapter_8_build_manifest_sha256": "f6ea186a1450eb178679622bab9d1ac3b3f97c531214ce6ea22f4856e47e3d8e",
   "chapters_remaining_to_draft": 0,
   "working_chapters_represented": 8,
@@ -250,7 +250,7 @@
   "chapter_8_support_corrections_closed": 1,
   "chapter_8_candidate_commit": "87f0e34062a09adebb41a8b72ba945c43cbc5827",
   "publication_transport": "Connected Mac authenticated gh access verified for exact repository; coordinator-only annotated-tag creation available.",
-  "canonical_scope_last_chapter": 2,
+  "canonical_scope_last_chapter": 3,
   "aggregate_publication_complete": false,
   "chapter_1_state": "Fixed annotated release translate-ch01-v1: 97 objects / 30 pairs / 112 notes; all 93 obligations. Independent agent QC and strict final gates passed; unresolved readings remain explicit."
 }
