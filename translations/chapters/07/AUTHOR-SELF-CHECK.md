@@ -1,6 +1,6 @@
-# Chapter 7 author self-check — batch 1
+# Chapter 7 author self-check — batches 1–2
 
-Author: `/root/ch07_translate`. Date: 2026-10-04. This is an author self-check, not independent QC. The current draft is partial: 37 of 115 pairs, MTP-000453–MTP-000489, representing 123 of 342 source objects, S1428–S1550. The next unprocessed source is S1551 / pair490. There are 78 pairs / 219 source objects remaining. No English has been drafted beyond this batch.
+Author: `/root/ch07_translate`. Date: 2026-10-04. This is an author self-check, not independent QC. The current draft is partial: 78 of 115 pairs, MTP-000453–MTP-000530, representing 241 of 342 source objects, S1428–S1668. The next unprocessed source is S1669 / pair531. There are 37 pairs / 101 source objects remaining. No English has been drafted beyond batch 2.
 
 ## Inputs and authorization
 
@@ -8,7 +8,7 @@ The author read AGENTS, FORMAT, ENDNOTE-POLICY, the entire 641-line combined tra
 
 English began only after root confirmed the frozen source/audit checkpoint `67be7602395f40d694cd6e461f27dd25515121e0` was fetched and remotely verified, and explicitly authorized batch 1. Fixed source: golden-v1 at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Paired source SHA-256: `02eaaf0774ceda5510dfe8f2ffbc67b9bd8e18e4f32c3e2de7ddefb9914f438b`. Canonical glossary SHA-256: `6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf`. Standard SHA-256: `934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760`.
 
-## Batch coverage and self-check
+## Batch 1 preserved coverage and self-check
 
 All 30 verse pairs retain all 116 source verse lines. Seven metadata pairs retain explicit bracketed labels. The 23 translator notes are locally referenced and mapped to exact fixed source objects. Pair statuses are 20 translated, 10 locally unresolved and seven nontranslatable metadata. These counts mean representation, not resolved meaning or measured accuracy.
 
@@ -20,6 +20,18 @@ The independent reviewer/root identified S1439’s beginningless paraphrase as a
 
 The actual translation_pipeline.parse function succeeds after the delimiter correction; partial checks also validate allowed note categories. Mechanical author checks pass for exact 37-pair sequence, 116 verse-line preservation, all 23 note definitions/references and both maps, exact source-to-pair allocation, and 37 statuses. These checks establish traceability and structure, not semantic certification. The translator read all distinct native-audit English consequences, all four uncertainty records, the limitations and special confirmed readings; the translator did not independently reinspect the 19 native images or decipher omitted annotations.
 
+## Batch 2 coverage and self-check
+
+Batch 2 began only after root verified batch-1 checkpoint `6e5eeb76170deaf8c9c15919bf215be981833f2c` and explicitly authorized pairs490–530 / S1551–S1668. This adds 41 pairs / 118 objects, comprising 35 verse pairs with 112 source lines and six metadata pairs. Cumulative coverage is 65 verse pairs / 228 source lines and 13 metadata pairs, with 46 translator notes. Current statuses are 40 translated, 25 locally unresolved and 13 nontranslatable metadata. The original batch-1 bodies and 23 notes remain byte-identical in the actual parser’s raw content; its closing quotation remains appropriate because a new petitioner speaks at S1552.
+
+The author read all 93 batch-2 lexical support prompts, reviewed every actual source/English pair and all 23 added notes, and checked the narrative, ritual/perfection correspondences, two causal clauses at S1585, the split center/circle explanation, the tenfold count, first-person S1649 and later school-name wordplay. S1564’s unresolved ngo gang la is retained with the exact printed expansion and its uncertain source layer. S1595’s fixed bzhig versus printed gzhig is locally disclosed; the working reflection reading is explicitly print-supported and provisional. S1609 remains free from canonical radiance, without doctrinal repair. Source and glossary remain unchanged.
+
+New locally unresolved pairs: 492 (aspect/presence reference), 494 (case relation and rgya predicate), 495 (S1564 wording/layer), 496 (offering participants), 500 (self/agent and dual-pas relations), 505 (S1595 fixed/printed difference), 509 (giving/leaving and stain attachment), 510 (radiance/cultivation/cause), 515 (aspiration and terminal rang), 516 (ten essences and doing pair), 519 (appearance/liberation and settling attachment), 520 (intermediate-state genitive/self-appearance attachment), 523 (first-person force/non-making), 525 (identity predicates), and 529 (phal cher and school wordplay). Other tentative constructions remain locally noted without implying semantic certification.
+
+Independent batch-2 reviewer finding Q07-002 corrected S1637 to “The path is self-appearance, the domain of the intermediate state,” keeping the explicit genitive and exposing the remaining apposition/compound uncertainty in T07-042. C003 records this local change.
+
+Actual translation_pipeline.parse passes on all78 pairs/46 definitions. Partial checks pass for exact source pair sequence, all228 verse lines, allowed note categories, local reference/map/status agreement, exact golden-to-pair allocation, identical translator/note maps and unchanged parsed batch-1 body/note contents. The quoted speech at pair494 remains open because the next batch continues it; no temporary closure is invented.
+
 ## Remaining work
 
-Independent batch review and root checkpoint precede batch 2. The full source apparatus, complete lexical ledger/proposals, full-chapter self-check, independent QC, reproducible build and coordinator content signoff remain later steps. No translation archive or generated apparatus has been created by the author. The 30 semantic regression fixtures were not executed. No independent human certification, exhaustive witness collation or full commentary translation is claimed. Formal release requires genuine prior tags and receipts.
+Independent batch-2 review and root checkpoint precede batch 3. The full source apparatus, complete lexical ledger/proposals, full-chapter self-check, independent QC, reproducible build and coordinator content signoff remain later steps. No translation archive or generated apparatus has been created by the author. The 30 semantic regression fixtures were not executed. No independent human certification, exhaustive witness collation or full commentary translation is claimed. Formal release requires genuine prior tags and receipts.

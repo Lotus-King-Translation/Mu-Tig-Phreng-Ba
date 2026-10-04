@@ -20,5 +20,18 @@
     "new": "<!-- endnotes -->",
     "reason": "Use the canonical pipeline endnote boundary so definitions are parsed separately from the final pair body.",
     "authority": "Structural formatting correction only; English meaning and note bodies unchanged by this boundary edit."
+  },
+  {
+    "id": "CH07-AUTHOR-C003",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S001637"
+    ],
+    "note_id": "T07-042",
+    "finding": "Q07-002",
+    "old": "The path is the domain of self-appearance in the intermediate state.",
+    "new": "The path is self-appearance, the domain of the intermediate state.",
+    "reason": "Retain the explicit intermediate-state genitive as modifying domain; keep the relation to self-appearance provisionally appositional rather than adding an unmarked locative.",
+    "authority": "Minimal source-supported English attachment correction; fixed source and canonical glossary unchanged."
   }
 ]
