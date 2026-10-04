@@ -1,0 +1,14 @@
+{
+  "chapter": 4,
+  "mode": "draft-candidate",
+  "passed": true,
+  "read_only": true,
+  "build_manifest_sha256": "f3e9d9e02c83c4d5f0f7a1e156b4ad5f6d84271bf6f724cb22e307151377bed0",
+  "claims": {
+    "automated_semantic_certification": false,
+    "independent_human_certification": false
+  },
+  "signed_content_gate": true,
+  "source_obligations": 337,
+  "open_concrete_correction_blockers": 0
+}

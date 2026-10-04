@@ -1,0 +1,16 @@
+{
+  "chapter": 4,
+  "reviewer": "/root/ch04_qc",
+  "translator": "/root/ch04_author",
+  "independent": true,
+  "source_sha256": "cfdc715074cddf40e832247aa07cdfae63bbb057463eae74ad262e002fd6ff24",
+  "translation_sha256": "745f0a69648f09cc598a3ff88fed7d4a3c76670c1afdd2d5fc8e3518ea30944d",
+  "build_manifest_sha256": "f3e9d9e02c83c4d5f0f7a1e156b4ad5f6d84271bf6f724cb22e307151377bed0",
+  "coverage": "complete",
+  "disposition": "ready_with_explicit_review_flags",
+  "open_blockers": [],
+  "review_path": "translations/chapters/04/QC.md",
+  "review_sha256": "783b666fa355d2111c70ab38cf9fb9b8f9bb3e29b10161a43723a0ff2bb0b69f",
+  "automated_semantic_certification": false,
+  "independent_human_certification": false
+}

@@ -2,7 +2,7 @@
 
 Reviewer: `/root/ch04_qc`. Date: 2026-10-04. Governing procedure: the complete active Tibetan–English translation standard v2.0, Parts I and II. This review is independent of `/root/ch04_author`'s fresh author review. It is a new review of preserved material, not a reconstruction or certification of the absent historical final package.
 
-## Scope and current disposition
+## Scope and final QC disposition
 
 The authoritative starting point is the unsigned seventeen-file chapter snapshot at `730921898da3e3328bb42d97abea7672bf44afcd`, containing 396 notes. Its annotated English SHA-256 is `8627e157e03828b36d23017b1a29520a68c8289e1465af18b7aab94ac7cb733a`. No synthetic fixture review, historical in-session clearance, or unavailable 397-note draft was treated as review evidence.
 
@@ -10,7 +10,7 @@ The complete 294-object source range MTP-S000342–MTP-S000635, all 86 English p
 
 All ten golden-history notes and their three change records / eight uncertainty obligations, all 326 native-audit findings with their individual locators and corresponding endnotes, all 294 anchor checks, and all nineteen image scope/provenance records were reviewed. This is a record-and-apparatus review. This reviewer did not visually inspect native images or repeat the historical nineteen-page native comparison.
 
-**Interim coverage:** complete for source, English and existing 396-note apparatus; fresh terminology-ledger and final-output review are pending. **Whole-package disposition:** undetermined until those remaining inputs are reviewed. The three concrete author findings below have been independently confirmed and their exact revised delta accepted. No additional concrete source/English/apparatus correction blocker was established within the reviewed scope.
+**Coverage:** complete for the requested chapter 4 source, English, 396-note apparatus, frozen lexical records and generated chapter projections. **Disposition:** ready with explicit review flags. The three concrete findings below have been corrected and their exact revised delta accepted. No further concrete correction blocker was identified within this scope. The five explicitly unresolved pairs, other disclosed syntactic alternatives, inactive terminology proposals and native-source review limits remain open review items. This is readiness for human editing with flags, not publication clearance, human certification or approval of proposed equivalents.
 
 Reviewed revised English SHA-256: `745f0a69648f09cc598a3ff88fed7d4a3c76670c1afdd2d5fc8e3518ea30944d`.
 
@@ -60,10 +60,29 @@ The review preserves ordinary mind, conceptual mind, awareness, primordial knowi
 
 All twenty-five elemental descriptions retain their received order and surprising predicates. Instrumental versus genitive distinctions at S566/S572, liberation as/by relationships, the narrative and dialogue transitions, the two-number gestation sequence and the chapter colophon were reviewed without harmonization. Seven groups of seven is not silently turned into a new time unit or reconciled with ten months. Source-layer notes are not inserted as root text. Lowercase ground/ground-appearance remains a disclosed presentation choice.
 
-## Mechanical support and remaining review
+## Mechanical support and final projection review
 
 Independent read-only checks confirmed exact reconstruction of all 294 golden objects in 86 source pairs; identical pair order and roles; all 396 note definitions, references and mapped scopes; all 337 required source obligations; and complete state-note bindings. There are 65 verse pairs / 272 source lines, nineteen metadata pairs, one opening prose pair and one two-object chapter-colophon pair. Statuses remain 62 translated, five unresolved and nineteen nontranslatable. These are representation counts, not accuracy measures.
 
 A comparison with the exact saved baseline found only pair 155's added quotation mark and altered definitions T04-008/T04-010. The original archive, fixed source, canonical glossary, note maps, pair statuses and sealed audit were not revised by this QC agent.
 
-Fresh usage/proposal files, final generated reading/bilingual/machine/coverage projections, their exact manifest bindings and the machine-readable QC disposition remain pending. The thirty semantic fixtures in the standard were read, not newly executed. This review makes no claim to semantic certification, human certification, complete commentary translation, complete multi-layer proofreading or exhaustive witness collation.
+The fresh lexical inventory was read in full: 206 records / 528 recorded source loci, comprising 140 provisional records / 245 loci and 66 grammatical records / 283 loci. Every record's identity, category, lookup form, canonical entry, English realization, exact source spans, pair and note bindings, comparison heads, and condition evidence were reviewed. All 137 proposals were reviewed in the complete eight-column schema, including allowed forms, exclusions, related entries, provenance and inactive status. Repeated identical allowed-forms/status text was read once and verified to apply identically to all rows. This is not an exhaustive routine-token alignment claim.
+
+The lexical files remain `usage.json` SHA-256 `457654a0f3493c23bd6b10b6f9c318021f9299bd4b464e1a817061ba9baf2e86` and `glossary-proposals.json` SHA-256 `750dcf69a50a603e03661104426ed91a4aa7dcd82baa01de65072c4825e729ec`. Both bind to the revised English above. Independent checks confirmed every exact recorded span in its fixed source object, every pair allocation and actual local reader-note reference, and all sixty authored notes' representation in the ledger. Proposal headwords equal the complete union of provisional records; each proposal's source and note citations equal its recorded locus union. Canonical and comparison heads exist in the unchanged glossary. These checks establish traceability; lexical acceptability was assessed separately against the actual source, English, notes and glossary.
+
+No additional lexical correction blocker was found. Apparent English collisions and related forms remain separated: acoustic sound versus canonical Word; anatomical vital organs versus Meaning; physical holds versus Apprehending subject; and the colophon genre Tantra versus Continuum at S455. Other compounds, ritual vocabulary and tentative verbal readings are supported as local proposals, not authorized defaults. S378–S379's subject/space alternative is now also represented in the ledger. Retained unresolved Tibetan is not assigned an invented equivalent. All 137 proposals remain inactive; no glossary activation is recommended by this QC alone.
+
+The actual generated English reading was inspected through all 86 anchored blocks, including metadata, every dialogue transition, all 272 verse lines and the final colophon. The bilingual projection's actual structure and source/English content were checked against the fully reviewed canonical pairs. Independent parsing reversed only the documented reading wrappers and verse hard-break presentation, confirming every English block exactly; the bilingual check confirmed every raw source and English block, role and format exactly. Machine output was compared field by field for all 86 records, including all 294 embedded golden objects, exact source and English, status, reasons and note IDs. All 396 complete endnote definitions agree with the reviewed inputs in the reading, bilingual and machine projections; the machine note map also agrees exactly. This is inspection of the generated Markdown and JSON, not a browser, PDF or native-image visual proof.
+
+The final manifest is SHA-256 `f3e9d9e02c83c4d5f0f7a1e156b4ad5f6d84271bf6f724cb22e307151377bed0`. All 37 manifest input files and four output files were independently rehashed. Reviewed outputs:
+
+| File | SHA-256 |
+| --- | --- |
+| `reading.md` | `b614a637fd4ff6e2d044d8b22a4df58cbc11d872ddfc82e08edc89b1345d08d0` |
+| `bilingual.md` | `5bb8a41446a2be1265204fb33dbef8eff8c4cf23e89b090cb3e58fc80d2d3353` |
+| `machine.json` | `e9e8a2a42e9f8d88a479d30ba43d0ec4e0b4b80c1665b381194a0ee1c800c683` |
+| `coverage.json` | `195535e24e1c70a1c9b8a03c67128923f658b671c3bb045f73690f98ca7ad8f6` |
+
+Coverage reports the independently confirmed 86 pairs / 294 objects, 396 notes, 337 covered source obligations and zero omitted chapter objects or source obligations. Its source-role, format and status totals agree with the underlying inputs. Five unresolved pairs do not become resolved because coverage is complete. The machine, coverage and manifest claims of automated semantic certification and independent human certification remain false.
+
+The thirty semantic fixtures in the standard were read, not newly executed. No further probable defect requiring correction was identified; the meaningful alternatives remain in the local notes and records described above. No missing supplied input prevents the bounded text-and-record review. Native visual comparison was not repeated, and the absent historical 397-note package was not recovered or certified. This review makes no claim to semantic certification, human certification, complete commentary translation, complete multi-layer proofreading or exhaustive witness collation. The reviewer writes only this report and its bound machine-readable QC record; final release review and signoff belong to the lead agent.

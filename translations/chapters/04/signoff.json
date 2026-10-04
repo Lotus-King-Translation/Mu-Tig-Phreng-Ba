@@ -1,0 +1,23 @@
+{
+  "chapter": 4,
+  "approved": true,
+  "reviewer": "/root",
+  "build_manifest_sha256": "f3e9d9e02c83c4d5f0f7a1e156b4ad5f6d84271bf6f724cb22e307151377bed0",
+  "output_sha256": {
+    "reading.md": "b614a637fd4ff6e2d044d8b22a4df58cbc11d872ddfc82e08edc89b1345d08d0",
+    "bilingual.md": "5bb8a41446a2be1265204fb33dbef8eff8c4cf23e89b090cb3e58fc80d2d3353",
+    "machine.json": "e9e8a2a42e9f8d88a479d30ba43d0ec4e0b4b80c1665b381194a0ee1c800c683",
+    "coverage.json": "195535e24e1c70a1c9b8a03c67128923f658b671c3bb045f73690f98ca7ad8f6"
+  },
+  "qc_sha256": "bb2faa72a35c45b51205119ceb558b342f9681f7b918d6ddf5af7011c875497f",
+  "review_path": "translations/chapters/04/FINAL-REVIEW.md",
+  "review_sha256": "99046d09bc56e9f0b5d840c641947d4f29270f1cb9b54482db5ac9285aaa3772",
+  "approval_scope": "Fresh annotated working edition with explicit review flags; strict genuine sequential final publication remains required. No glossary activation or human certification.",
+  "supporting_sha256": {
+    "translations/chapters/04/AUTHOR-SELF-CHECK.md": "a12541e4d29c0e3c1e84f6f7be700fe0587bfe02b35af783c4b68d43c8f45e72",
+    "translations/chapters/04/changes.json": "697c17d9290a62a9f7f38f225a7c54e19b0b85db3f0778c350b890cc47803735",
+    "translations/chapters/04/STRUCTURAL-CHECKS.md": "b8cdcce8451c3bf8e410f760fee8f26afed0100d4f4be77f3bd76eacd4c40ab9",
+    "translations/chapters/04/STRUCTURAL-CHECKS.json": "883f817844a3f74d956342d3454446e3925ff4ab1668cd24b2b9c5acfa199b19",
+    "translations/chapters/04/unsigned-final-check.json": "32f3b1de3580bfda1dee010f6c42fc1ba6cd98ecfed1eff53de4181531da5c35"
+  }
+}
