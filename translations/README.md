@@ -9,7 +9,7 @@ All 2053 fixed objects are represented in 674 pairs with 2597 locally linked not
 | 1 | 97 | 30 | 112 | [`translate-ch01-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch01-v1) |
 | 2 | 124 | 35 | 175 | [`translate-ch02-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch02-v1) |
 | 3 | 120 | 34 | 165 | [`translate-ch03-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch03-v1) |
-| 4 | 294 | 86 | 396 | Fresh final review in progress |
+| 4 | 294 | 86 | 396 | Signed reviewed candidate; tag pending |
 | 5 | 416 | 135 | 520 | Signed reviewed candidate; tag pending |
 | 6 | 376 | 132 | 435 | Signed reviewed candidate; tag pending |
 | 7 | 342 | 115 | 373 | Signed reviewed candidate; tag pending |

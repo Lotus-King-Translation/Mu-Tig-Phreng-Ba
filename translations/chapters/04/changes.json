@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CH04-REVIEW-C001",
+    "class": "presentation",
+    "locus": [
+      "MTP-S000539"
+    ],
+    "pair_id": "MTP-000155",
+    "note_id": "T04-114",
+    "old": "The unceasing six collections are realization.[^T04-114]",
+    "new": "The unceasing six collections are realization.”[^T04-114]",
+    "reason": "Close the speech opened at MTP-000144 before the explicit narrative at MTP-000156; source wording and speaker identities are unchanged.",
+    "date": "2026-10-04",
+    "author": "/root/ch04_author",
+    "baseline_commit": "730921898da3e3328bb42d97abea7672bf44afcd",
+    "baseline_translation_sha256": "8627e157e03828b36d23017b1a29520a68c8289e1465af18b7aab94ac7cb733a",
+    "authority": "Fresh author review, independent QC concurrence and coordinator GO; no historical missing final review is presumed."
+  },
+  {
+    "id": "CH04-REVIEW-C002",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S000389",
+      "MTP-S000391",
+      "MTP-S000393"
+    ],
+    "pair_id": "MTP-000115",
+    "note_id": "T04-010",
+    "old": "the two causal endings and the implicit subject",
+    "new": "the three causal endings as provisionally construed and the implicit subject",
+    "reason": "The current English provisionally construes three source endings causally, not two. Correct the supporting note count while preserving the provisional interpretation and all root English.",
+    "date": "2026-10-04",
+    "author": "/root/ch04_author",
+    "baseline_commit": "730921898da3e3328bb42d97abea7672bf44afcd",
+    "baseline_translation_sha256": "8627e157e03828b36d23017b1a29520a68c8289e1465af18b7aab94ac7cb733a",
+    "authority": "Fresh author review, independent QC concurrence and coordinator GO; no historical missing final review is presumed."
+  },
+  {
+    "id": "CH04-REVIEW-C003",
+    "class": "semantic/syntactic",
+    "locus": [
+      "MTP-S000378",
+      "MTP-S000379"
+    ],
+    "pair_id": "MTP-000113",
+    "note_id": "T04-008",
+    "old": "S376’s causal clause continues at S378. མཁའ is the short space form, distinct from basic space;",
+    "new": "S376’s causal clause continues at S378. In S378–S379, the retained “plays in the space of empty primordial knowing” tentatively takes སྟོང་པའི་ཡེ་ཤེས་མཁའ as a compound nominal space phrase and carries the preceding expanse forward as subject; the Tibetan does not express an additional genitive between primordial knowing and space. The alternative “empty primordial knowing plays in space” changes subject and attachment and remains possible. This relational supply is not settled by the English and requires review. མཁའ is the short space form, distinct from basic space;",
+    "reason": "Disclose the material subject and attachment supply in the retained English. The alternative is recorded as possible rather than confidently replacing the source interpretation.",
+    "date": "2026-10-04",
+    "author": "/root/ch04_author",
+    "baseline_commit": "730921898da3e3328bb42d97abea7672bf44afcd",
+    "baseline_translation_sha256": "8627e157e03828b36d23017b1a29520a68c8289e1465af18b7aab94ac7cb733a",
+    "authority": "Fresh author review, independent QC concurrence and coordinator GO; no historical missing final review is presumed."
+  }
+]

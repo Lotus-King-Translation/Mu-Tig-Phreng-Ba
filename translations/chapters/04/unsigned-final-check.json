@@ -1,0 +1,8 @@
+{
+  "chapter": 4,
+  "command": "translation_pipeline.final_gate(root,4)",
+  "passed": true,
+  "expected_rejection": "Unsigned translation: final signoff missing",
+  "build_manifest_sha256": "f3e9d9e02c83c4d5f0f7a1e156b4ad5f6d84271bf6f724cb22e307151377bed0",
+  "scope": "Content signoff rejection; strict whole publication gate still requires genuine chapter2/3 releases."
+}
