@@ -487,6 +487,217 @@ Unmoved from the Ground, [there is] stable abiding itself.[^T07-046]
 
 Since [it] generates bliss, [it is] suffering itself.[^T07-046]
 
+<!-- pair: MTP-000531 -->
+
+[Printed page 515.]
+
+<!-- pair: MTP-000532 -->
+
+Since all is complete without exception, [it is] origin;
+since there is no change, [it is] called the path;
+since [it is] free of conditions, [it is] cessation itself.[^T07-047]
+
+<!-- pair: MTP-000533 -->
+
+Since [it is] naturally arising, [it is] with outflows;
+since [it is] free from conceptual elaborations, [it is] without outflows.
+Since dharma embodiment is attained, [it is] beyond the stages;
+[what is] with stains abides.[^T07-048]
+
+<!-- pair: MTP-000534 -->
+
+Being the Ground for expression, [it is] the teacher;
+unchanging, [it is] the place; the arising assembly is the retinue;
+since the distinction is realized, [it] is also time.[^T07-049]
+
+<!-- pair: MTP-000535 -->
+
+In awareness, ordinary mind and body, all is complete.
+Since that itself is complete,
+there is no place to find [it] by searching elsewhere.”[^T07-050]
+
+<!-- pair: MTP-000536 -->
+
+Then awareness without ordinary mind
+petitioned the body without phenomena in these words:[^T07-051]
+
+<!-- pair: MTP-000537 -->
+
+“Since all the phenomena that appear in this way
+are all primordially complete in oneself,[^T07-051]
+
+<!-- pair: MTP-000538 -->
+
+[Printed page 516.]
+
+<!-- pair: MTP-000539 -->
+
+for phenomena set out as signs in words and letters,
+there is no need.
+Therefore, for this body without phenomena,
+how could that ordinary mind be needed?[^T07-051][^T07-052]
+
+<!-- pair: MTP-000540 -->
+
+If that ordinary mind is absent, insentient matter
+cannot generate.
+How can ungenerated meanings arise?[^T07-053]
+
+<!-- pair: MTP-000541 -->
+
+If that itself has no ordinary mind that remembers and thinks,
+what difference is there from a corpse in a charnel ground?
+Or [it is] just like space.[^T07-054]
+
+<!-- pair: MTP-000542 -->
+
+If that is so, how, through emptiness,
+could benefit for sentient beings arise?
+If that is not reasonable,
+chief, grant me your word.”[^T07-055]
+
+<!-- pair: MTP-000543 -->
+
+Then, from appearance without an object,
+the teacher without phenomena spoke:[^T07-051]
+
+<!-- pair: MTP-000544 -->
+
+“Retinue of remembering and thinking without ordinary mind, listen!
+Since ordinary mind arises [from] a gathered collection,
+a stain itself, and also [སྔགས་པས: construction unresolved];
+the all-basis—the ordinary mind that gathers—and so forth,[^T07-051][^T07-056]
+
+<!-- pair: MTP-000545 -->
+
+[Printed page 517.]
+
+<!-- pair: MTP-000546 -->
+
+since [these] fall within the number of stains,
+the distinction between ordinary mind and primordial knowing
+should be known by the learned.[^T07-056]
+
+<!-- pair: MTP-000547 -->
+
+Ordinary mind is the Ground of all habitual tendencies,
+the stain of bodied beings.
+[It] is apprehended object and apprehending subject.
+Therefore, [it is] the nature of phenomena of saṃsāra.[^T07-057]
+
+<!-- pair: MTP-000548 -->
+
+If free of that ordinary mind, [there is] the stage of buddhahood;
+the stains of all bodied beings are exhausted.[^T07-057]
+
+<!-- pair: MTP-000549 -->
+
+Beings go through that ordinary mind;
+without it, [they] cannot go.
+Therefore, beings are like mechanical devices.[^T07-058]
+
+<!-- pair: MTP-000550 -->
+
+Since [ཐུགས: unresolved] is free from all stirring,
+[it] is not like insentient matter.
+[It] knows and is aware; [it] makes clear and appears.
+Burning all differentiating conceptualization,
+primordial knowing itself consumes like fire.[^T07-059]
+
+<!-- pair: MTP-000551 -->
+
+[It is] equal to space itself:[^T07-060]
+
+<!-- pair: MTP-000552 -->
+
+[Printed page 518.]
+
+<!-- pair: MTP-000553 -->
+
+empty and clear, endowed with awareness.
+Therefore, primordial knowing is shown as appearance.
+Since effortless compassionate responsiveness is self-arising,
+[it] pervades and connects with all; all phenomena are complete.[^T07-060]
+
+<!-- pair: MTP-000554 -->
+
+Since mindfulness itself is without mindfulness,
+primordial knowing is free of the very Ground of mindfulness.[^T07-061]
+
+<!-- pair: MTP-000555 -->
+
+Primordial knowing itself is like this:
+primordial knowing pure from the Ground,
+[primordial knowing] that holds characteristics, and [that which] pervades objects.[^T07-062]
+
+<!-- pair: MTP-000556 -->
+
+Because the all-basis itself accumulates,
+as for dharma embodiment, outflows are exhausted.
+Empty and clear, clear and pervading,
+unpolluted by thinking, with mindfulness cleared,
+free from conceptual elaborations themselves,
+[it] pervades everywhere like space, empty[^T07-063]
+
+<!-- pair: MTP-000557 -->
+
+[Printed page 519.]
+
+<!-- pair: MTP-000558 -->
+
+and free from all indication of itself.[^T07-063]
+
+<!-- pair: MTP-000559 -->
+
+In the all-basis with causes and conditions,
+since habitual tendencies accumulate, [it is] like a pool.
+Dharma embodiment is free of habitual tendencies.[^T07-064]
+
+<!-- pair: MTP-000560 -->
+
+From the gathering of mental faculty, ordinary mind and so forth,
+the all-basis of bodied beings appears as many.
+Since dharma embodiment is free of mental faculty and so forth,
+[there is] no [དུམ་གཟུགས་སྣང་ལུས: construction unresolved].[^T07-065]
+
+<!-- pair: MTP-000561 -->
+
+Since the five great elements appear as body,
+the five lights of the refined essence are obscured by stains.
+Since the subtle and coarse five appear as objects,
+the five colors, too, are accompanied by dust.[^T07-066]
+
+<!-- pair: MTP-000562 -->
+
+Since the knots of the elements are self-liberated,
+the great five also become clear as five lights.
+Since subtle and coarse stains withdraw of themselves,[^T07-067]
+
+<!-- pair: MTP-000563 -->
+
+[Printed page 520.]
+
+<!-- pair: MTP-000564 -->
+
+the five colors are clear, unmixed.[^T07-067]
+
+<!-- pair: MTP-000565 -->
+
+Since [བག་རྡུལ: unresolved] clears of itself into space,
+the five primordial knowings arise as light.
+Since the five domains—objects of focus—are self-liberated,
+the five expressivenesses of the elements dissolve into the mother.[^T07-068]
+
+<!-- pair: MTP-000566 -->
+
+Since objects and knowing vanish of themselves,
+the [དངོས་མ: unresolved] of the elements dissolves into light.
+Therefore, distinguish the refined part and dregs of the elements.”[^T07-069]
+
+<!-- pair: MTP-000567 -->
+
+Thus, from the precious tantra String of Pearls, the seventh chapter, teaching that all the phenomena of saṃsāra and nirvāṇa are complete in oneself.[^T07-070]
+
 <!-- endnotes -->
 
 [^T07-001]: Location: golden-v1, S1429–S1438/S1441 and S1508, printed502/506. Exact forms རྡོ་རྗེ་འཛིན་པ, རྡོ་རྗེ་འཆང, སེམས་ཅན, བཅོམ་ལྡན་འདས and བདེ་བ have no complete canonical assignments. “Holder of the vajra,” “Vajradhara,” “sentient beings,” “Bhagavān” and “bliss” are local provisional treatments; great qualifies Vajradhara only where ཆེན occurs. The holder is the petitioner, not the addressee. འཁོར་འདས is provisionally “saṃsāra and nirvāṇa,” འཁོར་བ “saṃsāra,” and bare ཆོས “phenomena.” These whole expressions do not shorten canonical ordinary mind or replace nature of phenomena. Review the uncovered titles and terms; prior chapter usage is not approval.
@@ -581,3 +792,50 @@ Since [it] generates bliss, [it is] suffering itself.[^T07-046]
 
 [^T07-046]: Location: S1661–S1668, printed514. Sūtra collection, Vinaya and Abhidharma remain provisional collection labels. Their explanations preserve རྟོགས realization, འདུལ subduing and མངོན manifesting; the latter two echo the Tibetan collection names rather than introducing new doctrinal definitions. S1664 has ཕལ་ཆེར, provisionally for the most part, different from earlier ཕལ་ཆེན: its appearance/self-awareness relation remains open. S1665’s all exists, S1666’s Honored-by-All and S1667’s གནས་བརྟན stable abiding retain literal explanatory wordplay rather than silently substituting school names; གནས་བརྟན is not earlier གནས་བསྟན. The Ground-for-expression relation remains visible. Finally བདེ་བ་བསྐྱེད་ཕྱིར་སྡུག་བསྔལ explicitly makes generating bliss a reason for suffering; that surprising causality is preserved with [it] supplied, not reversed. Review these attachments and forms; the truth explanations continue beyond this batch.
 
+[^T07-047]: Location: S1670–S1672, printed515. The provisional truth labels origin (ཀུན་འབྱུང་པ), path and cessation retain the source’s order after the preceding suffering statement. The reasons are respectively completeness without exception, absence of change, and freedom from conditions. [It] supplies the omitted subject without fixing a new referent. The unusual explanatory predicates are not replaced by textbook definitions, and འགོག་པ is not automatically canonical denying or self-cessation. Review these local labels and the carried subject.
+
+[^T07-048]: Location: S1673–S1676, printed515. Bare རང་བྱུང remains provisionally naturally arising, distinct from canonical self-arising and without adding primordial knowing. ཟག་བཅས/ཟག་མེད remain with/without outflows, and bare དྲི་མ stains; these are unapproved technical usages, not lexical equivalents of one another. The expanded སྤྲོས་དང་བྲལ construction preserves free from conceptual elaborations. ས་ལས་འདས is provisionally beyond the stages, not beyond the Ground. The causal attainment of dharma embodiment and the final stained/abiding statement remain distinct; [what is] exposes the supplied subject of དྲི་མ་དང་བཅས་པ་གནས་སོ. Review that subject/predicate attachment without importing a stage into the final line.
+
+[^T07-049]: Location: S1677–S1679, printed515. བརྗོད་པའི་གཞི is the Ground for expression, preserving the canonical Ground in this relational construction. Teacher, place, arising assembly, retinue and time are local treatments of སྟོན་པ, གནས, འབྱུང་ཚོགས, འཁོར and དུས. Here nominal place is distinct from verbal abiding. The compressed second line provisionally pairs unchanging with place and arising assembly with retinue; its implicit copulas and the carried [it] are supplied. The final reason preserves realization of ཁྱད་པར, provisionally the distinction, without specifying what differs. Review those attachments and the unusual time predicate.
+
+[^T07-050]: Location: S1680–S1682, printed515. Exact རིག་སེམས་ལུས་ལ is provisionally enumerated as in awareness, ordinary mind and body; the unwritten conjunctions do not establish a three-member doctrinal taxonomy. Body for ལུས remains distinct from embodiment for སྐུ. གཞན་ནས and བཙལ་བས་རྙེད་པའི་གནས are rendered by searching elsewhere and a place to find [it]. The object is supplied from the preceding completeness claim; place is a local nominal usage, not a change to canonical abiding. The two English closing lines redistribute elsewhere to keep the full causal conclusion coherent. Review the compressed first-line grouping and final locus/possibility relation.
+
+[^T07-051]: Location: S1683–S1686/S1690/S1702–S1704, printed515–516. Awareness without ordinary mind (སེམས་མེད་རིག་པ), body without phenomena (ཆོས་མེད་ལུས), teacher without phenomena (ཆོས་མེད་སྟོན་པ) and retinue of remembering and thinking without ordinary mind (སེམས་མེད་དྲན་བསམ་འཁོར) are provisional personified participants, not identifications with an unstated deity. The petitioner’s agency, the addressed body, the teacher’s speech and its emergence from objectless appearance remain distinct. Bare phenomena, body and object are local usages; ordinary mind and awareness retain their complete canonical terms. The opening question keeps both all expressions and primordial completeness in oneself. དྲན་བསམ is tentatively remembering and thinking; remembering is a contextual proposal beside canonical mindfulness, not its replacement. Review the title grouping, negative scope and supplied relation of the remembering/thinking retinue.
+
+[^T07-052]: Location: S1688–S1691, printed516. The genitive phrase ཚིག་དང་ཡི་གེ་བརྡར་བཀོད་པའི qualifies ཆོས: phenomena set out as signs in words and letters is provisional, with the predicate there is no need kept on the next line. ཚིག is provisionally words and remains distinct in the record from canonical word for སྒྲ; letters and signs are uncovered technical usages. No names are added from a different canonical compound. Bare ཆོས is kept as phenomena here, without silently selecting Dharma or teaching. The following question retains that ordinary mind and this body without phenomena. Review the language/phenomena relation and the no-need predicate across the preceding page break.
+
+[^T07-053]: Location: S1692–S1694, printed516. བེམ་པོས is provisionally insentient matter as the agent of cannot generate; the source supplies no explicit generated object, and none is added. Causative བསྐྱེད/མ་བསྐྱེད are distinguished from འབྱུང arise. Exact མ་བསྐྱེད་དོན་རྣམས keeps canonical meanings in the tentative ungenerated meanings construction. Whether the noun concerns meanings or referents, and how the negated generation qualifies it, remain open. Review these relations without supplying an unstated object or converting every verb to arising.
+
+[^T07-054]: Location: S1695–S1697, printed516. དེ་ཉིད་དྲན་བསམ་སེམས་མེད་ན is tentatively parsed as that itself has no ordinary mind that remembers and thinks. This takes དྲན་བསམ as qualifying ordinary mind; an enumerative attachment remains possible. Remembering is an explicitly provisional contextual treatment relative to canonical mindfulness, and thinking for བསམ does not silently establish conceptual thought or differentiating conceptualization. The conditional, question of difference, corpse in a charnel ground and alternative space comparison are all retained. [It is] supplies the last copula’s subject. Review the negation scope and compressed ordinary-mind construction.
+
+[^T07-055]: Location: S1698–S1701, printed516. The first conditional’s སྟོང་པས is tentatively through emptiness, with its causal/instrumental relation still open. In སེམས་ཅན་དོན, benefit for sentient beings is an explicitly provisional contextual exception beside canonical meaning for དོན; it does not replace meanings in S1694. རིགས་པ is provisionally reasonable, not awareness (རིག་པ). Fixed མ་ལགས་ན remains if that is not reasonable, without changing its negation or conditional force. Chief and grant me your word locally realize the petition’s གཙོ་བོས་བཀའ་སྩོལ; word here translates བཀའ, not སྒྲ. Review the emptiness relation and request formula.
+
+[^T07-056]: Location: S1705–S1707/S1709–S1711, printed516–517. Exact འདུས་ཚོགས་འབྱུང་བའི་ཕྱིར is tentatively because ordinary mind arises [from] a gathered collection; from marks a relation not separately case-marked. S1706 reads དྲི་མ་ཉིད་དང་ཡང་སྔགས་པས. Stain itself, and also is retained, but སྔགས་པས remains unresolved: neither a praising/designating construction nor mantra is certified, and no བསྔགས spelling is substituted. ཀུན་གཞི་སྡུད་པའི་སེམས is provisionally appositional, the all-basis—the ordinary mind that gathers; its collector/object relation is unsettled. [These] resumes that phrase and so forth after the page marker. The resulting instruction explicitly distinguishes ordinary mind and primordial knowing and assigns knowing the distinction to the learned. Review the unresolved causal/classifying syntax; the English does not claim the whole S1705–S1709 sentence is settled.
+
+[^T07-057]: Location: S1712–S1717, printed517. The Ground of all habitual tendencies preserves canonical Ground in the genitive construction; stain and bodied beings are local provisional labels for དྲི་མ and ལུས་ཅན. The two separately written predicates གཟུང་བ་ཡིན་ལ་འཛིན་པ་ཡིན retain apprehended object followed by apprehending subject. At S1715, འཁོར་བའི་ཆོས་ཉིད is provisionally saṃsāra’s nature of phenomena, preserving that canonical expression; a boundary between phenomena and emphatic ཉིད is also possible and remains unresolved. སངས་རྒྱས་ས is provisionally stage of buddhahood, not the Ground. The conditional freedom from that ordinary mind and exhaustion of all bodied beings’ stains remain explicit. Review the S1715 boundary and the supplied predicate of the conditional.
+
+[^T07-058]: Location: S1718–S1720, printed517. འགྲོ་བ/འགྲོ are provisionally beings and go; the repetition of going is retained in both the positive and negative clauses. Ordinary mind is the explicitly stated condition of going. འཁྲུལ་འཁོར is tentatively mechanical devices as a whole expression, not a mechanical reconstruction as wheels of delusion. This is an unapproved contextual comparison, not a new canonical equivalent. Review the whole-expression sense and the beings/go relationship.
+
+[^T07-059]: Location: S1721–S1725, printed517. Bare ཐུགས has no canonical assignment and remains visible unresolved; neither enlightened intent nor compassionate responsiveness is imported from another expression. བསྐྱོད་པ is tentatively stirring, with the causal པས preserved despite the unexpected connection to not being like insentient matter. Insentient matter is the same provisional བེམ་པོ treatment as in the question. S1723’s knowing, awareness, making clear and appearance are provisionally verbal predicates with [it] supplied; the attachment of གསལ་བྱེད་སྣང remains reviewable. Expanded རྣམ་པར་རྟོག་པ retains differentiating conceptualization, distinct from realization. The final English takes primordial knowing as the subject of burning and consuming like fire, with the consumed object recoverable from the preceding conceptualization clause, not from an added doctrine. Review bare thugs, the causal link and the shared-subject attachment.
+
+[^T07-060]: Location: S1726/S1728–S1731, printed517–518. The space comparison continues across metadata: སྟོང་གསལ་རིག་བཅས is tentatively empty and clear, endowed with awareness, retaining this order and the endowed-with relation rather than substituting a reversed clarity-emptiness compound. ཡེ་ཤེས་སྣང་བར་སྟོན is provisionally primordial knowing is shown as appearance; agency is unspecified and the appearance attachment remains reviewable. Effortless for འབད་མེད is a local gap treatment, not a silent replacement for free from doing. Self-arising compassionate responsiveness preserves both canonical terms. The final clause separately retains pervasion, connection with all and all phenomena being complete; [it] tentatively resumes compassionate responsiveness. Review the carried subject and final attachment.
+
+[^T07-061]: Location: S1732–S1733, printed518. The repeated དྲན family is kept as canonical mindfulness: mindfulness itself is without mindfulness, and primordial knowing is free of the very Ground of mindfulness. The apparent paradox and explicit causal relation are preserved. དྲན་གཞི is provisionally treated as this relational Ground construction; it does not establish a new lexicalized compound. The reference and force of the negated mindfulness remain open, and remembering would be a contextual proposal rather than an approved substitute. Review the construction without smoothing away either occurrence or the negative.
+
+[^T07-062]: Location: S1734–S1736, printed518. The enumeration retains primordial knowing pure from the Ground (གཞི་ནས་དག་པའི་ཡེ་ཤེས), holding characteristics (མཚན་ཉིད་འཛིན) and pervading objects (ཡུལ་ཁྱབ). [Primordial knowing] and [that which] explicitly supply parallel heads in the compressed final line. Characteristics, verbal holding and bare objects are provisional local usages; holding is not automatically canonical apprehending subject, and characteristics is not specifically characterized reality. The source does not explicitly number or name a conventional fivefold set here. Review the enumeration’s internal relations and the repeated heads.
+
+[^T07-063]: Location: S1737–S1742/S1744, printed518–519. S1737 explicitly has བསག་པའི་ཕྱིར, because [it] accumulates. The working English keeps its causal form before the shift from all-basis to dharma embodiment, but does not certify how this reason attaches to the following outflow statement; that relation remains unresolved. No accumulated object or is-so-called formula is supplied. Expanded ཆོས་ཀྱི་སྐུ retains dharma embodiment; outflows remains the provisional ཟག་པ usage. Both clear occurrences in སྟོང་ཞིང་གསལ་བ་གསལ་ཞིང་ཁྱབ remain visible. Thinking for བསམ་པས and cleared for bare སངས are provisional; cleared mindfulness is not canonical self-purified because no self term is present. The expanded freedom-from-conceptual-elaborations wording is retained. After the page break, རང་མཚོན་པ is provisionally indication of itself, preserving མཚོན rather than changing it to canonical མཚན. Review the initial causal attachment and final self-indication scope.
+
+[^T07-064]: Location: S1745–S1747, printed519. The all-basis with causes and conditions is the locative setting for habitual tendencies accumulating and the pool comparison. The English tentatively takes the pool’s referent as the all-basis and marks [it is]. Exact unsuffixed བག་ཆག is treated as an attested form of habitual tendencies in both accumulating and freedom statements, without altering the source spelling. Expanded ཆོས་ཀྱི་སྐུ retains dharma embodiment. The accumulation/freedom opposition and the pool image are preserved; review their compressed subject and causal relations.
+
+[^T07-065]: Location: S1748–S1751, printed519. Mental faculty and ordinary mind remain separate canonical terms. Gathering and the all-basis of bodied beings are tentative treatments of འདུས་པ and ལུས་ཅན་ཀུན་གཞི; of exposes a possessive reading not separately marked, and a bodied-all-basis attachment remains possible. The dharma-embodiment clause explicitly gives freedom from mental faculty and so forth as its reason. Exact དུམ་གཟུགས་སྣང་ལུས is retained unresolved under the negative: although form, appearance and body are recognizable components, their relation to unusual དུམ cannot be responsibly fixed. Native audit MTP-AUDIT-C07-289 confirms visible dum/gzugs with interleaved smaller explanation but leaves root-layer allocation uncertified; omission267 separately records the untranscribed explanation. The fixed source is not repaired and no omitted annotation is translated. Review both the all-basis attachment and this lexical/source-layer uncertainty.
+
+[^T07-066]: Location: S1752–S1755, printed519. Five great elements, five lights, subtle and coarse five, five colors and dust are local technical treatments, preserving every number and the subtle-before-coarse order. དངས་མ is provisionally refined essence; this is explicitly distinct from canonical essence for ངོ་བོ and from later fixed དངོས་མ. In S1753 the fixed five is retained even though native audit MTP-AUDIT-C07-290 cannot certify whether the visible interleaved ལྔ belongs to root or explanation; omission269 records the separate untranscribed color explanation. No color list is inserted. ཕྲ་རགས་ལྔ leaves the understood head and five’s scope compressed, so the English does not claim five of each. Appearing as body/objects and the two causal clauses remain distinct. Stains for དྲི་མ are not equated with dust for རྡུལ. Review the refined-essence proposal, five’s layer/scope and the object-appearance relation.
+
+[^T07-067]: Location: S1756–S1758/S1760, printed519–520. The knots of the elements retain their canonical self-liberation predicate; no anatomical detail is added. The great five provisionally resumes the five great elements without silently replacing the ellipsis by a new list. Five lights and five colors remain explicit. རང་ལོག is tentatively withdraw of themselves, a distinct action from self-liberation, clearing and vanishing in adjacent clauses. The subtle/coarse stains’ causal clause continues across metadata into the colors statement. མ་འདྲེས is provisionally unmixed, using the established mix family rather than introducing integrate. Review the elliptical five, withdrawing verb and unmixed form; none is a new approved glossary assignment.
+
+[^T07-068]: Location: S1761–S1764, printed520. Exact བག་རྡུལ remains unresolved: a dust/residue interpretation is possible, but ཆགས is not supplied and the expression is not declared habitual tendencies. རང་དེངས is provisionally clears of itself, keeping space as its locus and remaining distinct from withdrawal and vanishing. The five primordial knowings’ arising as light retains both number and predicate. དམིགས་པའི་ཡུལ་ལྔ is tentatively five domains—objects of focus: the apposition preserves the canonical object-of-focus contribution while locally treating bare yul as domain, with a single fivefold set and no supplied sensory list. The five expressivenesses of the elements keep canonical expressiveness; མ་ལ is literally into the mother, whose referent remains unspecified. It is not silently identified as the Ground, basic space or primordial knowing. Review the retained term, focus/domain relation and mother reference.
+
+[^T07-069]: Location: S1765–S1767, printed520. Bare objects and canonical knowing are the stated subjects of རང་ཡལ, provisionally vanish of themselves, kept distinct from self-liberation and the adjacent clearing/withdrawal verbs. The exact དངོས་མ in the next line differs from earlier དངས་མ; it remains visible unresolved in the elements’ dissolution into light. A substance/essence interpretation is not silently imposed or normalized. The final དངས་སྙིགས is provisionally refined part and dregs, preserving both sides and the instruction to distinguish the elements. Smaller explanations remain outside the fixed root translation, including the separately inventoried S1767 annotation omission. Review the unusual noun and final technical pair.
+
+[^T07-070]: Location: S1768–S1769, printed520, chapter colophon. The title is provisionally the precious tantra String of Pearls, consistent with the project’s title treatment but without secret, which this colophon does not contain. Tantra for རྒྱུད is an explicitly occurrence-specific proposal beside canonical continuum; repeated title use does not approve a global alternative. འཁོར་འདས remains provisionally saṃsāra and nirvāṇa, and bare ཆོས phenomena. The seventh-chapter subject explicitly preserves all phenomena being complete in oneself and the teaching/showing relation. The two colophon objects are rendered together as prose and remain separate from the preceding verse. Review these title usages; source spelling and chapter number are unchanged.

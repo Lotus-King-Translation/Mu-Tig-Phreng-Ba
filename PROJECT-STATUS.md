@@ -1,7 +1,7 @@
 # Project status — 2026-10-04
 
 - Work: String of Pearls / མུ་ཏིག་ཕྲེང་བ་ / MTP
-- Phase: Chapter 7 middle English batch reviewed; chapter 6 signed reviewed candidate preserved on GitHub.
+- Phase: Chapter 7 complete English draft independently reviewed; chapter 6 signed reviewed candidate preserved on GitHub.
 - Repository: created from Lotus-King-Translation/tibetan-text-project-template.
 - Discovery streams: 3/3 bounded surveys completed: BDRC, external catalogues, electronic texts/translations.
 - Registered source/research records: 43, including unresolved leads and reference works.
@@ -22,6 +22,6 @@ Source deliverables include catalogue, source register, original scan archives, 
 
 ## Open work
 
-Chapter 6 is complete. The user’s 2026-10-04 “go on” instruction authorizes chapter 7 working continuation: 342 source objects and 19 native pages. Its 342 source objects are frozen in 115 pairs and pass source-only validation. The scoped continuation record is committed. All 19 native images have been compared, with one spelling difference and four uncertain source-layer objects retained. Its 304 source obligations are sealed. Two English batches cover 78 pairs / 241 objects with 46 translator notes; 37 pairs / 101 objects remain to draft. Two source-scope corrections are closed, with 25 unresolved pairs retained. Complete apparatus, lexical records and final whole-chapter review remain pending. Chapter 8 remains outside the current exception. Genuine formal publication and chapter 4 recovery remain separate open tasks. Full commentary translation, complete multi-layer scan proofreading and exhaustive witness collation are not claimed.
+Chapter 6 is complete. The user’s 2026-10-04 “go on” instruction authorizes chapter 7 working continuation: 342 source objects and 19 native pages. Its 342 source objects are frozen in 115 pairs and pass source-only validation. The scoped continuation record is committed. All 19 native images have been compared, with one spelling difference and four uncertain source-layer objects retained. Its 304 source obligations are sealed. The complete English draft covers all 115 pairs / 342 objects, 321 verse lines and 70 translator notes. Independent review of every pair and authored note is complete. Two source-scope corrections are closed, with 45 unresolved pairs retained. Complete source apparatus, final lexical records and final whole-chapter candidate review remain pending. Chapter 8 remains outside the current exception. Genuine formal publication and chapter 4 recovery remain separate open tasks. Full commentary translation, complete multi-layer scan proofreading and exhaustive witness collation are not claimed.
 
 Research leads remain: eight unexposed manifest indices (W1ER119:56,57,64,65,70,71; Langtang:84,85), two Degé-family scan mappings, authorized restricted/preview access, Rýznar's five-witness thesis, Wilkinson's Tibetan basis and Gangtey labels. No correspondence or purchase has been initiated. These are documented leads, not acquired independent witnesses or presumed missing text.

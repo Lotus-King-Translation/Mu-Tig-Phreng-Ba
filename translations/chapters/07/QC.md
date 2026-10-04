@@ -1,6 +1,6 @@
 # Chapter 7 independent QC — preparation
 
-Reviewer: `/root/ch07_qc`. Updated 2026-10-04. This is an independent agent review, separate from translation authorship. The first two English batches have been reviewed; no whole-chapter disposition or clearance is issued.
+Reviewer: `/root/ch07_qc`. Updated 2026-10-04. This is an independent agent review, separate from translation authorship. All three English batches and authored translator notes have been reviewed; the final lexical expansion and generated source apparatus remain pending, so no whole-chapter disposition or clearance is issued.
 
 ## Authority and finite scope
 
@@ -20,7 +20,7 @@ The translation review must retain local disclosure of S1472, S1564, S1751 and S
 
 ## Pending review
 
-English beyond pair 530, generated golden/native endnotes, and lexical support beyond the first batch remain to be reviewed when authored. The complete first-batch lexical ledger has been reviewed as recorded below. No complete chapter coverage or semantic disposition is asserted here. No automated semantic certification, independent human certification, full commentary transcription, complete multi-layer scan proofreading or exhaustive witness collation is claimed. The standard's thirty semantic regression fixtures have not been newly executed.
+Generated golden/native endnotes and lexical support beyond the first two batches remain to be reviewed when authored. All 115 English bodies and 70 authored translator notes have been reviewed, as has the cumulative first-two-batch lexical ledger. Complete apparatus coverage and a final chapter disposition remain pending. No automated semantic certification, independent human certification, full commentary transcription, complete multi-layer scan proofreading or exhaustive witness collation is claimed. The standard's thirty semantic regression fixtures have not been newly executed.
 
 ## First English batch: pairs 453–489
 
@@ -67,3 +67,23 @@ I read all 110 complete usage records, covering 163 source-object loci, and all 
 The recorded uses and scoped proposals preserve the protected compounds and disclose local exceptions rather than activating alternative defaults. Explicit occurrence modifiers, including five, four, great and single, are distinguished from bare proposed equivalents. Exact unusual forms and unresolved constructions are retained. No concrete additional lexical correction was identified.
 
 Read-only binding checks found no errors in the exact Tibetan spans, pair memberships, local note/golden-object bindings, note existence, eight-column structure, inactive status, source/note references or coverage of provisional records by proposal headwords. Such checks establish traceability, not approval of the proposed terminology or automatic semantic accuracy. Later-batch ledger expansion remains to be reviewed against its actual English.
+
+## Cumulative first-two-batch lexical ledger
+
+The frozen expansion contains 186 records and 334 source-object loci: 149 provisional records at 288 loci and 37 grammatical records at 46 loci. There are 146 inactive eight-column proposals. Usage SHA-256: `db250547d7e3701a4e48c853e307450c6e17804526e04fb87bd052ed953a7587`. Proposal SHA-256: `4c5ae49be7c4a74844e0b9578dd0cb6803313083c6d25e88b70a21e154e24755`.
+
+Comparison with checkpoint `80a0c60` identified 52 changed and 76 added usage records, plus 51 changed and 49 added proposals. I read every field of those 128 records and all eight columns of those 100 proposals. The other 58 records and 46 proposals are unchanged from the completed opening review. The net expansion is 171 loci. All cumulative ledger content is thereby accounted for, with the scope expressly limited to pairs 453–530.
+
+The occurrence conditions distinguish bare light at S1641 from the earlier five lights, and uncounted elements at S1642 from the explicit five at S1479. Great identity/Abhidharma remain distinct from their later bare forms. The corrected S1637 intermediate-state genitive and provisional self-appearance apposition are reflected in the path/domain support. The sensory-sound extension, exact S1595 fixed/printed distinction, apparent wordplay, ambiguous constructions and differing source forms remain explicit proposals or queries. I found no additional concrete lexical correction.
+
+Cumulative read-only checks passed for exact source spans, pair allocations, source-object/note-map bindings, actual reader note references, note definitions, proposal structure and inactive status, all cited source/note identifiers and provisional-record proposal coverage. These are traceability checks, not semantic certification or terminology activation. The final batch and full generated source apparatus remain pending.
+
+## Final English batch: pairs 531–567
+
+I independently read all 37 new source/English pairs, covering 101 objects S1669–S1769, and all 24 new translator notes T07-047–T07-070. Frozen English SHA-256: `a2023d0c4181cdb354da06c3749f879723a960d5541600dcfc98d340239f426f`. The batch retains 93 verse lines and the two-object closing colophon as a separate prose pair. It contains eleven translated, twenty unresolved and six metadata pairs. No additional concrete body or authored-note correction was identified.
+
+The personified participants, conditional and causal statements, repeated words, exact negatives and distinct knowing/ordinary-mind terms remain visible. Bare `ཐུགས`, the S1706 construction, S1751 compound, `བག་རྡུལ` and `དངོས་མ` remain explicitly unresolved. T07-065 and T07-066 distinguish the fixed S1751/S1753 readings from uncertain allocation among printed layers; neither silently repairs the source or translates the untranscribed annotations. The final lights/colors passages preserve the explicit numbers and distinct withdrawing, clearing, vanishing and self-liberation predicates. The colophon preserves chapter seven and discloses its local title/tantra proposals.
+
+All 115 pairs and 342 source objects are now covered by body review, with 321 verse lines and 70 authored translator notes. Cumulative statuses are 51 translated, 45 unresolved and nineteen metadata pairs. Read-only checks passed for pair order, verse-line counts, note definition/reference coverage and source-object/note-map bindings. The previously reviewed 78 bodies and 46 notes are exactly unchanged against checkpoint `4b88c639648094c407ccc8293d3341087b6ad73f`.
+
+Q07-001 and Q07-002 remain the two corrected body findings; no body or authored-note correction blocker remains. This does not resolve the 45 flagged pairs or approve the proposed terminology. Final lexical expansion, all generated golden/native notes and final manifest binding still require independent review before a whole-chapter disposition.
