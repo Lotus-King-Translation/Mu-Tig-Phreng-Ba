@@ -1,0 +1,2829 @@
+{
+  "chapter": 8,
+  "scope": "Partial chapter 8 lexical support: first 105 fixed objects S1770–S1874 / 38 pairs MTP-000568–MTP-000605 reviewed against actual English and all 24 translator notes. Remaining 179 objects not reconciled.",
+  "source_version": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95",
+  "source_sha256": "f46331aeb5ba3f303d5822d4ba8dfefd4fcd83d5a2dbd046c16f49a0fc49dd33",
+  "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+  "glossary_rows_read": 222,
+  "policy": "Compact records group actual source loci and reader-linked local notes. All provisional usages remain proposed. Unrendered unresolved Tibetan is retained in the relevant construction record and receives no invented lexical equivalent. Routine canonical repetitions and ordinary function words are excluded unless a material disclosed construction requires review.",
+  "records": [
+    {
+      "id": "T08-U001",
+      "category": "provisional",
+      "lookup_form": "རྡོ་རྗེ་འཛིན་",
+      "canonical_entry": null,
+      "english_realization": "holder of the vajra",
+      "source_units": [
+        {
+          "pair_id": "MTP-000569",
+          "golden_id": "MTP-S001771",
+          "exact_tibetan_span": "རྡོ་རྗེ་འཛིན་པ",
+          "local_note_ids": [
+            "T08-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000571",
+          "golden_id": "MTP-S001777",
+          "exact_tibetan_span": "རྡོ་རྗེ་འཛིན",
+          "local_note_ids": [
+            "T08-001"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "འཛིན་པ་"
+      ],
+      "condition_evidence": "Narrative holder title and teacher-response vocative; neither becomes canonical apprehending subject. S1777 does not reassign the speaker."
+    },
+    {
+      "id": "T08-U002",
+      "category": "provisional",
+      "lookup_form": "རྡོ་རྗེ་འཆང་",
+      "canonical_entry": null,
+      "english_realization": "Vajradhara",
+      "source_units": [
+        {
+          "pair_id": "MTP-000569",
+          "golden_id": "MTP-S001772",
+          "exact_tibetan_span": "རྡོ་རྗེ་འཆང",
+          "local_note_ids": [
+            "T08-001"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Provisional title identification in the addressee position. No great or sixth modifier occurs at this locus."
+    },
+    {
+      "id": "T08-U003",
+      "category": "provisional",
+      "lookup_form": "སྟོན་པ་",
+      "canonical_entry": null,
+      "english_realization": "teacher",
+      "source_units": [
+        {
+          "pair_id": "MTP-000570",
+          "golden_id": "MTP-S001773",
+          "exact_tibetan_span": "སྟོན་པ",
+          "local_note_ids": [
+            "T08-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000571",
+          "golden_id": "MTP-S001777",
+          "exact_tibetan_span": "སྟོན་པས",
+          "local_note_ids": [
+            "T08-001"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Vocative at S1773 and explicitly marked response speaker at S1777."
+    },
+    {
+      "id": "T08-U004",
+      "category": "provisional",
+      "lookup_form": "བཅོམ་ལྡན་འདས་",
+      "canonical_entry": null,
+      "english_realization": "Bhagavān",
+      "source_units": [
+        {
+          "pair_id": "MTP-000570",
+          "golden_id": "MTP-S001776",
+          "exact_tibetan_span": "བཅོམ་ལྡན་འདས",
+          "local_note_ids": [
+            "T08-001"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Provisional title in the petition, with the speaking action requested of the addressee."
+    },
+    {
+      "id": "T08-U005",
+      "category": "provisional",
+      "lookup_form": "རྡོ་རྗེ་སེམས་",
+      "canonical_entry": null,
+      "english_realization": "Vajrasattva",
+      "source_units": [
+        {
+          "pair_id": "MTP-000570",
+          "golden_id": "MTP-S001773",
+          "exact_tibetan_span": "རྡོ་རྗེ་སེམས",
+          "local_note_ids": [
+            "T08-001"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སེམས་"
+      ],
+      "condition_evidence": "Abbreviated source form is provisionally a name. Missing དཔའ is not restored; literal vajra/ordinary-mind construction remains an explicitly recorded alternative."
+    },
+    {
+      "id": "T08-U006",
+      "category": "provisional",
+      "lookup_form": "སངས་རྒྱས་",
+      "canonical_entry": null,
+      "english_realization": "buddhas; buddhahood",
+      "source_units": [
+        {
+          "pair_id": "MTP-000572",
+          "golden_id": "MTP-S001778",
+          "exact_tibetan_span": "སངས་རྒྱས",
+          "local_note_ids": [
+            "T08-001"
+          ]
+        },
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001858",
+          "exact_tibetan_span": "སངས་རྒྱས",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        },
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001868",
+          "exact_tibetan_span": "སངས་རྒྱས",
+          "local_note_ids": [
+            "T08-001"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Plural buddhas in the all-buddhas and great-secret constructions; buddhahood in S1858. Complete belongs to the S1858 genitive chain and its attachment remains open, not a universal headword modifier."
+    },
+    {
+      "id": "T08-U007",
+      "category": "provisional",
+      "lookup_form": "གསང་བ་",
+      "canonical_entry": null,
+      "english_realization": "secret",
+      "source_units": [
+        {
+          "pair_id": "MTP-000570",
+          "golden_id": "MTP-S001774",
+          "exact_tibetan_span": "གསང་བའི",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001868",
+          "exact_tibetan_span": "གསང་ཆེན",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Secret modifies continuum at S1774; great is expressed only by ཆེན in S1868. No secret modifier is added to unqualified continuum occurrences."
+    },
+    {
+      "id": "T08-U008",
+      "category": "provisional",
+      "lookup_form": "ཐབས་",
+      "canonical_entry": null,
+      "english_realization": "means",
+      "source_units": [
+        {
+          "pair_id": "MTP-000570",
+          "golden_id": "MTP-S001774",
+          "exact_tibetan_span": "ཐབས",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000572",
+          "golden_id": "MTP-S001778",
+          "exact_tibetan_span": "ཐབས",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000587",
+          "golden_id": "MTP-S001817",
+          "exact_tibetan_span": "ཐབས",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        },
+        {
+          "pair_id": "MTP-000598",
+          "golden_id": "MTP-S001847",
+          "exact_tibetan_span": "ཐབས",
+          "local_note_ids": [
+            "T08-019"
+          ]
+        },
+        {
+          "pair_id": "MTP-000598",
+          "golden_id": "MTP-S001849",
+          "exact_tibetan_span": "ཐབས",
+          "local_note_ids": [
+            "T08-019"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Technical means in the means/intrinsic-nature distinction and indicative-continuum definition. This is not an approved new whole-expression glossary entry."
+    },
+    {
+      "id": "T08-U009",
+      "category": "provisional",
+      "lookup_form": "མཚོན་བྱ་",
+      "canonical_entry": null,
+      "english_realization": "what is indicated",
+      "source_units": [
+        {
+          "pair_id": "MTP-000574",
+          "golden_id": "MTP-S001781",
+          "exact_tibetan_span": "མཚོན་བྱ",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000575",
+          "golden_id": "MTP-S001782",
+          "exact_tibetan_span": "མཚོན་བྱ",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "The indicated object/function is kept distinct from the indicating member. S1782 qualifies the single continuum."
+    },
+    {
+      "id": "T08-U010",
+      "category": "provisional",
+      "lookup_form": "མཚོན་བྱེད་",
+      "canonical_entry": null,
+      "english_realization": "what indicates; indicative",
+      "source_units": [
+        {
+          "pair_id": "MTP-000574",
+          "golden_id": "MTP-S001781",
+          "exact_tibetan_span": "མཚོན་བྱེད",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000598",
+          "golden_id": "MTP-S001847",
+          "exact_tibetan_span": "མཚོན་བྱེད",
+          "local_note_ids": [
+            "T08-019"
+          ]
+        },
+        {
+          "pair_id": "MTP-000598",
+          "golden_id": "MTP-S001849",
+          "exact_tibetan_span": "མཚོན་པར་བྱེད་པ",
+          "local_note_ids": [
+            "T08-019"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Nominal what-indicates at S1781/S1849; adjectival indicative in S1847. The expanded form at S1849 is explicitly recorded, without altering source spelling."
+    },
+    {
+      "id": "T08-U011",
+      "category": "provisional",
+      "lookup_form": "མཚོན་པ་",
+      "canonical_entry": null,
+      "english_realization": "indication",
+      "source_units": [
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001856",
+          "exact_tibetan_span": "མཚོན་པའི",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Dependent own-indication genitive remains within the single-Ground chain; not rewritten as a complete new assertion."
+    },
+    {
+      "id": "T08-U012",
+      "category": "provisional",
+      "lookup_form": "ཁྱབ་",
+      "canonical_entry": null,
+      "english_realization": "pervade; pervasion",
+      "source_units": [
+        {
+          "pair_id": "MTP-000575",
+          "golden_id": "MTP-S001782",
+          "exact_tibetan_span": "ཀུན་ཁྱབ་པས",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000576",
+          "golden_id": "MTP-S001784",
+          "exact_tibetan_span": "ཁྱབ་པ",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000576",
+          "golden_id": "MTP-S001785",
+          "exact_tibetan_span": "སྟོང་པས་ཁྱབ་དང་གསལ་བས་ཁྱབ",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000577",
+          "golden_id": "MTP-S001788",
+          "exact_tibetan_span": "ཁྱབ་གཅིག་པས",
+          "local_note_ids": [
+            "T08-003"
+          ]
+        },
+        {
+          "pair_id": "MTP-000581",
+          "golden_id": "MTP-S001801",
+          "exact_tibetan_span": "སྟོང་པས་ཁྱབ",
+          "local_note_ids": [
+            "T08-006"
+          ]
+        },
+        {
+          "pair_id": "MTP-000582",
+          "golden_id": "MTP-S001803",
+          "exact_tibetan_span": "ཀུན་ཁྱབ་པ",
+          "local_note_ids": [
+            "T08-007"
+          ]
+        },
+        {
+          "pair_id": "MTP-000583",
+          "golden_id": "MTP-S001806",
+          "exact_tibetan_span": "ཁྱབ",
+          "local_note_ids": [
+            "T08-008"
+          ]
+        },
+        {
+          "pair_id": "MTP-000583",
+          "golden_id": "MTP-S001808",
+          "exact_tibetan_span": "གསལ་བས་ཁྱབ",
+          "local_note_ids": [
+            "T08-008"
+          ]
+        },
+        {
+          "pair_id": "MTP-000585",
+          "golden_id": "MTP-S001814",
+          "exact_tibetan_span": "གསལ་བས་ཁྱབ",
+          "local_note_ids": [
+            "T08-010"
+          ]
+        },
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001864",
+          "exact_tibetan_span": "ཀུན་ལ་ཁྱབ",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        },
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001870",
+          "exact_tibetan_span": "སྟོང་པས་ཁྱབ",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Local verbal and nominal forms. Two aspects occur at S1784–1785; single pervasion only S1788. Empty/clear instruments and passive embodiment-pervasion are not generalized across all loci."
+    },
+    {
+      "id": "T08-U013",
+      "category": "provisional",
+      "lookup_form": "ཁྱད་པར་",
+      "canonical_entry": null,
+      "english_realization": "distinction",
+      "source_units": [
+        {
+          "pair_id": "MTP-000572",
+          "golden_id": "MTP-S001779",
+          "exact_tibetan_span": "ཁྱད་པར",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000578",
+          "golden_id": "MTP-S001792",
+          "exact_tibetan_span": "ཁྱད་པར",
+          "local_note_ids": [
+            "T08-004"
+          ]
+        },
+        {
+          "pair_id": "MTP-000587",
+          "golden_id": "MTP-S001817",
+          "exact_tibetan_span": "ཁྱད་པར",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Compressed essence relation S1779, supplied genitive S1792 and means designation S1817 remain separate constructions; the fixed omission of ཀྱི at S1792 is disclosed."
+    },
+    {
+      "id": "T08-U014",
+      "category": "provisional",
+      "lookup_form": "རྒྱུ་",
+      "canonical_entry": null,
+      "english_realization": "cause",
+      "source_units": [
+        {
+          "pair_id": "MTP-000577",
+          "golden_id": "MTP-S001786",
+          "exact_tibetan_span": "རྒྱུ་གཅིག",
+          "local_note_ids": [
+            "T08-003"
+          ]
+        },
+        {
+          "pair_id": "MTP-000579",
+          "golden_id": "MTP-S001796",
+          "exact_tibetan_span": "རྒྱུ",
+          "local_note_ids": [
+            "T08-005"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "One cause is explicit only at S1786; S1796 instead pairs causes with conditions. No numeral transferred across loci."
+    },
+    {
+      "id": "T08-U015",
+      "category": "provisional",
+      "lookup_form": "དངོས་མེད་",
+      "canonical_entry": null,
+      "english_realization": "absence of material presence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000577",
+          "golden_id": "MTP-S001786",
+          "exact_tibetan_span": "དངོས་མེད",
+          "local_note_ids": [
+            "T08-003"
+          ]
+        },
+        {
+          "pair_id": "MTP-000578",
+          "golden_id": "MTP-S001794",
+          "exact_tibetan_span": "དངོས་མེད",
+          "local_note_ids": [
+            "T08-004"
+          ]
+        },
+        {
+          "pair_id": "MTP-000581",
+          "golden_id": "MTP-S001798",
+          "exact_tibetan_span": "དངོས་མེད",
+          "local_note_ids": [
+            "T08-006"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "English uses lacks/absence/without material presence according to local grammar. Distinct from entities and canonical essence; does not silently repair the separate དངོས་ཏེ construction."
+    },
+    {
+      "id": "T08-U016",
+      "category": "provisional",
+      "lookup_form": "དངོས་པོ་",
+      "canonical_entry": null,
+      "english_realization": "entities",
+      "source_units": [
+        {
+          "pair_id": "MTP-000577",
+          "golden_id": "MTP-S001787",
+          "exact_tibetan_span": "དངོས་པོ",
+          "local_note_ids": [
+            "T08-003"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "Entities in the genitive phenomena-of-all-entities construction, not essence."
+    },
+    {
+      "id": "T08-U017",
+      "category": "provisional",
+      "lookup_form": "ཆོས་",
+      "canonical_entry": null,
+      "english_realization": "phenomena",
+      "source_units": [
+        {
+          "pair_id": "MTP-000577",
+          "golden_id": "MTP-S001787",
+          "exact_tibetan_span": "ཆོས",
+          "local_note_ids": [
+            "T08-003"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཆོས་ཉིད་"
+      ],
+      "condition_evidence": "Bare phenomena in the transcending predicate; no nature-of-phenomena whole expression occurs."
+    },
+    {
+      "id": "T08-U018",
+      "category": "provisional",
+      "lookup_form": "ཁྱབ་བདག་",
+      "canonical_entry": null,
+      "english_realization": "all-pervading lord",
+      "source_units": [
+        {
+          "pair_id": "MTP-000577",
+          "golden_id": "MTP-S001790",
+          "exact_tibetan_span": "ཁྱབ་བདག",
+          "local_note_ids": [
+            "T08-003"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Proposed compound. Its apposition to one essence and the implicit preceding subject remain open; no external deity identity supplied."
+    },
+    {
+      "id": "T08-U019",
+      "category": "provisional",
+      "lookup_form": "བྱང་ཆུབ་",
+      "canonical_entry": null,
+      "english_realization": "awakening",
+      "source_units": [
+        {
+          "pair_id": "MTP-000577",
+          "golden_id": "MTP-S001790",
+          "exact_tibetan_span": "བྱང་ཆུབ",
+          "local_note_ids": [
+            "T08-003"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Uncovered technical noun in the appositional conclusion; no additional subject is resolved."
+    },
+    {
+      "id": "T08-U020",
+      "category": "provisional",
+      "lookup_form": "ཡེ་ནས་",
+      "canonical_entry": null,
+      "english_realization": "from the primordial beginning; primordially",
+      "source_units": [
+        {
+          "pair_id": "MTP-000579",
+          "golden_id": "MTP-S001795",
+          "exact_tibetan_span": "ཡེ་ནས",
+          "local_note_ids": [
+            "T08-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001866",
+          "exact_tibetan_span": "ཡེ་ནས",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཀ་དག་"
+      ],
+      "condition_evidence": "Temporal expression at S1795 and the first of two retained temporal qualifiers at S1866. It is not silently absorbed into primordial purity."
+    },
+    {
+      "id": "T08-U021",
+      "category": "provisional",
+      "lookup_form": "རྐྱེན་",
+      "canonical_entry": null,
+      "english_realization": "conditions",
+      "source_units": [
+        {
+          "pair_id": "MTP-000579",
+          "golden_id": "MTP-S001796",
+          "exact_tibetan_span": "རྐྱེན",
+          "local_note_ids": [
+            "T08-005"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Conditions explicitly paired with causes; no list of conditions supplied."
+    },
+    {
+      "id": "T08-U022",
+      "category": "provisional",
+      "lookup_form": "ཡུལ་",
+      "canonical_entry": null,
+      "english_realization": "domain",
+      "source_units": [
+        {
+          "pair_id": "MTP-000579",
+          "golden_id": "MTP-S001796",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T08-005"
+          ]
+        },
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001858",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Domain of emptiness at S1796 and domain generating complete buddhahood at S1858. Referents and final genitive attachment remain open; no specific entity is invented."
+    },
+    {
+      "id": "T08-U023",
+      "category": "provisional",
+      "lookup_form": "ཡུལ་",
+      "canonical_entry": null,
+      "english_realization": "object; objects",
+      "source_units": [
+        {
+          "pair_id": "MTP-000589",
+          "golden_id": "MTP-S001825",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T08-012"
+          ]
+        },
+        {
+          "pair_id": "MTP-000593",
+          "golden_id": "MTP-S001833",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T08-015"
+          ]
+        },
+        {
+          "pair_id": "MTP-000597",
+          "golden_id": "MTP-S001846",
+          "exact_tibetan_span": "ཡུལ",
+          "local_note_ids": [
+            "T08-018"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སེམས་"
+      ],
+      "condition_evidence": "Local object wording in the incomplete threefold list, key-point heading and coordinated objects/ordinary-mind compound. It is a scoped alternative to domain, not an approved global equivalent."
+    },
+    {
+      "id": "T08-U024",
+      "category": "provisional",
+      "lookup_form": "ཁྱབ་བརྡལ་",
+      "canonical_entry": null,
+      "english_realization": "pervasively spread",
+      "source_units": [
+        {
+          "pair_id": "MTP-000581",
+          "golden_id": "MTP-S001798",
+          "exact_tibetan_span": "ཁྱབ་བརྡལ",
+          "local_note_ids": [
+            "T08-006"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཕྱམ་མེ་",
+        "ཕྱམ་གདལ་"
+      ],
+      "condition_evidence": "Exact form is distinct from both established all-encompassing entries; no fuzzy spelling merger."
+    },
+    {
+      "id": "T08-U025",
+      "category": "provisional",
+      "lookup_form": "དྲི་མ་",
+      "canonical_entry": null,
+      "english_realization": "stain; stainless",
+      "source_units": [
+        {
+          "pair_id": "MTP-000581",
+          "golden_id": "MTP-S001799",
+          "exact_tibetan_span": "དྲི་མ་མེད",
+          "local_note_ids": [
+            "T08-006"
+          ]
+        },
+        {
+          "pair_id": "MTP-000584",
+          "golden_id": "MTP-S001811",
+          "exact_tibetan_span": "དྲི་མ་མེད",
+          "local_note_ids": [
+            "T08-009"
+          ]
+        },
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001866",
+          "exact_tibetan_span": "དྲི་མ",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གློ་བུར་བའི་དྲི་མ་"
+      ],
+      "condition_evidence": "Absence gives stainless at S1799/S1811; S1866 expressly predicates purity of stains and is not rewritten as their absence. Adventitious is not imported from the longer entry."
+    },
+    {
+      "id": "T08-U026",
+      "category": "provisional",
+      "lookup_form": "འདྲེས་",
+      "canonical_entry": null,
+      "english_realization": "unmixed",
+      "source_units": [
+        {
+          "pair_id": "MTP-000581",
+          "golden_id": "MTP-S001799",
+          "exact_tibetan_span": "མ་འདྲེས",
+          "local_note_ids": [
+            "T08-006"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "མིང་དོན་འདྲེས་པ་",
+        "སྒྲ་དོན་འདྲེས་རུང་"
+      ],
+      "condition_evidence": "Negative mix-family realization preserves the original mixed/mixing vocabulary in linked expressions. Integrate is not activated."
+    },
+    {
+      "id": "T08-U027",
+      "category": "provisional",
+      "lookup_form": "སྒྲོན་བྱེད་",
+      "canonical_entry": null,
+      "english_realization": "illuminating",
+      "source_units": [
+        {
+          "pair_id": "MTP-000582",
+          "golden_id": "MTP-S001803",
+          "exact_tibetan_span": "སྒྲོན་བྱེད",
+          "local_note_ids": [
+            "T08-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྒྲོན་མ་བཞི་"
+      ],
+      "condition_evidence": "Exact illuminating-function form; not normalized to a lamp noun or assigned a named lamp identity."
+    },
+    {
+      "id": "T08-U028",
+      "category": "provisional",
+      "lookup_form": "དྲོ་",
+      "canonical_entry": null,
+      "english_realization": "warm",
+      "source_units": [
+        {
+          "pair_id": "MTP-000582",
+          "golden_id": "MTP-S001804",
+          "exact_tibetan_span": "དྲོ",
+          "local_note_ids": [
+            "T08-007"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Quality in the source series; no element name added."
+    },
+    {
+      "id": "T08-U029",
+      "category": "provisional",
+      "lookup_form": "བསིལ་",
+      "canonical_entry": null,
+      "english_realization": "cool",
+      "source_units": [
+        {
+          "pair_id": "MTP-000582",
+          "golden_id": "MTP-S001804",
+          "exact_tibetan_span": "བསིལ",
+          "local_note_ids": [
+            "T08-007"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Quality in the source series; no element name added."
+    },
+    {
+      "id": "T08-U030",
+      "category": "provisional",
+      "lookup_form": "ཡང་",
+      "canonical_entry": null,
+      "english_realization": "lightness",
+      "source_units": [
+        {
+          "pair_id": "MTP-000582",
+          "golden_id": "MTP-S001805",
+          "exact_tibetan_span": "ཡང་ཞིང",
+          "local_note_ids": [
+            "T08-007"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Local nominal treatment in the identity-of-lightness-and-motion construction, not a global translation of homographic also."
+    },
+    {
+      "id": "T08-U031",
+      "category": "provisional",
+      "lookup_form": "གཡོ་",
+      "canonical_entry": null,
+      "english_realization": "motion",
+      "source_units": [
+        {
+          "pair_id": "MTP-000582",
+          "golden_id": "MTP-S001805",
+          "exact_tibetan_span": "གཡོ་བའི",
+          "local_note_ids": [
+            "T08-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "འགྱུ་བ་",
+        "འགུལ་བ་"
+      ],
+      "condition_evidence": "Local motion term distinct from established movement འགྱུ་བ and vibration འགུལ་བ."
+    },
+    {
+      "id": "T08-U032",
+      "category": "provisional",
+      "lookup_form": "བདག་ཉིད་",
+      "canonical_entry": null,
+      "english_realization": "identity",
+      "source_units": [
+        {
+          "pair_id": "MTP-000582",
+          "golden_id": "MTP-S001805",
+          "exact_tibetan_span": "བདག་ཉིད",
+          "local_note_ids": [
+            "T08-007"
+          ]
+        },
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001865",
+          "exact_tibetan_span": "བདག་ཉིད",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "Held identity at S1805 versus endowed-with identity at S1865; three primordial knowings qualify only the latter. Not canonical essence."
+    },
+    {
+      "id": "T08-U033",
+      "category": "provisional",
+      "lookup_form": "འཛིན་",
+      "canonical_entry": "འཛིན་པ་",
+      "english_realization": "holds",
+      "source_units": [
+        {
+          "pair_id": "MTP-000582",
+          "golden_id": "MTP-S001805",
+          "exact_tibetan_span": "འཛིན",
+          "local_note_ids": [
+            "T08-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "འཛིན་པ་"
+      ],
+      "condition_evidence": "Active holding verb in holds the identity; forcing the noun apprehending subject would change the construction. This remains a disclosed contextual proposal."
+    },
+    {
+      "id": "T08-U034",
+      "category": "provisional",
+      "lookup_form": "རང་གསལ་",
+      "canonical_entry": null,
+      "english_realization": "self-clarity; self-clear",
+      "source_units": [
+        {
+          "pair_id": "MTP-000583",
+          "golden_id": "MTP-S001806",
+          "exact_tibetan_span": "རང་གསལ",
+          "local_note_ids": [
+            "T08-008"
+          ]
+        },
+        {
+          "pair_id": "MTP-000585",
+          "golden_id": "MTP-S001813",
+          "exact_tibetan_span": "རང་གསལ",
+          "local_note_ids": [
+            "T08-010"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གསལ་བ་",
+        "རང་གསལ་གྱི་དྲན་པ་"
+      ],
+      "condition_evidence": "Nominal self-clarity S1806 and predicative self-clear S1813; no mindfulness component or whole self-clear-mindfulness expression is supplied."
+    },
+    {
+      "id": "T08-U035",
+      "category": "provisional",
+      "lookup_form": "གྲོལ་བྱེད་",
+      "canonical_entry": null,
+      "english_realization": "that which liberates",
+      "source_units": [
+        {
+          "pair_id": "MTP-000583",
+          "golden_id": "MTP-S001807",
+          "exact_tibetan_span": "གྲོལ་བྱེད",
+          "local_note_ids": [
+            "T08-008"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རང་གྲོལ་"
+      ],
+      "condition_evidence": "Causative/function form distinct from canonical self-liberation. Whether separate from the ripening seed remains open."
+    },
+    {
+      "id": "T08-U036",
+      "category": "provisional",
+      "lookup_form": "སྨིན་པ་",
+      "canonical_entry": null,
+      "english_realization": "ripening",
+      "source_units": [
+        {
+          "pair_id": "MTP-000583",
+          "golden_id": "MTP-S001807",
+          "exact_tibetan_span": "སྨིན་པའི",
+          "local_note_ids": [
+            "T08-008"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Genitive ripening modifies seed; no named practice stage inferred."
+    },
+    {
+      "id": "T08-U037",
+      "category": "provisional",
+      "lookup_form": "ས་བོན་",
+      "canonical_entry": null,
+      "english_realization": "seed",
+      "source_units": [
+        {
+          "pair_id": "MTP-000583",
+          "golden_id": "MTP-S001807",
+          "exact_tibetan_span": "ས་བོན",
+          "local_note_ids": [
+            "T08-008"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "The very seed of ripening in the local description; no causal inventory added."
+    },
+    {
+      "id": "T08-U038",
+      "category": "provisional",
+      "lookup_form": "ལོག་",
+      "canonical_entry": null,
+      "english_realization": "turns away",
+      "source_units": [
+        {
+          "pair_id": "MTP-000583",
+          "golden_id": "MTP-S001808",
+          "exact_tibetan_span": "སྟོང་ལས་ལོག་ཕྱིར",
+          "local_note_ids": [
+            "T08-008"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྟོང་པ་"
+      ],
+      "condition_evidence": "Turns away from emptiness is provisional. Difference/reversal and the precise attachment remain open; explicit causal force is retained."
+    },
+    {
+      "id": "T08-U039",
+      "category": "provisional",
+      "lookup_form": "ཅིག་ཆར་བ་",
+      "canonical_entry": "གཅིག་ཅར་བ་",
+      "english_realization": "simultaneous type",
+      "source_units": [
+        {
+          "pair_id": "MTP-000584",
+          "golden_id": "MTP-S001809",
+          "exact_tibetan_span": "ཅིག་ཆར་བ",
+          "local_note_ids": [
+            "T08-009"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གཅིག་ཅར་བ་"
+      ],
+      "condition_evidence": "Disclosed form proposal: fixed ཅིག་ཆར་བ differs from canonical གཅིག་ཅར་བ. No spelling normalization or approved second headword is claimed."
+    },
+    {
+      "id": "T08-U040",
+      "category": "provisional",
+      "lookup_form": "ལུས་",
+      "canonical_entry": null,
+      "english_realization": "body",
+      "source_units": [
+        {
+          "pair_id": "MTP-000584",
+          "golden_id": "MTP-S001810",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T08-009"
+          ]
+        },
+        {
+          "pair_id": "MTP-000585",
+          "golden_id": "MTP-S001814",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T08-010"
+          ]
+        },
+        {
+          "pair_id": "MTP-000589",
+          "golden_id": "MTP-S001825",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T08-012"
+          ]
+        },
+        {
+          "pair_id": "MTP-000590",
+          "golden_id": "MTP-S001826",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T08-013"
+          ]
+        },
+        {
+          "pair_id": "MTP-000595",
+          "golden_id": "MTP-S001841",
+          "exact_tibetan_span": "ལུས",
+          "local_note_ids": [
+            "T08-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Body in connection/pervasion, incomplete enumeration, key-point and ease constructions. No body part or posture detail added."
+    },
+    {
+      "id": "T08-U041",
+      "category": "provisional",
+      "lookup_form": "འབྲེལ་",
+      "canonical_entry": null,
+      "english_realization": "connected",
+      "source_units": [
+        {
+          "pair_id": "MTP-000584",
+          "golden_id": "MTP-S001810",
+          "exact_tibetan_span": "འབྲེལ",
+          "local_note_ids": [
+            "T08-009"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Connection with the body; subject and attached clarity remain provisional."
+    },
+    {
+      "id": "T08-U042",
+      "category": "provisional",
+      "lookup_form": "སོ་སོར་",
+      "canonical_entry": null,
+      "english_realization": "separately",
+      "source_units": [
+        {
+          "pair_id": "MTP-000584",
+          "golden_id": "MTP-S001811",
+          "exact_tibetan_span": "སོ་སོར",
+          "local_note_ids": [
+            "T08-009"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སོ་སོར་རྟོག་པའི་ཡེ་ཤེས་"
+      ],
+      "condition_evidence": "Adverbial qualifier of limpid in this locus; no discriminating-primordial-knowing whole expression occurs."
+    },
+    {
+      "id": "T08-U043",
+      "category": "provisional",
+      "lookup_form": "དངས་",
+      "canonical_entry": null,
+      "english_realization": "limpid",
+      "source_units": [
+        {
+          "pair_id": "MTP-000584",
+          "golden_id": "MTP-S001811",
+          "exact_tibetan_span": "དངས",
+          "local_note_ids": [
+            "T08-009"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གདངས་"
+      ],
+      "condition_evidence": "Exact source spelling retained, distinct from radiance གདངས and from the later refined-essence compound. No silent vowel normalization."
+    },
+    {
+      "id": "T08-U044",
+      "category": "provisional",
+      "lookup_form": "ཡུལ་སྣང་",
+      "canonical_entry": null,
+      "english_realization": "object-appearance",
+      "source_units": [
+        {
+          "pair_id": "MTP-000585",
+          "golden_id": "MTP-S001812",
+          "exact_tibetan_span": "ཡུལ་སྣང",
+          "local_note_ids": [
+            "T08-010"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྣང་",
+        "སྣང་བ་",
+        "དམིགས་པ་"
+      ],
+      "condition_evidence": "Provisional compound preserving canonical appearance; not a named vision or a new default object-of-focus mapping."
+    },
+    {
+      "id": "T08-U045",
+      "category": "provisional",
+      "lookup_form": "སྒོ་",
+      "canonical_entry": null,
+      "english_realization": "gate; gates",
+      "source_units": [
+        {
+          "pair_id": "MTP-000585",
+          "golden_id": "MTP-S001813",
+          "exact_tibetan_span": "སྒོ་ལྔ",
+          "local_note_ids": [
+            "T08-010"
+          ]
+        },
+        {
+          "pair_id": "MTP-000592",
+          "golden_id": "MTP-S001830",
+          "exact_tibetan_span": "སྒོ",
+          "local_note_ids": [
+            "T08-014"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "དབང་པོའི་སྒོ་"
+      ],
+      "condition_evidence": "Five gates only at S1813; singular gate S1830 has unresolved reference. No unprinted list of faculties or eyes supplied."
+    },
+    {
+      "id": "T08-U046",
+      "category": "provisional",
+      "lookup_form": "གང་ཟག་",
+      "canonical_entry": null,
+      "english_realization": "individuals",
+      "source_units": [
+        {
+          "pair_id": "MTP-000588",
+          "golden_id": "MTP-S001818",
+          "exact_tibetan_span": "གང་ཟག",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "བློ་"
+      ],
+      "condition_evidence": "Individuals in the conceptual-mind differences construction; no external practitioner classification."
+    },
+    {
+      "id": "T08-U047",
+      "category": "provisional",
+      "lookup_form": "བྱེ་བྲག་",
+      "canonical_entry": null,
+      "english_realization": "differences",
+      "source_units": [
+        {
+          "pair_id": "MTP-000588",
+          "golden_id": "MTP-S001818",
+          "exact_tibetan_span": "བྱེ་བྲག",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Differences in individuals’ conceptual minds; scope is local and not a definition of all distinctions."
+    },
+    {
+      "id": "T08-U048",
+      "category": "provisional",
+      "lookup_form": "རིམ་པ་",
+      "canonical_entry": null,
+      "english_realization": "sequence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000588",
+          "golden_id": "MTP-S001819",
+          "exact_tibetan_span": "རིམ་པ",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Sequence of the stated effort-free and effortful instruction; no unstated stages supplied."
+    },
+    {
+      "id": "T08-U049",
+      "category": "provisional",
+      "lookup_form": "འབད་རྩོལ་",
+      "canonical_entry": null,
+      "english_realization": "exertion and effort",
+      "source_units": [
+        {
+          "pair_id": "MTP-000588",
+          "golden_id": "MTP-S001820",
+          "exact_tibetan_span": "འབད་རྩོལ",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Both members retained in the negative without-exertion-and-effort construction; related bare exertion is separately recorded."
+    },
+    {
+      "id": "T08-U050",
+      "category": "provisional",
+      "lookup_form": "འབད་",
+      "canonical_entry": null,
+      "english_realization": "exertion",
+      "source_units": [
+        {
+          "pair_id": "MTP-000588",
+          "golden_id": "MTP-S001821",
+          "exact_tibetan_span": "འབད་བཅས",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        },
+        {
+          "pair_id": "MTP-000588",
+          "golden_id": "MTP-S001822",
+          "exact_tibetan_span": "འབད་མེད",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "With exertion S1821 and those without exertion S1822; plural referent may be people or modes, remaining open."
+    },
+    {
+      "id": "T08-U051",
+      "category": "provisional",
+      "lookup_form": "ཉམས་སུ་བླང་",
+      "canonical_entry": null,
+      "english_realization": "taking into practice; take into practice",
+      "source_units": [
+        {
+          "pair_id": "MTP-000588",
+          "golden_id": "MTP-S001821",
+          "exact_tibetan_span": "ཉམས་སུ་བླང་པ",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        },
+        {
+          "pair_id": "MTP-000589",
+          "golden_id": "MTP-S001824",
+          "exact_tibetan_span": "ཉམས་སུ་བླངས",
+          "local_note_ids": [
+            "T08-012"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཉམས་",
+        "ཉམས་མྱོང་",
+        "སྒོམ་པ་"
+      ],
+      "condition_evidence": "Local instructional whole construction. S1824 imperative is provisional; does not substitute generic experience for experiential acquaintance or silently replace cultivation."
+    },
+    {
+      "id": "T08-U052",
+      "category": "provisional",
+      "lookup_form": "གནད་",
+      "canonical_entry": null,
+      "english_realization": "key points",
+      "source_units": [
+        {
+          "pair_id": "MTP-000589",
+          "golden_id": "MTP-S001823",
+          "exact_tibetan_span": "གནད",
+          "local_note_ids": [
+            "T08-012"
+          ]
+        },
+        {
+          "pair_id": "MTP-000590",
+          "golden_id": "MTP-S001826",
+          "exact_tibetan_span": "གནད",
+          "local_note_ids": [
+            "T08-013"
+          ]
+        },
+        {
+          "pair_id": "MTP-000593",
+          "golden_id": "MTP-S001833",
+          "exact_tibetan_span": "གནད",
+          "local_note_ids": [
+            "T08-015"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Three aspects in the general, bodily and object key-point contexts. Missing member at S1825 is not restored from the number."
+    },
+    {
+      "id": "T08-U053",
+      "category": "provisional",
+      "lookup_form": "ཚུལ་",
+      "canonical_entry": null,
+      "english_realization": "manner",
+      "source_units": [
+        {
+          "pair_id": "MTP-000590",
+          "golden_id": "MTP-S001827",
+          "exact_tibetan_span": "སེང་གེའི་ཚུལ་དང་གླང་ཆེན་ཚུལ",
+          "local_note_ids": [
+            "T08-013"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Both lion-manner and elephant-manner occurrences are retained in this full span; no physical posture instructions inserted."
+    },
+    {
+      "id": "T08-U054",
+      "category": "provisional",
+      "lookup_form": "དྲང་སྲོང་",
+      "canonical_entry": null,
+      "english_realization": "seer",
+      "source_units": [
+        {
+          "pair_id": "MTP-000590",
+          "golden_id": "MTP-S001828",
+          "exact_tibetan_span": "དྲང་སྲོང",
+          "local_note_ids": [
+            "T08-013"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Third bodily description: like a seer. The supplied [what] serves the naming construction, not an extra object."
+    },
+    {
+      "id": "T08-U055",
+      "category": "provisional",
+      "lookup_form": "གསལ་བྱེད་",
+      "canonical_entry": null,
+      "english_realization": "the two that make clear",
+      "source_units": [
+        {
+          "pair_id": "MTP-000592",
+          "golden_id": "MTP-S001831",
+          "exact_tibetan_span": "གསལ་བྱེད་རྣམ་གཉིས",
+          "local_note_ids": [
+            "T08-014"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གསལ་བ་"
+      ],
+      "condition_evidence": "Two is explicit at this locus; agents/referents remain unnamed and are not silently identified as eyes."
+    },
+    {
+      "id": "T08-U056",
+      "category": "provisional",
+      "lookup_form": "སྡོད་",
+      "canonical_entry": null,
+      "english_realization": "stays",
+      "source_units": [
+        {
+          "pair_id": "MTP-000593",
+          "golden_id": "MTP-S001834",
+          "exact_tibetan_span": "སྡོད་པ",
+          "local_note_ids": [
+            "T08-015"
+          ]
+        },
+        {
+          "pair_id": "MTP-000593",
+          "golden_id": "MTP-S001835",
+          "exact_tibetan_span": "སྡོད",
+          "local_note_ids": [
+            "T08-015"
+          ]
+        },
+        {
+          "pair_id": "MTP-000593",
+          "golden_id": "MTP-S001836",
+          "exact_tibetan_span": "སྡོད་པའོ",
+          "local_note_ids": [
+            "T08-015"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གནས་པ་",
+        "ཅེར་གཞག་"
+      ],
+      "condition_evidence": "Staying verb is distinct from canonical abiding and listed resting constructions; three subjects remain in source order."
+    },
+    {
+      "id": "T08-U057",
+      "category": "provisional",
+      "lookup_form": "སངས་",
+      "canonical_entry": null,
+      "english_realization": "cleared",
+      "source_units": [
+        {
+          "pair_id": "MTP-000594",
+          "golden_id": "MTP-S001838",
+          "exact_tibetan_span": "དྲན་སངས་པ",
+          "local_note_ids": [
+            "T08-016"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "དྲན་པ་",
+        "རང་སངས་"
+      ],
+      "condition_evidence": "Local clearing predicate with mindfulness, without claiming the whole self-purified entry. Subject and attachment remain open."
+    },
+    {
+      "id": "T08-U058",
+      "category": "provisional",
+      "lookup_form": "དལ་",
+      "canonical_entry": null,
+      "english_realization": "at ease",
+      "source_units": [
+        {
+          "pair_id": "MTP-000595",
+          "golden_id": "MTP-S001840",
+          "exact_tibetan_span": "དལ་བས",
+          "local_note_ids": [
+            "T08-017"
+          ]
+        },
+        {
+          "pair_id": "MTP-000595",
+          "golden_id": "MTP-S001841",
+          "exact_tibetan_span": "དལ་བས",
+          "local_note_ids": [
+            "T08-017"
+          ]
+        },
+        {
+          "pair_id": "MTP-000595",
+          "golden_id": "MTP-S001842",
+          "exact_tibetan_span": "དལ་བས",
+          "local_note_ids": [
+            "T08-017"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ལྷོད་པ་",
+        "ལྷོད་"
+      ],
+      "condition_evidence": "Three causal ease constructions have different subjects and outcomes; distinct from established relaxed/relaxation entries."
+    },
+    {
+      "id": "T08-U059",
+      "category": "provisional",
+      "lookup_form": "རྒྱུན་",
+      "canonical_entry": null,
+      "english_realization": "flow; continuity",
+      "source_units": [
+        {
+          "pair_id": "MTP-000595",
+          "golden_id": "MTP-S001840",
+          "exact_tibetan_span": "དྲན་རྒྱུན",
+          "local_note_ids": [
+            "T08-017"
+          ]
+        },
+        {
+          "pair_id": "MTP-000598",
+          "golden_id": "MTP-S001850",
+          "exact_tibetan_span": "རྒྱུན་དུ་གནས་པ",
+          "local_note_ids": [
+            "T08-019"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "དྲན་པ་",
+        "རྒྱུད་",
+        "གནས་པ་"
+      ],
+      "condition_evidence": "Flow of mindfulness S1840 and abiding in continuity S1850. Exact རྒྱུན remains distinct from canonical continuum རྒྱུད; the local flow wording is not an approved alternate default."
+    },
+    {
+      "id": "T08-U060",
+      "category": "provisional",
+      "lookup_form": "ངག་",
+      "canonical_entry": null,
+      "english_realization": "speech",
+      "source_units": [
+        {
+          "pair_id": "MTP-000595",
+          "golden_id": "MTP-S001841",
+          "exact_tibetan_span": "ངག",
+          "local_note_ids": [
+            "T08-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Speech is coordinated with body in the ease construction, without an unprinted third member."
+    },
+    {
+      "id": "T08-U061",
+      "category": "provisional",
+      "lookup_form": "སྡུག་བསྔལ་",
+      "canonical_entry": null,
+      "english_realization": "suffering",
+      "source_units": [
+        {
+          "pair_id": "MTP-000595",
+          "golden_id": "MTP-S001841",
+          "exact_tibetan_span": "སྡུག་བསྔལ",
+          "local_note_ids": [
+            "T08-017"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Freedom from suffering follows body-and-speech ease; no agent or scope added beyond the marked grammar."
+    },
+    {
+      "id": "T08-U062",
+      "category": "provisional",
+      "lookup_form": "འབྱུང་རྐྱེན་",
+      "canonical_entry": null,
+      "english_realization": "conditions for arising",
+      "source_units": [
+        {
+          "pair_id": "MTP-000597",
+          "golden_id": "MTP-S001844",
+          "exact_tibetan_span": "འབྱུང་རྐྱེན",
+          "local_note_ids": [
+            "T08-018"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Provisional compound; an element-related construction remains possible. Neither side is omitted or treated as resolved."
+    },
+    {
+      "id": "T08-U063",
+      "category": "provisional",
+      "lookup_form": "ཕྲ་རགས་",
+      "canonical_entry": null,
+      "english_realization": "the subtle and coarse",
+      "source_units": [
+        {
+          "pair_id": "MTP-000597",
+          "golden_id": "MTP-S001845",
+          "exact_tibetan_span": "ཕྲ་རགས",
+          "local_note_ids": [
+            "T08-018"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Both paired qualities remain in source order without unprinted entities."
+    },
+    {
+      "id": "T08-U064",
+      "category": "provisional",
+      "lookup_form": "མ་བསྐྱེད་",
+      "canonical_entry": null,
+      "english_realization": "without being generated",
+      "source_units": [
+        {
+          "pair_id": "MTP-000598",
+          "golden_id": "MTP-S001848",
+          "exact_tibetan_span": "མ་བསྐྱེད",
+          "local_note_ids": [
+            "T08-019"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྐྱེ་བ་མེད་པ་",
+        "སྒོམ་པ་"
+      ],
+      "condition_evidence": "Negative generation is separate from positive completion and does not introduce a cultivation instruction."
+    },
+    {
+      "id": "T08-U065",
+      "category": "provisional",
+      "lookup_form": "དེ་བཞིན་གཤེགས་པ་",
+      "canonical_entry": null,
+      "english_realization": "Tathāgata",
+      "source_units": [
+        {
+          "pair_id": "MTP-000599",
+          "golden_id": "MTP-S001851",
+          "exact_tibetan_span": "དེ་བཞིན་གཤེགས་པའི",
+          "local_note_ids": [
+            "T08-020"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Provisional title at the head of the nested intrinsic-nature/continuum/core genitive chain."
+    },
+    {
+      "id": "T08-U066",
+      "category": "provisional",
+      "lookup_form": "སྙིང་པོ་",
+      "canonical_entry": null,
+      "english_realization": "core",
+      "source_units": [
+        {
+          "pair_id": "MTP-000599",
+          "golden_id": "MTP-S001852",
+          "exact_tibetan_span": "སྙིང་པོ",
+          "local_note_ids": [
+            "T08-020"
+          ]
+        },
+        {
+          "pair_id": "MTP-000602",
+          "golden_id": "MTP-S001860",
+          "exact_tibetan_span": "སྙིང་པོ་གསུམ",
+          "local_note_ids": [
+            "T08-022"
+          ]
+        },
+        {
+          "pair_id": "MTP-000602",
+          "golden_id": "MTP-S001862",
+          "exact_tibetan_span": "སྙིང་པོ",
+          "local_note_ids": [
+            "T08-022"
+          ]
+        },
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001869",
+          "exact_tibetan_span": "སྙིང་པོ",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        },
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001873",
+          "exact_tibetan_span": "སྙིང་པོ",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "Core is reserved locally for this head, distinct from essence and quintessence. Three cores at S1860 includes a member also called core at S1862; the apparent reuse is not harmonized. Clearly distinguish at S1852 is a provisional instruction, with declarative exposition still possible."
+    },
+    {
+      "id": "T08-U067",
+      "category": "provisional",
+      "lookup_form": "འཁོར་",
+      "canonical_entry": null,
+      "english_realization": "saṃsāra",
+      "source_units": [
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001853",
+          "exact_tibetan_span": "འཁོར",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Contracted saṃsāra member in the anything-of construction. Agency and scope remain open; no negation is removed."
+    },
+    {
+      "id": "T08-U068",
+      "category": "provisional",
+      "lookup_form": "འདས་པ་",
+      "canonical_entry": null,
+      "english_realization": "transcendence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001853",
+          "exact_tibetan_span": "འདས་པ",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Provisional second member paired with saṃsāra; no canonical nirvāṇa assignment is claimed."
+    },
+    {
+      "id": "T08-U069",
+      "category": "provisional",
+      "lookup_form": "མི་ཕྱེད་",
+      "canonical_entry": null,
+      "english_realization": "indivisible",
+      "source_units": [
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001855",
+          "exact_tibetan_span": "མི་ཕྱེད",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Indivisible modifies vajra intrinsic nature in the dependent description; not generalized into a different non-change predicate."
+    },
+    {
+      "id": "T08-U070",
+      "category": "provisional",
+      "lookup_form": "རྡོ་རྗེ་",
+      "canonical_entry": null,
+      "english_realization": "vajra",
+      "source_units": [
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001855",
+          "exact_tibetan_span": "རྡོ་རྗེའི",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རྡོ་རྗེའི་གནས་བཅུ་གཅིག་"
+      ],
+      "condition_evidence": "Bare vajra within the intrinsic-nature description, distinct from the speaker titles."
+    },
+    {
+      "id": "T08-U071",
+      "category": "provisional",
+      "lookup_form": "བཅུད་",
+      "canonical_entry": null,
+      "english_realization": "quintessence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000602",
+          "golden_id": "MTP-S001862",
+          "exact_tibetan_span": "བཅུད",
+          "local_note_ids": [
+            "T08-022"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "Member of the Ground/core/quintessence list, distinct from canonical essence and the later refined-essence term."
+    },
+    {
+      "id": "T08-U072",
+      "category": "provisional",
+      "lookup_form": "འདུ་འབྲལ་",
+      "canonical_entry": null,
+      "english_realization": "gathering and separation",
+      "source_units": [
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001867",
+          "exact_tibetan_span": "འདུ་འབྲལ",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Both members remain within the negative without construction; no second independent state is supplied."
+    },
+    {
+      "id": "T08-U073",
+      "category": "provisional",
+      "lookup_form": "ཉག་གཅིག་",
+      "canonical_entry": null,
+      "english_realization": "sole [state]",
+      "source_units": [
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001867",
+          "exact_tibetan_span": "ཉག་གཅིག",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Sole is explicit; state is a bracketed interpretive head, not an attested Tibetan noun. Its predication remains for review."
+    },
+    {
+      "id": "T08-U074",
+      "category": "provisional",
+      "lookup_form": "རིགས་",
+      "canonical_entry": null,
+      "english_realization": "family",
+      "source_units": [
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001869",
+          "exact_tibetan_span": "རིགས",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Provisional family in the family-in-which-core-is-complete construction. No specific family identity or list supplied."
+    },
+    {
+      "id": "T08-U075",
+      "category": "grammatical",
+      "lookup_form": "རྒྱུད་",
+      "canonical_entry": "རྒྱུད་",
+      "english_realization": "continuum",
+      "source_units": [
+        {
+          "pair_id": "MTP-000570",
+          "golden_id": "MTP-S001774",
+          "exact_tibetan_span": "གསང་བའི་རྒྱུད་ཀྱི",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000572",
+          "golden_id": "MTP-S001778",
+          "exact_tibetan_span": "ཐབས་ཀྱི་རྒྱུད",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000575",
+          "golden_id": "MTP-S001782",
+          "exact_tibetan_span": "མཚོན་བྱ་རྒྱུད་གཅིག",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000581",
+          "golden_id": "MTP-S001801",
+          "exact_tibetan_span": "རྒྱུད་ཅེས་སོ",
+          "local_note_ids": [
+            "T08-006"
+          ]
+        },
+        {
+          "pair_id": "MTP-000585",
+          "golden_id": "MTP-S001814",
+          "exact_tibetan_span": "རྒྱུད",
+          "local_note_ids": [
+            "T08-010"
+          ]
+        },
+        {
+          "pair_id": "MTP-000598",
+          "golden_id": "MTP-S001847",
+          "exact_tibetan_span": "མཚོན་བྱེད་ཐབས་ཀྱི་རྒྱུད",
+          "local_note_ids": [
+            "T08-019"
+          ]
+        },
+        {
+          "pair_id": "MTP-000598",
+          "golden_id": "MTP-S001848",
+          "exact_tibetan_span": "རང་གི་རྒྱུད",
+          "local_note_ids": [
+            "T08-019"
+          ]
+        },
+        {
+          "pair_id": "MTP-000598",
+          "golden_id": "MTP-S001850",
+          "exact_tibetan_span": "རྒྱུད་ཅེས་བྱ",
+          "local_note_ids": [
+            "T08-019"
+          ]
+        },
+        {
+          "pair_id": "MTP-000602",
+          "golden_id": "MTP-S001861",
+          "exact_tibetan_span": "རང་བཞིན་རྒྱུད",
+          "local_note_ids": [
+            "T08-022"
+          ]
+        },
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001870",
+          "exact_tibetan_span": "སྐུ་ཡི་རྒྱུད",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རང་བཞིན་",
+        "སྐུ་"
+      ],
+      "condition_evidence": "Canonical continuum stays intact through the technical definitions, own-continuum relation and embodiment genitive. It is not silently changed to tantra; single is explicit only at S1782 in this record."
+    },
+    {
+      "id": "T08-U076",
+      "category": "grammatical",
+      "lookup_form": "གཞི་",
+      "canonical_entry": "གཞི་",
+      "english_realization": "one Ground; Ground of all",
+      "source_units": [
+        {
+          "pair_id": "MTP-000572",
+          "golden_id": "MTP-S001779",
+          "exact_tibetan_span": "གཞི་གཅིག་ངོ་བོའི་ཁྱད་པར་ལས",
+          "local_note_ids": [
+            "T08-002"
+          ]
+        },
+        {
+          "pair_id": "MTP-000577",
+          "golden_id": "MTP-S001789",
+          "exact_tibetan_span": "ཀུན་གྱི་གཞིར་གྱུར་ངོ་བོ་གཅིག",
+          "local_note_ids": [
+            "T08-003"
+          ]
+        },
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001856",
+          "exact_tibetan_span": "རང་གི་མཚོན་པའི་གཞི་གཅིག་པའི",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "Internal capital follows the disclosed presentation choice. Within one Ground S1779 is provisional; becomes the Ground S1789 and dependent own-indication genitive S1856 retain different relations."
+    },
+    {
+      "id": "T08-U077",
+      "category": "grammatical",
+      "lookup_form": "སྟོང་པ་",
+      "canonical_entry": "སྟོང་པ་",
+      "english_realization": "Emptiness is one cause; because [it] lacks material presence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000577",
+          "golden_id": "MTP-S001786",
+          "exact_tibetan_span": "སྟོང་པ་རྒྱུ་གཅིག་དངོས་མེད་ཕྱིར",
+          "local_note_ids": [
+            "T08-003"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Predication and supplied subject remain provisional. The following positive-looking དངོས་ཏེ at S1788 is retained visibly unresolved in the same reviewed pair, not silently normalized."
+    },
+    {
+      "id": "T08-U078",
+      "category": "grammatical",
+      "lookup_form": "སྐྱེ་བ་མེད་པ་",
+      "canonical_entry": "སྐྱེ་བ་མེད་པ་",
+      "english_realization": "[With] non-arising",
+      "source_units": [
+        {
+          "pair_id": "MTP-000578",
+          "golden_id": "MTP-S001791",
+          "exact_tibetan_span": "སྐྱེ་མེད",
+          "local_note_ids": [
+            "T08-004"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "དྲན་པ་"
+      ],
+      "condition_evidence": "Abbreviated source form is recorded exactly; with is an explicit supply and attachment to mindfulness/exhaustion remains unresolved."
+    },
+    {
+      "id": "T08-U079",
+      "category": "grammatical",
+      "lookup_form": "དྲན་པ་",
+      "canonical_entry": "དྲན་པ་",
+      "english_realization": "through the exhaustion of mindfulness",
+      "source_units": [
+        {
+          "pair_id": "MTP-000578",
+          "golden_id": "MTP-S001791",
+          "exact_tibetan_span": "དྲན་པ་ཟད་པ་ཡིས",
+          "local_note_ids": [
+            "T08-004"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Instrumental exhaustion relation retained without resolving the preceding non-arising attachment."
+    },
+    {
+      "id": "T08-U080",
+      "category": "grammatical",
+      "lookup_form": "ཀ་དག་",
+      "canonical_entry": "ཀ་དག་",
+      "english_realization": "primordial purity itself: from [its] distinction",
+      "source_units": [
+        {
+          "pair_id": "MTP-000578",
+          "golden_id": "MTP-S001792",
+          "exact_tibetan_span": "ཀ་དག་ཉིད་ཁྱད་པར་ལས",
+          "local_note_ids": [
+            "T08-004"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "The fixed source lacks the printed genitive ཀྱི. Its is visibly supplied and the source difference remains an audit obligation rather than a restored word."
+    },
+    {
+      "id": "T08-U081",
+      "category": "grammatical",
+      "lookup_form": "སྟོང་པ་",
+      "canonical_entry": "སྟོང་པ་",
+      "english_realization": "empty yet appearing, appearing yet empty",
+      "source_units": [
+        {
+          "pair_id": "MTP-000578",
+          "golden_id": "MTP-S001793",
+          "exact_tibetan_span": "སྟོང་ཞིང་སྣང་ལ་སྣང་ཞིང་སྟོང",
+          "local_note_ids": [
+            "T08-004"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྣང་"
+      ],
+      "condition_evidence": "Both orders and both repetitions retained. The following S1794 དངོས་ཏེ remains visibly unresolved, not absorbed into this grammatical equivalence."
+    },
+    {
+      "id": "T08-U082",
+      "category": "grammatical",
+      "lookup_form": "གནས་པ་",
+      "canonical_entry": "གནས་པ་",
+      "english_realization": "[it] abides empty from the primordial beginning",
+      "source_units": [
+        {
+          "pair_id": "MTP-000579",
+          "golden_id": "MTP-S001795",
+          "exact_tibetan_span": "ཟད་ཕྱིར་ཡེ་ནས་སྟོང་པར་གནས",
+          "local_note_ids": [
+            "T08-005"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྟོང་པ་"
+      ],
+      "condition_evidence": "Abiding is verbally realized; the exhaustion subject is not named, and the supplied continuing it remains explicit."
+    },
+    {
+      "id": "T08-U083",
+      "category": "grammatical",
+      "lookup_form": "ངོ་བོ་",
+      "canonical_entry": "ངོ་བོ་",
+      "english_realization": "empty in essence",
+      "source_units": [
+        {
+          "pair_id": "MTP-000581",
+          "golden_id": "MTP-S001798",
+          "exact_tibetan_span": "ངོ་བོས་སྟོང",
+          "local_note_ids": [
+            "T08-006"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྟོང་པ་"
+      ],
+      "condition_evidence": "Corrected instrumental/qualificatory treatment preserves canonical essence and emptiness without implying that an essence is absent. The precise instrumental relation remains open; this binds the revised T08-006."
+    },
+    {
+      "id": "T08-U084",
+      "category": "grammatical",
+      "lookup_form": "རང་བཞིན་",
+      "canonical_entry": "རང་བཞིན་",
+      "english_realization": "since intrinsic nature is unceasing",
+      "source_units": [
+        {
+          "pair_id": "MTP-000582",
+          "golden_id": "MTP-S001802",
+          "exact_tibetan_span": "རང་བཞིན་མ་འགགས་པས",
+          "local_note_ids": [
+            "T08-007"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "མ་འགགས་པ་",
+        "གསལ་བ་"
+      ],
+      "condition_evidence": "The causal case is retained and unceasing remains the canonical family; the subject of the surrounding clarity series is implicit."
+    },
+    {
+      "id": "T08-U085",
+      "category": "grammatical",
+      "lookup_form": "གདངས་",
+      "canonical_entry": "གདངས་",
+      "english_realization": "primordial radiance",
+      "source_units": [
+        {
+          "pair_id": "MTP-000583",
+          "golden_id": "MTP-S001806",
+          "exact_tibetan_span": "ཡེ་གདངས",
+          "local_note_ids": [
+            "T08-008"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Primordial is expressed by ཡེ and does not replace the established radiance head. Distinct from limpid དངས."
+    },
+    {
+      "id": "T08-U086",
+      "category": "grammatical",
+      "lookup_form": "རང་ཤར་",
+      "canonical_entry": "རང་ཤར་",
+      "english_realization": "self-arising; through clarity",
+      "source_units": [
+        {
+          "pair_id": "MTP-000584",
+          "golden_id": "MTP-S001810",
+          "exact_tibetan_span": "རང་ཤར་གསལ་བས",
+          "local_note_ids": [
+            "T08-009"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གསལ་བ་",
+        "རང་གྲོལ་"
+      ],
+      "condition_evidence": "The split after self-arising and instrumental through clarity are provisional; a closer modifier relationship remains possible."
+    },
+    {
+      "id": "T08-U087",
+      "category": "grammatical",
+      "lookup_form": "འཛིན་མེད་",
+      "canonical_entry": "འཛིན་མེད་",
+      "english_realization": "clear and free from grasping",
+      "source_units": [
+        {
+          "pair_id": "MTP-000585",
+          "golden_id": "MTP-S001812",
+          "exact_tibetan_span": "འཛིན་མེད་གསལ་བའི",
+          "local_note_ids": [
+            "T08-010"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གསལ་བ་",
+        "སྣང་བ་"
+      ],
+      "condition_evidence": "Canonical free-from-grasping and clarity provisionally qualify object-appearance; no named vision is substituted."
+    },
+    {
+      "id": "T08-U088",
+      "category": "grammatical",
+      "lookup_form": "ཤེས་པ་",
+      "canonical_entry": "ཤེས་པ་",
+      "english_realization": "the knowing of the five gates is self-clear and complete",
+      "source_units": [
+        {
+          "pair_id": "MTP-000585",
+          "golden_id": "MTP-S001813",
+          "exact_tibetan_span": "སྒོ་ལྔའི་ཤེས་པ་རང་གསལ་རྫོགས",
+          "local_note_ids": [
+            "T08-010"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Knowing remains its own canonical label. Five qualifies gates; the draft does not add a five-faculty list."
+    },
+    {
+      "id": "T08-U089",
+      "category": "grammatical",
+      "lookup_form": "རྟོགས་པ་",
+      "canonical_entry": "རྟོགས་པ་",
+      "english_realization": "manifest realization",
+      "source_units": [
+        {
+          "pair_id": "MTP-000587",
+          "golden_id": "MTP-S001816",
+          "exact_tibetan_span": "མངོན་པར་རྟོགས་པས",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "མངོན་སུམ་"
+      ],
+      "condition_evidence": "Manifest qualifier and instrumental realization are preserved without equating the construction to canonical direct perception."
+    },
+    {
+      "id": "T08-U090",
+      "category": "grammatical",
+      "lookup_form": "བློ་",
+      "canonical_entry": "བློ་",
+      "english_realization": "According to differences in individuals’ conceptual minds",
+      "source_units": [
+        {
+          "pair_id": "MTP-000588",
+          "golden_id": "MTP-S001818",
+          "exact_tibetan_span": "གང་ཟག་བློ་ཡི་བྱེ་བྲག་གིས",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Plural possessive and according-to relation realize the full canonical conceptual-mind term without shortening it."
+    },
+    {
+      "id": "T08-U091",
+      "category": "grammatical",
+      "lookup_form": "རང་དག་",
+      "canonical_entry": "རང་དག་",
+      "english_realization": "Those without exertion are self-purified",
+      "source_units": [
+        {
+          "pair_id": "MTP-000588",
+          "golden_id": "MTP-S001822",
+          "exact_tibetan_span": "འབད་མེད་རྣམས་ནི་རང་དག་ཡིན",
+          "local_note_ids": [
+            "T08-011"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Explicit plural retained; persons versus modes remains unresolved. Canonical self-purified is not used to erase that reference question."
+    },
+    {
+      "id": "T08-U092",
+      "category": "grammatical",
+      "lookup_form": "རྣམ་པ་",
+      "canonical_entry": "རྣམ་པ་",
+      "english_realization": "Through the three aspects of the key points",
+      "source_units": [
+        {
+          "pair_id": "MTP-000589",
+          "golden_id": "MTP-S001823",
+          "exact_tibetan_span": "གནད་ནི་རྣམ་པ་གསུམ་དག་གིས",
+          "local_note_ids": [
+            "T08-012"
+          ]
+        },
+        {
+          "pair_id": "MTP-000589",
+          "golden_id": "MTP-S001825",
+          "exact_tibetan_span": "ལུས་དང་དང་ཡུལ་ཉིད་དོ",
+          "local_note_ids": [
+            "T08-012"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Instrumental three aspects remains; the exact repeated-conjunction list is represented with a missing-member marker. No eye or gate is inserted to complete the enumeration."
+    },
+    {
+      "id": "T08-U093",
+      "category": "grammatical",
+      "lookup_form": "འགུལ་བ་",
+      "canonical_entry": "འགུལ་བ་",
+      "english_realization": "do not vibrate; without vibration",
+      "source_units": [
+        {
+          "pair_id": "MTP-000592",
+          "golden_id": "MTP-S001831",
+          "exact_tibetan_span": "མ་འགུལ་བས",
+          "local_note_ids": [
+            "T08-014"
+          ]
+        },
+        {
+          "pair_id": "MTP-000592",
+          "golden_id": "MTP-S001832",
+          "exact_tibetan_span": "འགུལ་བ་མེད",
+          "local_note_ids": [
+            "T08-014"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "འགྱུ་བ་"
+      ],
+      "condition_evidence": "Verb and noun forms preserve the vibration family in both negations, distinct from movement. The causal scope and unnamed two clarifying agents remain open."
+    },
+    {
+      "id": "T08-U094",
+      "category": "grammatical",
+      "lookup_form": "དབྱིངས་",
+      "canonical_entry": "དབྱིངས་",
+      "english_realization": "pure basic space",
+      "source_units": [
+        {
+          "pair_id": "MTP-000593",
+          "golden_id": "MTP-S001834",
+          "exact_tibetan_span": "དག་པའི་དབྱིངས",
+          "local_note_ids": [
+            "T08-015"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ནམ་མཁའ་"
+      ],
+      "condition_evidence": "Pure qualifies basic space, the first of the three things that stay. It is not replaced by the separate space term."
+    },
+    {
+      "id": "T08-U095",
+      "category": "grammatical",
+      "lookup_form": "རིག་པ་",
+      "canonical_entry": "རིག་པ་",
+      "english_realization": "the essence of awareness",
+      "source_units": [
+        {
+          "pair_id": "MTP-000593",
+          "golden_id": "MTP-S001835",
+          "exact_tibetan_span": "རིག་པའི་ངོ་བོ",
+          "local_note_ids": [
+            "T08-015"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "Genitive awareness/essence relation stays explicit as the second thing that stays."
+    },
+    {
+      "id": "T08-U096",
+      "category": "grammatical",
+      "lookup_form": "སེམས་",
+      "canonical_entry": "སེམས་",
+      "english_realization": "The mental faculty ... Ordinary mind ... Awareness",
+      "source_units": [
+        {
+          "pair_id": "MTP-000594",
+          "golden_id": "MTP-S001837",
+          "exact_tibetan_span": "ཡིད་ནི་འགྱུ་མེད་རང་སར་གནས",
+          "local_note_ids": [
+            "T08-016"
+          ]
+        },
+        {
+          "pair_id": "MTP-000594",
+          "golden_id": "MTP-S001838",
+          "exact_tibetan_span": "སེམས་ནི་འགྱུ་མེད་དྲན་སངས་པ",
+          "local_note_ids": [
+            "T08-016"
+          ]
+        },
+        {
+          "pair_id": "MTP-000594",
+          "golden_id": "MTP-S001839",
+          "exact_tibetan_span": "རིག་པ་མི་འགྱུ་སྐུ་གསུམ་གསལ",
+          "local_note_ids": [
+            "T08-016"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ཡིད་",
+        "རིག་པ་",
+        "འགྱུ་བ་",
+        "དྲན་པ་",
+        "སྐུ་གསུམ་",
+        "གསལ་བ་"
+      ],
+      "condition_evidence": "Three distinct subjects and three movement negations remain in source order. Mindfulness-clearing attachment is unresolved, and the final three embodiments remain distinct from the later five."
+    },
+    {
+      "id": "T08-U097",
+      "category": "grammatical",
+      "lookup_form": "སྐུ་",
+      "canonical_entry": "སྐུ་",
+      "english_realization": "[it] arises as five embodiments",
+      "source_units": [
+        {
+          "pair_id": "MTP-000595",
+          "golden_id": "MTP-S001842",
+          "exact_tibetan_span": "རིག་པ་དལ་བས་སྐུ་ལྔར་ཤར",
+          "local_note_ids": [
+            "T08-017"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རིག་པ་",
+        "སྐུ་གསུམ་"
+      ],
+      "condition_evidence": "Plural embodies explicit five and terminative case; supplied it provisionally refers to awareness. It does not substitute the prior three-embodiment expression."
+    },
+    {
+      "id": "T08-U098",
+      "category": "grammatical",
+      "lookup_form": "རིག་པ་",
+      "canonical_entry": "རིག་པ་",
+      "english_realization": "Through awareness arising, conditions for arising cease",
+      "source_units": [
+        {
+          "pair_id": "MTP-000597",
+          "golden_id": "MTP-S001844",
+          "exact_tibetan_span": "རིག་པ་ཤར་བས་འབྱུང་རྐྱེན་འགགས",
+          "local_note_ids": [
+            "T08-018"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Awareness-as-cause and cessation are retained; element-related interpretation of the condition compound remains open."
+    },
+    {
+      "id": "T08-U099",
+      "category": "grammatical",
+      "lookup_form": "འོད་གསལ་",
+      "canonical_entry": "འོད་གསལ་",
+      "english_realization": "Through clear light arising, the subtle and coarse cease",
+      "source_units": [
+        {
+          "pair_id": "MTP-000597",
+          "golden_id": "MTP-S001845",
+          "exact_tibetan_span": "འོད་གསལ་ཤར་བས་ཕྲ་རགས་འགགས",
+          "local_note_ids": [
+            "T08-018"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Established whole clear-light expression governs; causal relation is not reversed."
+    },
+    {
+      "id": "T08-U100",
+      "category": "grammatical",
+      "lookup_form": "དབྱིངས་",
+      "canonical_entry": "དབྱིངས་",
+      "english_realization": "Through basic space and awareness arising, objects and ordinary mind cease",
+      "source_units": [
+        {
+          "pair_id": "MTP-000597",
+          "golden_id": "MTP-S001846",
+          "exact_tibetan_span": "དབྱིངས་རིག་ཤར་བས་ཡུལ་སེམས་འགགས",
+          "local_note_ids": [
+            "T08-018"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རིག་པ་",
+        "སེམས་"
+      ],
+      "condition_evidence": "Both compressed compounds are provisionally coordinated; all four lexical components remain recoverable and cessation scope stays flagged."
+    },
+    {
+      "id": "T08-U101",
+      "category": "grammatical",
+      "lookup_form": "རྒྱུད་",
+      "canonical_entry": "རྒྱུད་",
+      "english_realization": "Of the Tathāgata’s intrinsic nature, clearly distinguish the core of the continuum",
+      "source_units": [
+        {
+          "pair_id": "MTP-000599",
+          "golden_id": "MTP-S001851",
+          "exact_tibetan_span": "དེ་བཞིན་གཤེགས་པའི་རང་བཞིན་གྱི",
+          "local_note_ids": [
+            "T08-020"
+          ]
+        },
+        {
+          "pair_id": "MTP-000599",
+          "golden_id": "MTP-S001852",
+          "exact_tibetan_span": "རྒྱུད་ཀྱི་སྙིང་པོ་རབ་ཏུ་ཕྱེ",
+          "local_note_ids": [
+            "T08-020"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རང་བཞིན་"
+      ],
+      "condition_evidence": "Nested genitive chain remains; the imperative force is provisional and a declarative exposition remains possible."
+    },
+    {
+      "id": "T08-U102",
+      "category": "grammatical",
+      "lookup_form": "ཤེས་པ་",
+      "canonical_entry": "ཤེས་པ་",
+      "english_realization": "By anything of saṃsāra and transcendence, this itself is not known",
+      "source_units": [
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001853",
+          "exact_tibetan_span": "འཁོར་དང་འདས་པ་གང་གིས་ཀྱང",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        },
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001854",
+          "exact_tibetan_span": "འདི་ཉིད་ཤེས་པ་མ་ཡིན་ཏེ",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Passive known realizes canonical knowing; explicit negation retained. Anything agency and demonstrative reference remain open."
+    },
+    {
+      "id": "T08-U103",
+      "category": "grammatical",
+      "lookup_form": "རང་བཞིན་",
+      "canonical_entry": "རང་བཞིན་",
+      "english_realization": "[its] intrinsic nature is one in emptiness itself",
+      "source_units": [
+        {
+          "pair_id": "MTP-000600",
+          "golden_id": "MTP-S001857",
+          "exact_tibetan_span": "རང་བཞིན་སྟོང་པ་ཉིད་དུ་གཅིག",
+          "local_note_ids": [
+            "T08-021"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "སྟོང་པ་",
+        "གཞི་"
+      ],
+      "condition_evidence": "Its is an explicit linking supply from the preceding dependent genitive, and one retains the source numeral."
+    },
+    {
+      "id": "T08-U104",
+      "category": "grammatical",
+      "lookup_form": "གཞི་",
+      "canonical_entry": "གཞི་",
+      "english_realization": "the Ground, core and quintessence themselves",
+      "source_units": [
+        {
+          "pair_id": "MTP-000602",
+          "golden_id": "MTP-S001862",
+          "exact_tibetan_span": "གཞི་དང་སྙིང་པོ་བཅུད་ཉིད་དོ",
+          "local_note_ids": [
+            "T08-022"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་"
+      ],
+      "condition_evidence": "Ground remains canonical within the stated threefold list; repetition of core as heading and member is not repaired."
+    },
+    {
+      "id": "T08-U105",
+      "category": "grammatical",
+      "lookup_form": "ཐུགས་རྗེ་",
+      "canonical_entry": "ཐུགས་རྗེ་",
+      "english_realization": "essence, intrinsic nature and compassionate responsiveness pervade all and appear",
+      "source_units": [
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001863",
+          "exact_tibetan_span": "གཞི་ནི་ངོ་བོ་རང་བཞིན་དང",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        },
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001864",
+          "exact_tibetan_span": "ཐུགས་རྗེ་ཀུན་ལ་ཁྱབ་ཅིང་འཆར",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "ངོ་བོ་",
+        "རང་བཞིན་",
+        "གཞི་"
+      ],
+      "condition_evidence": "Complete canonical triad retained under the Ground; extending the following predicates to the triad is provisional and compressed topic attachment remains open."
+    },
+    {
+      "id": "T08-U106",
+      "category": "grammatical",
+      "lookup_form": "ཡེ་ཤེས་",
+      "canonical_entry": "ཡེ་ཤེས་",
+      "english_realization": "three primordial knowings",
+      "source_units": [
+        {
+          "pair_id": "MTP-000603",
+          "golden_id": "MTP-S001865",
+          "exact_tibetan_span": "ཡེ་ཤེས་གསུམ",
+          "local_note_ids": [
+            "T08-023"
+          ]
+        }
+      ],
+      "comparison_entries": [],
+      "condition_evidence": "Plural realizes explicit three; no names of the three are invented."
+    },
+    {
+      "id": "T08-U107",
+      "category": "grammatical",
+      "lookup_form": "སྐུ་",
+      "canonical_entry": "སྐུ་",
+      "english_realization": "Embodiment is the family in which the core is complete; Embodiment’s continuum is pervaded by emptiness",
+      "source_units": [
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001869",
+          "exact_tibetan_span": "སྐུ་ནི་སྙིང་པོ་རྫོགས་པའི་རིགས",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        },
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001870",
+          "exact_tibetan_span": "སྐུ་ཡི་རྒྱུད་ནི་སྟོང་པས་ཁྱབ",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རྒྱུད་",
+        "སྟོང་པ་"
+      ],
+      "condition_evidence": "Subject embodiment, family completion relation and explicit continuum genitive remain separate; no embodiment name is supplied."
+    },
+    {
+      "id": "T08-U108",
+      "category": "grammatical",
+      "lookup_form": "རང་སྣང་",
+      "canonical_entry": "རང་སྣང་",
+      "english_realization": "Clarity itself is also self-appearance; non-appearing clarity",
+      "source_units": [
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001871",
+          "exact_tibetan_span": "གསལ་བ་ཉིད་ཀྱང་རང་སྣང་ངོ",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        },
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001872",
+          "exact_tibetan_span": "མི་སྣང་གསལ་བའི་རང་བཞིན་ཅན",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "གསལ་བ་",
+        "རང་བཞིན་"
+      ],
+      "condition_evidence": "Self-appearance remains the established whole expression; the next non-appearing modifier is tentatively attached to clarity and its negation is retained."
+    },
+    {
+      "id": "T08-U109",
+      "category": "grammatical",
+      "lookup_form": "རང་བཞིན་",
+      "canonical_entry": "རང་བཞིན་",
+      "english_realization": "the intrinsic nature in which the core is complete: [རྒྱད: unresolved]",
+      "source_units": [
+        {
+          "pair_id": "MTP-000604",
+          "golden_id": "MTP-S001873",
+          "exact_tibetan_span": "སྙིང་པོ་རྫོགས་པའི་རང་བཞིན་རྒྱད",
+          "local_note_ids": [
+            "T08-024"
+          ]
+        }
+      ],
+      "comparison_entries": [
+        "རྒྱུད་"
+      ],
+      "condition_evidence": "Canonical intrinsic nature remains visible, while the unusual final syllable is retained verbatim and unresolved. No proposed equivalence to continuum or silent spelling normalization is introduced."
+    }
+  ],
+  "source_path": "diplomatic/chapters/08/reading.json",
+  "paired_source_path": "translations/chapters/08/source.md",
+  "paired_source_sha256": "1a81db08209fd0813fe9b1cfc017e89454286f72f10c792b2eda5be9ad059b95",
+  "english_review_sha256": "ab39119bf40629f7c0e804c8a1e2bf98919e5ae81fe82bcf8d44490d2804e204",
+  "validation": {
+    "status": "All recorded exact spans, fixed-source pair allocation, actual reader-note references and note-map bindings checked; no errors.",
+    "records": 109,
+    "source_loci": 182,
+    "record_categories": {
+      "provisional": 74,
+      "grammatical": 35
+    },
+    "locus_categories": {
+      "provisional": 127,
+      "grammatical": 55
+    },
+    "inactive_proposals": 73,
+    "independent_semantic_certification": false,
+    "review_limits": "Author-side support for first batch only; 179 objects remain unreconciled. A locus is a record/source-object span, not token count. Independent QC is separate."
+  },
+  "glossary_search": "All 222 complete eight-column rows read. Whole expressions, exact forms, source construction, canonical families and English collisions considered; no fuzzy spelling identity or prior-proposal approval inferred."
+}

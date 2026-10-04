@@ -173,7 +173,7 @@
   "chapter_candidates_complete": 6,
   "publication_blocker": "GitHub connector can preserve commits but exposes no annotated-tag creation; prior authenticated remote-terminal attempt returned no usable output. Genuine prior publication receipts remain missing; strict gates are unchanged.",
   "source_objects_released": 97,
-  "next_finite_task": "Checkpoint reviewed first38pairs/105objects, then author and review pairs606–642/99objects. Lexical reconciliation and final source apparatus remain pending.",
+  "next_finite_task": "Finish and independently review second37pairs/99objects; lexical support covers first105objects, with its independent review pending.",
   "chapter_3_state": "Signed reviewed working candidate:34pairs/120objects/165notes;142/142source obligations;105usage records/252occurrences/65proposals;24translated/2locallyunresolved/8metadata; independent QC and reproducible draft-candidate validation passed. Strict final release remains blocked by genuine prior publication.",
   "count_semantics": "Representation counts include explicitly unresolved and nontranslatable metadata objects; they do not measure accuracy or complete decipherment.",
   "chapter_4_state": "Complete saved unsigned annotated draft at730921898da3e3328bb42d97abea7672bf44afcd:86pairs/294objects/396notes;337source obligations;fiveunresolvedpairs. Final397-note revision,finallexicalrecords,reportsand signoff were not committed and local files were pruned. Preserve saved snapshot unchanged.",
@@ -232,5 +232,10 @@
   "chapter_8_source_obligations_remaining": 361,
   "chapter_8_translator_notes": 24,
   "chapter_8_english_corrections_closed": 1,
-  "canonical_english_objects": 1769
+  "canonical_english_objects": 1769,
+  "chapter_8_usage_records": 109,
+  "chapter_8_usage_loci": 182,
+  "chapter_8_inactive_proposals": 73,
+  "chapter_8_lexical_coverage_objects": 105,
+  "chapter_8_structural_tests_passed": 140
 }
