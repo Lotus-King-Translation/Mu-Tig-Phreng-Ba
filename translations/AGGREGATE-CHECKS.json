@@ -1,0 +1,498 @@
+{
+  "edition": "translation-v1",
+  "reviewer": "/root/ch04_structure",
+  "scope": "Independent complete assembly/identity/reader-projection review; semantic and native-image review are inherited from the fixed chapters, not repeated.",
+  "build_manifest_sha256": "7a4693c3eaffa12d94af78a147a7289d9701c4061ad41fbb0532ebbc9a604a07",
+  "output_sha256": {
+    "reading.md": "057e43c067188102ecdf80d580f8ee226a9f1ecb4e273c3595c0023bfc152307",
+    "bilingual.md": "be2a44053afdcc2dbc455e1d7abb50be3a218d358164dee7f605fea0e0611910",
+    "machine.json": "111b9016279a5acfe7bdfc65609d622b7382d06ea8190803387dd95600aa77f1",
+    "coverage.json": "a6ba9507a5904ea65048941ddefb28c607d0ba1f303225d35967847266ab55e8"
+  },
+  "structural_disposition": "ready",
+  "manual_projection_inspection": "complete_for_declared_63_pair_31_bilingual_15_note_sample",
+  "objects": 2053,
+  "pairs": 674,
+  "endnotes": 2597,
+  "source_obligations": 2199,
+  "pair_statuses": {
+    "nontranslatable": 127,
+    "translated": 407,
+    "unresolved": 140
+  },
+  "formats": {
+    "prose": 173,
+    "h1": 1,
+    "h2": 2,
+    "verse": 498
+  },
+  "pair_roles": {
+    "source_metadata": 127,
+    "source_heading": 3,
+    "main_text": 530,
+    "chapter_colophon": 9,
+    "source_annotation": 3,
+    "work_colophon": 2
+  },
+  "unique_native_images": 121,
+  "source_uncertainty_statements": 101,
+  "chapter_release_details": [
+    {
+      "chapter": 1,
+      "objects": 97,
+      "pairs": 30,
+      "notes": 112,
+      "obligations": 93,
+      "first_object": "MTP-S000001",
+      "last_object": "MTP-S000097",
+      "first_pair": "MTP-000001",
+      "last_pair": "MTP-000030",
+      "tag": "translate-ch01-v1",
+      "tag_object": "601ee9f11790e19fa52ff2269595b2d1a829032f",
+      "peeled_commit": "2a25fd13805628a76aadea614bfc7fd7248cd392",
+      "chapter_files": 27
+    },
+    {
+      "chapter": 2,
+      "objects": 124,
+      "pairs": 35,
+      "notes": 175,
+      "obligations": 152,
+      "first_object": "MTP-S000098",
+      "last_object": "MTP-S000221",
+      "first_pair": "MTP-000031",
+      "last_pair": "MTP-000065",
+      "tag": "translate-ch02-v1",
+      "tag_object": "ac905d8e9e2c085a9172cf560d13bdaf0d5c5d80",
+      "peeled_commit": "3cbe657cea281992123ccb85e0008e306e9d3108",
+      "chapter_files": 28
+    },
+    {
+      "chapter": 3,
+      "objects": 120,
+      "pairs": 34,
+      "notes": 165,
+      "obligations": 142,
+      "first_object": "MTP-S000222",
+      "last_object": "MTP-S000341",
+      "first_pair": "MTP-000066",
+      "last_pair": "MTP-000099",
+      "tag": "translate-ch03-v1",
+      "tag_object": "238c498de680dc12a8bf3465925b6ab82e9a1448",
+      "peeled_commit": "bd235b87322eb84718930c56e92d4bbe7c198a11",
+      "chapter_files": 28
+    },
+    {
+      "chapter": 4,
+      "objects": 294,
+      "pairs": 86,
+      "notes": 396,
+      "obligations": 337,
+      "first_object": "MTP-S000342",
+      "last_object": "MTP-S000635",
+      "first_pair": "MTP-000100",
+      "last_pair": "MTP-000185",
+      "tag": "translate-ch04-v1",
+      "tag_object": "3920988c3829b5f313c2c6ebc09dcc3a0edf78cc",
+      "peeled_commit": "7c5f10610915ee029837c866c9b33835962d924d",
+      "chapter_files": 29
+    },
+    {
+      "chapter": 5,
+      "objects": 416,
+      "pairs": 135,
+      "notes": 520,
+      "obligations": 432,
+      "first_object": "MTP-S000636",
+      "last_object": "MTP-S001051",
+      "first_pair": "MTP-000186",
+      "last_pair": "MTP-000320",
+      "tag": "translate-ch05-v1",
+      "tag_object": "f2338c31f8f60e612a3a3ff48499ca29f0cbd6ff",
+      "peeled_commit": "23cb6d38ba494dd8f53f22c6618168cd50761782",
+      "chapter_files": 26
+    },
+    {
+      "chapter": 6,
+      "objects": 376,
+      "pairs": 132,
+      "notes": 435,
+      "obligations": 378,
+      "first_object": "MTP-S001052",
+      "last_object": "MTP-S001427",
+      "first_pair": "MTP-000321",
+      "last_pair": "MTP-000452",
+      "tag": "translate-ch06-v1",
+      "tag_object": "896ac288c08b29c80458621c22a49a123e2b6227",
+      "peeled_commit": "713aa49a269ce42ac505bd8dff0299c6946bbdfa",
+      "chapter_files": 26
+    },
+    {
+      "chapter": 7,
+      "objects": 342,
+      "pairs": 115,
+      "notes": 373,
+      "obligations": 304,
+      "first_object": "MTP-S001428",
+      "last_object": "MTP-S001769",
+      "first_pair": "MTP-000453",
+      "last_pair": "MTP-000567",
+      "tag": "translate-ch07-v1",
+      "tag_object": "b88926a22f750ac23475d42475681e0b0b53ae99",
+      "peeled_commit": "3fae729775f57b100c785cb7ed5c23340524d3ae",
+      "chapter_files": 26
+    },
+    {
+      "chapter": 8,
+      "objects": 284,
+      "pairs": 107,
+      "notes": 421,
+      "obligations": 361,
+      "first_object": "MTP-S001770",
+      "last_object": "MTP-S002053",
+      "first_pair": "MTP-000568",
+      "last_pair": "MTP-000674",
+      "tag": "translate-ch08-v1",
+      "tag_object": "cb4ab7f12468fe3e3ec2294e4b24a4b5b242187e",
+      "peeled_commit": "71480071296de443e80f82216c464c558001e7c1",
+      "chapter_files": 26
+    }
+  ],
+  "bound_input_paths": 369,
+  "checked_hash_and_mtime_paths": 374,
+  "all_checked_paths_unchanged": true,
+  "exact_source_english_roles_statuses_note_definitions_maps_and_obligations": true,
+  "chapter_boundaries_exact": true,
+  "canonical_and_machine_identity": true,
+  "all674_reading_and_bilingual_blocks_exact_display_only_projection": true,
+  "all2597_notes_exact_in_both_projections": true,
+  "fresh_remote_refs": {
+    "refs/heads/main": "3a0cd24626818899a04dc8f051b13ea49bef2cf5",
+    "refs/tags/golden-v1": "2dda46d0a11ee533a30dec1e196f506307a4957f",
+    "refs/tags/golden-v1^{}": "4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "refs/tags/translate-ch01-v1": "601ee9f11790e19fa52ff2269595b2d1a829032f",
+    "refs/tags/translate-ch01-v1^{}": "2a25fd13805628a76aadea614bfc7fd7248cd392",
+    "refs/tags/translate-ch02-v1": "ac905d8e9e2c085a9172cf560d13bdaf0d5c5d80",
+    "refs/tags/translate-ch02-v1^{}": "3cbe657cea281992123ccb85e0008e306e9d3108",
+    "refs/tags/translate-ch03-v1": "238c498de680dc12a8bf3465925b6ab82e9a1448",
+    "refs/tags/translate-ch03-v1^{}": "bd235b87322eb84718930c56e92d4bbe7c198a11",
+    "refs/tags/translate-ch04-v1": "3920988c3829b5f313c2c6ebc09dcc3a0edf78cc",
+    "refs/tags/translate-ch04-v1^{}": "7c5f10610915ee029837c866c9b33835962d924d",
+    "refs/tags/translate-ch05-v1": "f2338c31f8f60e612a3a3ff48499ca29f0cbd6ff",
+    "refs/tags/translate-ch05-v1^{}": "23cb6d38ba494dd8f53f22c6618168cd50761782",
+    "refs/tags/translate-ch06-v1": "896ac288c08b29c80458621c22a49a123e2b6227",
+    "refs/tags/translate-ch06-v1^{}": "713aa49a269ce42ac505bd8dff0299c6946bbdfa",
+    "refs/tags/translate-ch07-v1": "b88926a22f750ac23475d42475681e0b0b53ae99",
+    "refs/tags/translate-ch07-v1^{}": "3fae729775f57b100c785cb7ed5c23340524d3ae",
+    "refs/tags/translate-ch08-v1": "cb4ab7f12468fe3e3ec2294e4b24a4b5b242187e",
+    "refs/tags/translate-ch08-v1^{}": "71480071296de443e80f82216c464c558001e7c1"
+  },
+  "remote_refs_match_receipts": true,
+  "reproducible_read_only_validation": {
+    "passed": true,
+    "read_only": true,
+    "chapters": 8,
+    "source_objects_represented": 2053,
+    "build_manifest_sha256": "7a4693c3eaffa12d94af78a147a7289d9701c4061ad41fbb0532ebbc9a604a07"
+  },
+  "manual_inspection_sample": [
+    {
+      "chapter": 1,
+      "pairs": [
+        "MTP-000001",
+        "MTP-000002",
+        "MTP-000003",
+        "MTP-000004",
+        "MTP-000005",
+        "MTP-000008",
+        "MTP-000028",
+        "MTP-000029",
+        "MTP-000030"
+      ],
+      "roles": [
+        "chapter_colophon",
+        "main_text",
+        "source_heading",
+        "source_metadata"
+      ],
+      "bilingual_pairs": [
+        "MTP-000002",
+        "MTP-000004",
+        "MTP-000005",
+        "MTP-000008",
+        "MTP-000030"
+      ]
+    },
+    {
+      "chapter": 2,
+      "pairs": [
+        "MTP-000031",
+        "MTP-000032",
+        "MTP-000033",
+        "MTP-000037",
+        "MTP-000053",
+        "MTP-000063",
+        "MTP-000064",
+        "MTP-000065"
+      ],
+      "roles": [
+        "chapter_colophon",
+        "main_text",
+        "source_annotation",
+        "source_metadata"
+      ],
+      "bilingual_pairs": [
+        "MTP-000032",
+        "MTP-000033",
+        "MTP-000053",
+        "MTP-000065"
+      ]
+    },
+    {
+      "chapter": 3,
+      "pairs": [
+        "MTP-000066",
+        "MTP-000067",
+        "MTP-000068",
+        "MTP-000069",
+        "MTP-000097",
+        "MTP-000098",
+        "MTP-000099"
+      ],
+      "roles": [
+        "chapter_colophon",
+        "main_text",
+        "source_metadata"
+      ],
+      "bilingual_pairs": [
+        "MTP-000067",
+        "MTP-000068",
+        "MTP-000099"
+      ]
+    },
+    {
+      "chapter": 4,
+      "pairs": [
+        "MTP-000100",
+        "MTP-000101",
+        "MTP-000102",
+        "MTP-000105",
+        "MTP-000183",
+        "MTP-000184",
+        "MTP-000185"
+      ],
+      "roles": [
+        "chapter_colophon",
+        "main_text",
+        "source_metadata"
+      ],
+      "bilingual_pairs": [
+        "MTP-000101",
+        "MTP-000102",
+        "MTP-000185"
+      ]
+    },
+    {
+      "chapter": 5,
+      "pairs": [
+        "MTP-000186",
+        "MTP-000187",
+        "MTP-000188",
+        "MTP-000190",
+        "MTP-000318",
+        "MTP-000319",
+        "MTP-000320"
+      ],
+      "roles": [
+        "chapter_colophon",
+        "main_text",
+        "source_metadata"
+      ],
+      "bilingual_pairs": [
+        "MTP-000187",
+        "MTP-000188",
+        "MTP-000320"
+      ]
+    },
+    {
+      "chapter": 6,
+      "pairs": [
+        "MTP-000321",
+        "MTP-000322",
+        "MTP-000323",
+        "MTP-000326",
+        "MTP-000450",
+        "MTP-000451",
+        "MTP-000452"
+      ],
+      "roles": [
+        "chapter_colophon",
+        "main_text",
+        "source_metadata"
+      ],
+      "bilingual_pairs": [
+        "MTP-000322",
+        "MTP-000323",
+        "MTP-000452"
+      ]
+    },
+    {
+      "chapter": 7,
+      "pairs": [
+        "MTP-000453",
+        "MTP-000454",
+        "MTP-000455",
+        "MTP-000457",
+        "MTP-000565",
+        "MTP-000566",
+        "MTP-000567"
+      ],
+      "roles": [
+        "chapter_colophon",
+        "main_text",
+        "source_metadata"
+      ],
+      "bilingual_pairs": [
+        "MTP-000454",
+        "MTP-000567"
+      ]
+    },
+    {
+      "chapter": 8,
+      "pairs": [
+        "MTP-000568",
+        "MTP-000569",
+        "MTP-000570",
+        "MTP-000667",
+        "MTP-000668",
+        "MTP-000669",
+        "MTP-000670",
+        "MTP-000671",
+        "MTP-000672",
+        "MTP-000673",
+        "MTP-000674"
+      ],
+      "roles": [
+        "chapter_colophon",
+        "main_text",
+        "source_annotation",
+        "source_metadata",
+        "work_colophon"
+      ],
+      "bilingual_pairs": [
+        "MTP-000569",
+        "MTP-000668",
+        "MTP-000669",
+        "MTP-000670",
+        "MTP-000671",
+        "MTP-000672",
+        "MTP-000673",
+        "MTP-000674"
+      ]
+    }
+  ],
+  "limits": [
+    "No new whole-book semantic or lexical review.",
+    "No fresh native-image audit or decipherment.",
+    "No glossary proposal approval.",
+    "No human certification or accuracy percentage.",
+    "Aggregate coordinator signoff and formal publication remain separate."
+  ],
+  "manual_note_sample": [
+    "T01-004",
+    "T02-002",
+    "T02-005",
+    "CH02-G000117",
+    "MTP-AUDIT-C02-016",
+    "T03-003",
+    "T04-005",
+    "T05-002",
+    "T06-003",
+    "T07-002",
+    "T07-068",
+    "T07-069",
+    "T08-001",
+    "T08-066",
+    "T08-068"
+  ],
+  "projection_excerpt_note": "Long note-reference token runs were suppressed in the inspection excerpts only. All raw references and definitions were checked exhaustively and the 15 noted definitions read separately. Repository text was not altered.",
+  "manual_findings": [
+    {
+      "id": "AQC-001",
+      "severity": "medium",
+      "category": "presentation",
+      "status": "corrected_before_initial_frozen_manifest",
+      "scope": "Bilingual verse, headings and non-main roles",
+      "problem": "Raw bilingual lines lacked verse hard breaks and visible heading/non-main-role treatment.",
+      "treatment": "Aggregate-only shared display formatter, with comment separation, preserves raw machine/canonical/chapter inputs. All674 bilingual projections checked; old and revised actual English-only rendering was identical."
+    },
+    {
+      "id": "AQC-002",
+      "severity": "low",
+      "category": "presentation",
+      "status": "corrected_and_exact_delta_verified",
+      "pair_id": "MTP-000005",
+      "problem": "Multiline Tibetan h2 pair displayed its second source line as body text.",
+      "treatment": "Coordinator authorized joining heading display lines with one space; raw source/machine pair remains unchanged."
+    }
+  ],
+  "manual_observations": [
+    "All8 chapter openings/closings and representative prose/verse/metadata/unresolved treatments read.",
+    "Chapter5 colophon retains its source page-marker interruption and ordered continuation.",
+    "Chapter8 closing narrative, chapter/work colophons, both source notices and all3 blessing occurrences remain distinct and present.",
+    "No additional concrete assembly/display issue found within this finite sample; no new full semantic verdict."
+  ],
+  "initial_complete_assembly_review_manifest_sha256": "f4da172a28c9f1c08fb08337bb06ecea87f76f93eaedb57057f3230663ce4968",
+  "heading_delta": {
+    "changed_input_paths": [
+      "scripts/build_translation_aggregate.py"
+    ],
+    "changed_output_paths": [
+      "bilingual.md"
+    ],
+    "pair_id": "MTP-000005",
+    "exact_single_display_replacement": true,
+    "raw_source_english_machine_and_other_chapter_inputs_unchanged": true,
+    "unchanged_other_bound_inputs": 368,
+    "checked_hash_and_mtime_paths": 374,
+    "all_checked_paths_unchanged_during_check": true
+  },
+  "disposition": "ready_with_inherited_explicit_review_flags",
+  "open_assembly_blockers": [],
+  "review_supporting_sha256": {
+    "scripts/build_translation_aggregate.py": "c59a9975f36740dedb3b7cf135cfbec13e9ada90698f429c652b7f3baeb0b245",
+    "scripts/test_translation_aggregate.py": "df21507daa92e5ef7045e98e7bb5cd349d5e5fc9be0df3b363bc4c6c6a35f8b7",
+    "translations/aggregate-display-test-results.json": "1a84349a65cd8bd1d2545073dea99e074dfa667b17047e81e3c274c037bb4e5c"
+  },
+  "test_evidence": {
+    "runner": "/root/release_path",
+    "tests_run_by_this_reviewer": false,
+    "passed": 24,
+    "attempts": [
+      {
+        "attempt": 1,
+        "tests_run": 0,
+        "failures": 0,
+        "errors": 1,
+        "duration_seconds": 8.168,
+        "phase": "setUpClass before test execution",
+        "error": "translation_pipeline.Error: Front matter pin/scope mismatch or unset value",
+        "location": "aggregate.build during synthetic fixture setup; canonical English header check",
+        "temporary_root": "/workspace/scratch/f2937a92803f/aggregate-display-test-fixtures"
+      },
+      {
+        "attempt": 2,
+        "tests_run": 24,
+        "passed": 24,
+        "failures": 0,
+        "errors": 0,
+        "duration_seconds": 30.122,
+        "temporary_root": "/workspace/scratch/f2937a92803f/aggregate-heading-retry-fixtures"
+      }
+    ],
+    "diagnosis": "The failed setup fixture was automatically removed on process exit, so the mismatched fields could not be recovered. A separately preserved synthetic fixture had identical actual/expected English header fields and stable canonical bytes; two collections, synthetic build and read-only verification passed. The setup mismatch was not reproduced. No fixture, source-pin or gate changes were made before the single full-suite retry.",
+    "report": "translations/aggregate-display-test-results.json"
+  },
+  "independent": true,
+  "coverage": "complete_for_assembly_with_declared_manual_sample"
+}

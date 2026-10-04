@@ -1,6 +1,6 @@
 # String of Pearls — Mu Tig Phreng Ba
 
-Tibetan edition and source research for the Dzogchen tantra **མུ་ཏིག་ཕྲེང་བ་ (mu tig phreng ba)**, also called *Pearl Necklace* or *Garland of Pearls*, one of the Seventeen Tantras.
+Tibetan edition, English translation and source research for the Dzogchen tantra **མུ་ཏིག་ཕྲེང་བ་ (mu tig phreng ba)**, also called *Pearl Necklace* or *Garland of Pearls*, one of the Seventeen Tantras.
 
 ## Current scope
 
@@ -8,14 +8,23 @@ Tibetan edition and source research for the Dzogchen tantra **མུ་ཏིག
 
 [Read the complete Tibetan edition](golden/reading.md) · [Machine-readable text](golden/reading.json) · [Coverage and uncertainty](golden/coverage.json) · [Fixed release](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/golden-v1)
 
-The Adzom1973–77 printing (W1KG892/I1KG895, printed417–537) governs this maintained reading. All corrections have scan evidence and explicit decisions. The two electronic renditions belong to one transcript family. Full scan proofreading and exhaustive witness collation were not performed: 1,870 anchors retain unreviewed-transcript status, and 96 anchor-level uncertainty records remain visible. English translation has resumed after chapter 1. The released working chapter includes Adzom endnotes and independent agent QC; chapter 2 has passed independent QC and final validation and awaits its required release tag; chapter 3 is a signed, independently reviewed working candidate with reproducible draft validation. Chapter 4 has a complete saved 396-note draft; its final refinements and review bindings were not committed before workspace cleanup, so the saved snapshot remains unsigned. Chapter 5 is a signed, independently reviewed working candidate:135pairs/416objects,520notes,all432source obligations covered,with16locallyunresolvedpairs. Its27-page native audit and reproducible working-candidate checks are complete; formal release remains pending. Chapters 6–8 remain untranslated. The page-by-page Adzom audits distinguish lexical differences, omitted annotations and unresolved readings without changing golden-v1.
+The Adzom1973–77 printing (W1KG892/I1KG895, printed417–537) governs this maintained reading. All corrections have scan evidence and explicit decisions. The two electronic renditions belong to one transcript family. Full scan proofreading and exhaustive witness collation were not performed: 1,870 anchors retain unreviewed-transcript status, and 96 anchor-level uncertainty records remain visible.
+
+**English working edition:** all eight chapters are translated, independently reviewed by agents and published as fixed chapter releases. The combined English and bilingual edition is reviewed, signed and passes final validation; its annotated aggregate tag and post-tag receipt are the remaining publication actions. All 2,053 source objects are represented in 674 pairs with 2,597 notes. Zero chapters remain to draft. The 140 unresolved pairs remain explicitly flagged; this is an annotated working edition for human review.
+
+[Complete English](translations/reading.md) · [Tibetan and English](translations/bilingual.md) · [Chapter index and endnote policy](translations/README.md) · [Coverage and limits](translations/coverage.json) · [Final review](translations/FINAL-REVIEW.md)
+
+The page-by-page Adzom audits distinguish lexical differences, omitted annotations and unresolved readings without changing golden-v1. Proposed terminology remains inactive; complete annotation decipherment and exhaustive witness collation are outside this bounded edition.
 
 - [English translation and endnote policy](translations/README.md)
 - [Chapter 1 English with Adzom endnotes](translations/chapters/01/reading.md)
-- [Chapter 2 reviewed English candidate with Adzom endnotes](translations/chapters/02/reading.md)
-- [Chapter 3 reviewed English candidate with Adzom endnotes](translations/chapters/03/reading.md)
-- [Chapter 4 saved English draft with Adzom endnotes](translations/chapters/04/reading.md)
-- [Chapter 5 reviewed English with endnotes](translations/chapters/05/reading.md) · [Bilingual](translations/chapters/05/bilingual.md)
+- [Chapter 2 English with Adzom endnotes](translations/chapters/02/reading.md)
+- [Chapter 3 English with Adzom endnotes](translations/chapters/03/reading.md)
+- [Chapter 4 English with Adzom endnotes](translations/chapters/04/reading.md)
+- [Chapter 5 English with endnotes](translations/chapters/05/reading.md) · [Bilingual](translations/chapters/05/bilingual.md)
+- [Chapter 6 English with endnotes](translations/chapters/06/reading.md)
+- [Chapter 7 English with endnotes](translations/chapters/07/reading.md)
+- [Chapter 8 English with endnotes](translations/chapters/08/reading.md)
 - [Canonical paired English](paired/translation.md)
 - [Project status](PROJECT-STATUS.md)
 - [Golden edition method](guidelines/golden_edition_method.md)

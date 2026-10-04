@@ -41,8 +41,7 @@ This is an agent-produced working translation for human review. [Fixed Tibetan s
 <a id="mtp-000005"></a>
 <!-- pair: MTP-000005; format: h2; role: source_heading -->
 
-## བོད་སྐད་དུ
-མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ
+## བོད་སྐད་དུ མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ
 
 ## In Tibetan: *The Tantra Entitled The String of Precious Pearls*.[^T01-001][^CH01-G000007][^CH01-G000008][^MTP-AUDIT-C01-001]
 

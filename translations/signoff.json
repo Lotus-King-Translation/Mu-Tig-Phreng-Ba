@@ -1,0 +1,29 @@
+{
+  "edition": "translation-v1",
+  "approved": true,
+  "reviewer": "/root",
+  "review_path": "translations/FINAL-REVIEW.md",
+  "review_sha256": "be89fb01bd35a7fd8fdb8790433ed7b01635c1166310ae850b1587364de7f2ae",
+  "build_manifest_sha256": "7a4693c3eaffa12d94af78a147a7289d9701c4061ad41fbb0532ebbc9a604a07",
+  "output_sha256": {
+    "reading.md": "057e43c067188102ecdf80d580f8ee226a9f1ecb4e273c3595c0023bfc152307",
+    "bilingual.md": "be2a44053afdcc2dbc455e1d7abb50be3a218d358164dee7f605fea0e0611910",
+    "machine.json": "111b9016279a5acfe7bdfc65609d622b7382d06ea8190803387dd95600aa77f1",
+    "coverage.json": "a6ba9507a5904ea65048941ddefb28c607d0ba1f303225d35967847266ab55e8"
+  },
+  "claims": {
+    "automated_semantic_certification": false,
+    "independent_human_certification": false
+  },
+  "supporting_sha256": {
+    "translations/AGGREGATE-QC.md": "f30ee3ca626640ec9e8ffe2b4b1b42ef4d7317e2aabec8a44ff6ee4ad9954cc8",
+    "translations/AGGREGATE-CHECKS.json": "3e2eb3e50b0c18fe127292eb153fbbb070f24fad7a675ac6217c899bfb8de6f0",
+    "translations/unsigned-final-check.json": "55280a60177559d6a49f9a44b958a75ee1ac513653ad8f3e37628fbc559e2aaa",
+    "translations/remote-chapter-verification.json": "ee339d1aa52f4ac06a6607a020b9bae8d2c48e8d6cf5704c8b5fea3d6098205c",
+    "translations/aggregate-display-test-results.json": "1a84349a65cd8bd1d2545073dea99e074dfa667b17047e81e3c274c037bb4e5c",
+    "translations/aggregate-signoff-test-results.json": "66420e9bd6a93bfe39a87a99dc453ede5529f2cb740509a105be44d316dd91d6",
+    "scripts/validate_translation_aggregate.py": "c0253c630bf2ef3085434f0667f8bdd17ba1fcab4bb905c1db032eebc92916e2",
+    "scripts/test_translation_aggregate.py": "df21507daa92e5ef7045e98e7bb5cd349d5e5fc9be0df3b363bc4c6c6a35f8b7",
+    "scripts/test_translation_aggregate_signoff.py": "844a22bf4373c19714bc801f9fb46c814bf8041e2f5b8780883b6dfd978651a5"
+  }
+}

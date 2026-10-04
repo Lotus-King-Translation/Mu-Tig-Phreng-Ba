@@ -1,5 +1,5 @@
 {
-  "verified_at_utc": "2026-10-04T12:17:51.917741+00:00",
+  "verified_at_utc": "2026-10-04T12:31:23.386256+00:00",
   "chapter_releases": [
     {
       "chapter": 1,
@@ -55,6 +55,6 @@
     "tag_object": "2dda46d0a11ee533a30dec1e196f506307a4957f",
     "peeled_commit": "4d6ba07e1b3379183633127cd387d98d8195eb95"
   },
-  "main_observed": "06db5c454cbb52153a076c820528f44e0bb22dd8",
+  "main_observed": "3a0cd24626818899a04dc8f051b13ea49bef2cf5",
   "scope": "Fresh immutable chapter/golden remote refs; final tag publication separately rechecks current main and these refs."
 }

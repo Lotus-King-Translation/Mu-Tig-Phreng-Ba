@@ -3,6 +3,6 @@
   "command": "python scripts/validate_translation_aggregate.py",
   "passed": true,
   "expected_rejection": "Unsigned translation aggregate: final signoff missing",
-  "build_manifest_sha256": "f4da172a28c9f1c08fb08337bb06ecea87f76f93eaedb57057f3230663ce4968",
+  "build_manifest_sha256": "7a4693c3eaffa12d94af78a147a7289d9701c4061ad41fbb0532ebbc9a604a07",
   "scope": "Same final gate used after genuine approval; no synthetic approval for real content."
 }

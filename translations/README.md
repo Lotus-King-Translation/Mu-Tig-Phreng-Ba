@@ -2,9 +2,9 @@
 
 The complete eight-chapter translation follows the fixed [golden Tibetan](../golden/reading.md), unchanged [glossary](../glossary/expanded_tibetan_english_glossary.csv), and [translation standard](../guidelines/tibetan_translation_standard_v2.md). This is an agent-produced annotated working edition for human review.
 
-[Complete English candidate](reading.md) · [Tibetan and English candidate](bilingual.md) · [Coverage](coverage.json)
+[Read the complete English edition](reading.md) · [Read Tibetan and English](bilingual.md) · [Coverage and limits](coverage.json) · [Final review](FINAL-REVIEW.md)
 
-The complete aggregate is under independent assembly review; its final tag is pending.
+The complete aggregate is reviewed and signed; its annotated release and post-tag receipt are the remaining publication actions at this checkpoint.
 
 All 2053 fixed objects are represented in 674 pairs with 2597 locally linked notes. No chapters remain to draft. Actual chapter releases: 8/8.
 
@@ -30,4 +30,4 @@ All 2053 fixed objects are represented in 674 pairs with 2597 locally linked not
 
 Endnotes distinguish actual Adzom differences, transcript corrections that agree with Adzom, omitted annotations, presentation, uncertain readings and translation questions. Unresolved language remains visible. No proposed glossary term is activated. The bounded edition does not claim complete commentary decipherment, exhaustive witness collation or human certification.
 
-Canonical content is in `paired/source.md` and `paired/translation.md`; generated readings mirror the chapter snapshots. During sequential publication, canonical files declare their exact prefix scope while all eight chapter directories remain preserved. Original author archives are immutable; later reviewed changes are logged separately. See [handoff](HANDOFF.md), [plan](PLAN.json), [endnote policy](ENDNOTE-POLICY.md), and [pipeline schema](PIPELINE-SCHEMA.md).
+Canonical content is in `paired/source.md` and `paired/translation.md`; both cover all eight chapters. Generated readings mirror the fixed chapter snapshots. Original author archives are immutable; later reviewed changes are logged separately. See [handoff](HANDOFF.md), [plan](PLAN.json), [endnote policy](ENDNOTE-POLICY.md), and [pipeline schema](PIPELINE-SCHEMA.md).

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "read_only": true,
+  "chapters": 8,
+  "source_objects_represented": 2053,
+  "build_manifest_sha256": "7a4693c3eaffa12d94af78a147a7289d9701c4061ad41fbb0532ebbc9a604a07",
+  "mode": "final",
+  "edition": "translation-v1",
+  "signoff_sha256": "50c70f06bc2a7391eda2d166b813a14c22aa5f7cc3133ae08d0524e356fa28c8",
+  "review_sha256": "be89fb01bd35a7fd8fdb8790433ed7b01635c1166310ae850b1587364de7f2ae",
+  "signoff_hash_binding": true,
+  "remote_refs_verified": false,
+  "claims": {
+    "automated_semantic_certification": false,
+    "independent_human_certification": false
+  }
+}

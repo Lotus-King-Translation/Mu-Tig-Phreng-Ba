@@ -147,7 +147,7 @@
     "guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
     "paired/source.md": "1cd1a2c2f4528980314f5ce1a831f7a8d725615c699b2fb6e0e1caf4ed97fb31",
     "paired/translation.md": "0dda06f238a218a635eaed9576a596bcfe6bd84ddd4411104b0545734c002614",
-    "scripts/build_translation_aggregate.py": "083e4e5e924a2f6d687f931df817e02385a6701f39568e925791cd6998dfb2d6",
+    "scripts/build_translation_aggregate.py": "c59a9975f36740dedb3b7cf135cfbec13e9ada90698f429c652b7f3baeb0b245",
     "scripts/translation_pipeline.py": "de33fb782187cecf360b5a046b18f6a9b87542a2cfa2d2a80f1385872f71d3f7",
     "translations/chapters/01/FINAL-REVIEW.md": "1447e3fc775167273650a8337943f03b784abdd459807910dfb24fb370ec6a9d",
     "translations/chapters/01/QC.md": "7657bee61aa0daa499c9f79b9d2c3a50621023b19787ee70d341e94287ea7cb9",
@@ -472,7 +472,7 @@
   ],
   "output_sha256": {
     "reading.md": "057e43c067188102ecdf80d580f8ee226a9f1ecb4e273c3595c0023bfc152307",
-    "bilingual.md": "d722412cd76500e94eb915b01510b43b0f23d3754d8f8de789fe8a68c2c2d461",
+    "bilingual.md": "be2a44053afdcc2dbc455e1d7abb50be3a218d358164dee7f605fea0e0611910",
     "machine.json": "111b9016279a5acfe7bdfc65609d622b7382d06ea8190803387dd95600aa77f1",
     "coverage.json": "a6ba9507a5904ea65048941ddefb28c607d0ba1f303225d35967847266ab55e8"
   },
