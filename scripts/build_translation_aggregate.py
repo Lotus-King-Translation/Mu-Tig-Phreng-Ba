@@ -124,7 +124,7 @@ def collect(root):
     return chapters,pairs,notes,releases,inputs
 
 def display(text,fmt,role):
-    shown='#'*int(fmt[1])+' '+text if fmt.startswith('h') else (text.replace('\n','  \n') if fmt=='verse' else text)
+    shown='#'*int(fmt[1])+' '+text.replace('\n',' ') if fmt.startswith('h') else (text.replace('\n','  \n') if fmt=='verse' else text)
     if role in {'annotation','source_annotation','colophon','work_colophon','chapter_colophon','metadata','source_metadata','blank'}:
         shown=f'> [{role}] '+shown.replace('\n','\n> ')
     return shown

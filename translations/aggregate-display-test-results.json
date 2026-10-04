@@ -1,16 +1,46 @@
 {
   "scope": "Aggregate display and existing identity/provenance/corruption gates; synthetic fixtures, not real semantic review or release evidence",
-  "test_command": "python scripts/test_translation_aggregate.py",
+  "test_command": "TMPDIR=/workspace/scratch/f2937a92803f/aggregate-heading-retry-fixtures python3 scripts/test_translation_aggregate.py",
   "runner": "/root/release_path",
-  "tests": 23,
-  "passed": 23,
+  "tests": 24,
+  "passed": 24,
   "failures": 0,
   "errors": 0,
-  "first_complete_run": true,
-  "duration_seconds": 25.829,
+  "first_complete_run": false,
+  "duration_seconds": 30.122,
+  "attempts": [
+    {
+      "attempt": 1,
+      "tests_run": 0,
+      "failures": 0,
+      "errors": 1,
+      "duration_seconds": 8.168,
+      "phase": "setUpClass before test execution",
+      "error": "translation_pipeline.Error: Front matter pin/scope mismatch or unset value",
+      "location": "aggregate.build during synthetic fixture setup; canonical English header check",
+      "temporary_root": "/workspace/scratch/f2937a92803f/aggregate-display-test-fixtures"
+    },
+    {
+      "attempt": 2,
+      "tests_run": 24,
+      "passed": 24,
+      "failures": 0,
+      "errors": 0,
+      "duration_seconds": 30.122,
+      "temporary_root": "/workspace/scratch/f2937a92803f/aggregate-heading-retry-fixtures"
+    }
+  ],
+  "diagnosis": "The failed setup fixture was automatically removed on process exit, so the mismatched fields could not be recovered. A separately preserved synthetic fixture had identical actual/expected English header fields and stable canonical bytes; two collections, synthetic build and read-only verification passed. The setup mismatch was not reproduced. No fixture, source-pin or gate changes were made before the single full-suite retry.",
   "sha256": {
-    "scripts/build_translation_aggregate.py": "083e4e5e924a2f6d687f931df817e02385a6701f39568e925791cd6998dfb2d6",
-    "scripts/test_translation_aggregate.py": "12ef479ce01298713d004bce237baf4f758bd0bd2ed27c1956ff4d11039a257c"
+    "scripts/build_translation_aggregate.py": "c59a9975f36740dedb3b7cf135cfbec13e9ada90698f429c652b7f3baeb0b245",
+    "scripts/test_translation_aggregate.py": "df21507daa92e5ef7045e98e7bb5cd349d5e5fc9be0df3b363bc4c6c6a35f8b7"
   },
-  "change": "Bilingual display inherits verse hard breaks, headings and visible source roles; raw content and signed chapter snapshots unchanged."
+  "change": "Bilingual display inherits verse hard breaks, headings and visible source roles. Multiline heading text is displayed as one heading using an ordinary space at each source line boundary, including MTP-000005. Canonical/raw machine text and signed chapter snapshots are unchanged.",
+  "temporary_fixture_hygiene": {
+    "previously_reported_repository_remnants_present_at_handoff": 0,
+    "repository_remnants_after_retry": 0,
+    "existing_remnants_moved_or_removed_by_this_agent": 0,
+    "diagnostic_fixture_preserved_outside_repository": "/workspace/scratch/f2937a92803f/aggregate-heading-diagnostic-_dspgrp7",
+    "note": "Both attempts explicitly placed temporary fixtures outside the repository. No project or other-agent files were removed."
+  }
 }

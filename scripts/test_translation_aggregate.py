@@ -122,6 +122,18 @@ class AggregateTests(unittest.TestCase):
             self.assertEqual(bilingual.count(f'<a id="{pair["id"].lower()}"></a>'),1)
             self.assertIn(f'<!-- pair: {pair["id"]}; format: {pair["format"]}; role: {pair["role"]} -->',bilingual)
         self.assertEqual(chapters,before)
+    def test_multiline_title_is_one_heading_without_changing_raw_text(self):
+        pair={'id':'MTP-000005','format':'h2','role':'source_heading',
+              'source':'བོད་སྐད་དུ\nམུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ',
+              'translation':'In Tibetan:\nThe String of Precious Pearls.'}
+        chapters=[{'chapter':1,'pairs':[pair]}];before=copy.deepcopy(chapters)
+        bilingual=a.render(chapters,[],True).decode();english=a.render(chapters,[]).decode()
+        self.assertIn('\n## བོད་སྐད་དུ མུ་ཏིག་རིན་པོ་ཆེ་ཕྲེང་བའི་རྒྱུད་ཅེས་བྱ་བ\n',bilingual)
+        self.assertNotIn('\nམུ་ཏིག་',bilingual)
+        for shown in (bilingual,english):
+            self.assertIn('\n## In Tibetan: The String of Precious Pearls.\n',shown)
+            self.assertEqual(shown.count('<a id="mtp-000005"></a>'),1)
+        self.assertEqual(chapters,before)
     def test_missing_chapter_refuses_without_writes(self):
         shutil.rmtree(t.directory(self.r,8));p=self.r/'translations/reading.md';before=p.read_bytes()
         with self.assertRaisesRegex(t.Error,'Missing translation chapter 8'):a.build(self.r)
