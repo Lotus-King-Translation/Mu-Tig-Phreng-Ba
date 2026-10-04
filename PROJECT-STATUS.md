@@ -1,3 +1,13 @@
+# Current task — finish review and formal publication
+
+Updated 2026-10-04. User authorized the remaining work with “go on”. All eight working translations already exist: 2,053 fixed source objects / 674 pairs; zero chapters remain to draft. Main is preserved at `3972b751e37538779cbbfcc01c9bdc7e5c6beb24` on `archive/working-edition-3972b751`.
+
+Chapter 4 fresh review is in progress on `review/ch04-final-20261004`: 294 objects / 86 pairs / 396 notes. Its lost final package was not recovered from available Git objects. The fresh package will preserve the exact old draft and disclose newly established corrections. Author and independent QC have completed their initial full source/English/translator-note reads; lexical construction and complete support-record review remain in progress. No new final signoff or release is claimed.
+
+The connected Mac now provides authenticated publication access. Remaining formal tasks are seven chapter tags and receipts (2–8), then the complete English aggregate. No release gate or historical pin is waived. Full multi-layer scan proofreading, exhaustive witness collation and human certification remain outside this task. Next finite step: finish chapter 4 records and independent review, then publish chapters sequentially using real remote refs.
+
+---
+
 # Current state — all eight working translations complete
 
 Updated 2026-10-04. No chapters remain to draft. Canonical Tibetan and English cover all 2,053 fixed source objects in 674 matching pairs. Representation includes explicitly unresolved material and nontranslatable metadata; these counts do not measure accuracy or complete decipherment.
