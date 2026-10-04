@@ -1,6 +1,6 @@
 # Chapter 7 independent QC — preparation
 
-Reviewer: `/root/ch07_qc`. Updated 2026-10-04. This is an independent agent review, separate from translation authorship. The first English batch has been reviewed; no whole-chapter disposition or clearance is issued.
+Reviewer: `/root/ch07_qc`. Updated 2026-10-04. This is an independent agent review, separate from translation authorship. The first two English batches have been reviewed; no whole-chapter disposition or clearance is issued.
 
 ## Authority and finite scope
 
@@ -20,7 +20,7 @@ The translation review must retain local disclosure of S1472, S1564, S1751 and S
 
 ## Pending review
 
-English beyond pair 489, generated golden/native endnotes, the complete usage records and eight-column proposals remain to be reviewed when authored. No complete chapter coverage or semantic disposition is asserted here. No automated semantic certification, independent human certification, full commentary transcription, complete multi-layer scan proofreading or exhaustive witness collation is claimed. The standard's thirty semantic regression fixtures have not been newly executed.
+English beyond pair 530, generated golden/native endnotes, and complete lexical support remain to be reviewed when authored. All 110 first-batch usage records have been read; their 97 full eight-column proposals and binding checks remain in review. No complete chapter coverage or semantic disposition is asserted here. No automated semantic certification, independent human certification, full commentary transcription, complete multi-layer scan proofreading or exhaustive witness collation is claimed. The standard's thirty semantic regression fixtures have not been newly executed.
 
 ## First English batch: pairs 453–489
 
@@ -40,3 +40,22 @@ Protected terminology remains identifiable, including ordinary mind, discerning 
 - Disposition: corrected and independently verified. The author adopted “since this is absent [at] the very beginning,” and revised T07-002 to explain the supplied locative, emphatic term and unresolved topic/referent relation. Change CH07-AUTHOR-C001 records the semantic correction. Revised English SHA-256: `08f5bda7f2cb63d7693da9154e11a88fd59eae215b963e83829725e1b4761f06`. CH07-AUTHOR-C002 separately records the canonical endnote-boundary formatting correction; both note maps match.
 
 No first-batch correction blocker remains in the bodies and translator notes reviewed. The ten unresolved pairs and other local proposals remain review flags, not resolved readings or publication clearance. The lexical ledger and complete generated source apparatus remain pending, as does English beyond pair 489.
+
+## Second English batch: pairs 490–530
+
+I independently read all 41 new source/English pairs, covering 118 objects S1551–S1668, and all 23 new translator notes T07-024–T07-046. Reviewed English SHA-256 before correction: `86e344aa612adba1d98618448d4fe166fd5f4aba94fc50924c1c1d3bfda14b15`. The cumulative reviewed scope is 78 pairs, 241 objects, 228 verse lines and 46 translator notes. This is body and authored-note review; the complete generated golden/native apparatus and complete lexical support are still pending.
+
+The S1564 expansion and uncertain root/commentary allocation remain disclosed in T07-026. S1595 retains the fixed `བཞིག` while T07-033 explicitly identifies printed `གཞིག` and the provisional interpretation through the printed reading. S1609's freedom from radiance, S1649's first-person pronoun, S1664's exact `ཕལ་ཆེར` and S1668's unusual bliss/suffering causality remain visible. These are not grounds for silent doctrinal normalization. Protected terminology remains distinct at the reviewed occurrences.
+
+### Q07-002 — S1637 intermediate-state genitive
+
+- Location: pair MTP-000520, S1637, printed page 513; T07-042.
+- Exact source: `ལམ་ནི་རང་སྣང་བར་དོའི་ཡུལ`.
+- Reviewed English: “The path is the domain of self-appearance in the intermediate state.”
+- Finding: probable error; syntax and scope; medium severity, moderate confidence.
+- Evidence: the explicit `བར་དོའི` genitive modifies domain. The reviewed English instead makes self-appearance the genitive complement and supplies an unmarked in-relation for the intermediate state. The compound or appositional relation to self-appearance remains uncertain.
+- Requested action: provisionally render “The path is self-appearance, the domain of the intermediate state,” and explain the remaining attachment uncertainty in T07-042.
+- Authority: source-based minimal attachment correction; no source alteration or canonical glossary change.
+- Disposition: corrected and independently verified. The exact suggested line is present; revised T07-042 preserves the explicit genitive and discloses apposition versus compound uncertainty. CH07-AUTHOR-C003 records the change, both note-map bindings agree, and MTP-000520 is now unresolved. Corrected English SHA-256: `26af830e182606a8e5e6d1450ae3cc6fa09328e1587dc31ac30ebcc309ff2165`.
+
+No second-batch body or authored-note correction blocker remains. The cumulative status is forty translated, twenty-five unresolved and thirteen metadata pairs. Those unresolved statuses and local proposals remain open review flags; this bounded review is not whole-chapter clearance.
