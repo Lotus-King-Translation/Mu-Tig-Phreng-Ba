@@ -20,7 +20,7 @@ The translation review must retain local disclosure of S1472, S1564, S1751 and S
 
 ## Pending review
 
-English beyond pair 530, generated golden/native endnotes, and complete lexical support remain to be reviewed when authored. All 110 first-batch usage records have been read; their 97 full eight-column proposals and binding checks remain in review. No complete chapter coverage or semantic disposition is asserted here. No automated semantic certification, independent human certification, full commentary transcription, complete multi-layer scan proofreading or exhaustive witness collation is claimed. The standard's thirty semantic regression fixtures have not been newly executed.
+English beyond pair 530, generated golden/native endnotes, and lexical support beyond the first batch remain to be reviewed when authored. The complete first-batch lexical ledger has been reviewed as recorded below. No complete chapter coverage or semantic disposition is asserted here. No automated semantic certification, independent human certification, full commentary transcription, complete multi-layer scan proofreading or exhaustive witness collation is claimed. The standard's thirty semantic regression fixtures have not been newly executed.
 
 ## First English batch: pairs 453–489
 
@@ -59,3 +59,11 @@ The S1564 expansion and uncertain root/commentary allocation remain disclosed in
 - Disposition: corrected and independently verified. The exact suggested line is present; revised T07-042 preserves the explicit genitive and discloses apposition versus compound uncertainty. CH07-AUTHOR-C003 records the change, both note-map bindings agree, and MTP-000520 is now unresolved. Corrected English SHA-256: `26af830e182606a8e5e6d1450ae3cc6fa09328e1587dc31ac30ebcc309ff2165`.
 
 No second-batch body or authored-note correction blocker remains. The cumulative status is forty translated, twenty-five unresolved and thirteen metadata pairs. Those unresolved statuses and local proposals remain open review flags; this bounded review is not whole-chapter clearance.
+
+## First-batch lexical ledger
+
+I read all 110 complete usage records, covering 163 source-object loci, and all eight columns of all 97 inactive proposals. The records comprise 98 provisional usages and twelve grammatical realizations. The ledger scope is expressly limited to pairs 453–489; these counts do not claim coverage of later English. Usage SHA-256: `5290d9675696066dce06a781ef7dfe3e50fc98cadebe0d5348c7dd9992f12721`. Proposal SHA-256: `41a47cd76861d82f939d7a2473a8b233738c529f168e3ea16dfb5458f8a13a75`.
+
+The recorded uses and scoped proposals preserve the protected compounds and disclose local exceptions rather than activating alternative defaults. Explicit occurrence modifiers, including five, four, great and single, are distinguished from bare proposed equivalents. Exact unusual forms and unresolved constructions are retained. No concrete additional lexical correction was identified.
+
+Read-only binding checks found no errors in the exact Tibetan spans, pair memberships, local note/golden-object bindings, note existence, eight-column structure, inactive status, source/note references or coverage of provisional records by proposal headwords. Such checks establish traceability, not approval of the proposed terminology or automatic semantic accuracy. Later-batch ledger expansion remains to be reviewed against its actual English.
