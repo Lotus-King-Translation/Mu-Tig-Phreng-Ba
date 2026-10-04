@@ -1,0 +1,15 @@
+{
+  "scope": "New final approval/hash-binding gate only; synthetic fixtures, not semantic review or genuine release evidence",
+  "test_command": "python scripts/test_translation_aggregate_signoff.py",
+  "runner": "/root/release_path",
+  "tests": 17,
+  "passed": 17,
+  "failures": 0,
+  "errors": 0,
+  "first_complete_run": true,
+  "duration_seconds": 51.935,
+  "sha256": {
+    "scripts/validate_translation_aggregate.py": "c0253c630bf2ef3085434f0667f8bdd17ba1fcab4bb905c1db032eebc92916e2",
+    "scripts/test_translation_aggregate_signoff.py": "844a22bf4373c19714bc801f9fb46c814bf8041e2f5b8780883b6dfd978651a5"
+  }
+}
