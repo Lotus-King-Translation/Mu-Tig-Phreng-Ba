@@ -123,6 +123,12 @@ def collect(root):
         inputs[name]=t.digest(root/name)
     return chapters,pairs,notes,releases,inputs
 
+def display(text,fmt,role):
+    shown='#'*int(fmt[1])+' '+text if fmt.startswith('h') else (text.replace('\n','  \n') if fmt=='verse' else text)
+    if role in {'annotation','source_annotation','colophon','work_colophon','chapter_colophon','metadata','source_metadata','blank'}:
+        shown=f'> [{role}] '+shown.replace('\n','\n> ')
+    return shown
+
 def render(chapters,notes,bilingual=False):
     title='String of Pearls — Tibetan and English' if bilingual else 'String of Pearls — English working translation'
     lines=['# '+title,'','Eight fixed chapter releases, translated from `golden-v1`. All source comparisons and unresolved readings remain in the endnotes.','',
@@ -131,12 +137,10 @@ def render(chapters,notes,bilingual=False):
         n=c['chapter'];lines += [f'## Chapter {n}','',f'[Fixed chapter release](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch{n:02}-v1)','']
         for p in c['pairs']:
             lines.append(f'<a id="{p["id"].lower()}"></a>')
-            if bilingual:lines.extend([f'<!-- pair: {p["id"]}; format: {p["format"]}; role: {p["role"]} -->',p['source'],'',p['translation'],''])
-            else:
-                text=p['translation'];fmt=p['format'];role=p['role']
-                shown='#'*int(fmt[1])+' '+text if fmt.startswith('h') else (text.replace('\n','  \n') if fmt=='verse' else text)
-                if role in {'annotation','source_annotation','colophon','work_colophon','chapter_colophon','metadata','source_metadata','blank'}:shown=f'> [{role}] '+shown.replace('\n','\n> ')
-                lines.extend([shown,''])
+            if bilingual:
+                lines.extend([f'<!-- pair: {p["id"]}; format: {p["format"]}; role: {p["role"]} -->','',
+                              display(p['source'],p['format'],p['role']),''])
+            lines.extend([display(p['translation'],p['format'],p['role']),''])
     lines.extend(['## Endnotes',''])
     for note in notes:lines.extend([note['raw'],''])
     return ('\n'.join(lines)+'\n').encode()

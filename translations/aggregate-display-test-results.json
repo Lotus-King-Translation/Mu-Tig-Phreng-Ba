@@ -1,0 +1,16 @@
+{
+  "scope": "Aggregate display and existing identity/provenance/corruption gates; synthetic fixtures, not real semantic review or release evidence",
+  "test_command": "python scripts/test_translation_aggregate.py",
+  "runner": "/root/release_path",
+  "tests": 23,
+  "passed": 23,
+  "failures": 0,
+  "errors": 0,
+  "first_complete_run": true,
+  "duration_seconds": 25.829,
+  "sha256": {
+    "scripts/build_translation_aggregate.py": "083e4e5e924a2f6d687f931df817e02385a6701f39568e925791cd6998dfb2d6",
+    "scripts/test_translation_aggregate.py": "12ef479ce01298713d004bce237baf4f758bd0bd2ed27c1956ff4d11039a257c"
+  },
+  "change": "Bilingual display inherits verse hard breaks, headings and visible source roles; raw content and signed chapter snapshots unchanged."
+}

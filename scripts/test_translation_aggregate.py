@@ -90,6 +90,38 @@ class AggregateTests(unittest.TestCase):
         self.assertEqual(coverage['claims'],t.CLAIMS);self.assertEqual(len(machine['endnotes']),8)
         for note in machine['endnotes']:
             for name in ('reading.md','bilingual.md'):self.assertIn(note['raw'],(self.r/'translations'/name).read_text().split('## Endnotes\n')[1])
+    def test_bilingual_verse_display_preserves_raw_pairs(self):
+        pair={'id':'MTP-DISPLAY-1','format':'verse','role':'main_text',
+              'source':'ཀ་\nཁ་\nག་','translation':'First line.\nSecond line.\nThird line.[^N1]'}
+        chapters=[{'chapter':1,'pairs':[pair]}]
+        notes=[{'raw':'[^N1]: Preserve the exact note.\n    And its continuation.'}]
+        before=copy.deepcopy((chapters,notes))
+        shown=a.render(chapters,notes,True).decode()
+        self.assertIn('<!-- pair: MTP-DISPLAY-1; format: verse; role: main_text -->\n\n',shown)
+        self.assertIn('ཀ་  \nཁ་  \nག་\n\nFirst line.  \nSecond line.  \nThird line.[^N1]',shown)
+        self.assertEqual(shown.count('<a id="mtp-display-1"></a>'),1)
+        self.assertIn(notes[0]['raw'],shown)
+        self.assertEqual((chapters,notes),before)
+    def test_bilingual_headings_and_non_main_roles_are_visible(self):
+        pairs=[{'id':f'MTP-H{level}','format':f'h{level}','role':'source_heading',
+                'source':f'ཀ་{level}','translation':f'Heading {level}'} for level in (1,2,3)]
+        roles=('annotation','source_annotation','colophon','work_colophon','chapter_colophon','metadata','source_metadata','blank')
+        pairs += [{'id':f'MTP-R{index}','format':'prose','role':role,
+                   'source':'ཀ་\nཁ་','translation':f'{role} first line.\nSecond line.'}
+                  for index,role in enumerate(roles,1)]
+        chapters=[{'chapter':1,'pairs':pairs}];before=copy.deepcopy(chapters)
+        bilingual=a.render(chapters,[],True).decode();english=a.render(chapters,[]).decode()
+        for level in (1,2,3):
+            self.assertIn('\n'+'#'*level+f' ཀ་{level}\n',bilingual)
+            self.assertIn('\n'+'#'*level+f' Heading {level}\n',bilingual)
+        for role in roles:
+            self.assertIn(f'> [{role}] ཀ་\n> ཁ་',bilingual)
+            self.assertIn(f'> [{role}] {role} first line.\n> Second line.',bilingual)
+            self.assertIn(f'> [{role}] {role} first line.\n> Second line.',english)
+        for pair in pairs:
+            self.assertEqual(bilingual.count(f'<a id="{pair["id"].lower()}"></a>'),1)
+            self.assertIn(f'<!-- pair: {pair["id"]}; format: {pair["format"]}; role: {pair["role"]} -->',bilingual)
+        self.assertEqual(chapters,before)
     def test_missing_chapter_refuses_without_writes(self):
         shutil.rmtree(t.directory(self.r,8));p=self.r/'translations/reading.md';before=p.read_bytes()
         with self.assertRaisesRegex(t.Error,'Missing translation chapter 8'):a.build(self.r)
