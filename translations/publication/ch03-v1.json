@@ -1,0 +1,11 @@
+{
+  "chapter": 3,
+  "tag": "translate-ch03-v1",
+  "release_commit": "bd235b87322eb84718930c56e92d4bbe7c198a11",
+  "remote_tag_object": "238c498de680dc12a8bf3465925b6ab82e9a1448",
+  "remote_peeled_commit": "bd235b87322eb84718930c56e92d4bbe7c198a11",
+  "remote_main_at_release": "bd235b87322eb84718930c56e92d4bbe7c198a11",
+  "build_manifest_sha256": "2b4671cc6b8ac19fd9187379138c460c34a4f746d61cf8a3c25904ede3472885",
+  "coverage_sha256": "f1b88ba39d0661bef9ee9e6a1cd18fa0875557d1f78f6a921cc17dc65d7cd6d1",
+  "publication_note": "Agent-produced working translation for human review. Strict final validation and fresh prior/golden/main verification passed. Receipt committed after fixed annotated tag; tag not moved."
+}

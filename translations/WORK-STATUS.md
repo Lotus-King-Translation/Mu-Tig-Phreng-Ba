@@ -8,17 +8,17 @@ Governing Tibetan: `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Fi
 | --- | ---: | ---: | ---: | --- |
 | 1 | 97 | 30 | 112 | [`translate-ch01-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch01-v1) |
 | 2 | 124 | 35 | 175 | [`translate-ch02-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch02-v1) |
-| 3 | 120 | 34 | 165 | Signed reviewed candidate; tag pending |
+| 3 | 120 | 34 | 165 | [`translate-ch03-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch03-v1) |
 | 4 | 294 | 86 | 396 | Fresh final review in progress |
 | 5 | 416 | 135 | 520 | Signed reviewed candidate; tag pending |
 | 6 | 376 | 132 | 435 | Signed reviewed candidate; tag pending |
 | 7 | 342 | 115 | 373 | Signed reviewed candidate; tag pending |
 | 8 | 284 | 107 | 421 | Signed reviewed candidate; tag pending |
 
-Actual chapter releases: 2/8. The complete aggregate release remains pending. Canonical paired files currently cover chapters 1–3; all eight chapter directories remain available. Temporary prefixes satisfy the existing bounded release gate and do not remove later chapter text.
+Actual chapter releases: 3/8. The complete aggregate release remains pending. Canonical paired files currently cover chapters 1–3; all eight chapter directories remain available. Temporary prefixes satisfy the existing bounded release gate and do not remove later chapter text.
 
 All 2199 source obligations are represented in the chapter apparatus. Native main-text comparisons preserve their recorded uncertainties, untranscribed annotations, actual print differences and electronic correction history. Fresh chapter 4 review does not claim a second nineteen-page visual audit. Full commentary translation, complete multi-layer proofreading, exhaustive witness collation, automated semantic certification and independent human certification are not claimed. Provisional terminology remains inactive.
 
 The connected Mac provides authenticated publication access. Tags are created only at freshly verified actual main commits after strict final validation; receipts follow the fixed tags. Historical working authorizations and pinned candidates are unchanged. Source editorial queues remain closed; research leads remain outside this bounded translation.
 
-Next finite task: Complete genuine sequential chapter releases; 6 chapter tags/receipts remain, followed by the complete aggregate.
+Next finite task: Complete genuine sequential chapter releases; 5 chapter tags/receipts remain, followed by the complete aggregate.
