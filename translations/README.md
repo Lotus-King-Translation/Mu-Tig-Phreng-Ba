@@ -1,26 +1,29 @@
 # String of Pearls — English working edition
 
-The translation follows the fixed [golden-v1 Tibetan edition](../golden/reading.md), under the unchanged [glossary](../glossary/expanded_tibetan_english_glossary.csv) and [translation/QC standard](../guidelines/tibetan_translation_standard_v2.md).
+The complete eight-chapter translation follows the fixed [golden Tibetan](../golden/reading.md), unchanged [glossary](../glossary/expanded_tibetan_english_glossary.csv), and [translation standard](../guidelines/tibetan_translation_standard_v2.md). This is an agent-produced annotated working edition for human review.
 
-All eight working chapters are translated: 2,053 fixed source objects in 674 matching pairs. Chapter 4's final package is undergoing fresh review after an earlier upload loss. Genuine sequential chapter releases and the complete aggregate are being finalized under the existing strict gates. [Current status](HANDOFF.md), [coverage plan](PLAN.json), and [endnote policy](ENDNOTE-POLICY.md) distinguish working coverage from publication. The archived complete working edition is preserved on `archive/working-edition-3972b751`; temporary canonical prefixes during sequential release do not remove the later chapter snapshots.
+All 2053 fixed objects are represented in 674 pairs with 2597 locally linked notes. No chapters remain to draft. Actual chapter releases: 1/8.
 
-Endnotes distinguish actual Adzom differences, electronic transcript corrections that agree with Adzom, omitted source annotations, presentation conventions, uncertain readings, and translation or terminology questions. The translation phase compares every chapter's governing main-text span against the native print; untranscribed annotations and unreadable wording remain explicit. This is an agent-produced working translation for human review.
+| Chapter | Objects | Pairs | Notes | Publication |
+| --- | ---: | ---: | ---: | --- |
+| 1 | 97 | 30 | 112 | [`translate-ch01-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch01-v1) |
+| 2 | 124 | 35 | 175 | Signed reviewed candidate; tag pending |
+| 3 | 120 | 34 | 165 | Signed reviewed candidate; tag pending |
+| 4 | 294 | 86 | 396 | Fresh final review in progress |
+| 5 | 416 | 135 | 520 | Signed reviewed candidate; tag pending |
+| 6 | 376 | 132 | 435 | Signed reviewed candidate; tag pending |
+| 7 | 342 | 115 | 373 | Signed reviewed candidate; tag pending |
+| 8 | 284 | 107 | 421 | Signed reviewed candidate; tag pending |
 
-Authoring and validation are documented in [PIPELINE-SCHEMA.md](PIPELINE-SCHEMA.md). Each chapter freezes exact source pairs before English drafting, then binds the complete native audit, endnotes, author self-check, independent agent QC, and release signoff. The Tibetan and canonical glossary are never rewritten by this workflow.
+- Chapter 1: [English](chapters/01/reading.md) · [Tibetan and English](chapters/01/bilingual.md)
+- Chapter 2: [English](chapters/02/reading.md) · [Tibetan and English](chapters/02/bilingual.md)
+- Chapter 3: [English](chapters/03/reading.md) · [Tibetan and English](chapters/03/bilingual.md)
+- Chapter 4: [English](chapters/04/reading.md) · [Tibetan and English](chapters/04/bilingual.md)
+- Chapter 5: [English](chapters/05/reading.md) · [Tibetan and English](chapters/05/bilingual.md)
+- Chapter 6: [English](chapters/06/reading.md) · [Tibetan and English](chapters/06/bilingual.md)
+- Chapter 7: [English](chapters/07/reading.md) · [Tibetan and English](chapters/07/bilingual.md)
+- Chapter 8: [English](chapters/08/reading.md) · [Tibetan and English](chapters/08/bilingual.md)
 
-Canonical content is in `paired/source.md` and `paired/translation.md`, mirrored by fixed chapter snapshots. Chapter `reading.md`, `bilingual.md`, `machine.json`, coverage and build manifests are generated from those snapshots. `translation-draft.md` preserves the initial authored English before the coordinator attaches the source apparatus; subsequent reviewed changes have a separate change record.
+Endnotes distinguish actual Adzom differences, transcript corrections that agree with Adzom, omitted annotations, presentation, uncertain readings and translation questions. Unresolved language remains visible. No proposed glossary term is activated. The bounded edition does not claim complete commentary decipherment, exhaustive witness collation or human certification.
 
-## Available chapter work
-
-| Chapter | Reading | State |
-| --- | --- | --- |
-| 1 | [English](chapters/01/reading.md) · [Bilingual](chapters/01/bilingual.md) | Fixed annotated release `translate-ch01-v1` |
-| 2 | [English](chapters/02/reading.md) · [Bilingual](chapters/02/bilingual.md) | Signed independently reviewed working candidate; formal release pending |
-| 3 | [English](chapters/03/reading.md) · [Bilingual](chapters/03/bilingual.md) | Signed independently reviewed working candidate; formal release pending |
-| 4 | [English](chapters/04/reading.md) · [Bilingual](chapters/04/bilingual.md) | Fresh final review in progress; complete saved 396-note draft preserved |
-| 5 | [English](chapters/05/reading.md) · [Bilingual](chapters/05/bilingual.md) | Signed independently reviewed working candidate; formal release pending |
-| 6 | [English](chapters/06/reading.md) · [Bilingual](chapters/06/bilingual.md) | Signed independently reviewed working candidate; formal release pending |
-| 7 | [English](chapters/07/reading.md) · [Bilingual](chapters/07/bilingual.md) | Signed independently reviewed working candidate; formal release pending |
-| 8 | [English](chapters/08/reading.md) · [Bilingual](chapters/08/bilingual.md) | Signed independently reviewed working candidate; formal release pending |
-
-All chapters include locally linked endnotes, preserved source uncertainties and explicitly provisional terminology. Counts describe representation, not complete decipherment or an accuracy percentage. No chapters remain to draft.
+Canonical content is in `paired/source.md` and `paired/translation.md`; generated readings mirror the chapter snapshots. During sequential publication, canonical files declare their exact prefix scope while all eight chapter directories remain preserved. Original author archives are immutable; later reviewed changes are logged separately. See [handoff](HANDOFF.md), [plan](PLAN.json), [endnote policy](ENDNOTE-POLICY.md), and [pipeline schema](PIPELINE-SCHEMA.md).
