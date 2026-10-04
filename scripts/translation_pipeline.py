@@ -80,6 +80,8 @@ def fixed_prior(root,k,ref):
     paths=git(root,'ls-tree','-rz','--name-only',ref,'--',prefix).split(b'\0')
     needed={prefix+x for x in (*OUTPUTS,'build-manifest.json','source.md','translation.md','signoff.json','qc.json')}
     actual={x.decode() for x in paths if x};need(needed<=actual,'Prior release files missing')
+    current={p.relative_to(root).as_posix() for p in d.rglob('*') if p.is_file()}
+    need(current==actual,'Prior released file inventory changed')
     for rel in actual:need(safe(root,rel).read_bytes()==git(root,'show',ref+':'+rel),'Prior released bytes changed: '+rel)
     for rel,expected in load(d/'build-manifest.json')['input_sha256'].items():
         need(digest(safe(root,rel))==expected,'Prior released input changed: '+rel)
@@ -110,22 +112,23 @@ def unsigned_saved_prior(root,record):
     for name,expected in manifest['output_sha256'].items():need(digest(d/name)==expected,'Unsigned saved draft output hash mismatch: '+name)
 
 def draft_authorization(root,n,commit):
-    """Explicit chapter 3/4/5/6/7 working exceptions; never publication receipts."""
-    need(n in {3,4,5,6,7},'Draft continuation is authorized only for chapters 3, 4, 5, 6 and 7')
+    """Explicit chapter 3/4/5/6/7/8 working exceptions; never publication receipts."""
+    need(n in {3,4,5,6,7,8},'Draft continuation is authorized only for chapters 3, 4, 5, 6, 7 and 8')
     need(isinstance(commit,str) and re.fullmatch(r'[0-9a-f]{40}',commit),'Draft prior commit must be a full commit SHA')
     rel=f'translations/draft-authorizations/ch{n:02}.json';path=safe(root,rel);a=load(path)
     need(path.read_bytes()==git(root,'show','HEAD:'+rel),'Draft authorization must be committed unchanged')
-    need(a.get('schema_version')=={3:1,4:2,5:3,6:4,7:5}[n] and a.get('chapter')==n and a.get('prior_chapter')==n-1 and a.get('prior_commit')==commit,'Draft authorization scope/commit mismatch')
+    need(a.get('schema_version')=={3:1,4:2,5:3,6:4,7:5,8:6}[n] and a.get('chapter')==n and a.get('prior_chapter')==n-1 and a.get('prior_commit')==commit,'Draft authorization scope/commit mismatch')
     instruction={3:'excellent, move to chapter 3 then',4:'excellent, next chapter',5:'cool, then move on to next chapter',
-        6:'So make sure that everything is in github up to date, and move on to the next chapter.',7:'go on'}[n]
+        6:'So make sure that everything is in github up to date, and move on to the next chapter.',7:'go on',
+        8:'great, next chapter then...how many do we have left?'}[n]
     need(a.get('authorized_scope')=='working_draft_only' and a.get('user_instruction')==instruction and a.get('date') and a.get('reason'),'Incomplete working-draft authorization')
     if n==3:
         records=[{'chapter':2,'commit':commit,'build_manifest_sha256':a.get('prior_build_manifest_sha256')}]
     else:
         records=a.get('reviewed_priors')
-        chapters={4:[2,3],5:[2,3],6:[2,3,5],7:[2,3,5,6]}[n]
+        chapters={4:[2,3],5:[2,3],6:[2,3,5],7:[2,3,5,6],8:[2,3,5,6,7]}[n]
         need(isinstance(records,list) and all(isinstance(x,dict) for x in records) and [x.get('chapter') for x in records]==chapters,
-            'Draft authorization must pin exactly chapters '+{4:'2 and 3',5:'2 and 3',6:'2, 3 and 5',7:'2, 3, 5 and 6'}[n]+' in order')
+            'Draft authorization must pin exactly chapters '+{4:'2 and 3',5:'2 and 3',6:'2, 3 and 5',7:'2, 3, 5 and 6',8:'2, 3, 5, 6 and 7'}[n]+' in order')
         if n==4:
             need(records[-1].get('commit')==commit,'Draft authorization latest prior commit mismatch')
             legacy=draft_authorization(root,3,records[0].get('commit'))
@@ -157,11 +160,11 @@ def draft_authorization(root,n,commit):
             need(records[-1].get('commit')==commit,'Draft authorization latest prior commit mismatch')
             unsigned=a.get('unsigned_prior')
             need(isinstance(unsigned,dict) and unsigned.get('chapter')==4 and unsigned.get('review_state')=='unsigned_saved_draft',
-                'Chapter 7 requires the acknowledged unsigned chapter 4 snapshot')
-            legacy=draft_authorization(root,6,records[-2].get('commit'))
+                f'Chapter {n} requires the acknowledged unsigned chapter 4 snapshot')
+            legacy=draft_authorization(root,n-1,records[-2].get('commit'))
             previous=load(safe(root,legacy['path']))
-            need(records[:-1]==previous['reviewed_priors'],'Chapter 7 reviewed priors differ from chapter 6 authorization')
-            need(unsigned==previous['unsigned_prior'],'Chapter 7 unsigned prior differs from chapter 6 authorization')
+            need(records[:-1]==previous['reviewed_priors'],f'Chapter {n} reviewed priors differ from chapter {n-1} authorization')
+            need(unsigned==previous['unsigned_prior'],f'Chapter {n} unsigned prior differs from chapter {n-1} authorization')
             records=records+[unsigned]
     for record in records:
         ref=record.get('commit');k=record['chapter']
@@ -178,7 +181,7 @@ def prior(root,n,draft_prior_commit=None):
         authorization=draft_authorization(root,n,draft_prior_commit)
         a=load(safe(root,authorization['path']))
         reviewed={2:draft_prior_commit} if n==3 else {x['chapter']:x['commit'] for x in a['reviewed_priors']}
-        if n in {5,6,7}:unsigned=a['unsigned_prior']
+        if n in {5,6,7,8}:unsigned=a['unsigned_prior']
     for k in range(1,n):
         if unsigned is not None and k==unsigned['chapter']:
             unsigned_saved_prior(root,unsigned)
@@ -463,7 +466,7 @@ def validate(root,n,source_only=False,final=False,draft_prior_commit=None):
     return {'chapter':n,'mode':'final' if final else 'draft-candidate' if draft_prior_commit else 'candidate','passed':True,'read_only':True,'build_manifest_sha256':digest(d/'build-manifest.json'),'claims':CLAIMS}
 
 def main():
-    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--root',type=Path,default=ROOT);p.add_argument('command',choices=['plan','source','seal-audit','assemble','build','validate']);p.add_argument('--chapter',type=int,required=True);p.add_argument('--source-only',action='store_true');p.add_argument('--final',action='store_true');p.add_argument('--draft-prior-commit',help='Chapter 3, 4, 5, 6 or 7 working continuation under its committed authorization; forbidden with --final');a=p.parse_args()
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--root',type=Path,default=ROOT);p.add_argument('command',choices=['plan','source','seal-audit','assemble','build','validate']);p.add_argument('--chapter',type=int,required=True);p.add_argument('--source-only',action='store_true');p.add_argument('--final',action='store_true');p.add_argument('--draft-prior-commit',help='Chapter 3, 4, 5, 6, 7 or 8 working continuation under its committed authorization; forbidden with --final');a=p.parse_args()
     try:
         need(not (a.final and a.draft_prior_commit is not None),'Draft continuation cannot be used for final validation or release')
         if a.command=='validate':result=validate(a.root,a.chapter,a.source_only,a.final,a.draft_prior_commit)

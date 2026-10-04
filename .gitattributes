@@ -59,3 +59,9 @@ evidence/translation/07/00523.png -filter -diff -merge -text
 evidence/translation/07/00525.png -filter -diff -merge -text
 evidence/translation/07/00527.png -filter -diff -merge -text
 evidence/translation/07/00528.png -filter -diff -merge -text
+
+# Chapter 8 native audit evidence: exact archived PNG bytes in ordinary Git blobs.
+/evidence/translation/08/00531.png -filter -diff -merge
+/evidence/translation/08/00534.png -filter -diff -merge
+/evidence/translation/08/00535.png -filter -diff -merge
+/evidence/translation/08/00539.png -filter -diff -merge

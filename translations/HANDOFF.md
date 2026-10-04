@@ -1,4 +1,14 @@
-# Translation handoff — chapter 7 reviewed working candidate
+# Translation handoff — chapter 8 preparation
+
+Updated 2026-10-04. The user explicitly authorized the next and final chapter. Source remains fixed `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`; chapter 8 reading SHA-256 is `f46331aeb5ba3f303d5822d4ba8dfefd4fcd83d5a2dbd046c16f49a0fc49dd33`. The schema-6 authorization pins signed chapter 7 at `e40041ace3efe51bf2aa205a092c7d117011514a` and inherits all prior preservation requirements. Formal release gates remain strict.
+
+Finite scope: 284 objects MTP-S001770–MTP-S002053; 107 frozen pairs MTP-000568–MTP-000674; 83 verse pairs / 248 lines and 24 prose pairs with exact roles. Source generation and English drafting have not started. Native audit spans 18 images 530–547; identities match exact archive bytes, sizes, dimensions, URLs and canvases. Comparison is in progress. The 55 inherited obligations are 14 changes and 41 uncertainty statements; 37 objects have inherited uncertainty. No restoration or fixed-source edit is authorized.
+
+Preparation-only independent QC has read all 284 objects, the full standard and glossary; it is not English clearance. Pipeline (36) and aggregate (21) tests pass; the full continuation suite remains running. No semantic fixture run is claimed. Next finite task: checkpoint authorization, generate/validate source, finish and seal native audit, checkpoint the frozen source/audit, then author and independently review finite English batches. All 107 English pairs remain. Genuine publication and chapter 4 recovery remain separate.
+
+The following chapter 7 record is historical and remains the preserved prior state; its former “next chapter” boundary is superseded only by the explicit chapter 8 decision above.
+
+# Historical chapter 7 checkpoint
 
 Updated 2026-10-04. The user's “go on” instruction has been completed for the bounded chapter 7 continuation. Source remains fixed `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Final manifest SHA-256: `288560e60dfbb38e73991311599f47fd55a7d9046bf747299311dec1ed84b8f9`. Signed candidate commit: `e40041ace3efe51bf2aa205a092c7d117011514a`, fetched and verified on remote main with a clean checkout. Chapter 8 has not started.
 
