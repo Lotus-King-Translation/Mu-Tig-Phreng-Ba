@@ -4,7 +4,7 @@ The complete eight-chapter translation follows the fixed [golden Tibetan](../gol
 
 [Read the complete English edition](reading.md) · [Read Tibetan and English](bilingual.md) · [Coverage and limits](coverage.json) · [Final review](FINAL-REVIEW.md)
 
-The complete aggregate is reviewed and signed; its annotated release and post-tag receipt are the remaining publication actions at this checkpoint.
+Published as [`translation-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translation-v1); see the [verified release receipt](publication/translation-v1.json).
 
 All 2053 fixed objects are represented in 674 pairs with 2597 locally linked notes. No chapters remain to draft. Actual chapter releases: 8/8.
 

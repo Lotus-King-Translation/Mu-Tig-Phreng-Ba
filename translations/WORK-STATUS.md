@@ -1,8 +1,4 @@
-# Signed complete edition — release publication pending
-
-All eight chapter releases are fixed. The complete aggregate has independent assembly QC, coordinator signoff and passing final validation at manifest `7a4693c3eaffa12d94af78a147a7289d9701c4061ad41fbb0532ebbc9a604a07`. No assembly correction blockers remain. The next finite actions are the publication-time remote check, annotated `translation-v1` tag, verified post-tag receipt and clean-main confirmation.
-
-# English translation — formal publication in progress
+# Published English working edition
 
 Updated 2026-10-04. All eight working chapters are complete: 2053 fixed source objects / 674 pairs / 2597 notes. Zero chapters remain to draft. Representation includes explicitly unresolved passages and metadata; these counts do not measure accuracy or complete decipherment.
 
@@ -19,10 +15,10 @@ Governing Tibetan: `golden-v1` at `4d6ba07e1b3379183633127cd387d98d8195eb95`. Fi
 | 7 | 342 | 115 | 373 | [`translate-ch07-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch07-v1) |
 | 8 | 284 | 107 | 421 | [`translate-ch08-v1`](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch08-v1) |
 
-Actual chapter releases: 8/8. The complete aggregate release remains pending. Canonical paired files cover chapters 1–8; all eight fixed chapter directories remain available.
+Actual chapter releases: 8/8. The complete annotated `translation-v1` release and its post-tag receipt are verified. Canonical paired files cover chapters 1–8; all eight fixed chapter directories remain available.
 
 All 2199 source obligations are represented in the chapter apparatus. Native main-text comparisons preserve their recorded uncertainties, untranscribed annotations, actual print differences and electronic correction history. Fresh chapter 4 review does not claim a second nineteen-page visual audit. Full commentary translation, complete multi-layer proofreading, exhaustive witness collation, automated semantic certification and independent human certification are not claimed. Provisional terminology remains inactive.
 
 The connected Mac provides authenticated publication access. Tags are created only at freshly verified actual main commits after strict final validation; receipts follow the fixed tags. Historical working authorizations and pinned candidates are unchanged. Source editorial queues remain closed; research leads remain outside this bounded translation.
 
-Next finite task: Publish and verify the signed aggregate release, then commit its receipt.
+Next finite task: Bounded translation publication complete; retain explicit human-review questions and inactive terminology proposals.
