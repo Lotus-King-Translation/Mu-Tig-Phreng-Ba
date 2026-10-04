@@ -191,7 +191,7 @@
   "chapter_6_native_images_checked": 23,
   "chapter_6_correction_blockers_remaining": 0,
   "chapter_7_started": true,
-  "chapter_7_state": "Two English batches reviewed:78 of115 pairs /241 of342 objects,46 translator notes,228 verse lines. Two source-scope corrections closed;25 locally unresolved pairs remain. First-batch ledger110records/163loci/97inactiveproposals saved; full lexical coverage and source apparatus pending.",
+  "chapter_7_state": "Two English batches reviewed:78 of115 pairs /241 of342 objects,46 translator notes,228 verse lines. Two source-scope corrections closed;25 locally unresolved pairs remain. Terminology ledger covers two batches:186records/334loci/146inactiveproposals. Opening lexical review complete; middle lexical review, tail coverage and source apparatus pending.",
   "chapter_7_source_pairs": 115,
   "chapter_7_source_objects": 342,
   "chapter_7_known_note_obligations": 13,
@@ -207,5 +207,9 @@
   "chapter_7_english_pairs_remaining": 37,
   "chapter_7_english_objects_remaining": 101,
   "chapter_7_translator_notes": 46,
-  "chapter_7_correction_blockers_remaining": 0
+  "chapter_7_correction_blockers_remaining": 0,
+  "chapter_7_usage_records": 186,
+  "chapter_7_usage_loci": 334,
+  "chapter_7_inactive_proposals": 146,
+  "chapter_7_lexical_coverage_objects": 241
 }
