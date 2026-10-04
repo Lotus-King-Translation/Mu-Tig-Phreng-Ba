@@ -1,0 +1,62 @@
+{
+  "chapter": 7,
+  "source_pins": {
+    "source_tag": "golden-v1",
+    "source_commit": "4d6ba07e1b3379183633127cd387d98d8195eb95",
+    "source_reading_sha256": "dc371e71f4eb0fa842963eebf3ebb0bb7c60e9623a038cf1cdcd3339855be2c1",
+    "glossary": "glossary/expanded_tibetan_english_glossary.csv",
+    "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "standard": "guidelines/tibetan_translation_standard_v2.md",
+    "standard_sha256": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760"
+  },
+  "input_sha256": {
+    "evidence/golden/07/00512.png": "fb4373c605b3e15938ba88564beb9d896e588a29c73aa08840497f0a73f714db",
+    "evidence/golden/07/00513.png": "895ab4411bfbf9191338ad5cb95c595c23552c9295c6a5bc2e71a064e6c84166",
+    "evidence/golden/07/00515.png": "5429402b456642c36073bba620b1f0f3c8565f1b158ab96f8565842caf1434ad",
+    "evidence/golden/07/00516.png": "44a1d69da5327aca70dc4182fe3e6188d13d430b926b1c51cb815b849f583676",
+    "evidence/golden/07/00517.png": "1fe29e7a1f9ad5d69d58b890292cddab37df03ad7b645861cadcdc397fa8acfd",
+    "evidence/golden/07/00518.png": "f54d5dea5b99ae0e5d970bdc52f4457dc93eb823a530d1a00083d7b0abae49cc",
+    "evidence/golden/07/00524.png": "8bb02676ad1f3a1668f502e35d7c9c547dbb157584b5418229ad1f390b1be379",
+    "evidence/golden/07/00526.png": "c30354decf9bd415f044f8a1b31d53f4e0694c645fd20f64a99b58a122d7b726",
+    "evidence/golden/07/00529.png": "e202e3fa752abf957f251d82727cecaaecb28832c19e4576d692b565ca955fca",
+    "evidence/golden/07/00530.png": "a011f6bbb91da81b12d373ada6108c0f100bf3bc34eddde491c14c3a7ba37158",
+    "evidence/translation/07/00514.png": "49649fe5961908aa9f2d21cdc4d51e590b687558e492b2833c0e65816dedf65c",
+    "evidence/translation/07/00519.png": "5d460fffd806cb90a837c8ecfd99db4b126981c4fcd240b7d0b0db42c8bbec75",
+    "evidence/translation/07/00520.png": "a74a4af0a6a8aaa3c91a9e885266500edde430e4315b18e3595c316942d08a05",
+    "evidence/translation/07/00521.png": "6983131a70ba71b7a9e1b0eb99c27ee7cf12b048056f3174dc4272cc0981756d",
+    "evidence/translation/07/00522.png": "664710091d5265f7b55c4cbc7244f57c975f8fda97637b3fa40a4b38142f6314",
+    "evidence/translation/07/00523.png": "d9b73cc7b67e2acb5938dc0fea0d23513ff38d655d8eb1743c6103800664ef27",
+    "evidence/translation/07/00525.png": "fa0986f8d297e8a5ff599c749729897b4d48d77b1f94c8227506945a4f83f81d",
+    "evidence/translation/07/00527.png": "6c2ff4aaf678bf83501978d9e5283e2c2c6c577c84f3ad19bfa8fcad8d6c34d2",
+    "evidence/translation/07/00528.png": "59776382be9b090d830e9db4c7e3ee6b87d8f25e5a2b2d89d3479b1c655827e1",
+    "glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "golden/reading.json": "dc371e71f4eb0fa842963eebf3ebb0bb7c60e9623a038cf1cdcd3339855be2c1",
+    "guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+    "translations/chapters/07/adzom-audit.json": "986493860a84210ced3639f88700e9da4fa71ebf20e9698955103cc391bd68a3",
+    "translations/chapters/07/audit-contract.json": "7b59360a80dacfdb808ed5bbabc54c04d2e7cc34efd736eb7861a87c9a22ef85",
+    "translations/chapters/07/audit-contract.sha256": "31e865d6f3435094e67378e2d38df82ffa06c892ba62889aa2310bb026e0b6d7",
+    "translations/chapters/07/contract.json": "fb653bda0d3fe62a939c4c0932b27324aa753bf88d701ea86bc7b6a698c9825d",
+    "translations/chapters/07/contract.sha256": "d49dd2f40aef393d6dac5912bd2d753d81f4880ecf9801327f236446d5254862",
+    "translations/chapters/07/glossary-proposals.json": "f7d4b31b975f141c836ca32face2dfac0d06d5a4580cf63f03d2bfea883b565a",
+    "translations/chapters/07/note-map.json": "599cded07e301038d06906b66c4d66fc536ccdb737216ea6d3e7afd7440eb23a",
+    "translations/chapters/07/pair-status.json": "a24140e0a2603c2b4fe69f2344ea3b1db556ca3df687891dfaca26c7e9c6cfc8",
+    "translations/chapters/07/segmentation.json": "32ef876d29a4bb0d3f1e0438a90112b98427966fb52087da1ea6e9cb533062c6",
+    "translations/chapters/07/source.md": "02eaaf0774ceda5510dfe8f2ffbc67b9bd8e18e4f32c3e2de7ddefb9914f438b",
+    "translations/chapters/07/translation-draft.md": "a2023d0c4181cdb354da06c3749f879723a960d5541600dcfc98d340239f426f",
+    "translations/chapters/07/translation-note-map.json": "d8cafb47c14e62743444a555412e2500902c63a781ff0ab97ea9543905e1de7d",
+    "translations/chapters/07/translation.md": "5b44fab064def8718bc409f4e40cfe43b64c54c3cb788a03264416a39a64f786",
+    "translations/chapters/07/usage.json": "223bec8b0906636942f47a17b8ff78028f035fc2f5ba5decdbd0f7673a77e611",
+    "translations/draft-authorizations/ch07.json": "af181ed5844910e9b85c440087860d6e45efac6e19775679ac1e71d8c75f487c"
+  },
+  "output_sha256": {
+    "reading.md": "e2e1235d7695d2d0d4226a97b6824170127c2ba65bd35819993214e09afd8070",
+    "bilingual.md": "8344a525d5740d64b7e4bd34aaa2f31e495fe1e2e902b7b1c40a157880ed52ac",
+    "machine.json": "830da06c3f633418f0bbe0dc9f997b3ad77e6d5e5661463f0fac4a3778c1fbc7",
+    "coverage.json": "a877eeff26bfe6491328c43dbee39a2daf902e0ee2ca22709c66697fd8b970ef"
+  },
+  "builder": "scripts/translation_pipeline.py; deterministic chapter outputs; canonical pair blocks and endnotes are mirrored exactly.",
+  "claims": {
+    "automated_semantic_certification": false,
+    "independent_human_certification": false
+  }
+}
