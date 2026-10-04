@@ -37,20 +37,22 @@
     "translations/chapters/04/audit-contract.sha256": "c31c907b576af76066601517a8cbc839c0b6da725ccf2eec776a41a3543f181a",
     "translations/chapters/04/contract.json": "7c60969eb34117486d8981ff2165b4ec7fe67d799aa7eda88ae4d92d68172e84",
     "translations/chapters/04/contract.sha256": "350c22e2dbc80f4ed94c1924d29e1bd4dbb71f218ae6ed8caa29cb1875a44253",
+    "translations/chapters/04/glossary-proposals.json": "750dcf69a50a603e03661104426ed91a4aa7dcd82baa01de65072c4825e729ec",
     "translations/chapters/04/note-map.json": "a85c39efcaff5a06f76fa681e3e58895750615354f71f2bcf1154e081ec7806a",
     "translations/chapters/04/pair-status.json": "b8d46de8af3c6c4e557652b0a68ac4a185361762c52c430b15643a23d1822423",
     "translations/chapters/04/segmentation.json": "d3b6a4947d4d62d4885dcd8aff4ea157bb62e3c315b9745f913e1e951a5eb3bc",
     "translations/chapters/04/source.md": "cfdc715074cddf40e832247aa07cdfae63bbb057463eae74ad262e002fd6ff24",
     "translations/chapters/04/translation-draft.md": "a877583b17398d0754ce8ec49d00deb98f616ef84b4ef06bfeb52d276fed0446",
     "translations/chapters/04/translation-note-map.json": "bc7effc9cc31703bd9075d2117d63f0cb06f9119c65cb5dad20d28397e6b8f5c",
-    "translations/chapters/04/translation.md": "8627e157e03828b36d23017b1a29520a68c8289e1465af18b7aab94ac7cb733a",
+    "translations/chapters/04/translation.md": "745f0a69648f09cc598a3ff88fed7d4a3c76670c1afdd2d5fc8e3518ea30944d",
+    "translations/chapters/04/usage.json": "457654a0f3493c23bd6b10b6f9c318021f9299bd4b464e1a817061ba9baf2e86",
     "translations/draft-authorizations/ch04.json": "8488a8759c79c59a8b0f283c45aeb825058cd29eac499edd5892244eefb9b061"
   },
   "output_sha256": {
-    "reading.md": "7c14504b1783a41a514a92350ec919f36433e1e088b3750ad0acaf6bc281e8bc",
-    "bilingual.md": "d47150fb95929ace3c9995f49b7d34e21abba908164f38a3b53d0267ea2fa058",
-    "machine.json": "cea86cc1b3d6931784eb7e81cf0fcaff2f60e5449d203989d5b50d01d2288387",
-    "coverage.json": "0a94b1c7974ffa0152ffd3ec3f83929b0d49139b15eb4ba2b55ee9625bc22371"
+    "reading.md": "b614a637fd4ff6e2d044d8b22a4df58cbc11d872ddfc82e08edc89b1345d08d0",
+    "bilingual.md": "5bb8a41446a2be1265204fb33dbef8eff8c4cf23e89b090cb3e58fc80d2d3353",
+    "machine.json": "e9e8a2a42e9f8d88a479d30ba43d0ec4e0b4b80c1665b381194a0ee1c800c683",
+    "coverage.json": "195535e24e1c70a1c9b8a03c67128923f658b671c3bb045f73690f98ca7ad8f6"
   },
   "builder": "scripts/translation_pipeline.py; deterministic chapter outputs; canonical pair blocks and endnotes are mirrored exactly.",
   "claims": {
