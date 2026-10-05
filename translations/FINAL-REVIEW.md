@@ -2032,3 +2032,7 @@ No assembly correction blocker remains. The signoff binds this review, the exact
 ## Repair application checkpoint — chapters 1–4
 
 The pre-recorded plan was applied to 46 pairs and 80 existing note definitions in chapters 1–4, with corresponding existing usage/proposal/current-note dispositions. The source, pair IDs, note IDs/order/allocation and historical approvals are unchanged. Current authored-English policy pins now identify the adopted policy. Chapters 5–8 and dependent working views are pending; no release or final self-verification is claimed at this checkpoint.
+
+## Repair application checkpoint — chapters 5–8
+
+The remaining recorded repairs were applied. Whole-work totals are now **134 English pairs, 268 existing note definitions, 318 existing usage records and 197 existing proposal dispositions**. Source text, IDs/order, note links and historical approvals remain unchanged. MTP-000550 remains unresolved with a more precise reason after its lexical repair. Dependent working-reader generation and changed-clause self-verification are next; coverage is complete but readiness is not being inferred from that count.
