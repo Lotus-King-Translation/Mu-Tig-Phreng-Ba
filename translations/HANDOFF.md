@@ -1,5 +1,33 @@
 # Published English working edition
 
+## Current Phase D disposition — 2026-10-05
+
+**The whole-work post-translation review is complete.** Reviewer/session: **GPT-6 Astra Pro / MTP-PhaseD-20261005**, independent of the original authoring runs. Input commit: `46110acd02a6caa14a00f91605c1a478eda72bcd`; adopted policy: template `882454cb2576d0b2529296bd7a3a7c87371ab4cf`, standard 2.1.0 Parts I–III and the complete 283-row/eight-column P1/P2/P3 glossary. No new shared assignment or book-specific default was approved.
+
+All **674 pairs (MTP-000001–MTP-000674), eight chapters, 2,053 golden objects and 2,597 active notes** were reviewed. **134 English pairs** were corrected and self-checked against Tibetan, and the revised English was read continuously. **540 English bodies remain unchanged**. Current dispositions were appended to **268 notes, 318 usage records and 197 proposal records**, preserving original evidence and approval history. **No unreviewed range remains.**
+
+**Text readiness is separate:** this is a reviewed, corrected **working revision of translation-v1**, not a new formal release or final human certification. **140 pairs remain explicitly unresolved**, with exact locations and alternatives in their existing notes/status records. Bounded remaining work is owner/source/human adjudication of those questions and the shared reconciliation queue, not completion of a missing review pass. No four-book harmonization is claimed.
+
+Canonical authored English remains `translations/chapters/NN/translation.md`. All **46 dependent chapter/whole-work reading and machine files**, including `paired/translation.md`, were regenerated from it. Fixed Tibetan/source metadata, pair and note IDs/order/allocation, historical drafts, signatures, releases and all **18 remote release tags** are unchanged. Do not edit generated English separately or reseal old release approvals for this working text.
+
+Working commands from the repository root:
+
+```sh
+.venv/bin/python -B scripts/review_working_text.py build
+.venv/bin/python -B scripts/review_working_text.py verify
+.venv/bin/python -B scripts/test_review_working_text.py
+```
+
+Actual results: working build/read-only verification and deterministic reproduction passed; **17 working-view, 36 pipeline and 24 aggregate tests passed**; golden-v1 validation passed. **95 protected files** and all remote tags were checked unchanged. The legacy signoff and draft-continuation test runs reached their explicit 180-second limits and are **not claimed passed**. The pre-existing generic paired-parser failure and adopted-glossary/release-pin rejection remain documented; release gates were not loosened. The standard's documented semantic examples were not separately executed as semantic tests. No hosted CI is configured. The final working-text, 17-test working-view, 36-test pipeline and golden-source checks passed again during the main-integration continuation; the review report corrects the earlier unconditional whitespace-check PASS.
+
+The full evidence, exact Tibetan/before/after ledger, no-change decisions, shared questions, self-check and validation results are in [the existing review report](FINAL-REVIEW.md#phase-d-review). The review was prepared on `review/phase-d-20261005`; the owner explicitly requires the complete package in `main`. Main-integration checks and the actual publication state are recorded in the review report. Own-repair verification is a self-check, not another independent review.
+
+---
+
+## Historical status and earlier handoff checkpoints
+
+The earlier release and interim review statements below retain their historical scope. Earlier “not started,” “partial,” “pending” or continuation-point statements do not describe the completed current pass above.
+
 ## Template policy baseline — P3
 
 Adopted common snapshot: `Lotus-King-Translation/tibetan-text-project-template@882454cb2576d0b2529296bd7a3a7c87371ab4cf`. Active standard **2.1.0**, SHA-256 `dba2654f0790ffb3e3c59a71097588a11d18b0122d26a3e46beb82045d0cc32f`; P2 glossary **283 data rows in the existing eight-column format**, SHA-256 `f767cd8af409bc16a6ed41bb086d23d1f204cb6db76c48189c168a9a95401da7`. Both active files match the pinned template byte-for-byte, with no local terminology exception. [P3](../DECISIONS.md#post-translation-review-2026-10-05) defines Phase D; [P1](../DECISIONS.md#terminology-clarification-2026-10-04) and [P2](../DECISIONS.md#terminology-expansion-2026-10-05) retain their exact scopes and provenance. The 63 regression fixtures are specifications, not measured model results.
@@ -99,3 +127,15 @@ All 2199 source obligations are represented in the chapter apparatus. Native mai
 The connected Mac provides authenticated publication access. Tags are created only at freshly verified actual main commits after strict final validation; receipts follow the fixed tags. Historical working authorizations and pinned candidates are unchanged. Source editorial queues remain closed; research leads remain outside this bounded translation.
 
 Next finite task: Bounded translation publication complete; retain explicit human-review questions and inactive terminology proposals.
+
+## Active Phase D session — 2026-10-05
+
+Current owner authorization starts review-and-revise, superseding the earlier unassigned/not-started handoff. Policy PR #1 is merged at `46110acd02a6caa14a00f91605c1a478eda72bcd`; reviewer/session GPT-6 Astra Pro / MTP-PhaseD-20261005 is distinct from all original authoring runs. All 674 current pairs are frozen for review. Chapter 1 body has been read; continue its active notes, then MTP-000031–000674. Three supported terminology findings are recorded before editing, with no corrections yet applied. Existing release gates fail on the already-adopted glossary; do not alter signatures or loosen release checks. Preserve fixed Tibetan, source metadata, original drafts and all tags. See [the current review package](FINAL-REVIEW.md#phase-d-review); coverage remains partial and readiness unassessed.
+
+### Phase D checkpoint — chapters 1–4 read
+
+Reviewer MTP-PhaseD-20261005 has now read all 185 pairs through MTP-000185 and their 848 active notes. Supported findings are recorded before correction in [the existing review report](FINAL-REVIEW.md#phase-d-review); no English repair has yet been applied. Continue at MTP-000186 (chapter 5), then through MTP-000674. Review coverage is partial; note/usage reconciliation, repairs, dependent-reader regeneration and verification remain.
+
+### Phase D checkpoint — chapters 1–6 read
+
+Reviewer MTP-PhaseD-20261005 has read all 452 pairs through MTP-000452 and their 1,803 active note definitions. Supported findings are recorded before correction in [the existing review report](FINAL-REVIEW.md#phase-d-review); no English repair has yet been applied. Continue at MTP-000453 (chapter 7), then through MTP-000674. Coverage is partial; terminology consolidation, note/usage reconciliation, repairs, dependent-reader regeneration and verification remain.

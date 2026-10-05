@@ -6,8 +6,8 @@ translation-edition: translation-v1
 language: en
 source-commit: 4d6ba07e1b3379183633127cd387d98d8195eb95
 source-sha256: dc371e71f4eb0fa842963eebf3ebb0bb7c60e9623a038cf1cdcd3339855be2c1
-glossary-sha256: 6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf
-standard-sha256: 934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760
+glossary-sha256: f767cd8af409bc16a6ed41bb086d23d1f204cb6db76c48189c168a9a95401da7
+standard-sha256: dba2654f0790ffb3e3c59a71097588a11d18b0122d26a3e46beb82045d0cc32f
 scope-first-chapter: 2
 scope-last-chapter: 2
 ---
@@ -18,25 +18,25 @@ scope-last-chapter: 2
 
 <!-- pair: MTP-000032 -->
 
-Then the wrathful ones of the three families, the Lord of Secrets and the others, addressed the Bhagavān, the sovereign in whom all delusion is pure, in these words:[^T02-001][^CH02-G000099][^MTP-AUDIT-C02-001][^MTP-AUDIT-C02-007][^MTP-AUDIT-C02-008][^MTP-AUDIT-C02-009][^MTP-AUDIT-C02-056]
+Then the wrathful ones of the three families, the Lord of Secrets and the others, addressed the Blessed One, the sovereign in whom all delusion is pure, in these words:[^T02-001][^CH02-G000099][^MTP-AUDIT-C02-001][^MTP-AUDIT-C02-007][^MTP-AUDIT-C02-008][^MTP-AUDIT-C02-009][^MTP-AUDIT-C02-056]
 
 <!-- pair: MTP-000033 -->
 
-“O, O Bhagavān, embodiment without delusion!
-For the sentient beings of saṃsāra in the three realms,
+“O, O Blessed One, embodiment without delusion!
+For the karmic beings of cyclic existence in the three realms,
 if delusion is reversed, how is it reversed?
 Please tell us!”[^T02-001][^T02-002][^MTP-AUDIT-C02-001][^MTP-AUDIT-C02-010][^MTP-AUDIT-C02-011][^MTP-AUDIT-C02-056]
 
 <!-- pair: MTP-000034 -->
 
-Then that Bhagavān Vajrasattva
+Then that Blessed One Vajrasattva
 spoke to the close retinue:[^T02-001][^MTP-AUDIT-C02-001]
 
 <!-- pair: MTP-000035 -->
 
 “Ah! Listen, Lord of Secrets.
 Although there is no delusion in the Ground at the beginning,
-there is delusion in sentient beings’ conceptual minds.
+there is delusion in karmic beings’ conceptual minds.
 If, then, one reaches the meaning of the sap
 of awareness’s primordial knowing,[^T02-001][^T02-002][^T02-003][^MTP-AUDIT-C02-001][^MTP-AUDIT-C02-012][^MTP-AUDIT-C02-013][^MTP-AUDIT-C02-014][^MTP-AUDIT-C02-015][^MTP-AUDIT-C02-056]
 
@@ -48,9 +48,9 @@ of awareness’s primordial knowing,[^T02-001][^T02-002][^T02-003][^MTP-AUDIT-C0
 
 delusion is reversed in the initial Ground.
 Self-awareness’s primordial knowing is difficult to realize.
-In the Ground, [there is] an essence endowed with non-conceptuality.
+In the Ground, [there is] a core endowed with non-conceptuality.
 The means of conclusively determining delusion:
-spread ignorance and saṃsāra into [unresolved: འདས་ཤེས].[^T02-001][^T02-002][^T02-003][^T02-004][^T02-005][^T02-014][^CH02-G000117][^MTP-AUDIT-C02-002][^MTP-AUDIT-C02-016][^MTP-AUDIT-C02-019][^MTP-AUDIT-C02-020][^MTP-AUDIT-C02-021][^MTP-AUDIT-C02-022][^MTP-AUDIT-C02-057]
+spread ignorance and cyclic existence into [unresolved: འདས་ཤེས].[^T02-001][^T02-002][^T02-003][^T02-004][^T02-005][^T02-014][^CH02-G000117][^MTP-AUDIT-C02-002][^MTP-AUDIT-C02-016][^MTP-AUDIT-C02-019][^MTP-AUDIT-C02-020][^MTP-AUDIT-C02-021][^MTP-AUDIT-C02-022][^MTP-AUDIT-C02-057]
 
 <!-- pair: MTP-000038 -->
 
@@ -77,7 +77,7 @@ Open the seeing of awareness:
 
 Bring forth the object of delusory appearance—awareness itself.
 Cut the flow of mindfulness—the state of the dharma embodiment.
-Extract saṃsāra’s quintessence—the three embodiments are clear.[^T02-001][^T02-009][^T02-010][^T02-015][^T02-020][^T02-025][^MTP-AUDIT-C02-002][^MTP-AUDIT-C02-003][^MTP-AUDIT-C02-033][^MTP-AUDIT-C02-034][^MTP-AUDIT-C02-035][^MTP-AUDIT-C02-036][^MTP-AUDIT-C02-037][^MTP-AUDIT-C02-058]
+Extract cyclic existence’s quintessence—the three embodiments are clear.[^T02-001][^T02-009][^T02-010][^T02-015][^T02-020][^T02-025][^MTP-AUDIT-C02-002][^MTP-AUDIT-C02-003][^MTP-AUDIT-C02-033][^MTP-AUDIT-C02-034][^MTP-AUDIT-C02-035][^MTP-AUDIT-C02-036][^MTP-AUDIT-C02-037][^MTP-AUDIT-C02-058]
 
 <!-- pair: MTP-000042 -->
 
@@ -85,12 +85,12 @@ Extract saṃsāra’s quintessence—the three embodiments are clear.[^T02-001]
 
 <!-- pair: MTP-000043 -->
 
-Empty and without substance, beautiful with clarity;
+Empty and without entities, beautiful with clarity;
 sum up the five poisons—the state of medicine.
 The cause of darkness exhausted—the lamp itself.
 The cause of delusion exhausted—primordial knowing as companion.
 The embodiment of clarity blazes—the nondual state.
-Insentience and awareness are nondual; saṃsāra is cleared away.
+Matter and awareness are nondual; cyclic existence is cleared away.
 The primordial knowing of meaning returns to the Ground,
 of the nonduality of the ultimate and the conventional—[attachment unresolved].[^T02-001][^T02-002][^T02-011][^T02-025][^MTP-AUDIT-C02-003][^MTP-AUDIT-C02-038][^MTP-AUDIT-C02-039][^MTP-AUDIT-C02-040][^MTP-AUDIT-C02-041][^MTP-AUDIT-C02-042][^MTP-AUDIT-C02-043][^MTP-AUDIT-C02-044][^MTP-AUDIT-C02-045][^MTP-AUDIT-C02-058]
 
@@ -101,7 +101,7 @@ Bring forth the abiding of ordinary mind—primordial knowing itself.
 Conditioned appearance is without an object, all at once.
 As for the place of reversal where delusion is reversed:
 everything is cleared away in the vajra chains.
-In the maṇḍala of the object without mindfulness,
+In the mandala of the object without mindfulness,
 free from differentiating conceptualization, the great continuum is clear.[^T02-001][^T02-002][^T02-006][^T02-010][^T02-012][^T02-016][^T02-025][^MTP-AUDIT-C02-003][^MTP-AUDIT-C02-046][^MTP-AUDIT-C02-047][^MTP-AUDIT-C02-048][^MTP-AUDIT-C02-049][^MTP-AUDIT-C02-050][^MTP-AUDIT-C02-051][^MTP-AUDIT-C02-052][^MTP-AUDIT-C02-058]
 
 <!-- pair: MTP-000045 -->
@@ -211,17 +211,17 @@ is liberated in a state without projection or gathering.
 The self-appearance of the dharma embodiment
 merely appears directly;
 it is beyond the mental faculty that recalls entities.
-Every appearance as a characteristic, without exception,
+Every appearance as a mark, without exception,
 attains the non-arising dharma embodiment.[^T02-010][^T02-013][^T02-017][^T02-018][^T02-021][^T02-022][^T02-023][^T02-025][^MTP-AUDIT-C02-063][^MTP-AUDIT-C02-119][^MTP-AUDIT-C02-120][^MTP-AUDIT-C02-121][^MTP-AUDIT-C02-122][^MTP-AUDIT-C02-123][^MTP-AUDIT-C02-124][^MTP-AUDIT-C02-125][^MTP-AUDIT-C02-126][^MTP-AUDIT-C02-127][^MTP-AUDIT-C02-128]
 
 <!-- pair: MTP-000062 -->
 
-Emaho!
+How wondrous!
 Since awareness’s primordial knowing has no appearance,
-the appearance of insentient matter does not obscure me.
+the appearance of matter does not obscure me.
 Since the empty nature of phenomena has no object,
 I do not abide in emptiness.
-Since apprehending as characteristics is pure in actuality,
+Since apprehending as marks is pure in actuality,
 I do not abide in the phenomena of the apprehending subject.[^T02-012][^T02-014][^T02-016][^T02-022][^T02-023][^T02-024][^T02-025][^MTP-AUDIT-C02-063][^MTP-AUDIT-C02-129][^MTP-AUDIT-C02-130][^MTP-AUDIT-C02-131][^MTP-AUDIT-C02-132][^MTP-AUDIT-C02-133][^MTP-AUDIT-C02-134]
 
 <!-- pair: MTP-000063 -->
@@ -233,7 +233,7 @@ I do not abide in the phenomena of the apprehending subject.[^T02-012][^T02-014]
 Since [I] arise naturally through great discerning knowing,
 I do not abide in the teachings of the scriptural collections.
 Since for me there is neither virtue nor wrongdoing,
-I do not abide in the phenomena of saṃsāra.”[^T02-001][^T02-012][^T02-016][^T02-024][^T02-025][^MTP-AUDIT-C02-065][^MTP-AUDIT-C02-135][^MTP-AUDIT-C02-136][^MTP-AUDIT-C02-137][^MTP-AUDIT-C02-138]
+I do not abide in the phenomena of cyclic existence.”[^T02-001][^T02-012][^T02-016][^T02-024][^T02-025][^MTP-AUDIT-C02-065][^MTP-AUDIT-C02-135][^MTP-AUDIT-C02-136][^MTP-AUDIT-C02-137][^MTP-AUDIT-C02-138]
 
 <!-- pair: MTP-000065 -->
 
@@ -243,13 +243,21 @@ Thus, from the secret tantra *The String of Pearls*: the second chapter, “Reve
 
 [^T02-001]: Golden-v1, MTP-S000099–S000107, S000142, S000166, S000220–S000221 (printed 423, 425–426, 429). Names and whole expressions: བཅོམ་ལྡན་འདས / བཅོམ་ལྡན → “Bhagavān”; གསང་བའི་བདག་པོ / གསང་བའི་བདག → “Lord of Secrets”; རྡོ་རྗེ་སེམས་དཔའ → “Vajrasattva”; རྟ་མགྲིན → “Hayagrīva”; གཤིན་རྗེ → “Lord of Death”; སེམས་ཅན → “sentient beings”; ཁྲོ་བོ → “wrathful ones”; རིགས → “family”; འཁོར་བ → “saṃsāra”; རྒྱུད in the title → “tantra”; མུ་ཏིག་ཕྲེང་བ → “The String of Pearls.” These occurrence-specific treatments continue chapter 1 but remain proposals, not approved additions. Name/whole-expression boundaries prevent mechanically inserting “ordinary mind” inside Vajrasattva or “continuum” in the tantra title; the standalone assignments remain intact. In S99 the phrase འཁྲུལ་པ་ཐམས་ཅད་དག་པའི་མངའ་བདག is provisionally “the sovereign in whom all delusion is pure”; “in whom” makes the compressed attachment explicit rather than changing “pure” to an unexpressed act of purification. S166’s double royal expression is retained as “King of the Lord of Death”; whether it should idiomatically be “King, Lord of Death” remains open. Review these scoped forms and attachments before glossary activation.
 
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `བཅོམ་ལྡན་འདས་` → **Blessed One**. The full row’s conditions govern, not a component-only substitution. Active row `བཅོམ་ལྡན་` → **Blessed One**. The full row’s conditions govern, not a component-only substitution. Active row `སེམས་ཅན་` → **karmic being**. The full row’s conditions govern, not a component-only substitution. Active row `འཁོར་བ་` → **cyclic existence**. The full row’s conditions govern, not a component-only substitution. Active row `རྒྱུད་` → **Continuum**. The full row’s conditions govern, not a component-only substitution. P1 approves tantra in titles/textual-genre contexts; continuum remains the non-literary default. Ambiguous naming constructions stay provisional. PD-001, MTP-000032: `བཅོམ་ལྡན་འདས`; current English **Blessed One** replaces “Bhagavān”. PD-001, MTP-000033: `བཅོམ་ལྡན`; current English **Blessed One** replaces “Bhagavān”. PD-001, MTP-000034: `བཅོམ་ལྡན`; current English **Blessed One** replaces “Bhagavān”. PD-004, MTP-000033: `སེམས་ཅན`; current English **karmic beings** replaces “sentient beings”. PD-004, MTP-000035: `སེམས་ཅན`; current English **karmic beings** replaces “sentient beings”. PD-005, MTP-000033: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. PD-005, MTP-000037: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. PD-005, MTP-000041: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. PD-005, MTP-000043: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. PD-005, MTP-000064: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T02-002]: Golden-v1, MTP-S000108, S000113, S000123, S000140, S000145, S000152, S000158, S000221 (printed 423–429). The ལྡོག / བཟློག family is provisionally “reverse/turn back/return,” according to the expressed subject and case. Preserve the direction distinctions: གཞི་ལ (“in/to the Ground”), མ་ལ (“in/to the mother”), but the colophon གཞི་ལས (“from the Ground”). “Reversing Delusion from the Ground” retains the ablative rather than silently assimilating the title to the earlier locatives; “reversing delusion at its basis” is a possible contextual interpretation requiring review. “The Ground” follows the established གཞི entry, with “the Ground” in prose as in chapter 1; its internal capitalization remains a presentation choice rather than a glossary amendment. These locatives do not by themselves settle whether delusion dissolves into the Ground or is reversed there.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `གཞི་` → **The Ground**. The full row’s conditions govern, not a component-only substitution. P1 requires capital Ground only for technical uses; disputed support/foundation constructions are not settled by capitalization. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
 
 [^T02-003]: Golden-v1, MTP-S000110–S000111 and S000113 (printed 423–424): དེ་ཡང་རིག་པའི་ཡེ་ཤེས་ཀྱི / རྩི་ཡི་དོན་ལ་ཐེབས་གྱུར་ན / འཁྲུལ་པ་དང་པོའི་གཞི་ལ་ལྡོག. “Sap” provisionally represents unglossaried རྩི, without supplying བདུད or treating “nectar” as an established assignment. “Reaches the meaning” renders དོན་ལ་ཐེབས; the subject “one” is a grammatical supply, not a named practitioner. The condition continues across the page metadata to “delusion is reversed.” “Essence” would collide with ངོ་བོ unless a contextual decision is made. Review the technical sense of རྩི and its genitive relation; confidence in the precise metaphor is limited.
 
 [^T02-004]: Golden-v1, MTP-S000114–S000115, S000120, S000167 (printed 424, 426): རང་རིག is provisionally “self-awareness,” preserving the awareness component without equating it with རང་ངོ་ཤེས་པ (self-recognition). In རང་རིག་ཡེ་ཤེས, “self-awareness’s primordial knowing” provisionally treats the juxtaposition as a genitive relation; apposition (“self-awareness, primordial knowing”) is also possible. In གཞི་ལ་སྙིང་པོ་མི་རྟོག་ཅན, “essence” for སྙིང་པོ risks collision with canonical ངོ་བོ → essence; it is retained only as a visibly provisional ordinary core-sense here. The supplied “[there is]” expresses one possible locative syntax; the line could instead qualify the preceding primordial knowing. The shortened མི་རྟོག is treated as the non-conceptuality family, not realization. Review the compound, the attachment, and the proposed སྙིང་པོ treatment together; no synonym is activated globally.
 
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `རང་རིག་` → **self-awareness**. The full row’s conditions govern, not a component-only substitution. Active row `སྙིང་པོ་` → **core**. The full row’s conditions govern, not a component-only substitution. PD-006, MTP-000037: `སྙིང་པོ་མི་རྟོག་ཅན`; current English **a core endowed** replaces “an essence endowed”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T02-005]: Golden-v1, MTP-S000116–S000117 (printed 424): འཁྲུལ་པ་གདར་ཤ་བཅད་པའི་ཐབས / མ་རིག་འཁོར་བ་འདས་ཤེས་སུ་བདལ. The idiom གདར་ཤ་བཅད is provisionally “determine conclusively.” The final line keeps the tractable imperative སུ་བདལ as “spread … into” and the two preceding terms as ignorance and saṃsāra, but retains འདས་ཤེས explicitly unresolved. The golden editorial record notes competing source-layer and apparent ཡེ་ཤེས evidence; translating this directly as “primordial knowing” would silently adopt a different reading. The parsing of ignorance/saṃsāra and the complement remains provisional until that source question is resolved. Review the exact native words and annotation boundary, then the syntax. This pair is represented, partly translated, and locally unresolved.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** PD-005, MTP-000037: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
 
 [^T02-006]: Golden-v1, MTP-S000118–S000120, S000126, S000146, S000159, S000169, S000195 (printed 424–428). ལུ་གུ་རྒྱུད retains canonical “vajra chains”: the local instructions to look, appearance, embodiment, and basic space favor the visionary use. This is not the approved non-visionary “chain of delusion” construction; འཁྲུལ་པ་ལུ་གུ་རྒྱུད does not occur here. S120 རང་རིག་དང་པོའི་སོ་ལ་གཞག is provisionally “Leave self-awareness at its initial threshold.” སོ is unglossaried and may denote an original position or boundary rather than a literal threshold. Review the sense and the scope of དང་པོའི; no additional visionary taxonomy is supplied.
 
@@ -259,15 +267,25 @@ Thus, from the secret tantra *The String of Pearls*: the second chapter, “Reve
 
 [^T02-009]: Golden-v1, MTP-S000125–S000132 (printed 424). These compressed lines juxtapose an action and an outcome without explicit connective verbs. The dash preserves that compression. སེམས་ཀྱི་རྩད་བཅད is provisionally “ascertain the root of ordinary mind”; “cut ordinary mind at its root” remains possible. མ་རིག་ཕུགས་དེད is “trace ignorance to its source.” སྒོ་ལྔའི་རྒྱུན་བཅད is “cut the flow of the five gates”; the five gates are not silently expanded into a sense-faculty list. རྒྱུན is not canonical རྒྱུད (continuum). In རིག་པའི་མཐོང་ཕྱེ / སྟོང་སྣང་བར་འགྱུར, “[it]” is an unspecified subject for “becomes empty appearance,” not a supplied metaphysical entity. འཁྲུལ་སྣང་ཡུལ་ཕྱུང is provisionally “bring forth the object of delusory appearance”; whether ཕྱུང means bringing out, exposing, or removing the object remains open. འཁོར་བ་སྤྱི་ཕྱུད is provisionally “extract saṃsāra’s quintessence,” retaining the supplied ཕྱུད rather than silently normalizing spelling. Review these verbal relations against the local parallelism; the English is a working interpretation, not a settled reconstruction.
 
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** PD-005, MTP-000041: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T02-010]: Golden-v1, MTP-S000131, S000147, S000149, S000151, S000165, S000172, S000188, S000205 (printed 424–428). Canonical དྲན་པ remains “mindfulness,” including its negation/absence in དྲན་མེད and its abbreviated occurrence in དྲན་རིག (“mindfulness and awareness”). The text itself makes appearances of mindfulness a cause of delusion; this is not softened into an unexpressed distinction between good and bad mindfulness. The different construction དྲན་བྱེད is provisionally “recalls/recalling,” retaining its verbal function, with བློ → conceptual mind and ཡིད → mental faculty visible. This proposed construction does not replace the standalone mindfulness assignment. S188 permits either coordinated recalling and thinking or thinking that recalls; the draft selects coordination provisionally. Review these source-specific functions and attachments before adopting a broader usage rule.
 
 [^T02-011]: Golden-v1, MTP-S000134–S000141 (printed 425). The parallel phrases are rendered without supplying unstated agents. དུག་ལྔ (“five poisons”), སྨན (“medicine”), and སྒྲོན་མ (“lamp”) are provisional standalone technical treatments; the existing named lamps do not establish a complete standalone paradigm. མདོར་ཕྱུང is provisionally “sum up”; “extract at their source” is another possible force requiring review. ཡེ་ཤེས་གྲོགས is “primordial knowing as companion,” not an added named companion. བེམ་རིག is interpreted as “insentience and awareness,” with the conjunction supported by following གཉིས་མེད; the abbreviated བེམ is related here to S210’s བེམས་པོ but the fixed spellings remain distinct. དོན་གྱི་ཡེ་ཤེས retains “primordial knowing of meaning.” The last line དོན་དམ་ཀུན་རྫོབ་གཉིས་མེད་པའི ends with a genitive; the draft keeps “of the nonduality …” and explicitly marks its attachment unresolved. A link to the preceding Ground or following address is possible, but no secure head is supplied. “Ultimate” and “conventional” are provisional technical forms. Review the final attachment and the extraction metaphor; confidence is limited.
 
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Family review `དོན་དམ`: Tested together with ཀུན་རྫོབ at all root and linked fragment uses, including 000411–000415 spheres and 000311–000313 two-truth/form constructions. Superfactual and superficial fit several noun/adjective frames but do not settle the entity/form and anatomical-sphere relations. Superficial must not silently assert surface anatomy. Retain the linked provisional pair pending a shared scope decision; this is not a rejection merely for unfamiliar English. Distinct མཐར་ཐུག is excluded. Family review `ཀུན་རྫོབ`: Tested as the same family with དོན་དམ, including the nominal worldly-convention expression and channel/sphere use. Retain a linked provisional treatment until the proposed superficial/superfactual labels have a shared noun/adjective and physical-sphere scope; do not invent an anatomical surface. No new book default. PD-008, MTP-000043: `བེམ་རིག`; current English **Matter and awareness** replaces “Insentience and awareness”. Matter names the material/non-knowing side here; it asserts neither immobility nor that karmic beings lack bodies. The stated negation/nonduality and any unresolved relation are retained. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T02-012]: Golden-v1, MTP-S000143–S000148 (printed 425): སེམས་ཀྱི་གནས་ཕྱུང / རྐྱེན་སྣང་ཡུལ་མེད་ཅིག་ཆར་བ. “Bring forth the abiding of ordinary mind” uses the abiding family for the shortened གནས, but “expose the location/state of ordinary mind” is also possible; ཕྱུང remains a compressed imperative, not an inserted realization claim. “Conditioned appearance … all at once” is provisional for the short construction. The exact source ཅིག་ཆར་བ differs from glossary གཅིག་ཅར་བ (“simultaneous type”); neither the spelling nor a practitioner-class subject is silently supplied. The draft attaches “free from differentiating conceptualization” to “the great continuum,” although an unexpressed practitioner is possible. དྲན་མེད་ཡུལ་གྱི་དཀྱིལ་འཁོར is kept literally as “the maṇḍala of the object without mindfulness”; modifier scope needs review. None of these possibilities changes the canonical continuum or differentiating-conceptualization mappings.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དཀྱིལ་འཁོར་` → **mandala**. The full row’s conditions govern, not a component-only substitution. PD-002, MTP-000044: `དཀྱིལ་འཁོར`; current English **mandala** replaces “maṇḍala”. PD-010, MTP-000062: `ཨེ་མ་ཧོ`; current English **How wondrous!** replaces “Emaho!”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
 
 [^T02-013]: Golden-v1, MTP-S000154–S000158, S000182, S000188 (printed 426–427). བསམ་པ / བསམ is provisionally “thinking,” kept distinct from རྟོག་པ → conceptual thought and རྣམ་རྟོག → differentiating conceptualization; their similarity in ordinary English is not permission to merge Tibetan forms. དངོས་པོ is provisionally “entity/entities,” including the S155 phrase “entities of thinking”; whether that genitive denotes thought-objects rather than thinking as an entity remains open. S158’s དེ་ཉིད is taken as the delusion named in S156, hence the visible supply “[delusion].” “Eye of meaning” preserves དོན་གྱི་མིག without turning it into a separately named faculty. Review referent, entity relation, and technical gap; no unseen doctrinal explanation is supplied.
 
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T02-014]: Golden-v1, MTP-S000160, S000162, S000182, S000196–S000197, S000213–S000214 (printed 426–428). Canonical འཛིན་པ / གཟུང་བ remain identifiable as “apprehending subject / apprehended object” where substantival. Verbal “apprehend/apprehending” for འཛིན in “not apprehended as an entity” (S182) and “apprehending as characteristics” (S213) is a source-function realization, not a new “grasping” default. S160 འཛིན་པའི་རྟོག་པ is provisionally “conceptual thoughts of the apprehending subject”; an activity construction (“conceptual thoughts that apprehend”) is possible. S197 གཟུང་བས་མ་ཟིན keeps the source’s instrumental role: “not held by an apprehended object,” despite the unusual English relation. S162 keeps རྟོགས (realization) distinct from རྟོག (conceptual thought) in “discerning knowing that brings realization.” Review these functions and the source’s subject/object reversal rather than normalizing the relation by expectation.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** PD-009, MTP-000062: `མཚན་མ`; current English **marks** replaces “characteristics”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
 
 [^T02-015]: Golden-v1, MTP-S000166–S000171 (printed 426). In རང་རིག་ཡེ་ཤེས་འོད་བར་བས, the fixed འོད་བར་བས does not securely support the expected “light blazes” reading without treating བར as འབར. The draft translates “light” and retains བར་བས visibly uncertain. The phrase རྟོགས་པའི་རྒྱལ་པོ་ངོ་བོ་ཉིད / དབྱིངས་དང་ལུ་གུ་རྒྱུད་ཀྱི་སྐུ is provisionally an apposition: “the very essence of the king of realization—the embodiment of basic space and vajra chains.” The shared genitive scope over basic space and vajra chains is plausible but not certain. རྒྱུན་གྱི་རྟོགས་པ is “realization of continuity,” not canonical རྒྱུད → continuum. Review the exact word and all attachments; this pair remains locally unresolved.
 
@@ -275,21 +293,35 @@ Thus, from the secret tantra *The String of Pearls*: the second chapter, “Reve
 
 [^T02-017]: Golden-v1, MTP-S000178 (printed 427): སྟོང་པ་ཉིད་ཀྱི་དངོས་པོ་ལས་འདས་པའི་ཡེ་ཤེས་ལ. This is the released source-annotation role, not additional root verse. “In primordial knowing that is beyond the entity of emptiness” translates the complete supplied string while leaving its final locative open. It may gloss the empty object or the following embodiment-appearance clause; neither attachment is silently chosen. “Entity” is provisional for དངོས་པོ. Review attachment together with the native smaller type; do not remove the separate label.
 
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T02-018]: Golden-v1, MTP-S000179–S000183 (printed 427): སྣང་བའི་ཆོས་ཉིད་སྐྱེ་མེད་ལ / སྐུ་གསུམ་ཆོས་ཉིད་སྐྱེ་མེད་ནི / བསམ་འདས་དངོས་པོར་མི་འཛིན་པས / ད་ལྟར་སྣང་ཞིང་འོད་ལྔ་ལྟར་འབྱུང. The draft treats the non-arising nature of phenomena of the three embodiments as the topic of both the non-apprehension and appearance clauses; a more impersonal “since one does not apprehend [it] as an entity” remains possible. The shortened སྐྱེ་མེད is linked to canonical སྐྱེ་བ་མེད་པ → “non-arising”; its component is retained. The repeated nature-of-phenomena phrases are not omitted. “Appears now” follows fixed ད་ལྟར, whose native allocation is uncertain in golden-v1; “like the five lights” retains ལྟར rather than silently changing it to “as.” Review the topic and causal scope together with that source uncertainty.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
 
 [^T02-019]: Golden-v1, MTP-S000184–S000186 (printed 427): རིག་པའི་སྣང་བ་འོད་གསལ་བ / ཞེས་པ་ནས / སྣ་ཚོགས་ཞེན་པ་རང་གྲོལ་ཏེ. The opening quoted words retain canonical “clear light.” The literal formula ཞེས་པ་ནས is represented as an explicit source abbreviation, “from the words …”; its scope or omitted intervening text is not reconstructed. The following self-liberation clause is translated as supplied. The bracketed explanation is editorial, not additional root wording. Review the source abbreviation and quotation extent before supplying any continuation.
 
 [^T02-020]: Golden-v1, MTP-S000186–S000191 and S000193 (printed 427–428). In ཆོས་ཉིད་དབྱིངས་ལས་རང་བྱུང་བས, “it” provisionally refers to the appearance of the dharma embodiment, not an added practitioner. “Naturally” realizes རང་བྱུང with the same family as established naturally arising primordial knowing. བྱ་བྱེད is provisionally “doing and the doer,” retaining the doing component; task and action/agent may also be intended. རྒྱུན་དུ is rendered “in continuity” rather than silently using canonical རྒྱུད → continuum. The causal clause continues after the page metadata to S193. There འཁྲུལ་པའི་ཡེ་ཤེས་མ་ལ་ཞ is represented as “the primordial knowing of delusion, in the mother: [unresolved: ཞ].” No verb such as “subsides” is inserted for the isolated final glyph. The genitive “of delusion” and literal mother remain visible despite their uncertain relationship. Review the final word before resolving the complete causal sentence; the pair is locally unresolved.
 
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `བྱ་བྱེད་` → **doing and the doer**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T02-021]: Golden-v1, MTP-S000194–S000202 (printed 428). བདག་མེད is provisionally “without a self,” without extending the title’s “sovereign” sense to this negation. The simile ཆུ་ཟླ is “the moon in water,” with the water relation explicit and without adding “reflection” as a separate source word; ཁྱུང་ཆེན is “great garuḍa,” a provisional whole-expression name. སྤྲོ་བསྡུས་མ་བྱས and སྤྲོ་མེད་བསྡུ་མེད are “without projection or gathering being done” and “without projection or gathering.” They are not mechanically conflated with the distinct glossary expression འཕྲོ་འདུ → proliferating and gathering. “Projection” is proposed only for these occurrences; “emanation” or “expansion” might fit, but would require a further decision. The supplied “[it is]” in S200 leaves the subject unspecified; the preceding self-liberation is the likely antecedent. Review the pair of actions and compound boundaries; all fixed Tibetan remains unchanged.
 
 [^T02-022]: Golden-v1, MTP-S000203–S000207 (printed 428): ཐད་ཀ་ཙམ་དུ་སྣང་བ་ལས / དངོས་པོ་དྲན་བྱེད་ཡིད་ལས་འདས. “Merely appears directly” preserves the limiting ཙམ; the relation marked by ལས may be contrastive (“although …”) rather than simple continuation. The next line is provisionally “beyond the mental faculty that recalls entities,” taking དངོས་པོ as the object recalled. Coordination (“beyond entities and the mental faculty that recalls”) remains an alternative, but would give transcendence a broader scope. S206–S207 are retained as “every appearance as a characteristic … attains the non-arising dharma embodiment”; the source supplies no explicit practitioner, so the grammatical subject is not silently replaced. མཚན་མ is provisionally “characteristic” here and S213. Review the two scope relations and the apparently unusual attainment subject.
 
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. Active row `མཚན་མ་` → **mark**. The full row’s conditions govern, not a component-only substitution. PD-009, MTP-000061: `མཚན་མ`; current English **a mark** replaces “a characteristic”. PD-009, MTP-000062: `མཚན་མ`; current English **marks** replaces “characteristics”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T02-023]: Golden-v1, MTP-S000209–S000214 (printed 428). Preserve the explicit negations སྣང་མེད (“has no appearance”), ང་མི་བསྒྲིབ (“does not obscure me”), ཡུལ་མེད (“has no object”), and both ང་མི་གནས (“I do not abide”). བེམས་པོ is provisionally “insentient matter,” related to but not silently normalized into S139’s བེམ. In མཚན་མར་འཛིན་པ་དངོས་དག་པས, “pure in actuality” treats དངོས adverbially; “the substance of apprehending … is pure” is an alternative. “Characteristics” for མཚན་མ is provisional, shared with S206. “Phenomena of the apprehending subject” retains the nominal glossary commitment in S214 rather than replacing it with generic grasping. Review S213’s scope and the matter terminology; no negation is harmonized to expected doctrine.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `མཚན་མ་` → **mark**. The full row’s conditions govern, not a component-only substitution. Active row `བེམས་པོ་` → **matter**. The full row’s conditions govern, not a component-only substitution. Active row `དངོས་` → **entity**. The full row’s conditions govern, not a component-only substitution. PD-008, MTP-000062: `བེམས་པོ`; current English **matter** replaces “insentient matter”. Matter names the material/non-knowing side here; it asserts neither immobility nor that karmic beings lack bodies. The stated negation/nonduality and any unresolved relation are retained. PD-009, MTP-000061: `མཚན་མ`; current English **a mark** replaces “a characteristic”. PD-009, MTP-000062: `མཚན་མ`; current English **marks** replaces “characteristics”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
 
 [^T02-024]: Golden-v1, MTP-S000216–S000219 (printed 429): ཤེས་རབ་ཆེན་པོས་རང་བྱུང་བས / སྡེ་སྣོད་ཆོས་ལ་ང་མི་གནས / ང་ལ་དགེ་དང་སྡིག་མེད་པས / འཁོར་བའི་ཆོས་ལ་ང་མི་གནས. “[I]” in the first line is supplied from the repeated speaker in the following lines; an impersonal self-arising subject is possible. The instrumental ཤེས་རབ་ཆེན་པོས is “through great discerning knowing,” not replaced by primordial knowing. “Scriptural collections” for སྡེ་སྣོད, “virtue” for དགེ, and “wrongdoing” for སྡིག are proposed here. ཆོས is “teachings” in the scriptural phrase, “phenomena” in the saṃsāra phrase; the context-specific treatment is disclosed rather than made a universal exception. Review these forms and the supplied subject; the negative personal declarations are translated as the speaker’s words, not added universal claims.
 
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** PD-005, MTP-000064: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T02-025]: Golden-v1, chapter 2 (printed 424–429), occurrences identified exactly in usage.json. Further recurring technical gaps are provisionally handled as follows: ཡུལ → “object”; standalone ཆོས → “phenomena,” with the scriptural S217 construction “teachings”; ངང → “state”; གཉིས་མེད → “nondual/nonduality”; standalone སངས → “cleared away”; རྒྱུན → “flow” in the gate/mindfulness constructions, “continuity” in S171 and S191; དངོས་པོ → “entity”; དངོས་མེད → “without substance”; adverbial དངོས in S161/S213 → “in actuality.” The last family has distinct constructions whose equivalence is not assumed. Full compounds such as ཆོས་ཉིད, ཆོས་སྐུ, and གཟུང་བ retain their established full mappings and are not independently decomposed. In particular “object” does not erase the specifically assigned apprehended-object role. སངས does not acquire the established complete རང་སངས → self-purified mapping by substring. རྒྱུན stays distinct from canonical རྒྱུད → continuum. “Without substance” concerns the adjectival negation, not an approved new entity definition. These are minimum occurrence-specific proposals following full-table searches and neighboring-entry checks; review each construction before any glossary addition. All repeated local uses remain traceable in the usage record, not silently promoted to defaults.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. Active row `ཡུལ་` → **object**. The full row’s conditions govern, not a component-only substitution. Active row `དངོས་མེད་` → **nonentity**. The full row’s conditions govern, not a component-only substitution. Active row `དངོས་` → **entity**. The full row’s conditions govern, not a component-only substitution. PD-007, MTP-000043: `དངོས་མེད`; current English **without entities** replaces “without substance”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
 
 [^CH02-G000099]: Golden editorial record, MTP-S000099. Golden Tibetan: `དེ་ནས་བཅོམ་ལྡན་འདས་འཁྲུལ་པ་ཐམས་ཅད་དག་པའི་མངའ་བདག་ལ`. Retained source qualification: Smaller source annotations interleaved with this opening remain untranscribed; source punctuation is not silently supplied. Working treatment: translate only the fixed golden wording; do not silently supply the untranscribed layer. See the local Adzom audit notes for newly examined evidence. Review action: resolve the stated source or allocation question before a critical edition.
 

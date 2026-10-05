@@ -127,7 +127,72 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Abbreviated honorific title, without supplying the absent ending འདས in the Tibetan."
+      "condition_evidence": "Abbreviated honorific title, without supplying the absent ending འདས in the Tibetan.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000102",
+          "MTP-000103",
+          "MTP-000110",
+          "MTP-000172"
+        ],
+        "corrected_findings": [
+          "PD-001"
+        ],
+        "changed_pair_locations": [
+          "MTP-000102",
+          "MTP-000103",
+          "MTP-000110",
+          "MTP-000172"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "བཅོམ་ལྡན་",
+          "English": "Blessed One",
+          "Meaning and scope": "English honorific in the full or attested shortened designation. Retain meaningful additions to the designation.",
+          "Allowed grammatical forms": "the Blessed One; vocative Blessed One; capitalize the established honorific, not every descriptive epithet.",
+          "Contextual exceptions": "Do not use Bhagavan/Bhagavān as a competing default. This does not require translating approved proper names.",
+          "Related entries": "རྡོ་རྗེ་འཆང་; full/short honorific forms",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U01; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000007; DTG-001195; MTP-000006; MTP-000033; BMD-000007; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L54",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-001",
+            "pair": "MTP-000102",
+            "exact_tibetan": "བཅོམ་ལྡན",
+            "before": "Bhagavān",
+            "after": "Blessed One"
+          },
+          {
+            "finding": "PD-001",
+            "pair": "MTP-000103",
+            "exact_tibetan": "བཅོམ་ལྡན",
+            "before": "Bhagavān",
+            "after": "Blessed One"
+          },
+          {
+            "finding": "PD-001",
+            "pair": "MTP-000110",
+            "exact_tibetan": "བཅོམ་ལྡན",
+            "before": "Bhagavān",
+            "after": "Blessed One"
+          },
+          {
+            "finding": "PD-001",
+            "pair": "MTP-000172",
+            "exact_tibetan": "བཅོམ་ལྡན",
+            "before": "Bhagavān",
+            "after": "Blessed One"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U005",
@@ -146,7 +211,45 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Full honorific title in the response formula. Shared provisional English with the shorter form does not erase the recorded source distinction."
+      "condition_evidence": "Full honorific title in the response formula. Shared provisional English with the shorter form does not erase the recorded source distinction.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000175"
+        ],
+        "corrected_findings": [
+          "PD-001"
+        ],
+        "changed_pair_locations": [
+          "MTP-000175"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "བཅོམ་ལྡན་འདས་",
+          "English": "Blessed One",
+          "Meaning and scope": "English honorific in the full or attested shortened designation. Retain meaningful additions to the designation.",
+          "Allowed grammatical forms": "the Blessed One; vocative Blessed One; capitalize the established honorific, not every descriptive epithet.",
+          "Contextual exceptions": "Do not use Bhagavan/Bhagavān as a competing default. This does not require translating approved proper names.",
+          "Related entries": "རྡོ་རྗེ་འཆང་; full/short honorific forms",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U01; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000007; DTG-001195; MTP-000006; MTP-000033; BMD-000007; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L54",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-001",
+            "pair": "MTP-000175",
+            "exact_tibetan": "བཅོམ་ལྡན་འདས",
+            "before": "Bhagavān",
+            "after": "Blessed One"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U006",
@@ -250,7 +353,37 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Provisional name; great is explicit at S491 only among these loci. Speaker/addressee roles remain source-specific."
+      "condition_evidence": "Provisional name; great is explicit at S491 only among these loci. Speaker/addressee roles remain source-specific.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000143",
+          "MTP-000156",
+          "MTP-000158",
+          "MTP-000172"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000172"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "རྡོ་རྗེ་འཆང་",
+          "English": "Vajradhara",
+          "Meaning and scope": "Retained common proper name when this expression designates the named figure.",
+          "Allowed grammatical forms": "Vajradhara; retain explicitly supplied titles and modifiers.",
+          "Contextual exceptions": "A generic descriptive holding construction requires its own analysis. Do not equate the differently written རྡོ་རྗེ་འཛིན with this name. Its English title choice remains open.",
+          "Related entries": "རྡོ་རྗེ་འཛིན་; རྡོ་རྗེ་འཛིན་པ་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U03; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000980; MTP-000569; SMB-000012; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L7133",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U010",
@@ -351,7 +484,41 @@
       "comparison_entries": [
         "རིག་པ་"
       ],
-      "condition_evidence": "Provisional compound preserving awareness. Possession, purity, primordial knowing and arising are governed separately by each local construction."
+      "condition_evidence": "Provisional compound preserving awareness. Possession, purity, primordial knowing and arising are governed separately by each local construction.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000102",
+          "MTP-000113",
+          "MTP-000126",
+          "MTP-000127",
+          "MTP-000177",
+          "MTP-000180"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000102",
+          "MTP-000126",
+          "MTP-000180"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "རང་རིག་",
+          "English": "self-awareness",
+          "Meaning and scope": "Technical self-form where supported; preserve awareness rather than replacing it with knowing or recognition.",
+          "Allowed grammatical forms": "self-awareness; self-aware in an adjectival construction.",
+          "Contextual exceptions": "One’s own awareness where the construction is genuinely possessive. Determine reflexive/possessive relations from the source rather than from a hyphen or a theoretical assumption.",
+          "Related entries": "རིག་པ་; རང་ཤེས་; རང་ངོ་ཤེས་པ་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U44; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-002404; MTP-000037; SMB-000035; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L17046",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U013",
@@ -530,7 +697,47 @@
         "གཟུང་བ་",
         "འཛིན་པ་"
       ],
-      "condition_evidence": "Uncovered object vocabulary. At S537 both object and object of application are present; compounds involving apprehending subject or emptiness preserve their separate relations."
+      "condition_evidence": "Uncovered object vocabulary. At S537 both object and object of application are present; compounds involving apprehending subject or emptiness preserve their separate relations.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000117",
+          "MTP-000118",
+          "MTP-000121",
+          "MTP-000123",
+          "MTP-000126",
+          "MTP-000130",
+          "MTP-000134",
+          "MTP-000155",
+          "MTP-000178",
+          "MTP-000181"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000121",
+          "MTP-000126",
+          "MTP-000130",
+          "MTP-000155",
+          "MTP-000181"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "ཡུལ་",
+          "English": "object",
+          "Meaning and scope": "What knowing, awareness, a faculty or an activity is directed toward. Do not assume that object terminology asserts an independent external thing.",
+          "Allowed grammatical forms": "object; objects.",
+          "Contextual exceptions": "Domain for a range/sphere within which something occurs; ordinary geographical wording for geographical uses. Field is not a third free technical synonym or automatic choice in contemplation. Keep object of focus complete where that different entry applies.",
+          "Related entries": "དམིགས་པ་; དབྱིངས་; ཞིང་ཁམས་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U27; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-001047; MTP-000386; MTP-000486; SMB-000056; BMD-000039; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L7616",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Scoped contextual application; preserved provisional alternatives remain open, not approved exceptions merely by this record."
+      }
     },
     {
       "id": "T04-U016",
@@ -615,7 +822,36 @@
       "comparison_entries": [
         "ཤེས་རབ་"
       ],
-      "condition_evidence": "Technical means; skill, secret-mantra relation, seal and joining with discerning knowing remain separately supported per locus. No method list is imported."
+      "condition_evidence": "Technical means; skill, secret-mantra relation, seal and joining with discerning knowing remain separately supported per locus. No method list is imported.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000110",
+          "MTP-000113",
+          "MTP-000115",
+          "MTP-000117",
+          "MTP-000118",
+          "MTP-000119",
+          "MTP-000177",
+          "MTP-000178"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000110",
+          "MTP-000115"
+        ],
+        "local_family_test": {
+          "attested_family": "ཐབས",
+          "current_treatment": "means in the reviewed technical pair; other constructions remain scoped",
+          "conclusion": "The means/discerning-knowing pair and the continuum-of-means exposition were compared across the whole work. Retain the source order, distinguish procedure where actually present, and exclude ཐབས་ཅིག together. No chapter preference is an exception and no new shared entry is activated.",
+          "shared_status": "Proposed; not activated by this review"
+        }
+      }
     },
     {
       "id": "T04-U017",
@@ -823,7 +1059,72 @@
       "comparison_entries": [
         "སེམས་"
       ],
-      "condition_evidence": "Provisional lexicalized expression; the compound is not mechanically ordinary mind plus a possessor. Contents and liberation relations remain local."
+      "condition_evidence": "Provisional lexicalized expression; the compound is not mechanically ordinary mind plus a possessor. Contents and liberation relations remain local.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000105",
+          "MTP-000172",
+          "MTP-000174",
+          "MTP-000182"
+        ],
+        "corrected_findings": [
+          "PD-004"
+        ],
+        "changed_pair_locations": [
+          "MTP-000105",
+          "MTP-000172",
+          "MTP-000174",
+          "MTP-000182"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "སེམས་ཅན་",
+          "English": "karmic being",
+          "Meaning and scope": "The owner explicitly confirms karmic being, not sentient being, as the project convention. This is an approved complete equivalent, not a word-by-word reconstruction.",
+          "Allowed grammatical forms": "karmic being; karmic beings; preserve source number.",
+          "Contextual exceptions": "Do not revert to sentient being or ordinary-mind possessor because karmic lacks a separate source syllable. Does not replace bare སེམས, every being expression, or imply that karmic beings lack material bodies.",
+          "Related entries": "སེམས་; བེམ་པོ་; བེམས་པོ་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 P2-KB; owner-approved wording/policy, not automatic approval of each historical interpretation; BMD-000055; MTP-000659; Tibetan occurrence: https://github.com/Lotus-King-Translation/Bkra-Shis-Mdzes-Ldan/blob/8965e8b8b89c396c58789ed83984540699c07be9/paired/source.md#L343",
+          "Status and open questions": "Approved P2: current explicit owner correction; not a claim that the earlier book snapshots already used this English; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-004",
+            "pair": "MTP-000105",
+            "exact_tibetan": "སེམས་ཅན",
+            "before": "sentient beings",
+            "after": "karmic beings"
+          },
+          {
+            "finding": "PD-004",
+            "pair": "MTP-000172",
+            "exact_tibetan": "སེམས་ཅན",
+            "before": "sentient beings",
+            "after": "karmic beings"
+          },
+          {
+            "finding": "PD-004",
+            "pair": "MTP-000174",
+            "exact_tibetan": "སེམས་ཅན",
+            "before": "sentient beings",
+            "after": "karmic beings"
+          },
+          {
+            "finding": "PD-004",
+            "pair": "MTP-000182",
+            "exact_tibetan": "སེམས་ཅན",
+            "before": "sentient beings",
+            "after": "karmic beings"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U021",
@@ -966,7 +1267,35 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Technical marks; subduing and entities-of-marks constructions are distinct."
+      "condition_evidence": "Technical marks; subduing and entities-of-marks constructions are distinct.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000123",
+          "MTP-000139"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000139"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "མཚན་མ་",
+          "English": "mark",
+          "Meaning and scope": "Default for the recorded standalone mark expression; keep distinct from characteristic.",
+          "Allowed grammatical forms": "mark; marks.",
+          "Contextual exceptions": "Translate longer constructions as constructions. In མཚན་མ་ཚིག, determine the relation rather than mechanically insert the noun mark. Do not rotate signs/characteristics without a source-specific reason.",
+          "Related entries": "མཚན་ཉིད་; རང་མཚན་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U21; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000025; MTP-000123; BMD-000073; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L203",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U026",
@@ -988,7 +1317,32 @@
         "ངོ་བོ་",
         "རང་བཞིན་"
       ],
-      "condition_evidence": "Core of all in the conditional instruction sequence, not essence or intrinsic nature."
+      "condition_evidence": "Core of all in the conditional instruction sequence, not essence or intrinsic nature.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000125"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [],
+        "active_glossary_row": {
+          "Tibetan": "སྙིང་པོ་",
+          "English": "core",
+          "Meaning and scope": "Owner-favored label; P2 confirms the linked essence/core/pure-extract/quintessence distinctions.",
+          "Allowed grammatical forms": "core; cores; retain meaningful modifiers and relations.",
+          "Contextual exceptions": "Never essence. No general heart or quintessence alternative is activated; any proposed exceptional quintessence use still needs exact conditions and collision review.",
+          "Related entries": "ངོ་བོ་; དངས་མ་; དྭངས་མ་; བཅུད་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U14; owner-approved wording/policy, not automatic approval of each historical interpretation; MTP-000037; MTP-000602; MTP-000608; SMB-000014; Tibetan occurrence: https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/21fb131912bf7ed161c08a70614702764464030d/paired/source.md#L234",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U027",
@@ -1063,7 +1417,41 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Entity vocabulary with different case relations: on the path of entities; as an entity; by entities. These relations are not harmonized."
+      "condition_evidence": "Entity vocabulary with different case relations: on the path of entities; as an entity; by entities. These relations are not harmonized.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000121",
+          "MTP-000139",
+          "MTP-000159",
+          "MTP-000162",
+          "MTP-000166",
+          "MTP-000167",
+          "MTP-000170"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000121",
+          "MTP-000139"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "དངོས་པོ་",
+          "English": "entity",
+          "Meaning and scope": "Technical noun without automatically restricting the referent to material substance.",
+          "Allowed grammatical forms": "entity; entities.",
+          "Contextual exceptions": "Substance/material substance only in a clearly material context. Thing is not a free chapter-level substitute. Do not infer that every entity is matter under U35.",
+          "Related entries": "དངོས་; དངོས་མེད་; བེམ་པོ་; ངོ་བོ་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U28; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000851; DTG-000520; MTP-000448; SMB-000062; BMD-000022; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L6198",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U028",
@@ -1374,7 +1762,36 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Mandala is provisional; vast, three-thousandfold and the anatomical instrument belong only to their written loci."
+      "condition_evidence": "Mandala is provisional; vast, three-thousandfold and the anatomical instrument belong only to their written loci.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000110",
+          "MTP-000148",
+          "MTP-000153"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000110"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "དཀྱིལ་འཁོར་",
+          "English": "mandala",
+          "Meaning and scope": "Retained technical loanword, consistently spelled without diacritics.",
+          "Allowed grammatical forms": "mandala; mandalas.",
+          "Contextual exceptions": "Disc for literal geometric uses such as the mirror example. Do not replace every technical occurrence with circle; preserve explicit source explanations of center and surrounding arrangement. This spelling rule does not settle the sense.",
+          "Related entries": "དཀྱིལ་; འཁོར་ (components, not standalone assignments here)",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U26; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000067; MTP-000495; BMD-000050; BMD-000076; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L533",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U037",
@@ -1493,7 +1910,34 @@
       "comparison_entries": [
         "ཡིད་"
       ],
-      "condition_evidence": "The three assurances retain their count and instrumental relation, but no threefold list is invented. The whole expression is not a general shortening of mental faculty."
+      "condition_evidence": "The three assurances retain their count and instrumental relation, but no threefold list is invented. The whole expression is not a general shortening of mental faculty.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000115"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000115"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "ཡིད་ཆེས་",
+          "English": "conviction",
+          "Meaning and scope": "Technical default, kept distinct from the existing confidence, faith and confident-devotion vocabulary.",
+          "Allowed grammatical forms": "conviction; convictions; three convictions when the source identifies that numbered set.",
+          "Contextual exceptions": "Trust for a genuinely relational trusting use, not a chapter-level synonym. Assurance is not a third routine label. Do not insert mental faculty by component reconstruction.",
+          "Related entries": "གདེང་བཞི་; དད་པ་; མོས་གུས་; ཡིད་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U32; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-001030; DTG-001110; MTP-000115; SMB-000060; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L7503",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U042",
@@ -1725,7 +2169,54 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Vital point of the object of emptiness versus vital point of familiarization; the relations are not interchangeable."
+      "condition_evidence": "Vital point of the object of emptiness versus vital point of familiarization; the relations are not interchangeable.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000121",
+          "MTP-000155"
+        ],
+        "corrected_findings": [
+          "PD-014"
+        ],
+        "changed_pair_locations": [
+          "MTP-000121",
+          "MTP-000155"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "གནད་",
+          "English": "key point",
+          "Meaning and scope": "Shared technical label, including the recorded bodily and contemplative key-point uses.",
+          "Allowed grammatical forms": "key point; key points; retain explicit numerals.",
+          "Contextual exceptions": "Do not rotate crucial point/vital point for style. A genuinely unrelated sense needs a local record.",
+          "Related entries": "རྡོ་རྗེའི་གནས་བཅུ་གཅིག་ (distinct)",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U11; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000107; MTP-000155; MTP-000589; SMB-000096; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L781",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-014",
+            "pair": "MTP-000121",
+            "exact_tibetan": "གནད",
+            "before": "vital point",
+            "after": "key point"
+          },
+          {
+            "finding": "PD-014",
+            "pair": "MTP-000155",
+            "exact_tibetan": "གནད",
+            "before": "vital point",
+            "after": "key point"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U050",
@@ -1877,7 +2368,54 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Technical cycle term is provisional; unresolved locus in S435 is not silently made at the root."
+      "condition_evidence": "Technical cycle term is provisional; unresolved locus in S435 is not silently made at the root.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000126",
+          "MTP-000139"
+        ],
+        "corrected_findings": [
+          "PD-005"
+        ],
+        "changed_pair_locations": [
+          "MTP-000126",
+          "MTP-000139"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "འཁོར་བ་",
+          "English": "cyclic existence",
+          "Meaning and scope": "Technical noun in the cyclic-existence/transcendence-of-sorrow contrast.",
+          "Allowed grammatical forms": "cyclic existence; preserve actual modifiers and source relationships.",
+          "Contextual exceptions": "Do not rotate samsara/saṃsāra as chapter defaults. An ordinary turning/circling construction or different འཁོར expression is not automatically this technical noun.",
+          "Related entries": "མྱ་ངན་ལས་འདས་; འཁོར་འདས་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U38; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000486; BMD-000035; BMD-000053; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L3529",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-005",
+            "pair": "MTP-000126",
+            "exact_tibetan": "འཁོར་བ",
+            "before": "saṃsāra",
+            "after": "cyclic existence"
+          },
+          {
+            "finding": "PD-005",
+            "pair": "MTP-000139",
+            "exact_tibetan": "འཁོར་བ",
+            "before": "saṃsāra",
+            "after": "cyclic existence"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U056",
@@ -2131,7 +2669,39 @@
         "སྒོམ་པ་",
         "ཏིང་ངེ་འཛིན་"
       ],
-      "condition_evidence": "Separate unlisted technical term, kept distinct from cultivation and deep absorption."
+      "condition_evidence": "Separate unlisted technical term, kept distinct from cultivation and deep absorption.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000135"
+        ],
+        "corrected_findings": [
+          "PD-023"
+        ],
+        "changed_pair_locations": [
+          "MTP-000135"
+        ],
+        "local_family_test": {
+          "attested_family": "བསམ་གཏན",
+          "current_treatment": "meditative stability",
+          "conclusion": "Local provisional realization tested at all six root occurrences: 000135, 000261, 000338, 000451, 000475, 000482. Abiding-in and nominal-state/list grammar support stability; separate deep absorption at 000338 rules out collapsing the two. No meditation hierarchy or new shared default is approved.",
+          "shared_status": "Proposed; not activated by this review"
+        },
+        "repairs": [
+          {
+            "finding": "PD-023",
+            "pair": "MTP-000135",
+            "exact_tibetan": "བསམ་གཏན་ཆེན་པོར་གནས",
+            "before": "meditative concentration",
+            "after": "meditative stability"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U067",
@@ -2161,7 +2731,36 @@
         "བྱ་བ་",
         "བྱ་བྲལ་"
       ],
-      "condition_evidence": "Both patient/action and agent roles remain visible; free from applies at S472, not automatically to S497."
+      "condition_evidence": "Both patient/action and agent roles remain visible; free from applies at S472, not automatically to S497.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000135",
+          "MTP-000144"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000135",
+          "MTP-000144"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "བྱ་བྱེད་",
+          "English": "doing and the doer",
+          "Meaning and scope": "Default only where the two members distinguish action and agent. Preserve both members and their source relationship.",
+          "Allowed grammatical forms": "doing and a/the doer; doing and doers; without doing or a doer, according to number and negation.",
+          "Contextual exceptions": "Doing and making only where the actual construction supports two actions. Do not reduce the pair to actions or invent an agent solely from the glossary noun.",
+          "Related entries": "བྱ་བ་; བྱ་བྲལ་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U17; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-001453; MTP-000057; SMB-000069; BMD-000080; BMD-000095; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L10446",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U068",
@@ -2463,7 +3062,33 @@
       "comparison_entries": [
         "ཕྱག་རྒྱ་ཆེན་པོ་"
       ],
-      "condition_evidence": "Standalone gesture and signs of the gesture remain proposed; canonical Mahamudra governs its own full expression at S506."
+      "condition_evidence": "Standalone gesture and signs of the gesture remain proposed; canonical Mahamudra governs its own full expression at S506.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000148",
+          "MTP-000153"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [],
+        "active_glossary_row": {
+          "Tibetan": "ཕྱག་རྒྱ་",
+          "English": "seal",
+          "Meaning and scope": "Technical standalone expression; not automatically a physical hand gesture.",
+          "Allowed grammatical forms": "seal; seals.",
+          "Contextual exceptions": "Gesture is allowed when the passage specifically describes a bodily gesture. Mudra/mudrā is not a third routine default. The established longer Mahamudra expression is unchanged.",
+          "Related entries": "ཕྱག་རྒྱ་ཆེན་པོ་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U19; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-002548; MTP-000200; MTP-000480; BMD-000099; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L18042",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Scoped contextual application; preserved provisional alternatives remain open, not approved exceptions merely by this record."
+      }
     },
     {
       "id": "T04-U082",
@@ -2503,7 +3128,39 @@
       "comparison_entries": [
         "སྒྲ་"
       ],
-      "condition_evidence": "Word of mantra is a proposed lexical treatment; shared English with canonical སྒྲ does not establish Tibetan identity."
+      "condition_evidence": "Word of mantra is a proposed lexical treatment; shared English with canonical སྒྲ does not establish Tibetan identity.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000149"
+        ],
+        "corrected_findings": [
+          "PD-025"
+        ],
+        "changed_pair_locations": [
+          "MTP-000149"
+        ],
+        "local_family_test": {
+          "attested_family": "ཚིག",
+          "current_treatment": "phrase in formulated units; words in generic speech formulae",
+          "conclusion": "The word/phrase contrast at 000234 and existing contrived phrases at 000266 support phrase in the twelve repaired formulated-unit contexts. Generic put-into-words and in-these-words at 000656/000657 do not introduce a competing technical label and remain. Exclude sacred-pledge compounds. Shared phrase assignment remains Proposed.",
+          "shared_status": "Proposed; not activated by this review"
+        },
+        "repairs": [
+          {
+            "finding": "PD-025",
+            "pair": "MTP-000149",
+            "exact_tibetan": "ཚིག",
+            "before": "a word of mantra",
+            "after": "a phrase of mantra"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U084",
@@ -2594,7 +3251,35 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Acoustic exception proposed on loud utterance/music and melodious quality. Canonical Word remains active outside these scoped loci."
+      "condition_evidence": "Acoustic exception proposed on loud utterance/music and melodious quality. Canonical Word remains active outside these scoped loci.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000149",
+          "MTP-000165"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000149"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "སྒྲ་",
+          "English": "Word",
+          "Meaning and scope": "",
+          "Allowed grammatical forms": "",
+          "Contextual exceptions": "Approved P1: use 'sound' for an auditory phenomenon, including clear sensory and musical-instrument contexts. Retain established linguistic uses and whole expressions, including སྒྲ་དོན་ → word and meaning. An appearance-related or speech-related occurrence does not by itself establish the auditory sense; uncertain extensions remain for local review.",
+          "Related entries": "Component of: སྒྲ་དོན་; སྒྲ་དོན་འདྲེས་རུང་",
+          "Rationale and sources": "G, line 198; Related mappings: G lines 23, 200; P1: DECISIONS.md#terminology-clarification-2026-10-04; issue #2 G14; DTG-001188 and DTG-002074; MTP-000462 and MTP-000505",
+          "Status and open questions": "Established; P1 approved auditory-use exception only; uncertain extensions remain for local review"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Scoped contextual application; preserved provisional alternatives remain open, not approved exceptions merely by this record."
+      }
     },
     {
       "id": "T04-U088",
@@ -2655,7 +3340,26 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Local anatomical fluid proposal; no more specific biomedical identification is claimed."
+      "condition_evidence": "Local anatomical fluid proposal; no more specific biomedical identification is claimed.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000151"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [],
+        "local_family_test": {
+          "attested_family": "ཆུ་སེར",
+          "current_treatment": "serum / lymph (provisional; unresolved family)",
+          "conclusion": "The bodily-vase liquid at 000151 and flesh/blood/tissue list at 000216 both support a bodily-fluid sense, but neither passage decides modern serum versus lymph. Those more specific labels remain provisional; physiological or lexicographic evidence for the exact historical use is needed before shared reconciliation. Do not infer medical precision from the similes.",
+          "shared_status": "Proposed; not activated by this review"
+        }
+      }
     },
     {
       "id": "T04-U091",
@@ -2714,7 +3418,45 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Transgression-desire equation retained as speaker assertion; not reversed to a prohibition."
+      "condition_evidence": "Transgression-desire equation retained as speaker assertion; not reversed to a prohibition.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000152"
+        ],
+        "corrected_findings": [
+          "PD-016"
+        ],
+        "changed_pair_locations": [
+          "MTP-000152"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "དམ་ཚིག་",
+          "English": "sacred pledge",
+          "Meaning and scope": "Whole technical expression; preserve both words rather than rotating pledge, samaya and commitment.",
+          "Allowed grammatical forms": "sacred pledge; sacred pledges; preserve source number, negation and compound scope.",
+          "Contextual exceptions": "No automatic replacement of vow/restraint terminology for སྡོམ་པ or other source expressions.",
+          "Related entries": "སྡོམ་པ་ (distinct, not activated here)",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U04; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-001022; MTP-000152; MTP-000200; SMB-000108; BMD-000099; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L7449",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-016",
+            "pair": "MTP-000152",
+            "exact_tibetan": "དམ་ཚིག",
+            "before": "samaya",
+            "after": "sacred pledge"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U094",
@@ -2977,7 +3719,45 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Instruction head distinct from pith instruction; does not silently repair the following གདབ spelling."
+      "condition_evidence": "Instruction head distinct from pith instruction; does not silently repair the following གདབ spelling.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000155"
+        ],
+        "corrected_findings": [
+          "PD-012"
+        ],
+        "changed_pair_locations": [
+          "MTP-000155"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "གདམས་ངག་",
+          "English": "oral instruction",
+          "Meaning and scope": "Shared technical label; oral does not assert that the instruction cannot be written down.",
+          "Allowed grammatical forms": "oral instruction; oral instructions.",
+          "Contextual exceptions": "Do not drop oral merely by chapter. Keep the separately written pith-instruction expression identifiable without asserting that the two terms denote wholly disjoint kinds of teaching.",
+          "Related entries": "མན་ངག་ (distinct, not newly assigned by this row); ལུང་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U43; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000991; MTP-000091; MTP-000155; MTP-000261; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L7216",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-012",
+            "pair": "MTP-000155",
+            "exact_tibetan": "གདམས་ངག",
+            "before": "is instruction",
+            "after": "is oral instruction"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U107",
@@ -3017,7 +3797,34 @@
       "comparison_entries": [
         "སྒོམ་པ་"
       ],
-      "condition_evidence": "Different spelling from cultivation; no automatic lexical identity inferred."
+      "condition_evidence": "Different spelling from cultivation; no automatic lexical identity inferred.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000155"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000155"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "གོམས་པ་",
+          "English": "familiarization",
+          "Meaning and scope": "Process of becoming familiar; the state and process forms belong to the same approved family.",
+          "Allowed grammatical forms": "familiarization (process); familiarity (state); become familiar with; familiarized, as the construction requires.",
+          "Contextual exceptions": "Do not replace with cultivation or merge the differently written སྒོམ/བསྒོམ family. The separate taking-into-practice idiom is not this headword.",
+          "Related entries": "སྒོམ་པ་; ཉམས་མྱོང་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U30; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000682; DTG-000854; MTP-000155; SMB-000060; SMB-000100; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L4928",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U109",
@@ -3098,7 +3905,34 @@
         "ངོ་བོ་",
         "རང་བཞིན་"
       ],
-      "condition_evidence": "Sentient beings are the contents in relation to container-world; not bodily essence."
+      "condition_evidence": "Sentient beings are the contents in relation to container-world; not bodily essence.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000172"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000172"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "བཅུད་",
+          "English": "quintessence",
+          "Meaning and scope": "Default in the recorded concentration/extraction/core-teaching contexts; preserve its distinction from essence, core and pure extract.",
+          "Allowed grammatical forms": "quintessence; source-supported grammatical realization.",
+          "Contextual exceptions": "Contents or inhabitants in the distinct receptacle-and-contents construction, according to the actual referent. Do not replace those senses with quintessence or rotate vital essence/vital extract without a specific decision.",
+          "Related entries": "ངོ་བོ་; སྙིང་པོ་; དངས་མ་; དྭངས་མ་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U37; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-001489; MTP-000091; MTP-000314; MTP-000339; MTP-000608; SMB-000043; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L10698",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Scoped contextual application; preserved provisional alternatives remain open, not approved exceptions merely by this record."
+      }
     },
     {
       "id": "T04-U113",
@@ -3206,7 +4040,45 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Actual first member དངས retained; the contrasted substances and exact physical referent remain open."
+      "condition_evidence": "Actual first member དངས retained; the contrasted substances and exact physical referent remain open.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000161"
+        ],
+        "corrected_findings": [
+          "PD-017"
+        ],
+        "changed_pair_locations": [
+          "MTP-000161"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "དངས་སྙིགས་",
+          "English": "pure extract and residue",
+          "Meaning and scope": "Paired extract/residue expression; keep both source members and their order.",
+          "Allowed grammatical forms": "pure extract and residue; preserve source-supported number.",
+          "Contextual exceptions": "Do not rotate dregs/turbidity as free synonyms or collapse this pair to essence. A short form must be identified in its full construction, not silently respelled.",
+          "Related entries": "དངས་མ་; དྭངས་མ་; རྙོག་མ་ (distinct turbidity)",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U29; owner-approved wording/policy, not automatic approval of each historical interpretation; MTP-000566; Tibetan occurrence: https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/21fb131912bf7ed161c08a70614702764464030d/paired/source.md#L3473",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-017",
+            "pair": "MTP-000161",
+            "exact_tibetan": "དངས་སྙིགས",
+            "before": "refined portion and dregs",
+            "after": "pure extract and residue"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U118",
@@ -3246,7 +4118,45 @@
       "comparison_entries": [
         "སྟོང་པ་"
       ],
-      "condition_evidence": "Negative entity construction with emptiness; not a newly approved generic absence term."
+      "condition_evidence": "Negative entity construction with emptiness; not a newly approved generic absence term.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000161"
+        ],
+        "corrected_findings": [
+          "PD-007"
+        ],
+        "changed_pair_locations": [
+          "MTP-000161"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "དངོས་མེད་",
+          "English": "nonentity",
+          "Meaning and scope": "Negative entity contrast when supported by the complete construction; not a universal assertion about physical materiality.",
+          "Allowed grammatical forms": "nonentity; nonentities; absence of entities; without entities, according to grammatical scope.",
+          "Contextual exceptions": "Absence of material presence is not the general default. A specifically material sense needs explicit source support. Do not equate differently spelled unresolved forms with this headword.",
+          "Related entries": "དངོས་; དངོས་པོ་; བེམ་པོ་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U28; owner-approved wording/policy, not automatic approval of each historical interpretation; MTP-000448; MTP-000577; MTP-000578; MTP-000581; SMB-000035; Tibetan occurrence: https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/21fb131912bf7ed161c08a70614702764464030d/paired/source.md#L2770",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-007",
+            "pair": "MTP-000161",
+            "exact_tibetan": "དངོས་མེད",
+            "before": "insubstantial, limitless emptiness",
+            "after": "limitless emptiness without entities"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U120",
@@ -3400,7 +4310,34 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Conditional query retains inert class without an imported list of entities."
+      "condition_evidence": "Conditional query retains inert class without an imported list of entities.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000174"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000174"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "བེམ་པོ་",
+          "English": "matter",
+          "Meaning and scope": "Owner-requested concise rendering for the material/non-knowing side of the source contrast. The term does not assert immobility or that karmic beings lack material bodies.",
+          "Allowed grammatical forms": "matter (mass noun); material thing or material things when the source requires a count noun; never matters as its plural.",
+          "Contextual exceptions": "Keep knowing/non-knowing contrasts and body-as-matter similes intelligible. Where matter alone obscures the contrast, explain the non-knowing sense in a source-linked note rather than silently changing the technical default. Do not substitute insentient matter, inert, dead, lifeless or non-karmic being; do not replace every body/entity/substance with matter.",
+          "Related entries": "སེམས་ཅན་; དངོས་པོ་; རིག་པ་; linked attested བེམ་པོ་/བེམས་པོ་ forms",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U35; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000111; DTG-000869; MTP-000540; MTP-000550; SMB-000047; SMB-000050; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L805",
+          "Status and open questions": "Approved P2 implementation of the owner’s matter preference, superseding the proposed insentient-matter label; flagged comprehension/interpretation questions remain local; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U128",
@@ -3530,7 +4467,34 @@
       "comparison_entries": [
         "ཆོས་ཉིད་"
       ],
-      "condition_evidence": "Transparent proposed compound; not silently replaced by the canonical nature of phenomena."
+      "condition_evidence": "Transparent proposed compound; not silently replaced by the canonical nature of phenomena.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000182"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [
+          "MTP-000182"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "ཆོས་ཅན་",
+          "English": "bearer of phenomena",
+          "Meaning and scope": "Technical rendering in the recorded contrast with nature of phenomena; preserve the source relationship without asserting a separately existing bearer.",
+          "Allowed grammatical forms": "bearer of phenomena; bearers of phenomena.",
+          "Contextual exceptions": "Subject is allowed specifically for the subject of a logical argument/proposition. Bearer of properties is not a third free synonym; flag a materially different property-bearing construal. Does not approve property for ཆོས་ཉིད.",
+          "Related entries": "ཆོས་ཉིད་; འཛིན་པ་",
+          "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U15; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000304; DTG-002378; MTP-000182; MTP-000353; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L2177",
+          "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U134",
@@ -3587,7 +4551,32 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Local textual genre exception only; canonical continuum is preserved at the non-genre S455 occurrence."
+      "condition_evidence": "Local textual genre exception only; canonical continuum is preserved at the non-genre S455 occurrence.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000185"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [],
+        "active_glossary_row": {
+          "Tibetan": "རྒྱུད་",
+          "English": "Continuum",
+          "Meaning and scope": "Keep the listed 'continuum' entry. Do not assume that the differently written རྒྱུན་ has already been assigned the same English technical term.",
+          "Allowed grammatical forms": "",
+          "Contextual exceptions": "Approved P1: use 'tantra' when the occurrence unambiguously denotes a tantric scripture as a text or textual genre, including titles, colophons, and explicit references to such works. Retain 'continuum' in other applicable senses. Established whole expressions, including ལུ་གུ་རྒྱུད་ → vajra chains, take precedence. An ambiguous occurrence remains a local review question; proximity to a title does not activate this exception.",
+          "Related entries": "",
+          "Rationale and sources": "G, line 188; U2, terminology preservation; G, coverage observation; P1: DECISIONS.md#terminology-clarification-2026-10-04; issue #2 G11; MTP-000005; SMB-000001, SMB-000013 and SMB-000102",
+          "Status and open questions": "Established; རྒྱུན་ is absent from the supplied glossary and requires its own reviewed treatment; P1 approved literary-use exception only; ambiguous senses remain for local review"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Scoped contextual application; preserved provisional alternatives remain open, not approved exceptions merely by this record."
+      }
     },
     {
       "id": "T04-U137",
@@ -3638,7 +4627,46 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Speaker and title distinctions remain explicit. The S343 epithet/case anomaly is retained; the vajra hero is not silently expanded to the separately attested Vajrasattva name."
+      "condition_evidence": "Speaker and title distinctions remain explicit. The S343 epithet/case anomaly is retained; the vajra hero is not silently expanded to the separately attested Vajrasattva name.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000101",
+          "MTP-000103",
+          "MTP-000104",
+          "MTP-000110",
+          "MTP-000115"
+        ],
+        "corrected_findings": [
+          "PD-001"
+        ],
+        "changed_pair_locations": [
+          "MTP-000103",
+          "MTP-000110",
+          "MTP-000115"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-001",
+            "pair": "MTP-000103",
+            "exact_tibetan": "བཅོམ་ལྡན",
+            "before": "Bhagavān",
+            "after": "Blessed One"
+          },
+          {
+            "finding": "PD-001",
+            "pair": "MTP-000110",
+            "exact_tibetan": "བཅོམ་ལྡན",
+            "before": "Bhagavān",
+            "after": "Blessed One"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U138",
@@ -3677,7 +4705,45 @@
         "དབྱིངས་",
         "ཆོས་དབྱིངས་"
       ],
-      "condition_evidence": "Endowed-with relation preserves the whole canonical term. Recipient/request attachment remains provisional. The source is not the distinct lexicalized basic-space-of-phenomena compound."
+      "condition_evidence": "Endowed-with relation preserves the whole canonical term. Recipient/request attachment remains provisional. The source is not the distinct lexicalized basic-space-of-phenomena compound.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000102"
+        ],
+        "corrected_findings": [
+          "PD-001"
+        ],
+        "changed_pair_locations": [
+          "MTP-000102"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "ཐུགས་རྗེ་",
+          "English": "Compassionate responsiveness",
+          "Meaning and scope": "Keep the established 'compassionate responsiveness', including in the source triad. Do not infer a standalone mapping for ཐུགས་ from this compound.",
+          "Allowed grammatical forms": "",
+          "Contextual exceptions": "",
+          "Related entries": "Co-occurs in source triad: ངོ་བོ་; རང་བཞིན་",
+          "Rationale and sources": "G, line 178; T, p. 286 (line 23); Related mappings: G lines 40, 157; U2, discussion of 2.5; G, coverage observation; P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U40",
+          "Status and open questions": "Established; P2 separately approves standalone ཐུགས་ in its cognitive/honorific scope. Standalone སྙིང་རྗེ་ remains unlisted here; its treatment is not settled by this compound."
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-001",
+            "pair": "MTP-000102",
+            "exact_tibetan": "བཅོམ་ལྡན",
+            "before": "Bhagavān",
+            "after": "Blessed One"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U139",
@@ -3728,7 +4794,45 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Editorial quotation boundaries close at S367, reopen after the narrative S368–370, and close at S485. Continuing third-person wording within speech remains possible; no speaker change is asserted as a source edit."
+      "condition_evidence": "Editorial quotation boundaries close at S367, reopen after the narrative S368–370, and close at S485. Continuing third-person wording within speech remains possible; no speaker change is asserted as a source edit.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000110",
+          "MTP-000111",
+          "MTP-000139"
+        ],
+        "corrected_findings": [
+          "PD-001",
+          "PD-010"
+        ],
+        "changed_pair_locations": [
+          "MTP-000110",
+          "MTP-000111",
+          "MTP-000139"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-001",
+            "pair": "MTP-000110",
+            "exact_tibetan": "བཅོམ་ལྡན",
+            "before": "Bhagavān",
+            "after": "Blessed One"
+          },
+          {
+            "finding": "PD-010",
+            "pair": "MTP-000111",
+            "exact_tibetan": "ཨེ་མ་ཧོ",
+            "before": "Emaho!",
+            "after": "How wondrous!"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U140",
@@ -3776,7 +4880,33 @@
         "ཡེ་ཤེས་",
         "དོན་"
       ],
-      "condition_evidence": "Causal, genitive and action relations remain represented. The two retained strings receive no invented lexical equivalents. Acts retains the activity family without claiming a resolution of the interrupted nominal chain."
+      "condition_evidence": "Causal, genitive and action relations remain represented. The two retained strings receive no invented lexical equivalents. Acts retains the activity family without claiming a resolution of the interrupted nominal chain.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000105"
+        ],
+        "corrected_findings": [
+          "PD-004"
+        ],
+        "changed_pair_locations": [
+          "MTP-000105"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-004",
+            "pair": "MTP-000105",
+            "exact_tibetan": "སེམས་ཅན",
+            "before": "sentient beings",
+            "after": "karmic beings"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U141",
@@ -3883,7 +5013,32 @@
         "རིག་པ་",
         "ཆོས་ཉིད་"
       ],
-      "condition_evidence": "Continuation across page metadata; the preceding embodiment/state tentatively supplies recipients of the shaped/cannot-be-cut predicates. The source verb is not repaired to a contrivance-family form."
+      "condition_evidence": "Continuation across page metadata; the preceding embodiment/state tentatively supplies recipients of the shaped/cannot-be-cut predicates. The source verb is not repaired to a contrivance-family form.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000108"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [],
+        "active_glossary_row": {
+          "Tibetan": "ཐུགས་རྗེ་",
+          "English": "Compassionate responsiveness",
+          "Meaning and scope": "Keep the established 'compassionate responsiveness', including in the source triad. Do not infer a standalone mapping for ཐུགས་ from this compound.",
+          "Allowed grammatical forms": "",
+          "Contextual exceptions": "",
+          "Related entries": "Co-occurs in source triad: ངོ་བོ་; རང་བཞིན་",
+          "Rationale and sources": "G, line 178; T, p. 286 (line 23); Related mappings: G lines 40, 157; U2, discussion of 2.5; G, coverage observation; P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U40",
+          "Status and open questions": "Established; P2 separately approves standalone ཐུགས་ in its cognitive/honorific scope. Standalone སྙིང་རྗེ་ remains unlisted here; its treatment is not settled by this compound."
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U145",
@@ -4241,7 +5396,33 @@
         "སྣང་",
         "ཡིད་"
       ],
-      "condition_evidence": "All three causal endings, as provisionally construed, remain visible. Nominal S390 supplies a tentative state relation. Implicit agents are not named; the assurance count is not explained by a taxonomy."
+      "condition_evidence": "All three causal endings, as provisionally construed, remain visible. Nominal S390 supplies a tentative state relation. Implicit agents are not named; the assurance count is not explained by a taxonomy.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000115"
+        ],
+        "corrected_findings": [
+          "PD-013"
+        ],
+        "changed_pair_locations": [
+          "MTP-000115"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-013",
+            "pair": "MTP-000115",
+            "exact_tibetan": "ཡིད་ཆེས་གསུམ",
+            "before": "three assurances",
+            "after": "three convictions"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U154",
@@ -4369,7 +5550,32 @@
         "ལྟ་བ་",
         "ཤེས་རབ་"
       ],
-      "condition_evidence": "Apposition, supplied with and implied subject retain the unclosed coordination. No unexpressed genitive connects responsiveness and stains; all protected components remain intact."
+      "condition_evidence": "Apposition, supplied with and implied subject retain the unclosed coordination. No unexpressed genitive connects responsiveness and stains; all protected components remain intact.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000118"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [],
+        "active_glossary_row": {
+          "Tibetan": "ཐུགས་རྗེ་",
+          "English": "Compassionate responsiveness",
+          "Meaning and scope": "Keep the established 'compassionate responsiveness', including in the source triad. Do not infer a standalone mapping for ཐུགས་ from this compound.",
+          "Allowed grammatical forms": "",
+          "Contextual exceptions": "",
+          "Related entries": "Co-occurs in source triad: ངོ་བོ་; རང་བཞིན་",
+          "Rationale and sources": "G, line 178; T, p. 286 (line 23); Related mappings: G lines 40, 157; U2, discussion of 2.5; G, coverage observation; P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U40",
+          "Status and open questions": "Established; P2 separately approves standalone ཐུགས་ in its cognitive/honorific scope. Standalone སྙིང་རྗེ་ remains unlisted here; its treatment is not settled by this compound."
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U156",
@@ -4478,7 +5684,34 @@
         "ཡེ་ཤེས་",
         "རང་སྣང་"
       ],
-      "condition_evidence": "Provisional nominal equations continue across the page label. S414 may alternatively continue the prior series. Vital-point and king/pith-instruction relationships remain disclosed; established vajra chains is not changed to generic continuum."
+      "condition_evidence": "Provisional nominal equations continue across the page label. S414 may alternatively continue the prior series. Vital-point and king/pith-instruction relationships remain disclosed; established vajra chains is not changed to generic continuum.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000119",
+          "MTP-000121"
+        ],
+        "corrected_findings": [
+          "PD-014"
+        ],
+        "changed_pair_locations": [
+          "MTP-000121"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-014",
+            "pair": "MTP-000121",
+            "exact_tibetan": "གནད",
+            "before": "vital point",
+            "after": "key point"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U158",
@@ -4534,7 +5767,33 @@
         "ཡེ་ཤེས་",
         "གསལ་བ་"
       ],
-      "condition_evidence": "Description versus imperative remains open. The exact clearing verb and house metaphor are preserved without an invented referent, wall or doctrinal explanation. Ordinary mind and differentiating conceptualization remain canonical."
+      "condition_evidence": "Description versus imperative remains open. The exact clearing verb and house metaphor are preserved without an invented referent, wall or doctrinal explanation. Ordinary mind and differentiating conceptualization remain canonical.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000122"
+        ],
+        "corrected_findings": [
+          "PD-010"
+        ],
+        "changed_pair_locations": [
+          "MTP-000122"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-010",
+            "pair": "MTP-000122",
+            "exact_tibetan": "ཨེ་མ་ཧོ",
+            "before": "Emaho!",
+            "after": "How wondrous!"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U159",
@@ -4678,7 +5937,41 @@
         "ཀློང་",
         "སྤྱོད་པ་"
       ],
-      "condition_evidence": "Distinct commands and both concluding negatives are preserved. The retained locus has no invented at-the-root equivalent. Subject and exact distinction predicate remain open."
+      "condition_evidence": "Distinct commands and both concluding negatives are preserved. The retained locus has no invented at-the-root equivalent. Subject and exact distinction predicate remain open.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000126"
+        ],
+        "corrected_findings": [
+          "PD-005",
+          "PD-010"
+        ],
+        "changed_pair_locations": [
+          "MTP-000126"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-005",
+            "pair": "MTP-000126",
+            "exact_tibetan": "འཁོར་བ",
+            "before": "saṃsāra",
+            "after": "cyclic existence"
+          },
+          {
+            "finding": "PD-010",
+            "pair": "MTP-000126",
+            "exact_tibetan": "ཨེ་མ་ཧོ",
+            "before": "Emaho!",
+            "after": "How wondrous!"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U162",
@@ -4775,7 +6068,33 @@
         "འཁྲུལ་པ་",
         "མངོན་སུམ་"
       ],
-      "condition_evidence": "All-basis/body attachment is not a new canonical compound; apposition remains possible. Manifestly is not silently direct perception. Both empty and clear are represented; ground follows the disclosed lowercase presentation."
+      "condition_evidence": "All-basis/body attachment is not a new canonical compound; apposition remains possible. Manifestly is not silently direct perception. Both empty and clear are represented; ground follows the disclosed lowercase presentation.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000128"
+        ],
+        "corrected_findings": [
+          "PD-015"
+        ],
+        "changed_pair_locations": [
+          "MTP-000128"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-015",
+            "pair": "MTP-000128",
+            "exact_tibetan": "གཞི",
+            "before": "ground",
+            "after": "Ground"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U164",
@@ -4871,7 +6190,33 @@
         "རང་སར་གྲོལ་",
         "གཞི་"
       ],
-      "condition_evidence": "Clear-light/sleep attachment and supplied possessive are provisional. Naked resting is the attested inflected resting form, distinct from naked seeing. Apprehending-subject genitive is preserved."
+      "condition_evidence": "Clear-light/sleep attachment and supplied possessive are provisional. Naked resting is the attested inflected resting form, distinct from naked seeing. Apprehending-subject genitive is preserved.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000130"
+        ],
+        "corrected_findings": [
+          "PD-015"
+        ],
+        "changed_pair_locations": [
+          "MTP-000130"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-015",
+            "pair": "MTP-000130",
+            "exact_tibetan": "གཞི",
+            "before": "ground",
+            "after": "Ground"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U166",
@@ -4937,7 +6282,32 @@
         "རྒྱུད་",
         "འགྱུ་བ་"
       ],
-      "condition_evidence": "Natural arising and self-arising remain distinct forms. Continuum is not a genre exception here. The incomplete-looking final construction keeps its supply and unresolved marker; enlightened intent is not generic mind."
+      "condition_evidence": "Natural arising and self-arising remain distinct forms. Continuum is not a genre exception here. The incomplete-looking final construction keeps its supply and unresolved marker; enlightened intent is not generic mind.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000131"
+        ],
+        "corrected_findings": [],
+        "changed_pair_locations": [],
+        "active_glossary_row": {
+          "Tibetan": "དགོངས་པ་",
+          "English": "Enlightened intent",
+          "Meaning and scope": "Preserve 'enlightened intent'. In the colophon, repair the sentence's relationships without diluting this term merely to avoid repetition.",
+          "Allowed grammatical forms": "",
+          "Contextual exceptions": "",
+          "Related entries": "",
+          "Rationale and sources": "G, line 170; U2, discussion of 2.5; T, p. 299 (line 49); P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U40",
+          "Status and open questions": "Established; P2 separately approves standalone ཐུགས་ as awakened mind in its cognitive/honorific scope. This does not settle the colophon’s grammar or replace enlightened intent."
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain."
+      }
     },
     {
       "id": "T04-U167",
@@ -5081,7 +6451,33 @@
         "བྱ་བ་",
         "བྱ་བྲལ་"
       ],
-      "condition_evidence": "Unusual genitive remains intact. Done/arisen and negation scope remain open; no unexpressed conjunction is asserted. Both doing and doer are represented."
+      "condition_evidence": "Unusual genitive remains intact. Done/arisen and negation scope remain open; no unexpressed conjunction is asserted. Both doing and doer are represented.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000135"
+        ],
+        "corrected_findings": [
+          "PD-023"
+        ],
+        "changed_pair_locations": [
+          "MTP-000135"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-023",
+            "pair": "MTP-000135",
+            "exact_tibetan": "བསམ་གཏན་ཆེན་པོར་གནས",
+            "before": "meditative concentration",
+            "after": "meditative stability"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U169",
@@ -5145,7 +6541,46 @@
         "སྣང་བ་",
         "འོད་གསལ་"
       ],
-      "condition_evidence": "Causal continuation crosses page metadata. From the ground is not silently a temporal idiom; only and exhaustion of one/two remain. The as relation in the final apposition is supplied."
+      "condition_evidence": "Causal continuation crosses page metadata. From the ground is not silently a temporal idiom; only and exhaustion of one/two remain. The as relation in the final apposition is supplied.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000136",
+          "MTP-000138"
+        ],
+        "corrected_findings": [
+          "PD-015"
+        ],
+        "changed_pair_locations": [
+          "MTP-000136"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "གཞི་",
+          "English": "The Ground",
+          "Meaning and scope": "Approved P1 presentation rule: use 'Ground' for the established technical use in running English. This does not classify every physical or support-related ground as technical Ground, or settle a disputed sense; review the source construction separately.",
+          "Allowed grammatical forms": "Retain capital G in technical 'Ground'. Treat 'the' as an ordinary article: use it only where grammar requires it and capitalize it only under normal sentence/title rules. The canonical display assignment 'The Ground' is unchanged.",
+          "Contextual exceptions": "",
+          "Related entries": "Component of: གཞི་སྣང་",
+          "Rationale and sources": "G, line 144; Related mappings: G lines 145; P1: DECISIONS.md#terminology-clarification-2026-10-04; issue #2 G13; MTP-000012, MTP-000180 and MTP-000181; SMB-000008 and SMB-000018",
+          "Status and open questions": "Established; P1 approved technical capitalization and article treatment only; disputed support/other senses remain open"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Scoped contextual application; preserved provisional alternatives remain open, not approved exceptions merely by this record.",
+        "repairs": [
+          {
+            "finding": "PD-015",
+            "pair": "MTP-000136",
+            "exact_tibetan": "གཞི",
+            "before": "ground",
+            "after": "Ground"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U170",
@@ -5208,7 +6643,33 @@
         "བློ་",
         "རང་གྲོལ་"
       ],
-      "condition_evidence": "Nominal presence predicate is supplied. Self-grasping retains conceptual mind; repeated conditions/instrument is not flattened. Inflected leaving-as-it-is realizes source plurality."
+      "condition_evidence": "Nominal presence predicate is supplied. Self-grasping retains conceptual mind; repeated conditions/instrument is not flattened. Inflected leaving-as-it-is realizes source plurality.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000139"
+        ],
+        "corrected_findings": [
+          "PD-005"
+        ],
+        "changed_pair_locations": [
+          "MTP-000139"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-005",
+            "pair": "MTP-000139",
+            "exact_tibetan": "འཁོར་བ",
+            "before": "saṃsāra",
+            "after": "cyclic existence"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U171",
@@ -5336,7 +6797,33 @@
         "རིག་པ་",
         "གསལ་བ་"
       ],
-      "condition_evidence": "Conditional and rhetorical question remain the speaker’s statements. Both doing/doer roles and the unlisted empty-awareness compound remain visible; no unrestricted practical injunction is added."
+      "condition_evidence": "Conditional and rhetorical question remain the speaker’s statements. Both doing/doer roles and the unlisted empty-awareness compound remain visible; no unrestricted practical injunction is added.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000144"
+        ],
+        "corrected_findings": [
+          "PD-027"
+        ],
+        "changed_pair_locations": [
+          "MTP-000144"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-027",
+            "pair": "MTP-000144",
+            "exact_tibetan": "ཨེ་མ",
+            "before": "Ema!",
+            "after": "Ah!"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U173",
@@ -5549,7 +7036,34 @@
         "སྣང་བ་",
         "སྐུ་"
       ],
-      "condition_evidence": "Ritual equations retain their distinct predicates and canonical mental faculty, movement and embodiment. Source does not prescribe a particular gesture or deity."
+      "condition_evidence": "Ritual equations retain their distinct predicates and canonical mental faculty, movement and embodiment. Source does not prescribe a particular gesture or deity.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000148",
+          "MTP-000149"
+        ],
+        "corrected_findings": [
+          "PD-025"
+        ],
+        "changed_pair_locations": [
+          "MTP-000149"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-025",
+            "pair": "MTP-000149",
+            "exact_tibetan": "ཚིག",
+            "before": "a word of mantra",
+            "after": "a phrase of mantra"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U178",
@@ -5651,7 +7165,33 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Contextual speaker assertions are not inverted into ordinary prohibitions. Absence-desire has no specified object; deterioration does not become canonical experience."
+      "condition_evidence": "Contextual speaker assertions are not inverted into ordinary prohibitions. Absence-desire has no specified object; deterioration does not become canonical experience.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000152"
+        ],
+        "corrected_findings": [
+          "PD-016"
+        ],
+        "changed_pair_locations": [
+          "MTP-000152"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-016",
+            "pair": "MTP-000152",
+            "exact_tibetan": "དམ་ཚིག",
+            "before": "samaya",
+            "after": "sacred pledge"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U180",
@@ -5774,7 +7314,41 @@
         "རྟོགས་པ་",
         "སྒོམ་པ་"
       ],
-      "condition_evidence": "Both knowing/awareness and object/ordinary-mind members are retained. Application has an unresolved implicit object; six collections are not expanded to consciousnesses. Familiarization is not a spelling repair to cultivation."
+      "condition_evidence": "Both knowing/awareness and object/ordinary-mind members are retained. Application has an unresolved implicit object; six collections are not expanded to consciousnesses. Familiarization is not a spelling repair to cultivation.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000155"
+        ],
+        "corrected_findings": [
+          "PD-012",
+          "PD-014"
+        ],
+        "changed_pair_locations": [
+          "MTP-000155"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-012",
+            "pair": "MTP-000155",
+            "exact_tibetan": "གདམས་ངག",
+            "before": "is instruction",
+            "after": "is oral instruction"
+          },
+          {
+            "finding": "PD-014",
+            "pair": "MTP-000155",
+            "exact_tibetan": "གནད",
+            "before": "vital point",
+            "after": "key point"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U183",
@@ -5820,7 +7394,34 @@
         "སེམས་",
         "འཁྲུལ་པ་"
       ],
-      "condition_evidence": "Questions, change of premise and container/content relationship retained. Proposed sentient-beings compound is not mechanically expanded to ordinary mind."
+      "condition_evidence": "Questions, change of premise and container/content relationship retained. Proposed sentient-beings compound is not mechanically expanded to ordinary mind.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000157",
+          "MTP-000172"
+        ],
+        "corrected_findings": [
+          "PD-004"
+        ],
+        "changed_pair_locations": [
+          "MTP-000172"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-004",
+            "pair": "MTP-000172",
+            "exact_tibetan": "སེམས་ཅན",
+            "before": "sentient beings",
+            "after": "karmic beings"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U184",
@@ -5915,7 +7516,42 @@
         "རླུང་",
         "གཟུང་བ་"
       ],
-      "condition_evidence": "All elemental subjects and complements follow the fixed source. As an entity is not changed to from entities; water’s surprising burning function is not assigned to fire."
+      "condition_evidence": "All elemental subjects and complements follow the fixed source. As an entity is not changed to from entities; water’s surprising burning function is not assigned to fire.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000159",
+          "MTP-000161"
+        ],
+        "corrected_findings": [
+          "PD-007",
+          "PD-017"
+        ],
+        "changed_pair_locations": [
+          "MTP-000161"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-007",
+            "pair": "MTP-000161",
+            "exact_tibetan": "དངོས་མེད",
+            "before": "insubstantial, limitless emptiness",
+            "after": "limitless emptiness without entities"
+          },
+          {
+            "finding": "PD-017",
+            "pair": "MTP-000161",
+            "exact_tibetan": "དངས་སྙིགས",
+            "before": "refined portion and dregs",
+            "after": "pure extract and residue"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U185",
@@ -5942,7 +7578,33 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "Source physical functions and spelling remain exactly traceable; no doctrinal reassignment of substances or elements."
+      "condition_evidence": "Source physical functions and spelling remain exactly traceable; no doctrinal reassignment of substances or elements.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000161"
+        ],
+        "corrected_findings": [
+          "PD-017"
+        ],
+        "changed_pair_locations": [
+          "MTP-000161"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-017",
+            "pair": "MTP-000161",
+            "exact_tibetan": "དངས་སྙིགས",
+            "before": "refined portion and dregs",
+            "after": "pure extract and residue"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U186",
@@ -6484,7 +8146,50 @@
         }
       ],
       "comparison_entries": [],
-      "condition_evidence": "This is a supplied unresolved referent; meaning/purpose of liberation is an alternative. The source ལམ is a question connector here, not a path noun. Premises and conditional question are not inverted."
+      "condition_evidence": "This is a supplied unresolved referent; meaning/purpose of liberation is an alternative. The source ལམ is a question connector here, not a path noun. Premises and conditional question are not inverted.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000172",
+          "MTP-000174"
+        ],
+        "corrected_findings": [
+          "PD-004",
+          "PD-008"
+        ],
+        "changed_pair_locations": [
+          "MTP-000172",
+          "MTP-000174"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-004",
+            "pair": "MTP-000172",
+            "exact_tibetan": "སེམས་ཅན",
+            "before": "sentient beings",
+            "after": "karmic beings"
+          },
+          {
+            "finding": "PD-004",
+            "pair": "MTP-000174",
+            "exact_tibetan": "སེམས་ཅན",
+            "before": "sentient beings",
+            "after": "karmic beings"
+          },
+          {
+            "finding": "PD-008",
+            "pair": "MTP-000174",
+            "exact_tibetan": "བེམ་པོ་ནི\nགྲོལ་བར་རིགས་པ་མ་ལགས་ན",
+            "before": "and the inert\nare not reasonably",
+            "after": "and matter\nis not reasonably"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U198",
@@ -6683,7 +8388,33 @@
         "སྣང་བ་",
         "རྟོག་པ་"
       ],
-      "condition_evidence": "Adjacent numerical claims retained without adding weeks or harmonizing biology/arithmetic. Realization stays distinct from conceptualization; levels does not become canonical ground."
+      "condition_evidence": "Adjacent numerical claims retained without adding weeks or harmonizing biology/arithmetic. Realization stays distinct from conceptualization; levels does not become canonical ground.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000180"
+        ],
+        "corrected_findings": [
+          "PD-015"
+        ],
+        "changed_pair_locations": [
+          "MTP-000180"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-015",
+            "pair": "MTP-000180",
+            "exact_tibetan": "གཞི",
+            "before": "ground",
+            "after": "Ground"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U202",
@@ -6750,7 +8481,45 @@
         "ཆོས་ཉིད་",
         "སྟོང་པ་"
       ],
-      "condition_evidence": "Life-event equations retained. Body-growth does not become generation-stage practice. Causal/instrumental death, supplied one and goal into remain local interpretation. No claim of illness proving realization added."
+      "condition_evidence": "Life-event equations retained. Body-growth does not become generation-stage practice. Causal/instrumental death, supplied one and goal into remain local interpretation. No claim of illness proving realization added.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000181"
+        ],
+        "corrected_findings": [
+          "PD-015"
+        ],
+        "changed_pair_locations": [
+          "MTP-000181"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "གཞི་སྣང་",
+          "English": "Ground-appearance",
+          "Meaning and scope": "",
+          "Allowed grammatical forms": "Approved P1 presentation rule: use 'Ground-appearance' consistently for the established technical expression, retaining capital G and the existing hyphenation. Do not adopt a competing chapter-local lowercase convention. Other faithful grammatical realization remains governed by the general rule.",
+          "Contextual exceptions": "",
+          "Related entries": "Contains: གཞི་",
+          "Rationale and sources": "G, line 145; Related mappings: G lines 144; P1: DECISIONS.md#terminology-clarification-2026-10-04; issue #2 G13; MTP-000180 and MTP-000181; DTG-002391",
+          "Status and open questions": "Established; P1 approved technical capitalization and hyphenation rule; canonical assignment unchanged"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Approved label or grammatical realization within the reviewed scope; separately flagged construction/source questions remain.",
+        "repairs": [
+          {
+            "finding": "PD-015",
+            "pair": "MTP-000181",
+            "exact_tibetan": "གཞི",
+            "before": "ground",
+            "after": "Ground"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U203",
@@ -6798,7 +8567,41 @@
         "སྒོམ་པ་",
         "ཆོས་ཉིད་"
       ],
-      "condition_evidence": "The compressed S628 sequence remains unresolved, with no negative inserted to match following lines. Instrumental cultivation and uncontrived remain identifiable; bearer of phenomena is not nature of phenomena."
+      "condition_evidence": "The compressed S628 sequence remains unresolved, with no negative inserted to match following lines. Instrumental cultivation and uncontrived remain identifiable; bearer of phenomena is not nature of phenomena.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000182"
+        ],
+        "corrected_findings": [
+          "PD-004",
+          "PD-027"
+        ],
+        "changed_pair_locations": [
+          "MTP-000182"
+        ],
+        "repairs": [
+          {
+            "finding": "PD-004",
+            "pair": "MTP-000182",
+            "exact_tibetan": "སེམས་ཅན",
+            "before": "sentient beings",
+            "after": "karmic beings"
+          },
+          {
+            "finding": "PD-027",
+            "pair": "MTP-000182",
+            "exact_tibetan": "ཨེ་མ",
+            "before": "Ema!",
+            "after": "Ah!"
+          }
+        ]
+      }
     },
     {
       "id": "T04-U204",
@@ -6902,7 +8705,54 @@
       "comparison_entries": [
         "གཞི་སྣང་"
       ],
-      "condition_evidence": "Lowercase running-prose presentation follows the disclosed chapter-continuity choice. Canonical display The Ground / Ground-appearance remains unchanged; presentation question is not a lexical synonym approval."
+      "condition_evidence": "Lowercase running-prose presentation follows the disclosed chapter-continuity choice. Canonical display The Ground / Ground-appearance remains unchanged; presentation question is not a lexical synonym approval.",
+      "review_disposition": {
+        "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+        "date": "2026-10-05",
+        "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+        "standard_version": "2.1.0",
+        "governing_record": "translations/FINAL-REVIEW.md#phase-d-review",
+        "history": "Original authoring fields and approval claims above are retained as historical input. This disposition governs the current working text only; it is not release or human approval.",
+        "reviewed_pairs": [
+          "MTP-000180",
+          "MTP-000181"
+        ],
+        "corrected_findings": [
+          "PD-015"
+        ],
+        "changed_pair_locations": [
+          "MTP-000180",
+          "MTP-000181"
+        ],
+        "active_glossary_row": {
+          "Tibetan": "གཞི་",
+          "English": "The Ground",
+          "Meaning and scope": "Approved P1 presentation rule: use 'Ground' for the established technical use in running English. This does not classify every physical or support-related ground as technical Ground, or settle a disputed sense; review the source construction separately.",
+          "Allowed grammatical forms": "Retain capital G in technical 'Ground'. Treat 'the' as an ordinary article: use it only where grammar requires it and capitalize it only under normal sentence/title rules. The canonical display assignment 'The Ground' is unchanged.",
+          "Contextual exceptions": "",
+          "Related entries": "Component of: གཞི་སྣང་",
+          "Rationale and sources": "G, line 144; Related mappings: G lines 145; P1: DECISIONS.md#terminology-clarification-2026-10-04; issue #2 G13; MTP-000012, MTP-000180 and MTP-000181; SMB-000008 and SMB-000018",
+          "Status and open questions": "Established; P1 approved technical capitalization and article treatment only; disputed support/other senses remain open"
+        },
+        "assignment_status": "Existing approved assignment and its complete conditions govern; this does not approve a disputed construction or all labels bundled in an old note.",
+        "application_status": "Scoped contextual application; preserved provisional alternatives remain open, not approved exceptions merely by this record.",
+        "repairs": [
+          {
+            "finding": "PD-015",
+            "pair": "MTP-000180",
+            "exact_tibetan": "གཞི",
+            "before": "ground",
+            "after": "Ground"
+          },
+          {
+            "finding": "PD-015",
+            "pair": "MTP-000181",
+            "exact_tibetan": "གཞི",
+            "before": "ground",
+            "after": "Ground"
+          }
+        ]
+      }
     }
   ],
   "validation": {

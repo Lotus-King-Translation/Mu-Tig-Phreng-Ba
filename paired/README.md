@@ -1,5 +1,11 @@
 # Paired publication
 
+## Current working revision — 2026-10-05
+
+`source.md` remains the byte-for-byte fixed Tibetan prefix. `translation.md` is regenerated from `translations/chapters/NN/translation.md`; do not edit it independently. It now carries the adopted English policy pins and working corrections to the `translation-v1` base edition. Historical release tags and approvals remain immutable. Use `scripts/review_working_text.py build` / `verify` for the working view, not the release-gated assembler. See [the review package](../translations/FINAL-REVIEW.md#phase-d-review). All 674 pairs are reviewed; 140 remain explicitly unresolved.
+
+The earlier release instructions below retain their historical scope.
+
 Canonical content: [Tibetan source](source.md) and [English translation](translation.md), sharing stable pair IDs and order. Read [FORMAT.md](../FORMAT.md) and the [strict pipeline schema](../translations/PIPELINE-SCHEMA.md).
 
 The source is derived exactly from `golden-v1`; its front matter records the fixed commit and SHA-256. Every golden object belongs to one coherent pair. The source alone specifies `format: prose|verse|h1|h2|h3`; English inherits it. Electronic metadata remains separately identified.

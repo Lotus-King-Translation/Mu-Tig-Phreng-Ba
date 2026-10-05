@@ -7,7 +7,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "No exact whole-expression entry; do not infer a Tibetan-etymological paraphrase from the name.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000099; notes T02-001. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "བཅོམ་ལྡན་འདས་",
+        "English": "Blessed One",
+        "Meaning and scope": "English honorific in the full or attested shortened designation. Retain meaningful additions to the designation.",
+        "Allowed grammatical forms": "the Blessed One; vocative Blessed One; capitalize the established honorific, not every descriptive epithet.",
+        "Contextual exceptions": "Do not use Bhagavan/Bhagavān as a competing default. This does not require translating approved proper names.",
+        "Related entries": "རྡོ་རྗེ་འཆང་; full/short honorific forms",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U01; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000007; DTG-001195; MTP-000006; MTP-000033; BMD-000007; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L54",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "བཅོམ་ལྡན་",
@@ -17,7 +34,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Linked proposed longer བཅོམ་ལྡན་འདས; neither proposal is a canonical entry.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000101, MTP-S000105; notes T02-001. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "བཅོམ་ལྡན་",
+        "English": "Blessed One",
+        "Meaning and scope": "English honorific in the full or attested shortened designation. Retain meaningful additions to the designation.",
+        "Allowed grammatical forms": "the Blessed One; vocative Blessed One; capitalize the established honorific, not every descriptive epithet.",
+        "Contextual exceptions": "Do not use Bhagavan/Bhagavān as a competing default. This does not require translating approved proper names.",
+        "Related entries": "རྡོ་རྗེ་འཆང་; full/short honorific forms",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U01; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000007; DTG-001195; MTP-000006; MTP-000033; BMD-000007; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L54",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "གསང་བའི་བདག་པོ་",
@@ -77,7 +111,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "The whole expression does not license reducing standalone ordinary mind.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000102, MTP-S000109; notes T02-001. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "སེམས་ཅན་",
+        "English": "karmic being",
+        "Meaning and scope": "The owner explicitly confirms karmic being, not sentient being, as the project convention. This is an approved complete equivalent, not a word-by-word reconstruction.",
+        "Allowed grammatical forms": "karmic being; karmic beings; preserve source number.",
+        "Contextual exceptions": "Do not revert to sentient being or ordinary-mind possessor because karmic lacks a separate source syllable. Does not replace bare སེམས, every being expression, or imply that karmic beings lack material bodies.",
+        "Related entries": "སེམས་; བེམ་པོ་; བེམས་པོ་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 P2-KB; owner-approved wording/policy, not automatic approval of each historical interpretation; BMD-000055; MTP-000659; Tibetan occurrence: https://github.com/Lotus-King-Translation/Bkra-Shis-Mdzes-Ldan/blob/8965e8b8b89c396c58789ed83984540699c07be9/paired/source.md#L343",
+        "Status and open questions": "Approved P2: current explicit owner correction; not a claim that the earlier book snapshots already used this English; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "ཁྲོ་བོ་",
@@ -107,7 +158,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "No exact headword in the current table; full inventory and component/longer-expression matches checked.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000102, MTP-S000117, MTP-S000132, MTP-S000139, MTP-S000219; notes T02-001. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "འཁོར་བ་",
+        "English": "cyclic existence",
+        "Meaning and scope": "Technical noun in the cyclic-existence/transcendence-of-sorrow contrast.",
+        "Allowed grammatical forms": "cyclic existence; preserve actual modifiers and source relationships.",
+        "Contextual exceptions": "Do not rotate samsara/saṃsāra as chapter defaults. An ordinary turning/circling construction or different འཁོར expression is not automatically this technical noun.",
+        "Related entries": "མྱ་ངན་ལས་འདས་; འཁོར་འདས་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U38; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000486; BMD-000035; BMD-000053; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L3529",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "རྒྱུད་",
@@ -117,7 +185,24 @@
     "Contextual exceptions": "No general default or wider exception established. Canonical རྒྱུད་ → Continuum remains unchanged.",
     "Related entries": "Canonical རྒྱུད → continuum retained at S148; visionary ལུ་གུ་རྒྱུད → vajra chains retains whole-expression precedence.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000220; notes T02-001. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "རྒྱུད་",
+        "English": "Continuum",
+        "Meaning and scope": "Keep the listed 'continuum' entry. Do not assume that the differently written རྒྱུན་ has already been assigned the same English technical term.",
+        "Allowed grammatical forms": "",
+        "Contextual exceptions": "Approved P1: use 'tantra' when the occurrence unambiguously denotes a tantric scripture as a text or textual genre, including titles, colophons, and explicit references to such works. Retain 'continuum' in other applicable senses. Established whole expressions, including ལུ་གུ་རྒྱུད་ → vajra chains, take precedence. An ambiguous occurrence remains a local review question; proximity to a title does not activate this exception.",
+        "Related entries": "",
+        "Rationale and sources": "G, line 188; U2, terminology preservation; G, coverage observation; P1: DECISIONS.md#terminology-clarification-2026-10-04; issue #2 G11; MTP-000005; SMB-000001, SMB-000013 and SMB-000102",
+        "Status and open questions": "Established; རྒྱུན་ is absent from the supplied glossary and requires its own reviewed treatment; P1 approved literary-use exception only; ambiguous senses remain for local review"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "མུ་ཏིག་ཕྲེང་བ་",
@@ -157,7 +242,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Preserve རིག་པ → awareness; distinct from རང་ངོ་ཤེས་པ → self-recognition.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000114, MTP-S000120, MTP-S000167; notes T02-004. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "རང་རིག་",
+        "English": "self-awareness",
+        "Meaning and scope": "Technical self-form where supported; preserve awareness rather than replacing it with knowing or recognition.",
+        "Allowed grammatical forms": "self-awareness; self-aware in an adjectival construction.",
+        "Contextual exceptions": "One’s own awareness where the construction is genuinely possessive. Determine reflexive/possessive relations from the source rather than from a hyphen or a theoretical assumption.",
+        "Related entries": "རིག་པ་; རང་ཤེས་; རང་ངོ་ཤེས་པ་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U44; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-002404; MTP-000037; SMB-000035; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L17046",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "སྙིང་པོ་",
@@ -167,7 +269,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Potential collision with canonical ངོ་བོ → essence; no global synonymy inferred.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000115; notes T02-004. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): ངོ་བོ་ → Essence.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "སྙིང་པོ་",
+        "English": "core",
+        "Meaning and scope": "Owner-favored label; P2 confirms the linked essence/core/pure-extract/quintessence distinctions.",
+        "Allowed grammatical forms": "core; cores; retain meaningful modifiers and relations.",
+        "Contextual exceptions": "Never essence. No general heart or quintessence alternative is activated; any proposed exceptional quintessence use still needs exact conditions and collision review.",
+        "Related entries": "ངོ་བོ་; དངས་མ་; དྭངས་མ་; བཅུད་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U14; owner-approved wording/policy, not automatic approval of each historical interpretation; MTP-000037; MTP-000602; MTP-000608; SMB-000014; Tibetan occurrence: https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/21fb131912bf7ed161c08a70614702764464030d/paired/source.md#L234",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "གདར་ཤ་བཅད་",
@@ -287,7 +406,14 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Do not decompose the whole technical expression using standalone དོན → meaning.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000141; notes T02-011. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Proposed; remains inactive as a shared assignment. Current local family test is in the review report and usage disposition.",
+      "local_test": "Tested together with ཀུན་རྫོབ at all root and linked fragment uses, including 000411–000415 spheres and 000311–000313 two-truth/form constructions. Superfactual and superficial fit several noun/adjective frames but do not settle the entity/form and anatomical-sphere relations. Superficial must not silently assert surface anatomy. Retain the linked provisional pair pending a shared scope decision; this is not a rejection merely for unfamiliar English. Distinct མཐར་ཐུག is excluded.",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "ཀུན་རྫོབ་",
@@ -297,7 +423,14 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "No exact headword in the current table; full inventory and component/longer-expression matches checked.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000141; notes T02-011. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Proposed; remains inactive as a shared assignment. Current local family test is in the review report and usage disposition.",
+      "local_test": "Tested as the same family with དོན་དམ, including the nominal worldly-convention expression and channel/sphere use. Retain a linked provisional treatment until the proposed superficial/superfactual labels have a shared noun/adjective and physical-sphere scope; do not invent an anatomical surface. No new book default.",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "རྐྱེན་སྣང་",
@@ -327,7 +460,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "No exact headword in the current table; full inventory and component/longer-expression matches checked.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000147; notes T02-012. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "དཀྱིལ་འཁོར་",
+        "English": "mandala",
+        "Meaning and scope": "Retained technical loanword, consistently spelled without diacritics.",
+        "Allowed grammatical forms": "mandala; mandalas.",
+        "Contextual exceptions": "Disc for literal geometric uses such as the mirror example. Do not replace every technical occurrence with circle; preserve explicit source explanations of center and surrounding arrangement. This spelling rule does not settle the sense.",
+        "Related entries": "དཀྱིལ་; འཁོར་ (components, not standalone assignments here)",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U26; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000067; MTP-000495; BMD-000050; BMD-000076; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L533",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "བསམ་པ་",
@@ -357,7 +507,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Not རང་མཚན → specifically characterized reality, and not a reification term.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000155, MTP-S000178, MTP-S000182, MTP-S000205; notes T02-013, T02-017, T02-018, T02-022, T02-025. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "དངོས་པོ་",
+        "English": "entity",
+        "Meaning and scope": "Technical noun without automatically restricting the referent to material substance.",
+        "Allowed grammatical forms": "entity; entities.",
+        "Contextual exceptions": "Substance/material substance only in a clearly material context. Thing is not a free chapter-level substitute. Do not infer that every entity is matter under U35.",
+        "Related entries": "དངོས་; དངོས་མེད་; བེམ་པོ་; ངོ་བོ་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U28; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000851; DTG-000520; MTP-000448; SMB-000062; BMD-000022; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L6198",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "རང་གསལ་",
@@ -377,7 +544,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Preserve canonical བྱ་བ → doing and free-from-doing relationship; no new doer metaphysics supplied.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000191; notes T02-020. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "བྱ་བྱེད་",
+        "English": "doing and the doer",
+        "Meaning and scope": "Default only where the two members distinguish action and agent. Preserve both members and their source relationship.",
+        "Allowed grammatical forms": "doing and a/the doer; doing and doers; without doing or a doer, according to number and negation.",
+        "Contextual exceptions": "Doing and making only where the actual construction supports two actions. Do not reduce the pair to actions or invent an agent solely from the glossary noun.",
+        "Related entries": "བྱ་བ་; བྱ་བྲལ་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U17; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-001453; MTP-000057; SMB-000069; BMD-000080; BMD-000095; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L10446",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "བདག་མེད་",
@@ -427,7 +611,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Distinct from specifically characterized reality རང་མཚན.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000206, MTP-S000213; notes T02-022, T02-023. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "མཚན་མ་",
+        "English": "mark",
+        "Meaning and scope": "Default for the recorded standalone mark expression; keep distinct from characteristic.",
+        "Allowed grammatical forms": "mark; marks.",
+        "Contextual exceptions": "Translate longer constructions as constructions. In མཚན་མ་ཚིག, determine the relation rather than mechanically insert the noun mark. Do not rotate signs/characteristics without a source-specific reason.",
+        "Related entries": "མཚན་ཉིད་; རང་མཚན་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U21; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-000025; MTP-000123; BMD-000073; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L203",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "བེམས་པོ་",
@@ -437,7 +638,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Related to proposed བེམ → insentience in S139; spelling not normalized.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000210; notes T02-023. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "བེམས་པོ་",
+        "English": "matter",
+        "Meaning and scope": "Owner-requested concise rendering for the material/non-knowing side of the source contrast. The term does not assert immobility or that karmic beings lack material bodies.",
+        "Allowed grammatical forms": "matter (mass noun); material thing or material things when the source requires a count noun; never matters as its plural.",
+        "Contextual exceptions": "Keep knowing/non-knowing contrasts and body-as-matter similes intelligible. Where matter alone obscures the contrast, explain the non-knowing sense in a source-linked note rather than silently changing the technical default. Do not substitute insentient matter, inert, dead, lifeless or non-karmic being; do not replace every body/entity/substance with matter.",
+        "Related entries": "སེམས་ཅན་; དངོས་པོ་; རིག་པ་; linked attested བེམ་པོ་/བེམས་པོ་ forms",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U35; owner-approved wording/policy, not automatic approval of each historical interpretation; MTP-000062; Tibetan occurrence: https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/21fb131912bf7ed161c08a70614702764464030d/paired/source.md#L404",
+        "Status and open questions": "Approved P2 implementation of the owner’s matter preference, superseding the proposed insentient-matter label; flagged comprehension/interpretation questions remain local; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "སྡེ་སྣོད་",
@@ -477,7 +695,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Distinct from གཟུང་བ → apprehended object, དམིགས་པ → object of focus and གཞལ་བྱ → object of comprehension.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000130, MTP-S000144, MTP-S000147, MTP-S000154, MTP-S000163, MTP-S000176, MTP-S000177, MTP-S000211; notes T02-025. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "ཡུལ་",
+        "English": "object",
+        "Meaning and scope": "What knowing, awareness, a faculty or an activity is directed toward. Do not assume that object terminology asserts an independent external thing.",
+        "Allowed grammatical forms": "object; objects.",
+        "Contextual exceptions": "Domain for a range/sphere within which something occurs; ordinary geographical wording for geographical uses. Field is not a third free technical synonym or automatic choice in contemplation. Keep object of focus complete where that different entry applies.",
+        "Related entries": "དམིགས་པ་; དབྱིངས་; ཞིང་ཁམས་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U27; owner-approved wording/policy, not automatic approval of each historical interpretation; DTG-001047; MTP-000386; MTP-000486; SMB-000056; BMD-000039; Tibetan occurrence: https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/3ae74a2adaa734b6332e64bd2f905f25aec1044a/paired/source.md#L7616",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "ཆོས་",
@@ -527,7 +762,24 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Related proposed དངོས་པོ → entity and adverbial དངོས require construction-level distinctions.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000134; notes T02-025. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "དངོས་མེད་",
+        "English": "nonentity",
+        "Meaning and scope": "Negative entity contrast when supported by the complete construction; not a universal assertion about physical materiality.",
+        "Allowed grammatical forms": "nonentity; nonentities; absence of entities; without entities, according to grammatical scope.",
+        "Contextual exceptions": "Absence of material presence is not the general default. A specifically material sense needs explicit source support. Do not equate differently spelled unresolved forms with this headword.",
+        "Related entries": "དངོས་; དངོས་པོ་; བེམ་པོ་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U28; owner-approved wording/policy, not automatic approval of each historical interpretation; MTP-000448; MTP-000577; MTP-000578; MTP-000581; SMB-000035; Tibetan occurrence: https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/21fb131912bf7ed161c08a70614702764464030d/paired/source.md#L2770",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   },
   {
     "Tibetan": "དངོས་",
@@ -537,6 +789,23 @@
     "Contextual exceptions": "No general default or wider exception established. ",
     "Related entries": "Not automatic equivalence to entity or specifically characterized reality.",
     "Rationale and sources": "golden-v1 @ 4d6ba07e1b3379183633127cd387d98d8195eb95; MTP-S000161, MTP-S000213; notes T02-023, T02-025. Full 222-row eight-column glossary read; all headwords and English outputs searched. Exact-English collision(s): none.",
-    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use."
+    "Status and open questions": "Proposed. Approval required before activation. Review the exact source construction and linked note; uncertainty is retained, not settled by repeated use.",
+    "review_disposition": {
+      "date": "2026-10-05",
+      "reviewer": "GPT-6 Astra Pro / MTP-PhaseD-20261005",
+      "status": "Historical local proposal superseded for the lexical assignment by the active shared row; local construction restrictions/uncertainties remain.",
+      "active_glossary_row": {
+        "Tibetan": "དངོས་",
+        "English": "entity",
+        "Meaning and scope": "Only nominal occurrences where the source supports the same entity referent as the full expression; bare-form analysis remains necessary.",
+        "Allowed grammatical forms": "entity; entities in supported nominal constructions.",
+        "Contextual exceptions": "Actuality, actual or actually where the construction is about actuality or is adverbial; do not force an entity noun. Unresolved དངོས་མ or དངོས་ཏེ constructions are not repaired by this entry.",
+        "Related entries": "དངོས་པོ་; དངོས་མེད་",
+        "Rationale and sources": "P2: DECISIONS.md#terminology-expansion-2026-10-05; issue #1 U28; owner-approved wording/policy, not automatic approval of each historical interpretation; MTP-000448; MTP-000577; SMB-000035; SMB-000058; Tibetan occurrence: https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/21fb131912bf7ed161c08a70614702764464030d/paired/source.md#L2770",
+        "Status and open questions": "Approved P2 default and stated conditions; individual source constructions still require review; approval record: DECISIONS.md#terminology-expansion-2026-10-05"
+      },
+      "policy_commit": "882454cb2576d0b2529296bd7a3a7c87371ab4cf",
+      "review": "translations/FINAL-REVIEW.md#phase-d-review"
+    }
   }
 ]
