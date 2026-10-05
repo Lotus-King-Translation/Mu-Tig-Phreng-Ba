@@ -12,10 +12,11 @@ At the start of a turn or agent handoff:
 4. If there is interrupted, untracked, or unpublished project work, preserve it on a recovery branch before cleanup, reset, regeneration, or synchronization.
 5. Read the phase handoff:
    - edition/golden work: diplomatic/HANDOFF.md
-   - translation work: translations/HANDOFF.md
+   - translation or completed-English review: translations/HANDOFF.md
 6. Read the governing guideline for the task:
    - golden work: guidelines/golden_edition_method.md
-   - translation/QC: guidelines/tibetan_translation_standard_v2.md
+   - translation/QC: guidelines/tibetan_translation_standard_v2.md (Parts I–II)
+   - completed-English review: the same standard, Part III and Part I §8.1
    - paired publication: FORMAT.md
 7. Read editions/REGISTER.csv and all applicable source/provenance records.
 8. Read the current plan, work queue, decisions, coverage, validation, and publication receipts for the exact section being changed.
@@ -24,7 +25,7 @@ At the start of a turn or agent handoff:
 
 Do not begin from memory when the repository contains a newer saved state.
 
-## 2. Three phases and their gates
+## 2. Four phases and their gates
 
 The normal lifecycle is strictly ordered.
 
@@ -45,6 +46,18 @@ Before translating a fixed golden release, establish `paired/source.md` for that
 Translate those fixed source pairs under the active glossary and translation standard into the matching IDs in `paired/translation.md`. Preserve all source-linked uncertainties and notes. The translation inherits `format` from the source pair; do not maintain a competing copy on the English side.
 
 Do not start the next chapter or section while the previous section's required bounded release gate is still open.
+
+### Phase D — post-translation review
+
+When the English working translation is complete, another reviewer checks it under Part III of `guidelines/tibetan_translation_standard_v2.md`. Do not restart translation or reopen the golden edition merely because review found an English problem.
+
+- Freeze the English input commit, fixed Tibetan, pair inventory, reviewer identity and common glossary/standard snapshot. Read current notes and source corrections; do not treat old audit findings as current without checking.
+- Declare review-only or explicitly authorized review-and-revise. Read every pair in source order under Q1–Q9, including titles, closing material and unresolved spans; a glossary scan alone is not a full review.
+- Apply approved entries and shared review controls. Correct minimally when authorized, preserve uncertainty where necessary, and record new shared-label proposals rather than independently changing the book's glossary.
+- Recheck changed clauses and dependent reading outputs. Keep Tibetan, pair IDs and historical releases unchanged. Separate the reviewer's self-check of repairs from the independent review of the input.
+- Save one review package using the existing report/usage records and update `PROJECT-STATUS.md` and `translations/HANDOFF.md`. Record reviewed coverage separately from corrected counts and readiness. Do not create parallel process files, perform an unrelated style rewrite, or stop the whole work on a single unresolved term.
+
+A completed review report is not a clean publication approval. Finish the bounded review with explicit findings/dispositions; apply the existing release gate only when a new release is separately requested. For parallel reviews, each agent owns its assigned work and uses the same pinned policy; the coordinator reconciles shared questions before declaring the set harmonized.
 
 ## 3. Source authority and provenance
 
@@ -118,9 +131,9 @@ Do not count an electronic witness as agreement when its relevant span has not b
 
 Where comparison texts are represented by patches or differences, validate reconstruction by at least two paths when practical, for example minimal-difference and whole-locus reconstruction.
 
-## 7. Translation and QC
+## 7. Translation, QC and post-translation review
 
-At the start of translation or QC, read the active combined standard and the full relevant glossary rows, including status and provenance columns.
+At the start of translation, QC or post-translation review, read the active combined standard and the full relevant glossary rows, including status and provenance columns.
 
 The golden Tibetan governs what the passage says. The glossary governs established English terminology. Neither can be used to silently override the other.
 
@@ -166,6 +179,8 @@ At minimum, the current status and handoff must state:
 - next finite task
 - whether the next chapter or phase has started
 
+For Phase D also record the reviewed English input, reviewer/session, edit authority, inspected and unreviewed pair ranges, findings/dispositions, and revised-output verification. Reuse the existing handoff rather than adding a second status system.
+
 Historical status text must not override the current top-level status.
 
 Do not report accuracy percentages derived from counts.
@@ -185,6 +200,8 @@ Commit and push every substantive batch before starting the next one.
 Use scripts/checkpoint.py for normal staged checkpoints when practical. Each checkpoint report should include fixed completed and remaining counts and the verified remote SHA.
 
 ## 11. Release gate
+
+This gate applies to requested publication, not to merely completing a Phase D review report. Do not manufacture a release or require a new tag for a review-only task.
 
 A bounded release is complete only when all required items pass:
 
