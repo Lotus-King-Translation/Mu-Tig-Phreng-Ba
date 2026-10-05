@@ -2028,3 +2028,7 @@ Fresh remote observations independently match all eight annotated chapter tag ob
 The active glossary, translation standard and governing golden text remain fixed. Proposed terminology remains inactive. This is an agent-produced working edition for human review, with 140 unresolved pairs and 101 preserved source uncertainty statements. The aggregate review adds no fresh whole-book semantic certification, native-image proofreading, commentary decipherment, exhaustive witness collation or independent human certification. The separate chapter reviews and explicit local notes define the scope of the language and source work already performed.
 
 No assembly correction blocker remains. The signoff binds this review, the exact manifest and outputs, the independent review records, the actual unsigned rejection, remote observations, test records and the executing final validator.
+
+## Repair application checkpoint — chapters 1–4
+
+The pre-recorded plan was applied to 46 pairs and 80 existing note definitions in chapters 1–4, with corresponding existing usage/proposal/current-note dispositions. The source, pair IDs, note IDs/order/allocation and historical approvals are unchanged. Current authored-English policy pins now identify the adopted policy. Chapters 5–8 and dependent working views are pending; no release or final self-verification is claimed at this checkpoint.
