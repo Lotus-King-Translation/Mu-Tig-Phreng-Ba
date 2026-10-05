@@ -37,8 +37,8 @@ Every pair, including metadata, opening headings, all source annotations and clo
 | 4 | `MTP-000100`–`MTP-000185` | 86 | 294 | 396 | 5 | `/root/ch04_author` / `/root/ch04_qc` | 000100–000185, all pairs and 396 active notes read; repairs pending |
 | 5 | `MTP-000186`–`MTP-000320` | 135 | 416 | 520 | 16 | `/root/ch05_translate` / `/root/ch05_qc` | 000186–000320, all pairs and 520 active notes read; repairs pending |
 | 6 | `MTP-000321`–`MTP-000452` | 132 | 376 | 435 | 21 | `/root/ch06_translate` / `/root/ch06_qc` | 000321–000452, all pairs and 435 active notes read; repairs pending |
-| 7 | `MTP-000453`–`MTP-000567` | 115 | 342 | 373 | 45 | `/root/ch07_translate` / `/root/ch07_qc` | Not yet reviewed |
-| 8 | `MTP-000568`–`MTP-000674` | 107 | 284 | 421 | 46 | `/root/ch08_translate` / `/root/ch08_qc` | Not yet reviewed |
+| 7 | `MTP-000453`–`MTP-000567` | 115 | 342 | 373 | 45 | `/root/ch07_translate` / `/root/ch07_qc` | 000453–000567, all pairs and 373 active notes read; repairs recorded below |
+| 8 | `MTP-000568`–`MTP-000674` | 107 | 284 | 421 | 46 | `/root/ch08_translate` / `/root/ch08_qc` | 000568–000674, all pairs and 421 active notes read; repairs recorded below |
 
 Total: **674 pairs; 2,053 source objects; 2,597 locally linked notes; 140 input unresolved pairs; 127 nontranslatable metadata pairs.** Pair-status files remain the occurrence-level unresolved inventory. Source roles: 530 main-text, 127 metadata, three headings, nine chapter-colophon, three source-annotation and two work-colophon pairs. The chapter-5 interrupted colophon and chapter-8 narrative, colophons, notices and triple blessing are included.
 
@@ -189,6 +189,1754 @@ At 000403, mandala of awakened mind is supported by the respectful cognitive con
 The explicit counts at 000420 are not harmonized with the differently formulated lamp list at 000421. Its shortened pure-basic-space description lacks the canonical perfectly-pure modifier, and its naturally arising discerning-knowing member lacks an overt lamp noun; do not add either. At 000422 peacock luster (`མདངས`) remains distinct from primordial radiance (`ཡེ་གདངས`) at 000419. Preserve the deliberate **Thig / le** division at 000423–000425 and **Rab / Rang / Byung ba** component explanations at 000428; these are not accidental fragments or new whole-expression defaults. At 000430 fixed `རྒྱུད`, already corrected in golden-v1, is continuum, not the expected-looking `རྒྱང` of the lamp name. Keep the unresolved continuum/stallion/mental-consciousness join and the subject/object attachment at 000431. At 000432 the identity of “the two” is not supplied from an unincorporated small annotation. At 000433 **gold chain** is justified by the expressly physical craftsman simile, while the later technical **vajra chains** in the same stanza remains protected; knowing and being aware stay separate verbs. At 000434 retain exact unresolved `རྣལ་བ`; the following four births and six classes are not normalized into a single count. At 000439 preserve the ordinary-mind component despite awkward genitive syntax. At 000444 the bare middling group is not given an absent faculty noun; at 000445 retain every distributive “each.” At 000446 do not insert named visions. The result referents at 000447–000448 remain explicitly open, while defining characteristic at 000449 is supported by the actual definition. The chapter-six colophon stays separate from the next dialogue.
 
 Continue at **MTP-000453**, chapter 7, then chapter 8. Whole-work terminology consolidation, note/usage reconciliation, corrections, dependent-reader generation and repair self-checks remain. Coverage remains partial; text readiness is not claimed.
+
+## Complete source-order pass and final pre-edit disposition
+
+**All 674/674 pairs, eight chapters, and 2,597/2,597 active note definitions have now been read. There are no unreviewed pair ranges.** This includes all opening material, 127 metadata pairs, the interrupted chapter-five colophon, chapter-eight narrative, work colophon, both final source notices and all three blessing statements. Tibetan-to-English coverage and English-to-Tibetan support were checked under Q1–Q9, with particular attention to the continuations, speakers, agents, cases, negation, conditions, number, modifiers and rhetorical function documented below and in the source-order checkpoints. Apparatus text and previous source audits were read; no claim is made of a new facsimile-image inspection.
+
+The remaining chapters extend the same approved policy only where the actual source supports it. Chapter 7 retains its bodily correspondences, literal flower/fruit similes, separate collection order, school-name variations, speaker changes and source-form uncertainties. Chapter 8 preserves the Ground/core/quintessence and extract distinctions, different kinds of continuum, actual numerical lists, interrupted constructions, unnamed referents, source notices and final repetitions. Their lexical repairs and exact Tibetan/before/after evidence are included in the authoritative occurrence ledger below, not inferred from the old template examples.
+
+### Whole-work construction decisions and important no-change cases
+
+The bidirectional comparison covered the full 283-row/eight-column glossary, its longer expressions, both attested matter spellings, compact and inflected expressions, names/honorifics and the §8.1 families. The complete paired reading preceded concordance searches. Current usage records were inspected structurally and compared by Tibetan key, English realization and source context: **1,601 records / 3,096 source-unit allocations**. Seven initial literal-source mismatches are explicitly marked **print-only insertion; layer unresolved** in chapter 1, not defective root quotations; all other allocations match their linked fixed source spans. Those seven remain in the source-commentary layer. Exact headword searches are evidence only: the case form `གྲུབ་མཐས` at 000271 required a separate grammatical check and is not absent merely because a literal headword search missed it.
+
+The repairs preserve **Blessed One** versus proper **Vajradhara** versus descriptive **holder of the vajra**, and retain other distinct epithets. “Thus-Gone One” and “Thus-Come One” are source-linked English proposals for Tathāgata, not newly approved equivalents. The latter remains visibly provisional at 000019, 000599 and 000668 pending shared honorific reconciliation. The sharp-vajra epithet at 000668 is already present in current English, so an old omission criticism is rejected.
+
+**Matter / karmic being:** all seven actual matter/abbreviated-matter body occurrences are covered, not only the old examples. The source can simultaneously say that karmic beings have bodies and contrast non-knowing matter with awareness. At 000540 matter is the grammatical agent that cannot generate; no missing object or extra being is invented. At 000550 the cognitive verbs support **awakened mind** for standalone `ཐུགས`, while the causal relation remains provisional. The different citta/heart/location construction at 000664 stays exactly unresolved; the new canonical row explicitly does not settle it. The source’s freedom-from-stirring statement is not turned into the definition of matter.
+
+**Mental and state families:** 000212’s five-affliction list matches 000438 and the noose at 000367, supporting local **deluded dullness**, distinct from 000343’s **bewilderment** (`རྨོངས་པ`), ignorance, delusion and established dullness. This includes the print-only affliction-list annotation linked to 000021, without inserting it into the root. **Meditative stability** is supported by the actual state/list constructions at 000135, 000261, 000338, 000451, 000475 and 000482; 000338 expressly distinguishes it from **deep absorption**. These are documented local provisional interpretations, not newly approved shared assignments or an invented meditation hierarchy. All ordinary-mind-itself expressions retain the protected ordinary-mind component. Technical means/discerning-knowing pairings preserve their source order; `ཐབས་ཅིག` together remains excluded.
+
+**Verbal units:** the explicit words/phrases distinction at 000234 and already conforming contrived phrases at 000266 support **phrase** in the twelve repaired mantra/formulation/meaning-versus-phrase constructions, including 000539 and 000625–000630. Generic “put into words” and “in these words” at 000656–000657 remain grammatical speech formulae, not a new competing technical label. Sacred pledge, oral instruction, letter, name, linguistic word and sensory sound remain distinct. Sound at 000505 is retained as a linked contextual question because its varied-appearance and cognitive-object setting does not by itself resolve sound versus linguistic word. The approved sound exception does not decide the separate phrase family.
+
+**Context, not mechanical matching:** keep gesture at 000148/000153 in the bodily enactment sequence; use gestures for explicit limb-turning at 000500 but seals in the generic ritual list at 000480. Keep the separate whole Mahamudra expression. Keep **contents/inhabitants** in the container-world contrasts, not quintessence; keep botanical **fruit** in the actual plant similes, not result. Preserve the split center/surrounding-circle word explanation at 000495 and bare center at 000664 rather than inserting mandala. Preserve actuality at 000062 and material presence in the explicit body/element construction at 000464; the negative-entity contexts at 000577/000578/000581 have no equivalent material restriction. Their separate exact `དངོས་ཏེ` spans, and `དངོས་མ` at 000566, remain unresolved and are not respelled into approved headwords.
+
+P1 **Ground** capitalization applies to the confirmed technical uses in chapter 4. Current compounds such as Ground for expression (000522), Ground of habitual tendencies (000547), Ground of mindfulness (000554) and the heart/Ground relation (000654) retain their linked provisional technical-versus-support interpretation; the row does not make every `གཞི` technical. Physical ground/levels and `ས་གཞི`, all-basis, own place, chapter-setting and source metadata are not altered by a substring match. **Continuum / tantra** remains contextual: titles and explicit textual-genre uses receive the approved tantra exception, while naming/continuity explanations keep continuum. The literary reading at 000259 remains source-linked and provisional rather than silently treated as settled from the neighboring transmission noun. `རྒྱུད་ཆགས` succession, `བརྒྱུད་པ` transmission at 000262, and `རྒྱུན` continuity are different expressions. **Scriptural transmission** is retained in the explicit citation/reasoning/text context at 000197; its unsupported modifier is removed in the state/naming contexts at 000243/000259.
+
+The owner-preferred **superficial / superfactual** pair was tested together across the actual doctrinal, worldly-convention, two-truth, form and sphere/channel uses. Noun/adjective fit alone does not settle the sphere/element/physical-surface implications or open entity/form relations at 000411–000415 and 000311–000313. The existing linked provisional conventional/ultimate treatments remain, with the proposed pair and the required shared scope decision recorded; distinct `མཐར་ཐུག` is excluded. Luminous **luster** is justified narrowly at 000302/000422 and remains a shared proposal, not a spelling change into radiance. Serum/lymph remain an unresolved bodily-fluid family at 000151/000216; the text does not establish modern medical precision.
+
+At 000238/000271, the compact/case-inflected tenet-system noun receives P2. The expanded `གྲུབ་པའི་མཐའ` at 000268 remains a separate establishment/limits/tenets construction and possible wordplay. The chapter-three `ལ་བཟླ` title remains linked to the decisive-resolution versus passing-beyond alternatives: the full row explicitly forbids deciding that title by label preference. Ordinary grasping in compounds/verbs is not mechanically replaced by a nominal apprehending subject; the current locally qualified I-grasping and object-appearance constructions remain separate from the explicit apprehended-object/apprehending-subject pair.
+
+### Closing-material controls and bounded unresolved work
+
+Chapter 7 preserves the expressly written `བྱང་ཆུབ་སེམས` without adding an absent dpa’, the different school-name spellings, the affirmative with-outflows line at 000533, the corpse/space question at 000541, the exact retained `སྔགས་པས`, `དུམ་གཟུགས་ནང་ལུས` and `བག་རྡུལ` spans, and the unspecified mother in 000565. That pair’s “five domains—objects of focus” is retained with its linked construction question: the canonical `དམིགས་པ` row does not alone determine the relation to its additional `ཡུལ` noun. Appearance, object, domain and faculty are not freely interchanged.
+
+Chapter 8 preserves the repeated all-to-all relation, the collective/member repetition in the three cores, the three clarities versus knowing, the first path wording already corrected in golden-v1, and the different sixteen/eighteen-style enumerations without retrofitting an external catalogue. The eighteen listed title-items and the later root/mother-child/limb/transmission-awareness/pith-instruction classifications retain their exact names, source order and unresolved `གསལ་ཤིང`, `རྒྱལ་པོས`, `ཡེ་ཤེས་གསུམ་ཟློག`, `བ་གམ` and ritual spans; no known-work identification is invented. Actual retained spellings and numerical groupings, including sixty-four groups of one hundred thousand, are not emended to a familiar catalogue. Narrative speaker, plural petitioners/singular me, the sixth Vajradhara ordinal, praising versus rejoicing, the final commentary notices and triple blessing remain separate. The two notices are source annotations, not translated root claims or translator commentary.
+
+**Input hard-unresolved pair statuses: 140; planned final hard-unresolved statuses: 140.** Resolving the thugs label at 000550 does not settle its causal construction, so that pair remains unresolved with a more precise reason. Other provisional constructions are not concealed merely because their pair’s status is translated. Exact remaining spans, alternatives and required evidence remain attached through existing notes and pair-status IDs. No whole-work coverage is withheld because one expression is open, and no uncertainty is invented away to claim readiness.
+
+### Candidate reconciliation before editing
+
+The exact occurrence ledger below supersedes earlier checkpoint candidate locations where the current English already conforms. In particular, **000261 already reads oral instructions** and is a no-change case; not every honorific locus mentioned in the early checkpoints contains Bhagavān in the current body. Actual additional matches include Bhagavān at **000356** and the full Emaho at **000262**. Candidate counts are not change counts. All final before/after strings below were extracted and asserted against the frozen current authored English and actual fixed Tibetan before any repair.
+
+### Current note and usage dispositions (PD-028)
+
+Before editing, the planned reconciliation is **268 existing note definitions, 318 existing usage records, and 197 existing local proposal records**. No note IDs or source allocations are added or removed. Original note prose and proposal/approval history remain verbatim; a dated **Phase D current disposition** is appended, and structured `review_disposition` fields identify the current policy and source-specific limits. Existing canonical labels now approved by P1/P2 are not left falsely unapproved. Unlisted names/compounds and open syntactic relations bundled in the same old note are not approved wholesale. The three explicitly updated source-fragment glosses remain in the annotation layer. The eight-column bodies of old proposals and the shared CSV remain unchanged; new shared questions stay grouped in this review rather than a parallel ledger.
+
+The complete active eight-column row is carried in the applicable usage/proposal disposition, not reconstructed from a short English label. Repeated note updates share the preceding rationale. Their exact additions are visible in the authored chapter diff; the location inventory below identifies every affected existing note. Severity: medium for misleading active status or fragment gloss, low for presentation-only status. Confidence: high for adopted assignment/status; explicitly provisional for the §8.1 constructions and listed contextual questions. No original author’s approval is rewritten as approval of these repairs.
+
+### Shared reconciliation queue (not activated glossary entries)
+
+These are local recommendations/open questions for later comparison across the four works, not a claim to have reviewed the other repositories. The primary shared assignment for each remains **Proposed** until explicit owner approval. The owner-preferred superficial/superfactual pair is considered together, not independently replaced word by word.
+
+| Tibetan | English proposal / current local treatment | Meaning and scope | Grammatical forms | Contextual exceptions / open question | Related entries | Evidence / sources | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| `གཏི་མུག་` | deluded dullness | The recorded five-affliction/noose uses | Mass noun in the reviewed lists | Not a graded taxonomy or every dull state | bewilderment; ignorance; delusion; dullness | 000212/000367/000438 and print-only list at 000021; §8.1 U05 | Proposed; local provisional treatment |
+| `བསམ་གཏན་` | meditative stability | Nominal/state use in this work | Abiding in; list/state noun | Do not merge deep absorption or imply a hierarchy | `ཏིང་ངེ་འཛིན་` | Six current occurrences; especially 000135/000338; §8.1 U06 | Proposed; local provisional treatment |
+| `ཚིག་` | phrase | Formulated verbal unit | phrase; phrases | Generic speech formula may use words without assigning a rival technical label | word; name; letter; sacred pledge (excluded compound) | 000234/000266 controls and PD-025 loci; §8.1 U12 | Proposed; scoped local treatment |
+| `མདངས་` | luster | Luminous/visible sheen | luster | Broader splendor needs shared scope; never respell as `གདངས` | radiance; brilliance; splendor | 000302/000422; §8.1 U13 | Proposed; retain narrower rationale |
+| `ཀུན་རྫོབ་` | superficial proposed; conventional/convention retained provisionally | Paired doctrinal/worldly/sphere uses | Noun/adjective treatment unresolved | Do not assert surface anatomy from the English proposal | `དོན་དམ་` | 000043/000077/000313/000411 and linked fragments; §8.1 U10 | Proposed; paired scope decision required |
+| `དོན་དམ་` | superfactual proposed; ultimate retained provisionally | Paired doctrinal/form/sphere uses | Noun/adjective treatment unresolved | Not `མཐར་ཐུག`; preserve open form/entity relations | `ཀུན་རྫོབ་` | 000043/000077/000092/000096/000311/000380/000411–000415; §8.1 U10 | Proposed; paired scope decision required |
+| `དེ་བཞིན་གཤེགས་པ་` | Thus-Gone One; Thus-Come One alternative | English honorific proposal | Singular/plural as source requires | Directional lexical choice not decided by retinue/title syntax | Blessed One (distinct); proper names | 000019/000599/000668; §8.1 U01/U03 | Proposed; Tathāgata visibly provisional |
+| `ཆུ་སེར་` | serum / lymph remain alternatives | Recorded bodily-fluid contexts only | Mass noun | Historical sense evidence needed; avoid invented medical precision | blood; flesh; organs | 000151/000216 and their linked notes | Unresolved shared-label question |
+
+The abbreviated matter/awareness contrast, the thugs/citta construction, the title’s la-bzla verb and support-versus-technical Ground compounds are **construction/documentation questions**, not automatically new shared headwords. Joy-Maker comparisons in other books are outside this repository’s review; no four-work identity or harmony is asserted.
+
+### Exact planned correction ledger (recorded before applying repairs)
+
+Each entry below is one actually changed pair. Tibetan is copied exactly from its source pair; `<br>` represents an existing line break, not resegmentation. The displayed English before/after omits footnote markers only for readability; those markers and all note allocations remain in the authored files. Per-finding severity/confidence and short substitution evidence follow each pair. Unchanged surrounding clauses are included so that scope, agents, negation, number and connectors can be rechecked. This ledger records the proposed repair; subsequent self-check/build results are reported separately and are not a second independent review.
+
+#### MTP-000006 — chapter 1
+
+Location: [`chapters/01/translation.md`](chapters/01/translation.md); fixed source: [`chapters/01/source.md`](chapters/01/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | བཅོམ་ལྡན་འདས་རིག་པའི་བདག་ཉིད་འཁྲུལ་པ་མི་མངའ་བ་ཉིད་ལ་ཕྱག་འཚལ་ལོ |
+| Before | I bow to the Bhagavān, whose very identity is awareness, who has no delusion. |
+| After | I bow to the Blessed One, whose very identity is awareness, who has no delusion. |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000015 — chapter 1
+
+Location: [`chapters/01/translation.md`](chapters/01/translation.md); fixed source: [`chapters/01/source.md`](chapters/01/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན<br>ཆ་ཡིས་མ་བགོས་པའི་གཞལ་ཡས་ཁང་དམ་པ<br>ཐུགས་ཙིཏྟའི་དཀྱིལ་འཁོར་ན |
+| Before | “Thus did I hear at one time. In the sublime palace undivided into parts, in the maṇḍala of the heart (citta), |
+| After | “Thus did I hear at one time. In the sublime palace undivided into parts, in the mandala of the heart (citta), |
+
+- **PD-002**: `དཀྱིལ་འཁོར`; “maṇḍala” → “mandala” (1 occurrence(s)); severity **low**, confidence **high**. P2 mandala spelling, including ordinary plural inflection; no change to the citta/locative construction.
+
+#### MTP-000026 — chapter 1
+
+Location: [`chapters/01/translation.md`](chapters/01/translation.md); fixed source: [`chapters/01/source.md`](chapters/01/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འདུལ་བ་དང<br>མདོ་སྡེ་དང<br>མངོན་པ་ལ་སོགས་པ་དང |
+| Before | Vinaya, Sūtra, Abhidharma, and so forth; |
+| After | discipline, discourse collection, higher doctrine, and so forth; |
+
+- **PD-003**: `འདུལ་བ`; “Vinaya” → “discipline” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+- **PD-003**: `མདོ་སྡེ`; “Sūtra” → “discourse collection” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+- **PD-003**: `མངོན་པ`; “Abhidharma” → “higher doctrine” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+
+#### MTP-000032 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ནས་བཅོམ་ལྡན་འདས་འཁྲུལ་པ་ཐམས་ཅད་དག་པའི་མངའ་བདག་ལ<br>གསང་བའི་བདག་པོ་ལ་སོགས་པའི་རིགས་གསུམ་གྱི་ཁྲོ་བོ་རྣམས་ཀྱིས་འདི་སྐད་ཅེས་གསོལ་ཏེ |
+| Before | Then the wrathful ones of the three families, the Lord of Secrets and the others, addressed the Bhagavān, the sovereign in whom all delusion is pure, in these words: |
+| After | Then the wrathful ones of the three families, the Lord of Secrets and the others, addressed the Blessed One, the sovereign in whom all delusion is pure, in these words: |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000033 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འཁྲུལ་མེད་སྐུ<br>ཁམས་གསུམ་འཁོར་བའི་སེམས་ཅན་རྣམས<br>འཁྲུལ་པ་ལྡོག་ན་ཇི་ལྟར་ལྡོག<br>བདག་ཅག་རྣམས་ལ་བཀའ་སྩལ་ཅིག |
+| Before | “O, O Bhagavān, embodiment without delusion!<br>For the sentient beings of saṃsāra in the three realms,<br>if delusion is reversed, how is it reversed?<br>Please tell us!” |
+| After | “O, O Blessed One, embodiment without delusion!<br>For the karmic beings of cyclic existence in the three realms,<br>if delusion is reversed, how is it reversed?<br>Please tell us!” |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000034 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ནས་བཅོམ་ལྡན་རྡོ་རྗེ་སེམས་དཔའ་དེས<br>ཉེ་བའི་འཁོར་ལ་བཀའ་སྩལ་པ |
+| Before | Then that Bhagavān Vajrasattva<br>spoke to the close retinue: |
+| After | Then that Blessed One Vajrasattva<br>spoke to the close retinue: |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000035 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་མ་ཉོན་ཅིག་གསང་བའི་བདག<br>དང་པོ་གཞི་ལ་འཁྲུལ་མེད་ཀྱང<br>སེམས་ཅན་བློ་ལ་འཁྲུལ་པ་སྟེ<br>དེ་ཡང་རིག་པའི་ཡེ་ཤེས་ཀྱི<br>རྩི་ཡི་དོན་ལ་ཐེབས་གྱུར་ན |
+| Before | “Ah! Listen, Lord of Secrets.<br>Although there is no delusion in the Ground at the beginning,<br>there is delusion in sentient beings’ conceptual minds.<br>If, then, one reaches the meaning of the sap<br>of awareness’s primordial knowing, |
+| After | “Ah! Listen, Lord of Secrets.<br>Although there is no delusion in the Ground at the beginning,<br>there is delusion in karmic beings’ conceptual minds.<br>If, then, one reaches the meaning of the sap<br>of awareness’s primordial knowing, |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000037 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འཁྲུལ་པ་དང་པོའི་གཞི་ལ་ལྡོག<br>རང་རིག་ཡེ་ཤེས་རྟོགས་དཀའ་བ<br>གཞི་ལ་སྙིང་པོ་མི་རྟོག་ཅན<br>འཁྲུལ་པ་གདར་ཤ་བཅད་པའི་ཐབས<br>མ་རིག་འཁོར་བ་འདས་ཤེས་སུ་བདལ |
+| Before | delusion is reversed in the initial Ground.<br>Self-awareness’s primordial knowing is difficult to realize.<br>In the Ground, [there is] an essence endowed with non-conceptuality.<br>The means of conclusively determining delusion:<br>spread ignorance and saṃsāra into [unresolved: འདས་ཤེས]. |
+| After | delusion is reversed in the initial Ground.<br>Self-awareness’s primordial knowing is difficult to realize.<br>In the Ground, [there is] a core endowed with non-conceptuality.<br>The means of conclusively determining delusion:<br>spread ignorance and cyclic existence into [unresolved: འདས་ཤེས]. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-006**: `སྙིང་པོ་མི་རྟོག་ཅན`; “an essence endowed” → “a core endowed” (1 occurrence(s)); severity **medium**, confidence **high**. P2 core for སྙིང་པོ, distinct from essence. Preserve the bracketed copula and non-conceptuality attachment.
+
+#### MTP-000041 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འཁྲུལ་སྣང་ཡུལ་ཕྱུང་རིག་པ་རང<br>དྲན་པ་རྒྱུན་བཅད་ཆོས་སྐུའི་ངང<br>འཁོར་བ་སྤྱི་ཕྱུད་སྐུ་གསུམ་གསལ |
+| Before | Bring forth the object of delusory appearance—awareness itself.<br>Cut the flow of mindfulness—the state of the dharma embodiment.<br>Extract saṃsāra’s quintessence—the three embodiments are clear. |
+| After | Bring forth the object of delusory appearance—awareness itself.<br>Cut the flow of mindfulness—the state of the dharma embodiment.<br>Extract cyclic existence’s quintessence—the three embodiments are clear. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000043 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སྟོང་པ་དངོས་མེད་གསལ་བས་མཛེས<br>དུག་ལྔ་མདོར་ཕྱུང་སྨན་གྱི་ངང<br>མུན་པའི་རྒྱུ་ཟད་སྒྲོན་མ་ཉིད<br>འཁྲུལ་པའི་རྒྱུ་ཟད་ཡེ་ཤེས་གྲོགས<br>གསལ་བའི་སྐུ་འབར་གཉིས་མེད་ངང<br>བེམ་རིག་གཉིས་མེད་འཁོར་བ་སངས<br>དོན་གྱི་ཡེ་ཤེས་གཞི་ལ་ལྡོག<br>དོན་དམ་ཀུན་རྫོབ་གཉིས་མེད་པའི |
+| Before | Empty and without substance, beautiful with clarity;<br>sum up the five poisons—the state of medicine.<br>The cause of darkness exhausted—the lamp itself.<br>The cause of delusion exhausted—primordial knowing as companion.<br>The embodiment of clarity blazes—the nondual state.<br>Insentience and awareness are nondual; saṃsāra is cleared away.<br>The primordial knowing of meaning returns to the Ground,<br>of the nonduality of the ultimate and the conventional—[attachment unresolved]. |
+| After | Empty and without entities, beautiful with clarity;<br>sum up the five poisons—the state of medicine.<br>The cause of darkness exhausted—the lamp itself.<br>The cause of delusion exhausted—primordial knowing as companion.<br>The embodiment of clarity blazes—the nondual state.<br>Matter and awareness are nondual; cyclic existence is cleared away.<br>The primordial knowing of meaning returns to the Ground,<br>of the nonduality of the ultimate and the conventional—[attachment unresolved]. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-007**: `དངོས་མེད`; “without substance” → “without entities” (1 occurrence(s)); severity **medium**, confidence **high**. P2 negative entity family; these empty/clear/entity contrasts do not establish an exclusively material sense. Retain separate exact དངོས་ཏེ uncertainties and all predicates.
+- **PD-008**: `བེམ་རིག`; “Insentience and awareness” → “Matter and awareness” (1 occurrence(s)); severity **medium**, confidence **medium**. P2 matter, a mass noun; the abbreviated བེམ་རིག contrast is a source-supported local construction, not a new glossary headword. Preserve non-knowing/knowing contrast in linked notes, not extra adjectives. No assertion of immobility or bodiless karmic beings.
+
+#### MTP-000044 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་རྟ་མགྲིན་རྒྱལ་པོ་ཉོན<br>སེམས་ཀྱི་གནས་ཕྱུང་ཡེ་ཤེས་ཉིད<br>རྐྱེན་སྣང་ཡུལ་མེད་ཅིག་ཆར་བ<br>འཁྲུལ་པ་ལྡོག་པའི་ལྡོག་ས་ནི<br>ལུ་གུ་རྒྱུད་དུ་ཐམས་ཅད་སངས<br>དྲན་མེད་ཡུལ་གྱི་དཀྱིལ་འཁོར་དུ<br>རྣམ་རྟོག་ལས་གྲོལ་རྒྱུད་ཆེན་གསལ |
+| Before | Ah! Listen, King Hayagrīva.<br>Bring forth the abiding of ordinary mind—primordial knowing itself.<br>Conditioned appearance is without an object, all at once.<br>As for the place of reversal where delusion is reversed:<br>everything is cleared away in the vajra chains.<br>In the maṇḍala of the object without mindfulness,<br>free from differentiating conceptualization, the great continuum is clear. |
+| After | Ah! Listen, King Hayagrīva.<br>Bring forth the abiding of ordinary mind—primordial knowing itself.<br>Conditioned appearance is without an object, all at once.<br>As for the place of reversal where delusion is reversed:<br>everything is cleared away in the vajra chains.<br>In the mandala of the object without mindfulness,<br>free from differentiating conceptualization, the great continuum is clear. |
+
+- **PD-002**: `དཀྱིལ་འཁོར`; “maṇḍala” → “mandala” (1 occurrence(s)); severity **low**, confidence **high**. P2 mandala spelling, including ordinary plural inflection; no change to the citta/locative construction.
+
+#### MTP-000061 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རིག་པ་ཉིད་ཀྱི་ངོ་བོ་ནི<br>སྤྲོ་མེད་བསྡུ་མེད་ངང་དུ་གྲོལ<br>ཆོས་ཀྱི་སྐུ་ཡི་རང་སྣང་ནི<br>ཐད་ཀ་ཙམ་དུ་སྣང་བ་ལས<br>དངོས་པོ་དྲན་བྱེད་ཡིད་ལས་འདས<br>མཚན་མར་སྣང་བ་ཐམས་ཅད་ཀུན<br>སྐྱེ་མེད་ཆོས་སྐུ་ཐོབ་པའོ |
+| Before | The essence of awareness itself<br>is liberated in a state without projection or gathering.<br>The self-appearance of the dharma embodiment<br>merely appears directly;<br>it is beyond the mental faculty that recalls entities.<br>Every appearance as a characteristic, without exception,<br>attains the non-arising dharma embodiment. |
+| After | The essence of awareness itself<br>is liberated in a state without projection or gathering.<br>The self-appearance of the dharma embodiment<br>merely appears directly;<br>it is beyond the mental faculty that recalls entities.<br>Every appearance as a mark, without exception,<br>attains the non-arising dharma embodiment. |
+
+- **PD-009**: `མཚན་མ`; “a characteristic” → “a mark” (1 occurrence(s)); severity **medium**, confidence **high**. P2 mark, not characteristic, for the complete མཚན་མ expression in these appearances/apprehending constructions.
+
+#### MTP-000062 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་ཧོ<br>རིག་པའི་ཡེ་ཤེས་སྣང་མེད་པས<br>བེམས་པོའི་སྣང་བས་ང་མི་བསྒྲིབ<br>སྟོང་པའི་ཆོས་ཉིད་ཡུལ་མེད་པས<br>སྟོང་པ་ཉིད་ལ་ང་མི་གནས<br>མཚན་མར་འཛིན་པ་དངོས་དག་པས<br>འཛིན་པའི་ཆོས་ལ་ང་མི་གནས |
+| Before | Emaho!<br>Since awareness’s primordial knowing has no appearance,<br>the appearance of insentient matter does not obscure me.<br>Since the empty nature of phenomena has no object,<br>I do not abide in emptiness.<br>Since apprehending as characteristics is pure in actuality,<br>I do not abide in the phenomena of the apprehending subject. |
+| After | How wondrous!<br>Since awareness’s primordial knowing has no appearance,<br>the appearance of matter does not obscure me.<br>Since the empty nature of phenomena has no object,<br>I do not abide in emptiness.<br>Since apprehending as marks is pure in actuality,<br>I do not abide in the phenomena of the apprehending subject. |
+
+- **PD-010**: `ཨེ་མ་ཧོ`; “Emaho!” → “How wondrous!” (1 occurrence(s)); severity **low**, confidence **high**. P2 How wondrous! for the full ཨེ་མ་ཧོ exclamation; no added listening imperative.
+- **PD-008**: `བེམས་པོ`; “insentient matter” → “matter” (1 occurrence(s)); severity **medium**, confidence **high**. P2 matter, a mass noun; the abbreviated བེམ་རིག contrast is a source-supported local construction, not a new glossary headword. Preserve non-knowing/knowing contrast in linked notes, not extra adjectives. No assertion of immobility or bodiless karmic beings.
+- **PD-009**: `མཚན་མ`; “characteristics” → “marks” (1 occurrence(s)); severity **medium**, confidence **high**. P2 mark, not characteristic, for the complete མཚན་མ expression in these appearances/apprehending constructions.
+
+#### MTP-000064 — chapter 2
+
+Location: [`chapters/02/translation.md`](chapters/02/translation.md); fixed source: [`chapters/02/source.md`](chapters/02/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཤེས་རབ་ཆེན་པོས་རང་བྱུང་བས<br>སྡེ་སྣོད་ཆོས་ལ་ང་མི་གནས<br>ང་ལ་དགེ་དང་སྡིག་མེད་པས<br>འཁོར་བའི་ཆོས་ལ་ང་མི་གནས |
+| Before | Since [I] arise naturally through great discerning knowing,<br>I do not abide in the teachings of the scriptural collections.<br>Since for me there is neither virtue nor wrongdoing,<br>I do not abide in the phenomena of saṃsāra.” |
+| After | Since [I] arise naturally through great discerning knowing,<br>I do not abide in the teachings of the scriptural collections.<br>Since for me there is neither virtue nor wrongdoing,<br>I do not abide in the phenomena of cyclic existence.” |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000068 — chapter 3
+
+Location: [`chapters/03/translation.md`](chapters/03/translation.md); fixed source: [`chapters/03/source.md`](chapters/03/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་ཀྱེ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང<br>རང་རིག་ཡེ་ཤེས་ཆེན་པོའི་ལུང<br>ངེས་པའི་རྒྱལ་པོས་བཀའ་སྩོལ་ཅིག |
+| Before | “O, O Bhagavān Vajradhara!<br>The authoritative teaching of self-awareness’s great primordial knowing—<br>please bestow [it], king of certainty!” |
+| After | “O, O Blessed One Vajradhara!<br>The transmission of self-awareness’s great primordial knowing—<br>please bestow [it], king of certainty!” |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+- **PD-011**: `ལུང`; “authoritative teaching” → “transmission” (1 occurrence(s)); severity **medium**, confidence **high**. P2 transmission in teaching/naming contexts. Keep source-supported scriptural at 000197, not as an automatic modifier elsewhere; retain continuum/tantra distinctions and open apposition.
+
+#### MTP-000069 — chapter 3
+
+Location: [`chapters/03/translation.md`](chapters/03/translation.md); fixed source: [`chapters/03/source.md`](chapters/03/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ནས་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང<br>མ་བཞུགས་པ་ཡི་སྟན་ལས་ལངས<br>སར་བ་འདུས་ཧ་སྒྲ་བརྗོད་ནས<br>འདུས་པའི་ཚོགས་ལ་བཀའ་སྩལ་པ |
+| Before | Then Bhagavān Vajradhara<br>arose from the seat where he did not abide.<br>Having uttered the word-formula [retained: སར་བ་འདུས་ཧ],<br>he spoke to the assembled gathering: |
+| After | Then Blessed One Vajradhara<br>arose from the seat where he did not abide.<br>Having uttered the word-formula [retained: སར་བ་འདུས་ཧ],<br>he spoke to the assembled gathering: |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000080 — chapter 3
+
+Location: [`chapters/03/translation.md`](chapters/03/translation.md); fixed source: [`chapters/03/source.md`](chapters/03/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་ཀྱེ་གསང་བདག་རྡོ་རྗེ་འཛིན<br>འཁོར་བ་ཉིད་ཀྱི་དོན་རྟོགས་ན<br>མྱ་ངན་འདས་ཞེས་ཡོད་མ་ཡིན<br>ཉོན་མོངས་ལྔ་ཡི་དོན་རྟོགས་ན |
+| Before | O, O, Lord of Secrets, holder of the vajra!<br>If one realizes the meaning of saṃsāra itself,<br>there is no such thing called ‘nirvāṇa.’<br>If one realizes the meaning of the five afflictions, |
+| After | O, O, Lord of Secrets, holder of the vajra!<br>If one realizes the meaning of cyclic existence itself,<br>there is no such thing called ‘transcendence of sorrow.’<br>If one realizes the meaning of the five afflictions, |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `མྱ་ངན་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000083 — chapter 3
+
+Location: [`chapters/03/translation.md`](chapters/03/translation.md); fixed source: [`chapters/03/source.md`](chapters/03/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འབྱུང་ལྔ་ཉིད་ཀྱི་དོན་རྟོགས་ན<br>ཆེན་པོ་ལྔ་ཉིད་བབས་ཀྱིས་འགྲུབ<br>མ་རིག་ཉིད་ཀྱི་རྩད་ཆོད་ན<br>རིག་པའི་སྐུ་ཉིད་མ་བསྒྲུབས་འགྲུབ<br>སེམས་ཅན་ཉིད་ཀྱི་དོན་ཤེས་ན<br>སངས་རྒྱས་ཉིད་ཀྱང་མ་བཙལ་རྙེད<br>སྣ་ཚོགས་སྣང་བའི་དོན་རྟོགས་ན<br>རང་རིག་འོད་སྣང་མ་བཙལ་རྙེད |
+| Before | If one realizes the meaning of the five elements themselves,<br>the five great [ones] are accomplished naturally.<br>If the root of ignorance itself is ascertained,<br>the embodiment of awareness itself is accomplished without being accomplished.<br>If one knows the meaning of sentient beings themselves,<br>buddhas themselves are found without being sought.<br>If one realizes the meaning of varied appearances,<br>the light-appearance of self-awareness is found without being sought. |
+| After | If one realizes the meaning of the five elements themselves,<br>the five great [ones] are accomplished naturally.<br>If the root of ignorance itself is ascertained,<br>the embodiment of awareness itself is accomplished without being accomplished.<br>If one knows the meaning of karmic beings themselves,<br>buddhas themselves are found without being sought.<br>If one realizes the meaning of varied appearances,<br>the light-appearance of self-awareness is found without being sought. |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000087 — chapter 3
+
+Location: [`chapters/03/translation.md`](chapters/03/translation.md); fixed source: [`chapters/03/source.md`](chapters/03/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་ཧོ<br>རང་སྣང་སྟོང་པ་ཉིད་ཀྱི་རྒྱ<br>ཤེས་ཀྱི་རྒྱས་བཏབ་པ་བསྟན |
+| Before | Emaho!<br>Self-appearance—the seal of emptiness itself—<br>is taught as stamped with the seal of knowing. |
+| After | How wondrous!<br>Self-appearance—the seal of emptiness itself—<br>is taught as stamped with the seal of knowing. |
+
+- **PD-010**: `ཨེ་མ་ཧོ`; “Emaho!” → “How wondrous!” (1 occurrence(s)); severity **low**, confidence **high**. P2 How wondrous! for the full ཨེ་མ་ཧོ exclamation; no added listening imperative.
+
+#### MTP-000088 — chapter 3
+
+Location: [`chapters/03/translation.md`](chapters/03/translation.md); fixed source: [`chapters/03/source.md`](chapters/03/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སྟོང་འབྱམས་ཡེ་ཤེས་སྐུ་ཡི་རྒྱ<br>སྣ་ཚོགས་སེམས་ཉིད་རིག་པའི་རྒྱ<br>རྣམ་དག་ཀློང་ཡངས་ཡེ་ཤེས་རྒྱ<br>མཚན་མ་དངོས་དག་རང་རིག་རྒྱ<br>སྣང་བ་རང་རྫོགས་དབྱིངས་ཀྱི་རྒྱ<br>སྤྱོད་པ་རྨད་བྱུང་སྣང་བའི་རྒྱ<br>བསྒོམ་པ་རྨད་བྱུང་སེམས་ཀྱི་རྒྱ |
+| Before | Boundless emptiness—the seal of the embodiment of primordial knowing.<br>Varied ordinary mind itself—the seal of awareness.<br>The perfectly pure, spacious expanse—the seal of primordial knowing.<br>Characteristics pure in actuality—the seal of self-awareness.<br>Appearance complete in itself—the seal of basic space.<br>Wondrous activity—the seal of appearance.<br>Wondrous cultivation—the seal of ordinary mind. |
+| After | Boundless emptiness—the seal of the embodiment of primordial knowing.<br>Varied ordinary mind itself—the seal of awareness.<br>The perfectly pure, spacious expanse—the seal of primordial knowing.<br>Marks pure in actuality—the seal of self-awareness.<br>Appearance complete in itself—the seal of basic space.<br>Wondrous activity—the seal of appearance.<br>Wondrous cultivation—the seal of ordinary mind. |
+
+- **PD-009**: `མཚན་མ`; “Characteristics” → “Marks” (1 occurrence(s)); severity **medium**, confidence **high**. P2 mark, not characteristic, for the complete མཚན་མ expression in these appearances/apprehending constructions.
+
+#### MTP-000091 — chapter 3
+
+Location: [`chapters/03/translation.md`](chapters/03/translation.md); fixed source: [`chapters/03/source.md`](chapters/03/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་ཧོ<br>གསང་བའི་བདག་པོ་ཆེན་པོ་ཉོན<br>གསང་བའི་དབང་ཉིད་རབ་རྫོགས་པ<br>སྙིང་པོ་བཅུད་ཀྱི་གདམས་ངག་འདི<br>སྙིང་པོ་ཉིད་ལ་སྙིང་པོ་བརྟན |
+| Before | Emaho!<br>Listen, great Lord of Secrets.<br>The secret empowerment itself is utterly complete.<br>This instruction of the core’s vital extract—<br>in the core itself, the core is stable. |
+| After | How wondrous!<br>Listen, great Lord of Secrets.<br>The secret empowerment itself is utterly complete.<br>This oral instruction of the core’s quintessence—<br>in the core itself, the core is stable. |
+
+- **PD-010**: `ཨེ་མ་ཧོ`; “Emaho!” → “How wondrous!” (1 occurrence(s)); severity **low**, confidence **high**. P2 How wondrous! for the full ཨེ་མ་ཧོ exclamation; no added listening imperative.
+- **PD-012**: `སྙིང་པོ་བཅུད་ཀྱི་གདམས་ངག་འདི`; “This instruction of the core’s vital extract” → “This oral instruction of the core’s quintessence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 oral instruction and quintessence; preserve the core genitive and repetition. Current 000261 already says oral instructions and needs no repair.
+
+#### MTP-000102 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་ཀྱེ་བཅོམ་ལྡན་ཐུགས་རྗེ་ཅན<br>བདག་ཅག་རང་རིག་རྗེས་མཐུན་ལ<br>ཆོས་ཉིད་དབྱིངས་ཀྱི་བསྟན་པ་གསུངས |
+| Before | “O, O Bhagavān, endowed with compassionate responsiveness!<br>In accord with our self-awareness,<br>speak the teaching of the basic space of the nature of phenomena.” |
+| After | “O, O Blessed One, endowed with compassionate responsiveness!<br>In accord with our self-awareness,<br>speak the teaching of the basic space of the nature of phenomena.” |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000103 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་སྐད་རབ་ཏུ་ཞུས་པ་དང<br>བཅོམ་ལྡན་རྡོ་རྗེ་དཔའ་བོ་དེས<br>ཏིང་ངེ་འཛིན་ལས་བཞེངས་ནས་ནི<br>ཉེ་བའི་འཁོར་ལ་བཀའ་སྩལ་པ |
+| Before | When [he] had thoroughly petitioned in these words,<br>that Bhagavān, the vajra hero,<br>arose from deep absorption<br>and spoke to the nearby retinue: |
+| After | When [he] had thoroughly petitioned in these words,<br>that Blessed One, the vajra hero,<br>arose from deep absorption<br>and spoke to the nearby retinue: |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000105 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཆོས་དབྱིངས་རྒྱན་དང་ལྡན་པའི་ཕྱིར<br>སངས་རྒྱས་ཀུན་གྱི་ཡེ་ཤེས་སྐུ<br>སངས་རྒྱས་སེམས་ཅན་ཀུན་གྱི་དུར<br>ཐེམ་ཞིང་ཡང་དག་དོན་ལ་སྤྱོད |
+| Before | Because the basic space of phenomena is endowed with adornment,<br>the embodiment of the primordial knowing of all buddhas—<br>of all buddhas and sentient beings, [retained: དུར]<br>[retained: ཐེམ་ཞིང]; [it] acts in the authentic meaning. |
+| After | Because the basic space of phenomena is endowed with adornment,<br>the embodiment of the primordial knowing of all buddhas—<br>of all buddhas and karmic beings, [retained: དུར]<br>[retained: ཐེམ་ཞིང]; [it] acts in the authentic meaning. |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000110 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཆོས་ཉིད་ཡངས་པའི་དཀྱིལ་འཁོར་དུ<br>གསང་སྔགས་ཐབས་ཀྱི་སྤྱོད་པ་ནི<br>བཅོམ་ལྡན་རྡོ་རྗེ་སེམས་དཔས་བསྟན |
+| Before | In the vast mandala of the nature of phenomena,<br>the activity of the means of secret mantra<br>was taught by Bhagavān Vajrasattva: |
+| After | In the vast mandala of the nature of phenomena,<br>the activity of the means of secret mantra<br>was taught by Blessed One Vajrasattva: |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000111 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་ཧོ<br>སྣང་བ་ཆེན་པོ་གསལ་བ་ཆེ<br>དག་པའི་ཡེ་ཤེས་འོད་དུ་གསལ<br>ཆོས་ཉིད་སྤྲོས་པ་མེད་པའི་ཀློང<br>འགྱུར་མེད་ཕོ་བྲང་ལྷུན་འབྱམས་འདི<br>སོ་སོར་སྣང་ཞིང་དོན་བྱེད་པས |
+| Before | “Emaho!<br>Great appearance has great clarity.<br>Pure primordial knowing is clear as light.<br>The expanse of the nature of phenomena, without conceptual elaborations—<br>this spontaneously vast, unchanging palace—<br>since [it] appears individually and serves purposes, |
+| After | “How wondrous!<br>Great appearance has great clarity.<br>Pure primordial knowing is clear as light.<br>The expanse of the nature of phenomena, without conceptual elaborations—<br>this spontaneously vast, unchanging palace—<br>since [it] appears individually and serves purposes, |
+
+- **PD-010**: `ཨེ་མ་ཧོ`; “Emaho!” → “How wondrous!” (1 occurrence(s)); severity **low**, confidence **high**. P2 How wondrous! for the full ཨེ་མ་ཧོ exclamation; no added listening imperative.
+
+#### MTP-000115 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ལྟ་བའི་ཡེ་ཤེས་ཐབས་མཁས་པས<br>མ་བསྐྱོད་རྡོ་རྗེ་སེམས་དཔའི་ངང<br>སྣ་ཚོགས་རོལ་པའི་སྐུ་བསྟན་པས<br>རྒྱུན་ཏུ་སྣང་ཞིང་རྣམ་པར་རོལ<br>གསང་སྔགས་ཐབས་ཀྱི་སྒོ་མང་བས<br>ཡིད་ཆེས་གསུམ་གྱིས་རབ་ཏུ་བསྟན |
+| Before | Since the primordial knowing of the view is skilled in means,<br>in the state of unmoved Vajrasattva,<br>since the embodiment of varied play is shown,<br>[it] appears continuously and fully plays.<br>Since the means of secret mantra have many gates,<br>[it] is thoroughly taught through the three assurances. |
+| After | Since the primordial knowing of the view is skilled in means,<br>in the state of unmoved Vajrasattva,<br>since the embodiment of varied play is shown,<br>[it] appears continuously and fully plays.<br>Since the means of secret mantra have many gates,<br>[it] is thoroughly taught through the three convictions. |
+
+- **PD-013**: `ཡིད་ཆེས་གསུམ`; “three assurances” → “three convictions” (1 occurrence(s)); severity **medium**, confidence **high**. P2 three convictions for numbered ཡིད་ཆེས་གསུམ; distinguish confidence, faith and devotion and do not name the three members.
+
+#### MTP-000121 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཆོས་སྐུ་དངོས་པོའི་ལམ་དུ་སྣང<br>དྲི་མ་མེད་པའི་ཡེ་ཤེས་ནི<br>སྟོང་པའི་ཡུལ་གྱི་གནད་དུ་བརྡེག<br>མན་ངག་རྒྱལ་པོ་སྤྱི་བཅིངས་དང<br>ཐམས་ཅད་རང་སྣང་ལྷུན་རྫོགས་པའོ |
+| Before | The dharma embodiment appears on the path of entities.<br>Primordial knowing without stains<br>strikes the vital point of the object of emptiness.<br>The king of pith instruction binds all together, and<br>everything—self-appearance—is spontaneously complete. |
+| After | The dharma embodiment appears on the path of entities.<br>Primordial knowing without stains<br>strikes the key point of the object of emptiness.<br>The king of pith instruction binds all together, and<br>everything—self-appearance—is spontaneously complete. |
+
+- **PD-014**: `གནད`; “vital point” → “key point” (1 occurrence(s)); severity **medium**, confidence **high**. P2 key point; preserve striking/application and the familiarization genitive.
+
+#### MTP-000122 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་ཧོ<br>རྣལ་འབྱོར་ཀུན་གྱི་ལྟ་བ་ནི<br>སེམས་ཀྱི་སྒོ་བཅད་རྣམ་རྟོག་དངས<br>ཁྱིམ་ཡངས་ཕུགས་རྡིབ་མན་ངག་ནི<br>འདོད་པའི་སྒོ་བཅད་ཡེ་ཤེས་ནང་དུ་གསལ |
+| Before | Emaho!<br>As for the view of all yogas:<br>the gate of ordinary mind is closed; differentiating conceptualization clears.<br>The pith instruction: a spacious house, a collapsed interior;<br>with desire’s gate closed, primordial knowing is clear within. |
+| After | How wondrous!<br>As for the view of all yogas:<br>the gate of ordinary mind is closed; differentiating conceptualization clears.<br>The pith instruction: a spacious house, a collapsed interior;<br>with desire’s gate closed, primordial knowing is clear within. |
+
+- **PD-010**: `ཨེ་མ་ཧོ`; “Emaho!” → “How wondrous!” (1 occurrence(s)); severity **low**, confidence **high**. P2 How wondrous! for the full ཨེ་མ་ཧོ exclamation; no added listening imperative.
+
+#### MTP-000126 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་ཧོ<br>རང་རིག་ཡེ་ཤེས་མ་གཡོས་ངང་དུ་ཞོག<br>མ་རིག་པ་ཉིད་ཀློང་དུ་སྐྱོལ<br>འཁོར་བ་ཉིད་ཀྱང་རུ་ནས་བཟློག<br>སྤྱད་པས་མ་ཕྱེད་ཡུལ་དུ་མེད |
+| Before | Emaho!<br>Rest self-awareness’s primordial knowing in an unmoved state.<br>Carry ignorance itself into the expanse.<br>Turn back even saṃsāra [རུ་ནས: locus unresolved].<br>[It] is not distinguished by activity and does not exist as an object. |
+| After | How wondrous!<br>Rest self-awareness’s primordial knowing in an unmoved state.<br>Carry ignorance itself into the expanse.<br>Turn back even cyclic existence [རུ་ནས: locus unresolved].<br>[It] is not distinguished by activity and does not exist as an object. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-010**: `ཨེ་མ་ཧོ`; “Emaho!” → “How wondrous!” (1 occurrence(s)); severity **low**, confidence **high**. P2 How wondrous! for the full ཨེ་མ་ཧོ exclamation; no added listening imperative.
+
+#### MTP-000128 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀུན་གཞི་ལུས་ཀྱི་མེ་ལོང་ལ<br>སྟོང་རིག་གསལ་བའི་གཞི་བསྟན་པས<br>གཞན་བྱུང་འཁྲུལ་པ་གཞི་ལ་བསྐྱལ<br>ཕུང་པོ་ལྔ་ཉིད་རྒྱུ་མེད་པས<br>འཁྲུལ་པའི་ལུས་ནི་མངོན་སངས་རྒྱས |
+| Before | In the mirror of the all-basis body,<br>since the ground of empty, clear awareness is shown,<br>delusion arising from another is brought to the ground.<br>Since the five aggregates themselves are without cause,<br>the body of delusion is manifestly buddha. |
+| After | In the mirror of the all-basis body,<br>since the Ground of empty, clear awareness is shown,<br>delusion arising from another is brought to the Ground.<br>Since the five aggregates themselves are without cause,<br>the body of delusion is manifestly buddha. |
+
+- **PD-015**: `གཞི`; “ground” → “Ground” (2 occurrence(s)); severity **low**, confidence **high**. P1 capital Ground / Ground-appearance for these explicitly technical uses; no change to ordinary physical ground, levels or disputed support compounds.
+
+#### MTP-000130 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འབྱུང་བ་ལྔ་ཉིད་ཡེ་དངས་པས<br>སྣང་བ་འོད་གསལ་གཉིད་དུ་གྲོལ<br>དབང་པོ་ལྔ་ཉིད་ཅེར་བཞག་པས<br>འཛིན་པའི་ཡུལ་ལྔ་རང་སར་གྲོལ<br>ཉོན་མོངས་ལྔ་ཉིད་རང་ཡིན་པས<br>ཁམས་གསུམ་ཉིད་ནི་གཞི་ལ་བསྐྱལ |
+| Before | Since the five elements themselves are primordially clarified,<br>appearance is liberated into clear-light sleep.<br>Since the five faculties themselves are left in naked resting,<br>the five objects of the apprehending subject are liberated in their own place.<br>Since the five afflictions themselves are [one’s] own,<br>the three realms themselves are brought to the ground. |
+| After | Since the five elements themselves are primordially clarified,<br>appearance is liberated into clear-light sleep.<br>Since the five faculties themselves are left in naked resting,<br>the five objects of the apprehending subject are liberated in their own place.<br>Since the five afflictions themselves are [one’s] own,<br>the three realms themselves are brought to the Ground. |
+
+- **PD-015**: `གཞི`; “ground” → “Ground” (1 occurrence(s)); severity **low**, confidence **high**. P1 capital Ground / Ground-appearance for these explicitly technical uses; no change to ordinary physical ground, levels or disputed support compounds.
+
+#### MTP-000135 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | མེད་པའི་འཕྲོ་འདུ་ཡེ་སྟོང་པས<br>ཡེ་ནས་བསམ་གཏན་ཆེན་པོར་གནས<br>དྲི་མ་རྣམས་ནི་རང་དག་པས<br>དྲི་མེད་ཟང་ཐལ་ཆེན་པོར་གནས<br>བྱས་པ་བྱུང་བ་མེད་པའི་ཕྱིར<br>ཐོག་མ་ཉིད་ནས་བྱ་བྱེད་བྲལ |
+| Before | Since the proliferating and gathering of nonexistence are primordially empty,<br>[one] abides in great meditative concentration from the beginning.<br>Since the stains are self-purified,<br>[one] abides in great stainless unimpeded penetration.<br>Because what is done has not arisen,<br>[one is] free from doing and the doer from the outset. |
+| After | Since the proliferating and gathering of nonexistence are primordially empty,<br>[one] abides in great meditative stability from the beginning.<br>Since the stains are self-purified,<br>[one] abides in great stainless unimpeded penetration.<br>Because what is done has not arisen,<br>[one is] free from doing and the doer from the outset. |
+
+- **PD-023**: `བསམ་གཏན་ཆེན་པོར་གནས`; “meditative concentration” → “meditative stability” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 local meditative-stability proposal tested against state grammar (abides in) and the six actual occurrences, especially the separate deep absorption at 000338. Local provisional construction decision, not a newly approved shared entry.
+
+#### MTP-000136 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | གཞི་ནས་གཞན་འབྱུང་ཆོས་མེད་པས |
+| Before | Since, from the ground, no phenomena arise from another, |
+| After | Since, from the Ground, no phenomena arise from another, |
+
+- **PD-015**: `གཞི`; “ground” → “Ground” (1 occurrence(s)); severity **low**, confidence **high**. P1 capital Ground / Ground-appearance for these explicitly technical uses; no change to ordinary physical ground, levels or disputed support compounds.
+
+#### MTP-000139 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འཁོར་བ་རྒྱུ་མེད་འགགས་ཟིན་པས<br>ཡེ་ནས་སངས་རྒྱས་ཉིད་ཀྱི་ས<br>མཚན་མའི་དངོས་པོ་སྟོང་སངས་པས<br>བདག་འཛིན་བློ་ནི་ཡེ་ནས་ཟད<br>རྐྱེན་རྣམས་རྐྱེན་གྱིས་རང་གྲོལ་བས<br>ལྟོས་ཆོས་རྣམས་ནི་ཅོག་བཞག་པའོ |
+| Before | Since saṃsāra, without cause, has already ceased,<br>[there is] the level of buddha itself from the beginning.<br>Since entities of marks are emptied and cleared away,<br>the self-grasping conceptual mind is exhausted from the beginning.<br>Since conditions are self-liberated by conditions,<br>dependent phenomena are left as they are.” |
+| After | Since cyclic existence, without cause, has already ceased,<br>[there is] the level of buddha itself from the beginning.<br>Since entities of marks are emptied and cleared away,<br>the self-grasping conceptual mind is exhausted from the beginning.<br>Since conditions are self-liberated by conditions,<br>dependent phenomena are left as they are.” |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000144 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་དེ་ལྟར་སྣང་བ་རྣམས<br>འཁྲུལ་པ་ཉིད་ཀྱང་རང་གྲོལ་ན<br>འཁྲུལ་མེད་སྣང་བ་ཅིས་མི་གྲོལ<br>ཇི་ལྟར་སྨྲ་དང་བྱ་བྱེད་རྣམས<br>སྟོང་རིག་གསལ་བའི་སྤྱོད་པ་ཡིན |
+| Before | “Ema! If appearances such as those,<br>even delusion itself, are self-liberated,<br>why are appearances free from delusion not liberated?<br>Whatever the speaking, and all doing and doers,<br>are the activity of clear empty awareness. |
+| After | “Ah! If appearances such as those,<br>even delusion itself, are self-liberated,<br>why are appearances free from delusion not liberated?<br>Whatever the speaking, and all doing and doers,<br>are the activity of clear empty awareness. |
+
+- **PD-027**: `ཨེ་མ`; “Ema!” → “Ah!” (1 occurrence(s)); severity **low**, confidence **medium**. Local rendering of short ཨེ་མ as Ah!, tested with 000044/000625/000645. Retain the short/full source distinction; do not treat this as a new canonical entry or silently equate it with the full wonder formula.
+
+#### MTP-000149 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཇི་ལྟར་སྨྲས་པ་སྔགས་ཀྱི་ཚིག<br>བསམ་པ་རྣམས་ནི་བསྐྱེད་རིམ་ཡིན<br>ཡིད་ལ་འགྱུ་བ་མཆོད་པ་ཉིད<br>གཟུགས་སུ་སྣང་བ་ལྷ་ཡི་སྐུ<br>སྒྲ་ཆེན་བརྗོད་པ་རོལ་མོ་ཉིད |
+| Before | Whatever is spoken is a word of mantra.<br>Acts of thinking are the generation stage.<br>Movement in the mental faculty is offering itself.<br>Appearance as form is the deity’s embodiment.<br>The utterance of loud sound is music itself. |
+| After | Whatever is spoken is a phrase of mantra.<br>Acts of thinking are the generation stage.<br>Movement in the mental faculty is offering itself.<br>Appearance as form is the deity’s embodiment.<br>The utterance of loud sound is music itself. |
+
+- **PD-025**: `ཚིག`; “a word of mantra” → “a phrase of mantra” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000152 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འདའ་བར་འདོད་པ་དམ་ཚིག་ལ<br>བསྲུང་བར་འདོད་པ་བཅིངས་པ་ཉིད<br>དགྲོལ་བར་འདོད་པ་ཉམས་པ་སྟེ<br>མེད་པར་འདོད་པ་ཐུབ་མཆོག་ཡིན |
+| Before | The desire to transgress is samaya;<br>the desire to guard is bondage itself.<br>The desire to liberate is deterioration;<br>the desire for absence is the supreme sage. |
+| After | The desire to transgress is sacred pledge;<br>the desire to guard is bondage itself.<br>The desire to liberate is deterioration;<br>the desire for absence is the supreme sage. |
+
+- **PD-016**: `དམ་ཚིག`; “samaya” → “sacred pledge” (1 occurrence(s)); severity **medium**, confidence **high**. P2 sacred pledge; preserve contrast with empowerment and vows, transgression/guarding and negative/rhetorical function.
+
+#### MTP-000155 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཤེས་རིག་གསལ་བ་གདམས་ངག་ལ<br>ཡུལ་སེམས་གཉིས་འདུས་གདབ་པའི་ཡུལ<br>སྐྱེ་རྒས་ན་འཆི་གོམས་པའི་གནད<br>ཚོགས་དྲུག་མ་འགགས་རྟོགས་པའོ |
+| Before | Clear knowing-awareness is instruction;<br>object and ordinary mind gathered together are the object of application.<br>Birth, aging, sickness, and death are the vital point of familiarization.<br>The unceasing six collections are realization.” |
+| After | Clear knowing-awareness is oral instruction;<br>object and ordinary mind gathered together are the object of application.<br>Birth, aging, sickness, and death are the key point of familiarization.<br>The unceasing six collections are realization.” |
+
+- **PD-012**: `གདམས་ངག`; “is instruction” → “is oral instruction” (1 occurrence(s)); severity **medium**, confidence **high**. P2 oral instruction and quintessence; preserve the core genitive and repetition. Current 000261 already says oral instructions and needs no repair.
+- **PD-014**: `གནད`; “vital point” → “key point” (1 occurrence(s)); severity **medium**, confidence **high**. P2 key point; preserve striking/application and the familiarization genitive.
+
+#### MTP-000161 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | བསྐྱོད་ཅིང་དངས་སྙིགས་འབྱེད་པར་གྲོལ<br>ས་ནི་སྐྱེད་བྱེད་བདེགས་པས་ན<br>དངོས་མེད་མཐའ་ཡས་སྟོང་པར་གྲོལ<br>ཆུ་ནི་སྡུད་བྱེད་རླན་པས་ན<br>སྲེག་བྱེད་སྨིན་པའི་ལས་སུ་གྲོལ |
+| Before | [it] is liberated as moving and separating the refined portion and dregs.<br>Since earth generates and supports,<br>[it] is liberated as insubstantial, limitless emptiness.<br>Since water gathers and moistens,<br>[it] is liberated as the work of burning and ripening. |
+| After | [it] is liberated as moving and separating the pure extract and residue.<br>Since earth generates and supports,<br>[it] is liberated as limitless emptiness without entities.<br>Since water gathers and moistens,<br>[it] is liberated as the work of burning and ripening. |
+
+- **PD-007**: `དངོས་མེད`; “insubstantial, limitless emptiness” → “limitless emptiness without entities” (1 occurrence(s)); severity **medium**, confidence **high**. P2 negative entity family; these empty/clear/entity contrasts do not establish an exclusively material sense. Retain separate exact དངོས་ཏེ uncertainties and all predicates.
+- **PD-017**: `དངས་སྙིགས`; “refined portion and dregs” → “pure extract and residue” (1 occurrence(s)); severity **medium**, confidence **high**. P2 pure extract / pure extract and residue; both members and source-supported number preserved, distinct from essence/core/quintessence and unresolved དངོས་མ.
+
+#### MTP-000172 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་མ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང<br>སྣོད་འཇིག་རྟེན་ཀྱང་གྲོལ་གྱུར་བས<br>བཅུད་ཀྱི་སེམས་ཅན་ཅིས་མི་གྲོལ<br>སེམས་ཅན་གྲོལ་བ་རྣམས་ལ་དོན་མེད་འགྱུར<br>ཡང་ན་གྲོལ་བ་དེ་དག་ཀུན |
+| Before | “O Bhagavān Vajradhara!<br>Since even the container-world has become liberated,<br>why are its contents, sentient beings, not liberated?<br>For liberated sentient beings, [this] would become meaningless.<br>Or are all those liberated ones |
+| After | “O Blessed One Vajradhara!<br>Since even the container-world has become liberated,<br>why are its contents, karmic beings, not liberated?<br>For liberated karmic beings, [this] would become meaningless.<br>Or are all those liberated ones |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (2 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000174 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འབད་པ་མེད་པར་གྲོལ་ལམ་ཅི<br>འབད་པས་གྲོལ་ན་བེམ་པོ་ནི<br>གྲོལ་བར་རིགས་པ་མ་ལགས་ན<br>སེམས་ཅན་གྲོལ་བ་ཇི་ལྟར་གྲོལ |
+| Before | liberated without effort—or what?<br>If liberation is through effort, and the inert<br>are not reasonably to be liberated,<br>as for the liberation of sentient beings, how are they liberated?” |
+| After | liberated without effort—or what?<br>If liberation is through effort, and matter<br>is not reasonably to be liberated,<br>as for the liberation of karmic beings, how are they liberated?” |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+- **PD-008**: `བེམ་པོ་ནི<br>གྲོལ་བར་རིགས་པ་མ་ལགས་ན`; “and the inert<br>are not reasonably” → “and matter<br>is not reasonably” (1 occurrence(s)); severity **medium**, confidence **high**. P2 matter, a mass noun; the abbreviated བེམ་རིག contrast is a source-supported local construction, not a new glossary headword. Preserve non-knowing/knowing contrast in linked notes, not extra adjectives. No assertion of immobility or bodiless karmic beings.
+
+#### MTP-000175 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ |
+| Before | The Bhagavān spoke: |
+| After | The Blessed One spoke: |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000180 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | མངལ་གྱི་ལྷུམས་སུ་ཚུད་པ་ནི<br>རང་རིག་གཞི་ནས་སྣང་བར་ཤར<br>བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ<br>ཟླ་བཅུ་ས་རྣམས་བགྲོད་པ་ཉིད |
+| Before | Entry into the enclosure of the womb<br>is self-awareness arising as appearance from the ground.<br>[It is] the measure of realization of seven groups of seven.<br>Ten months—traversing the levels themselves. |
+| After | Entry into the enclosure of the womb<br>is self-awareness arising as appearance from the Ground.<br>[It is] the measure of realization of seven groups of seven.<br>Ten months—traversing the levels themselves. |
+
+- **PD-015**: `གཞི`; “ground” → “Ground” (1 occurrence(s)); severity **low**, confidence **high**. P1 capital Ground / Ground-appearance for these explicitly technical uses; no change to ordinary physical ground, levels or disputed support compounds.
+
+#### MTP-000181 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | བཙས་པ་ཉིད་ནི་སྐུར་བཞེངས་ཏེ<br>ལུས་བསྐྱེད་པ་ནི་གཞི་སྣང་ཡུལ<br>ལུས་སུ་གནས་པ་གཞི་ཡིན་ཏེ<br>རྒས་པ་དག་ནི་འཁྲུལ་པ་སངས<br>ན་བ་ཉིད་ནི་རྟོགས་པའི་གདིང<br>ཤི་བས་ཆོས་ཉིད་སྟོང་པར་གྲོལ |
+| Before | Birth itself is arising as embodiment.<br>The body’s growth is the object of ground-appearance.<br>Abiding in the body is the ground.<br>Aging is delusion clearing away.<br>Sickness itself is the confidence of realization.<br>Through death, [one] is liberated into the empty nature of phenomena. |
+| After | Birth itself is arising as embodiment.<br>The body’s growth is the object of Ground-appearance.<br>Abiding in the body is the Ground.<br>Aging is delusion clearing away.<br>Sickness itself is the confidence of realization.<br>Through death, [one] is liberated into the empty nature of phenomena. |
+
+- **PD-015**: `གཞི`; “ground” → “Ground” (2 occurrence(s)); severity **low**, confidence **high**. P1 capital Ground / Ground-appearance for these explicitly technical uses; no change to ordinary physical ground, levels or disputed support compounds.
+
+#### MTP-000182 — chapter 4
+
+Location: [`chapters/04/translation.md`](chapters/04/translation.md); fixed source: [`chapters/04/source.md`](chapters/04/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ལྟར་གཟུགས་སུ་སེམས་ཅན་ཏེ<br>འབད་པ་མེད་པར་ཡེ་ནས་གྲོལ<br>ཨེ་མ་སྤྱོད་བསམ་བསྒྱུར་སྣང་བ་གྲོལ<br>བསྒོམས་པས་མ་བཅོས་ཆོས་ཅན་གྲོལ |
+| Before | Thus, sentient beings in form<br>are primordially liberated without effort.<br>Ema! Activity, thinking, transformation—appearance is liberated.<br>Uncontrived by cultivation, the bearer of phenomena is liberated. |
+| After | Thus, karmic beings in form<br>are primordially liberated without effort.<br>Ah! Activity, thinking, transformation—appearance is liberated.<br>Uncontrived by cultivation, the bearer of phenomena is liberated. |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+- **PD-027**: `ཨེ་མ`; “Ema!” → “Ah!” (1 occurrence(s)); severity **low**, confidence **medium**. Local rendering of short ཨེ་མ as Ah!, tested with 000044/000625/000645. Retain the short/full source distinction; do not treat this as a new canonical entry or silently equate it with the full wonder formula.
+
+#### MTP-000188 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་ཀྱེ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང<br>སངས་རྒྱས་ཀུན་གྱི་རང་བཞིན་གང<br>སེམས་ཅན་རྣམས་ལ་ཇི་ལྟར་གནས |
+| Before | “O, O Bhagavān Vajradhara!<br>What is the intrinsic nature of all buddhas?<br>How does it abide in sentient beings? |
+| After | “O, O Blessed One Vajradhara!<br>What is the intrinsic nature of all buddhas?<br>How does it abide in karmic beings? |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000200 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ལ་དཀྱིལ་འཁོར་ཡོད་པ་མིན<br>ལྷ་མེད་སྐྱེད་པའི་ས་བོན་མེད<br>སྔགས་དང་ཕྱག་རྒྱས་ཅི་ཞིག་བྱ<br>མཆོད་པ་ལ་སོགས་སྤྲོ་མི་དགོས<br>དབང་དང་དམ་ཚིག་ག་ལ་ཡོད |
+| Before | There is no mandala in that;<br>there is no deity, no seed of generation.<br>What would one do with mantra and seals?<br>There is no need to elaborate offerings and the like.<br>Where are empowerment and commitments? |
+| After | There is no mandala in that;<br>there is no deity, no seed of generation.<br>What would one do with mantra and seals?<br>There is no need to elaborate offerings and the like.<br>Where are empowerment and sacred pledges? |
+
+- **PD-016**: `དམ་ཚིག`; “commitments” → “sacred pledges” (1 occurrence(s)); severity **medium**, confidence **high**. P2 sacred pledge; preserve contrast with empowerment and vows, transgression/guarding and negative/rhetorical function.
+
+#### MTP-000203 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ནི་ཡིན་འགྲོ་བའང་ཡིན<br>སེམས་ཡིན་སེམས་ལས་བྱུང་བ་སྟེ<br>དུ་མ་ཡིན་ལ་ཉག་གཅིག་ཡིན<br>འཁོར་དང་མྱང་འདས་ང་རང་ཡིན |
+| Before | It is that, and is also beings;<br>it is ordinary mind and what arises from ordinary mind.<br>It is many, and it is unique;<br>I myself am saṃsāra and nirvāṇa. |
+| After | It is that, and is also beings;<br>it is ordinary mind and what arises from ordinary mind.<br>It is many, and it is unique;<br>I myself am cyclic existence and transcendence of sorrow. |
+
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `མྱང་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000212 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དང<br>ང་རྒྱལ་ཕྲག་དོག་ལ་སོགས་ནི<br>དེ་ཉིད་ལས་ནི་ཆོ་འཕྲུལ་འབྱུང |
+| Before | Desire, hatred, bewilderment,<br>pride, jealousy, and the like—<br>magical display arises from that itself. |
+| After | Desire, hatred, deluded dullness,<br>pride, jealousy, and the like—<br>magical display arises from that itself. |
+
+- **PD-024**: `གཏི་མུག`; “bewilderment” → “deluded dullness” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 local deluded-dullness proposal: 000212 and 000438 share the five-affliction list; 000367 confirms the same term. Keep རྨོངས་པ bewilderment, ignorance, delusion and established dullness distinct. Not approval of other unlisted affliction labels.
+
+#### MTP-000220 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་ཁྲོ་བདག་དེ་ལྟར་གནས་པའི་ཆོས་ཉིད་ལ<br>འཁྲུལ་པ་གདོད་ནས་མེད་པ་སྟེ<br>ཆོས་སྐུ་ནམ་མཁའ་ལྟ་བུ་ལ<br>གློ་བུར་སེམས་ཅན་སྤྲིན་གྱིས་བསྒྲིབས |
+| Before | O lord of wrathful ones, in the nature of phenomena abiding in this way,<br>there is no delusion from the beginning.<br>The dharma embodiment, like space,<br>is obscured by adventitious clouds of sentient beings. |
+| After | O lord of wrathful ones, in the nature of phenomena abiding in this way,<br>there is no delusion from the beginning.<br>The dharma embodiment, like space,<br>is obscured by adventitious clouds of karmic beings. |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000238 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | མ་བུ་འཕྲད་པས་སྤྲུལ་སྐུར་བྱུང<br>རྟགས་སུ་ཡོད་པས་ཐབས་སུ་བྱུང<br>བསམ་འདས་ཡིན་པས་དྲན་པ་སངས<br>རྟག་ཆད་མེད་པས་གྲུབ་མཐའ་རྫོགས |
+| Before | Because mother and child meet, [it] arises as emanation embodiment;<br>because [it] exists as a sign, [it] arises as means.<br>Because [it] is beyond thinking, mindfulness clears;<br>because there is no permanence or annihilation, philosophical tenets are complete. |
+| After | Because mother and child meet, [it] arises as emanation embodiment;<br>because [it] exists as a sign, [it] arises as means.<br>Because [it] is beyond thinking, mindfulness clears;<br>because there is no permanence or annihilation, tenet systems are complete. |
+
+- **PD-019**: `གྲུབ་མཐའ`; “philosophical tenets” → “tenet systems” (1 occurrence(s)); severity **medium**, confidence **high**. P2 tenet systems: actual organized positions and their sustaining function at 000238/000271; remove unsupported philosophical. The expanded 000268 construction stays provisional.
+
+#### MTP-000243 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | མ་ལུས་རྫོགས་པས་འབྲས་བུ་ཉིད<br>དམིགས་པ་དག་པས་ལམ་ཞེས་བྱ<br>འཁྲུལ་པ་ཟད་པས་ལུང་ཡང་ཡིན<br>ཡེ་ནས་གནས་པས་རྒྱུད་ཅེས་བྱ<br>མཚོན་དུ་ཡོད་པས་མན་ངག་ཡིན<br>གྲངས་ལས་འདས་པས་རྩིས་ཞེས་བྱ |
+| Before | Because [it] is complete without remainder, [it] is the result itself;<br>because objects of focus are pure, [it] is called “path.”<br>Because delusion is exhausted, [it] is also scriptural transmission;<br>because [it] abides primordially, [it] is called “continuum.”<br>Because [it] can be indicated, [it] is pith instruction;<br>because [it] is beyond number, [it] is called “reckoning.” |
+| After | Because [it] is complete without remainder, [it] is the result itself;<br>because objects of focus are pure, [it] is called “path.”<br>Because delusion is exhausted, [it] is also transmission;<br>because [it] abides primordially, [it] is called “continuum.”<br>Because [it] can be indicated, [it] is pith instruction;<br>because [it] is beyond number, [it] is called “reckoning.” |
+
+- **PD-011**: `ལུང`; “scriptural transmission” → “transmission” (1 occurrence(s)); severity **medium**, confidence **high**. P2 transmission in teaching/naming contexts. Keep source-supported scriptural at 000197, not as an automatic modifier elsewhere; retain continuum/tantra distinctions and open apposition.
+
+#### MTP-000247 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སྤྲོ་བསྡུ་མེད་པས་ཁྱུང་ཆེན་འདྲ<br>ལྟ་བའི་རྩལ་རྫོགས་སེང་གེ་བཞིན<br>གཏིང་རྫོགས་ཁྱབ་པས་རྒྱ་མཚོ་འདྲ<br>རང་བྱུང་གྲོལ་བས་ནམ་མཁའ་བཞིན<br>ཐམས་ཅད་བརྟེན་པས་ས་གཞི་འདྲ<br>ཡུལ་རྣམས་ཀུན་ལས་ཁྱད་པར་འཕགས |
+| Before | Because there is no elaboration or withdrawal, [it] is like a great garuḍa;<br>complete in the expressiveness of view, [it] is like a lion.<br>Because [it] pervades with complete depth, [it] is like the ocean;<br>naturally arising and liberated, [it] is like space.<br>Because everything rests upon [it], [it] is like the earth;<br>[it] is exceptionally exalted above all objects. |
+| After | Because there is no projection or gathering, [it] is like a great garuḍa;<br>complete in the expressiveness of view, [it] is like a lion.<br>Because [it] pervades with complete depth, [it] is like the ocean;<br>naturally arising and liberated, [it] is like space.<br>Because everything rests upon [it], [it] is like the earth;<br>[it] is exceptionally exalted above all objects. |
+
+- **PD-018**: `སྤྲོ་བསྡུ`; “no elaboration or withdrawal” → “no projection or gathering” (1 occurrence(s)); severity **medium**, confidence **high**. P2 projecting/gathering pair; preserve both source actions and negative scope. Do not replace distinct proliferating-and-gathering or bare elaboration expressions.
+
+#### MTP-000252 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རྒྱུ་ཉིད་རྒྱུ་ཡིས་གྲོལ་བ་ལ<br>འཁོར་འདས་གཉིས་ལང་མི་ལྟོས<br>ཆོས་ནི་ཆོས་ཀྱིས་གྲོལ་བ་ལ<br>ཐ་སྙད་ཚིག་ལ་ང་མི་ལྟོས |
+| Before | When the cause itself is liberated through the cause,<br>[there is] no dependence on saṃsāra and nirvāṇa, the two—[retained: ལང].<br>When phenomena are liberated through phenomena,<br>I do not depend on words of designation. |
+| After | When the cause itself is liberated through the cause,<br>[there is] no dependence on cyclic existence and transcendence of sorrow, the two—[retained: ལང].<br>When phenomena are liberated through phenomena,<br>I do not depend on phrases of designation. |
+
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-025**: `ཚིག`; “words of designation” → “phrases of designation” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000259 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རང་ས་ཡིན་ཕྱིར་རྒྱུ་རྐྱེན་རྫོགས<br>རང་གིས་རྟོགས་ཕྱིར་ཆོས་ཉིད་རྫོགས<br>རང་ལོག་ཡིན་ཕྱིར་འཁོར་འདས་རྫོགས<br>རང་གནས་ཡིན་ཕྱིར་རྒྱུད་ལུང་རྫོགས<br>རང་རྫོགས་ཡིན་ཕྱིར་དུས་གཅིག་རྫོགས |
+| Before | Because [it] is its own place, causes and conditions are complete;<br>because [it] is realized by itself, the nature of phenomena is complete.<br>Because there is self-reversal, saṃsāra and nirvāṇa are complete;<br>because there is self-abiding, tantras and scriptural transmissions are complete.<br>Because there is self-completeness, [it] is complete at one time. |
+| After | Because [it] is its own place, causes and conditions are complete;<br>because [it] is realized by itself, the nature of phenomena is complete.<br>Because there is self-reversal, cyclic existence and transcendence of sorrow are complete;<br>because there is self-abiding, tantras and transmissions are complete.<br>Because there is self-completeness, [it] is complete at one time. |
+
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-011**: `ལུང`; “scriptural transmissions” → “transmissions” (1 occurrence(s)); severity **medium**, confidence **high**. P2 transmission in teaching/naming contexts. Keep source-supported scriptural at 000197, not as an automatic modifier elsewhere; retain continuum/tantra distinctions and open apposition.
+
+#### MTP-000262 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་ཧོ<br>རང་རྫོགས་པ་ཆེན་པོའི་ཆོས་སྐུ་ནི<br>ཀ་ནས་དག་པས་དྲི་མ་ཟད<br>ཐོག་མར་བྱུང་བས་བརྒྱུད་པ་ཟད<br>ཟླ་དང་བྲལ་བས་རྩིས་ལས་འདས |
+| Before | Emaho!<br>The dharma embodiment of great self-completeness:<br>because [it] is pure from the beginning, stains are exhausted;<br>because [it] arose at the beginning, transmission is exhausted;<br>because [it] is without a counterpart, [it] is beyond reckoning. |
+| After | How wondrous!<br>The dharma embodiment of great self-completeness:<br>because [it] is pure from the beginning, stains are exhausted;<br>because [it] arose at the beginning, transmission is exhausted;<br>because [it] is without a counterpart, [it] is beyond reckoning. |
+
+- **PD-010**: `ཨེ་མ་ཧོ`; “Emaho!” → “How wondrous!” (1 occurrence(s)); severity **low**, confidence **high**. P2 How wondrous! for the full ཨེ་མ་ཧོ exclamation; no added listening imperative.
+
+#### MTP-000264 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | གཉིས་ཀྱིས་འཕེལ་མེད་ངོ་བོ་ཉིད<br>ཆོས་དང་བྲལ་བས་མཐའ་ལས་འདས<br>རྟོག་མེད་གསལ་བས་འགྱུ་བ་སངས<br>བེམ་རིག་གཉིས་མེད་ཚོགས་གཉིས་རྫོགས |
+| Before | The essence itself, not increased by the two,<br>is beyond extremes because [it] is free from phenomena.<br>Clear and free from conceptualization, movement clears;<br>without the two, inert matter and awareness, the two accumulations are complete. |
+| After | The essence itself, not increased by the two,<br>is beyond extremes because [it] is free from phenomena.<br>Clear and free from conceptualization, movement clears;<br>without the two, matter and awareness, the two accumulations are complete. |
+
+- **PD-008**: `བེམ་རིག`; “inert matter” → “matter” (1 occurrence(s)); severity **medium**, confidence **medium**. P2 matter, a mass noun; the abbreviated བེམ་རིག contrast is a source-supported local construction, not a new glossary headword. Preserve non-knowing/knowing contrast in linked notes, not extra adjectives. No assertion of immobility or bodiless karmic beings.
+
+#### MTP-000271 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འབྲས་བུ་ཡེ་ནས་རང་གནས་པ<br>ཆོས་ཀྱིས་ཡེ་ནས་བཅོས་སུ་མེད<br>གྲུབ་མཐས་ཡེ་ནས་བསྐྱངས་དང་བྲལ<br>དུག་ལྔས་ཡེ་ནས་གོས་པ་མེད<br>འཁོར་བ་འདས་འདུ་འབྲལ་ག་ལ་ཡོད |
+| Before | The result abides of itself primordially;<br>primordially, it cannot be contrived through phenomena.<br>Primordially, it is free from being sustained by philosophical tenets;<br>primordially, it is unstained by the five poisons.<br>Where could there be gathering or separation of saṃsāra and nirvāṇa? |
+| After | The result abides of itself primordially;<br>primordially, it cannot be contrived through phenomena.<br>Primordially, it is free from being sustained by tenet systems;<br>primordially, it is unstained by the five poisons.<br>Where could there be gathering or separation of cyclic existence and transcendence of sorrow? |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་བ་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-019**: `གྲུབ་མཐས`; “philosophical tenets” → “tenet systems” (1 occurrence(s)); severity **medium**, confidence **high**. P2 tenet systems: actual organized positions and their sustaining function at 000238/000271; remove unsupported philosophical. The expanded 000268 construction stays provisional.
+
+#### MTP-000277 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རང་བྱུང་འོད་གསལ་བཀོད་རེ་ལེགས<br>གཞི་སྣང་ཆེན་པོ་ཤོངས་རེ་ཆེ<br>འཁོར་འདས་གཉིས་པོ་འབྲེལ་རེ་མཁས<br>སྐུ་ལྔ་ཡེ་ཤེས་བརྩེགས་རེ་ལེགས |
+| Before | Naturally arising clear light—how well arranged!<br>Great Ground-appearance—how vast its capacity!<br>The two, saṃsāra and nirvāṇa—how skillfully connected!<br>Five embodiments and primordial knowing—how well arrayed in layers! |
+| After | Naturally arising clear light—how well arranged!<br>Great Ground-appearance—how vast its capacity!<br>The two, cyclic existence and transcendence of sorrow—how skillfully connected!<br>Five embodiments and primordial knowing—how well arrayed in layers! |
+
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000278 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རང་བཞིན་གནས་པའི་ངོ་བོ་ལ<br>སངས་རྒྱས་མེད་ཅིང་སེམས་ཅན་མེད<br>མ་རིག་མེད་ཅིང་འཁྲུལ་པ་མེད |
+| Before | In the essence abiding as intrinsic nature,<br>there are no buddhas and no sentient beings;<br>there is no ignorance and no delusion. |
+| After | In the essence abiding as intrinsic nature,<br>there are no buddhas and no karmic beings;<br>there is no ignorance and no delusion. |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000301 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སེམས་ཅན་དེ་དག་སྐྱེ་བ་བཞི |
+| Before | those sentient beings [have] four births. |
+| After | those karmic beings [have] four births. |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000307 — chapter 5
+
+Location: [`chapters/05/translation.md`](chapters/05/translation.md); fixed source: [`chapters/05/source.md`](chapters/05/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ལྟར་འཇིག་རྟེན་གསུམ་པ་ཉིད<br>ཕུང་པོ་ལྔ་དང་དབང་པོ་ལྔ<br>ཡན་ལག་ལྔ་དང་དོན་སྙིང་ལྔ<br>ཡུལ་ལྔ་དང་ནི་ཉོན་མོངས་ལྔ<br>སེམས་ལྔ་ཡིད་ལྔ་རྟོག་པ་ལྔ<br>གཟུང་འཛིན་འཁོར་བ་ཉིད་དུ་གྲུབ |
+| Before | Thus, the three worlds themselves—<br>five aggregates and five faculties,<br>five limbs and five vital organs,<br>five objects and five afflictions,<br>five ordinary minds, five mental faculties, five conceptual thoughts—<br>are established as saṃsāra of apprehended object and apprehending subject. |
+| After | Thus, the three worlds themselves—<br>five aggregates and five faculties,<br>five limbs and five vital organs,<br>five objects and five afflictions,<br>five ordinary minds, five mental faculties, five conceptual thoughts—<br>are established as cyclic existence of apprehended object and apprehending subject. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000324 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཉོན་མོངས་ལྔ་ཡི་དྲི་མ་ཡིས<br>སེམས་ཅན་ཇི་ལྟར་བཅིངས་པར་འགྱུར<br>བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་གསུངས |
+| Before | Through the stains of the five afflictions,<br>how do sentient beings become bound?<br>Bhagavān, speak to me.” |
+| After | Through the stains of the five afflictions,<br>how do karmic beings become bound?<br>Blessed One, speak to me.” |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000325 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ |
+| Before | The Bhagavān spoke: |
+| After | The Blessed One spoke: |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000334 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ང་ཉིད་སངས་རྒྱས་དགོངས་པ་ལས<br>འཁོར་བ་ང་ཡིན་མྱང་འདས་ང<br>ཆོས་ཀྱང་ང་ཡིན་ཆོས་མིན་ང |
+| Before | I myself, from the enlightened intent of buddhas,<br>am saṃsāra; I am nirvāṇa.<br>I am phenomena; I am non-phenomena. |
+| After | I myself, from the enlightened intent of buddhas,<br>am cyclic existence; I am transcendence of sorrow.<br>I am phenomena; I am non-phenomena. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `མྱང་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000337 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སྟོན་པ་འཁོར་དང་བསྟན་པ་ང<br>རང་གི་འཁོར་སྡུད་སྡུད་པ་ང<br>ལྟ་དང་སྒོམ་དང་སྤྱོད་པ་ང<br>དབང་དང་དམ་ཚིག་སྡོམ་པ་ང |
+| Before | I am the teacher, retinue, and teaching.<br>I am gathering—gathering my own retinue.<br>I am view, cultivation, and activity.<br>I am empowerment, commitments, and vows. |
+| After | I am the teacher, retinue, and teaching.<br>I am gathering—gathering my own retinue.<br>I am view, cultivation, and activity.<br>I am empowerment, sacred pledges, and vows. |
+
+- **PD-016**: `དམ་ཚིག`; “commitments” → “sacred pledges” (1 occurrence(s)); severity **medium**, confidence **high**. P2 sacred pledge; preserve contrast with empowerment and vows, transgression/guarding and negative/rhetorical function.
+
+#### MTP-000338 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | མཆོད་པ་དང་བསམ་གཏན་ཏིང་འཛིན་ང<br>ཁྲུས་དང་གཙང་སྦྲ་དྲི་མེད་ང<br>དགེ་དང་མི་དགེ་སྤྱོད་པ་ང<br>མདོ་སྡེ་འདུལ་བ་མངོན་པ་ང |
+| Before | I am offerings, meditative stability, and deep absorption.<br>I am washing, cleanliness, and stainlessness.<br>I am virtuous and nonvirtuous activity.<br>I am sūtra discourses, discipline, and higher doctrine. |
+| After | I am offerings, meditative stability, and deep absorption.<br>I am washing, cleanliness, and stainlessness.<br>I am virtuous and nonvirtuous activity.<br>I am discourse collection, discipline, and higher doctrine. |
+
+- **PD-003**: `མདོ་སྡེ`; “sūtra discourses” → “discourse collection” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+
+#### MTP-000344 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | མདོར་ན་ཇི་ལྟར་སྣང་བ་ང<br>ང་ནི་མི་འཕམ་ཀུན་ལས་རྒྱལ་བའོ<br>ང་ནི་བཅོས་པའི་ཚིག་མེད་ཀུན་ལས་ཕགས་པ་ཡིན<br>ང་ནི་རྟག་ཆད་ཉིས་མེད་ཀུན་ལྟར་འཇུག་པ་ཡིན |
+| Before | In brief, I am however [things] appear.<br>I am undefeated, victorious over all.<br>I have no contrived utterance; I am exalted beyond all.<br>I have neither permanence nor annihilation; I enter in every manner. |
+| After | In brief, I am however [things] appear.<br>I am undefeated, victorious over all.<br>I have no contrived phrase; I am exalted beyond all.<br>I have neither permanence nor annihilation; I enter in every manner. |
+
+- **PD-025**: `ཚིག`; “contrived utterance” → “contrived phrase” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000347 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ང་ནི་གནས་པའི་ས་མེད་ཀུན་ལ་བརྟེན་པ་ཡིན<br>ང་ནི་འགྲན་པའི་ཟླ་མེད་ཀུན་ལ་ཉག་གཅིག་གོ<br>ང་ནི་བེམ་རིག་གཉིས་མེད་ཀུན་ལ་ཁྱབ་པ་ཡིན<br>ང་ནི་མུན་པའི་གོས་གྱོན་ཀུན་ལ་སྣང་བ་སྟོན |
+| Before | I have no ground on which to abide; I depend on all.<br>I have no rival to compete with; I am unique among all.<br>For me, insentient and aware are not two; I pervade all.<br>I wear the clothing of darkness; I show appearance to all. |
+| After | I have no ground on which to abide; I depend on all.<br>I have no rival to compete with; I am unique among all.<br>For me, matter and awareness are not two; I pervade all.<br>I wear the clothing of darkness; I show appearance to all. |
+
+- **PD-008**: `བེམ་རིག`; “insentient and aware” → “matter and awareness” (1 occurrence(s)); severity **medium**, confidence **medium**. P2 matter, a mass noun; the abbreviated བེམ་རིག contrast is a source-supported local construction, not a new glossary headword. Preserve non-knowing/knowing contrast in linked notes, not extra adjectives. No assertion of immobility or bodiless karmic beings.
+
+#### MTP-000350 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ང་ཡིས་མུན་པ་གོས་སུ་གྱོན་པས་དཔའ་བོ་ཆེ<br>ང་ཡིས་འཁོར་འདས་གོམ་གཅིག་བགྲོད་པས་མཆོངས་པ་ཆེ<br>ང་ཡིས་ས་རྣམས་དུས་གཅིག་ནོན་པས་གཟི་བརྗིད་ཆེ<br>ང་ཡིས་ཉི་ཟླ་གདན་དུ་བཏིང་བས་བརྗིད་པོ་ཆེ |
+| Before | Having worn darkness as clothing, I am a great hero.<br>Having traversed saṃsāra and nirvāṇa in one stride, my leap is great.<br>Having pressed down the grounds at one time, my majesty is great.<br>Having spread out the sun and moon as a seat, my splendor is great. |
+| After | Having worn darkness as clothing, I am a great hero.<br>Having traversed cyclic existence and transcendence of sorrow in one stride, my leap is great.<br>Having pressed down the grounds at one time, my majesty is great.<br>Having spread out the sun and moon as a seat, my splendor is great. |
+
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000351 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ང་ལ་འཁོར་འདས་དུས་གཅིག་རྫོགས་པས་བྱ་དང་བྲལ<br>ང་ལ་སྣང་བ་ཐོགས་མེད་ཤར་བས་རང་ཤར་ཉིད<br>ང་ལ་རྟོགས་དང་མ་རྟོགས་མེད་པས་ཡེ་སངས་རྒྱས<br>ང་ལ་རེ་དང་དོགས་པ་མེད་པས་འཁོར་འདས་དུས་གཅིག་རྫོགས |
+| Before | Because saṃsāra and nirvāṇa are complete in me at one time, I am free from doing.<br>Because appearance arises unobstructedly in me, [it is] self-arising itself.<br>Because realization and non-realization are absent in me, [I am] primordially buddha.<br>Because hope and fear are absent in me, saṃsāra and nirvāṇa are complete at one time. |
+| After | Because cyclic existence and transcendence of sorrow are complete in me at one time, I am free from doing.<br>Because appearance arises unobstructedly in me, [it is] self-arising itself.<br>Because realization and non-realization are absent in me, [I am] primordially buddha.<br>Because hope and fear are absent in me, cyclic existence and transcendence of sorrow are complete at one time. |
+
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (2 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་འདས`; “nirvāṇa” → “transcendence of sorrow” (2 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000355 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ལྟར་འཇིག་རྟེན་འཁོར་འདས་ཆོས<br>ཐམས་ཅད་ངོ་བོ་གཅིག་ཉིད་ན<br>སེམས་ཅན་གིས་བཅིངས་པ་ལགས |
+| Before | “If, in this way, all worldly phenomena of saṃsāra and nirvāṇa<br>are one in essence,<br>[—] is bound by sentient beings? |
+| After | “If, in this way, all worldly phenomena of cyclic existence and transcendence of sorrow<br>are one in essence,<br>[—] is bound by karmic beings? |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000356 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་དག་འཆིང་བར་མི་རིགས་ན<br>ཡང་ན་མ་བཅིངས་དེ་ཉིད་དམ<br>འོན་ཏེ་གཞན་དག་གིས་བཅིངས་སམ<br>བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་སུངས |
+| Before | If it is unfitting that those are bound,<br>or is that itself unbound?<br>Or is [it] bound by others?<br>Bhagavān, སུངས to me.” |
+| After | If it is unfitting that those are bound,<br>or is that itself unbound?<br>Or is [it] bound by others?<br>Blessed One, སུངས to me.” |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000357 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ |
+| Before | The Bhagavān spoke: |
+| After | The Blessed One spoke: |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000358 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སེམས་ཅན་ཉོན་མོངས་ལྔ་ཉིད་ནི |
+| Before | “As for sentient beings’ five afflictions, |
+| After | “As for karmic beings’ five afflictions, |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000361 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་བཞིན་ཉོན་མོངས་དྲི་མ་མེད<br>རང་བྱུང་རང་བཞིན་ཉིད་ཤེས་ན<br>སེམས་ཅན་འཆིང་བར་ག་ལ་འགྱུར |
+| Before | Likewise, [there is] no stain of affliction.<br>If naturally arising intrinsic nature itself is known,<br>how could sentient beings be bound? |
+| After | Likewise, [there is] no stain of affliction.<br>If naturally arising intrinsic nature itself is known,<br>how could karmic beings be bound? |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000362 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ཉིད་ལ་ནི་བདེན་བཟུང་ན<br>སངས་རྒྱས་ཉིད་ཀྱང་འཆིང་བར་འགྱུར<br>སེམས་ཅན་རྣམས་ནི་ཅིས་མི་འཆིང |
+| Before | If that itself is held as true,<br>even buddhas themselves become bound;<br>why would sentient beings not be bound? |
+| After | If that itself is held as true,<br>even buddhas themselves become bound;<br>why would karmic beings not be bound? |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000366 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འཁོར་བ་ཉིད་ལ་ཡུན་རིང་གནས<br>ཁམས་གསུམ་པ་ཡི་ཁང་པ་རུ<br>མིང་དང་གཟུགས་ཀྱི་བཙོན་པར་ཚུད<br>མ་རིག་ལས་ཀྱི་ལྕགས་ཀྱིས་བསྡམས |
+| Before | [one] abides for a long time in saṃsāra itself.<br>In the house of the three realms,<br>[one] enters the prison of name and form,<br>bound with the iron of ignorance and action, |
+| After | [one] abides for a long time in cyclic existence itself.<br>In the house of the three realms,<br>[one] enters the prison of name and form,<br>bound with the iron of ignorance and action, |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000367 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རང་བྱུང་སྒྲོན་མ་ཉིད་དང་བྲལ<br>འཁོར་བའི་མུན་ནག་སྟུག་པོས་གཡོགས<br>འདོད་ཆགས་ལན་ཚའི་རོལ་ཆགས<br>གཏི་མུག་ཞགས་པས་དམ་དུ་བཅིངས |
+| Before | separated from the naturally arising lamp itself,<br>covered by the thick darkness of saṃsāra,<br>attached to the ལན་ཚའི་རོལ of desire,<br>bound tightly by the noose of deluded dullness, |
+| After | separated from the naturally arising lamp itself,<br>covered by the thick darkness of cyclic existence,<br>attached to the ལན་ཚའི་རོལ of desire,<br>bound tightly by the noose of deluded dullness, |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000378 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | གསང་བའི་བདག་པོ་རྡོ་རྗེ་འཛིན<br>སེམས་ཅན་འཁོར་བ་དེ་དག་ནི<br>རང་གི་རྣམ་རྟོག་གིས་བཅིངས་ཀྱང<br>རང་བཞིན་མེད་པས་གྲོལ་བར་ངེས<br>ཆོས་ཀྱི་དབྱིངས་སུ་མཉམ་པའི་ཕྱིར |
+| Before | Lord of Secrets, holder of the vajra!<br>Those sentient beings in saṃsāra,<br>although bound by their own differentiating conceptualization,<br>are certain to be liberated because [it] lacks intrinsic nature,<br>for, in the basic space of phenomena, [they] are even. |
+| After | Lord of Secrets, holder of the vajra!<br>Those karmic beings in cyclic existence,<br>although bound by their own differentiating conceptualization,<br>are certain to be liberated because [it] lacks intrinsic nature,<br>for, in the basic space of phenomena, [they] are even. |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000380 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འཁོར་བ་ཆོས་ཀྱི་དབྱིངས་སུ་གྲོལ<br>ཆོས་ཉིད་གཞལ་ཡས་ཟང་ཐལ་ཉིད<br>དོན་དམ་ངེས་མེད་ཡངས་པ་ཆེ<br>ཡེ་ཤེས་འཕྲུལ་གྱི་ལྡེ་མིག་མངའ |
+| Before | Saṃsāra is liberated into the basic space of phenomena.<br>The nature of phenomena is immeasurable, unimpeded penetration itself.<br>The ultimate is unfixed, greatly open.<br>[One] possesses the magical key of primordial knowing. |
+| After | Cyclic existence is liberated into the basic space of phenomena.<br>The nature of phenomena is immeasurable, unimpeded penetration itself.<br>The ultimate is unfixed, greatly open.<br>[One] possesses the magical key of primordial knowing. |
+
+- **PD-005**: `འཁོར་བ`; “Saṃsāra” → “Cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000384 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རང་རིག་མཚོན་ཐོགས་དམག་གི་དཔུང<br>ལྟ་སྤྱོད་གཉིས་ལ་ལུས་བརྟེན་ཏེ<br>རྟོག་པའི་ཞགས་པས་འཁོར་བར་བཅིངས |
+| Before | an army’s force bears the weapon of self-awareness;<br>the body rests on the two, view and activity;<br>with the noose of conceptual thought, [one] is bound in saṃsāra. |
+| After | an army’s force bears the weapon of self-awareness;<br>the body rests on the two, view and activity;<br>with the noose of conceptual thought, [one] is bound in cyclic existence. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000395 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་ཧོ<br>འདི་ནི་རྫོགས་པའི་སངས་རྒྱས་ཀྱི<br>ངོ་བོ་ཉིད་ལས་མ་གཡོས་པའི<br>མི་འགྱུར་ཆོས་ཉིད་རབ་ཏུ་བརྟན |
+| Before | Emaho!<br>This, from the perfectly [awakened] buddhas’<br>very essence, has not moved:<br>the unchanging nature of phenomena, utterly stable. |
+| After | How wondrous!<br>This, from the perfectly [awakened] buddhas’<br>very essence, has not moved:<br>the unchanging nature of phenomena, utterly stable. |
+
+- **PD-010**: `ཨེ་མ་ཧོ`; “Emaho!” → “How wondrous!” (1 occurrence(s)); severity **low**, confidence **high**. P2 How wondrous! for the full ཨེ་མ་ཧོ exclamation; no added listening imperative.
+
+#### MTP-000397 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ནས་རྡོ་རྗེ་ཅན་རྣམས་ཀྱིས<br>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་གསོལ |
+| Before | Then those possessing vajras<br>petitioned the Bhagavān in these words: |
+| After | Then those possessing vajras<br>petitioned the Blessed One in these words: |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000398 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་མ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང<br>འཇིག་རྟེན་སེམས་ཅན་འདི་ཀུན་གྱི<br>གནས་པའི་ས་ནི་ཇི་ལྟ་བུ<br>འགྲོ་བའི་ལམ་ནི་གང་ལྟར་ལགས<br>འབྲས་བུ་ཇི་ལྟ་བུ་ཞིག་ཐོབ<br>རྡོ་རྗེ་འཆང་གིས་བདག་ལ་གསུངས |
+| Before | “Alas, Bhagavān Vajradhara!<br>For all these worldly sentient beings,<br>what is the ground on which they abide like?<br>What is the path along which they go like?<br>What sort of result do they attain?<br>Vajradhara, speak to me.” |
+| After | “O Blessed One Vajradhara!<br>For all these worldly karmic beings,<br>what is the ground on which they abide like?<br>What is the path along which they go like?<br>What sort of result do they attain?<br>Vajradhara, speak to me.” |
+
+- **PD-001**: `བཅོམ་ལྡན`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+- **PD-026**: `ཀྱེ་མ`; “Alas,” → “O” (1 occurrence(s)); severity **low**, confidence **high**. P2 ཀྱེ་མ is direct address here, not lament: the following petition asks about abiding, path and result. O preserves the address without adding grief.
+
+#### MTP-000399 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ |
+| Before | The Bhagavān spoke: |
+| After | The Blessed One spoke: |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000414 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དབུས་ནང་གནས་ཤིང་རང་བཞིན་གསལ<br>སྤྲོ་བསྡུ་སྨྲ་བསམ་ཡུལ་ལས་འདས<br>བགས་ཀྱིས་རྣམ་པར་རྟོག་པ་བྲལ<br>ཡོད་མེད་མཐའ་གཉིས་རྣམ་པར་གསལ |
+| Before | [It] abides within the center, and intrinsic nature is clear;<br>[it] is beyond the objects of proliferating and gathering, speaking and thinking.<br>Gently, [it is] free from differentiating conceptualization.<br>The two extremes of existence and nonexistence are completely clear. |
+| After | [It] abides within the center, and intrinsic nature is clear;<br>[it] is beyond the objects of projecting and gathering, speaking and thinking.<br>Gently, [it is] free from differentiating conceptualization.<br>The two extremes of existence and nonexistence are completely clear. |
+
+- **PD-018**: `སྤྲོ་བསྡུ`; “proliferating and gathering” → “projecting and gathering” (1 occurrence(s)); severity **medium**, confidence **high**. P2 projecting/gathering pair; preserve both source actions and negative scope. Do not replace distinct proliferating-and-gathering or bare elaboration expressions.
+
+#### MTP-000419 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འཁོར་བ་བསྐྱབ་པའི་ཐབས་ཆེན་པོ<br>གསང་བའི་ཡེ་གདངས་འབར་བའི་འོད<br>དེ་ནི་བདེ་ཆེན་ངོ་བོའོ |
+| Before | [It is] the great means that rescues saṃsāra,<br>the light blazing with the primordial radiance of secrecy.<br>That is the essence of great bliss. |
+| After | [It is] the great means that rescues cyclic existence,<br>the light blazing with the primordial radiance of secrecy.<br>That is the essence of great bliss. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000432 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཆུ་ནི་དངས་སྙིགས་འབྱེད་པར་བྱེད<br>དེ་ཡང་གཉིས་ན་ཆ་མཉམ་སྟེ<br>མདོར་ན་དབང་པོའི་དངས་མ་ཡིན |
+| Before | “Water” distinguishes the clear from the sediment.<br>Moreover, in the two the portions are equal.<br>In brief, [it] is the refined essence of the faculties. |
+| After | “Water” distinguishes the pure extract from the residue.<br>Moreover, in the two the portions are equal.<br>In brief, [it] is the pure extract of the faculties. |
+
+- **PD-017**: `དངས་སྙིགས`; “the clear from the sediment” → “the pure extract from the residue” (1 occurrence(s)); severity **medium**, confidence **high**. P2 pure extract / pure extract and residue; both members and source-supported number preserved, distinct from essence/core/quintessence and unresolved དངོས་མ.
+- **PD-017**: `དངས་མ`; “refined essence” → “pure extract” (1 occurrence(s)); severity **medium**, confidence **high**. P2 pure extract / pure extract and residue; both members and source-supported number preserved, distinct from essence/core/quintessence and unresolved དངོས་མ.
+
+#### MTP-000433 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དཔེར་ན་གསེར་གྱི་ལུ་གུ་རྒྱུད<br>བཟོ་མཁས་ལེགས་པར་བརྒྱུས་པ་ལྟར<br>རིག་པས་ཐམས་ཅད་ཤེས་ཤིང་རིག<br>རྟོག་མེད་འཁོར་བས་གོས་པ་མེད<br>ལུ་གུ་རྒྱུད་ནི་འབྲེལ་ཆགས་སོ<br>བདེ་ཆེན་བུ་ག་རྟོག་མེད་ལམ |
+| Before | For example, like a gold chain<br>well strung by a skilled craftsman,<br>awareness knows and is aware of everything.<br>Free from conceptualization, [it] is unstained by saṃsāra.<br>Vajra chains are connected in succession.<br>The opening of great bliss is the path free from conceptualization. |
+| After | For example, like a gold chain<br>well strung by a skilled craftsman,<br>awareness knows and is aware of everything.<br>Free from conceptualization, [it] is unstained by cyclic existence.<br>Vajra chains are connected in succession.<br>The opening of great bliss is the path free from conceptualization. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000434 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འབྲས་བུ་རྣལ་བ་གཉིས་ཞེས་ཏེ<br>མ་སྨིན་འཁོར་བ་ཉིད་དང་ནི<br>གྲོལ་བྱེད་སྐུ་དང་ཡེ་ཤེས་སོ |
+| Before | The result is said to be two རྣལ་བ:<br>unripened saṃsāra itself,<br>and the liberating embodiments and primordial knowing. |
+| After | The result is said to be two རྣལ་བ:<br>unripened cyclic existence itself,<br>and the liberating embodiments and primordial knowing. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000440 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | མངོན་སྣང་ཡུལ་ནི་འདི་ལྟར་རོ<br>སྐུ་གསུམ་དང་ནི་ཡེ་ཤེས་ལྔ<br>སྟོང་པ་ཉིད་དང་གསལ་བས་ཁྱབ<br>ཐིག་ལེ་འདུ་འབྲལ་མེད་པའི་ཕྱིར<br>ཚིག་མེད་ཉིད་དང་རྗོད་བྱེད་བྲལ |
+| Before | The object of manifest appearance is like this:<br>three embodiments and five primordial knowings<br>are pervaded by emptiness and clarity.<br>Because the sphere has no coming together or separation,<br>[there are] no utterances, and [it is] free from what expresses. |
+| After | The object of manifest appearance is like this:<br>three embodiments and five primordial knowings<br>are pervaded by emptiness and clarity.<br>Because the sphere has no coming together or separation,<br>[there are] no phrases, and [it is] free from what expresses. |
+
+- **PD-025**: `ཚིག`; “no utterances” → “no phrases” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000452 — chapter 6
+
+Location: [`chapters/06/translation.md`](chapters/06/translation.md); fixed source: [`chapters/06/source.md`](chapters/06/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ལས<br>སེམས་ཅན་གྱི་སྣང་བ་ཐབས་ལ་མཁས་པ་བསྟན་པའི་ལེའུ་སྟེ་དྲུག་པའོ |
+| Before | Thus, from the precious secret tantra String of Pearls, the sixth chapter, teaching skill in means concerning the appearances of sentient beings. |
+| After | Thus, from the precious secret tantra String of Pearls, the sixth chapter, teaching skill in means concerning the appearances of karmic beings. |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000455 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སེམས་ཅན་རྣམས་དང་འཁོར་འདས་ཆོས<br>གཅིག་གམ་འོན་ཏེ་ཐ་དད་ལགས<br>དེ་ལ་བདག་ནི་ཐེ་ཚོམ་མཆིས<br>བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་གསུང |
+| Before | “Are sentient beings and the phenomena of saṃsāra and nirvāṇa<br>one, or are they different?<br>I have doubts about that.<br>Bhagavān, speak to me.” |
+| After | “Are karmic beings and the phenomena of cyclic existence and transcendence of sorrow<br>one, or are they different?<br>I have doubts about that.<br>Blessed One, speak to me.” |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000457 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འཁོར་བའི་ཆོས་ནི་འདི་ལྟ་བུ<br>ཐོག་མ་ཉིད་ནི་འདི་མེད་པས<br>ཡུལ་ལ་འཁྲུལ་པས་བརྟགས་པ་ལྟར<br>སེམས་ཅན་ཡུལ་ལ་སྣང་བའོ |
+| Before | “The phenomena of saṃsāra are like this:<br>since this is absent [at] the very beginning,<br>just as imputed through delusion about objects,<br>[they] appear within the domain of sentient beings. |
+| After | “The phenomena of cyclic existence are like this:<br>since this is absent [at] the very beginning,<br>just as imputed through delusion about objects,<br>[they] appear within the domain of karmic beings. |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000476 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རོལ་མོ་འོད་ལྔའི་དཀྱིལ་འཁོར་རྫོགས<br>འཕན་ནི་ཁ་དོག་གསལ་བས་དངས<br>གདུགས་ནི་སྐྱོབ་པ་ཤེས་རབ་གདངས<br>བླ་རེ་མན་ངག་ཆེ་བའི་གནད<br>རྒྱལ་མཚན་རྟོགས་པ་མངོན་སངས་རྒྱས |
+| Before | Music is the complete maṇḍala of the five lights.<br>Pennants are colors, limpid through clarity.<br>Parasols are protection, the radiance of discerning knowing.<br>Canopies are the key point of the greatness of pith instructions.<br>Victory banners are realization, manifestly buddha. |
+| After | Music is the complete mandala of the five lights.<br>Pennants are colors, limpid through clarity.<br>Parasols are protection, the radiance of discerning knowing.<br>Canopies are the key point of the greatness of pith instructions.<br>Victory banners are realization, manifestly buddha. |
+
+- **PD-002**: `དཀྱིལ་འཁོར`; “maṇḍala” → “mandala” (1 occurrence(s)); severity **low**, confidence **high**. P2 mandala spelling, including ordinary plural inflection; no change to the citta/locative construction.
+
+#### MTP-000479 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་རྡོ་རྗེ་འཛིན་པ་ལེགས་ཉོན་ཅིག<br>འདས་པ་དཀར་པོའི་ཆོས་རྣམས་ནི<br>ལུས་དང་སེམས་ལ་ཐམས་ཅད་རྫོགས<br>འཁོར་བའི་ཆོས་ནི་འདས་སྟོང་ཕྱིར |
+| Before | O holder of the vajra, listen well!<br>The white phenomena of transcendence<br>are all complete in body and ordinary mind.<br>For the phenomena of saṃsāra are [འདས་སྟོང: relation unresolved]: |
+| After | O holder of the vajra, listen well!<br>The white phenomena of transcendence<br>are all complete in body and ordinary mind.<br>For the phenomena of cyclic existence are [འདས་སྟོང: relation unresolved]: |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000480 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དཀྱིལ་འཁོར་ལྷ་དང་མཆོད་པ་དང<br>སྔགས་དང་ཕྱག་རྒྱ་ཏིང་འཛིན་དང<br>དབང་བསྐུར་བ་དང་དམ་ཚིག་དང<br>མན་ངག་འབོགས་དང་ཉམས་མྱོང་དང<br>དེ་བཞིན་བསྐྱེད་པའི་རིམ་པ་དང<br>ཐོས་དང་བསམ་དང་སྒོམ་པ་དང |
+| Before | maṇḍalas, deities and offerings;<br>mantras, mudrās and deep absorption;<br>empowerment and commitments;<br>bestowal of pith instructions and experiential acquaintance;<br>likewise the generation stage;<br>hearing, reflection and cultivation; |
+| After | mandalas, deities and offerings;<br>mantras, seals and deep absorption;<br>empowerment and sacred pledges;<br>bestowal of pith instructions and experiential acquaintance;<br>likewise the generation stage;<br>hearing, reflection and cultivation; |
+
+- **PD-002**: `དཀྱིལ་འཁོར`; “maṇḍala” → “mandala” (1 occurrence(s)); severity **low**, confidence **high**. P2 mandala spelling, including ordinary plural inflection; no change to the citta/locative construction.
+- **PD-016**: `དམ་ཚིག`; “commitments” → “sacred pledges” (1 occurrence(s)); severity **medium**, confidence **high**. P2 sacred pledge; preserve contrast with empowerment and vows, transgression/guarding and negative/rhetorical function.
+- **PD-021**: `ཕྱག་རྒྱ`; “mudrās” → “seals” (1 occurrence(s)); severity **medium**, confidence **high**. P2 seal in the generic ritual list, gesture in the explicit limb-turning construction; do not change the whole Mahamudra expression or the bodily gesture at 000148.
+
+#### MTP-000486 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་ཧོ<br>འདི་ཀུན་ཤེས་བྱའི་ཡུལ་དུ་སྣང |
+| Before | Emaho!<br>All this appears as the domain of what is to be known: |
+| After | How wondrous!<br>All this appears as the domain of what is to be known: |
+
+- **PD-010**: `ཨེ་མ་ཧོ`; “Emaho!” → “How wondrous!” (1 occurrence(s)); severity **low**, confidence **high**. P2 How wondrous! for the full ཨེ་མ་ཧོ exclamation; no added listening imperative.
+
+#### MTP-000487 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་དང<br>བསྟན་པ་གནས་དང་འཁོར་དང་དུས<br>ཆོས་སྐུ་ལོངས་སྐུ་སྤྲུལ་སྐུ་དང<br>མདོ་སྡེ་འདུལ་བ་མངོན་པ་ཆེ<br>ཉན་ཐོས་རང་རྒྱལ་བྱང་ཆུབ་སེམས |
+| Before | buddha, Dharma and Saṅgha;<br>the teaching, place, retinue and time;<br>dharma embodiment, complete enjoyment embodiment and emanation embodiment;<br>the sūtra collection, Vinaya and great Abhidharma;<br>hearers, solitary victors and [བྱང་ཆུབ་སེམས: identification unresolved]; |
+| After | buddha, Dharma and Saṅgha;<br>the teaching, place, retinue and time;<br>dharma embodiment, complete enjoyment embodiment and emanation embodiment;<br>the discourse collection, discipline and great higher doctrine;<br>hearers, solitary victors and [བྱང་ཆུབ་སེམས: identification unresolved]; |
+
+- **PD-003**: `མདོ་སྡེ`; “sūtra collection” → “discourse collection” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+- **PD-003**: `འདུལ་བ`; “Vinaya” → “discipline” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+- **PD-003**: `མངོན་པ`; “Abhidharma” → “higher doctrine” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+
+#### MTP-000492 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | མཁའ་དང་མཉམ་པའི་ཆོས་དབྱིངས་ལ<br>རིག་པའི་ཡེ་ཤེས་རྣམ་སྣང་བ<br>མྱང་འདས་མཚོན་པའི་ཆོས་དེ་རྣམས<br>ལུས་དང་སེམས་ལ་ཇི་ལྟར་གནས<br>དོན་ཉིད་ངོ་ལ་ཇི་ལྟར་འཆར<br>བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་གསུང |
+| Before | “Within the basic space of phenomena, equal to space,<br>primordial knowing of awareness appears in its aspects.<br>Those phenomena that indicate nirvāṇa—<br>how do they abide in body and ordinary mind?<br>How do they arise in the presence of meaning itself?<br>Bhagavān, speak to me.” |
+| After | “Within the basic space of phenomena, equal to space,<br>primordial knowing of awareness appears in its aspects.<br>Those phenomena that indicate transcendence of sorrow—<br>how do they abide in body and ordinary mind?<br>How do they arise in the presence of meaning itself?<br>Blessed One, speak to me.” |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+- **PD-005**: `མྱང་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000496 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རང་རིག་མཆོད་པའི་གནས་འགྱུར་ཕྱིར<br>རང་གི་ལྷར་ནི་རང་ཉིད་ཆེ<br>བསྟི་གནས་ཆེན་པོར་རང་གནས་པས<br>རང་གི་དཀྱིལ་འཁོར་རང་ཉིད་མཆོད |
+| Before | Since self-awareness becomes the place of offering,<br>as one’s own deity, one is oneself great.<br>Since one abides oneself in the great abode,<br>one oneself offers to one’s own maṇḍala. |
+| After | Since self-awareness becomes the place of offering,<br>as one’s own deity, one is oneself great.<br>Since one abides oneself in the great abode,<br>one oneself offers to one’s own mandala. |
+
+- **PD-002**: `དཀྱིལ་འཁོར`; “maṇḍala” → “mandala” (1 occurrence(s)); severity **low**, confidence **high**. P2 mandala spelling, including ordinary plural inflection; no change to the citta/locative construction.
+
+#### MTP-000499 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཐམས་ཅད་རང་གི་སྔགས་ཀྱི་ཚིག |
+| Before | all are the words of one’s own mantra. |
+| After | all are the phrases of one’s own mantra. |
+
+- **PD-025**: `ཚིག`; “words of one’s own mantra” → “phrases of one’s own mantra” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000500 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | བསྐྱོད་ཅིང་བསྒྱུར་བ་རང་ཡིན་པས<br>ཡན་ལག་མ་བསྒྱུར་ཕྱག་རྒྱ་རྫོགས<br>བསམ་པས་ཆོས་ཉིད་སྟོང་ཉིད་རང་སངས་པས<br>རྫོགས་པས་ཏིང་འཛིན་བསྒོམ་དུ་མེད |
+| Before | Since moving and turning are oneself,<br>the mudrās are complete without turning the limbs.<br>Since, through thinking, the nature of phenomena—emptiness—is self-purified,<br>through completeness, there is no deep absorption to cultivate. |
+| After | Since moving and turning are oneself,<br>the gestures are complete without turning the limbs.<br>Since, through thinking, the nature of phenomena—emptiness—is self-purified,<br>through completeness, there is no deep absorption to cultivate. |
+
+- **PD-021**: `ཡན་ལག་མ་བསྒྱུར་ཕྱག་རྒྱ`; “mudrās” → “gestures” (1 occurrence(s)); severity **medium**, confidence **high**. P2 seal in the generic ritual list, gesture in the explicit limb-turning construction; do not change the whole Mahamudra expression or the bodily gesture at 000148.
+
+#### MTP-000501 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རིག་པའི་རྩལ་དབང་གཞིར་གནས་པས<br>རྫས་ནི་མི་དགོས་དབང་བསྐུར་ཐོབ<br>བསྲུང་བའི་མཚམས་མེད་འདའ་ཉམས་བྲལ<br>ཚིག་བརྗོད་དམ་ཚིག་བསྲུང་ལས་འདས |
+| Before | Since empowerment of awareness’s expressiveness abides in the Ground,<br>no material substances are needed: empowerment is attained.<br>There is no boundary to guard, [and there is] freedom from transgression and deterioration;<br>[it is] beyond guarding commitments expressed in words. |
+| After | Since empowerment of awareness’s expressiveness abides in the Ground,<br>no material substances are needed: empowerment is attained.<br>There is no boundary to guard, [and there is] freedom from transgression and deterioration;<br>[it is] beyond guarding sacred pledges expressed in phrases. |
+
+- **PD-016**: `དམ་ཚིག`; “commitments” → “sacred pledges” (1 occurrence(s)); severity **medium**, confidence **high**. P2 sacred pledge; preserve contrast with empowerment and vows, transgression/guarding and negative/rhetorical function.
+- **PD-025**: `ཚིག`; “expressed in words” → “expressed in phrases” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000502 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སྣང་བ་ཉིད་ནི་རང་གྲོལ་པས<br>ཚིག་མཚོན་མན་ངག་རང་རིག་ཀློང<br>རང་ལས་བྱུང་བས་རང་གྲོལ་བས<br>ཉམས་སུ་མྱོང་བའི་ཡེ་ནས་གདིངས |
+| Before | Since appearance itself is self-liberated,<br>pith instructions indicated by words are the expanse of self-awareness.<br>Since [it] arises from itself, since [it] is self-liberated,<br>[there is] primordial confidence in experiential acquaintance. |
+| After | Since appearance itself is self-liberated,<br>pith instructions indicated by phrases are the expanse of self-awareness.<br>Since [it] arises from itself, since [it] is self-liberated,<br>[there is] primordial confidence in experiential acquaintance. |
+
+- **PD-025**: `ཚིག`; “indicated by words” → “indicated by phrases” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000507 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རིག་པའི་ཡེ་ཤེས་ཡེ་གདངས་པས<br>བསྒོམ་ཞིང་བཅོས་པའི་ཚིག་ལས་གྲོལ<br>འཁོར་འདས་གཉིས་ནི་རང་རྫོགས་པས<br>རིག་སྟོང་རང་གྲོལ་ལྟ་བ་ཆེ |
+| Before | Since primordial knowing of awareness is primordially radiant,<br>[it is] liberated from words of cultivating and contriving.<br>Since saṃsāra and nirvāṇa, the two, are complete in themselves,<br>awareness-emptiness, self-liberated, is the great view. |
+| After | Since primordial knowing of awareness is primordially radiant,<br>[it is] liberated from phrases of cultivating and contriving.<br>Since cyclic existence and transcendence of sorrow, the two, are complete in themselves,<br>awareness-emptiness, self-liberated, is the great view. |
+
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-025**: `ཚིག`; “words of cultivating and contriving” → “phrases of cultivating and contriving” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000528 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | མདོ་སྡེ་ཆོས་ཉིད་ཟབ་མོ་རྟོགས་ལ<br>འདུལ་བ་རང་གི་འཁྲུལ་སྣང་འདུལ<br>མངོན་པ་སེམས་ཉིད་རྟོགས་པར་མངོན |
+| Before | The sūtra collection is realization of the profound nature of phenomena;<br>Vinaya subdues one’s own delusory appearance;<br>Abhidharma manifests ordinary mind itself in realization. |
+| After | The discourse collection is realization of the profound nature of phenomena;<br>Discipline subdues one’s own delusory appearance;<br>Higher doctrine manifests ordinary mind itself in realization. |
+
+- **PD-003**: `མདོ་སྡེ`; “sūtra collection” → “discourse collection” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+- **PD-003**: `འདུལ་བ`; “Vinaya” → “Discipline” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+- **PD-003**: `མངོན་པ`; “Abhidharma” → “Higher doctrine” (1 occurrence(s)); severity **medium**, confidence **high**. P2 discipline / discourse collection / higher doctrine in explicit collection contexts; preserve order, great modifier and explanatory verbs.
+
+#### MTP-000539 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཚིག་དང་ཡི་གེ་བརྡར་བཀོད་པའི<br>ཆོས་ལ་དགོས་པ་ཡོད་མ་ཡིན<br>དེ་ཕྱིར་ཆོས་མེད་ལུས་འདི་ལ<br>སེམས་དེ་ཇི་ལྟར་དགོས་པ་འགྱུར |
+| Before | for phenomena set out as signs in words and letters,<br>there is no need.<br>Therefore, for this body without phenomena,<br>how could that ordinary mind be needed? |
+| After | for phenomena set out as signs in phrases and letters,<br>there is no need.<br>Therefore, for this body without phenomena,<br>how could that ordinary mind be needed? |
+
+- **PD-025**: `ཚིག`; “in words and letters” → “in phrases and letters” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000540 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སེམས་དེ་མེད་ན་བེམ་པོས་ནི<br>བསྐྱེད་པར་ནུས་པ་མ་ཡིན་ཏེ<br>མ་བསྐྱེད་དོན་རྣམས་ཇི་ལྟར་འབྱུང |
+| Before | If that ordinary mind is absent, insentient matter<br>cannot generate.<br>How can ungenerated meanings arise? |
+| After | If that ordinary mind is absent, matter<br>cannot generate.<br>How can ungenerated meanings arise? |
+
+- **PD-008**: `བེམ་པོས`; “insentient matter” → “matter” (1 occurrence(s)); severity **medium**, confidence **high**. P2 matter, a mass noun; the abbreviated བེམ་རིག contrast is a source-supported local construction, not a new glossary headword. Preserve non-knowing/knowing contrast in linked notes, not extra adjectives. No assertion of immobility or bodiless karmic beings.
+
+#### MTP-000541 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ཉིད་དྲན་བསམ་སེམས་མེད་ན<br>དུར་ཁྲོད་རོ་དང་ཁྱད་ཅི་ཡོད<br>ཡང་ན་ནམ་མཁའ་ཇི་བཞིན་ནོ |
+| Before | If that itself has no ordinary mind that remembers and thinks,<br>what difference is there from a corpse in a charnel ground?<br>Or [it is] just like space. |
+| After | If that itself has no ordinary mind that is mindful and thinks,<br>what difference is there from a corpse in a charnel ground?<br>Or [it is] just like space. |
+
+- **PD-020**: `དྲན་བསམ`; “remembers and thinks” → “is mindful and thinks” (1 occurrence(s)); severity **medium**, confidence **high**. P2 mindfulness and thinking; neither occurrence concerns recollection. Preserve the relative clause/conditional at 000541 and retinue address at 000544; current 000286 already conforms.
+
+#### MTP-000542 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ཉིད་ཡིན་ན་སྟོང་པས་ནི<br>སེམས་ཅན་དོན་ནི་ཇི་ལྟར་འབྱུང<br>དེ་ཉིད་རིགས་པ་མ་ལགས་ན<br>བདག་ལ་གཙོ་བོས་བཀའ་སྩོལ་ཅིག |
+| Before | If that is so, how, through emptiness,<br>could benefit for sentient beings arise?<br>If that is not reasonable,<br>chief, grant me your word.” |
+| After | If that is so, how, through emptiness,<br>could benefit for karmic beings arise?<br>If that is not reasonable,<br>chief, grant me your word.” |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (1 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000544 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སེམས་མེད་དྲན་བསམ་འཁོར་གྱིས་ཉོན<br>སེམས་ནི་འདུས་ཚོགས་འབྱུང་བའི་ཕྱིར<br>དྲི་མ་ཉིད་དང་ཡང་སྔགས་པས<br>ཀུན་གཞི་སྡུད་པའི་སེམས་ལ་སོགས |
+| Before | “Retinue of remembering and thinking without ordinary mind, listen!<br>Since ordinary mind arises [from] a gathered collection,<br>a stain itself, and also [སྔགས་པས: construction unresolved];<br>the all-basis—the ordinary mind that gathers—and so forth, |
+| After | “Retinue of mindfulness and thinking without ordinary mind, listen!<br>Since ordinary mind arises [from] a gathered collection,<br>a stain itself, and also [སྔགས་པས: construction unresolved];<br>the all-basis—the ordinary mind that gathers—and so forth, |
+
+- **PD-020**: `དྲན་བསམ`; “remembering and thinking” → “mindfulness and thinking” (1 occurrence(s)); severity **medium**, confidence **high**. P2 mindfulness and thinking; neither occurrence concerns recollection. Preserve the relative clause/conditional at 000541 and retinue address at 000544; current 000286 already conforms.
+
+#### MTP-000547 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སེམས་ནི་བག་ཆགས་ཀུན་གྱི་གཞི<br>ལུས་ཅན་རྣམས་ཀྱི་དྲི་མ་ཡིན<br>གཟུང་བ་ཡིན་ལ་འཛིན་པ་ཡིན<br>དེ་ཕྱིར་འཁོར་བའི་ཆོས་ཉིད་དོ |
+| Before | Ordinary mind is the Ground of all habitual tendencies,<br>the stain of bodied beings.<br>[It] is apprehended object and apprehending subject.<br>Therefore, [it is] the nature of phenomena of saṃsāra. |
+| After | Ordinary mind is the Ground of all habitual tendencies,<br>the stain of bodied beings.<br>[It] is apprehended object and apprehending subject.<br>Therefore, [it is] the nature of phenomena of cyclic existence. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000550 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཐུགས་ནི་བསྐྱོད་པ་ཀུན་བྲལ་བས<br>བེམ་པོ་ལྟ་བུ་མ་ཡིན་ཏེ<br>ཤེས་ཞིང་རིག་ལ་གསལ་བྱེད་སྣང<br>རྣམ་པར་རྟོག་པ་ཀུན་བསྲེགས་ཏེ<br>ཡེ་ཤེས་ཉིད་ནི་མེ་བཞིན་ཟ |
+| Before | Since [ཐུགས: unresolved] is free from all stirring,<br>[it] is not like insentient matter.<br>[It] knows and is aware; [it] makes clear and appears.<br>Burning all differentiating conceptualization,<br>primordial knowing itself consumes like fire. |
+| After | Since awakened mind is free from all stirring,<br>[it] is not like matter.<br>[It] knows and is aware; [it] makes clear and appears.<br>Burning all differentiating conceptualization,<br>primordial knowing itself consumes like fire. |
+
+- **PD-008**: `བེམ་པོ`; “insentient matter” → “matter” (1 occurrence(s)); severity **medium**, confidence **high**. P2 matter, a mass noun; the abbreviated བེམ་རིག contrast is a source-supported local construction, not a new glossary headword. Preserve non-knowing/knowing contrast in linked notes, not extra adjectives. No assertion of immobility or bodiless karmic beings.
+- **PD-022**: `ཐུགས་ནི་བསྐྱོད་པ་ཀུན་བྲལ་བས`; “[ཐུགས: unresolved]” → “awakened mind” (1 occurrence(s)); severity **medium**, confidence **medium**. P2 awakened mind: standalone cognitive/honorific ཐུགས is supported here by knowing, awareness and making clear, contrasted with matter and earlier ordinary mind. This resolves the local lexical gap only; causal and clause attachment remain flagged, unlike the heart/citta location at 000664.
+
+#### MTP-000561 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འབྱུང་ཆེན་ལྔ་བོ་ལུས་སྣང་བས<br>དངས་མའི་འོད་ལྔ་དྲི་མས་བསྒྲིབས<br>ཕྲ་རགས་ལྔ་ནི་ཡུལ་སྣང་བས<br>ཁ་དོག་ལྔ་ཡང་རྡུལ་དང་བཅས |
+| Before | Since the five great elements appear as body,<br>the five lights of the refined essence are obscured by stains.<br>Since the subtle and coarse five appear as objects,<br>the five colors, too, are accompanied by dust. |
+| After | Since the five great elements appear as body,<br>the five lights of the pure extract are obscured by stains.<br>Since the subtle and coarse five appear as objects,<br>the five colors, too, are accompanied by dust. |
+
+- **PD-017**: `དངས་མ`; “refined essence” → “pure extract” (1 occurrence(s)); severity **medium**, confidence **high**. P2 pure extract / pure extract and residue; both members and source-supported number preserved, distinct from essence/core/quintessence and unresolved དངོས་མ.
+
+#### MTP-000566 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཡུལ་དང་ཤེས་པ་རང་ཡལ་བས<br>འབྱུང་བའི་དངོས་མ་འོད་དུ་ཐིམ<br>དེ་ཕྱིར་འབྱུང་བ་དངས་སྙིགས་དབྱེ |
+| Before | Since objects and knowing vanish of themselves,<br>the [དངོས་མ: unresolved] of the elements dissolves into light.<br>Therefore, distinguish the refined part and dregs of the elements.” |
+| After | Since objects and knowing vanish of themselves,<br>the [དངོས་མ: unresolved] of the elements dissolves into light.<br>Therefore, distinguish the pure extract and residue of the elements.” |
+
+- **PD-017**: `དངས་སྙིགས`; “refined part and dregs” → “pure extract and residue” (1 occurrence(s)); severity **medium**, confidence **high**. P2 pure extract / pure extract and residue; both members and source-supported number preserved, distinct from essence/core/quintessence and unresolved དངོས་མ.
+
+#### MTP-000567 — chapter 7
+
+Location: [`chapters/07/translation.md`](chapters/07/translation.md); fixed source: [`chapters/07/source.md`](chapters/07/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས<br>འཁོར་འདས་ཀྱི་ཆོས་ཐམས་ཅད་རང་ལ་རྫོགས་པར་བསྟན་པའི་ལེའུ་སྟེ་བདུན་པའོ |
+| Before | Thus, from the precious tantra String of Pearls, the seventh chapter, teaching that all the phenomena of saṃsāra and nirvāṇa are complete in oneself. |
+| After | Thus, from the precious tantra String of Pearls, the seventh chapter, teaching that all the phenomena of cyclic existence and transcendence of sorrow are complete in oneself. |
+
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་འདས`; “nirvāṇa” → “transcendence of sorrow” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000570 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་ཀྱེ་སྟོན་པ་རྡོ་རྗེ་སེམས<br>གསང་བའི་རྒྱུད་ཀྱི་ཐབས་དང་ནི<br>རང་བཞིན་ཇི་ལྟ་བུ་ཞིག་ལགས<br>བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་གསུང |
+| Before | “O, O, teacher, Vajrasattva,<br>what are the means<br>and intrinsic nature of the secret continuum?<br>Bhagavān, speak to me.” |
+| After | “O, O, teacher, Vajrasattva,<br>what are the means<br>and intrinsic nature of the secret continuum?<br>Blessed One, speak to me.” |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+#### MTP-000577 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སྟོང་པ་རྒྱུ་གཅིག་དངོས་མེད་ཕྱིར<br>དངོས་པོ་ཀུན་གྱི་ཆོས་ལས་འདས<br>དངོས་ཏེ་སྣང་མེད་ཁྱབ་གཅིག་པས<br>ཀུན་གྱི་གཞིར་གྱུར་ངོ་བོ་གཅིག<br>ཁྱབ་བདག་ཉིད་དང་བྱང་ཆུབ་པོ |
+| Before | Emptiness is one cause; because [it] lacks material presence,<br>[it] transcends the phenomena of all entities.<br>[དངོས་ཏེ: construction unresolved], without appearance, with a single pervasion,<br>[it] becomes the Ground of all, one essence—<br>the all-pervading lord itself and awakening. |
+| After | Emptiness is one cause; because [it] lacks entities,<br>[it] transcends the phenomena of all entities.<br>[དངོས་ཏེ: construction unresolved], without appearance, with a single pervasion,<br>[it] becomes the Ground of all, one essence—<br>the all-pervading lord itself and awakening. |
+
+- **PD-007**: `དངོས་མེད`; “lacks material presence” → “lacks entities” (1 occurrence(s)); severity **medium**, confidence **high**. P2 negative entity family; these empty/clear/entity contrasts do not establish an exclusively material sense. Retain separate exact དངོས་ཏེ uncertainties and all predicates.
+
+#### MTP-000578 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སྐྱེ་མེད་དྲན་པ་ཟད་པ་ཡིས<br>ཀ་དག་ཉིད་ཁྱད་པར་ལས<br>སྟོང་ཞིང་སྣང་ལ་སྣང་ཞིང་སྟོང<br>དངོས་ཏེ་དངོས་མེད་ཉིད་ཀྱང་ཡིན |
+| Before | [With] non-arising, through the exhaustion of mindfulness,<br>primordial purity itself: from [its] distinction,<br>empty yet appearing, appearing yet empty,<br>[དངོས་ཏེ: construction unresolved], [it] is also absence of material presence itself. |
+| After | [With] non-arising, through the exhaustion of mindfulness,<br>primordial purity itself: from [its] distinction,<br>empty yet appearing, appearing yet empty,<br>[དངོས་ཏེ: construction unresolved], [it] is also absence of entities itself. |
+
+- **PD-007**: `དངོས་མེད`; “absence of material presence” → “absence of entities” (1 occurrence(s)); severity **medium**, confidence **high**. P2 negative entity family; these empty/clear/entity contrasts do not establish an exclusively material sense. Retain separate exact དངོས་ཏེ uncertainties and all predicates.
+
+#### MTP-000581 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཁྱབ་བརྡལ་དངོས་མེད་ངོ་བོས་སྟོང<br>དྲི་མ་མེད་ཅིང་མ་འདྲེས་རྫོགས<br>རྟོག་མེད་སྟོང་པའི་རང་བཞིན་ཏེ<br>སྟོང་པས་ཁྱབ་ཕྱིར་རྒྱུད་ཅེས་སོ |
+| Before | Pervasively spread, without material presence, empty in essence,<br>stainless, unmixed and complete—<br>free from conceptualization, the intrinsic nature of emptiness;<br>because [it] pervades through emptiness, [it] is called “continuum.” |
+| After | Pervasively spread, without entities, empty in essence,<br>stainless, unmixed and complete—<br>free from conceptualization, the intrinsic nature of emptiness;<br>because [it] pervades through emptiness, [it] is called “continuum.” |
+
+- **PD-007**: `དངོས་མེད`; “without material presence” → “without entities” (1 occurrence(s)); severity **medium**, confidence **high**. P2 negative entity family; these empty/clear/entity contrasts do not establish an exclusively material sense. Retain separate exact དངོས་ཏེ uncertainties and all predicates.
+
+#### MTP-000600 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | འཁོར་དང་འདས་པ་གང་གིས་ཀྱང<br>འདི་ཉིད་ཤེས་པ་མ་ཡིན་ཏེ<br>མི་ཕྱེད་རྡོ་རྗེའི་རང་བཞིན་ཅན<br>རང་གི་མཚོན་པའི་གཞི་གཅིག་པའི<br>རང་བཞིན་སྟོང་པ་ཉིད་དུ་གཅིག<br>རྫོགས་པའི་སངས་རྒྱས་བསྐྱེད་པའི་ཡུལ |
+| Before | By anything of saṃsāra and transcendence,<br>this itself is not known:<br>endowed with the indivisible intrinsic nature of vajra,<br>of the single Ground of its own indication,<br>[its] intrinsic nature is one in emptiness itself;<br>[it is] the domain that generates complete buddhahood. |
+| After | By anything of cyclic existence and transcendence of sorrow,<br>this itself is not known:<br>endowed with the indivisible intrinsic nature of vajra,<br>of the single Ground of its own indication,<br>[its] intrinsic nature is one in emptiness itself;<br>[it is] the domain that generates complete buddhahood. |
+
+- **PD-005**: `འཁོར`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-005**: `འཁོར་དང་འདས་པ`; “and transcendence,” → “and transcendence of sorrow,” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+
+#### MTP-000606 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | སྣང་བ་ཐམས་ཅད་རྒྱུད་ཡིན་ཏེ<br>ཐམས་ཅད་ཐམས་ཅད་འབྲེལ་ཞིང་ཆགས<br>རང་བཞིན་ཅིཏྟའི་དཀྱིལ་འཁོར་དུ<br>མ་བསྐྱེད་རྫོགས་པའི་སྙིང་པོ་ཆེ |
+| Before | All appearances are continuum;<br>everything connects and attaches to everything.<br>Intrinsic nature: within citta’s maṇḍala,<br>the great core, complete without being generated. |
+| After | All appearances are continuum;<br>everything connects and attaches to everything.<br>Intrinsic nature: within citta’s mandala,<br>the great core, complete without being generated. |
+
+- **PD-002**: `དཀྱིལ་འཁོར`; “maṇḍala” → “mandala” (1 occurrence(s)); severity **low**, confidence **high**. P2 mandala spelling, including ordinary plural inflection; no change to the citta/locative construction.
+
+#### MTP-000611 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | གསང་བའི་རྒྱུད་ནི་རྣམ་བཤད་པ<br>ངེས་པས་གཟུང་དུ་ཡོད་པའི་ལུང<br>རང་བཞིན་སྟོང་པ་ཀུན་ཁྱབ་པོ |
+| Before | An explanation of the secret continuum:<br>a transmitted teaching that can be held with certainty,<br>intrinsic nature, empty and all-pervading. |
+| After | An explanation of the secret continuum:<br>a transmission that can be held with certainty,<br>intrinsic nature, empty and all-pervading. |
+
+- **PD-011**: `ལུང`; “transmitted teaching” → “transmission” (1 occurrence(s)); severity **medium**, confidence **high**. P2 transmission in teaching/naming contexts. Keep source-supported scriptural at 000197, not as an automatic modifier elsewhere; retain continuum/tantra distinctions and open apposition.
+
+#### MTP-000612 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ཡང་བཅུད་ཀྱི་རང་བཞིན་ནི<br>སྙིང་པོ་བསྡུས་པས་དངས་མ་གསུམ<br>གསལ་བ་གསུམ་དང་ཤེས་པས་ཁྱབ |
+| Before | Further, the intrinsic nature of quintessence:<br>through gathering the core, [there are] three refined essences,<br>pervaded by three clarities and knowing. |
+| After | Further, the intrinsic nature of quintessence:<br>through gathering the core, [there are] three pure extracts,<br>pervaded by three clarities and knowing. |
+
+- **PD-017**: `དངས་མ`; “refined essences” → “pure extracts” (1 occurrence(s)); severity **medium**, confidence **high**. P2 pure extract / pure extract and residue; both members and source-supported number preserved, distinct from essence/core/quintessence and unresolved དངོས་མ.
+
+#### MTP-000625 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཨེ་མ་རྡོ་རྗེ་འཛིན་པ་ཉོན<br>དེ་ཉིད་རྣམ་པར་བཤད་པར་བྱ<br>དོན་རྒྱུད་དང་ནི་ཚིག་གི་རྒྱུད<br>དོན་ནི་སྔར་བསྟན་རིམ་པའོ |
+| Before | “Ah! Holder of the vajra, listen.<br>That itself is to be explained:<br>the continuum of meaning and the continuum of words.<br>The meaning is the sequence taught before. |
+| After | “Ah! Holder of the vajra, listen.<br>That itself is to be explained:<br>the continuum of meaning and the continuum of phrases.<br>The meaning is the sequence taught before. |
+
+- **PD-025**: `ཚིག`; “continuum of words” → “continuum of phrases” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000626 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཚིག་རྒྱུད་རིམ་པ་གསལ་བར་དབྱེ<br>སྤྲོས་པ་གཅོད་བྱེད་འཁོར་བ་ཡི<br>དོན་རྣམས་རྒྱུད་ཀྱིས་འགྲོལ་བར་འགྱུར |
+| Before | Clearly distinguish the sequence of the continuum of words:<br>conceptual elaborations are cut off; the meanings of saṃsāra<br>will be unravelled through the continuum. |
+| After | Clearly distinguish the sequence of the continuum of phrases:<br>conceptual elaborations are cut off; the meanings of cyclic existence<br>will be unravelled through the continuum. |
+
+- **PD-005**: `འཁོར་བ`; “saṃsāra” → “cyclic existence” (1 occurrence(s)); severity **medium**, confidence **high**. P2 cyclic existence / transcendence of sorrow, including supported compressed domain contrast. Preserve both members, negation, possessives and open syntax. Verbal passed-beyond-sorrow passages stay verbal.
+- **PD-025**: `ཚིག`; “continuum of words” → “continuum of phrases” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000630 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | དེ་ལྟར་རྣམ་པར་ཕྱེ་བས་ནི<br>ཚིག་རྒྱུད་གསལ་བར་བྱེད་པའོ<br>དེ་ཡི་དོན་རྣམས་རྣམ་ཕྱེ་བས<br>ངོ་བོ་ཉིད་ཀྱང་མཐོང་བར་འགྱུར<br>རྡོ་རྗེ་འཛིན་པ་ངེས་ཟུངས་ཤིག |
+| Before | By distinguishing [them] in that way,<br>the continuum of words is made clear.<br>By distinguishing its meanings,<br>the essence itself will also be seen.<br>Holder of the vajra, hold [this] with certainty. |
+| After | By distinguishing [them] in that way,<br>the continuum of phrases is made clear.<br>By distinguishing its meanings,<br>the essence itself will also be seen.<br>Holder of the vajra, hold [this] with certainty. |
+
+- **PD-025**: `ཚིག`; “continuum of words” → “continuum of phrases” (1 occurrence(s)); severity **medium**, confidence **medium**. Part I §8.1 phrase for a formulated verbal unit, tested against the explicit words/phrases distinction at 000234 and the existing contrived phrases at 000266. Scope is these mantra/formulation/meaning-versus-phrase constructions, not every generic speech word or a new shared default.
+
+#### MTP-000633 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རྒྱུད་ཀྱི་དངས་མ་གསུམ་ཤེས་ན<br>རི་གསུམ་རྩེ་མོར་ཕྱིན་པ་འདྲ |
+| Before | If [you] know the three refined essences of the continuum,<br>it is like reaching the peaks of three mountains. |
+| After | If [you] know the three pure extracts of the continuum,<br>it is like reaching the peaks of three mountains. |
+
+- **PD-017**: `དངས་མ`; “refined essences” → “pure extracts” (1 occurrence(s)); severity **medium**, confidence **high**. P2 pure extract / pure extract and residue; both members and source-supported number preserved, distinct from essence/core/quintessence and unresolved དངོས་མ.
+
+#### MTP-000649 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ལུང་རིག་གསལ་བའི་རྒྱུད་གཉིས་ཀྱིས<br>མེ་ཏོག་ཁ་བྱེའི་ཚུལ་དུ་བཤད |
+| Before | The two continua that make transmitted teaching and awareness clear<br>explain in the manner of flowers opening. |
+| After | The two continua that make transmission and awareness clear<br>explain in the manner of flowers opening. |
+
+- **PD-011**: `ལུང`; “transmitted teaching” → “transmission” (1 occurrence(s)); severity **medium**, confidence **high**. P2 transmission in teaching/naming contexts. Keep source-supported scriptural at 000197, not as an automatic modifier elsewhere; retain continuum/tantra distinctions and open apposition.
+
+#### MTP-000659 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | ཀྱེ་མ་དྲུག་པ་རྡོ་རྗེ་འཆང<br>རྒྱུད་ཀུན་རིམ་པ་དེ་ལྟར་ན<br>མ་འོངས་སེམས་ཅན་རྣམས་ལ་ཡང<br>རྒྱུད་ཀུན་བསྡོམས་པས་གཅིག་གྱུར་པའི<br>སྙིང་པོ་ཐམས་ཅད་དྲིལ་ནས་ནི<br>སེམས་ཅན་རྣམས་ལ་ཇི་ལྟར་བསྟན<br>རྡོ་རྗེ་འཆང་གིས་བདག་ལ་གསུངས |
+| Before | “O, sixth Vajradhara,<br>if the sequence of all continua is like that,<br>also for sentient beings to come,<br>of [what] becomes one through summing all continua,<br>having drawn together the entire core,<br>how should [this] be taught to sentient beings?<br>Vajradhara, speak to me.” |
+| After | “O, sixth Vajradhara,<br>if the sequence of all continua is like that,<br>also for karmic beings to come,<br>of [what] becomes one through summing all continua,<br>having drawn together the entire core,<br>how should [this] be taught to karmic beings?<br>Vajradhara, speak to me.” |
+
+- **PD-004**: `སེམས་ཅན`; “sentient beings” → “karmic beings” (2 occurrence(s)); severity **medium**, confidence **high**. P2 karmic being for the complete སེམས་ཅན expression; preserve number and possessives; do not change bodily beings, creatures or ordinary mind.
+
+#### MTP-000670 — chapter 8
+
+Location: [`chapters/08/translation.md`](chapters/08/translation.md); fixed source: [`chapters/08/source.md`](chapters/08/source.md).
+
+| Evidence | Exact content |
+| --- | --- |
+| Tibetan | རིགས་གསུམ་གྱི་ཁྲོ་བོ་དང<br>སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་དང<br>ལྷ་དང་ལྷ་མ་ཡིན་དང<br>མཁའ་འགྲོ་མ་དཔག་ཏུ་མེད་པ་དང<br>དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རང་སྟེ<br>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ |
+| Before | the wrathful ones of the three families; buddhas, Dharma and Saṅgha; deities and asuras; immeasurable ḍākinīs; and the world together with gandharvas rejoiced and openly praised what the Bhagavān had said. |
+| After | the wrathful ones of the three families; buddhas, Dharma and Saṅgha; deities and asuras; immeasurable ḍākinīs; and the world together with gandharvas rejoiced and openly praised what the Blessed One had said. |
+
+- **PD-001**: `བཅོམ་ལྡན་འདས`; “Bhagavān” → “Blessed One” (1 occurrence(s)); severity **medium**, confidence **high**. P2 approved full/short Blessed One honorific; retain proper names, descriptive epithets, speakers and case.
+
+### PD-028 affected existing note IDs
+
+Chapter 1 (9 notes; definitions in `chapters/01/translation.md`): `T01-007`, `T01-001`, `T01-015`, `T01-002`, `T01-009`, `T01-012`, `T01-016`, `T01-017`, `MTP-AUDIT-C01-078`.
+
+Chapter 2 (16 notes; definitions in `chapters/02/translation.md`): `T02-001`, `T02-004`, `T02-011`, `T02-012`, `T02-025`, `T02-017`, `T02-018`, `T02-013`, `T02-022`, `T02-020`, `T02-023`, `T02-002`, `T02-005`, `T02-009`, `T02-024`, `T02-014`.
+
+Chapter 3 (17 notes; definitions in `chapters/03/translation.md`): `T03-001`, `T03-012`, `T03-002`, `T03-004`, `T03-021`, `T03-005`, `T03-024`, `T03-006`, `T03-009`, `T03-020`, `T03-010`, `T03-016`, `T03-019`, `T03-023`, `T03-014`, `T03-003`, `T03-015`.
+
+Chapter 4 (38 notes; definitions in `chapters/04/translation.md`): `T04-003`, `T04-001`, `T04-101`, `T04-128`, `T04-130`, `T04-002`, `T04-114`, `T04-131`, `T04-017`, `T04-016`, `T04-129`, `T04-011`, `T04-010`, `T04-008`, `T04-012`, `T04-132`, `T04-115`, `T04-126`, `T04-118`, `T04-124`, `T04-116`, `T04-013`, `T04-108`, `T04-025`, `T04-023`, `T04-103`, `T04-109`, `T04-110`, `T04-111`, `T04-117`, `T04-134`, `T04-006`, `T04-021`, `T04-024`, `T04-135`, `T04-004`, `T04-005`, `T04-019`.
+
+Chapter 5 (46 notes; definitions in `chapters/05/translation.md`): `T05-001`, `T05-L025`, `T05-L001`, `T05-003`, `T05-007`, `T05-023`, `T05-005`, `T05-L018`, `T05-049`, `T05-028`, `T05-008`, `T05-010`, `T05-012`, `T05-037`, `T05-013`, `T05-021`, `T05-L036`, `T05-014`, `T05-L014`, `T05-L029`, `T05-L013`, `T05-L003`, `T05-009`, `T05-L010`, `T05-L012`, `T05-L028`, `T05-033`, `T05-024`, `T05-L016`, `T05-035`, `T05-029`, `T05-032`, `T05-L038`, `T05-038`, `T05-044`, `T05-045`, `T05-046`, `T05-047`, `T05-048`, `T05-L039`, `T05-016`, `T05-026`, `T05-030`, `MTP-AUDIT-C05-388`, `MTP-AUDIT-C05-162`, `MTP-AUDIT-C05-258`.
+
+Chapter 6 (41 notes; definitions in `chapters/06/translation.md`): `T06-001`, `T06-L006`, `T06-049`, `T06-L001`, `T06-005`, `T06-048`, `T06-036`, `T06-037`, `T06-L013`, `T06-006`, `T06-L004`, `T06-L008`, `T06-032`, `T06-007`, `T06-008`, `T06-040`, `T06-L012`, `T06-L014`, `T06-042`, `T06-009`, `T06-011`, `T06-029`, `T06-012`, `T06-046`, `T06-015`, `T06-016`, `T06-025`, `T06-020`, `T06-021`, `T06-L011`, `T06-028`, `T06-026`, `T06-027`, `T06-L009`, `T06-030`, `T06-038`, `T06-017`, `T06-018`, `T06-044`, `T06-013`, `T06-031`.
+
+Chapter 7 (47 notes; definitions in `chapters/07/translation.md`): `T07-001`, `T07-024`, `T07-055`, `T07-070`, `T07-034`, `T07-015`, `T07-057`, `T07-002`, `T07-020`, `T07-069`, `T07-062`, `T07-042`, `T07-051`, `T07-066`, `T07-028`, `T07-018`, `T07-033`, `T07-068`, `T07-012`, `T07-041`, `T07-004`, `T07-005`, `T07-025`, `T07-007`, `T07-043`, `T07-040`, `T07-017`, `T07-010`, `T07-011`, `T07-013`, `T07-016`, `T07-027`, `T07-029`, `T07-030`, `T07-044`, `T07-019`, `T07-021`, `T07-046`, `T07-036`, `T07-045`, `T07-031`, `T07-052`, `T07-049`, `T07-059`, `T07-053`, `T07-061`, `T07-054`.
+
+Chapter 8 (54 notes; definitions in `chapters/08/translation.md`): `T08-001`, `T08-019`, `T08-002`, `T08-011`, `T08-006`, `T08-003`, `T08-004`, `T08-021`, `T08-005`, `T08-012`, `T08-015`, `T08-018`, `T08-007`, `T08-023`, `T08-013`, `T08-020`, `T08-022`, `T08-024`, `T08-010`, `T08-025`, `T08-042`, `T08-026`, `T08-027`, `T08-028`, `T08-030`, `T08-031`, `T08-032`, `T08-029`, `T08-035`, `T08-038`, `T08-037`, `T08-039`, `T08-041`, `T08-033`, `T08-040`, `T08-045`, `T08-046`, `T08-050`, `T08-051`, `T08-057`, `T08-056`, `T08-060`, `T08-061`, `T08-063`, `T08-068`, `T08-067`, `T08-066`, `T08-064`, `T08-065`, `T08-047`, `T08-049`, `T08-052`, `T08-054`, `T08-059`.
+
+**Pre-edit state:** all review inputs and original English still unchanged. Recorded plan: **134 changed pairs, 189 replacement records / 195 occurrences, 27 English finding groups plus PD-028 note/usage status reconciliation**. These counts describe edits and coverage, not accuracy. Next: apply only this recorded plan, regenerate dependent working views, self-check the repaired clauses and run the actual validators/builds.
 
 ## Actual validation observations
 
