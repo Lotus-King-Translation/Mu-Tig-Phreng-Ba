@@ -1,1248 +1,1901 @@
-# String of Pearls — chapter 4: paired reading
+# String of Pearls — chapter 4: Tibetan and English
 
+Post-translation-review working revision of `translation-v1`, from fixed `golden-v1`. This is not a new formal release. All source comparisons and unresolved readings remain in the endnotes.
+
+This is an agent-produced working translation for human review. [Current review and unresolved decisions](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). [Fixed Tibetan source and attribution](../../../golden/README.md); [coverage and limits](coverage.json).
+
+## Chapter 4
+
+[Historical chapter release — not the current working text](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/tree/translate-ch04-v1)
+
+<a id="mtp-000100"></a>
 <!-- pair: MTP-000100; format: prose; role: source_metadata -->
-༄༤
 
-[Electronic chapter marker 4.][^MTP-AUDIT-C04-008]
+> [source_metadata] ༄༤
 
+> [source_metadata] [Electronic chapter marker 4.][^MTP-AUDIT-C04-008]
+
+<a id="mtp-000101"></a>
 <!-- pair: MTP-000101; format: prose; role: main_text -->
+
 དེ་ནས་རྟ་མགྲིན་དབང་གིས་རྒྱལ་པོས་འདི་སྐད་ཅེས་ཞུས་སོ
 
 Then Hayagrīva, the king of power, petitioned in these words:[^T04-001][^T04-002][^CH04-G000343][^MTP-AUDIT-C04-001][^MTP-AUDIT-C04-019][^MTP-AUDIT-C04-118]
 
+<a id="mtp-000102"></a>
 <!-- pair: MTP-000102; format: verse; role: main_text -->
-ཀྱེ་ཀྱེ་བཅོམ་ལྡན་ཐུགས་རྗེ་ཅན
-བདག་ཅག་རང་རིག་རྗེས་མཐུན་ལ
+
+ཀྱེ་ཀྱེ་བཅོམ་ལྡན་ཐུགས་རྗེ་ཅན  
+བདག་ཅག་རང་རིག་རྗེས་མཐུན་ལ  
 ཆོས་ཉིད་དབྱིངས་ཀྱི་བསྟན་པ་གསུངས
 
-“O, O Bhagavān, endowed with compassionate responsiveness!
-In accord with our self-awareness,
+“O, O Blessed One, endowed with compassionate responsiveness!  
+In accord with our self-awareness,  
 speak the teaching of the basic space of the nature of phenomena.”[^T04-002][^T04-003][^MTP-AUDIT-C04-001][^MTP-AUDIT-C04-020][^MTP-AUDIT-C04-021]
 
+<a id="mtp-000103"></a>
 <!-- pair: MTP-000103; format: verse; role: main_text -->
-དེ་སྐད་རབ་ཏུ་ཞུས་པ་དང
-བཅོམ་ལྡན་རྡོ་རྗེ་དཔའ་བོ་དེས
-ཏིང་ངེ་འཛིན་ལས་བཞེངས་ནས་ནི
+
+དེ་སྐད་རབ་ཏུ་ཞུས་པ་དང  
+བཅོམ་ལྡན་རྡོ་རྗེ་དཔའ་བོ་དེས  
+ཏིང་ངེ་འཛིན་ལས་བཞེངས་ནས་ནི  
 ཉེ་བའི་འཁོར་ལ་བཀའ་སྩལ་པ
 
-When [he] had thoroughly petitioned in these words,
-that Bhagavān, the vajra hero,
-arose from deep absorption
+When [he] had thoroughly petitioned in these words,  
+that Blessed One, the vajra hero,  
+arose from deep absorption  
 and spoke to the nearby retinue:[^T04-001][^MTP-AUDIT-C04-001][^MTP-AUDIT-C04-022][^MTP-AUDIT-C04-023][^MTP-AUDIT-C04-118]
 
+<a id="mtp-000104"></a>
 <!-- pair: MTP-000104; format: verse; role: main_text -->
-ཀྱེ་ཀྱེ་རྟ་མགྲིན་དབང་རྒྱལ་ཉོན
+
+ཀྱེ་ཀྱེ་རྟ་མགྲིན་དབང་རྒྱལ་ཉོན  
 ང་ཡིས་བསྟན་གྱིས་ལེགས་པར་ཉོན
 
-“O, O, Hayagrīva, king of power, listen!
+“O, O, Hayagrīva, king of power, listen!  
 I will teach; listen well.[^T04-001][^T04-004][^MTP-AUDIT-C04-001]
 
+<a id="mtp-000105"></a>
 <!-- pair: MTP-000105; format: verse; role: main_text -->
-ཆོས་དབྱིངས་རྒྱན་དང་ལྡན་པའི་ཕྱིར
-སངས་རྒྱས་ཀུན་གྱི་ཡེ་ཤེས་སྐུ
-སངས་རྒྱས་སེམས་ཅན་ཀུན་གྱི་དུར
+
+ཆོས་དབྱིངས་རྒྱན་དང་ལྡན་པའི་ཕྱིར  
+སངས་རྒྱས་ཀུན་གྱི་ཡེ་ཤེས་སྐུ  
+སངས་རྒྱས་སེམས་ཅན་ཀུན་གྱི་དུར  
 ཐེམ་ཞིང་ཡང་དག་དོན་ལ་སྤྱོད
 
-Because the basic space of phenomena is endowed with adornment,
-the embodiment of the primordial knowing of all buddhas—
-of all buddhas and sentient beings, [retained: དུར]
+Because the basic space of phenomena is endowed with adornment,  
+the embodiment of the primordial knowing of all buddhas—  
+of all buddhas and karmic beings, [retained: དུར]  
 [retained: ཐེམ་ཞིང]; [it] acts in the authentic meaning.[^T04-002][^T04-005][^CH04-G000355][^CH04-G000356][^MTP-AUDIT-C04-001][^MTP-AUDIT-C04-015][^MTP-AUDIT-C04-024][^MTP-AUDIT-C04-025][^MTP-AUDIT-C04-026][^MTP-AUDIT-C04-118]
 
+<a id="mtp-000106"></a>
 <!-- pair: MTP-000106; format: verse; role: main_text -->
+
 རིག་པ་སྐྱེ་མེད་སྣང་བ་ནི
 
 The non-arising appearance of awareness[^T04-006][^MTP-AUDIT-C04-001][^MTP-AUDIT-C04-002][^MTP-AUDIT-C04-027]
 
+<a id="mtp-000107"></a>
 <!-- pair: MTP-000107; format: prose; role: source_metadata -->
-༤༣༧
 
-[Printed page 437.][^MTP-AUDIT-C04-009]
+> [source_metadata] ༤༣༧
 
+> [source_metadata] [Printed page 437.][^MTP-AUDIT-C04-009]
+
+<a id="mtp-000108"></a>
 <!-- pair: MTP-000108; format: verse; role: main_text -->
-སྐྱེ་བྱ་སྐྱེ་བྱེད་གཉིས་ལས་འདས
-གསང་བའི་སྐུ་དང་རིག་པའི་ངང
-རྣམ་པར་དག་པའི་ཆོས་ཉིད་ལ
+
+སྐྱེ་བྱ་སྐྱེ་བྱེད་གཉིས་ལས་འདས  
+གསང་བའི་སྐུ་དང་རིག་པའི་ངང  
+རྣམ་པར་དག་པའི་ཆོས་ཉིད་ལ  
 ཐུགས་རྗེས་ཆོས་ཤིང་བཅད་དུ་མེད
 
-is beyond both what arises and what brings about arising.
-The secret embodiment and the state of awareness,
-in the completely pure nature of phenomena,
+is beyond both what arises and what brings about arising.  
+The secret embodiment and the state of awareness,  
+in the completely pure nature of phenomena,  
 are shaped by compassionate responsiveness and cannot be cut off.[^T04-002][^T04-006][^MTP-AUDIT-C04-002][^MTP-AUDIT-C04-028][^MTP-AUDIT-C04-029][^MTP-AUDIT-C04-030][^MTP-AUDIT-C04-031][^MTP-AUDIT-C04-119]
 
+<a id="mtp-000109"></a>
 <!-- pair: MTP-000109; format: verse; role: main_text -->
-ཆོས་ཉིད་དབྱིངས་ཀྱི་རྒྱན་བཟང་པོ
-ཐིག་ལེའི་སྣང་བ་མཐའ་ཡས་ཤིང
-སྐུ་ཡི་ངོ་བོ་ལུ་གུ་རྒྱུད
-ཡེ་ཤེས་སྣང་བའི་འོད་ཟེར་ལྔ
+
+ཆོས་ཉིད་དབྱིངས་ཀྱི་རྒྱན་བཟང་པོ  
+ཐིག་ལེའི་སྣང་བ་མཐའ་ཡས་ཤིང  
+སྐུ་ཡི་ངོ་བོ་ལུ་གུ་རྒྱུད  
+ཡེ་ཤེས་སྣང་བའི་འོད་ཟེར་ལྔ  
 སངས་རྒྱས་ཀུན་གྱི་ལམ་གྱི་སྐུ
 
-Excellent adornment of the basic space of the nature of phenomena:
-the appearance of spheres is boundless;
-the essence of embodiment—vajra chains;
-the five light rays of the appearance of primordial knowing—
+Excellent adornment of the basic space of the nature of phenomena:  
+the appearance of spheres is boundless;  
+the essence of embodiment—vajra chains;  
+the five light rays of the appearance of primordial knowing—  
 the embodiment of the path of all buddhas.”[^T04-002][^T04-004][^T04-007][^MTP-AUDIT-C04-002][^MTP-AUDIT-C04-032][^MTP-AUDIT-C04-033][^MTP-AUDIT-C04-034][^MTP-AUDIT-C04-035][^MTP-AUDIT-C04-036][^MTP-AUDIT-C04-119]
 
+<a id="mtp-000110"></a>
 <!-- pair: MTP-000110; format: verse; role: main_text -->
-ཆོས་ཉིད་ཡངས་པའི་དཀྱིལ་འཁོར་དུ
-གསང་སྔགས་ཐབས་ཀྱི་སྤྱོད་པ་ནི
+
+ཆོས་ཉིད་ཡངས་པའི་དཀྱིལ་འཁོར་དུ  
+གསང་སྔགས་ཐབས་ཀྱི་སྤྱོད་པ་ནི  
 བཅོམ་ལྡན་རྡོ་རྗེ་སེམས་དཔས་བསྟན
 
-In the vast mandala of the nature of phenomena,
-the activity of the means of secret mantra
-was taught by Bhagavān Vajrasattva:[^T04-001][^T04-002][^T04-004][^T04-008][^MTP-AUDIT-C04-002][^MTP-AUDIT-C04-037][^MTP-AUDIT-C04-038]
+In the vast mandala of the nature of phenomena,  
+the activity of the means of secret mantra  
+was taught by Blessed One Vajrasattva:[^T04-001][^T04-002][^T04-004][^T04-008][^MTP-AUDIT-C04-002][^MTP-AUDIT-C04-037][^MTP-AUDIT-C04-038]
 
+<a id="mtp-000111"></a>
 <!-- pair: MTP-000111; format: verse; role: main_text -->
-ཨེ་མ་ཧོ
-སྣང་བ་ཆེན་པོ་གསལ་བ་ཆེ
-དག་པའི་ཡེ་ཤེས་འོད་དུ་གསལ
-ཆོས་ཉིད་སྤྲོས་པ་མེད་པའི་ཀློང
-འགྱུར་མེད་ཕོ་བྲང་ལྷུན་འབྱམས་འདི
+
+ཨེ་མ་ཧོ  
+སྣང་བ་ཆེན་པོ་གསལ་བ་ཆེ  
+དག་པའི་ཡེ་ཤེས་འོད་དུ་གསལ  
+ཆོས་ཉིད་སྤྲོས་པ་མེད་པའི་ཀློང  
+འགྱུར་མེད་ཕོ་བྲང་ལྷུན་འབྱམས་འདི  
 སོ་སོར་སྣང་ཞིང་དོན་བྱེད་པས
 
-“Emaho!
-Great appearance has great clarity.
-Pure primordial knowing is clear as light.
-The expanse of the nature of phenomena, without conceptual elaborations—
-this spontaneously vast, unchanging palace—
+“How wondrous!  
+Great appearance has great clarity.  
+Pure primordial knowing is clear as light.  
+The expanse of the nature of phenomena, without conceptual elaborations—  
+this spontaneously vast, unchanging palace—  
 since [it] appears individually and serves purposes,[^T04-004][^T04-008][^MTP-AUDIT-C04-002][^MTP-AUDIT-C04-003][^MTP-AUDIT-C04-039][^MTP-AUDIT-C04-040][^MTP-AUDIT-C04-041][^MTP-AUDIT-C04-042][^MTP-AUDIT-C04-043][^MTP-AUDIT-C04-119][^MTP-AUDIT-C04-120]
 
+<a id="mtp-000112"></a>
 <!-- pair: MTP-000112; format: prose; role: source_metadata -->
-༤༣༨
 
-[Printed page 438.][^MTP-AUDIT-C04-010]
+> [source_metadata] ༤༣༨
 
+> [source_metadata] [Printed page 438.][^MTP-AUDIT-C04-010]
+
+<a id="mtp-000113"></a>
 <!-- pair: MTP-000113; format: verse; role: main_text -->
-རང་རིག་ཡེ་ཤེས་སྐུ་ཡི་ཀློང
-སྟོང་པའི་ཡེ་ཤེས་མཁའ་ལ་རོལ
-ཡང་དག་ཡེ་ཤེས་མ་འགགས་ཡངས
-ཏིང་འཛིན་ཡེ་ཤེས་མེ་དང་འདྲ
-ཡང་དག་ཡེ་ཤེས་རླུང་དང་འདྲ
-མ་བསྐྱོད་ཡེ་ཤེས་ཐབས་གསང་ཞིང
+
+རང་རིག་ཡེ་ཤེས་སྐུ་ཡི་ཀློང  
+སྟོང་པའི་ཡེ་ཤེས་མཁའ་ལ་རོལ  
+ཡང་དག་ཡེ་ཤེས་མ་འགགས་ཡངས  
+ཏིང་འཛིན་ཡེ་ཤེས་མེ་དང་འདྲ  
+ཡང་དག་ཡེ་ཤེས་རླུང་དང་འདྲ  
+མ་བསྐྱོད་ཡེ་ཤེས་ཐབས་གསང་ཞིང  
 ཆོས་ཉིད་ལུས་ཀྱི་རྒྱན་བཟང་བ
 
-the expanse of the embodiment of self-awareness’s primordial knowing
-plays in the space of empty primordial knowing.
-Authentic primordial knowing is unceasing and vast.
-The primordial knowing of deep absorption is like fire.
-Authentic primordial knowing is like wind.
-The means of unmoved primordial knowing are secret, and
+the expanse of the embodiment of self-awareness’s primordial knowing  
+plays in the space of empty primordial knowing.  
+Authentic primordial knowing is unceasing and vast.  
+The primordial knowing of deep absorption is like fire.  
+Authentic primordial knowing is like wind.  
+The means of unmoved primordial knowing are secret, and  
 the nature of phenomena is an excellent adornment of the body.[^T04-002][^T04-008][^MTP-AUDIT-C04-003][^MTP-AUDIT-C04-044][^MTP-AUDIT-C04-045][^MTP-AUDIT-C04-046][^MTP-AUDIT-C04-047][^MTP-AUDIT-C04-048][^MTP-AUDIT-C04-049]
 
+<a id="mtp-000114"></a>
 <!-- pair: MTP-000114; format: verse; role: main_text -->
-ཆོས་ཀྱི་སྐུ་ཡི་སྤྱོད་པ་ནི
-སངས་རྒྱས་ཀུན་གྱི་སྤྱོད་པ་དང
-ཐིག་ལེ་རྣམས་ཀྱི་བཞུགས་ས་ནི
+
+ཆོས་ཀྱི་སྐུ་ཡི་སྤྱོད་པ་ནི  
+སངས་རྒྱས་ཀུན་གྱི་སྤྱོད་པ་དང  
+ཐིག་ལེ་རྣམས་ཀྱི་བཞུགས་ས་ནི  
 ངང་གིས་མ་གཡོས་གཡོ་བ་མེད
 
-The activity of the dharma embodiment
-is the activity of all buddhas; and
-the abiding place of the spheres
+The activity of the dharma embodiment  
+is the activity of all buddhas; and  
+the abiding place of the spheres  
 is naturally unmoved, without movement.[^T04-009][^MTP-AUDIT-C04-003][^MTP-AUDIT-C04-050][^MTP-AUDIT-C04-051][^MTP-AUDIT-C04-052][^MTP-AUDIT-C04-053][^MTP-AUDIT-C04-120]
 
+<a id="mtp-000115"></a>
 <!-- pair: MTP-000115; format: verse; role: main_text -->
-ལྟ་བའི་ཡེ་ཤེས་ཐབས་མཁས་པས
-མ་བསྐྱོད་རྡོ་རྗེ་སེམས་དཔའི་ངང
-སྣ་ཚོགས་རོལ་པའི་སྐུ་བསྟན་པས
-རྒྱུན་ཏུ་སྣང་ཞིང་རྣམ་པར་རོལ
-གསང་སྔགས་ཐབས་ཀྱི་སྒོ་མང་བས
+
+ལྟ་བའི་ཡེ་ཤེས་ཐབས་མཁས་པས  
+མ་བསྐྱོད་རྡོ་རྗེ་སེམས་དཔའི་ངང  
+སྣ་ཚོགས་རོལ་པའི་སྐུ་བསྟན་པས  
+རྒྱུན་ཏུ་སྣང་ཞིང་རྣམ་པར་རོལ  
+གསང་སྔགས་ཐབས་ཀྱི་སྒོ་མང་བས  
 ཡིད་ཆེས་གསུམ་གྱིས་རབ་ཏུ་བསྟན
 
-Since the primordial knowing of the view is skilled in means,
-in the state of unmoved Vajrasattva,
-since the embodiment of varied play is shown,
-[it] appears continuously and fully plays.
-Since the means of secret mantra have many gates,
-[it] is thoroughly taught through the three assurances.[^T04-001][^T04-002][^T04-010][^MTP-AUDIT-C04-003][^MTP-AUDIT-C04-004][^MTP-AUDIT-C04-054][^MTP-AUDIT-C04-055][^MTP-AUDIT-C04-056][^MTP-AUDIT-C04-057][^MTP-AUDIT-C04-058][^MTP-AUDIT-C04-059][^MTP-AUDIT-C04-120]
+Since the primordial knowing of the view is skilled in means,  
+in the state of unmoved Vajrasattva,  
+since the embodiment of varied play is shown,  
+[it] appears continuously and fully plays.  
+Since the means of secret mantra have many gates,  
+[it] is thoroughly taught through the three convictions.[^T04-001][^T04-002][^T04-010][^MTP-AUDIT-C04-003][^MTP-AUDIT-C04-004][^MTP-AUDIT-C04-054][^MTP-AUDIT-C04-055][^MTP-AUDIT-C04-056][^MTP-AUDIT-C04-057][^MTP-AUDIT-C04-058][^MTP-AUDIT-C04-059][^MTP-AUDIT-C04-120]
 
+<a id="mtp-000116"></a>
 <!-- pair: MTP-000116; format: prose; role: source_metadata -->
-༤༣༩
 
-[Printed page 439.][^MTP-AUDIT-C04-011]
+> [source_metadata] ༤༣༩
 
+> [source_metadata] [Printed page 439.][^MTP-AUDIT-C04-011]
+
+<a id="mtp-000117"></a>
 <!-- pair: MTP-000117; format: verse; role: main_text -->
-ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ནི
-སྤྱོད་པ་མ་སྤྱད་རང་སར་གྲོལ
-ཐབས་ལས་སྐུ་ལྟར་སྣང་བ་དག
-གསང་སྔགས་ལམ་ལ་གནས་པ་ཡི
+
+ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ནི  
+སྤྱོད་པ་མ་སྤྱད་རང་སར་གྲོལ  
+ཐབས་ལས་སྐུ་ལྟར་སྣང་བ་དག  
+གསང་སྔགས་ལམ་ལ་གནས་པ་ཡི  
 བསམ་འདས་རབ་དག་ཡུལ་ལས་འདས
 
-The root of all phenomena
-is liberated in its own place without enacting activity.
-Those that appear like embodiment through means,
-abiding on the path of secret mantra,
+The root of all phenomena  
+is liberated in its own place without enacting activity.  
+Those that appear like embodiment through means,  
+abiding on the path of secret mantra,  
 are beyond thinking, utterly pure, and beyond objects.[^T04-002][^T04-011][^MTP-AUDIT-C04-004][^MTP-AUDIT-C04-060][^MTP-AUDIT-C04-061][^MTP-AUDIT-C04-062][^MTP-AUDIT-C04-063][^MTP-AUDIT-C04-064][^MTP-AUDIT-C04-121]
 
+<a id="mtp-000118"></a>
 <!-- pair: MTP-000118; format: verse; role: main_text -->
-བག་ཆགས་ཡུལ་རྣམས་སྐུ་ཡི་ངང
-གསང་སྔགས་ཐམས་ཅད་ཐབས་ལ་ཐུག
-ཆགས་མེད་ཡེ་ཤེས་གསུང་གི་ངང
-ལྷུན་རྫོགས་ཆེན་པོའི་ལྟ་བར་བསྟན
-སངས་རྒྱས་ཀུན་དང་མཉམ་སྦྱོར་ཞིང
-ཐུགས་རྗེ་དྲི་མ་རྣམ་པར་དག
+
+བག་ཆགས་ཡུལ་རྣམས་སྐུ་ཡི་ངང  
+གསང་སྔགས་ཐམས་ཅད་ཐབས་ལ་ཐུག  
+ཆགས་མེད་ཡེ་ཤེས་གསུང་གི་ངང  
+ལྷུན་རྫོགས་ཆེན་པོའི་ལྟ་བར་བསྟན  
+སངས་རྒྱས་ཀུན་དང་མཉམ་སྦྱོར་ཞིང  
+ཐུགས་རྗེ་དྲི་མ་རྣམ་པར་དག  
 ཤེས་རབ་ཆེན་པོར་གྱུར་པའོ
 
-The objects of habitual tendencies are the state of embodiment.
-All secret mantra comes down to means.
-Primordial knowing without attachment—the state of speech—
-is taught as the view of great spontaneous completeness.
-[It] joins equally with all buddhas,
-compassionate responsiveness, with stains completely pure,
+The objects of habitual tendencies are the state of embodiment.  
+All secret mantra comes down to means.  
+Primordial knowing without attachment—the state of speech—  
+is taught as the view of great spontaneous completeness.  
+[It] joins equally with all buddhas,  
+compassionate responsiveness, with stains completely pure,  
 becoming great discerning knowing.[^T04-002][^T04-012][^MTP-AUDIT-C04-004][^MTP-AUDIT-C04-065][^MTP-AUDIT-C04-066][^MTP-AUDIT-C04-067][^MTP-AUDIT-C04-068][^MTP-AUDIT-C04-069][^MTP-AUDIT-C04-121]
 
+<a id="mtp-000119"></a>
 <!-- pair: MTP-000119; format: verse; role: main_text -->
-སྟོང་དག་ཡེ་ཤེས་རང་བྱུང་བ
-ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ནི
-གསང་སྔགས་ལུ་གུ་རྒྱུད་ཀྱི་ངང
-ཆོས་རྣམས་ཀུན་གྱི་རང་བྱུང་ནི
+
+སྟོང་དག་ཡེ་ཤེས་རང་བྱུང་བ  
+ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ནི  
+གསང་སྔགས་ལུ་གུ་རྒྱུད་ཀྱི་ངང  
+ཆོས་རྣམས་ཀུན་གྱི་རང་བྱུང་ནི  
 དབྱིངས་ཀྱི་སྒྲོན་མ་ཐབས་ཀྱི་རྒྱ
 
-Naturally arising primordial knowing, empty and pure—
-the root of all phenomena—
-[is] the state of secret mantra’s vajra chains.
-The natural arising of all phenomena
+Naturally arising primordial knowing, empty and pure—  
+the root of all phenomena—  
+[is] the state of secret mantra’s vajra chains.  
+The natural arising of all phenomena  
 [is] the lamp of basic space, the seal of means.[^T04-002][^T04-013][^MTP-AUDIT-C04-004][^MTP-AUDIT-C04-005][^MTP-AUDIT-C04-070][^MTP-AUDIT-C04-071][^MTP-AUDIT-C04-072][^MTP-AUDIT-C04-073][^MTP-AUDIT-C04-074][^MTP-AUDIT-C04-121]
 
+<a id="mtp-000120"></a>
 <!-- pair: MTP-000120; format: prose; role: source_metadata -->
-༤༤༠
 
-[Printed page 440.][^MTP-AUDIT-C04-012]
+> [source_metadata] ༤༤༠
 
+> [source_metadata] [Printed page 440.][^MTP-AUDIT-C04-012]
+
+<a id="mtp-000121"></a>
 <!-- pair: MTP-000121; format: verse; role: main_text -->
-ཆོས་སྐུ་དངོས་པོའི་ལམ་དུ་སྣང
-དྲི་མ་མེད་པའི་ཡེ་ཤེས་ནི
-སྟོང་པའི་ཡུལ་གྱི་གནད་དུ་བརྡེག
-མན་ངག་རྒྱལ་པོ་སྤྱི་བཅིངས་དང
+
+ཆོས་སྐུ་དངོས་པོའི་ལམ་དུ་སྣང  
+དྲི་མ་མེད་པའི་ཡེ་ཤེས་ནི  
+སྟོང་པའི་ཡུལ་གྱི་གནད་དུ་བརྡེག  
+མན་ངག་རྒྱལ་པོ་སྤྱི་བཅིངས་དང  
 ཐམས་ཅད་རང་སྣང་ལྷུན་རྫོགས་པའོ
 
-The dharma embodiment appears on the path of entities.
-Primordial knowing without stains
-strikes the vital point of the object of emptiness.
-The king of pith instruction binds all together, and
+The dharma embodiment appears on the path of entities.  
+Primordial knowing without stains  
+strikes the key point of the object of emptiness.  
+The king of pith instruction binds all together, and  
 everything—self-appearance—is spontaneously complete.[^T04-002][^T04-013][^MTP-AUDIT-C04-005][^MTP-AUDIT-C04-075][^MTP-AUDIT-C04-076][^MTP-AUDIT-C04-077][^MTP-AUDIT-C04-078][^MTP-AUDIT-C04-079][^MTP-AUDIT-C04-122]
 
+<a id="mtp-000122"></a>
 <!-- pair: MTP-000122; format: verse; role: main_text -->
-ཨེ་མ་ཧོ
-རྣལ་འབྱོར་ཀུན་གྱི་ལྟ་བ་ནི
-སེམས་ཀྱི་སྒོ་བཅད་རྣམ་རྟོག་དངས
-ཁྱིམ་ཡངས་ཕུགས་རྡིབ་མན་ངག་ནི
+
+ཨེ་མ་ཧོ  
+རྣལ་འབྱོར་ཀུན་གྱི་ལྟ་བ་ནི  
+སེམས་ཀྱི་སྒོ་བཅད་རྣམ་རྟོག་དངས  
+ཁྱིམ་ཡངས་ཕུགས་རྡིབ་མན་ངག་ནི  
 འདོད་པའི་སྒོ་བཅད་ཡེ་ཤེས་ནང་དུ་གསལ
 
-Emaho!
-As for the view of all yogas:
-the gate of ordinary mind is closed; differentiating conceptualization clears.
-The pith instruction: a spacious house, a collapsed interior;
+How wondrous!  
+As for the view of all yogas:  
+the gate of ordinary mind is closed; differentiating conceptualization clears.  
+The pith instruction: a spacious house, a collapsed interior;  
 with desire’s gate closed, primordial knowing is clear within.[^T04-002][^T04-014][^MTP-AUDIT-C04-005][^MTP-AUDIT-C04-016][^MTP-AUDIT-C04-080][^MTP-AUDIT-C04-081][^MTP-AUDIT-C04-082][^MTP-AUDIT-C04-083][^MTP-AUDIT-C04-122]
 
+<a id="mtp-000123"></a>
 <!-- pair: MTP-000123; format: verse; role: main_text -->
-ཆོས་ཉིད་ལམ་དུ་ཁྱེར་ན་ཡེ་ཤེས་སྣང་བ་དག
-ཁྱི་རྐུན་མདོར་ཕྱུང་རིག་པའི་ངོ་བོ་ཟིན
-མཚན་མ་ཟིལ་གནོན་སྣང་བ་རྒྱ་ཡིས་བཏབ
-ཡེ་ཤེས་འགྱུར་མེད་ཀློང་ཡངས་འོད་དབྱིངས་ཀུན་ཏུ་ཆུབ
+
+ཆོས་ཉིད་ལམ་དུ་ཁྱེར་ན་ཡེ་ཤེས་སྣང་བ་དག  
+ཁྱི་རྐུན་མདོར་ཕྱུང་རིག་པའི་ངོ་བོ་ཟིན  
+མཚན་མ་ཟིལ་གནོན་སྣང་བ་རྒྱ་ཡིས་བཏབ  
+ཡེ་ཤེས་འགྱུར་མེད་ཀློང་ཡངས་འོད་དབྱིངས་ཀུན་ཏུ་ཆུབ  
 ཤེས་རབ་རང་སྣང་ཆོས་ཉིད་ཡུལ་དུ་ཆོད
 
-If [one] carries the nature of phenomena onto the path, primordial knowing’s appearances—
-dogs and thieves are brought out [མདོར: relation unresolved]; the essence of awareness is held.
-Marks are subdued; appearance is stamped with a seal.
-Primordial knowing—unchanging, a vast expanse—fully masters light’s basic space.
+If [one] carries the nature of phenomena onto the path, primordial knowing’s appearances—  
+dogs and thieves are brought out [མདོར: relation unresolved]; the essence of awareness is held.  
+Marks are subdued; appearance is stamped with a seal.  
+Primordial knowing—unchanging, a vast expanse—fully masters light’s basic space.  
 Discerning knowing—self-appearance—is ascertained in the object of the nature of phenomena.[^T04-002][^T04-015][^T04-016][^MTP-AUDIT-C04-005][^MTP-AUDIT-C04-006][^MTP-AUDIT-C04-084][^MTP-AUDIT-C04-085][^MTP-AUDIT-C04-086][^MTP-AUDIT-C04-087][^MTP-AUDIT-C04-088][^MTP-AUDIT-C04-089][^MTP-AUDIT-C04-122]
 
+<a id="mtp-000124"></a>
 <!-- pair: MTP-000124; format: prose; role: source_metadata -->
-༤༤༡
 
-[Printed page 441.][^MTP-AUDIT-C04-013]
+> [source_metadata] ༤༤༡
 
+> [source_metadata] [Printed page 441.][^MTP-AUDIT-C04-013]
+
+<a id="mtp-000125"></a>
 <!-- pair: MTP-000125; format: verse; role: main_text -->
-རྐྱེན་བྲལ་ཆོས་ཉིད་ཀུན་གྱི་སྙིང་པོར་གནས
+
+རྐྱེན་བྲལ་ཆོས་ཉིད་ཀུན་གྱི་སྙིང་པོར་གནས  
 སྣང་བ་ཆིག་ཆོད་མཁའ་ལ་རྒྱུག
 
-The nature of phenomena, free from conditions, abides as the core of all.
+The nature of phenomena, free from conditions, abides as the core of all.  
 [With] appearance resolved in one [point], run into space.[^T04-002][^T04-016][^MTP-AUDIT-C04-006][^MTP-AUDIT-C04-090][^MTP-AUDIT-C04-091][^MTP-AUDIT-C04-123]
 
+<a id="mtp-000126"></a>
 <!-- pair: MTP-000126; format: verse; role: main_text -->
-ཨེ་མ་ཧོ
-རང་རིག་ཡེ་ཤེས་མ་གཡོས་ངང་དུ་ཞོག
-མ་རིག་པ་ཉིད་ཀློང་དུ་སྐྱོལ
-འཁོར་བ་ཉིད་ཀྱང་རུ་ནས་བཟློག
+
+ཨེ་མ་ཧོ  
+རང་རིག་ཡེ་ཤེས་མ་གཡོས་ངང་དུ་ཞོག  
+མ་རིག་པ་ཉིད་ཀློང་དུ་སྐྱོལ  
+འཁོར་བ་ཉིད་ཀྱང་རུ་ནས་བཟློག  
 སྤྱད་པས་མ་ཕྱེད་ཡུལ་དུ་མེད
 
-Emaho!
-Rest self-awareness’s primordial knowing in an unmoved state.
-Carry ignorance itself into the expanse.
-Turn back even saṃsāra [རུ་ནས: locus unresolved].
+How wondrous!  
+Rest self-awareness’s primordial knowing in an unmoved state.  
+Carry ignorance itself into the expanse.  
+Turn back even cyclic existence [རུ་ནས: locus unresolved].  
 [It] is not distinguished by activity and does not exist as an object.[^T04-002][^T04-017][^MTP-AUDIT-C04-006][^MTP-AUDIT-C04-092][^MTP-AUDIT-C04-093][^MTP-AUDIT-C04-094][^MTP-AUDIT-C04-095]
 
+<a id="mtp-000127"></a>
 <!-- pair: MTP-000127; format: verse; role: main_text -->
-རྩ་བ་ལྔ་དག་ཡེ་ཤེས་སྐུ
-དྲན་བྱེད་སངས་པས་རང་རིག་དག
+
+རྩ་བ་ལྔ་དག་ཡེ་ཤེས་སྐུ  
+དྲན་བྱེད་སངས་པས་རང་རིག་དག  
 ཀུན་གྱི་ལམ་ལ་རྣམ་པར་སྣང
 
-The five roots themselves are the embodiment of primordial knowing.
-Since that which remembers is cleared away, pure self-awareness
+The five roots themselves are the embodiment of primordial knowing.  
+Since that which remembers is cleared away, pure self-awareness  
 appears distinctly on the path of all.[^T04-002][^T04-018][^MTP-AUDIT-C04-006][^MTP-AUDIT-C04-096][^MTP-AUDIT-C04-097][^MTP-AUDIT-C04-098][^MTP-AUDIT-C04-123]
 
+<a id="mtp-000128"></a>
 <!-- pair: MTP-000128; format: verse; role: main_text -->
-ཀུན་གཞི་ལུས་ཀྱི་མེ་ལོང་ལ
-སྟོང་རིག་གསལ་བའི་གཞི་བསྟན་པས
-གཞན་བྱུང་འཁྲུལ་པ་གཞི་ལ་བསྐྱལ
-ཕུང་པོ་ལྔ་ཉིད་རྒྱུ་མེད་པས
+
+ཀུན་གཞི་ལུས་ཀྱི་མེ་ལོང་ལ  
+སྟོང་རིག་གསལ་བའི་གཞི་བསྟན་པས  
+གཞན་བྱུང་འཁྲུལ་པ་གཞི་ལ་བསྐྱལ  
+ཕུང་པོ་ལྔ་ཉིད་རྒྱུ་མེད་པས  
 འཁྲུལ་པའི་ལུས་ནི་མངོན་སངས་རྒྱས
 
-In the mirror of the all-basis body,
-since the ground of empty, clear awareness is shown,
-delusion arising from another is brought to the ground.
-Since the five aggregates themselves are without cause,
+In the mirror of the all-basis body,  
+since the Ground of empty, clear awareness is shown,  
+delusion arising from another is brought to the Ground.  
+Since the five aggregates themselves are without cause,  
 the body of delusion is manifestly buddha.[^T04-002][^T04-019][^MTP-AUDIT-C04-006][^MTP-AUDIT-C04-007][^MTP-AUDIT-C04-099][^MTP-AUDIT-C04-100][^MTP-AUDIT-C04-101][^MTP-AUDIT-C04-102][^MTP-AUDIT-C04-103][^MTP-AUDIT-C04-123]
 
+<a id="mtp-000129"></a>
 <!-- pair: MTP-000129; format: prose; role: source_metadata -->
-༤༤༢
 
-[Printed page 442.][^MTP-AUDIT-C04-014]
+> [source_metadata] ༤༤༢
 
+> [source_metadata] [Printed page 442.][^MTP-AUDIT-C04-014]
+
+<a id="mtp-000130"></a>
 <!-- pair: MTP-000130; format: verse; role: main_text -->
-འབྱུང་བ་ལྔ་ཉིད་ཡེ་དངས་པས
-སྣང་བ་འོད་གསལ་གཉིད་དུ་གྲོལ
-དབང་པོ་ལྔ་ཉིད་ཅེར་བཞག་པས
-འཛིན་པའི་ཡུལ་ལྔ་རང་སར་གྲོལ
-ཉོན་མོངས་ལྔ་ཉིད་རང་ཡིན་པས
+
+འབྱུང་བ་ལྔ་ཉིད་ཡེ་དངས་པས  
+སྣང་བ་འོད་གསལ་གཉིད་དུ་གྲོལ  
+དབང་པོ་ལྔ་ཉིད་ཅེར་བཞག་པས  
+འཛིན་པའི་ཡུལ་ལྔ་རང་སར་གྲོལ  
+ཉོན་མོངས་ལྔ་ཉིད་རང་ཡིན་པས  
 ཁམས་གསུམ་ཉིད་ནི་གཞི་ལ་བསྐྱལ
 
-Since the five elements themselves are primordially clarified,
-appearance is liberated into clear-light sleep.
-Since the five faculties themselves are left in naked resting,
-the five objects of the apprehending subject are liberated in their own place.
-Since the five afflictions themselves are [one’s] own,
-the three realms themselves are brought to the ground.[^T04-002][^T04-020][^CH04-G000446][^MTP-AUDIT-C04-007][^MTP-AUDIT-C04-017][^MTP-AUDIT-C04-104][^MTP-AUDIT-C04-105][^MTP-AUDIT-C04-106][^MTP-AUDIT-C04-107][^MTP-AUDIT-C04-108][^MTP-AUDIT-C04-109][^MTP-AUDIT-C04-124]
+Since the five elements themselves are primordially clarified,  
+appearance is liberated into clear-light sleep.  
+Since the five faculties themselves are left in naked resting,  
+the five objects of the apprehending subject are liberated in their own place.  
+Since the five afflictions themselves are [one’s] own,  
+the three realms themselves are brought to the Ground.[^T04-002][^T04-020][^CH04-G000446][^MTP-AUDIT-C04-007][^MTP-AUDIT-C04-017][^MTP-AUDIT-C04-104][^MTP-AUDIT-C04-105][^MTP-AUDIT-C04-106][^MTP-AUDIT-C04-107][^MTP-AUDIT-C04-108][^MTP-AUDIT-C04-109][^MTP-AUDIT-C04-124]
 
+<a id="mtp-000131"></a>
 <!-- pair: MTP-000131; format: verse; role: main_text -->
-མ་རིག་པ་ཉིད་རང་བྱུང་བས
-འཁྲུལ་པའི་རྒྱུ་ཉིད་ཡེ་ནས་སངས
-ཀུན་གཞི་ཆོས་སྐུར་རང་ཤར་བས
-རྒྱུད་ཀྱི་སྐྱེ་བ་རྩད་ནས་བཅད
-ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས
+
+མ་རིག་པ་ཉིད་རང་བྱུང་བས  
+འཁྲུལ་པའི་རྒྱུ་ཉིད་ཡེ་ནས་སངས  
+ཀུན་གཞི་ཆོས་སྐུར་རང་ཤར་བས  
+རྒྱུད་ཀྱི་སྐྱེ་བ་རྩད་ནས་བཅད  
+ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས  
 འགྱུ་བྱེད་རྣམས་ནི་རང་བཞག་ཡིན
 
-Since ignorance itself arises naturally,
-the very cause of delusion is cleared away from the beginning.
-Since the all-basis self-arises as the dharma embodiment,
-the arising of the continuum is cut at the root.
-Since [it is] from the beginning in wish-fulfilling enlightened intent [construction unresolved],
+Since ignorance itself arises naturally,  
+the very cause of delusion is cleared away from the beginning.  
+Since the all-basis self-arises as the dharma embodiment,  
+the arising of the continuum is cut at the root.  
+Since [it is] from the beginning in wish-fulfilling enlightened intent [construction unresolved],  
 those that bring about movement are self-resting.[^T04-002][^T04-021][^CH04-G000456][^MTP-AUDIT-C04-007][^MTP-AUDIT-C04-018][^MTP-AUDIT-C04-110][^MTP-AUDIT-C04-111][^MTP-AUDIT-C04-112][^MTP-AUDIT-C04-113][^MTP-AUDIT-C04-114][^MTP-AUDIT-C04-115][^MTP-AUDIT-C04-124]
 
+<a id="mtp-000132"></a>
 <!-- pair: MTP-000132; format: verse; role: main_text -->
-དབུགས་ནི་ཡེ་ནས་རྒྱུན་ཆད་པས
+
+དབུགས་ནི་ཡེ་ནས་རྒྱུན་ཆད་པས  
 སྐྱེ་ཤི་གདོད་ནས་ཡོད་མ་ཡིན
 
-Since the continuity of breath has been cut from the beginning,
+Since the continuity of breath has been cut from the beginning,  
 birth and death have not existed from the very beginning.[^T04-022][^MTP-AUDIT-C04-007][^MTP-AUDIT-C04-116][^MTP-AUDIT-C04-117][^MTP-AUDIT-C04-143]
 
+<a id="mtp-000133"></a>
 <!-- pair: MTP-000133; format: prose; role: source_metadata -->
-༤༤༣
 
-[Printed page 443.][^MTP-AUDIT-C04-125][^MTP-AUDIT-C04-127]
+> [source_metadata] ༤༤༣
 
+> [source_metadata] [Printed page 443.][^MTP-AUDIT-C04-125][^MTP-AUDIT-C04-127]
+
+<a id="mtp-000134"></a>
 <!-- pair: MTP-000134; format: verse; role: main_text -->
-འདོད་པའི་ཡོན་ཏན་ཡེ་རྫོགས་པས
-ཞེན་པའི་མཐའ་ནི་བསྒོམ་པ་ཉིད
-ཡན་ལག་མ་བསྐྱོད་ཡེ་ཕྱིན་པས
-འགྲོ་བའི་ལམ་ཉིད་ཡེ་ནས་བགྲོད
-སྨྲས་པའི་ངག་ནི་བརྗོད་མེད་པས
+
+འདོད་པའི་ཡོན་ཏན་ཡེ་རྫོགས་པས  
+ཞེན་པའི་མཐའ་ནི་བསྒོམ་པ་ཉིད  
+ཡན་ལག་མ་བསྐྱོད་ཡེ་ཕྱིན་པས  
+འགྲོ་བའི་ལམ་ཉིད་ཡེ་ནས་བགྲོད  
+སྨྲས་པའི་ངག་ནི་བརྗོད་མེད་པས  
 ཡེ་ནས་སྨྲ་བསམ་ཡུལ་ལས་འདས
 
-Since the qualities of desire are primordially complete,
-the limit of clinging is cultivation itself.
-Since [one] has primordially arrived without moving the limbs,
-the path of going has been traversed from the beginning.
-Since spoken speech is inexpressible,
+Since the qualities of desire are primordially complete,  
+the limit of clinging is cultivation itself.  
+Since [one] has primordially arrived without moving the limbs,  
+the path of going has been traversed from the beginning.  
+Since spoken speech is inexpressible,  
 [it] is beyond the objects of speech and thinking from the beginning.[^T04-002][^T04-022][^MTP-AUDIT-C04-126][^MTP-AUDIT-C04-144][^MTP-AUDIT-C04-145][^MTP-AUDIT-C04-146][^MTP-AUDIT-C04-147][^MTP-AUDIT-C04-148]
 
+<a id="mtp-000135"></a>
 <!-- pair: MTP-000135; format: verse; role: main_text -->
-མེད་པའི་འཕྲོ་འདུ་ཡེ་སྟོང་པས
-ཡེ་ནས་བསམ་གཏན་ཆེན་པོར་གནས
-དྲི་མ་རྣམས་ནི་རང་དག་པས
-དྲི་མེད་ཟང་ཐལ་ཆེན་པོར་གནས
-བྱས་པ་བྱུང་བ་མེད་པའི་ཕྱིར
+
+མེད་པའི་འཕྲོ་འདུ་ཡེ་སྟོང་པས  
+ཡེ་ནས་བསམ་གཏན་ཆེན་པོར་གནས  
+དྲི་མ་རྣམས་ནི་རང་དག་པས  
+དྲི་མེད་ཟང་ཐལ་ཆེན་པོར་གནས  
+བྱས་པ་བྱུང་བ་མེད་པའི་ཕྱིར  
 ཐོག་མ་ཉིད་ནས་བྱ་བྱེད་བྲལ
 
-Since the proliferating and gathering of nonexistence are primordially empty,
-[one] abides in great meditative concentration from the beginning.
-Since the stains are self-purified,
-[one] abides in great stainless unimpeded penetration.
-Because what is done has not arisen,
+Since the proliferating and gathering of nonexistence are primordially empty,  
+[one] abides in great meditative stability from the beginning.  
+Since the stains are self-purified,  
+[one] abides in great stainless unimpeded penetration.  
+Because what is done has not arisen,  
 [one is] free from doing and the doer from the outset.[^T04-002][^T04-023][^CH04-G000469][^CH04-G000470][^MTP-AUDIT-C04-126][^MTP-AUDIT-C04-149][^MTP-AUDIT-C04-150][^MTP-AUDIT-C04-151][^MTP-AUDIT-C04-152][^MTP-AUDIT-C04-153]
 
+<a id="mtp-000136"></a>
 <!-- pair: MTP-000136; format: verse; role: main_text -->
+
 གཞི་ནས་གཞན་འབྱུང་ཆོས་མེད་པས
 
-Since, from the ground, no phenomena arise from another,[^T04-002][^T04-024][^MTP-AUDIT-C04-126][^MTP-AUDIT-C04-154][^MTP-AUDIT-C04-155]
+Since, from the Ground, no phenomena arise from another,[^T04-002][^T04-024][^MTP-AUDIT-C04-126][^MTP-AUDIT-C04-154][^MTP-AUDIT-C04-155]
 
+<a id="mtp-000137"></a>
 <!-- pair: MTP-000137; format: prose; role: source_metadata -->
-༤༤༤
 
-[Printed page 444.][^MTP-AUDIT-C04-128][^MTP-AUDIT-C04-130]
+> [source_metadata] ༤༤༤
 
+> [source_metadata] [Printed page 444.][^MTP-AUDIT-C04-128][^MTP-AUDIT-C04-130]
+
+<a id="mtp-000138"></a>
 <!-- pair: MTP-000138; format: verse; role: main_text -->
-གདོད་ནས་རང་བྱུང་ཉག་གཅིག་གོ
-གཅིག་དང་ཉིས་ཀྱི་གྲངས་ཟད་པས
-ཐིག་ལེ་ཟླ་དང་བྲལ་བ་ཉིད
-མུན་པ་གདོད་ནས་རྣམ་དག་པས
+
+གདོད་ནས་རང་བྱུང་ཉག་གཅིག་གོ  
+གཅིག་དང་ཉིས་ཀྱི་གྲངས་ཟད་པས  
+ཐིག་ལེ་ཟླ་དང་བྲལ་བ་ཉིད  
+མུན་པ་གདོད་ནས་རྣམ་དག་པས  
 རིག་པའི་སྣང་བ་འོད་གསལ་ཁྱབ
 
-from the very beginning, [there is] only natural arising.
-Since the numbers one and two are exhausted,
-the sphere itself is without a companion.
-Since darkness is completely pure from the very beginning,
+from the very beginning, [there is] only natural arising.  
+Since the numbers one and two are exhausted,  
+the sphere itself is without a companion.  
+Since darkness is completely pure from the very beginning,  
 the appearance of awareness pervades as clear light.[^T04-002][^T04-024][^MTP-AUDIT-C04-129][^MTP-AUDIT-C04-156][^MTP-AUDIT-C04-157][^MTP-AUDIT-C04-158][^MTP-AUDIT-C04-159][^MTP-AUDIT-C04-160]
 
+<a id="mtp-000139"></a>
 <!-- pair: MTP-000139; format: verse; role: main_text -->
-འཁོར་བ་རྒྱུ་མེད་འགགས་ཟིན་པས
-ཡེ་ནས་སངས་རྒྱས་ཉིད་ཀྱི་ས
-མཚན་མའི་དངོས་པོ་སྟོང་སངས་པས
-བདག་འཛིན་བློ་ནི་ཡེ་ནས་ཟད
-རྐྱེན་རྣམས་རྐྱེན་གྱིས་རང་གྲོལ་བས
+
+འཁོར་བ་རྒྱུ་མེད་འགགས་ཟིན་པས  
+ཡེ་ནས་སངས་རྒྱས་ཉིད་ཀྱི་ས  
+མཚན་མའི་དངོས་པོ་སྟོང་སངས་པས  
+བདག་འཛིན་བློ་ནི་ཡེ་ནས་ཟད  
+རྐྱེན་རྣམས་རྐྱེན་གྱིས་རང་གྲོལ་བས  
 ལྟོས་ཆོས་རྣམས་ནི་ཅོག་བཞག་པའོ
 
-Since saṃsāra, without cause, has already ceased,
-[there is] the level of buddha itself from the beginning.
-Since entities of marks are emptied and cleared away,
-the self-grasping conceptual mind is exhausted from the beginning.
-Since conditions are self-liberated by conditions,
+Since cyclic existence, without cause, has already ceased,  
+[there is] the level of buddha itself from the beginning.  
+Since entities of marks are emptied and cleared away,  
+the self-grasping conceptual mind is exhausted from the beginning.  
+Since conditions are self-liberated by conditions,  
 dependent phenomena are left as they are.”[^T04-002][^T04-004][^T04-025][^MTP-AUDIT-C04-129][^MTP-AUDIT-C04-161][^MTP-AUDIT-C04-162][^MTP-AUDIT-C04-163][^MTP-AUDIT-C04-164][^MTP-AUDIT-C04-165]
 
+<a id="mtp-000140"></a>
 <!-- pair: MTP-000140; format: verse; role: main_text -->
-དེ་ནས་རྟ་མགྲིན་རྒྱལ་པོ་ཉིད
+
+དེ་ནས་རྟ་མགྲིན་རྒྱལ་པོ་ཉིད  
 སྣང་བ་དེ་ཀུན་རང་གྲོལ་བས
 
-Then King Hayagrīva himself,
+Then King Hayagrīva himself,  
 since all those appearances were self-liberated,[^T04-101][^T04-102][^MTP-AUDIT-C04-129][^MTP-AUDIT-C04-166]
 
+<a id="mtp-000141"></a>
 <!-- pair: MTP-000141; format: prose; role: source_metadata -->
-༤༤༥
 
-[Printed page 445.][^MTP-AUDIT-C04-131][^MTP-AUDIT-C04-133]
+> [source_metadata] ༤༤༥
 
+> [source_metadata] [Printed page 445.][^MTP-AUDIT-C04-131][^MTP-AUDIT-C04-133]
+
+<a id="mtp-000142"></a>
 <!-- pair: MTP-000142; format: verse; role: main_text -->
-ངོ་མཚར་མཆོག་ཏུ་གྱུར་ནས་ནི
+
+ངོ་མཚར་མཆོག་ཏུ་གྱུར་ནས་ནི  
 བརྒྱལ་ཞིང་ས་ལ་རབ་ཏུ་འགྱེལ
 
-having become supremely astonished,
+having become supremely astonished,  
 fainted and fell hard to the ground.[^T04-102][^MTP-AUDIT-C04-132][^MTP-AUDIT-C04-167]
 
+<a id="mtp-000143"></a>
 <!-- pair: MTP-000143; format: verse; role: main_text -->
-དེ་ནས་རྡོ་རྗེ་འཆང་ཆེན་དེས
-དེ་ལྟར་བརྒྱལ་བ་བསླང་བའི་ཕྱིར
+
+དེ་ནས་རྡོ་རྗེ་འཆང་ཆེན་དེས  
+དེ་ལྟར་བརྒྱལ་བ་བསླང་བའི་ཕྱིར  
 འདི་སྐད་ཅེས་ནི་ཆེད་དུ་བརྗོད
 
-Then that great Vajradhara,
-in order to raise him from his faint in that state,
+Then that great Vajradhara,  
+in order to raise him from his faint in that state,  
 expressly uttered these words:[^T04-101][^T04-102][^MTP-AUDIT-C04-132][^MTP-AUDIT-C04-168][^MTP-AUDIT-C04-169][^MTP-AUDIT-C04-170]
 
+<a id="mtp-000144"></a>
 <!-- pair: MTP-000144; format: verse; role: main_text -->
-ཨེ་མ་དེ་ལྟར་སྣང་བ་རྣམས
-འཁྲུལ་པ་ཉིད་ཀྱང་རང་གྲོལ་ན
-འཁྲུལ་མེད་སྣང་བ་ཅིས་མི་གྲོལ
-ཇི་ལྟར་སྨྲ་དང་བྱ་བྱེད་རྣམས
+
+ཨེ་མ་དེ་ལྟར་སྣང་བ་རྣམས  
+འཁྲུལ་པ་ཉིད་ཀྱང་རང་གྲོལ་ན  
+འཁྲུལ་མེད་སྣང་བ་ཅིས་མི་གྲོལ  
+ཇི་ལྟར་སྨྲ་དང་བྱ་བྱེད་རྣམས  
 སྟོང་རིག་གསལ་བའི་སྤྱོད་པ་ཡིན
 
-“Ema! If appearances such as those,
-even delusion itself, are self-liberated,
-why are appearances free from delusion not liberated?
-Whatever the speaking, and all doing and doers,
+“Ah! If appearances such as those,  
+even delusion itself, are self-liberated,  
+why are appearances free from delusion not liberated?  
+Whatever the speaking, and all doing and doers,  
 are the activity of clear empty awareness.[^T04-103][^MTP-AUDIT-C04-132][^MTP-AUDIT-C04-171][^MTP-AUDIT-C04-172][^MTP-AUDIT-C04-173][^MTP-AUDIT-C04-174]
 
+<a id="mtp-000145"></a>
 <!-- pair: MTP-000145; format: verse; role: main_text -->
-བཟང་དང་ངན་པའི་རྟོག་པ་རྣམས
-བསྒོམ་པ་ཆུ་བོའི་ཀློང་ཆེན་ཡིན
-ལོག་ལྟ་ཡང་དག་འདོད་པ་རྣམས
-རྣལ་འབྱོར་རིས་མེད་ལྟ་བ་ཡིན
+
+བཟང་དང་ངན་པའི་རྟོག་པ་རྣམས  
+བསྒོམ་པ་ཆུ་བོའི་ཀློང་ཆེན་ཡིན  
+ལོག་ལྟ་ཡང་དག་འདོད་པ་རྣམས  
+རྣལ་འབྱོར་རིས་མེད་ལྟ་བ་ཡིན  
 རེ་དང་དོགས་པར་འཛིན་པ་ཀུན
 
-Conceptual thoughts of good and bad
-are cultivation’s great river-expanse.
-Wrong views and desires for what is authentic
-are yoga’s impartial view.
+Conceptual thoughts of good and bad  
+are cultivation’s great river-expanse.  
+Wrong views and desires for what is authentic  
+are yoga’s impartial view.  
 All apprehending in hope and fear[^T04-104][^T04-105][^T04-106][^MTP-AUDIT-C04-132][^MTP-AUDIT-C04-175][^MTP-AUDIT-C04-176][^MTP-AUDIT-C04-177][^MTP-AUDIT-C04-178][^MTP-AUDIT-C04-179][^MTP-AUDIT-C04-223]
 
+<a id="mtp-000146"></a>
 <!-- pair: MTP-000146; format: prose; role: source_metadata -->
-༤༤༦
 
-[Printed page 446.][^MTP-AUDIT-C04-134][^MTP-AUDIT-C04-136]
+> [source_metadata] ༤༤༦
 
+> [source_metadata] [Printed page 446.][^MTP-AUDIT-C04-134][^MTP-AUDIT-C04-136]
+
+<a id="mtp-000147"></a>
 <!-- pair: MTP-000147; format: verse; role: main_text -->
+
 ཟང་མ་ཐལ་བྱུང་འབྲས་བུ་ཡིན
 
 is the result of pure penetration arising.[^T04-106][^MTP-AUDIT-C04-135][^MTP-AUDIT-C04-180]
 
+<a id="mtp-000148"></a>
 <!-- pair: MTP-000148; format: verse; role: main_text -->
-ཕྱག་རྒྱ་ཆེན་པོ་མངོན་འདོད་པས
-སྟོང་གསུམ་ཐམས་ཅད་དཀྱིལ་འཁོར་ལ
-ཆར་དང་ཁུ་རླངས་ཆག་ཆག་བཏབ
-འགྲོ་བའི་ལམ་དམིགས་ཐིག་ཆེན་ཏེ
-རྐང་པའི་རྗེས་ནི་རྡུལ་ཚོན་རིས
-འགྲོ་བར་འདོད་པ་སྟངས་སྟབས་ཉིད
+
+ཕྱག་རྒྱ་ཆེན་པོ་མངོན་འདོད་པས  
+སྟོང་གསུམ་ཐམས་ཅད་དཀྱིལ་འཁོར་ལ  
+ཆར་དང་ཁུ་རླངས་ཆག་ཆག་བཏབ  
+འགྲོ་བའི་ལམ་དམིགས་ཐིག་ཆེན་ཏེ  
+རྐང་པའི་རྗེས་ནི་རྡུལ་ཚོན་རིས  
+འགྲོ་བར་འདོད་པ་སྟངས་སྟབས་ཉིད  
 ཡན་ལག་བསྐྱོད་པ་ཕྱག་རྒྱའོ
 
-With the desire for Mahamudra to be manifest,
-in the mandala of the entire three-thousandfold [world],
-rain and liquid vapor are sprinkled.
-The path of going, as an object of focus, is the great line;
-footprints are the pattern of colored powder.
-The wish to go is the posture itself;
+With the desire for Mahamudra to be manifest,  
+in the mandala of the entire three-thousandfold [world],  
+rain and liquid vapor are sprinkled.  
+The path of going, as an object of focus, is the great line;  
+footprints are the pattern of colored powder.  
+The wish to go is the posture itself;  
 moving the limbs is the gesture.[^T04-107][^T04-108][^MTP-AUDIT-C04-135][^MTP-AUDIT-C04-181][^MTP-AUDIT-C04-182][^MTP-AUDIT-C04-183][^MTP-AUDIT-C04-184][^MTP-AUDIT-C04-185][^MTP-AUDIT-C04-186]
 
+<a id="mtp-000149"></a>
 <!-- pair: MTP-000149; format: verse; role: main_text -->
-ཇི་ལྟར་སྨྲས་པ་སྔགས་ཀྱི་ཚིག
-བསམ་པ་རྣམས་ནི་བསྐྱེད་རིམ་ཡིན
-ཡིད་ལ་འགྱུ་བ་མཆོད་པ་ཉིད
-གཟུགས་སུ་སྣང་བ་ལྷ་ཡི་སྐུ
+
+ཇི་ལྟར་སྨྲས་པ་སྔགས་ཀྱི་ཚིག  
+བསམ་པ་རྣམས་ནི་བསྐྱེད་རིམ་ཡིན  
+ཡིད་ལ་འགྱུ་བ་མཆོད་པ་ཉིད  
+གཟུགས་སུ་སྣང་བ་ལྷ་ཡི་སྐུ  
 སྒྲ་ཆེན་བརྗོད་པ་རོལ་མོ་ཉིད
 
-Whatever is spoken is a word of mantra.
-Acts of thinking are the generation stage.
-Movement in the mental faculty is offering itself.
-Appearance as form is the deity’s embodiment.
+Whatever is spoken is a phrase of mantra.  
+Acts of thinking are the generation stage.  
+Movement in the mental faculty is offering itself.  
+Appearance as form is the deity’s embodiment.  
 The utterance of loud sound is music itself.[^T04-108][^T04-109][^MTP-AUDIT-C04-135][^MTP-AUDIT-C04-187][^MTP-AUDIT-C04-188][^MTP-AUDIT-C04-189][^MTP-AUDIT-C04-190][^MTP-AUDIT-C04-191][^MTP-AUDIT-C04-192]
 
+<a id="mtp-000150"></a>
 <!-- pair: MTP-000150; format: prose; role: source_metadata -->
-༤༤༧
 
-[Printed page 447.][^MTP-AUDIT-C04-137][^MTP-AUDIT-C04-139]
+> [source_metadata] ༤༤༧
 
+> [source_metadata] [Printed page 447.][^MTP-AUDIT-C04-137][^MTP-AUDIT-C04-139]
+
+<a id="mtp-000151"></a>
 <!-- pair: MTP-000151; format: verse; role: main_text -->
-རང་གི་ལུས་ནི་བུམ་པ་ལ
-སྐྲ་ནི་ལོ་འདབ་ཁ་རྒྱན་མཛེས
-ཁྲག་དང་ཆུ་སེར་ཆུ་རྣམས་ཉིད
-དོན་སྙིང་ལ་སོགས་རྫས་ཀྱིས་གཏམས
-རང་ལ་སྣང་བའི་དབང་རྣམས་བྱིན
+
+རང་གི་ལུས་ནི་བུམ་པ་ལ  
+སྐྲ་ནི་ལོ་འདབ་ཁ་རྒྱན་མཛེས  
+ཁྲག་དང་ཆུ་སེར་ཆུ་རྣམས་ཉིད  
+དོན་སྙིང་ལ་སོགས་རྫས་ཀྱིས་གཏམས  
+རང་ལ་སྣང་བའི་དབང་རྣམས་བྱིན  
 མ་བསྐུར་ཉིད་ལ་རྫོགས་པའོ
 
-One’s own body is the vase;
-hair is the foliage, the beautiful adornment at its mouth.
-Blood and serum are the waters themselves.
-[It is] filled with substances—the vital organs, heart, and so forth.
-The empowerments appearing to oneself are bestowed;
+One’s own body is the vase;  
+hair is the foliage, the beautiful adornment at its mouth.  
+Blood and serum are the waters themselves.  
+[It is] filled with substances—the vital organs, heart, and so forth.  
+The empowerments appearing to oneself are bestowed;  
 without being conferred, [they] are complete.[^T04-110][^MTP-AUDIT-C04-138][^MTP-AUDIT-C04-193][^MTP-AUDIT-C04-194][^MTP-AUDIT-C04-195][^MTP-AUDIT-C04-196][^MTP-AUDIT-C04-197][^MTP-AUDIT-C04-198]
 
+<a id="mtp-000152"></a>
 <!-- pair: MTP-000152; format: verse; role: main_text -->
-འདའ་བར་འདོད་པ་དམ་ཚིག་ལ
-བསྲུང་བར་འདོད་པ་བཅིངས་པ་ཉིད
-དགྲོལ་བར་འདོད་པ་ཉམས་པ་སྟེ
+
+འདའ་བར་འདོད་པ་དམ་ཚིག་ལ  
+བསྲུང་བར་འདོད་པ་བཅིངས་པ་ཉིད  
+དགྲོལ་བར་འདོད་པ་ཉམས་པ་སྟེ  
 མེད་པར་འདོད་པ་ཐུབ་མཆོག་ཡིན
 
-The desire to transgress is samaya;
-the desire to guard is bondage itself.
-The desire to liberate is deterioration;
+The desire to transgress is sacred pledge;  
+the desire to guard is bondage itself.  
+The desire to liberate is deterioration;  
 the desire for absence is the supreme sage.[^T04-111][^MTP-AUDIT-C04-138][^MTP-AUDIT-C04-199][^MTP-AUDIT-C04-200]
 
+<a id="mtp-000153"></a>
 <!-- pair: MTP-000153; format: verse; role: main_text -->
-བཟའ་དང་བཏུང་བ་བསྙེན་པ་ལ
-ཉལ་དང་འདུག་པ་སྒྲུབ་པའོ
-འདུ་བྱེད་རྣམས་ནི་ལྷག་གནས་ཉིད
-གློ་དང་ལུང་པས་དཀྱིལ་འཁོར་སྒྲུབ
-མཐོང་བ་རྣམས་ནི་ཕྱག་རྒྱའི་བརྡའ
+
+བཟའ་དང་བཏུང་བ་བསྙེན་པ་ལ  
+ཉལ་དང་འདུག་པ་སྒྲུབ་པའོ  
+འདུ་བྱེད་རྣམས་ནི་ལྷག་གནས་ཉིད  
+གློ་དང་ལུང་པས་དཀྱིལ་འཁོར་སྒྲུབ  
+མཐོང་བ་རྣམས་ནི་ཕྱག་རྒྱའི་བརྡའ  
 དེ་ལ་ཆགས་པ་ཉམས་མྱོང་ཡིན
 
-Eating and drinking are approach;
-lying down and sitting are accomplishment.
-Formations are consecration itself.
-With the lungs and [retained: ལུང་པ], the mandala is accomplished.
-Things seen are signs of the gesture;
+Eating and drinking are approach;  
+lying down and sitting are accomplishment.  
+Formations are consecration itself.  
+With the lungs and [retained: ལུང་པ], the mandala is accomplished.  
+Things seen are signs of the gesture;  
 attachment to those is experiential acquaintance.[^T04-108][^T04-112][^T04-113][^MTP-AUDIT-C04-138][^MTP-AUDIT-C04-201][^MTP-AUDIT-C04-202][^MTP-AUDIT-C04-203][^MTP-AUDIT-C04-204][^MTP-AUDIT-C04-205][^MTP-AUDIT-C04-206][^MTP-AUDIT-C04-207][^MTP-AUDIT-C04-224]
 
+<a id="mtp-000154"></a>
 <!-- pair: MTP-000154; format: prose; role: source_metadata -->
-༤༤༨
 
-[Printed page 448.][^MTP-AUDIT-C04-140][^MTP-AUDIT-C04-142]
+> [source_metadata] ༤༤༨
 
+> [source_metadata] [Printed page 448.][^MTP-AUDIT-C04-140][^MTP-AUDIT-C04-142]
+
+<a id="mtp-000155"></a>
 <!-- pair: MTP-000155; format: verse; role: main_text -->
-ཤེས་རིག་གསལ་བ་གདམས་ངག་ལ
-ཡུལ་སེམས་གཉིས་འདུས་གདབ་པའི་ཡུལ
-སྐྱེ་རྒས་ན་འཆི་གོམས་པའི་གནད
+
+ཤེས་རིག་གསལ་བ་གདམས་ངག་ལ  
+ཡུལ་སེམས་གཉིས་འདུས་གདབ་པའི་ཡུལ  
+སྐྱེ་རྒས་ན་འཆི་གོམས་པའི་གནད  
 ཚོགས་དྲུག་མ་འགགས་རྟོགས་པའོ
 
-Clear knowing-awareness is instruction;
-object and ordinary mind gathered together are the object of application.
-Birth, aging, sickness, and death are the vital point of familiarization.
+Clear knowing-awareness is oral instruction;  
+object and ordinary mind gathered together are the object of application.  
+Birth, aging, sickness, and death are the key point of familiarization.  
 The unceasing six collections are realization.”[^T04-114][^MTP-AUDIT-C04-141][^MTP-AUDIT-C04-208][^MTP-AUDIT-C04-209][^MTP-AUDIT-C04-210][^MTP-AUDIT-C04-211]
 
+<a id="mtp-000156"></a>
 <!-- pair: MTP-000156; format: verse; role: main_text -->
-དེ་ནས་ཡེ་ཤེས་མཁའ་འགྲོ་རྣམས
-ཤིན་ཏུ་དགའ་མགུ་ཡི་རངས་ནས
+
+དེ་ནས་ཡེ་ཤེས་མཁའ་འགྲོ་རྣམས  
+ཤིན་ཏུ་དགའ་མགུ་ཡི་རངས་ནས  
 རྡོ་རྗེ་འཆང་ལ་འདི་སྐད་གསོལ
 
-Then the primordial-knowing ḍākinīs,
-being intensely joyful, delighted, and rejoicing,
+Then the primordial-knowing ḍākinīs,  
+being intensely joyful, delighted, and rejoicing,  
 petitioned Vajradhara in these words:[^T04-101][^MTP-AUDIT-C04-141][^MTP-AUDIT-C04-212][^MTP-AUDIT-C04-213][^MTP-AUDIT-C04-214]
 
+<a id="mtp-000157"></a>
 <!-- pair: MTP-000157; format: verse; role: main_text -->
-ཀྱེ་འཁྲུལ་མེད་གྲོལ་བ་དེ་ལྟར་ན
+
+ཀྱེ་འཁྲུལ་མེད་གྲོལ་བ་དེ་ལྟར་ན  
 སྣོད་ཀྱི་འཇིག་རྟེན་ཅིས་མི་གྲོལ
 
-“O! If liberation free from delusion is like that,
+“O! If liberation free from delusion is like that,  
 why is the container-world not liberated?”[^T04-115][^MTP-AUDIT-C04-141][^MTP-AUDIT-C04-215][^MTP-AUDIT-C04-216]
 
+<a id="mtp-000158"></a>
 <!-- pair: MTP-000158; format: verse; role: main_text -->
+
 རྡོ་རྗེ་འཆང་གིས་བཀའ་སྩལ་པ
 
 Vajradhara spoke:[^T04-101][^MTP-AUDIT-C04-141][^MTP-AUDIT-C04-217]
 
+<a id="mtp-000159"></a>
 <!-- pair: MTP-000159; format: verse; role: main_text -->
-ནམ་མཁའ་ཉིད་ནི་ཁྱབ་སྟོང་པས
-ནམ་མཁའ་ཉིད་ནི་དངོས་པོར་གྲོལ
-རླུང་ནི་གཟུང་ཡུལ་མེད་སྣང་བས
-དངོས་པོ་སྡུད་པའི་ལས་སུ་གྲོལ
+
+ནམ་མཁའ་ཉིད་ནི་ཁྱབ་སྟོང་པས  
+ནམ་མཁའ་ཉིད་ནི་དངོས་པོར་གྲོལ  
+རླུང་ནི་གཟུང་ཡུལ་མེད་སྣང་བས  
+དངོས་པོ་སྡུད་པའི་ལས་སུ་གྲོལ  
 མེ་ནི་སྨིན་བྱེད་བྱིན་ཟ་བས
 
-“Since space itself is pervasive and empty,
-space itself is liberated as an entity.
-Since wind appears without an apprehended object,
-[it] is liberated as the work of gathering entities.
+“Since space itself is pervasive and empty,  
+space itself is liberated as an entity.  
+Since wind appears without an apprehended object,  
+[it] is liberated as the work of gathering entities.  
 Since fire is the ripener, the eater of offerings,[^T04-116][^MTP-AUDIT-C04-141][^MTP-AUDIT-C04-218][^MTP-AUDIT-C04-219][^MTP-AUDIT-C04-220][^MTP-AUDIT-C04-221][^MTP-AUDIT-C04-222][^MTP-AUDIT-C04-239]
 
+<a id="mtp-000160"></a>
 <!-- pair: MTP-000160; format: prose; role: source_metadata -->
-༤༤༩
 
-[Printed page 449.][^MTP-AUDIT-C04-225][^MTP-AUDIT-C04-226]
+> [source_metadata] ༤༤༩
 
+> [source_metadata] [Printed page 449.][^MTP-AUDIT-C04-225][^MTP-AUDIT-C04-226]
+
+<a id="mtp-000161"></a>
 <!-- pair: MTP-000161; format: verse; role: main_text -->
-བསྐྱོད་ཅིང་དངས་སྙིགས་འབྱེད་པར་གྲོལ
-ས་ནི་སྐྱེད་བྱེད་བདེགས་པས་ན
-དངོས་མེད་མཐའ་ཡས་སྟོང་པར་གྲོལ
-ཆུ་ནི་སྡུད་བྱེད་རླན་པས་ན
+
+བསྐྱོད་ཅིང་དངས་སྙིགས་འབྱེད་པར་གྲོལ  
+ས་ནི་སྐྱེད་བྱེད་བདེགས་པས་ན  
+དངོས་མེད་མཐའ་ཡས་སྟོང་པར་གྲོལ  
+ཆུ་ནི་སྡུད་བྱེད་རླན་པས་ན  
 སྲེག་བྱེད་སྨིན་པའི་ལས་སུ་གྲོལ
 
-[it] is liberated as moving and separating the refined portion and dregs.
-Since earth generates and supports,
-[it] is liberated as insubstantial, limitless emptiness.
-Since water gathers and moistens,
+[it] is liberated as moving and separating the pure extract and residue.  
+Since earth generates and supports,  
+[it] is liberated as limitless emptiness without entities.  
+Since water gathers and moistens,  
 [it] is liberated as the work of burning and ripening.[^T04-116][^T04-117][^MTP-AUDIT-C04-225][^MTP-AUDIT-C04-240][^MTP-AUDIT-C04-241][^MTP-AUDIT-C04-242][^MTP-AUDIT-C04-243]
 
+<a id="mtp-000162"></a>
 <!-- pair: MTP-000162; format: verse; role: main_text -->
-ནམ་མཁའི་རླུང་ནི་དངོས་པོ་ལ
-ནམ་མཁའི་མེས་ནི་སྡུད་པར་བྱེད
-ནམ་མཁའི་ཆུས་ནི་སྲེག་བྱེད་པའོ
-ནམ་མཁའི་ས་ཡིས་གོ་སྐབས་འབྱེད
+
+ནམ་མཁའི་རླུང་ནི་དངོས་པོ་ལ  
+ནམ་མཁའི་མེས་ནི་སྡུད་པར་བྱེད  
+ནམ་མཁའི་ཆུས་ནི་སྲེག་བྱེད་པའོ  
+ནམ་མཁའི་ས་ཡིས་གོ་སྐབས་འབྱེད  
 ནམ་མཁའི་ནམ་མཁའ་སྣང་བའོ
 
-The wind of space is an entity;
-the fire of space gathers.
-The water of space burns.
-The earth of space opens room.
+The wind of space is an entity;  
+the fire of space gathers.  
+The water of space burns.  
+The earth of space opens room.  
 The space of space is appearance.[^T04-118][^MTP-AUDIT-C04-225][^MTP-AUDIT-C04-244][^MTP-AUDIT-C04-245][^MTP-AUDIT-C04-246][^MTP-AUDIT-C04-247][^MTP-AUDIT-C04-248]
 
+<a id="mtp-000163"></a>
 <!-- pair: MTP-000163; format: verse; role: main_text -->
-རླུང་གི་རླུང་ནི་བརྟན་པ་ལ
-རླུང་གི་ནམ་མཁའ་ཡེ་གདངས་ཆེ
-རླུང་གི་ཆུ་ནི་མྱུར་མགྱོགས་ཏེ
-རླུང་གི་མེས་ནི་འཕེན་སྡུད་ཕྱེད
+
+རླུང་གི་རླུང་ནི་བརྟན་པ་ལ  
+རླུང་གི་ནམ་མཁའ་ཡེ་གདངས་ཆེ  
+རླུང་གི་ཆུ་ནི་མྱུར་མགྱོགས་ཏེ  
+རླུང་གི་མེས་ནི་འཕེན་སྡུད་ཕྱེད  
 རླུང་གིས་ས་ནི་གཟུགས་བརྙན་གསལ
 
-The wind of wind is stable;
-the space of wind has great primordial radiance.
-The water of wind is swift;
-the fire of wind divides projection and gathering.
+The wind of wind is stable;  
+the space of wind has great primordial radiance.  
+The water of wind is swift;  
+the fire of wind divides projection and gathering.  
 Through wind, as for earth, [its] reflection is clear.[^T04-118][^T04-119][^T04-120][^MTP-AUDIT-C04-225][^MTP-AUDIT-C04-249][^MTP-AUDIT-C04-250][^MTP-AUDIT-C04-251][^MTP-AUDIT-C04-252][^MTP-AUDIT-C04-253]
 
+<a id="mtp-000164"></a>
 <!-- pair: MTP-000164; format: prose; role: source_metadata -->
-༤༥༠
 
-[Printed page 450.][^MTP-AUDIT-C04-227][^MTP-AUDIT-C04-228]
+> [source_metadata] ༤༥༠
 
+> [source_metadata] [Printed page 450.][^MTP-AUDIT-C04-227][^MTP-AUDIT-C04-228]
+
+<a id="mtp-000165"></a>
 <!-- pair: MTP-000165; format: verse; role: main_text -->
-ཆུ་ཡི་ཆུ་ནི་སྒྲ་སྙན་ཡིན
-ཆུ་ཡི་ནམ་མཁའ་ཐོགས་པ་མེད
-ཆུ་ཡི་རླུང་ནི་ཆགས་མེད་རྒྱུག
-ཆུ་ཡི་མེས་ནི་སྡུད་པར་བྱེད
+
+ཆུ་ཡི་ཆུ་ནི་སྒྲ་སྙན་ཡིན  
+ཆུ་ཡི་ནམ་མཁའ་ཐོགས་པ་མེད  
+ཆུ་ཡི་རླུང་ནི་ཆགས་མེད་རྒྱུག  
+ཆུ་ཡི་མེས་ནི་སྡུད་པར་བྱེད  
 ཆུ་ཡིས་ས་ནི་ཁྱབ་པར་བྱེད
 
-The water of water is melodious sound.
-The space of water is unobstructed.
-The wind of water flows without attachment.
-The fire of water gathers.
+The water of water is melodious sound.  
+The space of water is unobstructed.  
+The wind of water flows without attachment.  
+The fire of water gathers.  
 Water pervades earth.[^T04-109][^T04-118][^T04-120][^MTP-AUDIT-C04-227][^MTP-AUDIT-C04-254][^MTP-AUDIT-C04-255][^MTP-AUDIT-C04-256][^MTP-AUDIT-C04-257][^MTP-AUDIT-C04-258]
 
+<a id="mtp-000166"></a>
 <!-- pair: MTP-000166; format: verse; role: main_text -->
-མེ་ཡི་མེས་ནི་བསྐྱེད་པར་བྱེད
-མེ་ཡི་ནམ་མཁས་དངོས་པོ་བསྲེག
-མེ་ཡི་རླུང་གིས་འབར་བར་བྱེད
-མེ་ཡི་ཆུས་ནི་ཤིང་བརླག་པར་བྱེད
+
+མེ་ཡི་མེས་ནི་བསྐྱེད་པར་བྱེད  
+མེ་ཡི་ནམ་མཁས་དངོས་པོ་བསྲེག  
+མེ་ཡི་རླུང་གིས་འབར་བར་བྱེད  
+མེ་ཡི་ཆུས་ནི་ཤིང་བརླག་པར་བྱེད  
 མེ་ཡི་སས་ནི་འཛིན་པའོ
 
-The fire of fire generates.
-The space of fire burns entities.
-The wind of fire makes [them] blaze.
-The water of fire destroys wood.
+The fire of fire generates.  
+The space of fire burns entities.  
+The wind of fire makes [them] blaze.  
+The water of fire destroys wood.  
 The earth of fire holds.[^T04-118][^T04-121][^MTP-AUDIT-C04-227][^MTP-AUDIT-C04-259][^MTP-AUDIT-C04-260][^MTP-AUDIT-C04-261][^MTP-AUDIT-C04-262][^MTP-AUDIT-C04-263]
 
+<a id="mtp-000167"></a>
 <!-- pair: MTP-000167; format: verse; role: main_text -->
-ས་ཡི་སས་ནི་འགྲོ་བ་ཁྱབ
-ས་ཡི་ནམ་མཁའ་ཐེག་ཆེན་ཏེ
-ས་ཡི་རླུང་གིས་གང་སྟོངས་བྱེད
-ས་ཡི་ཆུས་ནི་དངོས་པོ་བསྐྱེད
+
+ས་ཡི་སས་ནི་འགྲོ་བ་ཁྱབ  
+ས་ཡི་ནམ་མཁའ་ཐེག་ཆེན་ཏེ  
+ས་ཡི་རླུང་གིས་གང་སྟོངས་བྱེད  
+ས་ཡི་ཆུས་ནི་དངོས་པོ་བསྐྱེད  
 ས་ཡི་མེས་ནི་སྐེམས་པའོ
 
-The earth of earth pervades beings.
-The space of earth is the great vehicle.
-The wind of earth fills and empties.
-The water of earth generates entities.
+The earth of earth pervades beings.  
+The space of earth is the great vehicle.  
+The wind of earth fills and empties.  
+The water of earth generates entities.  
 The fire of earth dries.[^T04-118][^T04-122][^MTP-AUDIT-C04-227][^MTP-AUDIT-C04-264][^MTP-AUDIT-C04-265][^MTP-AUDIT-C04-266][^MTP-AUDIT-C04-267][^MTP-AUDIT-C04-268]
 
+<a id="mtp-000168"></a>
 <!-- pair: MTP-000168; format: verse; role: main_text -->
+
 ངེས་པ་མེད་པའི་བྱུང་བ་ཡིས
 
 Through arising without determination,[^T04-123][^MTP-AUDIT-C04-227][^MTP-AUDIT-C04-237][^MTP-AUDIT-C04-269][^MTP-AUDIT-C04-270]
 
+<a id="mtp-000169"></a>
 <!-- pair: MTP-000169; format: prose; role: source_metadata -->
-༤༥༡
 
-[Printed page 451.][^MTP-AUDIT-C04-229][^MTP-AUDIT-C04-230]
+> [source_metadata] ༤༥༡
 
+> [source_metadata] [Printed page 451.][^MTP-AUDIT-C04-229][^MTP-AUDIT-C04-230]
+
+<a id="mtp-000170"></a>
 <!-- pair: MTP-000170; format: verse; role: main_text -->
-ངེས་པར་སྣང་བའི་སེམས་ཉིད་གྲོལ
-གཟུགས་སུ་མེད་པའི་སྣང་བ་ཐམས་ཅད་ནི
-རང་བཞིན་མེད་པའི་ངང་དུ་གྲོལ
-གཟུགས་མེད་རྣམས་ནི་དངོས་པོས་གྲོལ
-ཆོས་ནི་ཆོས་ཀྱིས་གྲོལ་བ་ལ
-མེད་པ་ལ་ཡང་མེད་པས་གྲོལ
-གཅིག་ནི་གཅིག་གིས་གྲོལ་བ་ལ
+
+ངེས་པར་སྣང་བའི་སེམས་ཉིད་གྲོལ  
+གཟུགས་སུ་མེད་པའི་སྣང་བ་ཐམས་ཅད་ནི  
+རང་བཞིན་མེད་པའི་ངང་དུ་གྲོལ  
+གཟུགས་མེད་རྣམས་ནི་དངོས་པོས་གྲོལ  
+ཆོས་ནི་ཆོས་ཀྱིས་གྲོལ་བ་ལ  
+མེད་པ་ལ་ཡང་མེད་པས་གྲོལ  
+གཅིག་ནི་གཅིག་གིས་གྲོལ་བ་ལ  
 གཉིས་སུ་སྣང་བས་གཉིས་གྲོལ་བའོ
 
-ordinary mind itself, appearing definitely, is liberated.
-All appearances that do not exist as form
-are liberated in the state without intrinsic nature.
-The formless are liberated by entities.
-Phenomena are liberated by phenomena;
-even absence is liberated by absence.
-One is liberated by one;
+ordinary mind itself, appearing definitely, is liberated.  
+All appearances that do not exist as form  
+are liberated in the state without intrinsic nature.  
+The formless are liberated by entities.  
+Phenomena are liberated by phenomena;  
+even absence is liberated by absence.  
+One is liberated by one;  
 through appearing as two, the two are liberated.”[^T04-123][^T04-124][^MTP-AUDIT-C04-229][^MTP-AUDIT-C04-271][^MTP-AUDIT-C04-272][^MTP-AUDIT-C04-273][^MTP-AUDIT-C04-274][^MTP-AUDIT-C04-275][^MTP-AUDIT-C04-276][^MTP-AUDIT-C04-277][^MTP-AUDIT-C04-278]
 
+<a id="mtp-000171"></a>
 <!-- pair: MTP-000171; format: verse; role: main_text -->
+
 རྟ་མཆོག་དཔལ་གྱིས་ཡང་གསོལ་པ
 
 Glorious Supreme Horse again petitioned:[^T04-101][^T04-125][^MTP-AUDIT-C04-229]
 
+<a id="mtp-000172"></a>
 <!-- pair: MTP-000172; format: verse; role: main_text -->
-ཀྱེ་མ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང
-སྣོད་འཇིག་རྟེན་ཀྱང་གྲོལ་གྱུར་བས
-བཅུད་ཀྱི་སེམས་ཅན་ཅིས་མི་གྲོལ
-སེམས་ཅན་གྲོལ་བ་རྣམས་ལ་དོན་མེད་འགྱུར
+
+ཀྱེ་མ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང  
+སྣོད་འཇིག་རྟེན་ཀྱང་གྲོལ་གྱུར་བས  
+བཅུད་ཀྱི་སེམས་ཅན་ཅིས་མི་གྲོལ  
+སེམས་ཅན་གྲོལ་བ་རྣམས་ལ་དོན་མེད་འགྱུར  
 ཡང་ན་གྲོལ་བ་དེ་དག་ཀུན
 
-“O Bhagavān Vajradhara!
-Since even the container-world has become liberated,
-why are its contents, sentient beings, not liberated?
-For liberated sentient beings, [this] would become meaningless.
+“O Blessed One Vajradhara!  
+Since even the container-world has become liberated,  
+why are its contents, karmic beings, not liberated?  
+For liberated karmic beings, [this] would become meaningless.  
 Or are all those liberated ones[^T04-101][^T04-115][^T04-126][^MTP-AUDIT-C04-229][^MTP-AUDIT-C04-279][^MTP-AUDIT-C04-280][^MTP-AUDIT-C04-281][^MTP-AUDIT-C04-282][^MTP-AUDIT-C04-283][^MTP-AUDIT-C04-284][^MTP-AUDIT-C04-285][^MTP-AUDIT-C04-286][^MTP-AUDIT-C04-287][^MTP-AUDIT-C04-288][^MTP-AUDIT-C04-289]
 
+<a id="mtp-000173"></a>
 <!-- pair: MTP-000173; format: prose; role: source_metadata -->
-༤༥༢
 
-[Printed page 452.][^MTP-AUDIT-C04-231][^MTP-AUDIT-C04-232]
+> [source_metadata] ༤༥༢
 
+> [source_metadata] [Printed page 452.][^MTP-AUDIT-C04-231][^MTP-AUDIT-C04-232]
+
+<a id="mtp-000174"></a>
 <!-- pair: MTP-000174; format: verse; role: main_text -->
-འབད་པ་མེད་པར་གྲོལ་ལམ་ཅི
-འབད་པས་གྲོལ་ན་བེམ་པོ་ནི
-གྲོལ་བར་རིགས་པ་མ་ལགས་ན
+
+འབད་པ་མེད་པར་གྲོལ་ལམ་ཅི  
+འབད་པས་གྲོལ་ན་བེམ་པོ་ནི  
+གྲོལ་བར་རིགས་པ་མ་ལགས་ན  
 སེམས་ཅན་གྲོལ་བ་ཇི་ལྟར་གྲོལ
 
-liberated without effort—or what?
-If liberation is through effort, and the inert
-are not reasonably to be liberated,
-as for the liberation of sentient beings, how are they liberated?”[^T04-126][^MTP-AUDIT-C04-231][^MTP-AUDIT-C04-290][^MTP-AUDIT-C04-291][^MTP-AUDIT-C04-292][^MTP-AUDIT-C04-293][^MTP-AUDIT-C04-294]
+liberated without effort—or what?  
+If liberation is through effort, and matter  
+is not reasonably to be liberated,  
+as for the liberation of karmic beings, how are they liberated?”[^T04-126][^MTP-AUDIT-C04-231][^MTP-AUDIT-C04-290][^MTP-AUDIT-C04-291][^MTP-AUDIT-C04-292][^MTP-AUDIT-C04-293][^MTP-AUDIT-C04-294]
 
+<a id="mtp-000175"></a>
 <!-- pair: MTP-000175; format: verse; role: main_text -->
+
 བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ
 
-The Bhagavān spoke:[^T04-101][^MTP-AUDIT-C04-231][^MTP-AUDIT-C04-295][^MTP-AUDIT-C04-296]
+The Blessed One spoke:[^T04-101][^MTP-AUDIT-C04-231][^MTP-AUDIT-C04-295][^MTP-AUDIT-C04-296]
 
+<a id="mtp-000176"></a>
 <!-- pair: MTP-000176; format: verse; role: main_text -->
-འབད་པས་གྲོལ་བ་མ་ཡིན་ཏེ
+
+འབད་པས་གྲོལ་བ་མ་ཡིན་ཏེ  
 ཡེ་ཉིད་ནས་ནི་གྲོལ་བར་གནས
 
-“Liberation is not through effort;
+“Liberation is not through effort;  
 from the very primordial beginning, [one] abides liberated.[^T04-127][^MTP-AUDIT-C04-231][^MTP-AUDIT-C04-297][^MTP-AUDIT-C04-298]
 
+<a id="mtp-000177"></a>
 <!-- pair: MTP-000177; format: verse; role: main_text -->
-ཐབས་དང་ཤེས་རབ་སྦྱོར་བ་ལས
-ཕ་དང་མ་ཡི་རྒྱུ་ཉིད་དག
-འཕེན་པའི་རླུང་གིས་བསྐྱོད་པ་ནི
+
+ཐབས་དང་ཤེས་རབ་སྦྱོར་བ་ལས  
+ཕ་དང་མ་ཡི་རྒྱུ་ཉིད་དག  
+འཕེན་པའི་རླུང་གིས་བསྐྱོད་པ་ནི  
 བྱང་ཆུབ་རང་རིག་བདེ་ཆེན་པོ
 
-From the joining of means and discerning knowing,
-the very causes of father and mother,
-moved by the propelling wind,
+From the joining of means and discerning knowing,  
+the very causes of father and mother,  
+moved by the propelling wind,  
 [are] awakening, self-awareness, great bliss.[^T04-128][^MTP-AUDIT-C04-231][^MTP-AUDIT-C04-299][^MTP-AUDIT-C04-300][^MTP-AUDIT-C04-301][^MTP-AUDIT-C04-302][^MTP-AUDIT-C04-303][^MTP-AUDIT-C04-304]
 
+<a id="mtp-000178"></a>
 <!-- pair: MTP-000178; format: verse; role: main_text -->
-འབྱུང་ལྔའི་རྒྱུ་ལས་ས་བོན་ནི
-སྟོང་ཉིད་ཡུལ་ལས་རྣམ་པར་ཤར
-གཉིས་ཀྱི་བདེ་བ་སྙོམས་འཇུག་ནི
+
+འབྱུང་ལྔའི་རྒྱུ་ལས་ས་བོན་ནི  
+སྟོང་ཉིད་ཡུལ་ལས་རྣམ་པར་ཤར  
+གཉིས་ཀྱི་བདེ་བ་སྙོམས་འཇུག་ནི  
 ཐབས་ལས་བྱུང་བའི་ཤེས་རབ་ཉིད
 
-From the causes of the five elements, the seed
-arises distinctly from the object of emptiness.
-The bliss of the two, their absorption,
+From the causes of the five elements, the seed  
+arises distinctly from the object of emptiness.  
+The bliss of the two, their absorption,  
 is discerning knowing arisen from means.[^T04-128][^T04-129][^MTP-AUDIT-C04-231][^MTP-AUDIT-C04-305][^MTP-AUDIT-C04-306][^MTP-AUDIT-C04-307][^MTP-AUDIT-C04-308]
 
+<a id="mtp-000179"></a>
 <!-- pair: MTP-000179; format: prose; role: source_metadata -->
-༤༥༣
 
-[Printed page 453.][^MTP-AUDIT-C04-233][^MTP-AUDIT-C04-234]
+> [source_metadata] ༤༥༣
 
+> [source_metadata] [Printed page 453.][^MTP-AUDIT-C04-233][^MTP-AUDIT-C04-234]
+
+<a id="mtp-000180"></a>
 <!-- pair: MTP-000180; format: verse; role: main_text -->
-མངལ་གྱི་ལྷུམས་སུ་ཚུད་པ་ནི
-རང་རིག་གཞི་ནས་སྣང་བར་ཤར
-བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ
+
+མངལ་གྱི་ལྷུམས་སུ་ཚུད་པ་ནི  
+རང་རིག་གཞི་ནས་སྣང་བར་ཤར  
+བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ  
 ཟླ་བཅུ་ས་རྣམས་བགྲོད་པ་ཉིད
 
-Entry into the enclosure of the womb
-is self-awareness arising as appearance from the ground.
-[It is] the measure of realization of seven groups of seven.
+Entry into the enclosure of the womb  
+is self-awareness arising as appearance from the Ground.  
+[It is] the measure of realization of seven groups of seven.  
 Ten months—traversing the levels themselves.[^T04-130][^T04-135][^CH04-G000618][^CH04-G000619][^MTP-AUDIT-C04-233][^MTP-AUDIT-C04-309][^MTP-AUDIT-C04-310][^MTP-AUDIT-C04-311][^MTP-AUDIT-C04-312]
 
+<a id="mtp-000181"></a>
 <!-- pair: MTP-000181; format: verse; role: main_text -->
-བཙས་པ་ཉིད་ནི་སྐུར་བཞེངས་ཏེ
-ལུས་བསྐྱེད་པ་ནི་གཞི་སྣང་ཡུལ
-ལུས་སུ་གནས་པ་གཞི་ཡིན་ཏེ
-རྒས་པ་དག་ནི་འཁྲུལ་པ་སངས
-ན་བ་ཉིད་ནི་རྟོགས་པའི་གདིང
+
+བཙས་པ་ཉིད་ནི་སྐུར་བཞེངས་ཏེ  
+ལུས་བསྐྱེད་པ་ནི་གཞི་སྣང་ཡུལ  
+ལུས་སུ་གནས་པ་གཞི་ཡིན་ཏེ  
+རྒས་པ་དག་ནི་འཁྲུལ་པ་སངས  
+ན་བ་ཉིད་ནི་རྟོགས་པའི་གདིང  
 ཤི་བས་ཆོས་ཉིད་སྟོང་པར་གྲོལ
 
-Birth itself is arising as embodiment.
-The body’s growth is the object of ground-appearance.
-Abiding in the body is the ground.
-Aging is delusion clearing away.
-Sickness itself is the confidence of realization.
+Birth itself is arising as embodiment.  
+The body’s growth is the object of Ground-appearance.  
+Abiding in the body is the Ground.  
+Aging is delusion clearing away.  
+Sickness itself is the confidence of realization.  
 Through death, [one] is liberated into the empty nature of phenomena.[^T04-131][^T04-135][^MTP-AUDIT-C04-233][^MTP-AUDIT-C04-313][^MTP-AUDIT-C04-314][^MTP-AUDIT-C04-315][^MTP-AUDIT-C04-316][^MTP-AUDIT-C04-317][^MTP-AUDIT-C04-318]
 
+<a id="mtp-000182"></a>
 <!-- pair: MTP-000182; format: verse; role: main_text -->
-དེ་ལྟར་གཟུགས་སུ་སེམས་ཅན་ཏེ
-འབད་པ་མེད་པར་ཡེ་ནས་གྲོལ
-ཨེ་མ་སྤྱོད་བསམ་བསྒྱུར་སྣང་བ་གྲོལ
+
+དེ་ལྟར་གཟུགས་སུ་སེམས་ཅན་ཏེ  
+འབད་པ་མེད་པར་ཡེ་ནས་གྲོལ  
+ཨེ་མ་སྤྱོད་བསམ་བསྒྱུར་སྣང་བ་གྲོལ  
 བསྒོམས་པས་མ་བཅོས་ཆོས་ཅན་གྲོལ
 
-Thus, sentient beings in form
-are primordially liberated without effort.
-Ema! Activity, thinking, transformation—appearance is liberated.
+Thus, karmic beings in form  
+are primordially liberated without effort.  
+Ah! Activity, thinking, transformation—appearance is liberated.  
 Uncontrived by cultivation, the bearer of phenomena is liberated.[^T04-132][^MTP-AUDIT-C04-233][^MTP-AUDIT-C04-319][^MTP-AUDIT-C04-320][^MTP-AUDIT-C04-321][^MTP-AUDIT-C04-322][^MTP-AUDIT-C04-323]
 
+<a id="mtp-000183"></a>
 <!-- pair: MTP-000183; format: prose; role: source_metadata -->
-༤༥༤
 
-[Printed page 454.][^MTP-AUDIT-C04-235][^MTP-AUDIT-C04-236]
+> [source_metadata] ༤༥༤
 
+> [source_metadata] [Printed page 454.][^MTP-AUDIT-C04-235][^MTP-AUDIT-C04-236]
+
+<a id="mtp-000184"></a>
 <!-- pair: MTP-000184; format: verse; role: main_text -->
-ལྟ་བས་མ་བརྟགས་རྟག་ཆད་གྲོལ
-འབྲས་བུ་མ་བཅིངས་རང་ལུས་གྲོལ
+
+ལྟ་བས་མ་བརྟགས་རྟག་ཆད་གྲོལ  
+འབྲས་བུ་མ་བཅིངས་རང་ལུས་གྲོལ  
 སྣང་བ་ཡེ་རྒྱས་ཐེབས་པའོ
 
-Unexamined by view, permanence and annihilation are liberated.
-Unbound by the result, one’s own body is liberated.
+Unexamined by view, permanence and annihilation are liberated.  
+Unbound by the result, one’s own body is liberated.  
 Appearance is stamped with the primordial seal.”[^T04-133][^MTP-AUDIT-C04-235][^MTP-AUDIT-C04-324][^MTP-AUDIT-C04-325][^MTP-AUDIT-C04-326]
 
+<a id="mtp-000185"></a>
 <!-- pair: MTP-000185; format: prose; role: chapter_colophon -->
-ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས
-འབད་མེད་རང་གྲོལ་གྱི་ལེའུ་སྟེ་བཞི་པའོ
 
-Thus, from the Precious String of Pearls Tantra, this is the fourth chapter, on effortless self-liberation.[^T04-134][^CH04-G000634][^MTP-AUDIT-C04-235][^MTP-AUDIT-C04-238]
+> [chapter_colophon] ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས
+> འབད་མེད་རང་གྲོལ་གྱི་ལེའུ་སྟེ་བཞི་པའོ
+
+> [chapter_colophon] Thus, from the Precious String of Pearls Tantra, this is the fourth chapter, on effortless self-liberation.[^T04-134][^CH04-G000634][^MTP-AUDIT-C04-235][^MTP-AUDIT-C04-238]
 
 ## Endnotes
 
 [^T04-001]: Golden-v1, chapter 4, S343/S348/S351/S370/S390 (printed436–438): names and titles are locally provisional whole expressions. རྟ་མགྲིན is Hayagrīva; exact S343 དབང་གིས་རྒྱལ་པོས is rendered “the king of power,” with the anomalous instrumental-looking གིས left uncorrected; compare shorter S351 དབང་རྒྱལ. བཅོམ་ལྡན is Bhagavān, while S348 རྡོ་རྗེ་དཔའ་བོ is “vajra hero,” not silently expanded to S370/S390 རྡོ་རྗེ་སེམས་དཔའ, Vajrasattva. These names are not entries in the active glossary. Review the S343 epithet/case construction; no canonical mind or embodiment term is globally replaced by a name mapping.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `བཅོམ་ལྡན་` → **Blessed One**. The full row’s conditions govern, not a component-only substitution. PD-001, MTP-000103: `བཅོམ་ལྡན`; current English **Blessed One** replaces “Bhagavān”. PD-001, MTP-000110: `བཅོམ་ལྡན`; current English **Blessed One** replaces “Bhagavān”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-002]: Golden-v1, chapter 4, S343–S485: recurring technical gaps remain local proposals, not approved glossary additions. The source forms རང་རིག, ཆོས, ཡུལ, ཐབས, ངང, སངས་རྒྱས, སེམས་ཅན, གསང་སྔགས, མན་ངག, མཚན་མ, སྙིང་པོ, དངོས་པོ, ཉོན་མོངས, and ཁམས are rendered self-awareness, phenomena, object, means, state, buddha, sentient beings, secret mantra, pith instruction, marks, core, entities, afflictions, and realms, respectively, only where their local construction supports them. ཡང་དག is provisionally authentic; standalone རང་བྱུང is naturally arising/natural arising, following the visible family in canonical རང་བྱུང་ཡེ་ཤེས without treating its component as a separately approved entry. The usage records give exact per-occurrence forms and narrower constructions; other notes describe material ambiguity. Ordinary mind, awareness, primordial knowing, discerning knowing, essence, intrinsic nature, and the listed whole expressions retain their established assignments. No list of five roots, faculties, or afflictions is supplied beyond the source. These local usages require review before glossary activation.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `རང་རིག་` → **self-awareness**. The full row’s conditions govern, not a component-only substitution. Active row `ཡུལ་` → **object**. The full row’s conditions govern, not a component-only substitution. Family review `ཐབས`: The means/discerning-knowing pair and the continuum-of-means exposition were compared across the whole work. Retain the source order, distinguish procedure where actually present, and exclude ཐབས་ཅིག together. No chapter preference is an exception and no new shared entry is activated. Active row `སེམས་ཅན་` → **karmic being**. The full row’s conditions govern, not a component-only substitution. Active row `མཚན་མ་` → **mark**. The full row’s conditions govern, not a component-only substitution. Active row `སྙིང་པོ་` → **core**. The full row’s conditions govern, not a component-only substitution. Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. Active row `དཀྱིལ་འཁོར་` → **mandala**. The full row’s conditions govern, not a component-only substitution. Active row `གནད་` → **key point**. The full row’s conditions govern, not a component-only substitution. Active row `འཁོར་བ་` → **cyclic existence**. The full row’s conditions govern, not a component-only substitution. PD-001, MTP-000102: `བཅོམ་ལྡན`; current English **Blessed One** replaces “Bhagavān”. PD-004, MTP-000105: `སེམས་ཅན`; current English **karmic beings** replaces “sentient beings”. PD-005, MTP-000139: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. PD-010, MTP-000122: `ཨེ་མ་ཧོ`; current English **How wondrous!** replaces “Emaho!”. PD-010, MTP-000126: `ཨེ་མ་ཧོ`; current English **How wondrous!** replaces “Emaho!”. PD-015, MTP-000130: `གཞི`; current English **Ground** replaces “ground”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-003]: Golden-v1 S344–S346 (printed436): ཐུགས་རྗེ་ཅན keeps the established whole term compassionate responsiveness through “endowed with.” བདག་ཅག་རང་རིག་རྗེས་མཐུན་ལ is provisionally “in accord with our self-awareness”; the relation of རྗེས་མཐུན་ལ to the request is compressed and could instead characterize the recipients as conforming to self-awareness. ཆོས་ཉིད་དབྱིངས is treated as basic space of the nature of phenomena, retaining both established components rather than substituting the distinct whole entry ཆོས་དབྱིངས. The relational wording remains for review.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `བཅོམ་ལྡན་` → **Blessed One**. The full row’s conditions govern, not a component-only substitution. Active row `ཐུགས་རྗེ་` → **Compassionate responsiveness**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-004]: Golden-v1 S351–S371 and S485: quotation boundaries in English are editorial presentation. The first address is closed after S367; S368–S370, ending བཅོམ་ལྡན་རྡོ་རྗེ་སེམས་དཔས་བསྟན, is treated as a third-person teaching introduction; speech reopens at ཨེ་མ་ཧོ and closes before the clear narrative at S486. Reading S368–S370 as third-person wording within continuing speech remains possible. Neither the source nor a speaker’s identity is silently rewritten. Emaho preserves the exclamation provisionally rather than inventing explanatory content.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** PD-001, MTP-000110: `བཅོམ་ལྡན`; current English **Blessed One** replaces “Bhagavān”. PD-010, MTP-000111: `ཨེ་མ་ཧོ`; current English **How wondrous!** replaces “Emaho!”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-005]: Golden-v1 S353–S356 (printed436): exact སངས་རྒྱས་སེམས་ཅན་ཀུན་གྱི་དུར / ཐེམ་ཞིང is retained locally because its attachment and compound division remain unresolved. དུར can suggest a grave/burial expression, and ཐེམ can suggest a threshold or another verbal/nominal reading, but neither establishes a secure combined phrase here. The surrounding causal clause, embodiment of primordial knowing, genitive “of all buddhas and sentient beings,” and action ཡང་དག་དོན་ལ་སྤྱོད are represented. “Acts” is the grammatical activity-family realization; authentic is provisional for ཡང་དག. Do not repair to a familiar doctrinal expression or absorb the untranscribed smaller annotation. Human lexical/syntax review of the preserved division is needed.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** PD-004, MTP-000105: `སེམས་ཅན`; current English **karmic beings** replaces “sentient beings”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-006]: Golden-v1 S357–S362 (printed436–437): སྐྱེ་མེད is the shortened non-arising expression, not an independently chosen synonym. The sentence continues across the page label into the two distinct terms སྐྱེ་བྱ / སྐྱེ་བྱེད, provisionally “what arises / what brings about arising.” For exact ཐུགས་རྗེས་ཆོས་ཤིང་བཅད་དུ་མེད, the draft tentatively construes ཆོས as a shaping/ordering verb and the preceding embodiment/state as its recipients: “are shaped by compassionate responsiveness and cannot be cut off.” The verb and attachment remain uncertain; this is not a correction to བཅོས or a claim that every ཆོས means shaping. The negative cutting predicate is retained. Review the construction before treating this local verb sense as settled.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `ཐུགས་རྗེ་` → **Compassionate responsiveness**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-007]: Golden-v1 S363–S367 (printed437): the string of nominal expressions is rendered as a provisional appositional sequence; the source does not express a copula for every line. In སྐུ་ཡི་ངོ་བོ་ལུ་གུ་རྒྱུད the embodiment/essence relation is explicit, while vajra chains is the established whole-expression assignment supported here by the spheres/light sequence. The source’s five rays are retained without naming a fivefold taxonomy. The final ལམ་གྱི་སྐུ remains “embodiment of the path”; a fuller relation among these descriptions awaits review.
+
 [^T04-008]: Golden-v1 S368–S384 (printed437–438): དཀྱིལ་འཁོར is locally mandala, and སྤྲོས་པ་མེད་པ is provisionally “without conceptual elaborations,” preserving the family of canonical སྤྲོས་བྲལ without claiming exact identity. ལྷུན་འབྱམས is “spontaneously vast,” not canonical spontaneous presence for ལྷུན་གྲུབ. The full verb expression དོན་བྱེད is provisionally “serves purposes”; this context-specific action is not ordinary inflection of canonical meaning for standalone དོན. S376’s causal clause continues at S378. In S378–S379, the retained “plays in the space of empty primordial knowing” tentatively takes སྟོང་པའི་ཡེ་ཤེས་མཁའ as a compound nominal space phrase and carries the preceding expanse forward as subject; the Tibetan does not express an additional genitive between primordial knowing and space. The alternative “empty primordial knowing plays in space” changes subject and attachment and remains possible. This relational supply is not settled by the English and requires review. མཁའ is the short space form, distinct from basic space; ཏིང་འཛིན is a shortened deep-absorption expression. In S383–S384 the supplied “means of” and “is an” organize compressed nominal juxtaposition; an appositional reading remains possible. The repeated authentic primordial knowing at S380/S382 and the fire/wind comparisons are preserved without harmonization.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Family review `ཐབས`: The means/discerning-knowing pair and the continuum-of-means exposition were compared across the whole work. Retain the source order, distinguish procedure where actually present, and exclude ཐབས་ཅིག together. No chapter preference is an exception and no new shared entry is activated. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-009]: Golden-v1 S385–S388 (printed438): exact ཆོས་ཀྱི་སྐུ is an expanded genitive realization of canonical dharma embodiment, not the canonical spelling itself. The first two lines are provisionally equated; དང then introduces the spheres’ abiding place. ངང་གིས is rendered naturally in this local adverbial construction, not as a universal replacement for the provisional nominal state. The distinct negatives མ་གཡོས / གཡོ་བ་མེད remain “unmoved / without movement.” Review whether the final predicate also scopes over the activity phrases.
+
 [^T04-010]: Golden-v1 S389–S394 (printed438): the three causal endings as provisionally construed and the implicit subject of appearance/play are retained rather than replaced by a named agent. “In the state” tentatively relates the nominal S390 to the following showing clause. རྒྱུན་ཏུ means continuously locally; its spelling is not རྒྱུད, whose established assignment is continuum. ཡིད་ཆེས་གསུམ is provisionally “the three assurances,” an uncovered whole expression, not a general shortening of mental faculty or a named taxonomy supplied from elsewhere. Its count, instrument, and open referent require review.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Family review `ཐབས`: The means/discerning-knowing pair and the continuum-of-means exposition were compared across the whole work. Retain the source order, distinguish procedure where actually present, and exclude ཐབས་ཅིག together. No chapter preference is an exception and no new shared entry is activated. Active row `ཡིད་ཆེས་` → **conviction**. The full row’s conditions govern, not a component-only substitution. PD-013, MTP-000115: `ཡིད་ཆེས་གསུམ`; current English **three convictions** replaces “three assurances”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-011]: Golden-v1 S396–S400 (printed439): སྤྱོད་པ་མ་སྤྱད preserves both the activity noun and its negative verbal counterpart as “without enacting activity.” Canonical རང་སར་གྲོལ remains liberated in its own place. S398–S400 is a compressed modifier chain: the draft takes appearances like embodiment through means as those abiding on the secret-mantra path and described as beyond thinking, utterly pure, beyond objects. Final ཡི links into those descriptions; the exact attachment remains provisional. “Like” is preserved rather than silently changed to identity. No source object or negative is omitted.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Family review `ཐབས`: The means/discerning-knowing pair and the continuum-of-means exposition were compared across the whole work. Retain the source order, distinguish procedure where actually present, and exclude ཐབས་ཅིག together. No chapter preference is an exception and no new shared entry is activated. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-012]: Golden-v1 S401–S407 (printed439): nominal apposition in ཆགས་མེད་ཡེ་ཤེས་གསུང་གི་ངང is represented by dashes, with speech distinct from embodiment. ལྷུན་རྫོགས is provisionally spontaneous completeness/spontaneously complete, not the separate canonical spontaneous presence; མཉམ་སྦྱོར is locally joins equally. In S406 ཐུགས་རྗེ་དྲི་མ་རྣམ་པར་དག the draft supplies “with” to leave the relation between compassionate responsiveness and completely pure stains visible without asserting an explicit genitive absent from the source. The implied subject continuing to “becoming great discerning knowing” is not named. Review the precise coordination; the canonical compassionate responsiveness and discerning knowing terms remain intact.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Family review `ཐབས`: The means/discerning-knowing pair and the continuum-of-means exposition were compared across the whole work. Retain the source order, distinguish procedure where actually present, and exclude ཐབས་ཅིག together. No chapter preference is an exception and no new shared entry is activated. Active row `ཐུགས་རྗེ་` → **Compassionate responsiveness**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-013]: Golden-v1 S408–S418 (printed439–440): naturally arising primordial knowing is recognizable despite the source’s reordered ཡེ་ཤེས་རང་བྱུང; standalone natural arising remains proposed. The root/state relation and lamp/seal descriptions are provisionally read as nominal equations. S414 is rendered with dharma embodiment as subject and དངོས་པོའི་ལམ་དུ as “on the path of entities”; taking it as the continuation of the preceding nominal series is also possible. གནད་དུ་བརྡེག is provisionally “strikes the vital point,” and སྤྱི་བཅིངས is provisionally verbal “binds all together,” rather than canonical total immersion for the different སྤྱི་བླུགས. The king/pith-instruction relation is likewise compact. These construction choices require review; no source clause has been silently repaired.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. PD-014, MTP-000121: `གནད`; current English **key point** replaces “vital point”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-014]: Golden-v1 S419–S423 (printed440): exact སེམས་ཀྱི་སྒོ་བཅད་རྣམ་རྟོག་དངས is provisionally a description, “the gate of ordinary mind is closed; differentiating conceptualization clears.” An imperative construction is possible. དངས is retained as the source’s distinct clearing verb, not silently changed to གསལ or a different spelling. The metaphor ཁྱིམ་ཡངས་ཕུགས་རྡིབ is kept as “a spacious house, a collapsed interior,” without identifying an allegorical referent or adding a wall. S423 retains the closure of desire’s gate and clarity within. རྣལ་འབྱོར is locally yoga; whether the phrase points to practices or practitioners remains open. Review the metaphor and statement/instruction force; preserve the protected ordinary mind and differentiating conceptualization terms.
+
 [^T04-015]: Golden-v1 S424–S425 (printed440): the conditional ཆོས་ཉིད་ལམ་དུ་ཁྱེར་ན is provisionally carries the nature of phenomena onto the path; final དག marks the appearances rather than being automatically made a purity predicate. In exact ཁྱི་རྐུན་མདོར་ཕྱུང the dogs/thieves and bringing-out action are translated, but the relation conveyed by མདོར remains visibly unresolved. Possible summary/essential-point and spatial extraction readings are not interchangeable, and the metaphor’s intended referent is not supplied. རིག་པའི་ངོ་བོ་ཟིན is provisionally the essence of awareness is held, preserving essence and awareness. Review the idiom and predicate attachments; an earlier chapter’s provisional summary reading is not a blanket rule here.
+
 [^T04-016]: Golden-v1 S426–S431 (printed440–441): མཚན་མ་ཟིལ་གནོན retains the subduing action and རྒྱ་ཡིས་བཏབ the sealing action. S427 འོད་དབྱིངས་ཀུན་ཏུ་ཆུབ is provisionally “fully masters light’s basic space”; the exact force and implicit agent of ཆུབ remain open. S428 tentatively treats discerning knowing/self-appearance as apposition and ཆོས་ཉིད་ཡུལ་དུ་ཆོད as ascertaining in that object, not an unmarked equation of these terms. S431 སྣང་བ་ཆིག་ཆོད་མཁའ་ལ་རྒྱུག is rendered with provisional single resolution and an imperative “run into space”; [with] and [point] disclose grammatical supplies. No sky-gazing exercise or doctrinal resolution is added. Review the linked metaphors and verbal force.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `ཡུལ་` → **object**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-017]: Golden-v1 S432–S436 (printed441): ཞོག and སྐྱོལ support distinct resting and carrying instructions. Exact འཁོར་བ་ཉིད་ཀྱང་རུ་ནས་བཟློག is translated through the turning-back action, while རུ་ནས remains as a visible unresolved locus: rank/camp, horn, or an idiomatic construction cannot be securely selected here. It is not silently rewritten to at the root. S436 སྤྱད་པས་མ་ཕྱེད་ཡུལ་དུ་མེད is provisionally “not distinguished by activity and does not exist as an object”; its implicit subject and exact force of མ་ཕྱེད remain uncertain. The two negatives are preserved; review the construction, not just the glossary nouns.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `ཡུལ་` → **object**. The full row’s conditions govern, not a component-only substitution. PD-005, MTP-000126: `འཁོར་བ`; current English **cyclic existence** replaces “saṃsāra”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-018]: Golden-v1 S437–S439 (printed441): the five roots are not identified with an imported list. དྲན་བྱེད is tentatively “that which remembers,” distinct from canonical mindfulness for དྲན་པ; the agent/function is not named as ordinary mind. “Is cleared away” construes སངས as the cessation/clearing of that function. རང་རིག་དག is read as pure self-awareness continuing into the next line, rather than automatically taking དག as plural. These attachments remain open. The genitive ཀུན་གྱི་ལམ remains path of all.
+
 [^T04-019]: Golden-v1 S440–S444 (printed441): “the mirror of the all-basis body” preserves the compressed ཀུན་གཞི་ལུས་ཀྱི་མེ་ལོང without treating its first two nouns as a separately established whole expression. Apposition of the all-basis and body’s mirror is possible. སྟོང་རིག་གསལ is provisionally empty, clear awareness, retaining both qualities; གཞན་བྱུང is arising from another, contrasted with naturally arising. ཕུང་པོ is proposed as aggregates. མངོན་སངས་རྒྱས is provisionally “is manifestly buddha,” without identifying མངོན alone with the distinct established direct-perception expression. The exact predicative force remains for review. Ground follows earlier chapters’ lowercase prose presentation while preserving canonical The Ground as the glossary display; the presentation choice remains documented rather than editing the entry.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** PD-015, MTP-000128: `གཞི`; current English **Ground** replaces “ground”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-020]: Golden-v1 S446–S451 (printed442): ཡེ་དངས is provisionally primordially clarified; its actual དངས is not changed to a familiar clarity spelling. སྣང་བ་འོད་གསལ་གཉིད་དུ་གྲོལ is rendered “appearance is liberated into clear-light sleep,” a provisional attachment of the clear-light and sleep nouns, not an imported sleep-practice instruction. Exact ཅེར་བཞག is the inflected resting form linked to canonical naked resting, not naked seeing. འཛིན་པའི་ཡུལ retains the apprehending-subject genitive. In ཉོན་མོངས་ལྔ་ཉིད་རང་ཡིན་པས the possessive [one’s] is supplied visibly; the referent of རང is not securely expressed. Five faculties and three realms remain unnamed beyond the text.
+
 [^T04-021]: Golden-v1 S452–S457 (printed442): naturally arising and self-arising remain distinct source forms; the continuum’s arising is cut at the root without changing རྒྱུད to a genre word. Exact S456 ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས remains syntactically unresolved. The draft offers “Since [it is] from the beginning in wish-fulfilling enlightened intent,” with an explicit construction marker: [it is] supplies a tentative predicate to the incomplete-looking ཡེ་ནས་པས, and wish-fulfilling is only a local proposed compound sense of ཡིད་བཞིན. It is not an approved replacement for standalone mental faculty, nor is དགོངས་པ reduced to mind. Do not emend the final syllables or import the smaller untranscribed annotation. S457 འགྱུ་བྱེད / རང་བཞག retains movement-causing versus self-resting; the latter is a separate proposed construction, not a canonical whole-expression match.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དགོངས་པ་` → **Enlightened intent**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-022]: Golden-v1 S458–S466 (printed442–443): རྒྱུན་ཆད refers provisionally to cut continuity of breath, not canonical continuum for differently written རྒྱུད. The descriptions of birth/death and movement are not converted into practical breath-stopping advice. In ཞེན་པའི་མཐའ་ནི་བསྒོམ་པ་ཉིད “limit of clinging” preserves the expressed genitive and identity with cultivation; whether limit means endpoint or boundary remains open. Arriving and traversing are kept distinct, with no destination supplied. སྨྲ་བསམ is speech and thinking, not an automatic replacement for the conceptual-thought entries. The predicates’ implied subjects are bracketed where supplied.
+
 [^T04-023]: Golden-v1 S467–S472 (printed443): མེད་པའི་འཕྲོ་འདུ is retained as the genitive “proliferating and gathering of nonexistence”; no ordinary positive object is substituted to smooth the paradox. བསམ་གཏན is locally proposed as meditative concentration, distinct from deep absorption and cultivation. Stains/self-purification and the established unimpeded penetration remain identifiable. For བྱས་པ་བྱུང་བ་མེད་པའི་ཕྱིར the draft construes what is done as what has not arisen; juxtaposed done/arisen items are an alternative, but an unexpressed conjunction is not asserted. བྱ་བྱེད་བྲལ preserves doing and its doer rather than flattening to generic inaction. Review the nominalization and negation scope.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Family review `བསམ་གཏན`: Local provisional realization tested at all six root occurrences: 000135, 000261, 000338, 000451, 000475, 000482. Abiding-in and nominal-state/list grammar support stability; separate deep absorption at 000338 rules out collapsing the two. No meditation hierarchy or new shared default is approved. Active row `བྱ་བྱེད་` → **doing and the doer**. The full row’s conditions govern, not a component-only substitution. PD-023, MTP-000135: `བསམ་གཏན་ཆེན་པོར་གནས`; current English **meditative stability** replaces “meditative concentration”. This is a linked local provisional realization under §8.1, not an approved shared default. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-024]: Golden-v1 S473–S479 (printed443–444): the causal clause continues across the page label. གཞི་ནས is retained as from the ground, leaving open its relation to the following arising-from-another phrase rather than silently recasting it as an ordinary temporal idiom. ཉག་གཅིག limits natural arising to only; no additional entity is posited. Following the exhaustion of one/two, ཟླ་དང་བྲལ is provisionally without a companion, not silently made a lunar statement; the moon homonym remains a lexical alternative requiring contextual review. S479 treats awareness’s appearance as pervading as clear light; the source’s compressed apposition does not explicitly mark as.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `གཞི་` → **The Ground**. The full row’s conditions govern, not a component-only substitution. P1 requires capital Ground only for technical uses; disputed support/foundation constructions are not settled by capitalization. PD-015, MTP-000136: `གཞི`; current English **Ground** replaces “ground”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-025]: Golden-v1 S480–S485 (printed444): S481’s nominal སངས་རྒྱས་ཉིད་ཀྱི་ས is provisionally the level of buddha itself, with [there is] supplied; ས is not confused with canonical ground for གཞི. སྟོང་སངས is locally emptied and cleared away, not silently equated with an established clarity term. བདག་འཛིན is proposed as self-grasping in its compound with the protected conceptual mind; this does not establish a general verb replacement for canonical apprehending subject. The instrumental repetition in རྐྱེན་རྣམས་རྐྱེན་གྱིས is retained as conditions by conditions. ལྟོས་ཆོས is provisionally dependent phenomena; exact ཅོག་བཞག is linked to established leaving as it is with a source-supported plural realization.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `འཁོར་བ་` → **cyclic existence**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-101]: Golden-v1, chapter 4, S486,S491,S540,S542,S545,S593,S594,S604 (printed444–452): Names and titles: རྟ་མགྲིན, རྡོ་རྗེ་འཆང, བཅོམ་ལྡན, བཅོམ་ལྡན་འདས and ཡེ་ཤེས་མཁའ་འགྲོ are provisionally rendered Hayagrīva, Vajradhara, Bhagavān and primordial-knowing ḍākinīs in continuity with chapter 3. These are local conventional name/title treatments, not new approvals in the canonical glossary. རྟ་མཆོག་དཔལ is separately rendered Glorious Supreme Horse at S593, preserving its different wording rather than silently replacing it with Hayagrīva. Review proper-name identity separately from source wording.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `བཅོམ་ལྡན་` → **Blessed One**. The full row’s conditions govern, not a component-only substitution. Active row `བཅོམ་ལྡན་འདས་` → **Blessed One**. The full row’s conditions govern, not a component-only substitution. Active row `རྡོ་རྗེ་འཆང་` → **Vajradhara**. The full row’s conditions govern, not a component-only substitution. PD-001, MTP-000172: `བཅོམ་ལྡན`; current English **Blessed One** replaces “Bhagavān”. PD-001, MTP-000175: `བཅོམ་ལྡན་འདས`; current English **Blessed One** replaces “Bhagavān”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-102]: Golden-v1, chapter 4, S486,S487,S489,S490,S491,S492,S493 (printed444–445): The sequence སྣང་བ་དེ་ཀུན་རང་གྲོལ་བས ... ངོ་མཚར་མཆོག་ཏུ་གྱུར ... བརྒྱལ links self-liberation of appearances to Hayagrīva’s astonishment and faint. The page marker does not end the sentence. S492 བརྒྱལ་བ་བསླང supplies raising the fainted one; the draft supplies him from this preceding referent, with moderate confidence.
+
 [^T04-103]: Golden-v1, chapter 4, S494,S495,S496,S497,S498 (printed445): S497–498 ཇི་ལྟར་སྨྲ་དང་བྱ་བྱེད་རྣམས / སྟོང་རིག་གསལ་བའི་སྤྱོད་པ་ཡིན is provisionally parsed as whatever speaking and all doing/doers being the activity of clear empty awareness. བྱ་བྱེད preserves the two roles; སྟོང་རིག is an uncovered compound assembled from emptiness/awareness rather than an approved standalone equivalent. This is the speaker’s contextual statement, not an added unrestricted practical injunction.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `བྱ་བྱེད་` → **doing and the doer**. The full row’s conditions govern, not a component-only substitution. PD-027, MTP-000144: `ཨེ་མ`; current English **Ah!** replaces “Ema!”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-104]: Golden-v1, chapter 4, S499,S500 (printed445): S499–500 བཟང་དང་ངན་པའི་རྟོག་པ་རྣམས / བསྒོམ་པ་ཆུ་བོའི་ཀློང་ཆེན་ཡིན retains conceptual thoughts for རྟོག་པ and cultivation for བསྒོམ་པ. The working genitive “conceptual thoughts of good and bad” leaves good/bad as the objects or content of thought. The initial draft’s “good and bad conceptual thoughts,” evaluating the thoughts themselves, remains a possible attachment rather than a settled source distinction. Cultivation’s great river-expanse treats the two adjacent nominal phrases as a compound with an implicit possessive relation; the alternative apposition, cultivation—the great expanse of a river, remains possible. No new canonical compound is claimed.
+
 [^T04-105]: Golden-v1, chapter 4, S501,S502 (printed445): Fixed S501 ལོག་ལྟ་ཡང་དག་འདོད་པ་རྣམས is provisionally divided into wrong views and desires for what is authentic. The relation may instead be wrong views held to be authentic, or a juxtaposition of wrong/right views. S502 རྣལ་འབྱོར་རིས་མེད་ལྟ་བ is rendered yoga’s impartial view; attachment of impartial to yoga or view remains open. Native layer findings are to be recorded separately; no wording is inserted or deleted here.
+
 [^T04-106]: Golden-v1, chapter 4, S503,S505 (printed445–446): S503 རེ་དང་དོགས་པར་འཛིན་པ་ཀུན continues at S505 ཟང་མ་ཐལ་བྱུང་འབྲས་བུ་ཡིན. The draft takes apprehending verbally/nominally rather than forcing the role-noun apprehending subject into this construction. The phrase pure penetration arising is provisional for the exact ཟང་མ་ཐལ་བྱུང; it is not silently normalized to the glossary headword ཟང་ཐལ (unimpeded penetration). Review the phrase’s internal grouping and relation of བྱུང to result.
+
 [^T04-107]: Golden-v1, chapter 4, S506,S507,S508,S509,S510 (printed446): S506–510 མངོན་འདོད་པས is read as desiring manifestation, with an unspecified agent; it need not be a command. སྟོང་གསུམ is provisionally three-thousandfold [world], not the numeral 3000 or three emptinesses. ཁུ་རླངས is liquid vapor, without inventing a specific bodily substance. འགྲོ་བའི་ལམ་དམིགས་ཐིག་ཆེན is compressed: the draft retains path, object of focus and great line while provisionally treating it as mandala delineation imagery. Review attachment and the meaning of དམིགས here; no distinct Tibetan ཐིག་ལེ is supplied.
+
 [^T04-108]: Golden-v1, chapter 4, S507,S510,S511,S512,S513,S514,S515,S516,S517,S529,S530,S531,S532,S533 (printed446–447): Ritual vocabulary is local and proposed: དཀྱིལ་འཁོར mandala; རྡུལ་ཚོན colored powder; སྟངས་སྟབས posture; standalone ཕྱག་རྒྱ gesture; སྔགས mantra; བསྐྱེད་རིམ generation stage; མཆོད་པ offering; ལྷ deity; བསྙེན་པ approach; སྒྲུབ་པ accomplishment; ལྷག་གནས consecration. The established whole entry ཕྱག་རྒྱ་ཆེན་པོ remains Mahamudra; it does not canonize the standalone gesture proposal. བསྐྱེད་རིམ is not replaced by cultivation, which belongs to སྒོམ་པ. Each mapping remains subject to glossary approval.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དཀྱིལ་འཁོར་` → **mandala**. The full row’s conditions govern, not a component-only substitution. Active row `ཕྱག་རྒྱ་` → **seal**. The full row’s conditions govern, not a component-only substitution. P2 permits gesture in actual bodily movement, but not mudra as a third default; Mahamudra is a different whole expression. Family review `ཚིག`: The word/phrase contrast at 000234 and existing contrived phrases at 000266 support phrase in the twelve repaired formulated-unit contexts. Generic put-into-words and in-these-words at 000656/000657 do not introduce a competing technical label and remain. Exclude sacred-pledge compounds. Shared phrase assignment remains Proposed. PD-025, MTP-000149: `ཚིག`; current English **a phrase of mantra** replaces “a word of mantra”. This is a linked local provisional realization under §8.1, not an approved shared default. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-109]: Golden-v1, chapter 4, S514,S517,S568 (printed446–450): S514 བསམ་པ is acts of thinking, distinct from རྟོག་པ conceptual thought and རྣམ་རྟོག differentiating conceptualization. In S517 སྒྲ་ཆེན and S568 སྒྲ་སྙན, sound is a proposed acoustic contextual use against canonical སྒྲ Word; loud utterance/music and melodious quality support this local reading. It must not replace Word in word-and-meaning expressions.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `སྒྲ་` → **Word**. The full row’s conditions govern, not a component-only substitution. P1 approves sound in auditory/sensory uses and word in linguistic uses; this does not settle the separate phrase construction. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-110]: Golden-v1, chapter 4, S519,S520,S521,S522,S523,S524 (printed447): The vase/body imagery is kept as stated. S521 ཁྲག་དང་ཆུ་སེར is blood and serum; S522 དོན་སྙིང་ལ་སོགས is provisionally vital organs, heart, and so forth, with དོན treated anatomically rather than as canonical Meaning. Exact anatomical reference and relation of heart to the organ class remain open; no organ list is supplied. S523–524 དབང་རྣམས་བྱིན / མ་བསྐུར་ཉིད་ལ་རྫོགས preserves both bestowing and not conferring, without harmonizing their apparent tension. Empowerment is a proposed standalone family use supported by the established Four empowerments entry.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Family review `ཆུ་སེར`: The bodily-vase liquid at 000151 and flesh/blood/tissue list at 000216 both support a bodily-fluid sense, but neither passage decides modern serum versus lymph. Those more specific labels remain provisional; physiological or lexicographic evidence for the exact historical use is needed before shared reconciliation. Do not infer medical precision from the similes. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-111]: Golden-v1, chapter 4, S525,S526,S527,S528 (printed447): S525–528 juxtaposes འདའ་བར་འདོད་པ transgression-desire with དམ་ཚིག samaya, guarding-desire with binding, liberating-desire with ཉམས་པ deterioration, and absence-desire with ཐུབ་མཆོག supreme sage. These are speaker assertions in context, preserved without reversing them into ordinary prohibitions. ཉམས་པ is locally a decline/damage sense; canonical ཉམས Experience does not justify experience here. The object whose absence is desired is not specified. Samaya, bondage and supreme sage remain proposed local technical treatments.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དམ་ཚིག་` → **sacred pledge**. The full row’s conditions govern, not a component-only substitution. PD-016, MTP-000152: `དམ་ཚིག`; current English **sacred pledge** replaces “samaya”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-112]: Golden-v1, chapter 4, S529,S530,S531,S533,S534 (printed447): S531 འདུ་བྱེད is provisionally formations, not automatically a restricted list of mental factors. S533 ཕྱག་རྒྱའི་བརྡའ is signs of the gesture. S534 དེ་ལ་ཆགས་པ་ཉམས་མྱོང་ཡིན says attachment to that is experiential acquaintance; the unexpected equation is retained. No negation is supplied, and experiential acquaintance is not replaced by experience or realization.
+
 [^T04-113]: Golden-v1, chapter 4, S532 (printed447): Exact S532 is གློ་དང་ལུང་པས་དཀྱིལ་འཁོར་སྒྲུབ. Lungs is a provisional anatomical reading of གློ; the following ལུང་པ is retained untranslated because a secure anatomical or topographical referent is not established. The draft preserves the instrumental and mandala accomplishment. It does not silently replace this source form with a familiar organ name. Review the fixed reading and relevant source annotation; no emendation proposed as accepted.
+
 [^T04-114]: Golden-v1, chapter 4, S536,S537,S538,S539 (printed448): S536 ཤེས་རིག་གསལ་བ is provisionally clear knowing-awareness, retaining both lexical members. S537 ཡུལ་སེམས་གཉིས་འདུས་གདབ་པའི་ཡུལ is read as object and ordinary mind gathered together being the object of application: གདབ may concern placing/applying [instruction], but its implicit object is unresolved. Do not silently read གདམས or invent an instruction’s specific content. S538 གོམས་པ is familiarization, not the differently spelled cultivation headword. S539 ཚོགས་དྲུག is six collections; identification with six consciousnesses is plausible but not inserted.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `ཡུལ་` → **object**. The full row’s conditions govern, not a component-only substitution. Active row `གནད་` → **key point**. The full row’s conditions govern, not a component-only substitution. Active row `གདམས་ངག་` → **oral instruction**. The full row’s conditions govern, not a component-only substitution. Active row `གོམས་པ་` → **familiarization**. The full row’s conditions govern, not a component-only substitution. PD-012, MTP-000155: `གདམས་ངག`; current English **is oral instruction** replaces “is instruction”. PD-014, MTP-000155: `གནད`; current English **key point** replaces “vital point”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-115]: Golden-v1, chapter 4, S543,S544,S595,S596 (printed448–451): The container/content pairing is preserved: སྣོད་ཀྱི་འཇིག་རྟེན / སྣོད་འཇིག་རྟེན is container-world; བཅུད་ཀྱི་སེམས་ཅན is sentient beings as its contents. Container-world is a proposed whole-expression treatment; the term sentient beings is a lexicalized construction, not an instruction to expand སེམས inside it as ordinary mind. The questions are not rewritten as asserted nonliberation.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `སེམས་ཅན་` → **karmic being**. The full row’s conditions govern, not a component-only substitution. Active row `བཅུད་` → **quintessence**. The full row’s conditions govern, not a component-only substitution. P2 approves contents/inhabitants in the container-world contrast; do not replace those by quintessence. PD-004, MTP-000172: `སེམས་ཅན`; current English **karmic beings** replaces “sentient beings”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-116]: Golden-v1, chapter 4, S546,S547,S548,S549,S550,S552,S553,S554,S555,S556 (printed448–449): The elemental predicates retain source direction: S547 དངོས་པོར་གྲོལ is liberated as an entity, not liberated from entities; S548 གཟུང་ཡུལ is read as apprehended object; S550 སྨིན་བྱེད་བྱིན་ཟ is ripener/eater of offerings, with the ritual epithet provisional. S556 explicitly assigns སྲེག་བྱེད་སྨིན་པའི་ལས, burning/ripening work, to the water clause. The surprising functions are not reassigned to a conventional element scheme. ལས here is locally work/action, not a silently inserted karma doctrine.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. Active row `དངོས་མེད་` → **nonentity**. The full row’s conditions govern, not a component-only substitution. PD-007, MTP-000161: `དངོས་མེད`; current English **limitless emptiness without entities** replaces “insubstantial, limitless emptiness”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-117]: Golden-v1, chapter 4, S552,S553 (printed449): Fixed S552 བསྐྱོད་ཅིང་དངས་སྙིགས་འབྱེད་པར་གྲོལ is provisionally moving and separating the refined portion and dregs; it retains དངས, not an emended spelling. S553 སྐྱེད་བྱེད་བདེགས is read as generating and supporting. These are local physical-function glosses; exact sense of the contrasted substances and verbal form remains reviewable.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངས་སྙིགས་` → **pure extract and residue**. The full row’s conditions govern, not a component-only substitution. PD-017, MTP-000161: `དངས་སྙིགས`; current English **pure extract and residue** replaces “refined portion and dregs”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-118]: Golden-v1, chapter 4, S557,S558,S559,S560,S561,S562,S563,S564,S565,S566,S568,S569,S570,S571,S572,S573,S574,S575,S576,S577,S578,S579,S580,S581,S582 (printed449–450): The twenty-five element descriptions retain their actual source order, predicates and cases. Genitives such as ནམ་མཁའི་རླུང are rendered X of Y. S557 དངོས་པོ་ལ is treated as an entity followed by a connective, not a supplied action on entities. S559 gives burning to space’s water; S573 gives generation to fire’s fire; these are not harmonized. Elliptical objects of causing/blazing/drying remain implicit or visibly supplied, rather than replaced by an invented elemental cycle.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-119]: Golden-v1, chapter 4, S565 (printed449): Exact S565 is རླུང་གི་མེས་ནི་འཕེན་སྡུད་ཕྱེད. The draft provisionally takes final ཕྱེད as dividing/distinguishing projection and gathering. The familiar noun sense half is a competing possibility; the fixed spelling is not silently changed to འབྱེད or ཕྱེ. This remains a low-confidence local reading requiring human review.
+
 [^T04-120]: Golden-v1, chapter 4, S566,S572 (printed449–450): Actual S566 རླུང་གིས་ས་ནི་གཟུགས་བརྙན་གསལ has instrumental གིས: through wind, as for earth, [its] reflection is clear. The supplied possessive is a local attachment proposal. Actual S572 ཆུ་ཡིས་ས་ནི་ཁྱབ་པར་བྱེད has instrumental ཡིས: water pervades earth. Neither is silently converted to the genitive earth of wind/water to force matrix symmetry.
+
 [^T04-121]: Golden-v1, chapter 4, S575,S577 (printed450): S575 མེ་ཡི་རླུང་གིས་འབར་བར་བྱེད omits what is made to blaze; [them] points provisionally to entities from S574. S577 མེ་ཡི་སས་ནི་འཛིན་པའོ uses a physical holding function for earth. Holds is a local contextual verb, not the canonical epistemic role-noun apprehending subject. No approved universal reassignment is implied.
+
 [^T04-122]: Golden-v1, chapter 4, S578,S579 (printed450): S578 འགྲོ་བ is provisionally beings rather than motion; the latter remains possible. S579 ས་ཡི་ནམ་མཁའ་ཐེག་ཆེན་ཏེ is rendered the space of earth is the great vehicle, preserving ཐེག་ཆེན without assuming the doctrinal Mahāyāna. A physical great bearer/support reading is possible in this elemental context.
+
 [^T04-123]: Golden-v1, chapter 4, S583,S585 (printed450–451): Fixed S583 reads ངེས་པ་མེད་པའི་བྱུང་བ་ཡིས, rendered through arising without determination. It is not silently changed to འབྱུང་བ or translated as elements on that assumed repair. S585 ངེས་པར་སྣང་བའི་སེམས་ཉིད is ordinary mind itself, appearing definitely; the contrast in determination is kept, while the exact scope of the adverb and སེམས་ཉིད compound remains provisional. Record any print discrepancy in the separate native-audit note. The coordinator’s native audit directly confirms print འབྱུང་བ against fixed བྱུང་བ. Elements would follow that print form in this context; the chosen English arising follows the fixed form instead. This helper has not independently inspected that image and does not amend the golden source.
+
 [^T04-124]: Golden-v1, chapter 4, S586,S587,S588,S589,S590,S591,S592 (printed451): The liberation sequence keeps the actual instruments and complements: S588 དངོས་པོས means by entities; S589 ཆོས་ཀྱིས by phenomena; S590 མེད་པས by absence; S591 གཅིག་གིས by one; S592 གཉིས་སུ་སྣང་བས through appearing as two. No by is silently replaced by from. རང་བཞིན་མེད retains without intrinsic nature. The passive English leaves the agent unspecified as in the compressed source.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `དངོས་པོ་` → **entity**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-125]: Golden-v1, chapter 4, S593 (printed451): S593 རྟ་མཆོག་དཔལ is rendered Glorious Supreme Horse as a provisional transparent title. The contextual identification with the prior Hayagrīva speaker is plausible, but the distinct source wording is preserved.
+
 [^T04-126]: Golden-v1, chapter 4, S597,S598,S600,S601,S602,S603 (printed451–452): S597 སེམས་ཅན་གྲོལ་བ་རྣམས་ལ་དོན་མེད་འགྱུར is provisionally for liberated sentient beings, [this] would become meaningless; the supplied referent this is unsettled. It may instead concern the meaning/purpose of beings’ liberation. S598 continues into S600 འབད་པ་མེད་པར་གྲོལ་ལམ་ཅི, with ལམ as the question connector after liberated, not a liberation-path noun. S601–603 conditionals are kept: if through effort, and if the inert cannot reasonably be liberated, how are sentient beings liberated? No effort/non-effort premise or answer is silently inverted. བེམ་པོ is locally the inert, without a supplied list of entities.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `སེམས་ཅན་` → **karmic being**. The full row’s conditions govern, not a component-only substitution. Active row `བེམ་པོ་` → **matter**. The full row’s conditions govern, not a component-only substitution. PD-004, MTP-000172: `སེམས་ཅན`; current English **karmic beings** replaces “sentient beings”. PD-004, MTP-000174: `སེམས་ཅན`; current English **karmic beings** replaces “sentient beings”. PD-008, MTP-000174: `བེམ་པོ་ནི / གྲོལ་བར་རིགས་པ་མ་ལགས་ན`; current English **and matter
+    is not reasonably** replaces “and the inert
+    are not reasonably”. Matter names the material/non-knowing side here; it asserts neither immobility nor that karmic beings lack bodies. The stated negation/nonduality and any unresolved relation are retained. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-127]: Golden-v1, chapter 4, S605,S606 (printed452): S605–606 འབད་པས་གྲོལ་བ་མ་ཡིན་ཏེ / ཡེ་ཉིད་ནས་ནི་གྲོལ་བར་གནས supplies an unspecified liberated subject. [One] is a grammatical supply, not a newly identified actor. Abides realizes the established abiding family; primordial beginning preserves the emphatic temporal expression.
+
 [^T04-128]: Golden-v1, chapter 4, S607,S608,S609,S610,S611,S612,S613,S614 (printed452): S607–610 is a compressed conception/realization construction. The draft treats ཕ་དང་མ་ཡི་རྒྱུ་ཉིད་དག as the very causes of father and mother, with དག a pluralizing particle, not a supplied assertion that they are pure. Those causes are provisionally the subject moved by the propelling wind and described by awakening, self-awareness, great bliss. No semen, ovum, biological mechanism, or deity is added. ཐབས means and ཤེས་རབ discerning knowing remain distinct. The causal and appositional attachments require human review.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `རང་རིག་` → **self-awareness**. The full row’s conditions govern, not a component-only substitution. Family review `ཐབས`: The means/discerning-knowing pair and the continuum-of-means exposition were compared across the whole work. Retain the source order, distinguish procedure where actually present, and exclude ཐབས་ཅིག together. No chapter preference is an exception and no new shared entry is activated. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-129]: Golden-v1, chapter 4, S611,S612,S613,S614 (printed452): S611–614 retains seed, five elements, the object of emptiness, and the bliss of two. སྙོམས་འཇུག is provisionally absorption, a separate unlisted expression, not silently identified with ཏིང་ངེ་འཛིན deep absorption or མཉམ་གཞག equipoise. Sexual union is a plausible contextual sense but not substituted without a usage decision. The number two is not replaced by named participants within the English line.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `ཡུལ་` → **object**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-130]: Golden-v1, chapter 4, S616,S617,S618,S619 (printed453): S616–619 preserves entry into the womb and the exact adjacent numerical claims. བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད is provisionally the measure of realization of seven groups of seven; seven weeks is plausible, but no time unit is inserted as if written. ཟླ་བཅུ is ten months, followed by traversing the levels. No arithmetic or biological harmonization reconciles these statements. ས here is levels, not the separate canonical གཞི The Ground. Existing golden smaller-annotation limits remain in force.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `རང་རིག་` → **self-awareness**. The full row’s conditions govern, not a component-only substitution. PD-015, MTP-000180: `གཞི`; current English **Ground** replaces “ground”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-131]: Golden-v1, chapter 4, S620,S621,S622,S623,S624,S625 (printed453): The source equates life events and technical states without explanation; the draft preserves those equations. S621 ལུས་བསྐྱེད is body-growth, not an inserted generation-stage practice. S624 གདིང is provisionally confidence, related to but not an exact replacement of glossary གདེང་བཞི Four confidences. S625 ཤི་བས is read causally/instrumentally through death; [one] and the goal into are supplied to make the ellipsis readable. No claim that illness proves realization is added beyond the speaker’s actual statement.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `ཡུལ་` → **object**. The full row’s conditions govern, not a component-only substitution. Active row `གཞི་སྣང་` → **Ground-appearance**. The full row’s conditions govern, not a component-only substitution. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-132]: Golden-v1, chapter 4, S626,S627,S628,S629 (printed453): S628 is exactly ཨེ་མ་སྤྱོད་བསམ་བསྒྱུར་སྣང་བ་གྲོལ. The draft keeps activity, thinking, transformation and appearance as a compressed sequence; relation among them remains unresolved. In particular, no negative particle is inserted to match the following negative parallels. S629 བསྒོམས་པས་མ་བཅོས་ཆོས་ཅན་གྲོལ is read uncontrived by cultivation; bearer of phenomena is a provisional transparent rendering of ཆོས་ཅན, not a silent replacement by ཆོས་ཉིད nature of phenomena.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `སེམས་ཅན་` → **karmic being**. The full row’s conditions govern, not a component-only substitution. Active row `ཆོས་ཅན་` → **bearer of phenomena**. The full row’s conditions govern, not a component-only substitution. PD-004, MTP-000182: `སེམས་ཅན`; current English **karmic beings** replaces “sentient beings”. PD-027, MTP-000182: `ཨེ་མ`; current English **Ah!** replaces “Ema!”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-133]: Golden-v1, chapter 4, S631,S632,S633 (printed454): S631 རྟག་ཆད is provisionally permanence and annihilation; doctrinal eternalism/nihilism labels are not imposed. S632 འབྲས་བུ་མ་བཅིངས is read unbound by the result; agent/instrument is implicit. S633 སྣང་བ་ཡེ་རྒྱས་ཐེབས་པའོ is provisionally appearance is stamped with the primordial seal: ཡེ་རྒྱས is read as primordial seal in the instrumental, and ཐེབས as being impressed/stamped. This regular case parsing does not require changing the fixed spelling. An alternative lexical reading of རྒྱས as fullness/expansion remains possible. Seal is locally proposed terminology consistent with the earlier chapter, not a canonical glossary addition.
+
 [^T04-134]: Golden-v1, chapter 4, S634,S635 (printed454): Title and genre follow the prior chapter’s proposed local practice: མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེ Precious String of Pearls, and textual རྒྱུད Tantra. Tantra is a local genre exception to canonical Continuum, not a changed default. འབད་མེད་རང་གྲོལ is effortless self-liberation, retaining the established self-liberation family. The source does not call the work secret in this chapter’s colophon, so secret is not added.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `རྒྱུད་` → **Continuum**. The full row’s conditions govern, not a component-only substitution. P1 approves tantra in titles/textual-genre contexts; continuum remains the non-literary default. Ambiguous naming constructions stay provisional. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^T04-135]: Golden-v1, chapter 4, S617,S621,S622 (printed453): The established glossary displays གཞི as The Ground and གཞི་སྣང as Ground-appearance. This draft follows the lead translator’s chapter-continuity choice of lowercase ground and ground-appearance in running prose while retaining the unresolved presentation query; no lexical replacement or new capitalized taxonomy is introduced.
+
+    **Phase D current disposition (2026-10-05; supersedes earlier terminology-status claims only):** Active row `གཞི་` → **The Ground**. The full row’s conditions govern, not a component-only substitution. P1 requires capital Ground only for technical uses; disputed support/foundation constructions are not settled by capitalization. PD-015, MTP-000180: `གཞི`; current English **Ground** replaces “ground”. PD-015, MTP-000181: `གཞི`; current English **Ground** replaces “ground”. See [the whole-work review](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review). Original source-audit evidence and approval history above are retained; unresolved constructions remain flagged.
+
 [^CH04-G000343]: Golden editorial record, MTP-S000343. Golden Tibetan: `དེ་ནས་རྟ་མགྲིན་དབང་གིས་རྒྱལ་པོས་འདི་སྐད་ཅེས་ཞུས་སོ`. Retained source qualification: Smaller source wording around the opening remains untranscribed; no punctuation or expansion is silently supplied. Working treatment: translate only the fixed golden wording; do not silently supply the untranscribed layer. See the local Adzom audit notes for newly examined evidence. Review action: resolve the stated source or allocation question before a critical edition.
+
 [^CH04-G000355]: Golden editorial record, MTP-S000355. Golden Tibetan: `སངས་རྒྱས་སེམས་ཅན་ཀུན་གྱི་དུར`. Retained source qualification: Smaller adjacent source text is not incorporated; the electronic boundary after དུར is preserved rather than presented as source physical lineation. Working treatment: translate only the fixed golden wording; do not silently supply the untranscribed layer. See the local Adzom audit notes for newly examined evidence. Review action: resolve the stated source or allocation question before a critical edition.
+
 [^CH04-G000356]: Golden editorial record, MTP-S000356. Golden Tibetan: `ཐེམ་ཞིང་ཡང་དག་དོན་ལ་སྤྱོད`. Retained source qualification: Smaller intervening source notes remain untranscribed; no conjectural alteration or anchor merge is made. Working treatment: translate only the fixed golden wording; do not silently supply the untranscribed layer. See the local Adzom audit notes for newly examined evidence. Review action: resolve the stated source or allocation question before a critical edition.
+
 [^CH04-G000446]: Golden editorial record, MTP-S000446. Golden Tibetan: `འབྱུང་བ་ལྔ་ཉིད་ཡེ་དངས་པས`. Retained source qualification: Smaller explanatory source material is interleaved in this printed verse and remains untranscribed; the checked large main-text reading is retained. Working treatment: translate only the fixed golden wording; do not silently supply the untranscribed layer. See the local Adzom audit notes for newly examined evidence. Review action: resolve the stated source or allocation question before a critical edition.
+
 [^CH04-G000456]: Golden editorial record, MTP-S000456. Golden Tibetan: `ཡིད་བཞིན་དགོངས་པར་ཡེ་ནས་པས`. Retained source qualification: The smaller source annotation after ཡིད་བཞིན remains untranscribed in this bounded check; no uncertain annotation is incorporated into the main reading. Working treatment: translate only the fixed golden wording; do not silently supply the untranscribed layer. See the local Adzom audit notes for newly examined evidence. Review action: resolve the stated source or allocation question before a critical edition.
+
 [^CH04-G000469]: Golden editorial record, MTP-S000469. Transcript correction: `དིར་མ་རྣམས་ནི་རང་དག་པས` → `དྲི་མ་རྣམས་ནི་རང་དག་པས`. Golden v1 recorded this as a scan-supported correction to the electronic transcript, intended to follow Adzom. The current local Adzom audit note, where present, records any newly observed difference or uncertainty. The governing print has the subjoined-ra stack དྲི, followed by མ, whereas the electronic base has separate suffix-ra spelling དིར. Correct this visible transcription discrepancy only. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/golden-v1/evidence/golden/04/00453.png). Retained source qualification: A smaller annotation intervenes between the printed དྲི and its large-type continuation མ་རྣམས་ནི་རང་དག་པས; its full wording is not transcribed here. Working treatment: translate only the fixed golden wording; do not silently supply the untranscribed layer. See the local Adzom audit notes for newly examined evidence. Review action: resolve the stated source or allocation question before a critical edition.
+
 [^CH04-G000470]: Golden editorial record, MTP-S000470. Transcript correction: `དིར་མེད་ཟང་ཐལ་ཆེན་པོར་གནས` → `དྲི་མེད་ཟང་ཐལ་ཆེན་པོར་གནས`. Golden v1 recorded this as a scan-supported correction to the electronic transcript, intended to follow Adzom. The current local Adzom audit note, where present, records any newly observed difference or uncertainty. The governing print repeats the visibly stacked དྲི in དྲི་མེད. Correct the electronic base དིར་མེད to the scan-supported spelling; retain the rest of the supplied verse. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/golden-v1/evidence/golden/04/00453.png).
+
 [^CH04-G000618]: Golden editorial record, MTP-S000618. Golden Tibetan: `བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ`. Retained source qualification: Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled. Working treatment: translate only the fixed golden wording; do not silently supply the untranscribed layer. See the local Adzom audit notes for newly examined evidence. Review action: resolve the stated source or allocation question before a critical edition.
+
 [^CH04-G000619]: Golden editorial record, MTP-S000619. Golden Tibetan: `ཟླ་བཅུ་ས་རྣམས་བགྲོད་པ་ཉིད`. Retained source qualification: Smaller intervening source annotations remain untranscribed; their omission from the electronic main sequence is not silently filled. Working treatment: translate only the fixed golden wording; do not silently supply the untranscribed layer. See the local Adzom audit notes for newly examined evidence. Review action: resolve the stated source or allocation question before a critical edition.
+
 [^CH04-G000634]: Golden editorial record, MTP-S000634. Unchanged Tibetan: `ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས`. Editorial treatment: classify_layer; source role: chapter_colophon. The closing work-title formula appears at native image464 line2right. Preserve exact supplied wording under chapter-colophon role. Evidence: [Adzom p. 454, image 464](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/golden-v1/evidence/golden/04/00464.png).
+
 [^MTP-AUDIT-C04-001]: Presentation; source anchors MTP-S000343, MTP-S000344, MTP-S000345, MTP-S000346, MTP-S000347, MTP-S000348, MTP-S000349, MTP-S000350, MTP-S000351, MTP-S000352, MTP-S000353, MTP-S000354, MTP-S000355, MTP-S000356, MTP-S000357. The fixed golden uses electronic object/verse division and generally omits the native shads, double shads, insertion dots and physical lineation. Every allocated main-text sequence was compared directly. Local smaller annotations are independently inventoried; their untranscribed wording is not claimed to agree. English consequence: English punctuation and coherent paired units express the fixed sequence; physical row division and insertion marks add no root words. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); Chapter4 opening at row2 right after chapter3 closure, then all rows3–6; S357 continues447..
+
 [^MTP-AUDIT-C04-002]: Presentation; source anchors MTP-S000357, MTP-S000359, MTP-S000360, MTP-S000361, MTP-S000362, MTP-S000363, MTP-S000364, MTP-S000365, MTP-S000366, MTP-S000367, MTP-S000368, MTP-S000369, MTP-S000370, MTP-S000371, MTP-S000372, MTP-S000373, MTP-S000374, MTP-S000375, MTP-S000376. The fixed golden uses electronic object/verse division and generally omits the native shads, double shads, insertion dots and physical lineation. Every allocated main-text sequence was compared directly. Local smaller annotations are independently inventoried; their untranscribed wording is not claimed to agree. English consequence: English punctuation and coherent paired units express the fixed sequence; physical row division and insertion marks add no root words. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); All rows1–6 from S357 final ནི through S376 beginning སོ་སོར..
+
 [^MTP-AUDIT-C04-003]: Presentation; source anchors MTP-S000376, MTP-S000378, MTP-S000379, MTP-S000380, MTP-S000381, MTP-S000382, MTP-S000383, MTP-S000384, MTP-S000385, MTP-S000386, MTP-S000387, MTP-S000388, MTP-S000389, MTP-S000390, MTP-S000391, MTP-S000392, MTP-S000393, MTP-S000394. The fixed golden uses electronic object/verse division and generally omits the native shads, double shads, insertion dots and physical lineation. Every allocated main-text sequence was compared directly. Local smaller annotations are independently inventoried; their untranscribed wording is not claimed to agree. English consequence: English punctuation and coherent paired units express the fixed sequence; physical row division and insertion marks add no root words. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); All rows1–6 from S376 continuation through S394 beginning ཡིད་ཆེས..
+
 [^MTP-AUDIT-C04-004]: Presentation; source anchors MTP-S000394, MTP-S000396, MTP-S000397, MTP-S000398, MTP-S000399, MTP-S000400, MTP-S000401, MTP-S000402, MTP-S000403, MTP-S000404, MTP-S000405, MTP-S000406, MTP-S000407, MTP-S000408, MTP-S000409, MTP-S000410, MTP-S000411, MTP-S000412. The fixed golden uses electronic object/verse division and generally omits the native shads, double shads, insertion dots and physical lineation. Every allocated main-text sequence was compared directly. Local smaller annotations are independently inventoried; their untranscribed wording is not claimed to agree. English consequence: English punctuation and coherent paired units express the fixed sequence; physical row division and insertion marks add no root words. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); All rows1–6 from S394 continuation to complete S412..
+
 [^MTP-AUDIT-C04-005]: Presentation; source anchors MTP-S000412, MTP-S000414, MTP-S000415, MTP-S000416, MTP-S000417, MTP-S000418, MTP-S000419, MTP-S000420, MTP-S000421, MTP-S000422, MTP-S000423, MTP-S000424, MTP-S000425, MTP-S000426, MTP-S000427, MTP-S000428. The fixed golden uses electronic object/verse division and generally omits the native shads, double shads, insertion dots and physical lineation. Every allocated main-text sequence was compared directly. Local smaller annotations are independently inventoried; their untranscribed wording is not claimed to agree. English consequence: English punctuation and coherent paired units express the fixed sequence; physical row division and insertion marks add no root words. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); All root rows1–6 from S414 to S428 beginning; opening smaller note alone is allocated to S412..
+
 [^MTP-AUDIT-C04-006]: Presentation; source anchors MTP-S000428, MTP-S000430, MTP-S000431, MTP-S000432, MTP-S000433, MTP-S000434, MTP-S000435, MTP-S000436, MTP-S000437, MTP-S000438, MTP-S000439, MTP-S000440, MTP-S000441, MTP-S000442, MTP-S000443, MTP-S000444. The fixed golden uses electronic object/verse division and generally omits the native shads, double shads, insertion dots and physical lineation. Every allocated main-text sequence was compared directly. Local smaller annotations are independently inventoried; their untranscribed wording is not claimed to agree. English consequence: English punctuation and coherent paired units express the fixed sequence; physical row division and insertion marks add no root words. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); All rows1–6 from S428 continuation to S444 beginning; S444 continues452..
+
 [^MTP-AUDIT-C04-007]: Presentation; source anchors MTP-S000444, MTP-S000446, MTP-S000447, MTP-S000448, MTP-S000449, MTP-S000450, MTP-S000451, MTP-S000452, MTP-S000453, MTP-S000454, MTP-S000455, MTP-S000456, MTP-S000457, MTP-S000458, MTP-S000459. The fixed golden uses electronic object/verse division and generally omits the native shads, double shads, insertion dots and physical lineation. Every allocated main-text sequence was compared directly. Local smaller annotations are independently inventoried; their untranscribed wording is not claimed to agree. English consequence: English punctuation and coherent paired units express the fixed sequence; physical row division and insertion marks add no root words. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); All rows1–6 from S444 continuation to complete S459; its following smaller note continues453..
+
 [^MTP-AUDIT-C04-008]: Presentation; source anchors MTP-S000342. The golden chapter token is electronic metadata, not a literal printed chapter numeral. English consequence: The metadata token contributes no English root-text wording. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); Chapter transition row2 right.
+
 [^MTP-AUDIT-C04-009]: Presentation; source anchors MTP-S000358. The golden Tibetan page numeral is electronic metadata. The native Arabic numeral is marginal page apparatus. English consequence: The metadata token contributes no English root-text wording. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); Upper-left printed Arabic page numeral and electronic page-transition token.
+
 [^MTP-AUDIT-C04-010]: Presentation; source anchors MTP-S000377. The golden Tibetan page numeral is electronic metadata. The native Arabic numeral is marginal page apparatus. English consequence: The metadata token contributes no English root-text wording. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); Upper-left printed Arabic page numeral and electronic page-transition token.
+
 [^MTP-AUDIT-C04-011]: Presentation; source anchors MTP-S000395. The golden Tibetan page numeral is electronic metadata. The native Arabic numeral is marginal page apparatus. English consequence: The metadata token contributes no English root-text wording. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); Upper-left printed Arabic page numeral and electronic page-transition token.
+
 [^MTP-AUDIT-C04-012]: Presentation; source anchors MTP-S000413. The golden Tibetan page numeral is electronic metadata. The native Arabic numeral is marginal page apparatus. English consequence: The metadata token contributes no English root-text wording. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); Upper-left printed Arabic page numeral and electronic page-transition token.
+
 [^MTP-AUDIT-C04-013]: Presentation; source anchors MTP-S000429. The golden Tibetan page numeral is electronic metadata. The native Arabic numeral is marginal page apparatus. English consequence: The metadata token contributes no English root-text wording. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); Upper-left printed Arabic page numeral and electronic page-transition token.
+
 [^MTP-AUDIT-C04-014]: Presentation; source anchors MTP-S000445. The golden Tibetan page numeral is electronic metadata. The native Arabic numeral is marginal page apparatus. English consequence: The metadata token contributes no English root-text wording. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); Upper-left printed Arabic page numeral and electronic page-transition token.
+
 [^MTP-AUDIT-C04-015]: Presentation; source anchors MTP-S000355, MTP-S000356. Native large text supports the unusual fixed sequence དུར / ཐེམ་ཞིང. The electronic object break is retained without normalizing the words. The local smaller note after དོན is recorded separately. English consequence: The English preserves the unusual fixed wording and its interpretive limit without substituting a conjectural Tibetan reading. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row6 middle, དུར at S355 end followed by ཐེམ་ཞིང in S356.
+
 [^MTP-AUDIT-C04-016]: Presentation; source anchors MTP-S000421. The fixed large-text sequence is supported by direct native inspection. Inherited converter or syntactic warnings do not authorize a new source reading. Smaller insertions are separately allocated. English consequence: The English preserves the fixed source sequence and does not silently normalize it to a smoother Tibetan conjecture. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row3, final དངས.
+
 [^MTP-AUDIT-C04-017]: Presentation; source anchors MTP-S000446. The fixed large-text sequence is supported by direct native inspection. Inherited converter or syntactic warnings do not authorize a new source reading. Smaller insertions are separately allocated. English consequence: The English preserves the fixed source sequence and does not silently normalize it to a smoother Tibetan conjecture. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row1, ཡེ followed by smaller note and main དངས་པས.
+
 [^MTP-AUDIT-C04-018]: Presentation; source anchors MTP-S000456. The fixed large-text sequence is supported by direct native inspection. Inherited converter or syntactic warnings do not authorize a new source reading. Smaller insertions are separately allocated. English consequence: The English preserves the fixed source sequence and does not silently normalize it to a smoother Tibetan conjecture. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row5, ཡིད་བཞིན followed by smaller note then main དགོངས་པར་ཡེ་ནས་པས.
+
 [^MTP-AUDIT-C04-019]: Source omission; source anchors MTP-S000343. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion interrupts the opening speaker formula. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row2 right, between དེ་ནས and རྟ་མགྲིན.
+
 [^MTP-AUDIT-C04-020]: Source omission; source anchors MTP-S000345. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running note follows the request qualification. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row3 middle, after རྗེས་མཐུན་ལ and before ཆོས་ཉིད.
+
 [^MTP-AUDIT-C04-021]: Source omission; source anchors MTP-S000346. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. The interleaved smaller note crosses a physical row break. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row3 right after དབྱིངས་ཀྱི, continuing row4 left before བསྟན་པ་གསུངས.
+
 [^MTP-AUDIT-C04-022]: Source omission; source anchors MTP-S000347. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion precedes the speaker designation. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row4 middle, after ཞུས་པ་དང and before བཅོམ་ལྡན.
+
 [^MTP-AUDIT-C04-023]: Source omission; source anchors MTP-S000349. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller annotation is inserted in the arising-from-concentration clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row4 right, between ཏིང་ངེ་འཛིན and ལས་བཞེངས.
+
 [^MTP-AUDIT-C04-024]: Source omission; source anchors MTP-S000353. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion follows the reason clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row5 right, after ཕྱིར and before སངས་རྒྱས.
+
 [^MTP-AUDIT-C04-025]: Source omission; source anchors MTP-S000354. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running explanation follows the primordial-knowing embodiment phrase. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row6 left, after ཡེ་ཤེས་སྐུ and before སངས་རྒྱས་སེམས་ཅན.
+
 [^MTP-AUDIT-C04-026]: Source omission; source anchors MTP-S000356. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A short smaller insertion occurs after དོན; it does not normalize the preceding unusual དུར / ཐེམ wording. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row6 right, between དོན and ལ་སྤྱོད.
+
 [^MTP-AUDIT-C04-027]: Source omission; source anchors MTP-S000357. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller source note interrupts S357 before its page-end continuation. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); row6 far right, between རིག་པ and སྐྱེ་མེད.
+
 [^MTP-AUDIT-C04-028]: Source omission; source anchors MTP-S000359. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller annotation follows the produced/producer clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row1 left-center, after གཉིས་ལས་འདས.
+
 [^MTP-AUDIT-C04-029]: Source omission; source anchors MTP-S000360. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two distinct smaller insertions occur within and immediately after S360. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row1 middle-right, after གསང་བའི་སྐུ་དང and after རིག་པའི་ངང.
+
 [^MTP-AUDIT-C04-030]: Source omission; source anchors MTP-S000361. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A long smaller source annotation crosses the physical row break inside S361. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row1 far right after དག, continuing row2 left before པའི་ཆོས་ཉིད་ལ.
+
 [^MTP-AUDIT-C04-031]: Source omission; source anchors MTP-S000362. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A long smaller insertion occurs within S362. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row2 middle, after ཐུགས་རྗེས and before ཆོས་ཤིང.
+
 [^MTP-AUDIT-C04-032]: Source omission; source anchors MTP-S000363. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion qualifies the ornament phrase. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row2 right, between རྒྱན and བཟང་པོ.
+
 [^MTP-AUDIT-C04-033]: Source omission; source anchors MTP-S000364. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running note occurs in the sphere appearance clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row3 left, after སྣང་བ and before མཐའ་ཡས་ཤིང.
+
 [^MTP-AUDIT-C04-034]: Source omission; source anchors MTP-S000365. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A dense smaller annotation crosses the row break inside the embodiment/linked-chain clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row3 right after ངོ་བོ, continuing row4 left before ལུ་གུ་རྒྱུད.
+
 [^MTP-AUDIT-C04-035]: Source omission; source anchors MTP-S000366. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions occur in and immediately after S366. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row4 left-middle, after ཡེ་ཤེས and after འོད་ཟེར་ལྔ.
+
 [^MTP-AUDIT-C04-036]: Source omission; source anchors MTP-S000367. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller annotation interrupts the path-embodiment expression. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row4 right, after ལམ and before གྱི་སྐུ.
+
 [^MTP-AUDIT-C04-037]: Source omission; source anchors MTP-S000368. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller note occurs before the physical row continuation. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row4 far right, after ཡངས་པའི and before row5 དཀྱིལ་འཁོར.
+
 [^MTP-AUDIT-C04-038]: Source omission; source anchors MTP-S000369. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A short smaller note precedes the next speaker phrase. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row5 middle, after སྤྱོད་པ་ནི and before བཅོམ་ལྡན.
+
 [^MTP-AUDIT-C04-039]: Source omission; source anchors MTP-S000371. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller explanation follows the exclamation. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row5 right, after ཨེ་མ་ཧོ and before སྣང་བ་ཆེན་པོ.
+
 [^MTP-AUDIT-C04-040]: Source omission; source anchors MTP-S000373. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs within S373. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row6 left, between ཡེ་ཤེས and འོད་དུ་གསལ.
+
 [^MTP-AUDIT-C04-041]: Source omission; source anchors MTP-S000374. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller explanation occurs before the expanse noun. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row6 middle, between མེད་པའི and ཀློང.
+
 [^MTP-AUDIT-C04-042]: Source omission; source anchors MTP-S000375. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. The small annotation splits the visually large compound ཕོ་བྲང. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); row6 right, between ཕོ and བྲང.
+
 [^MTP-AUDIT-C04-043]: Source omission; source anchors MTP-S000376. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs in the continuation from447. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row1 left, between སྣང་ཞིང and དོན་བྱེད་པས.
+
 [^MTP-AUDIT-C04-044]: Source omission; source anchors MTP-S000378. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs within S378. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row1 middle, after རང་རིག and before ཡེ་ཤེས.
+
 [^MTP-AUDIT-C04-045]: Source omission; source anchors MTP-S000379. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Three local smaller insertions surround and interrupt S379. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row1 right, before སྟོང་པའི, after ཡེ་ཤེས, and after མཁའ་ལ.
+
 [^MTP-AUDIT-C04-046]: Source omission; source anchors MTP-S000380. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions occur in S380 across the physical row break. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row1 far right after ཡང་དག, then row2 left after མ་འགགས.
+
 [^MTP-AUDIT-C04-047]: Source omission; source anchors MTP-S000381. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller explanation occurs in the fire comparison. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row2 middle, after ཡེ་ཤེས and before མེ་དང་འདྲ.
+
 [^MTP-AUDIT-C04-048]: Source omission; source anchors MTP-S000383. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion is interleaved at the physical row transition in S383. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row2 far right after ཐབས, then row3 left after གསང and before ཞིང.
+
 [^MTP-AUDIT-C04-049]: Source omission; source anchors MTP-S000384. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion follows the ornament clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row3 middle, after རྒྱན་བཟང་བ and before ཆོས་ཀྱི.
+
 [^MTP-AUDIT-C04-050]: Source omission; source anchors MTP-S000385. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A long smaller note follows the dharma-embodiment activity phrase. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row3 right, after སྤྱོད་པ་ནི.
+
 [^MTP-AUDIT-C04-051]: Source omission; source anchors MTP-S000386. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller source explanation follows S386. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row4 left, after སྤྱོད་པ་དང.
+
 [^MTP-AUDIT-C04-052]: Source omission; source anchors MTP-S000387. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions occur in the sphere abiding-place clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row4 middle, after ཐིག་ལེ་རྣམས and after བཞུགས་ས.
+
 [^MTP-AUDIT-C04-053]: Source omission; source anchors MTP-S000388. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller notes interrupt S388; one crosses the physical row break. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row4 right after ངང་གིས and after མ་གཡོས; latter continues row5 left before གཡོ་བ་མེད.
+
 [^MTP-AUDIT-C04-054]: Source omission; source anchors MTP-S000389. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller annotation occurs in the view/primordial-knowing clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row5 middle, after ཡེ་ཤེས and before ཐབས་མཁས་པས.
+
 [^MTP-AUDIT-C04-055]: Source omission; source anchors MTP-S000390. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running note follows S390. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row5 right, after སེམས་དཔའི་ངང and before སྣ་ཚོགས.
+
 [^MTP-AUDIT-C04-056]: Source omission; source anchors MTP-S000391. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller note follows the various-display clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row6 left, after བསྟན་པས and before རྒྱུན་ཏུ.
+
 [^MTP-AUDIT-C04-057]: Source omission; source anchors MTP-S000392. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller note interrupts S392. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row6 middle, after རྒྱུན་ཏུ and before སྣང་ཞིང.
+
 [^MTP-AUDIT-C04-058]: Source omission; source anchors MTP-S000393. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller note follows S393. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row6 right, after སྒོ་མང་བས.
+
 [^MTP-AUDIT-C04-059]: Source omission; source anchors MTP-S000394. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller introductory insertion precedes S394, whose root continues449. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); row6 far right, immediately before ཡིད་ཆེས.
+
 [^MTP-AUDIT-C04-060]: Source omission; source anchors MTP-S000396. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller note follows the root-of-all-phenomena clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row1 middle, after རྩ་བ་ནི.
+
 [^MTP-AUDIT-C04-061]: Source omission; source anchors MTP-S000397. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs within S397. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row1 right, after མ་སྤྱད and before རང་སར་གྲོལ.
+
 [^MTP-AUDIT-C04-062]: Source omission; source anchors MTP-S000398. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller notes occur in and immediately after S398. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row1 far right after ཐབས, and row2 left after དག.
+
 [^MTP-AUDIT-C04-063]: Source omission; source anchors MTP-S000399. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion interrupts S399. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row2 middle, after ལམ and before ལ་གནས་པ་ཡི.
+
 [^MTP-AUDIT-C04-064]: Source omission; source anchors MTP-S000400. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions occur within S400. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row2 right, after བསམ་འདས and after རབ་དག before ཡུལ.
+
 [^MTP-AUDIT-C04-065]: Source omission; source anchors MTP-S000401. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs in the habitual-imprint/object clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row3 left-middle, after ཡུལ and before རྣམས.
+
 [^MTP-AUDIT-C04-066]: Source omission; source anchors MTP-S000402. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A dense smaller note crosses the physical row break between S402 and S403. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row3 right after ཐབས་ལ་ཐུག, continuing row4 left before ཆགས་མེད.
+
 [^MTP-AUDIT-C04-067]: Source omission; source anchors MTP-S000404. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion follows S404. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row4 middle-right, after ལྟ་བར་བསྟན.
+
 [^MTP-AUDIT-C04-068]: Source omission; source anchors MTP-S000406. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller notes occur within S406. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row4 far right after ཐུགས་རྗེ, continuing row5 left; another insertion follows དྲི་མ before རྣམ་པར་དག.
+
 [^MTP-AUDIT-C04-069]: Source omission; source anchors MTP-S000407. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller explanation occurs before the conclusion of S407. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row5 middle, after ཆེན་པོར and before གྱུར་པའོ.
+
 [^MTP-AUDIT-C04-070]: Source omission; source anchors MTP-S000408. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller explanation occurs within S408. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row5 right, after སྟོང་དག and before ཡེ་ཤེས.
+
 [^MTP-AUDIT-C04-071]: Source omission; source anchors MTP-S000409. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion interrupts S409. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row6 left, between རྩ་བ and ནི.
+
 [^MTP-AUDIT-C04-072]: Source omission; source anchors MTP-S000410. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller note follows S410. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row6 middle, after ངང and before ཆོས་རྣམས.
+
 [^MTP-AUDIT-C04-073]: Source omission; source anchors MTP-S000411. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. The smaller insertions visibly include ལས (from) after རང and བ (nominalizing syllable) after བྱུང. These are limited readable fragments of the annotated construction, not a restored root sentence; the full annotation relation remains untranscribed. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); row6 right, after རང and after བྱུང.
+
 [^MTP-AUDIT-C04-074]: Source omission; source anchors MTP-S000412. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. The smaller opening note continues after S412, whose main text is complete on449. No S412 root continuation is asserted. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row1 left opening, before ཆོས་སྐུ.
+
 [^MTP-AUDIT-C04-075]: Source omission; source anchors MTP-S000414. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller source explanation interrupts S414. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row1 left-middle, after ཆོས་སྐུ and before དངོས་པོའི.
+
 [^MTP-AUDIT-C04-076]: Source omission; source anchors MTP-S000415. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller annotation interrupts S415. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row1 right, after ཡེ་ཤེས and before ནི.
+
 [^MTP-AUDIT-C04-077]: Source omission; source anchors MTP-S000416. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Smaller insertions occur before and within the empty-object clause across the row break. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row1 far right before སྟོང་པའི; row2 left after གནད་དུ before བརྡེག.
+
 [^MTP-AUDIT-C04-078]: Source omission; source anchors MTP-S000417. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running explanation interrupts the pith-instruction phrase. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row2 middle, after རྒྱལ་པོ and before སྤྱི་བཅིངས.
+
 [^MTP-AUDIT-C04-079]: Source omission; source anchors MTP-S000418. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs within S418. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row2 right, after རང་སྣང and before ལྷུན་རྫོགས.
+
 [^MTP-AUDIT-C04-080]: Source omission; source anchors MTP-S000420. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller source explanation follows S420. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row3 left-middle, after ལྟ་བ་ནི.
+
 [^MTP-AUDIT-C04-081]: Source omission; source anchors MTP-S000421. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. The interleaved smaller wording includes a visible ཡིད fragment (mental-faculty term here), but the full note is not transcribed; the root final དངས remains unchanged. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row3 middle, after སེམས before the main ཀྱི་སྒོ.
+
 [^MTP-AUDIT-C04-082]: Source omission; source anchors MTP-S000422. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions interrupt S422; the latter crosses the row break. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row3 right after ཁྱིམ and after ཕུགས་རྡིབ, with continuation row4 left before མན་ངག.
+
 [^MTP-AUDIT-C04-083]: Source omission; source anchors MTP-S000423. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Smaller notes occur inside and after S423. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row4 middle-right, after སྒོ་བཅད and after གསལ.
+
 [^MTP-AUDIT-C04-084]: Source omission; source anchors MTP-S000424. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller annotations occur within S424, one across the physical row break. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row4 right after ཆོས་ཉིད and after ཁྱེར་ན; the latter continues row5 left before ཡེ་ཤེས.
+
 [^MTP-AUDIT-C04-085]: Source omission; source anchors MTP-S000425. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions occur within S425. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row5 middle-right, after མདོར་ཕྱུང and after ངོ་བོ.
+
 [^MTP-AUDIT-C04-086]: Source omission; source anchors MTP-S000426. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running note crosses the physical row break inside S426. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row5 far right after ཟིལ་གནོན, continuing row6 left before སྣང་བ.
+
 [^MTP-AUDIT-C04-087]: Source omission; source anchors MTP-S000427. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs before འགྱུར་མེད. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row6 middle, after ཡེ་ཤེས.
+
 [^MTP-AUDIT-C04-088]: Source omission; source anchors MTP-S000428. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs before the page-end break within S428. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); row6 right, after རང་སྣང and before ཆོས་ཉིད.
+
 [^MTP-AUDIT-C04-089]: Source omission; source anchors MTP-S000428. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller note occurs in the continuation of S428 from450. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row1 left, before ཡུལ་དུ་ཆོད.
+
 [^MTP-AUDIT-C04-090]: Source omission; source anchors MTP-S000430. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller explanation interrupts S430. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row1 middle, after རྐྱེན་བྲལ་ཆོས་ཉིད and before ཀུན་གྱི.
+
 [^MTP-AUDIT-C04-091]: Source omission; source anchors MTP-S000431. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions interrupt S431 across the row break. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row1 right after སྣང་བ, and row2 left after ཆིག་ཆོད.
+
 [^MTP-AUDIT-C04-092]: Source omission; source anchors MTP-S000433. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs within S433. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row2 middle-right, after རང་རིག་ཡེ་ཤེས and before མ་གཡོས.
+
 [^MTP-AUDIT-C04-093]: Source omission; source anchors MTP-S000434. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running annotation crosses the physical row break within S434. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row2 far right after མ་རིག་པ་ཉིད, continuing row3 left before ཀློང་དུ་སྐྱོལ.
+
 [^MTP-AUDIT-C04-094]: Source omission; source anchors MTP-S000435. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A dense smaller explanation interrupts S435. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row3 middle, after འཁོར་བ་ཉིད་ཀྱང and before རུ་ནས་བཟློག.
+
 [^MTP-AUDIT-C04-095]: Source omission; source anchors MTP-S000436. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running annotation occurs before the final root word on the next row. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row3 right after ཡུལ་དུ and before row4 མེད.
+
 [^MTP-AUDIT-C04-096]: Source omission; source anchors MTP-S000437. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion occurs inside the five-roots clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row4 left, between རྩ་བ and ལྔ་དག.
+
 [^MTP-AUDIT-C04-097]: Source omission; source anchors MTP-S000438. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions occur within S438. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row4 middle, after དྲན་བྱེད and after སངས་པས.
+
 [^MTP-AUDIT-C04-098]: Source omission; source anchors MTP-S000439. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Smaller annotations occur before and within S439. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row4 right, before ཀུན་གྱི་ལམ་ལ and after that phrase before row5 རྣམ་པར་སྣང.
+
 [^MTP-AUDIT-C04-099]: Source omission; source anchors MTP-S000440. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion interrupts S440. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row5 left-middle, after ཀུན་གཞི and before ལུས་ཀྱི.
+
 [^MTP-AUDIT-C04-100]: Source omission; source anchors MTP-S000441. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions interrupt the empty-awareness/lucidity clause. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row5 middle, after སྟོང་རིག and after གཞི before བསྟན་པས.
+
 [^MTP-AUDIT-C04-101]: Source omission; source anchors MTP-S000442. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Smaller explanations occur within and immediately after S442 across the physical row break. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row5 right after གཞན and after འཁྲུལ་པ; another source note follows གཞི་ལ་བསྐྱལ on row6 left.
+
 [^MTP-AUDIT-C04-102]: Source omission; source anchors MTP-S000443. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions occur within S443. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row6 middle, after ཕུང་པོ and after ལྔ་ཉིད before རྒྱུ་མེད་པས.
+
 [^MTP-AUDIT-C04-103]: Source omission; source anchors MTP-S000444. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller annotation occupies the page-end position within S444. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); row6 far right, after ལུས་ནི before the root continuation on452.
+
 [^MTP-AUDIT-C04-104]: Source omission; source anchors MTP-S000446. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller note interrupts S446. Large དངས is not silently replaced by a different Tibetan reading. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row1 left-middle, between ཡེ and དངས་པས.
+
 [^MTP-AUDIT-C04-105]: Source omission; source anchors MTP-S000447. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions occur within S447. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row1 middle-right, after སྣང་བ and before འོད་གསལ; another insertion precedes གཉིད་དུ་གྲོལ.
+
 [^MTP-AUDIT-C04-106]: Source omission; source anchors MTP-S000448. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Two smaller insertions occur within S448 across the physical row break. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row1 far right, after དབང་པོ; row2 left after ཉིད.
+
 [^MTP-AUDIT-C04-107]: Source omission; source anchors MTP-S000449. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller explanation interrupts S449. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row2 middle, after འཛིན་པའི་ཡུལ་ལྔ and before རང་སར་གྲོལ.
+
 [^MTP-AUDIT-C04-108]: Source omission; source anchors MTP-S000450. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running annotation crosses the physical row break within S450. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row2 right after ཉོན་མོངས་ལྔ་ཉིད, continuing row3 left before རང་ཡིན་པས.
+
 [^MTP-AUDIT-C04-109]: Source omission; source anchors MTP-S000451. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A long smaller explanation interrupts S451. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row3 middle-right, after ཁམས་གསུམ་ཉིད་ནི and before གཞི་ལ་བསྐྱལ.
+
 [^MTP-AUDIT-C04-110]: Source omission; source anchors MTP-S000452. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller explanation interrupts S452. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row4 left, after མ་རིག་པ་ཉིད and before རང་བྱུང་བས.
+
 [^MTP-AUDIT-C04-111]: Source omission; source anchors MTP-S000453. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A short smaller insertion occurs before the conclusion of S453. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row4 middle, between ཡེ་ནས and སངས.
+
 [^MTP-AUDIT-C04-112]: Source omission; source anchors MTP-S000454. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion interrupts S454. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row4 right, after ཀུན་གཞི and before ཆོས་སྐུར.
+
 [^MTP-AUDIT-C04-113]: Source omission; source anchors MTP-S000455. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller insertion interrupts S455. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row5 left, after སྐྱེ་བ and before རྩད་ནས་བཅད.
+
 [^MTP-AUDIT-C04-114]: Source omission; source anchors MTP-S000456. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A long smaller running note is omitted from the fixed golden. The inherited local annotation limit is preserved independently of the supported root wording. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row5 middle-right, after ཡིད་བཞིན and before དགོངས་པར.
+
 [^MTP-AUDIT-C04-115]: Source omission; source anchors MTP-S000457. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller explanation interrupts S457. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row6 left, after འགྱུ་བྱེད་རྣམས་ནི and before རང་བཞག་ཡིན.
+
 [^MTP-AUDIT-C04-116]: Source omission; source anchors MTP-S000458. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller running explanation interrupts S458. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row6 middle, after དབུགས and before ནི་ཡེ་ནས་རྒྱུན་ཆད་པས.
+
 [^MTP-AUDIT-C04-117]: Source omission; source anchors MTP-S000459. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. A smaller note begins after the completed S459 root and continues onto453, where it is separately allocated. Presence and placement were inspected directly; the complete smaller annotation remains untranscribed. English consequence: This local smaller source annotation is absent from the fixed golden. The English root preserves the fixed wording; the annotation remains an explicitly untranscribed source omission. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); row6 far right, after ཡོད་མ་ཡིན; continues image453 row1 left.
+
 [^MTP-AUDIT-C04-118]: Source layer; source anchors MTP-S000343, MTP-S000349, MTP-S000355. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Marginal/folio lettering and ornamental marks are physically distinct from the horizontal root and smaller interleaved annotation. The apparatus is observed but its marginal wording is not completely transcribed. English consequence: The page apparatus remains distinct from English root content; its untranscribed wording is not silently inserted. Evidence: [Adzom p. 436, image 446](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00446.png); Left gutter beside the allocated chapter4 rows; upper-left ornamental headmark where present.
+
 [^MTP-AUDIT-C04-119]: Source layer; source anchors MTP-S000359, MTP-S000365, MTP-S000373. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Marginal/folio lettering and ornamental marks are physically distinct from the horizontal root and smaller interleaved annotation. The apparatus is observed but its marginal wording is not completely transcribed. English consequence: The page apparatus remains distinct from English root content; its untranscribed wording is not silently inserted. Evidence: [Adzom p. 437, image 447](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00447.png); Left gutter beside the allocated chapter4 rows; upper-left ornamental headmark where present.
+
 [^MTP-AUDIT-C04-120]: Source layer; source anchors MTP-S000376, MTP-S000385, MTP-S000391. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Marginal/folio lettering and ornamental marks are physically distinct from the horizontal root and smaller interleaved annotation. The apparatus is observed but its marginal wording is not completely transcribed. English consequence: The page apparatus remains distinct from English root content; its untranscribed wording is not silently inserted. Evidence: [Adzom p. 438, image 448](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00448.png); Left gutter beside the allocated chapter4 rows; upper-left ornamental headmark where present.
+
 [^MTP-AUDIT-C04-121]: Source layer; source anchors MTP-S000396, MTP-S000402, MTP-S000409. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Marginal/folio lettering and ornamental marks are physically distinct from the horizontal root and smaller interleaved annotation. The apparatus is observed but its marginal wording is not completely transcribed. English consequence: The page apparatus remains distinct from English root content; its untranscribed wording is not silently inserted. Evidence: [Adzom p. 439, image 449](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00449.png); Left gutter beside the allocated chapter4 rows; upper-left ornamental headmark where present.
+
 [^MTP-AUDIT-C04-122]: Source layer; source anchors MTP-S000414, MTP-S000422, MTP-S000426. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Marginal/folio lettering and ornamental marks are physically distinct from the horizontal root and smaller interleaved annotation. The apparatus is observed but its marginal wording is not completely transcribed. English consequence: The page apparatus remains distinct from English root content; its untranscribed wording is not silently inserted. Evidence: [Adzom p. 440, image 450](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00450.png); Left gutter beside the allocated chapter4 rows; upper-left ornamental headmark where present.
+
 [^MTP-AUDIT-C04-123]: Source layer; source anchors MTP-S000430, MTP-S000437, MTP-S000443. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Marginal/folio lettering and ornamental marks are physically distinct from the horizontal root and smaller interleaved annotation. The apparatus is observed but its marginal wording is not completely transcribed. English consequence: The page apparatus remains distinct from English root content; its untranscribed wording is not silently inserted. Evidence: [Adzom p. 441, image 451](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00451.png); Left gutter beside the allocated chapter4 rows; upper-left ornamental headmark where present.
+
 [^MTP-AUDIT-C04-124]: Source layer; source anchors MTP-S000446, MTP-S000452, MTP-S000457. Golden reading: no corresponding text. Adzom wording: not fully transcribed or not securely resolved. Marginal/folio lettering and ornamental marks are physically distinct from the horizontal root and smaller interleaved annotation. The apparatus is observed but its marginal wording is not completely transcribed. English consequence: The page apparatus remains distinct from English root content; its untranscribed wording is not silently inserted. Evidence: [Adzom p. 442, image 452](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00452.png); Left gutter beside the allocated chapter4 rows; upper-left ornamental headmark where present.
+
 [^MTP-AUDIT-C04-125]: Presentation; source anchors MTP-S000460. The exact electronic page-control token ༤༤༣ is retained as metadata. The physical image bears printed page 443; the token is not a main verse. English consequence: The electronic page control remains represented as metadata and adds no root words. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [270, 15, 590, 170].
+
 [^MTP-AUDIT-C04-126]: Presentation; source anchors MTP-S000461, MTP-S000462, MTP-S000463, MTP-S000464, MTP-S000465, MTP-S000466, MTP-S000467, MTP-S000468, MTP-S000469, MTP-S000470, MTP-S000471, MTP-S000472, MTP-S000473. The printed shads, insertion dots and physical row divisions in this page differ from the fixed electronic verse-object segmentation. These are presentation conventions; local extra wording and uncertain source-layer readings are separately inventoried. English consequence: English punctuation and pair division follow the fixed source sequence. Printed separators and physical row breaks do not supply additional root wording. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [480, 65, 3580, 700].
+
 [^MTP-AUDIT-C04-127]: Source layer; source anchors MTP-S000460. Golden reading: `༤༤༣`. Adzom wording: not fully transcribed or not securely resolved. The left margin carries vertical printed Tibetan page/running apparatus, separate from the root sequence; its wording remains untranscribed. A decorative opening mark also appears at the start of the top row. English consequence: The margin apparatus remains inventoried separately and is not inserted into the English root text. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [390, 60, 735, 705].
+
 [^MTP-AUDIT-C04-128]: Presentation; source anchors MTP-S000474. The exact electronic page-control token ༤༤༤ is retained as metadata. The physical image bears printed page 444; the token is not a main verse. English consequence: The electronic page control remains represented as metadata and adds no root words. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [270, 15, 590, 170].
+
 [^MTP-AUDIT-C04-129]: Presentation; source anchors MTP-S000475, MTP-S000476, MTP-S000477, MTP-S000478, MTP-S000479, MTP-S000480, MTP-S000481, MTP-S000482, MTP-S000483, MTP-S000484, MTP-S000485, MTP-S000486, MTP-S000487. The printed shads, insertion dots and physical row divisions in this page differ from the fixed electronic verse-object segmentation. These are presentation conventions; local extra wording and uncertain source-layer readings are separately inventoried. English consequence: English punctuation and pair division follow the fixed source sequence. Printed separators and physical row breaks do not supply additional root wording. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [480, 65, 3580, 700].
+
 [^MTP-AUDIT-C04-130]: Source layer; source anchors MTP-S000474. Golden reading: `༤༤༤`. Adzom wording: not fully transcribed or not securely resolved. The left margin carries vertical printed Tibetan page/running apparatus, separate from the root sequence; its wording remains untranscribed. No chapter colophon occurs in this page. English consequence: The margin apparatus remains inventoried separately and is not inserted into the English root text. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [390, 60, 735, 705].
+
 [^MTP-AUDIT-C04-131]: Presentation; source anchors MTP-S000488. The exact electronic page-control token ༤༤༥ is retained as metadata. The physical image bears printed page 445; the token is not a main verse. English consequence: The electronic page control remains represented as metadata and adds no root words. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [270, 15, 590, 170].
+
 [^MTP-AUDIT-C04-132]: Presentation; source anchors MTP-S000489, MTP-S000490, MTP-S000491, MTP-S000492, MTP-S000493, MTP-S000494, MTP-S000495, MTP-S000496, MTP-S000497, MTP-S000498, MTP-S000499, MTP-S000500, MTP-S000501, MTP-S000502, MTP-S000503. The printed shads, insertion dots and physical row divisions in this page differ from the fixed electronic verse-object segmentation. These are presentation conventions; local extra wording and uncertain source-layer readings are separately inventoried. English consequence: English punctuation and pair division follow the fixed source sequence. Printed separators and physical row breaks do not supply additional root wording. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [480, 65, 3580, 700].
+
 [^MTP-AUDIT-C04-133]: Source layer; source anchors MTP-S000488. Golden reading: `༤༤༥`. Adzom wording: not fully transcribed or not securely resolved. The left margin carries vertical printed Tibetan page/running apparatus, separate from the root sequence; its wording remains untranscribed. A decorative opening mark also appears at the start of the top row. English consequence: The margin apparatus remains inventoried separately and is not inserted into the English root text. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [390, 60, 735, 705].
+
 [^MTP-AUDIT-C04-134]: Presentation; source anchors MTP-S000504. The exact electronic page-control token ༤༤༦ is retained as metadata. The physical image bears printed page 446; the token is not a main verse. English consequence: The electronic page control remains represented as metadata and adds no root words. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [270, 15, 590, 170].
+
 [^MTP-AUDIT-C04-135]: Presentation; source anchors MTP-S000505, MTP-S000506, MTP-S000507, MTP-S000508, MTP-S000509, MTP-S000510, MTP-S000511, MTP-S000512, MTP-S000513, MTP-S000514, MTP-S000515, MTP-S000516, MTP-S000517. The printed shads, insertion dots and physical row divisions in this page differ from the fixed electronic verse-object segmentation. These are presentation conventions; local extra wording and uncertain source-layer readings are separately inventoried. English consequence: English punctuation and pair division follow the fixed source sequence. Printed separators and physical row breaks do not supply additional root wording. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [480, 65, 3580, 700].
+
 [^MTP-AUDIT-C04-136]: Source layer; source anchors MTP-S000504. Golden reading: `༤༤༦`. Adzom wording: not fully transcribed or not securely resolved. The left margin carries vertical printed Tibetan page/running apparatus, separate from the root sequence; its wording remains untranscribed. No chapter colophon occurs in this page. English consequence: The margin apparatus remains inventoried separately and is not inserted into the English root text. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [390, 60, 735, 705].
+
 [^MTP-AUDIT-C04-137]: Presentation; source anchors MTP-S000518. The exact electronic page-control token ༤༤༧ is retained as metadata. The physical image bears printed page 447; the token is not a main verse. English consequence: The electronic page control remains represented as metadata and adds no root words. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [270, 15, 590, 170].
+
 [^MTP-AUDIT-C04-138]: Presentation; source anchors MTP-S000519, MTP-S000520, MTP-S000521, MTP-S000522, MTP-S000523, MTP-S000524, MTP-S000525, MTP-S000526, MTP-S000527, MTP-S000528, MTP-S000529, MTP-S000530, MTP-S000531, MTP-S000532, MTP-S000533, MTP-S000534. The printed shads, insertion dots and physical row divisions in this page differ from the fixed electronic verse-object segmentation. These are presentation conventions; local extra wording and uncertain source-layer readings are separately inventoried. English consequence: English punctuation and pair division follow the fixed source sequence. Printed separators and physical row breaks do not supply additional root wording. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [480, 65, 3580, 700].
+
 [^MTP-AUDIT-C04-139]: Source layer; source anchors MTP-S000518. Golden reading: `༤༤༧`. Adzom wording: not fully transcribed or not securely resolved. The left margin carries vertical printed Tibetan page/running apparatus, separate from the root sequence; its wording remains untranscribed. A decorative opening mark also appears at the start of the top row. English consequence: The margin apparatus remains inventoried separately and is not inserted into the English root text. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [390, 60, 735, 705].
+
 [^MTP-AUDIT-C04-140]: Presentation; source anchors MTP-S000535. The exact electronic page-control token ༤༤༨ is retained as metadata. The physical image bears printed page 448; the token is not a main verse. English consequence: The electronic page control remains represented as metadata and adds no root words. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [270, 15, 590, 170].
+
 [^MTP-AUDIT-C04-141]: Presentation; source anchors MTP-S000536, MTP-S000537, MTP-S000538, MTP-S000539, MTP-S000540, MTP-S000541, MTP-S000542, MTP-S000543, MTP-S000544, MTP-S000545, MTP-S000546, MTP-S000547, MTP-S000548, MTP-S000549, MTP-S000550. The printed shads, insertion dots and physical row divisions in this page differ from the fixed electronic verse-object segmentation. These are presentation conventions; local extra wording and uncertain source-layer readings are separately inventoried. English consequence: English punctuation and pair division follow the fixed source sequence. Printed separators and physical row breaks do not supply additional root wording. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [480, 65, 3580, 700].
+
 [^MTP-AUDIT-C04-142]: Source layer; source anchors MTP-S000535. Golden reading: `༤༤༨`. Adzom wording: not fully transcribed or not securely resolved. The left margin carries vertical printed Tibetan page/running apparatus, separate from the root sequence; its wording remains untranscribed. No chapter colophon occurs in this page. English consequence: The margin apparatus remains inventoried separately and is not inserted into the English root text. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [390, 60, 735, 705].
+
 [^MTP-AUDIT-C04-143]: Source omission; source anchors MTP-S000459. Golden reading: `སྐྱེ་ཤི་གདོད་ནས་ཡོད་མ་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. Opening-row continuation of the preceding page’s smaller note, before S461. The main words of S459 remain allocated to image452. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [900, 125, 1740, 225].
+
 [^MTP-AUDIT-C04-144]: Source omission; source anchors MTP-S000461. Golden reading: `འདོད་པའི་ཡོན་ཏན་ཡེ་རྫོགས་པས`. Adzom wording: not fully transcribed or not securely resolved. After ཡོན་ཏན and after the completed main line, continuing from row1 right into row2 left. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [2090, 125, 2780, 230]; [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [3130, 125, 3560, 230]; [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [565, 235, 895, 326].
+
 [^MTP-AUDIT-C04-145]: Source omission; source anchors MTP-S000463. Golden reading: `ཡན་ལག་མ་བསྐྱོད་ཡེ་ཕྱིན་པས`. Adzom wording: not fully transcribed or not securely resolved. After the main words ཡན་ལག་མ་བསྐྱོད་ཡེ་ཕྱིན་པས in row2. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [2110, 235, 2960, 326].
+
 [^MTP-AUDIT-C04-146]: Source omission; source anchors MTP-S000464. Golden reading: `འགྲོ་བའི་ལམ་ཉིད་ཡེ་ནས་བགྲོད`. Adzom wording: not fully transcribed or not securely resolved. The smaller row3-left band follows S464 at the end of row2. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [570, 325, 1260, 420].
+
 [^MTP-AUDIT-C04-147]: Source omission; source anchors MTP-S000465. Golden reading: `སྨྲས་པའི་ངག་ནི་བརྗོད་མེད་པས`. Adzom wording: not fully transcribed or not securely resolved. Within row3 after སྨྲས་པའི་ངག, before the main continuation. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [1530, 325, 1870, 420].
+
 [^MTP-AUDIT-C04-148]: Source omission; source anchors MTP-S000466. Golden reading: `ཡེ་ནས་སྨྲ་བསམ་ཡུལ་ལས་འདས`. Adzom wording: not fully transcribed or not securely resolved. Smaller wording before the S466 main sequence, within its right-hand row3 span, and continuing at row4 left. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [2140, 325, 2760, 420]; [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [3200, 325, 3450, 420]; [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [565, 409, 730, 488].
+
 [^MTP-AUDIT-C04-149]: Source omission; source anchors MTP-S000467. Golden reading: `མེད་པའི་འཕྲོ་འདུ་ཡེ་སྟོང་པས`. Adzom wording: not fully transcribed or not securely resolved. After the row4 main opening ending ཡེ་སྟོང and before final པས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [1200, 409, 2140, 493].
+
 [^MTP-AUDIT-C04-150]: Source omission; source anchors MTP-S000468. Golden reading: `ཡེ་ནས་བསམ་གཏན་ཆེན་པོར་གནས`. Adzom wording: not fully transcribed or not securely resolved. Following the row4 main statement and continuing at row5 left. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [2950, 409, 3560, 495]; [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [570, 491, 800, 579].
+
 [^MTP-AUDIT-C04-151]: Source omission; source anchors MTP-S000469. Golden reading: `དྲི་མ་རྣམས་ནི་རང་དག་པས`. Adzom wording: not fully transcribed or not securely resolved. The smaller note after printed stacked དྲི precedes མ་རྣམས་ནི་རང་དག་པས; another smaller band follows the completed statement. This directly preserves the existing golden uncertainty. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [950, 491, 1540, 580]; [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [2080, 491, 2600, 580].
+
 [^MTP-AUDIT-C04-152]: Source omission; source anchors MTP-S000470. Golden reading: `དྲི་མེད་ཟང་ཐལ་ཆེན་པོར་གནས`. Adzom wording: not fully transcribed or not securely resolved. After the main row5 དྲི་མེད་ཟང་ཐལ་ཆེན་པོར་གནས, continuing at row6 left. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [3210, 491, 3560, 580]; [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [565, 577, 860, 655].
+
 [^MTP-AUDIT-C04-153]: Source omission; source anchors MTP-S000472. Golden reading: `ཐོག་མ་ཉིད་ནས་བྱ་བྱེད་བྲལ`. Adzom wording: not fully transcribed or not securely resolved. Within row6 between ཐོག་མ་ཉིད་ནས and བྱ་བྱེད་བྲལ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [1810, 577, 2240, 659].
+
 [^MTP-AUDIT-C04-154]: Source omission; source anchors MTP-S000473. Golden reading: `གཞི་ནས་གཞན་འབྱུང་ཆོས་མེད་པས`. Adzom wording: not fully transcribed or not securely resolved. At row6 right following S473; the same note continues on image454. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 443, image 453](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00453.png); [3210, 577, 3550, 659].
+
 [^MTP-AUDIT-C04-155]: Source omission; source anchors MTP-S000473. Golden reading: `གཞི་ནས་གཞན་འབྱུང་ཆོས་མེད་པས`. Adzom wording: not fully transcribed or not securely resolved. At row1 left before S475, continuing the preceding page’s note after S473. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [500, 90, 750, 197].
+
 [^MTP-AUDIT-C04-156]: Source omission; source anchors MTP-S000475. Golden reading: `གདོད་ནས་རང་བྱུང་ཉག་གཅིག་གོ`. Adzom wording: not fully transcribed or not securely resolved. Row1 smaller wording following གདོད་ནས་རང་བྱུང་ཉག་གཅིག་གོ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [1440, 90, 2270, 201].
+
 [^MTP-AUDIT-C04-157]: Source omission; source anchors MTP-S000476. Golden reading: `གཅིག་དང་ཉིས་ཀྱི་གྲངས་ཟད་པས`. Adzom wording: not fully transcribed or not securely resolved. Between གཅིག and དང་ཉིས་ཀྱི་གྲངས་ཟད་པས, then another band at row2 left after the statement. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [2390, 93, 2920, 201]; [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [500, 185, 850, 285].
+
 [^MTP-AUDIT-C04-158]: Source omission; source anchors MTP-S000477. Golden reading: `ཐིག་ལེ་ཟླ་དང་བྲལ་བ་ཉིད`. Adzom wording: not fully transcribed or not securely resolved. Between the main ཐིག་ལེ་ཟླ་དང་བྲལ་བ and ཉིད in row2. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [1260, 180, 1690, 285].
+
 [^MTP-AUDIT-C04-159]: Source omission; source anchors MTP-S000478. Golden reading: `མུན་པ་གདོད་ནས་རྣམ་དག་པས`. Adzom wording: not fully transcribed or not securely resolved. After མུན་པ and before its row2 main continuation. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [1950, 180, 2380, 285].
+
 [^MTP-AUDIT-C04-160]: Source omission; source anchors MTP-S000479. Golden reading: `རིག་པའི་སྣང་བ་འོད་གསལ་ཁྱབ`. Adzom wording: not fully transcribed or not securely resolved. Smaller band immediately before the main རིག་པའི་སྣང་བ་འོད at row2 right. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [2780, 180, 3110, 285].
+
 [^MTP-AUDIT-C04-161]: Source omission; source anchors MTP-S000480. Golden reading: `འཁོར་བ་རྒྱུ་མེད་འགགས་ཟིན་པས`. Adzom wording: not fully transcribed or not securely resolved. Within row3 between འགགས and ཟིན་པས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [1280, 274, 1730, 372].
+
 [^MTP-AUDIT-C04-162]: Source omission; source anchors MTP-S000481. Golden reading: `ཡེ་ནས་སངས་རྒྱས་ཉིད་ཀྱི་ས`. Adzom wording: not fully transcribed or not securely resolved. Following ཡེ་ནས་སངས་རྒྱས་ཉིད་ཀྱི་ས in row3. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [2390, 275, 3160, 373].
+
 [^MTP-AUDIT-C04-163]: Source omission; source anchors MTP-S000482. Golden reading: `མཚན་མའི་དངོས་པོ་སྟོང་སངས་པས`. Adzom wording: not fully transcribed or not securely resolved. After row3-right མཚན་མའི and before the row4 continuation, then after དངོས་པོ་སྟོང་སངས་པས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [500, 355, 1190, 453]; [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [1650, 354, 2640, 454].
+
 [^MTP-AUDIT-C04-164]: Source omission; source anchors MTP-S000484. Golden reading: `རྐྱེན་རྣམས་རྐྱེན་གྱིས་རང་གྲོལ་བས`. Adzom wording: not fully transcribed or not securely resolved. Within row5 between རྐྱེན་གྱིས and རང་གྲོལ་བས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [690, 440, 2300, 545].
+
 [^MTP-AUDIT-C04-165]: Source omission; source anchors MTP-S000485. Golden reading: `ལྟོས་ཆོས་རྣམས་ནི་ཅོག་བཞག་པའོ`. Adzom wording: not fully transcribed or not securely resolved. Following row5 ལྟོས་ཆོས་རྣམས་ནི and continuing at row6 left before ཅོག་བཞག་པའོ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [2940, 440, 3560, 546]; [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [500, 535, 700, 632].
+
 [^MTP-AUDIT-C04-166]: Source omission; source anchors MTP-S000487. Golden reading: `སྣང་བ་དེ་ཀུན་རང་གྲོལ་བས`. Adzom wording: not fully transcribed or not securely resolved. At row6 after the main statement སྣང་བ་དེ་ཀུན་རང་གྲོལ་བས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 444, image 454](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00454.png); [2200, 535, 3560, 647].
+
 [^MTP-AUDIT-C04-167]: Source omission; source anchors MTP-S000489. Golden reading: `ངོ་མཚར་མཆོག་ཏུ་གྱུར་ནས་ནི`. Adzom wording: not fully transcribed or not securely resolved. Within row1 after ངོ་མཚར་མཆོག་ཏུ and after the main continuation གྱུར་ནས་ནི. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [1210, 115, 1560, 220]; [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [1810, 115, 3120, 220].
+
 [^MTP-AUDIT-C04-168]: Source omission; source anchors MTP-S000491. Golden reading: `དེ་ནས་རྡོ་རྗེ་འཆང་ཆེན་དེས`. Adzom wording: not fully transcribed or not securely resolved. Within row2 after དེ་ནས and before རྡོ་རྗེ་འཆང་ཆེན་དེས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [915, 200, 1950, 300].
+
 [^MTP-AUDIT-C04-169]: Source omission; source anchors MTP-S000492. Golden reading: `དེ་ལྟར་བརྒྱལ་བ་བསླང་བའི་ཕྱིར`. Adzom wording: not fully transcribed or not securely resolved. Within row2 after དེ་ལྟར and before བརྒྱལ་བ་བསླང་བའི་ཕྱིར. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [2400, 200, 3070, 300].
+
 [^MTP-AUDIT-C04-170]: Source omission; source anchors MTP-S000493. Golden reading: `འདི་སྐད་ཅེས་ནི་ཆེད་དུ་བརྗོད`. Adzom wording: not fully transcribed or not securely resolved. Within row3 between འདི་སྐད་ཅེས and ནི་ཆེད་དུ་བརྗོད. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [805, 292, 1300, 386].
+
 [^MTP-AUDIT-C04-171]: Source omission; source anchors MTP-S000494. Golden reading: `ཨེ་མ་དེ་ལྟར་སྣང་བ་རྣམས`. Adzom wording: not fully transcribed or not securely resolved. Within row3 after ཨེ་མ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [1750, 292, 1930, 386].
+
 [^MTP-AUDIT-C04-172]: Source omission; source anchors MTP-S000495. Golden reading: `འཁྲུལ་པ་ཉིད་ཀྱང་རང་གྲོལ་ན`. Adzom wording: not fully transcribed or not securely resolved. Within row3 after འཁྲུལ་པ་ཉིད་ཀྱང and before རང་གྲོལ་ན. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [2690, 292, 3220, 386].
+
 [^MTP-AUDIT-C04-173]: Source omission; source anchors MTP-S000497. Golden reading: `ཇི་ལྟར་སྨྲ་དང་བྱ་བྱེད་རྣམས`. Adzom wording: not fully transcribed or not securely resolved. Short smaller glosses interleaved among row4 ཇི་ལྟར, སྨྲ, དང and the final main phrase. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [1300, 378, 1520, 480]; [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [1590, 378, 1660, 480]; [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [1750, 378, 1840, 480].
+
 [^MTP-AUDIT-C04-174]: Source omission; source anchors MTP-S000498. Golden reading: `སྟོང་རིག་གསལ་བའི་སྤྱོད་པ་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. Several smaller bands before and within the row4 སྟོང་རིག་གསལ་བའི་སྤྱོད་པ sequence; final main ཡིན is at row5 left. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [2120, 378, 2360, 481]; [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [2420, 378, 2510, 481]; [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [2590, 378, 2710, 481]; [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [3150, 378, 3550, 481].
+
 [^MTP-AUDIT-C04-175]: Source omission; source anchors MTP-S000499. Golden reading: `བཟང་དང་ངན་པའི་རྟོག་པ་རྣམས`. Adzom wording: not fully transcribed or not securely resolved. At row5 after བཟང་དང་ངན་པའི་རྟོག་པ་རྣམས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [1270, 464, 1660, 562].
+
 [^MTP-AUDIT-C04-176]: Source omission; source anchors MTP-S000500. Golden reading: `བསྒོམ་པ་ཆུ་བོའི་ཀློང་ཆེན་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. At row5 after བསྒོམ་པ་ཆུ་བོའི་ཀློང་ཆེན་ཡིན. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [2240, 464, 2710, 562].
+
 [^MTP-AUDIT-C04-177]: Source omission; source anchors MTP-S000501. Golden reading: `ལོག་ལྟ་ཡང་དག་འདོད་པ་རྣམས`. Adzom wording: not fully transcribed or not securely resolved. Smaller wording after ལོག་ལྟ and before ཡང་དག in row5. The additional visible རྟག་ཆད at the page’s row5–6 break receives a separate layer-uncertainty finding. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [2860, 458, 3260, 562].
+
 [^MTP-AUDIT-C04-178]: Source omission; source anchors MTP-S000502. Golden reading: `རྣལ་འབྱོར་རིས་མེད་ལྟ་བ་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. Within row6 after རྣལ་འབྱོར་རིས་མེད and before ལྟ་བ་ཡིན. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [1350, 551, 2140, 650].
+
 [^MTP-AUDIT-C04-179]: Source omission; source anchors MTP-S000503. Golden reading: `རེ་དང་དོགས་པར་འཛིན་པ་ཀུན`. Adzom wording: not fully transcribed or not securely resolved. Row6 smaller bands before རེ་དང་དོགས་པར, between it and འཛིན་པ་ཀུན, and after the statement. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [2330, 551, 2480, 650]; [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [2880, 551, 3120, 650]; [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [3250, 551, 3550, 650].
+
 [^MTP-AUDIT-C04-180]: Source omission; source anchors MTP-S000505. Golden reading: `ཟང་མ་ཐལ་བྱུང་འབྲས་བུ་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. Within row1 after ཟང་མ་ཐལ་བྱུང and after འབྲས་བུ before ཡིན. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [835, 110, 1170, 212]; [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [1410, 110, 1610, 212].
+
 [^MTP-AUDIT-C04-181]: Source omission; source anchors MTP-S000506. Golden reading: `ཕྱག་རྒྱ་ཆེན་པོ་མངོན་འདོད་པས`. Adzom wording: not fully transcribed or not securely resolved. After the row1 main ཕྱག་རྒྱ་ཆེན་པོ་མངོན་འདོད་པས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [2190, 110, 2870, 212].
+
 [^MTP-AUDIT-C04-182]: Source omission; source anchors MTP-S000507. Golden reading: `སྟོང་གསུམ་ཐམས་ཅད་དཀྱིལ་འཁོར་ལ`. Adzom wording: not fully transcribed or not securely resolved. Between row1-right སྟོང་གསུམ་ཐམས་ཅད and row2-left དཀྱིལ་འཁོར་ལ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [3360, 110, 3560, 214]; [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [530, 202, 780, 294].
+
 [^MTP-AUDIT-C04-183]: Source omission; source anchors MTP-S000508. Golden reading: `ཆར་དང་ཁུ་རླངས་ཆག་ཆག་བཏབ`. Adzom wording: not fully transcribed or not securely resolved. Within row2 after ཆར་དང་ཁུ་རླངས, then following ཆག་ཆག་བཏབ before the next main statement. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [1490, 201, 1710, 296]; [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [1940, 201, 2240, 296]; [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [2250, 201, 3370, 296].
+
 [^MTP-AUDIT-C04-184]: Source omission; source anchors MTP-S000510. Golden reading: `རྐང་པའི་རྗེས་ནི་རྡུལ་ཚོན་རིས`. Adzom wording: not fully transcribed or not securely resolved. Following རྐང་པའི་རྗེས་ནི་རྡུལ་ཚོན་རིས in row3. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [1680, 291, 1950, 384].
+
 [^MTP-AUDIT-C04-185]: Source omission; source anchors MTP-S000511. Golden reading: `འགྲོ་བར་འདོད་པ་སྟངས་སྟབས་ཉིད`. Adzom wording: not fully transcribed or not securely resolved. After the row3 main statement, continuing at row4 left. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [2690, 291, 3560, 385]; [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [530, 377, 805, 467].
+
 [^MTP-AUDIT-C04-186]: Source omission; source anchors MTP-S000512. Golden reading: `ཡན་ལག་བསྐྱོད་པ་ཕྱག་རྒྱའོ`. Adzom wording: not fully transcribed or not securely resolved. Within row4 between ཡན་ལག་བསྐྱོད་པ and ཕྱག་རྒྱའོ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [1260, 377, 2300, 468].
+
 [^MTP-AUDIT-C04-187]: Source omission; source anchors MTP-S000513. Golden reading: `ཇི་ལྟར་སྨྲས་པ་སྔགས་ཀྱི་ཚིག`. Adzom wording: not fully transcribed or not securely resolved. After row4 ཇི་ལྟར་སྨྲས་པ, continuing at row5 left before སྔགས་ཀྱི་ཚིག. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [2870, 377, 3560, 470]; [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [530, 462, 1370, 552].
+
 [^MTP-AUDIT-C04-188]: Source omission; source anchors MTP-S000514. Golden reading: `བསམ་པ་རྣམས་ནི་བསྐྱེད་རིམ་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. Within row5 after བསམ་པ་རྣམས་ནི and before བསྐྱེད་རིམ་ཡིན. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [2130, 462, 2980, 555].
+
 [^MTP-AUDIT-C04-189]: Source omission; source anchors MTP-S000515. Golden reading: `ཡིད་ལ་འགྱུ་བ་མཆོད་པ་ཉིད`. Adzom wording: not fully transcribed or not securely resolved. Row6-left smaller continuation following row5-right ཡིད་ལ, before འགྱུ་བ་མཆོད་པ་ཉིད. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [530, 545, 1820, 643].
+
 [^MTP-AUDIT-C04-190]: Source omission; source anchors MTP-S000516. Golden reading: `གཟུགས་སུ་སྣང་བ་ལྷ་ཡི་སྐུ`. Adzom wording: not fully transcribed or not securely resolved. Smaller wording before row6 main གཟུགས་སུ་སྣང་བ་ལྷ་ཡི་སྐུ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [2260, 545, 2650, 645].
+
 [^MTP-AUDIT-C04-191]: Source omission; source anchors MTP-S000517. Golden reading: `སྒྲ་ཆེན་བརྗོད་པ་རོལ་མོ་ཉིད`. Adzom wording: not fully transcribed or not securely resolved. At row6 right after སྒྲ་ཆེན; this smaller wording continues at image457 row1 left. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 446, image 456](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00456.png); [3360, 545, 3560, 648].
+
 [^MTP-AUDIT-C04-192]: Source omission; source anchors MTP-S000517. Golden reading: `སྒྲ་ཆེན་བརྗོད་པ་རོལ་མོ་ཉིད`. Adzom wording: not fully transcribed or not securely resolved. The smaller opening-row material around the main continuation བརྗོད་པ་རོལ་མོ་ཉིད; this completes the cross-page S517 allocation. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [945, 157, 1300, 261]; [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [1550, 157, 1930, 261].
+
 [^MTP-AUDIT-C04-193]: Source omission; source anchors MTP-S000519. Golden reading: `རང་གི་ལུས་ནི་བུམ་པ་ལ`. Adzom wording: not fully transcribed or not securely resolved. Short smaller wording after བུམ་པ and after final main ལ in row1. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [2290, 157, 2440, 261]; [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [2510, 157, 2630, 261].
+
 [^MTP-AUDIT-C04-194]: Source omission; source anchors MTP-S000520. Golden reading: `སྐྲ་ནི་ལོ་འདབ་ཁ་རྒྱན་མཛེས`. Adzom wording: not fully transcribed or not securely resolved. Smaller wording after ལོ་འདབ and after ཁ་རྒྱན in row1. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [2850, 157, 3000, 262]; [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [3200, 157, 3390, 262].
+
 [^MTP-AUDIT-C04-195]: Source omission; source anchors MTP-S000521. Golden reading: `ཁྲག་དང་ཆུ་སེར་ཆུ་རྣམས་ཉིད`. Adzom wording: not fully transcribed or not securely resolved. Smaller wording within row2 around final main ཉིད. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [1040, 255, 1180, 348]; [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [1320, 255, 1530, 348].
+
 [^MTP-AUDIT-C04-196]: Source omission; source anchors MTP-S000522. Golden reading: `དོན་སྙིང་ལ་སོགས་རྫས་ཀྱིས་གཏམས`. Adzom wording: not fully transcribed or not securely resolved. Smaller wording within row2 between ལ་སོགས and རྫས་ཀྱིས་གཏམས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [1710, 255, 1850, 348].
+
 [^MTP-AUDIT-C04-197]: Source omission; source anchors MTP-S000523. Golden reading: `རང་ལ་སྣང་བའི་དབང་རྣམས་བྱིན`. Adzom wording: not fully transcribed or not securely resolved. After row2 main རང་ལ་སྣང་བའི་དབང and after its row3-left continuation རྣམས་བྱིན. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [2630, 255, 3550, 349]; [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [760, 340, 1550, 436].
+
 [^MTP-AUDIT-C04-198]: Source omission; source anchors MTP-S000524. Golden reading: `མ་བསྐུར་ཉིད་ལ་རྫོགས་པའོ`. Adzom wording: not fully transcribed or not securely resolved. After row3 main མ་བསྐུར་ཉིད་ལ་རྫོགས་པའོ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [2130, 340, 2580, 436].
+
 [^MTP-AUDIT-C04-199]: Source omission; source anchors MTP-S000527. Golden reading: `དགྲོལ་བར་འདོད་པ་ཉམས་པ་སྟེ`. Adzom wording: not fully transcribed or not securely resolved. Within row4 between དགྲོལ་བར་འདོད་པ and ཉམས་པ་སྟེ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [1300, 420, 2110, 517].
+
 [^MTP-AUDIT-C04-200]: Source omission; source anchors MTP-S000528. Golden reading: `མེད་པར་འདོད་པ་ཐུབ་མཆོག་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. Within row4 after ཐུབ་མཆོག and before final ཡིན. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [2950, 420, 3390, 517].
+
 [^MTP-AUDIT-C04-201]: Source omission; source anchors MTP-S000529. Golden reading: `བཟའ་དང་བཏུང་བ་བསྙེན་པ་ལ`. Adzom wording: not fully transcribed or not securely resolved. Within row5 after the opening phrase and before བསྙེན་པ་ལ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [950, 504, 1340, 597].
+
 [^MTP-AUDIT-C04-202]: Source omission; source anchors MTP-S000530. Golden reading: `ཉལ་དང་འདུག་པ་སྒྲུབ་པའོ`. Adzom wording: not fully transcribed or not securely resolved. Several short smaller bands interleaved with row5 ཉལ་དང་འདུག་པ, before སྒྲུབ་པའོ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [1820, 504, 1880, 597]; [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [1940, 504, 2130, 597]; [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [2250, 504, 2420, 597].
+
 [^MTP-AUDIT-C04-203]: Source omission; source anchors MTP-S000531. Golden reading: `འདུ་བྱེད་རྣམས་ནི་ལྷག་གནས་ཉིད`. Adzom wording: not fully transcribed or not securely resolved. Within row5 between ལྷག་གནས and ཉིད. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [3130, 504, 3290, 597].
+
 [^MTP-AUDIT-C04-204]: Source omission; source anchors MTP-S000532. Golden reading: `གློ་དང་ལུང་པས་དཀྱིལ་འཁོར་སྒྲུབ`. Adzom wording: not fully transcribed or not securely resolved. Within row6 after ལུང་པས and after དཀྱིལ་འཁོར་སྒྲུབ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [730, 592, 890, 686]; [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [1260, 592, 1440, 686].
+
 [^MTP-AUDIT-C04-205]: Source omission; source anchors MTP-S000533. Golden reading: `མཐོང་བ་རྣམས་ནི་ཕྱག་རྒྱའི་བརྡའ`. Adzom wording: not fully transcribed or not securely resolved. Within row6 after མཐོང་བ་རྣམས་ནི and before ཕྱག་རྒྱའི་བརྡའ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [1770, 592, 2440, 686].
+
 [^MTP-AUDIT-C04-206]: Source omission; source anchors MTP-S000534. Golden reading: `དེ་ལ་ཆགས་པ་ཉམས་མྱོང་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. After row6 དེ་ལ་ཆགས་པ, continuing onto image458 before the main continuation. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [3070, 592, 3550, 686].
+
 [^MTP-AUDIT-C04-207]: Source omission; source anchors MTP-S000534. Golden reading: `དེ་ལ་ཆགས་པ་ཉམས་མྱོང་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. Opening-row smaller continuation from image457 before main ཉམས་མྱོང་ཡིན. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [510, 95, 740, 201].
+
 [^MTP-AUDIT-C04-208]: Source omission; source anchors MTP-S000536. Golden reading: `ཤེས་རིག་གསལ་བ་གདམས་ངག་ལ`. Adzom wording: not fully transcribed or not securely resolved. Within row1 after ཤེས་རིག and before གསལ་བ་གདམས་ངག་ལ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [1300, 99, 2540, 204].
+
 [^MTP-AUDIT-C04-209]: Source omission; source anchors MTP-S000537. Golden reading: `ཡུལ་སེམས་གཉིས་འདུས་གདབ་པའི་ཡུལ`. Adzom wording: not fully transcribed or not securely resolved. Within row2 after འདུས, then after the main གདབ་པའི་ཡུལ before the next statement. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [620, 192, 1160, 286]; [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [1490, 192, 1720, 286].
+
 [^MTP-AUDIT-C04-210]: Source omission; source anchors MTP-S000538. Golden reading: `སྐྱེ་རྒས་ན་འཆི་གོམས་པའི་གནད`. Adzom wording: not fully transcribed or not securely resolved. Within row2 after སྐྱེ་རྒས་ན་འཆི and before གོམས་པའི་གནད. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [2020, 192, 2390, 286].
+
 [^MTP-AUDIT-C04-211]: Source omission; source anchors MTP-S000539. Golden reading: `ཚོགས་དྲུག་མ་འགགས་རྟོགས་པའོ`. Adzom wording: not fully transcribed or not securely resolved. After row2-right ཚོགས་དྲུག་མ་འགགས, continuing at row3 left before རྟོགས་པའོ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [3130, 192, 3550, 287]; [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [510, 276, 720, 372].
+
 [^MTP-AUDIT-C04-212]: Source omission; source anchors MTP-S000540. Golden reading: `དེ་ནས་ཡེ་ཤེས་མཁའ་འགྲོ་རྣམས`. Adzom wording: not fully transcribed or not securely resolved. Within row3 between དེ་ནས and ཡེ་ཤེས་མཁའ་འགྲོ་རྣམས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [1070, 276, 1510, 372].
+
 [^MTP-AUDIT-C04-213]: Source omission; source anchors MTP-S000541. Golden reading: `ཤིན་ཏུ་དགའ་མགུ་ཡི་རངས་ནས`. Adzom wording: not fully transcribed or not securely resolved. Within row3 after ཤིན་ཏུ་དགའ and before མགུ་ཡི་རངས་ནས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [2330, 276, 2620, 372].
+
 [^MTP-AUDIT-C04-214]: Source omission; source anchors MTP-S000542. Golden reading: `རྡོ་རྗེ་འཆང་ལ་འདི་སྐད་གསོལ`. Adzom wording: not fully transcribed or not securely resolved. Smaller wording immediately before row3-right རྡོ་རྗེ་འཆང་ལ་འདི. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [3020, 276, 3210, 372].
+
 [^MTP-AUDIT-C04-215]: Source omission; source anchors MTP-S000543. Golden reading: `ཀྱེ་འཁྲུལ་མེད་གྲོལ་བ་དེ་ལྟར་ན`. Adzom wording: not fully transcribed or not securely resolved. Within row4 after དེ་ལྟར and before final ན. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [1350, 360, 1510, 456].
+
 [^MTP-AUDIT-C04-216]: Source omission; source anchors MTP-S000544. Golden reading: `སྣོད་ཀྱི་འཇིག་རྟེན་ཅིས་མི་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. Smaller wording between completed S544 and the following speaker formula. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [2100, 360, 2270, 456].
+
 [^MTP-AUDIT-C04-217]: Source omission; source anchors MTP-S000545. Golden reading: `རྡོ་རྗེ་འཆང་གིས་བཀའ་སྩལ་པ`. Adzom wording: not fully transcribed or not securely resolved. Within row4 after རྡོ་རྗེ་འཆང་གིས; then after བཀའ་སྩལ་པ, continuing at row5 left. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [2540, 360, 3010, 456]; [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [3290, 360, 3550, 456]; [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [510, 446, 1060, 543].
+
 [^MTP-AUDIT-C04-218]: Source omission; source anchors MTP-S000546. Golden reading: `ནམ་མཁའ་ཉིད་ནི་ཁྱབ་སྟོང་པས`. Adzom wording: not fully transcribed or not securely resolved. Following row5 ནམ་མཁའ་ཉིད་ནི་ཁྱབ་སྟོང་པས. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [1640, 446, 2190, 543].
+
 [^MTP-AUDIT-C04-219]: Source omission; source anchors MTP-S000547. Golden reading: `ནམ་མཁའ་ཉིད་ནི་དངོས་པོར་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. Within row5 after ནམ་མཁའ་ཉིད་ནི and before དངོས་པོར་གྲོལ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [2550, 446, 2820, 543].
+
 [^MTP-AUDIT-C04-220]: Source omission; source anchors MTP-S000548. Golden reading: `རླུང་ནི་གཟུང་ཡུལ་མེད་སྣང་བས`. Adzom wording: not fully transcribed or not securely resolved. After row5-right རླུང་ནི, continuing at row6 left before the remaining main words. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [3370, 446, 3550, 543]; [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [505, 534, 630, 632].
+
 [^MTP-AUDIT-C04-221]: Source omission; source anchors MTP-S000549. Golden reading: `དངོས་པོ་སྡུད་པའི་ལས་སུ་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. Smaller band preceding row6 དངོས་པོ་སྡུད་པའི་ལས་སུ་གྲོལ. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [1090, 534, 1510, 632].
+
 [^MTP-AUDIT-C04-222]: Source omission; source anchors MTP-S000550. Golden reading: `མེ་ནི་སྨིན་བྱེད་བྱིན་ཟ་བས`. Adzom wording: not fully transcribed or not securely resolved. Within row6 after the main opening མེ་ནི་སྨིན་བྱེད་བྱིན and before ཟ་བས; another smaller note begins at the right edge and continues on image459 outside this fragment. The locally visible smaller source wording is absent from the fixed root sequence and remains explicitly untranscribed. English consequence: The English follows the fixed root wording; the omitted smaller source wording remains separately inventoried and untranscribed. Evidence: [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [2480, 534, 3240, 636]; [Adzom p. 448, image 458](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00458.png); [3430, 534, 3560, 636].
+
 [^MTP-AUDIT-C04-223]: Source layer; source anchors MTP-S000501. Golden reading: `ལོག་ལྟ་ཡང་དག་འདོད་པ་རྣམས`. Adzom wording: not fully transcribed or not securely resolved. The print visibly includes རྟག at row5 right after ཡང་དག, followed by ཆད at row6 left before འདོད་པ་རྣམས. The exact extra string རྟག་ཆད is absent from fixed S501. Its type size and layer are not securely distinguishable from neighboring main wording; it is not certified as a main-text omission or as a separate gloss. An independent targeted agent inspection concurred in this layer uncertainty. English consequence: The visible extra རྟག་ཆད is provisionally glossed “permanence and annihilation,” consistently with the same pair in S631. This pair is absent from the fixed S501 wording and its English root translation. Its allocation as main wording versus a source gloss remains unresolved; it is disclosed without silently adding it to the root. Evidence: [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [3270, 444, 3560, 565]; [Adzom p. 445, image 455](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00455.png); [540, 550, 700, 650].
+
 [^MTP-AUDIT-C04-224]: Uncertain reading; source anchors MTP-S000529. Golden reading: `བཟའ་དང་བཏུང་བ་བསྙེན་པ་ལ`. Adzom wording: not fully transcribed or not securely resolved. At row5 left, the final syllable of the opening བཟའ་དང་བཏུང་བ is not securely distinguished as བ versus པ in this inspection. The fixed exact reading is retained and the native glyph remains unresolved; no definite competing printed spelling is asserted. English consequence: The English retains “drinking” for the fixed བཏུང་བ. The uncertain བ/པ is a nominalizing syllable in this construction; this unresolved spelling does not establish a different English meaning for “drinking.” Evidence: [Adzom p. 447, image 457](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00457.png); [540, 495, 1050, 595].
+
 [^MTP-AUDIT-C04-225]: Presentation; source anchors MTP-S000551, MTP-S000552, MTP-S000553, MTP-S000554, MTP-S000555, MTP-S000556, MTP-S000557, MTP-S000558, MTP-S000559, MTP-S000560, MTP-S000561, MTP-S000562, MTP-S000563, MTP-S000564, MTP-S000565, MTP-S000566. Print uses Arabic page numerals, continuous rows and shads; golden has Tibetan-digit electronic page controls and separate source-object lines, generally without the printed final shads. These are display conventions, not lexical variants. Image464 scope ends at chapter-four colophon in row3 before following དེ་ནས. English consequence: The English follows fixed golden segmentation and identifies page metadata separately; native shads and row division are presentation features rather than extra lexical content. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[550, 155, 3570, 270], [550, 250, 3570, 365], [550, 350, 3570, 455], [550, 440, 3570, 550], [550, 530, 3570, 635], [550, 620, 3570, 735]]. Printed page number, continuous root-text rows and shads throughout chapter span..
+
 [^MTP-AUDIT-C04-226]: Source layer; source anchors MTP-S000551. Golden reading: `༤༤༩`. Adzom wording: not fully transcribed or not securely resolved. Locally visible marginal labels and/or initial ornament are absent from golden root wording. Exact marginal text is explicitly untranscribed and is not equated with the electronic page control. English consequence: The English identifies omitted margin and ornamental source material separately. Untranscribed marginal text has not been translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[550, 155, 3570, 270], [550, 250, 3570, 365], [550, 350, 3570, 455], [550, 440, 3570, 550], [550, 530, 3570, 635], [550, 620, 3570, 735]]. Narrow left margin and page frame; additional opening ornament on459,461,463..
+
 [^MTP-AUDIT-C04-227]: Presentation; source anchors MTP-S000567, MTP-S000568, MTP-S000569, MTP-S000570, MTP-S000571, MTP-S000572, MTP-S000573, MTP-S000574, MTP-S000575, MTP-S000576, MTP-S000577, MTP-S000578, MTP-S000579, MTP-S000580, MTP-S000581, MTP-S000582, MTP-S000583. Print uses Arabic page numerals, continuous rows and shads; golden has Tibetan-digit electronic page controls and separate source-object lines, generally without the printed final shads. These are display conventions, not lexical variants. Image464 scope ends at chapter-four colophon in row3 before following དེ་ནས. English consequence: The English follows fixed golden segmentation and identifies page metadata separately; native shads and row division are presentation features rather than extra lexical content. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[495, 145, 3540, 260], [495, 245, 3540, 355], [495, 335, 3540, 450], [495, 435, 3540, 545], [495, 525, 3540, 635], [495, 620, 3540, 735]]. Printed page number, continuous root-text rows and shads throughout chapter span..
+
 [^MTP-AUDIT-C04-228]: Source layer; source anchors MTP-S000567. Golden reading: `༤༥༠`. Adzom wording: not fully transcribed or not securely resolved. Locally visible marginal labels and/or initial ornament are absent from golden root wording. Exact marginal text is explicitly untranscribed and is not equated with the electronic page control. English consequence: The English identifies omitted margin and ornamental source material separately. Untranscribed marginal text has not been translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[495, 145, 3540, 260], [495, 245, 3540, 355], [495, 335, 3540, 450], [495, 435, 3540, 545], [495, 525, 3540, 635], [495, 620, 3540, 735]]. Narrow left margin and page frame; additional opening ornament on459,461,463..
+
 [^MTP-AUDIT-C04-229]: Presentation; source anchors MTP-S000584, MTP-S000585, MTP-S000586, MTP-S000587, MTP-S000588, MTP-S000589, MTP-S000590, MTP-S000591, MTP-S000592, MTP-S000593, MTP-S000594, MTP-S000595, MTP-S000596, MTP-S000597, MTP-S000598. Print uses Arabic page numerals, continuous rows and shads; golden has Tibetan-digit electronic page controls and separate source-object lines, generally without the printed final shads. These are display conventions, not lexical variants. Image464 scope ends at chapter-four colophon in row3 before following དེ་ནས. English consequence: The English follows fixed golden segmentation and identifies page metadata separately; native shads and row division are presentation features rather than extra lexical content. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[535, 110, 3530, 220], [535, 205, 3530, 315], [535, 295, 3530, 405], [535, 385, 3530, 495], [535, 480, 3530, 585], [535, 550, 3530, 670]]. Printed page number, continuous root-text rows and shads throughout chapter span..
+
 [^MTP-AUDIT-C04-230]: Source layer; source anchors MTP-S000584. Golden reading: `༤༥༡`. Adzom wording: not fully transcribed or not securely resolved. Locally visible marginal labels and/or initial ornament are absent from golden root wording. Exact marginal text is explicitly untranscribed and is not equated with the electronic page control. English consequence: The English identifies omitted margin and ornamental source material separately. Untranscribed marginal text has not been translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[535, 110, 3530, 220], [535, 205, 3530, 315], [535, 295, 3530, 405], [535, 385, 3530, 495], [535, 480, 3530, 585], [535, 550, 3530, 670]]. Narrow left margin and page frame; additional opening ornament on459,461,463..
+
 [^MTP-AUDIT-C04-231]: Presentation; source anchors MTP-S000599, MTP-S000600, MTP-S000601, MTP-S000602, MTP-S000603, MTP-S000604, MTP-S000605, MTP-S000606, MTP-S000607, MTP-S000608, MTP-S000609, MTP-S000610, MTP-S000611, MTP-S000612, MTP-S000613, MTP-S000614. Print uses Arabic page numerals, continuous rows and shads; golden has Tibetan-digit electronic page controls and separate source-object lines, generally without the printed final shads. These are display conventions, not lexical variants. Image464 scope ends at chapter-four colophon in row3 before following དེ་ནས. English consequence: The English follows fixed golden segmentation and identifies page metadata separately; native shads and row division are presentation features rather than extra lexical content. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[505, 90, 3550, 205], [505, 185, 3550, 300], [505, 280, 3550, 390], [505, 375, 3550, 480], [505, 465, 3550, 570], [505, 555, 3550, 660]]. Printed page number, continuous root-text rows and shads throughout chapter span..
+
 [^MTP-AUDIT-C04-232]: Source layer; source anchors MTP-S000599. Golden reading: `༤༥༢`. Adzom wording: not fully transcribed or not securely resolved. Locally visible marginal labels and/or initial ornament are absent from golden root wording. Exact marginal text is explicitly untranscribed and is not equated with the electronic page control. English consequence: The English identifies omitted margin and ornamental source material separately. Untranscribed marginal text has not been translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[505, 90, 3550, 205], [505, 185, 3550, 300], [505, 280, 3550, 390], [505, 375, 3550, 480], [505, 465, 3550, 570], [505, 555, 3550, 660]]. Narrow left margin and page frame; additional opening ornament on459,461,463..
+
 [^MTP-AUDIT-C04-233]: Presentation; source anchors MTP-S000615, MTP-S000616, MTP-S000617, MTP-S000618, MTP-S000619, MTP-S000620, MTP-S000621, MTP-S000622, MTP-S000623, MTP-S000624, MTP-S000625, MTP-S000626, MTP-S000627, MTP-S000628, MTP-S000629. Print uses Arabic page numerals, continuous rows and shads; golden has Tibetan-digit electronic page controls and separate source-object lines, generally without the printed final shads. These are display conventions, not lexical variants. Image464 scope ends at chapter-four colophon in row3 before following དེ་ནས. English consequence: The English follows fixed golden segmentation and identifies page metadata separately; native shads and row division are presentation features rather than extra lexical content. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[545, 120, 3540, 230], [545, 210, 3540, 320], [545, 305, 3540, 410], [545, 390, 3540, 505], [545, 485, 3540, 590], [545, 570, 3540, 670]]. Printed page number, continuous root-text rows and shads throughout chapter span..
+
 [^MTP-AUDIT-C04-234]: Source layer; source anchors MTP-S000615. Golden reading: `༤༥༣`. Adzom wording: not fully transcribed or not securely resolved. Locally visible marginal labels and/or initial ornament are absent from golden root wording. Exact marginal text is explicitly untranscribed and is not equated with the electronic page control. English consequence: The English identifies omitted margin and ornamental source material separately. Untranscribed marginal text has not been translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [1, 2, 3, 4, 5, 6]; row-band pixels [[545, 120, 3540, 230], [545, 210, 3540, 320], [545, 305, 3540, 410], [545, 390, 3540, 505], [545, 485, 3540, 590], [545, 570, 3540, 670]]. Narrow left margin and page frame; additional opening ornament on459,461,463..
+
 [^MTP-AUDIT-C04-235]: Presentation; source anchors MTP-S000630, MTP-S000631, MTP-S000632, MTP-S000633, MTP-S000634, MTP-S000635. Print uses Arabic page numerals, continuous rows and shads; golden has Tibetan-digit electronic page controls and separate source-object lines, generally without the printed final shads. These are display conventions, not lexical variants. Image464 scope ends at chapter-four colophon in row3 before following དེ་ནས. English consequence: The English follows fixed golden segmentation and identifies page metadata separately; native shads and row division are presentation features rather than extra lexical content. Evidence: [Adzom p. 454, image 464](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00464.png); Native rows [1, 2, 3]; row-band pixels [[485, 90, 3530, 210], [485, 195, 3530, 310], [485, 280, 1620, 390]]. Printed page number, continuous root-text rows and shads throughout chapter span..
+
 [^MTP-AUDIT-C04-236]: Source layer; source anchors MTP-S000630. Golden reading: `༤༥༤`. Adzom wording: not fully transcribed or not securely resolved. Locally visible marginal labels and/or initial ornament are absent from golden root wording. Exact marginal text is explicitly untranscribed and is not equated with the electronic page control. English consequence: The English identifies omitted margin and ornamental source material separately. Untranscribed marginal text has not been translated. Evidence: [Adzom p. 454, image 464](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00464.png); Native rows [1, 2, 3]; row-band pixels [[485, 90, 3530, 210], [485, 195, 3530, 310], [485, 280, 1620, 390]]. Narrow left margin and page frame; additional opening ornament on459,461,463..
+
 [^MTP-AUDIT-C04-237]: Adzom difference; source anchors MTP-S000583. Golden reading: `ངེས་པ་མེད་པའི་བྱུང་བ་ཡིས`. Adzom reading: `ངེས་པ་མེད་པའི་འབྱུང་བ་ཡིས`. The print clearly has prefixed འབྱུང་བ while fixed golden has བྱུང་བ. This is a newly observed golden-versus-print lexical spelling difference, not a golden transcript correction. English consequence: The English provisionally renders the fixed wording “Through arising without determination,” reading བྱུང་བ as arising or occurrence. Printed འབྱུང་བ supports an elemental reading in the preceding sequence. The clear prefix difference is disclosed separately from that interpretive possibility; the root English does not silently substitute “elements” for the fixed wording. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [6]; row-band pixels [[495, 620, 3540, 735]]. Right end of final row; exact focused crop [2720,622,3540,716]..
+
 [^MTP-AUDIT-C04-238]: Source layer; source anchors MTP-S000634, MTP-S000635. Golden reading: `ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས
     འབད་མེད་རང་གྲོལ་གྱི་ལེའུ་སྟེ་བཞི་པའོ`. Adzom reading: `ཞེས་མུ་ཏིག་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱུད་ལས
     འབད་མེད་རང་གྲོལ་གྱི་ལེའུ་སྟེ་བཞི་པའོ`. The printed title formula and numbered ending close chapter4. Golden chapter_colophon roles are supported. Text beginning དེ་ནས in row3 and lower rows belongs to chapter5 and is outside this audit. English consequence: The English identifies the chapter-four colophon separately from root verse and the following chapter opening. Evidence: [Adzom p. 454, image 464](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00464.png); Native rows [2, 3]; row-band pixels [[485, 195, 3530, 310], [485, 280, 1620, 390]]. Title at row2 right; numbered closure at row3 left before following དེ་ནས..
+
 [^MTP-AUDIT-C04-239]: Source omission; source anchors MTP-S000550. Golden reading: `མེ་ནི་སྨིན་བྱེད་བྱིན་ཟ་བས`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. Readable local fragment རྒྱུ་ཡིས is recorded only as a fragment. S550 root wording lies on458 and was not reinspected here. English consequence: The English follows the fixed golden root text. The readable annotation fragment རྒྱུ་ཡིས is provisionally glossed “by/through the cause”; its referent and attachment remain unresolved. This local smaller note is inventoried as omitted. The rest is explicitly untranscribed and has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [1]; row-band pixels [[550, 155, 3570, 270]]. opening smaller fragment before བསྐྱོད་ཅིང; readable local fragment རྒྱུ་ཡིས, connection to preceding-page note not fully transcribed.
+
 [^MTP-AUDIT-C04-240]: Source omission; source anchors MTP-S000553. Golden reading: `ས་ནི་སྐྱེད་བྱེད་བདེགས་པས་ན`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [1]; row-band pixels [[550, 155, 3570, 270]]. between བདེགས and པས་ན.
+
 [^MTP-AUDIT-C04-241]: Source omission; source anchors MTP-S000554. Golden reading: `དངོས་མེད་མཐའ་ཡས་སྟོང་པར་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [1, 2]; row-band pixels [[550, 155, 3570, 270], [550, 250, 3570, 365]]. between དངོས་མེད at row1 right and མཐའ་ཡས་སྟོང་པར་གྲོལ at row2 left.
+
 [^MTP-AUDIT-C04-242]: Source omission; source anchors MTP-S000555. Golden reading: `ཆུ་ནི་སྡུད་བྱེད་རླན་པས་ན`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [2]; row-band pixels [[550, 250, 3570, 365]]. between སྡུད་བྱེད and རླན་པས་ན.
+
 [^MTP-AUDIT-C04-243]: Source omission; source anchors MTP-S000556. Golden reading: `སྲེག་བྱེད་སྨིན་པའི་ལས་སུ་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [2]; row-band pixels [[550, 250, 3570, 365]]. between སྲེག་བྱེད and སྨིན་པའི་ལས.
+
 [^MTP-AUDIT-C04-244]: Source omission; source anchors MTP-S000557. Golden reading: `ནམ་མཁའི་རླུང་ནི་དངོས་པོ་ལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [3]; row-band pixels [[550, 350, 3570, 455]]. between ནམ་མཁའི་རླུང་ནི and དངོས་པོ་ལ.
+
 [^MTP-AUDIT-C04-245]: Source omission; source anchors MTP-S000558. Golden reading: `ནམ་མཁའི་མེས་ནི་སྡུད་པར་བྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [3]; row-band pixels [[550, 350, 3570, 455]]. between ནམ་མཁའི་མེས་ནི and སྡུད་པར་བྱེད.
+
 [^MTP-AUDIT-C04-246]: Source omission; source anchors MTP-S000559. Golden reading: `ནམ་མཁའི་ཆུས་ནི་སྲེག་བྱེད་པའོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [3, 4]; row-band pixels [[550, 350, 3570, 455], [550, 440, 3570, 550]]. after ནམ་མཁའི་ཆུས at row3 right, through row4 left before ནི་སྲེག་བྱེད་པའོ.
+
 [^MTP-AUDIT-C04-247]: Source omission; source anchors MTP-S000560. Golden reading: `ནམ་མཁའི་ས་ཡིས་གོ་སྐབས་འབྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [4]; row-band pixels [[550, 440, 3570, 550]]. between ནམ་མཁའི་ས་ཡིས and གོ་སྐབས་འབྱེད.
+
 [^MTP-AUDIT-C04-248]: Source omission; source anchors MTP-S000561. Golden reading: `ནམ་མཁའི་ནམ་མཁའ་སྣང་བའོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [4, 5]; row-band pixels [[550, 440, 3570, 550], [550, 530, 3570, 635]]. after ནམ་མཁའི་ནམ་མཁའ at row4 right, through row5 left before སྣང་བའོ.
+
 [^MTP-AUDIT-C04-249]: Source omission; source anchors MTP-S000562. Golden reading: `རླུང་གི་རླུང་ནི་བརྟན་པ་ལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [5]; row-band pixels [[550, 530, 3570, 635]]. between རླུང་གི་རླུང་ནི and བརྟན་པ་ལ.
+
 [^MTP-AUDIT-C04-250]: Source omission; source anchors MTP-S000563. Golden reading: `རླུང་གི་ནམ་མཁའ་ཡེ་གདངས་ཆེ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [5]; row-band pixels [[550, 530, 3570, 635]]. between རླུང་གི་ནམ་མཁའ and ཡེ་གདངས་ཆེ.
+
 [^MTP-AUDIT-C04-251]: Source omission; source anchors MTP-S000564. Golden reading: `རླུང་གི་ཆུ་ནི་མྱུར་མགྱོགས་ཏེ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [6]; row-band pixels [[550, 620, 3570, 735]]. between གི་ཆུ་ནི and མྱུར་མགྱོགས་ཏེ.
+
 [^MTP-AUDIT-C04-252]: Source omission; source anchors MTP-S000565. Golden reading: `རླུང་གི་མེས་ནི་འཕེན་སྡུད་ཕྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [6]; row-band pixels [[550, 620, 3570, 735]]. between རླུང་གི་མེས་ནི and འཕེན་སྡུད་ཕྱེད.
+
 [^MTP-AUDIT-C04-253]: Source omission; source anchors MTP-S000566. Golden reading: `རླུང་གིས་ས་ནི་གཟུགས་བརྙན་གསལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 449, image 459](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00459.png); Native rows [6]; row-band pixels [[550, 620, 3570, 735]]. after རླུང་གིས་ས་ནི through page right; continuation on460 row1 left before root གཟུགས་བརྙན་གསལ; [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [1]; row-band pixels [[495, 145, 3540, 260]]. Opening smaller-note continuation before main གཟུགས་བརྙན་གསལ..
+
 [^MTP-AUDIT-C04-254]: Source omission; source anchors MTP-S000568. Golden reading: `ཆུ་ཡི་ཆུ་ནི་སྒྲ་སྙན་ཡིན`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [1]; row-band pixels [[495, 145, 3540, 260]]. between ཆུ་ཡི་ཆུ་ནི and སྒྲ་སྙན་ཡིན.
+
 [^MTP-AUDIT-C04-255]: Source omission; source anchors MTP-S000569. Golden reading: `ཆུ་ཡི་ནམ་མཁའ་ཐོགས་པ་མེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [1]; row-band pixels [[495, 145, 3540, 260]]. between ཆུ་ཡི་ནམ་མཁའ and ཐོགས་པ་མེད.
+
 [^MTP-AUDIT-C04-256]: Source omission; source anchors MTP-S000570. Golden reading: `ཆུ་ཡི་རླུང་ནི་ཆགས་མེད་རྒྱུག`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [1, 2]; row-band pixels [[495, 145, 3540, 260], [495, 245, 3540, 355]]. after ཆུ་ཡི་རླུང་ནི at row1 right, through row2 left before ཆགས་མེད་རྒྱུག.
+
 [^MTP-AUDIT-C04-257]: Source omission; source anchors MTP-S000571. Golden reading: `ཆུ་ཡི་མེས་ནི་སྡུད་པར་བྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [2]; row-band pixels [[495, 245, 3540, 355]]. between ཆུ་ཡི་མེས་ནི and སྡུད་པར་བྱེད.
+
 [^MTP-AUDIT-C04-258]: Source omission; source anchors MTP-S000572. Golden reading: `ཆུ་ཡིས་ས་ནི་ཁྱབ་པར་བྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [2]; row-band pixels [[495, 245, 3540, 355]]. between ཆུ་ཡིས་ས་ནི and ཁྱབ་པར་བྱེད.
+
 [^MTP-AUDIT-C04-259]: Source omission; source anchors MTP-S000573. Golden reading: `མེ་ཡི་མེས་ནི་བསྐྱེད་པར་བྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [2, 3]; row-band pixels [[495, 245, 3540, 355], [495, 335, 3540, 450]]. after མེ་ཡི་མེས་ནི at row2 right, through row3 left before བསྐྱེད་པར་བྱེད.
+
 [^MTP-AUDIT-C04-260]: Source omission; source anchors MTP-S000574. Golden reading: `མེ་ཡི་ནམ་མཁས་དངོས་པོ་བསྲེག`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [3]; row-band pixels [[495, 335, 3540, 450]]. between མེ་ཡི་ནམ་མཁས and དངོས་པོ་བསྲེག.
+
 [^MTP-AUDIT-C04-261]: Source omission; source anchors MTP-S000575. Golden reading: `མེ་ཡི་རླུང་གིས་འབར་བར་བྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [3]; row-band pixels [[495, 335, 3540, 450]]. between མེ་ཡི་རླུང་གིས and འབར་བར་བྱེད.
+
 [^MTP-AUDIT-C04-262]: Source omission; source anchors MTP-S000576. Golden reading: `མེ་ཡི་ཆུས་ནི་ཤིང་བརླག་པར་བྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [4]; row-band pixels [[495, 435, 3540, 545]]. between preceding-row མེ་ཡི་ཆུས་ནི་ཤིང and བརླག་པར་བྱེད.
+
 [^MTP-AUDIT-C04-263]: Source omission; source anchors MTP-S000577. Golden reading: `མེ་ཡི་སས་ནི་འཛིན་པའོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [4]; row-band pixels [[495, 435, 3540, 545]]. between མེ་ཡི་སས་ནི and འཛིན་པའོ.
+
 [^MTP-AUDIT-C04-264]: Source omission; source anchors MTP-S000578. Golden reading: `ས་ཡི་སས་ནི་འགྲོ་བ་ཁྱབ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [4]; row-band pixels [[495, 435, 3540, 545]]. between ས་ཡི་སས་ནི and འགྲོ་བ་ཁྱབ.
+
 [^MTP-AUDIT-C04-265]: Source omission; source anchors MTP-S000579. Golden reading: `ས་ཡི་ནམ་མཁའ་ཐེག་ཆེན་ཏེ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [5]; row-band pixels [[495, 525, 3540, 635]]. between ས་ཡི་ནམ་མཁའ and ཐེག་ཆེན་ཏེ.
+
 [^MTP-AUDIT-C04-266]: Source omission; source anchors MTP-S000580. Golden reading: `ས་ཡི་རླུང་གིས་གང་སྟོངས་བྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [5]; row-band pixels [[495, 525, 3540, 635]]. between ས་ཡི་རླུང་གིས and གང་སྟོངས་བྱེད.
+
 [^MTP-AUDIT-C04-267]: Source omission; source anchors MTP-S000581. Golden reading: `ས་ཡི་ཆུས་ནི་དངོས་པོ་བསྐྱེད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [5, 6]; row-band pixels [[495, 525, 3540, 635], [495, 620, 3540, 735]]. after ས་ཡི་ཆུས་ནི at row5 right, through row6 left before དངོས་པོ་བསྐྱེད.
+
 [^MTP-AUDIT-C04-268]: Source omission; source anchors MTP-S000582. Golden reading: `ས་ཡི་མེས་ནི་སྐེམས་པའོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [6]; row-band pixels [[495, 620, 3540, 735]]. between ས་ཡི་མེས་ནི and སྐེམས་པའོ.
+
 [^MTP-AUDIT-C04-269]: Source omission; source anchors MTP-S000583. Golden reading: `ངེས་པ་མེད་པའི་བྱུང་བ་ཡིས`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 450, image 460](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00460.png); Native rows [6]; row-band pixels [[495, 620, 3540, 735]]. before ངེས་པ་མེད་པའི after preceding སྐེམས་པའོ.
+
 [^MTP-AUDIT-C04-270]: Source omission; source anchors MTP-S000583. Golden reading: `ངེས་པ་མེད་པའི་བྱུང་བ་ཡིས`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [1]; row-band pixels [[535, 110, 3530, 220]]. page-opening smaller note before ངེས་པར་སྣང་བའི; previous root S583 ended on460, exact attachment remains unestablished.
+
 [^MTP-AUDIT-C04-271]: Source omission; source anchors MTP-S000586. Golden reading: `གཟུགས་སུ་མེད་པའི་སྣང་བ་ཐམས་ཅད་ནི`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [1]; row-band pixels [[535, 110, 3530, 220]]. between གཟུགས་སུ་མེད་པའི and སྣང་བ.
+
 [^MTP-AUDIT-C04-272]: Source omission; source anchors MTP-S000586. Golden reading: `གཟུགས་སུ་མེད་པའི་སྣང་བ་ཐམས་ཅད་ནི`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [1, 2]; row-band pixels [[535, 110, 3530, 220], [535, 205, 3530, 315]]. after སྣང་བ at row1 right and before ཐམས་ཅད་ནི at row2 left.
+
 [^MTP-AUDIT-C04-273]: Source omission; source anchors MTP-S000587. Golden reading: `རང་བཞིན་མེད་པའི་ངང་དུ་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [2]; row-band pixels [[535, 205, 3530, 315]]. after རང་བཞིན་མེད་པའི་ངང་དུ་གྲོལ before next གཟུགས་མེད་རྣམས་ནི.
+
 [^MTP-AUDIT-C04-274]: Source omission; source anchors MTP-S000588. Golden reading: `གཟུགས་མེད་རྣམས་ནི་དངོས་པོས་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [2]; row-band pixels [[535, 205, 3530, 315]]. between གཟུགས་མེད་རྣམས་ནི and དངོས་པོས.
+
 [^MTP-AUDIT-C04-275]: Source omission; source anchors MTP-S000589. Golden reading: `ཆོས་ནི་ཆོས་ཀྱིས་གྲོལ་བ་ལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [3]; row-band pixels [[535, 295, 3530, 405]]. after ཆོས་ཀྱིས་གྲོལ་བ་ལ before མེད་པ་ལ་ཡང.
+
 [^MTP-AUDIT-C04-276]: Source omission; source anchors MTP-S000590. Golden reading: `མེད་པ་ལ་ཡང་མེད་པས་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [3]; row-band pixels [[535, 295, 3530, 405]]. between མེད་པ་ལ་ཡང and མེད་པས་གྲོལ.
+
 [^MTP-AUDIT-C04-277]: Source omission; source anchors MTP-S000591. Golden reading: `གཅིག་ནི་གཅིག་གིས་གྲོལ་བ་ལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [3, 4]; row-band pixels [[535, 295, 3530, 405], [535, 385, 3530, 495]]. after གཅིག་ནི་གཅིག་གིས at row3 right and before གྲོལ་བ་ལ at row4 left.
+
 [^MTP-AUDIT-C04-278]: Source omission; source anchors MTP-S000592. Golden reading: `གཉིས་སུ་སྣང་བས་གཉིས་གྲོལ་བའོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [4]; row-band pixels [[535, 385, 3530, 495]]. between གཉིས་སུ་སྣང་བས་གཉིས and གྲོལ་བའོ.
+
 [^MTP-AUDIT-C04-279]: Source omission; source anchors MTP-S000594. Golden reading: `ཀྱེ་མ་བཅོམ་ལྡན་རྡོ་རྗེ་འཆང`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [5]; row-band pixels [[535, 480, 3530, 585]]. between ཀྱེ་མ་བཅོམ་ལྡན and རྡོ་རྗེ་འཆང.
+
 [^MTP-AUDIT-C04-280]: Source omission; source anchors MTP-S000595. Golden reading: `སྣོད་འཇིག་རྟེན་ཀྱང་གྲོལ་གྱུར་བས`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [5]; row-band pixels [[535, 480, 3530, 585]]. between སྣོད and འཇིག་རྟེན་ཀྱང་གྲོལ་གྱུར་བས.
+
 [^MTP-AUDIT-C04-281]: Source omission; source anchors MTP-S000595. Golden reading: `སྣོད་འཇིག་རྟེན་ཀྱང་གྲོལ་གྱུར་བས`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [5]; row-band pixels [[535, 480, 3530, 585]]. after གྲོལ་གྱུར་བས before བཅུད་ཀྱི་སེམས.
+
 [^MTP-AUDIT-C04-282]: Source omission; source anchors MTP-S000596. Golden reading: `བཅུད་ཀྱི་སེམས་ཅན་ཅིས་མི་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [6]; row-band pixels [[535, 550, 3530, 670]]. between ཅན and ཅིས་མི་གྲོལ.
+
 [^MTP-AUDIT-C04-283]: Source omission; source anchors MTP-S000596. Golden reading: `བཅུད་ཀྱི་སེམས་ཅན་ཅིས་མི་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [6]; row-band pixels [[535, 550, 3530, 670]]. after ཅིས་མི་གྲོལ before next སེམས་ཅན.
+
 [^MTP-AUDIT-C04-284]: Source omission; source anchors MTP-S000597. Golden reading: `སེམས་ཅན་གྲོལ་བ་རྣམས་ལ་དོན་མེད་འགྱུར`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [6]; row-band pixels [[535, 550, 3530, 670]]. before སེམས་ཅན after preceding smaller closing formula.
+
 [^MTP-AUDIT-C04-285]: Source omission; source anchors MTP-S000597. Golden reading: `སེམས་ཅན་གྲོལ་བ་རྣམས་ལ་དོན་མེད་འགྱུར`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [6]; row-band pixels [[535, 550, 3530, 670]]. between སེམས་ཅན and གྲོལ་བ་རྣམས་ལ.
+
 [^MTP-AUDIT-C04-286]: Source omission; source anchors MTP-S000597. Golden reading: `སེམས་ཅན་གྲོལ་བ་རྣམས་ལ་དོན་མེད་འགྱུར`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [6]; row-band pixels [[535, 550, 3530, 670]]. between དོན་མེད and འགྱུར.
+
 [^MTP-AUDIT-C04-287]: Source omission; source anchors MTP-S000597. Golden reading: `སེམས་ཅན་གྲོལ་བ་རྣམས་ལ་དོན་མེད་འགྱུར`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [6]; row-band pixels [[535, 550, 3530, 670]]. after འགྱུར before ཡང་ན.
+
 [^MTP-AUDIT-C04-288]: Source omission; source anchors MTP-S000598. Golden reading: `ཡང་ན་གྲོལ་བ་དེ་དག་ཀུན`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 451, image 461](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00461.png); Native rows [6]; row-band pixels [[535, 550, 3530, 670]]. between ཡང་ན and གྲོལ་བ་དེ་དག་ཀུན on462 opening; note continuation crosses page; [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [1]; row-band pixels [[505, 90, 3550, 205]]. Opening smaller fragment before main གྲོལ་བ་དེ་དག་ཀུན..
+
 [^MTP-AUDIT-C04-289]: Source omission; source anchors MTP-S000598. Golden reading: `ཡང་ན་གྲོལ་བ་དེ་དག་ཀུན`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [1]; row-band pixels [[505, 90, 3550, 205]]. after གྲོལ་བ་དེ་དག་ཀུན before འབད་པ་མེད་པར.
+
 [^MTP-AUDIT-C04-290]: Source omission; source anchors MTP-S000600. Golden reading: `འབད་པ་མེད་པར་གྲོལ་ལམ་ཅི`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [1]; row-band pixels [[505, 90, 3550, 205]]. between འབད་པ་མེད་པར་གྲོལ and ལམ་ཅི.
+
 [^MTP-AUDIT-C04-291]: Source omission; source anchors MTP-S000601. Golden reading: `འབད་པས་གྲོལ་ན་བེམ་པོ་ནི`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [1]; row-band pixels [[505, 90, 3550, 205]]. between འབད་པས་གྲོལ་ན and བེམ་པོ་ནི.
+
 [^MTP-AUDIT-C04-292]: Source omission; source anchors MTP-S000603. Golden reading: `སེམས་ཅན་གྲོལ་བ་ཇི་ལྟར་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [2]; row-band pixels [[505, 185, 3550, 300]]. between སེམས་ཅན and གྲོལ་བ.
+
 [^MTP-AUDIT-C04-293]: Source omission; source anchors MTP-S000603. Golden reading: `སེམས་ཅན་གྲོལ་བ་ཇི་ལྟར་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [2]; row-band pixels [[505, 185, 3550, 300]]. between གྲོལ་བ and ཇི་ལྟར་གྲོལ.
+
 [^MTP-AUDIT-C04-294]: Source omission; source anchors MTP-S000603. Golden reading: `སེམས་ཅན་གྲོལ་བ་ཇི་ལྟར་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [2]; row-band pixels [[505, 185, 3550, 300]]. after ཇི་ལྟར་གྲོལ before བཅོམ་ལྡན་འདས་ཀྱིས.
+
 [^MTP-AUDIT-C04-295]: Source omission; source anchors MTP-S000604. Golden reading: `བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [2]; row-band pixels [[505, 185, 3550, 300]]. after བཅོམ་ལྡན་འདས་ཀྱིས before row3 བཀའ་སྩལ་པ.
+
 [^MTP-AUDIT-C04-296]: Source omission; source anchors MTP-S000604. Golden reading: `བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [3]; row-band pixels [[505, 280, 3550, 390]]. after བཀའ་སྩལ་པ before འབད་པས་གྲོལ་བ་མ་ཡིན་ཏེ.
+
 [^MTP-AUDIT-C04-297]: Source omission; source anchors MTP-S000606. Golden reading: `ཡེ་ཉིད་ནས་ནི་གྲོལ་བར་གནས`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [3]; row-band pixels [[505, 280, 3550, 390]]. between ཡེ and ཉིད་ནས་ནི་གྲོལ་བར་གནས.
+
 [^MTP-AUDIT-C04-298]: Source omission; source anchors MTP-S000606. Golden reading: `ཡེ་ཉིད་ནས་ནི་གྲོལ་བར་གནས`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [3, 4]; row-band pixels [[505, 280, 3550, 390], [505, 375, 3550, 480]]. after གྲོལ་བར་གནས at row3 right, through row4 opening before ཐབས་དང་ཤེས་རབ.
+
 [^MTP-AUDIT-C04-299]: Source omission; source anchors MTP-S000608. Golden reading: `ཕ་དང་མ་ཡི་རྒྱུ་ཉིད་དག`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [4]; row-band pixels [[505, 375, 3550, 480]]. after ཕ་དང་མ་ཡི་རྒྱུ་ཉིད་དག before འཕེན.
+
 [^MTP-AUDIT-C04-300]: Source omission; source anchors MTP-S000609. Golden reading: `འཕེན་པའི་རླུང་གིས་བསྐྱོད་པ་ནི`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [4]; row-band pixels [[505, 375, 3550, 480]]. between འཕེན and པའི་རླུང་གིས.
+
 [^MTP-AUDIT-C04-301]: Source omission; source anchors MTP-S000609. Golden reading: `འཕེན་པའི་རླུང་གིས་བསྐྱོད་པ་ནི`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [4, 5]; row-band pixels [[505, 375, 3550, 480], [505, 465, 3550, 570]]. after པའི་རླུང་གིས at row4 right before བསྐྱོད་པ་ནི at row5 left.
+
 [^MTP-AUDIT-C04-302]: Source omission; source anchors MTP-S000610. Golden reading: `བྱང་ཆུབ་རང་རིག་བདེ་ཆེན་པོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [5]; row-band pixels [[505, 465, 3550, 570]]. between བྱང་ཆུབ and རང་རིག.
+
 [^MTP-AUDIT-C04-303]: Source omission; source anchors MTP-S000610. Golden reading: `བྱང་ཆུབ་རང་རིག་བདེ་ཆེན་པོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [5]; row-band pixels [[505, 465, 3550, 570]]. between རང་རིག and བདེ་ཆེན.
+
 [^MTP-AUDIT-C04-304]: Source omission; source anchors MTP-S000610. Golden reading: `བྱང་ཆུབ་རང་རིག་བདེ་ཆེན་པོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [5]; row-band pixels [[505, 465, 3550, 570]]. between བདེ་ཆེན and པོ.
+
 [^MTP-AUDIT-C04-305]: Source omission; source anchors MTP-S000611. Golden reading: `འབྱུང་ལྔའི་རྒྱུ་ལས་ས་བོན་ནི`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [5]; row-band pixels [[505, 465, 3550, 570]]. between ས་བོན and ནི.
+
 [^MTP-AUDIT-C04-306]: Source omission; source anchors MTP-S000612. Golden reading: `སྟོང་ཉིད་ཡུལ་ལས་རྣམ་པར་ཤར`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [5, 6]; row-band pixels [[505, 465, 3550, 570], [505, 555, 3550, 660]]. after preceding ས་བོན་ནི at row5 right, through row6 opening before སྟོང་ཉིད་ཡུལ་ལས.
+
 [^MTP-AUDIT-C04-307]: Source omission; source anchors MTP-S000613. Golden reading: `གཉིས་ཀྱི་བདེ་བ་སྙོམས་འཇུག་ནི`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [6]; row-band pixels [[505, 555, 3550, 660]]. between གཉིས་ཀྱི་བདེ་བ་སྙོམས་འཇུག and ནི.
+
 [^MTP-AUDIT-C04-308]: Source omission; source anchors MTP-S000614. Golden reading: `ཐབས་ལས་བྱུང་བའི་ཤེས་རབ་ཉིད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 452, image 462](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/translation/04/00462.png); Native rows [6]; row-band pixels [[505, 555, 3550, 660]]. after ཐབས་ལས་བྱུང་བའི་ཤེས་རབ་ཉིད at page right; extensive continuation463 row1 left/middle before S616; [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [1]; row-band pixels [[545, 120, 3540, 230]]. Page-opening extended smaller note before main མངལ་གྱི་ལྷུམས་སུ..
+
 [^MTP-AUDIT-C04-309]: Source omission; source anchors MTP-S000616. Golden reading: `མངལ་གྱི་ལྷུམས་སུ་ཚུད་པ་ནི`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [1, 2]; row-band pixels [[545, 120, 3540, 230], [545, 210, 3540, 320]]. between མངལ་གྱི་ལྷུམས་སུ at row1 right and ཚུད་པ་ནི at row2 left.
+
 [^MTP-AUDIT-C04-310]: Source omission; source anchors MTP-S000617. Golden reading: `རང་རིག་གཞི་ནས་སྣང་བར་ཤར`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [2]; row-band pixels [[545, 210, 3540, 320]]. after རང་རིག་གཞི་ནས་སྣང་བར་ཤར before བདུན་ཚན་བདུན.
+
 [^MTP-AUDIT-C04-311]: Source omission; source anchors MTP-S000618. Golden reading: `བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད་དོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [2, 3]; row-band pixels [[545, 210, 3540, 320], [545, 305, 3540, 410]]. after བདུན་ཚན་བདུན་གྱི་རྟོགས་ཚད at row2 right, through row3 left before final དོ.
+
 [^MTP-AUDIT-C04-312]: Source omission; source anchors MTP-S000619. Golden reading: `ཟླ་བཅུ་ས་རྣམས་བགྲོད་པ་ཉིད`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [3]; row-band pixels [[545, 305, 3540, 410]]. between ཟླ་བཅུ་ས་རྣམས་བགྲོད and པ་ཉིད.
+
 [^MTP-AUDIT-C04-313]: Source omission; source anchors MTP-S000620. Golden reading: `བཙས་པ་ཉིད་ནི་སྐུར་བཞེངས་ཏེ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [3]; row-band pixels [[545, 305, 3540, 410]]. between བཙས་པ་ཉིད་ནི་སྐུར and row4 བཞེངས་ཏེ.
+
 [^MTP-AUDIT-C04-314]: Source omission; source anchors MTP-S000620. Golden reading: `བཙས་པ་ཉིད་ནི་སྐུར་བཞེངས་ཏེ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [4]; row-band pixels [[545, 390, 3540, 505]]. after བཞེངས་ཏེ before ལུས་བསྐྱེད་པ་ནི.
+
 [^MTP-AUDIT-C04-315]: Source omission; source anchors MTP-S000621. Golden reading: `ལུས་བསྐྱེད་པ་ནི་གཞི་སྣང་ཡུལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [4]; row-band pixels [[545, 390, 3540, 505]]. after གཞི་སྣང་ཡུལ before ལུས་སུ་གནས་པ.
+
 [^MTP-AUDIT-C04-316]: Source omission; source anchors MTP-S000622. Golden reading: `ལུས་སུ་གནས་པ་གཞི་ཡིན་ཏེ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [4]; row-band pixels [[545, 390, 3540, 505]]. between གཞི and ཡིན་ཏེ.
+
 [^MTP-AUDIT-C04-317]: Source omission; source anchors MTP-S000623. Golden reading: `རྒས་པ་དག་ནི་འཁྲུལ་པ་སངས`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [5]; row-band pixels [[545, 485, 3540, 590]]. between འཁྲུལ་པ and སངས.
+
 [^MTP-AUDIT-C04-318]: Source omission; source anchors MTP-S000625. Golden reading: `ཤི་བས་ཆོས་ཉིད་སྟོང་པར་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [5]; row-band pixels [[545, 485, 3540, 590]]. between ཆོས་ཉིད and སྟོང་པར་གྲོལ.
+
 [^MTP-AUDIT-C04-319]: Source omission; source anchors MTP-S000626. Golden reading: `དེ་ལྟར་གཟུགས་སུ་སེམས་ཅན་ཏེ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [5]; row-band pixels [[545, 485, 3540, 590]]. between དེ་ལྟར་གཟུགས་སུ and སེམས་ཅན་ཏེ.
+
 [^MTP-AUDIT-C04-320]: Source omission; source anchors MTP-S000627. Golden reading: `འབད་པ་མེད་པར་ཡེ་ནས་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [6]; row-band pixels [[545, 570, 3540, 670]]. between འབད་པ་མེད and པར་ཡེ་ནས་གྲོལ.
+
 [^MTP-AUDIT-C04-321]: Source omission; source anchors MTP-S000628. Golden reading: `ཨེ་མ་སྤྱོད་བསམ་བསྒྱུར་སྣང་བ་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [6]; row-band pixels [[545, 570, 3540, 670]]. between ཨེ་མ་སྤྱོད་བསམ་བསྒྱུར and སྣང་བ་གྲོལ.
+
 [^MTP-AUDIT-C04-322]: Source omission; source anchors MTP-S000629. Golden reading: `བསྒོམས་པས་མ་བཅོས་ཆོས་ཅན་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 453, image 463](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00463.png); Native rows [6]; row-band pixels [[545, 570, 3540, 670]]. after བསྒོམས་པས་མ་བཅོས before next-page main ཆོས་ཅན.
+
 [^MTP-AUDIT-C04-323]: Source omission; source anchors MTP-S000629. Golden reading: `བསྒོམས་པས་མ་བཅོས་ཆོས་ཅན་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 454, image 464](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00464.png); Native rows [1]; row-band pixels [[485, 90, 3530, 210]]. between opening ཆོས་ཅན and གྲོལ.
+
 [^MTP-AUDIT-C04-324]: Source omission; source anchors MTP-S000631. Golden reading: `ལྟ་བས་མ་བརྟགས་རྟག་ཆད་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 454, image 464](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00464.png); Native rows [1]; row-band pixels [[485, 90, 3530, 210]]. between ལྟ་བས་མ་བརྟགས and རྟག་ཆད་གྲོལ.
+
 [^MTP-AUDIT-C04-325]: Source omission; source anchors MTP-S000632. Golden reading: `འབྲས་བུ་མ་བཅིངས་རང་ལུས་གྲོལ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 454, image 464](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00464.png); Native rows [1, 2]; row-band pixels [[485, 90, 3530, 210], [485, 195, 3530, 310]]. after འབྲས་བུ་མ་བཅིངས་རང་ལུས at row1 right through row2 opening before གྲོལ.
+
 [^MTP-AUDIT-C04-326]: Source omission; source anchors MTP-S000633. Golden reading: `སྣང་བ་ཡེ་རྒྱས་ཐེབས་པའོ`. Adzom wording: not fully transcribed or not securely resolved. A local smaller-type source-note cluster is visible here and absent from the fixed golden object sequence. Exact full wording is explicitly untranscribed; the root-relative location inventories an omission without certifying note decipherment or resolved attachment. English consequence: The English follows the fixed golden root text. This local smaller note is inventoried as omitted; untranscribed wording has not been deciphered or translated. Evidence: [Adzom p. 454, image 464](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/main/evidence/golden/04/00464.png); Native rows [2]; row-band pixels [[485, 195, 3530, 310]]. after སྣང་བ་ཡེ་རྒྱས་ཐེབས་པའོ before colophon ཞེས་མུ་ཏིག.
 

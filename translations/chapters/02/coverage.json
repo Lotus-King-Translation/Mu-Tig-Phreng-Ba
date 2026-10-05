@@ -1,20 +1,19 @@
 {
   "chapter": 2,
-  "scope": "Only this chapter; canonical paired files cover the contiguous released/active prefix.",
+  "mode": "post-translation-review-working-text",
   "pairs": 35,
   "golden_objects": 124,
   "source_objects_remaining_in_chapter": 0,
-  "paired_prefix_last_chapter": 2,
-  "formats": {
-    "prose": 11,
-    "verse": 24
-  },
+  "note_count": 175,
   "statuses": {
     "nontranslatable": 7,
     "translated": 24,
     "unresolved": 4
   },
-  "note_count": 175,
+  "formats": {
+    "prose": 11,
+    "verse": 24
+  },
   "obligations_required": 152,
   "obligations_covered": 152,
   "obligations_remaining": 0,
@@ -29,11 +28,14 @@
     "annotation": 1,
     "chapter_colophon": 2
   },
-  "closing_objects": 2,
-  "supporting_records": {
-    "usage.json": true,
-    "glossary-proposals.json": true
-  },
+  "limits": [
+    "Working revision of translation-v1, not a new or approved formal release.",
+    "Pair/object coverage includes explicitly unresolved and nontranslatable material.",
+    "Native-audit evidence is preserved and structurally verified; this build does not inspect images or certify source readings.",
+    "Mechanical validation proves structure/provenance/reproducibility, not semantic correctness or human certification.",
+    "See FINAL-REVIEW.md for the independent original-text review and separate repair self-check.",
+    "Historical QC/signoff records apply only to their original pinned release bytes."
+  ],
   "claims": {
     "automated_semantic_certification": false,
     "independent_human_certification": false

@@ -1,7 +1,17 @@
 <a id="phase-d-review"></a>
 # Post-translation review — Phase D
 
-**State: in progress; not text-ready or a release approval.** Date: 2026-10-05. Reviewer/session: **GPT-6 Astra Pro / MTP-PhaseD-20261005**. This session is independent of the prior authoring runs listed below. Verification of repairs made by this session is a **self-check**, not a second independent review. Git commits use the repository owner’s configured identity; that is not a claim of human language certification.
+**State: whole-work review, supported repairs, repair self-check and working-view regeneration completed. This is not formal release approval or human certification.** Date: 2026-10-05. Reviewer/session: **GPT-6 Astra Pro / MTP-PhaseD-20261005**. This session is independent of the prior authoring runs listed below. Verification of repairs made by this session is a **self-check**, not a second independent review. Git commits use the repository owner’s configured identity; that is not a claim of human language certification.
+
+## Final current disposition — 2026-10-05
+
+**Review coverage: complete.** All **674 Tibetan–English pairs**, all **2,053 golden objects**, and all **2,597 active note definitions** were reviewed in source order. All **134 repaired English pairs** were rechecked against the Tibetan; the revised English was read continuously through all 674 pairs. **There are no unreviewed pair ranges or unfinished review-pass steps.**
+
+**Text disposition: reviewed and corrected working revision of translation-v1, not an approved formal release.** **140 pairs remain explicitly unresolved**, with the same occurrence-level status inventory and linked alternatives/source questions. Other locally provisional constructions remain visibly qualified. Resolving the local awakened-mind label at MTP-000550 did not close its causal-construction question. Further work is bounded adjudication of those existing source/construction questions and the shared reconciliation queue, not a missing whole-work pass.
+
+Corrections: **134 changed English pairs; 540 unchanged English pair bodies; 189 replacement records / 195 occurrences; 268 existing note definitions updated; 318 existing usage records and 197 existing proposal records given additive current dispositions.** PD-001–PD-027 are English finding groups, PD-028 reconciles current terminology status, and PD-029 repairs portable links in those 268 note additions. The counts are edit/coverage counts, never accuracy percentages. Original note prose, proposal bodies and approval histories are preserved. The shared glossary, fixed Tibetan, stable IDs/order/roles/format metadata, historical releases and tags are unchanged.
+
+The following source-order checkpoints and their interim statements are chronological records, not the current disposition. Their pre-edit findings remain evidence of what was recorded before correction. The final applied ledger, self-check and actual validation results govern the completed review. The original release review retained later in this file applies only to its old fixed inputs.
 
 ## Authority and frozen inputs
 
@@ -31,14 +41,14 @@ Every pair, including metadata, opening headings, all source annotations and clo
 
 | Chapter | Expected pair range | Pairs | Golden objects | Notes | Input unresolved | Prior author / reviewer | Actually reviewed |
 | --- | --- | ---: | ---: | ---: | ---: | --- | --- |
-| 1 | `MTP-000001`–`MTP-000030` | 30 | 97 | 112 | 1 | `translation author /root/golden_triage` / `coordinating agent /root` | 000001–000030, all pairs and 112 active notes read; repairs pending |
-| 2 | `MTP-000031`–`MTP-000065` | 35 | 124 | 175 | 4 | `/root/ch02_translate` / `/root/ch02_qc` | 000031–000065, all pairs and 175 active notes read; repairs pending |
-| 3 | `MTP-000066`–`MTP-000099` | 34 | 120 | 165 | 2 | `/root/ch02_translate` / `/root/ch02_qc` | 000066–000099, all pairs and 165 active notes read; repairs pending |
-| 4 | `MTP-000100`–`MTP-000185` | 86 | 294 | 396 | 5 | `/root/ch04_author` / `/root/ch04_qc` | 000100–000185, all pairs and 396 active notes read; repairs pending |
-| 5 | `MTP-000186`–`MTP-000320` | 135 | 416 | 520 | 16 | `/root/ch05_translate` / `/root/ch05_qc` | 000186–000320, all pairs and 520 active notes read; repairs pending |
-| 6 | `MTP-000321`–`MTP-000452` | 132 | 376 | 435 | 21 | `/root/ch06_translate` / `/root/ch06_qc` | 000321–000452, all pairs and 435 active notes read; repairs pending |
-| 7 | `MTP-000453`–`MTP-000567` | 115 | 342 | 373 | 45 | `/root/ch07_translate` / `/root/ch07_qc` | 000453–000567, all pairs and 373 active notes read; repairs recorded below |
-| 8 | `MTP-000568`–`MTP-000674` | 107 | 284 | 421 | 46 | `/root/ch08_translate` / `/root/ch08_qc` | 000568–000674, all pairs and 421 active notes read; repairs recorded below |
+| 1 | `MTP-000001`–`MTP-000030` | 30 | 97 | 112 | 1 | `translation author /root/golden_triage` / `coordinating agent /root` | 000001–000030, all pairs and 112 active notes read; repairs applied and self-checked |
+| 2 | `MTP-000031`–`MTP-000065` | 35 | 124 | 175 | 4 | `/root/ch02_translate` / `/root/ch02_qc` | 000031–000065, all pairs and 175 active notes read; repairs applied and self-checked |
+| 3 | `MTP-000066`–`MTP-000099` | 34 | 120 | 165 | 2 | `/root/ch02_translate` / `/root/ch02_qc` | 000066–000099, all pairs and 165 active notes read; repairs applied and self-checked |
+| 4 | `MTP-000100`–`MTP-000185` | 86 | 294 | 396 | 5 | `/root/ch04_author` / `/root/ch04_qc` | 000100–000185, all pairs and 396 active notes read; repairs applied and self-checked |
+| 5 | `MTP-000186`–`MTP-000320` | 135 | 416 | 520 | 16 | `/root/ch05_translate` / `/root/ch05_qc` | 000186–000320, all pairs and 520 active notes read; repairs applied and self-checked |
+| 6 | `MTP-000321`–`MTP-000452` | 132 | 376 | 435 | 21 | `/root/ch06_translate` / `/root/ch06_qc` | 000321–000452, all pairs and 435 active notes read; repairs applied and self-checked |
+| 7 | `MTP-000453`–`MTP-000567` | 115 | 342 | 373 | 45 | `/root/ch07_translate` / `/root/ch07_qc` | 000453–000567, all pairs and 373 active notes read; repairs applied and self-checked |
+| 8 | `MTP-000568`–`MTP-000674` | 107 | 284 | 421 | 46 | `/root/ch08_translate` / `/root/ch08_qc` | 000568–000674, all pairs and 421 active notes read; repairs applied and self-checked |
 
 Total: **674 pairs; 2,053 source objects; 2,597 locally linked notes; 140 input unresolved pairs; 127 nontranslatable metadata pairs.** Pair-status files remain the occurrence-level unresolved inventory. Source roles: 530 main-text, 127 metadata, three headings, nine chapter-colophon, three source-annotation and two work-colophon pairs. The chapter-5 interrupted colophon and chapter-8 narrative, colophons, notices and triple blessing are included.
 
@@ -2044,3 +2054,53 @@ The 268 newly appended note dispositions currently link to `../../FINAL-REVIEW.m
 ## Working-view build scope
 
 Existing release builders reject changed chapter English and adopted policy pins by design. Preserve those gates and signatures. A separate explicit working-review command will reuse their parser, segmentation, source-audit, note/status, sequence-validation and Markdown-rendering functions, with fixed golden/source/segmentation checks and current English policy pins. It must regenerate chapter and aggregate projections from authored chapter English, never certify or republish a release, and label old release links as historical. Existing `translation-v1` and chapter tags remain the immutable release history; the current files are a working revision of that edition.
+
+## Changed-clause self-check and continuous-English verification — completed
+
+This reviewer re-read **all 134 repaired pairs against their exact Tibetan** after application, including the necessary clauses preserved in the before/after ledger. The self-check covered the honorific/possessive and speaker repairs, mass-noun agreement at 000174, abbreviated matter/awareness relations, core versus essence, negative-entity scope, complete quintessence/pure-extract components, nominal versus verbal sorrow-transcendence, the projected/gathered pair, contextual gesture/seal distinctions, mindfulness/thinking relative-clause grammar, the locally supported awakened-mind label at 000550, and all provisional §8.1 family repairs. No additional omission, agent, causal connector, changed negation/number, lost approved component or unsupported certainty was found in those repairs. Open relationships explicitly identified in the report remain open; this does not certify every provisional interpretation.
+
+The current English was then read continuously, in order, through **MTP-000001–MTP-000674**, including the opening quoted discourse, cross-page syntax, intentional component explanations, school/epithet differences, the interrupted chapter-five colophon, chapter-eight petition/response/narrative transitions, two source notices and triple blessing. No further demonstrable repair was found without deciding the already flagged constructions or imposing a new literary style. Fragments and repetitions that represent the fixed source or an explicit unresolved span were retained.
+
+**This is the reviewer’s self-check of their own corrections, not a second independent review.** The original-text review was independent of all listed authoring runs. Neither stage is final human certification. The exact-edit check also confirmed that the other **540 English pair bodies are unchanged**, every original note’s prose is retained before the dated addition, and the new review links resolve consistently from all generated projections.
+
+## Working-build and initial regression results
+
+The working build regenerated **46 existing dependent files** from authored chapter English, representing all **674 pairs, 2,053 golden objects, 2,597 notes and 2,199 covered source obligations**, with **140 explicitly unresolved pairs**. The existing native-audit evidence is structurally verified and preserved, not claimed newly inspected. `scripts/test_review_working_text.py`: **17 tests passed** against the actual current corpus, including changed Tibetan/English/role/format/object, missing/reordered/duplicate pair and note mutations, protected-byte/policy drift, all-output reproduction, portable note links, local Markdown file links and non-release labeling. Mutation tests use in-memory copies or mocked expected bytes; they do not alter repository sources or tags. These are not the standard’s 63 documented semantic examples.
+
+` .venv/bin/python -B scripts/build_golden_aggregate.py verify` passed (`Verified golden-v1: 8 chapters, 2053 objects`). The initial system-Python failure was the missing pyewts dependency, not changed source. The original pipeline regression suite passed **36 tests**. The first legacy aggregate-suite attempt exceeded the explicit 180-second execution limit; the complete 24-test retry passed in four isolated groups of six tests each. Further final results and remote closure will be appended below. No timed-out run is counted as a pass.
+
+## Final actual validation and preservation results
+
+| Check executed | Actual result |
+| --- | --- |
+| `scripts/review_working_text.py build` and read-only `verify` under the repository virtual environment | PASS. All 46 existing dependent files regenerated and reproduced: 674 pairs, 2,053 objects, 2,597 notes, 2,199 covered source obligations, 140 unresolved pairs. No formal-release approval is asserted. |
+| `scripts/test_review_working_text.py` | PASS: 17 tests on the actual reviewed corpus, including mutation rejection, output reproduction, note identity/portable links, local file links and unapproved-working labels. |
+| `scripts/test_translation_pipeline.py` | PASS: 36 tests. |
+| `scripts/test_translation_aggregate.py` | PASS: all 24 distinct tests on retry in four isolated groups of six. The first serial run hit its explicit 180-second execution limit and is not counted as a pass. |
+| `scripts/test_translation_aggregate_signoff.py` | INCOMPLETE TEST RUN: reached the explicit 180-second execution limit. Partial progress was printed, but the suite has no passing completion result and is not claimed passed. |
+| `scripts/test_translation_draft_continuation.py` | INCOMPLETE TEST RUN: reached the explicit 180-second execution limit. Partial progress was printed, but the suite has no passing completion result and is not claimed passed. |
+| `.venv/bin/python -B scripts/build_golden_aggregate.py verify` | PASS: golden-v1, eight chapters, 2,053 objects. The earlier system-Python attempt failed because pyewts was absent; the repository virtual environment supplies it. |
+| `scripts/validate_paired.py` | Pre-existing FAIL: `invalid pair metadata for M`. Reproduced after review; the existing generic parser was not changed. Current chapter/aggregate structure and pair coverage pass the working validator using the established translation parser. |
+| `scripts/validate_translation_aggregate.py` | Pre-existing release-pin rejection: `Prior released input changed: glossary/expanded_tibetan_english_glossary.csv`. Adoption already caused this at review start. The release gate and old approvals remain intact; the explicitly unapproved working builder is not represented as release approval. |
+| Frozen-input and history checks | PASS: 95 protected files byte-identical to the frozen input, all 18 remote annotated release tag identities unchanged, source/pair/note allocations unchanged, historical note/proposal/approval fields preserved. |
+| Exact edit and status checks | PASS: 134 bodies match the pre-recorded repair plan, 540 bodies unchanged, 268 expected note additions, 318 usage and 197 proposal dispositions; all 140 unresolved pair IDs/statuses retained. |
+| Deterministic working rebuild and verification | PASS: the same 46 generated file hashes before and after another build, followed by read-only verification. |
+| `git diff --check` | NOT a default pass: the interrupted commit attempt returned exit 2 for renderer-generated Markdown trailing whitespace. At landing verification, 2,943 changed lines were flagged. The command-local Markdown-aware check `git -c core.whitespace=-blank-at-eol diff --check` passes; meaningful verse hard breaks and fixed source bytes are preserved. No repository/global Git configuration or release gate was changed. |
+
+The semantic regression examples documented in the standard were **not executed as a separate semantic fixture suite**. Reading them and testing structural invariants is not counted as testing those examples. The two timed-out ancillary legacy suites remain a bounded validation limitation, not unreviewed translation ranges. No CI workflow is configured in this repository, so no hosted-CI success is claimed.
+
+## Final handoff and remaining bounded decisions
+
+The complete review and corrected working text are ready for owner inspection through the review branch/pull request, not for an automatic new release. The next decisions are the existing exact unresolved spans/source-layer questions, the local provisional constructions, and the grouped shared terminology proposals in this report. Shared reconciliation is still required for deluded dullness, meditative stability, phrase, luster, the paired superficial/superfactual proposal, an English Tathāgata honorific, and the serum/lymph bodily-fluid question. The different thugs/citta constructions, title verb, abbreviated matter/awareness contrast and technical-versus-support Ground uses remain construction questions, not silently promoted shared headwords.
+
+No source emendation, segmentation change, release tag creation/movement, approval-history rewrite, force-push, human certification or four-work harmonization claim is part of this task. Verification of this reviewer's own repairs is a self-check only. The independent review of the original authoring runs and that repair self-check remain separately identified.
+
+## Main-integration continuation — 2026-10-05
+
+The owner explicitly required the complete package to land in `main`. This continuation completes delivery of the already reviewed text; it is not a second semantic review or a new translation. The current remote review head was verified as `377d848848be6bf95f682965d0db226c4188195c`, with the chapters 5–8 repair commit `2b30952e5ee7a9576a0741cc76262721c436522b`. These actual Git identities supersede the incorrect hashes in the earlier chat summary. Remote main remained `46110acd02a6caa14a00f91605c1a478eda72bcd`, an ancestor of the review branch; no conflicting remote work or active rulesets were found.
+
+Before synchronization or further changes, all 62 pending files were captured without changing the normal index or working files on recovery branch `recovery/phase-d-working-20261005-main-landing`, commit `393d7dc36e1e73e88e0d8f4b6d03604a869ee380`. The final saved package is staged explicitly. Publication uses an ordinary non-force review-branch checkpoint and pull request to `main`; no release tag or historical approval is created or modified. The existing review branch is retained so its portable note URLs continue to resolve.
+
+Fresh landing checks: read-only working verification **PASS** for all 46 dependent files; working-view regression suite **17/17 PASS**; existing pipeline suite **36/36 PASS**; fixed-golden read-only validation **PASS**, eight chapters and 2,053 anchors. An independent mechanical comparison with the pre-edit evidence ledger confirms all **134** repaired bodies exactly match their recorded after-text, the other **540** bodies are unchanged, all **2,597** original note bodies and their reference sequences are preserved, and only the expected **268** notes have appended dispositions. This is a reproducibility/integrity check, not independent semantic certification. All historical usage/proposal fields are unchanged apart from the recorded 318/197 added dispositions; all 140 unresolved IDs/statuses remain. Fixed source, golden, diplomatic, edition, evidence, glossary and guideline trees, AGENTS.md and FORMAT.md have no changes from the frozen review input. All 36 remote tag/peeled-ref entries (18 annotated releases) match the frozen inventory.
+
+The previous unconditional whitespace-check PASS was incorrect and is corrected in the table above. The actual earlier terminal output shows a `git diff --check` failure before commit; it must not be represented as a successful final checkpoint or solely a missing terminal session. The supported Markdown rendering is retained, using a command-local whitespace setting for the checkpoint. Other prior test results and explicitly incomplete legacy suites retain their recorded scope. No additional English/source-body change was made during this integration continuation.
