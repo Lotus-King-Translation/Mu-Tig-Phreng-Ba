@@ -1,3 +1,126 @@
+<a id="phase-d-review"></a>
+# Post-translation review — Phase D
+
+**State: in progress; not text-ready or a release approval.** Date: 2026-10-05. Reviewer/session: **GPT-6 Astra Pro / MTP-PhaseD-20261005**. This session is independent of the prior authoring runs listed below. Verification of repairs made by this session is a **self-check**, not a second independent review. Git commits use the repository owner’s configured identity; that is not a claim of human language certification.
+
+## Authority and frozen inputs
+
+The owner’s current `POST_TRANSLATION_REVIEW`, `review-and-revise` instruction authorizes the complete existing English and translation-note review in this repository only, minimal supported corrections, dependent-reader regeneration and ordinary commits/pushes. It does not authorize Tibetan changes, segmentation changes, glossary reassignment, a new formal release or tag movement. See the appended local decision.
+
+The input is `46110acd02a6caa14a00f91605c1a478eda72bcd` (remote `main`, merge of policy-adoption PR [#1](https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/pull/1), merged 2026-10-05T06:35:03Z). Existing English edition: `translation-v1`; its fixed release peels to `f9839a3caa0d1920f596c12bc796adae4c58b39b`. Golden edition: `golden-v1`, commit `4d6ba07e1b3379183633127cd387d98d8195eb95`; governing payload is **golden/reading.json**, not reading.md.
+
+Active common policy: template commit `882454cb2576d0b2529296bd7a3a7c87371ab4cf`, standard **2.1.0, Parts I–III**, complete **283 data rows / eight columns** and adopted P1/P2/P3. Current glossary and standard bytes were compared with that exact upstream commit via GitHub and match. Part I §8.1 and Part III were read. All startup files were read. No later owner-approved local terminology exception was found; prior drafting/publication exceptions retain only their recorded historical scope. Initial template provenance and old proposals are not substituted for this adoption.
+
+| Frozen input | SHA-256 |
+| --- | --- |
+| `AGENTS.md` | `2532b82a0464e31e50c624b7a6d0c102992c91fd48bb331f983b0140b58ac16e` |
+| `FORMAT.md` | `c4c6d00ff8cb09dea5743368087da735c7adb86fde0692c3a10594a5ccba7b98` |
+| `DECISIONS.md` | `3731bdbf79fcc645539600bea9cf025a8ed750a561b4d4f0aed4a5a84a571cd1` |
+| `guidelines/tibetan_translation_standard_v2.md` | `dba2654f0790ffb3e3c59a71097588a11d18b0122d26a3e46beb82045d0cc32f` |
+| `glossary/expanded_tibetan_english_glossary.csv` | `f767cd8af409bc16a6ed41bb086d23d1f204cb6db76c48189c168a9a95401da7` |
+| `golden/reading.json` | `dc371e71f4eb0fa842963eebf3ebb0bb7c60e9623a038cf1cdcd3339855be2c1` |
+| `golden/reading.md` | `75fc6f052921f547e30fabb19e4fb4cc2db232c67c5e04a3449855ea844f7c36` |
+| `paired/source.md` | `1cd1a2c2f4528980314f5ce1a831f7a8d725615c699b2fb6e0e1caf4ed97fb31` |
+| `paired/translation.md` | `0dda06f238a218a635eaed9576a596bcfe6bd84ddd4411104b0545734c002614` |
+
+Initial checkout was clean on `policy/adopt-template-882454cb` at `c622e6a`; no unpublished commits or unstaged/untracked work were present. Its content equals the merged remote main. Local main was fast-forwarded without rewriting history, then `review/phase-d-20261005` was created at the frozen input. The existing archive/review branches and sole worktree were preserved. Remote main is unprotected and has no rulesets; the recent workflow uses a pull request. No GitHub Releases were returned by `gh release list`; the existing annotated tags/receipts are the relevant formal editions.
+
+## Finite whole-work inventory and coverage
+
+Every pair, including metadata, opening headings, all source annotations and closing material, is in scope. Pair counts are representation/coverage counts, never accuracy percentages. The eight current chapter inventories were parsed from authored files, not an old audit.
+
+| Chapter | Expected pair range | Pairs | Golden objects | Notes | Input unresolved | Prior author / reviewer | Actually reviewed |
+| --- | --- | ---: | ---: | ---: | ---: | --- | --- |
+| 1 | `MTP-000001`–`MTP-000030` | 30 | 97 | 112 | 1 | `translation author /root/golden_triage` / `coordinating agent /root` | Pairs 000001–000030 read; note reconciliation in progress |
+| 2 | `MTP-000031`–`MTP-000065` | 35 | 124 | 175 | 4 | `/root/ch02_translate` / `/root/ch02_qc` | Not yet reviewed |
+| 3 | `MTP-000066`–`MTP-000099` | 34 | 120 | 165 | 2 | `/root/ch02_translate` / `/root/ch02_qc` | Not yet reviewed |
+| 4 | `MTP-000100`–`MTP-000185` | 86 | 294 | 396 | 5 | `/root/ch04_author` / `/root/ch04_qc` | Not yet reviewed |
+| 5 | `MTP-000186`–`MTP-000320` | 135 | 416 | 520 | 16 | `/root/ch05_translate` / `/root/ch05_qc` | Not yet reviewed |
+| 6 | `MTP-000321`–`MTP-000452` | 132 | 376 | 435 | 21 | `/root/ch06_translate` / `/root/ch06_qc` | Not yet reviewed |
+| 7 | `MTP-000453`–`MTP-000567` | 115 | 342 | 373 | 45 | `/root/ch07_translate` / `/root/ch07_qc` | Not yet reviewed |
+| 8 | `MTP-000568`–`MTP-000674` | 107 | 284 | 421 | 46 | `/root/ch08_translate` / `/root/ch08_qc` | Not yet reviewed |
+
+Total: **674 pairs; 2,053 source objects; 2,597 locally linked notes; 140 input unresolved pairs; 127 nontranslatable metadata pairs.** Pair-status files remain the occurrence-level unresolved inventory. Source roles: 530 main-text, 127 metadata, three headings, nine chapter-colophon, three source-annotation and two work-colophon pairs. The chapter-5 interrupted colophon and chapter-8 narrative, colophons, notices and triple blessing are included.
+
+Existing records used: this report’s preserved historical section, `AGGREGATE-QC.md`, `AGGREGATE-CHECKS.json`, the eight chapter `QC.md`, `FINAL-REVIEW.md`, `qc.json`, `signoff.json`, `usage.json`, `glossary-proposals.json`, source audits and current note maps. Historical aggregate manual sampling is not counted as this review. The 30 golden transcript corrections and separate native-audit findings must be checked as current source history, not automatically reissued as English defects. No fixed-golden payload update was found; later paired-source commits assemble the chapter prefix. The historical author drafts remain archival inputs, not editorial targets.
+
+Authored English is `translations/chapters/NN/translation.md`, assembled into `paired/translation.md` under the local pipeline schema. Chapter/whole-book readers and machine projections are generated. The original final gates intentionally bind fixed release bytes and old policy pins. Their rejection of current policy adoption is retained, not bypassed as release approval. A working-text rebuild must preserve that distinction.
+
+## Initial findings recorded before correction
+
+These findings are **recorded, not yet applied**. They will be extended only to occurrences confirmed by reading the current source.
+
+| Finding | Location and exact Tibetan | Before English | Smallest supported after | Rationale / severity / confidence |
+| --- | --- | --- | --- | --- |
+| PD-001 | MTP-000006: `བཅོམ་ལྡན་འདས` | `Bhagavān` | `Blessed One` | Full P2 honorific row; retain the rest of the awareness/identity construction. Terminology, medium; high. |
+| PD-002 | MTP-000015: `དཀྱིལ་འཁོར` | `maṇḍala` | `mandala` | P2 spelling policy only; does not settle thugs/citta or its locative relation. Terminology, low; high. |
+| PD-003 | MTP-000026: `འདུལ་བ་དང / མདོ་སྡེ་དང / མངོན་པ་ལ་སོགས་པ་དང` (slashes show existing object boundaries) | `Vinaya, Sūtra, Abhidharma, and so forth;` | `discipline, discourse collection, higher doctrine, and so forth;` | P2 category rows govern this explicit collection list; keep source order and continuation. Terminology, medium; high. |
+
+Chapter-1 no-change controls already checked: MTP-000007 says “taught,” not the later “heard” at 000015; 000008 retains negation and its documented unresolved temporal relation; 000012 technical Ground already has approved capitalization; 000024 is a sensory sound use, not a linguistic word use; 000029 `ཐབས་ཅིག` means the assembly’s “together,” not a new technical means occurrence; 000030 `གླེང་གཞི` is the whole setting expression, not standalone Ground. Title/colophon tantra, sensory sound, Ground, identity, realm, citta-retention and object notes need policy-status reconciliation without erasing their independent syntax uncertainties. The Tathāgata title, full vajra-chain overlap, and thugs/citta construction retain exact linked provisional treatment pending construction evidence.
+
+## Actual validation observations
+
+Baseline commands run by this session, before English or note edits:
+
+| Command | Actual result |
+| --- | --- |
+| `python3 -B scripts/validate_paired.py` | FAIL: `PAIRED VALIDATION FAILED: invalid pair metadata for M` (0.048 s). Pre-existing generic-parser failure. |
+| `python3 -B scripts/validate_translation_aggregate.py` | FAIL: `Prior released input changed: glossary/expanded_tibetan_english_glossary.csv` (1.705 s). Pre-existing policy/release-pin incompatibility. |
+| `python3 -B scripts/build_golden_aggregate.py verify` | FAIL: `ModuleNotFoundError: No module named pyewts` (0.191 s); system Python environment, not evidence of changed Tibetan. |
+
+No semantic regression fixture is claimed run from reading the standard. Further tests, changed-clause self-checks, generated-output reproduction and remote verification are pending.
+
+## Release identities frozen at review start
+
+The following remote tag objects and peeled commits were observed with `git ls-remote --tags origin`; no tag is created or moved by this task.
+
+```text
+d56fe35ef78cc31c52696c9c8c29e77790ac04d9	refs/tags/golden-ch01-v1
+405bd61c6afac6cded17f70a9b661eae028f8fa9	refs/tags/golden-ch01-v1^{}
+b72c8dffc1edc477a4daf371306a26a0d3242ba0	refs/tags/golden-ch02-v1
+4bd85fee1d157380051acf97a7614fc3c4d16519	refs/tags/golden-ch02-v1^{}
+1fb0a8c8146710f6e943bb736d1c193171641f63	refs/tags/golden-ch03-v1
+2ede3f022d1af504d3c75942d2280896f590aad9	refs/tags/golden-ch03-v1^{}
+c693ad02281629367569405d6ba9037e8121168c	refs/tags/golden-ch04-v1
+7c1da84cc1d0de731a517957d7a6b62a176a5a3f	refs/tags/golden-ch04-v1^{}
+ea9cc55c97e89f2133889799fdba2ca6c2ed89cc	refs/tags/golden-ch05-v1
+916131f5a1eed2ce3dcc4eeb56af098f173fc8bd	refs/tags/golden-ch05-v1^{}
+9a70b49dd2282111d14021b3efd525f61f3ac6e0	refs/tags/golden-ch06-v1
+3ba32292c566d225bcd57394a6d454f81aafc033	refs/tags/golden-ch06-v1^{}
+a0a8d3dfe2d497f0cfd2b5a7cc5107dca68eff70	refs/tags/golden-ch07-v1
+0129fc7224d0af8379051716abd7b05265c5ddf9	refs/tags/golden-ch07-v1^{}
+3391bb302e11092f0d3e400113a8707ca25c5d95	refs/tags/golden-ch08-v1
+360c900eeb8eb5b5c4b451901403d7a4f6c2920f	refs/tags/golden-ch08-v1^{}
+2dda46d0a11ee533a30dec1e196f506307a4957f	refs/tags/golden-v1
+4d6ba07e1b3379183633127cd387d98d8195eb95	refs/tags/golden-v1^{}
+601ee9f11790e19fa52ff2269595b2d1a829032f	refs/tags/translate-ch01-v1
+2a25fd13805628a76aadea614bfc7fd7248cd392	refs/tags/translate-ch01-v1^{}
+ac905d8e9e2c085a9172cf560d13bdaf0d5c5d80	refs/tags/translate-ch02-v1
+3cbe657cea281992123ccb85e0008e306e9d3108	refs/tags/translate-ch02-v1^{}
+238c498de680dc12a8bf3465925b6ab82e9a1448	refs/tags/translate-ch03-v1
+bd235b87322eb84718930c56e92d4bbe7c198a11	refs/tags/translate-ch03-v1^{}
+3920988c3829b5f313c2c6ebc09dcc3a0edf78cc	refs/tags/translate-ch04-v1
+7c5f10610915ee029837c866c9b33835962d924d	refs/tags/translate-ch04-v1^{}
+f2338c31f8f60e612a3a3ff48499ca29f0cbd6ff	refs/tags/translate-ch05-v1
+23cb6d38ba494dd8f53f22c6618168cd50761782	refs/tags/translate-ch05-v1^{}
+896ac288c08b29c80458621c22a49a123e2b6227	refs/tags/translate-ch06-v1
+713aa49a269ce42ac505bd8dff0299c6946bbdfa	refs/tags/translate-ch06-v1^{}
+b88926a22f750ac23475d42475681e0b0b53ae99	refs/tags/translate-ch07-v1
+3fae729775f57b100c785cb7ed5c23340524d3ae	refs/tags/translate-ch07-v1^{}
+cb4ab7f12468fe3e3ec2294e4b24a4b5b242187e	refs/tags/translate-ch08-v1
+71480071296de443e80f82216c464c558001e7c1	refs/tags/translate-ch08-v1^{}
+ad131e1d06c582c1032808a61168548821c2790c	refs/tags/translation-v1
+f9839a3caa0d1920f596c12bc796adae4c58b39b	refs/tags/translation-v1^{}
+```
+
+## Continuation and disposition
+
+Continue chapter 1 active-note reconciliation, then source-order pair 000031 through 000674. Whole-work terminology concordance, continuous English check, supported repairs, note/usage dispositions, reader regeneration and final verification remain. **Review coverage is partial; text readiness is not yet assessed.** This is not human certification or a harmonization claim for the other three works.
+
+---
+
+The following historical release review is preserved verbatim; its approval applies only to its recorded fixed inputs, not to subsequent Phase D edits.
+
 # Coordinator final review — translation-v1
 
 Date: 2026-10-04. Reviewer and release coordinator: `/root`.

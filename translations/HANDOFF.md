@@ -99,3 +99,7 @@ All 2199 source obligations are represented in the chapter apparatus. Native mai
 The connected Mac provides authenticated publication access. Tags are created only at freshly verified actual main commits after strict final validation; receipts follow the fixed tags. Historical working authorizations and pinned candidates are unchanged. Source editorial queues remain closed; research leads remain outside this bounded translation.
 
 Next finite task: Bounded translation publication complete; retain explicit human-review questions and inactive terminology proposals.
+
+## Active Phase D session — 2026-10-05
+
+Current owner authorization starts review-and-revise, superseding the earlier unassigned/not-started handoff. Policy PR #1 is merged at `46110acd02a6caa14a00f91605c1a478eda72bcd`; reviewer/session GPT-6 Astra Pro / MTP-PhaseD-20261005 is distinct from all original authoring runs. All 674 current pairs are frozen for review. Chapter 1 body has been read; continue its active notes, then MTP-000031–000674. Three supported terminology findings are recorded before editing, with no corrections yet applied. Existing release gates fail on the already-adopted glossary; do not alter signatures or loosen release checks. Preserve fixed Tibetan, source metadata, original drafts and all tags. See [the current review package](FINAL-REVIEW.md#phase-d-review); coverage remains partial and readiness unassessed.

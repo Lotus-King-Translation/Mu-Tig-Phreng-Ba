@@ -40,3 +40,7 @@ All 2199 source obligations are represented in the chapter apparatus. Native mai
 The connected Mac provides authenticated publication access. Tags are created only at freshly verified actual main commits after strict final validation; receipts follow the fixed tags. Historical working authorizations and pinned candidates are unchanged. Source editorial queues remain closed; research leads remain outside this bounded translation.
 
 Next finite task: Bounded translation publication complete; retain explicit human-review questions and inactive terminology proposals.
+
+## Active post-translation review — 2026-10-05
+
+Phase D is assigned by the current owner instruction and in progress on `review/phase-d-20261005`, input `46110acd02a6caa14a00f91605c1a478eda72bcd`. Policy adoption is merged (PR #1), not pending. Reviewer: GPT-6 Astra Pro / MTP-PhaseD-20261005. Finite scope: all 674 pairs / eight chapters; source-order chapter 1 body read, note reconciliation and the remaining chapters pending. No English correction applied yet. Coverage is partial; readiness is not claimed. Current evidence and continuation: [Phase D review](translations/FINAL-REVIEW.md#phase-d-review). Historical release statements below/above retain their original scope.
