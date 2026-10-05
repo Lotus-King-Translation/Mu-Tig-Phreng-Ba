@@ -107,3 +107,7 @@ Current owner authorization starts review-and-revise, superseding the earlier un
 ### Phase D checkpoint — chapters 1–4 read
 
 Reviewer MTP-PhaseD-20261005 has now read all 185 pairs through MTP-000185 and their 848 active notes. Supported findings are recorded before correction in [the existing review report](FINAL-REVIEW.md#phase-d-review); no English repair has yet been applied. Continue at MTP-000186 (chapter 5), then through MTP-000674. Review coverage is partial; note/usage reconciliation, repairs, dependent-reader regeneration and verification remain.
+
+### Phase D checkpoint — chapters 1–6 read
+
+Reviewer MTP-PhaseD-20261005 has read all 452 pairs through MTP-000452 and their 1,803 active note definitions. Supported findings are recorded before correction in [the existing review report](FINAL-REVIEW.md#phase-d-review); no English repair has yet been applied. Continue at MTP-000453 (chapter 7), then through MTP-000674. Coverage is partial; terminology consolidation, note/usage reconciliation, repairs, dependent-reader regeneration and verification remain.
