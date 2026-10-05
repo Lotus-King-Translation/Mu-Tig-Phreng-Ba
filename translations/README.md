@@ -31,3 +31,7 @@ All 2053 fixed objects are represented in 674 pairs with 2597 locally linked not
 Endnotes distinguish actual Adzom differences, transcript corrections that agree with Adzom, omitted annotations, presentation, uncertain readings and translation questions. Unresolved language remains visible. No proposed glossary term is activated. The bounded edition does not claim complete commentary decipherment, exhaustive witness collation or human certification.
 
 Canonical content is in `paired/source.md` and `paired/translation.md`; both cover all eight chapters. Generated readings mirror the fixed chapter snapshots. Original author archives are immutable; later reviewed changes are logged separately. See [handoff](HANDOFF.md), [plan](PLAN.json), [endnote policy](ENDNOTE-POLICY.md), and [pipeline schema](PIPELINE-SCHEMA.md).
+
+## Shared policy and review handoff
+
+For the next assigned completed-English review, use [the active standard 2.1.0](../guidelines/tibetan_translation_standard_v2.md#post-translation-review), [the shared glossary](../glossary/expanded_tibetan_english_glossary.csv), [P1/P2/P3 adoption](../DECISIONS.md#policy-adoption-2026-10-05), and [the current handoff](HANDOFF.md#post-translation-review--phase-d). All use template snapshot `882454cb2576d0b2529296bd7a3a7c87371ab4cf`. Earlier release descriptions above refer to their fixed historical policy inputs, not a claim that the unchanged English already conforms to this newly adopted policy. Review is unassigned and not started; adoption on `main` awaits PR merge.
