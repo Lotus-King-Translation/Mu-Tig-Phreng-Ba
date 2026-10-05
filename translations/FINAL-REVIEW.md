@@ -2036,3 +2036,11 @@ The pre-recorded plan was applied to 46 pairs and 80 existing note definitions i
 ## Repair application checkpoint — chapters 5–8
 
 The remaining recorded repairs were applied. Whole-work totals are now **134 English pairs, 268 existing note definitions, 318 existing usage records and 197 existing proposal dispositions**. Source text, IDs/order, note links and historical approvals remain unchanged. MTP-000550 remains unresolved with a more precise reason after its lexical repair. Dependent working-reader generation and changed-clause self-verification are next; coverage is complete but readiness is not being inferred from that count.
+
+## PD-029 — portable review links (recorded before repair)
+
+The 268 newly appended note dispositions currently link to `../../FINAL-REVIEW.md#phase-d-review`, which resolves from a chapter directory but not from the assembled `paired/translation.md` or whole-book readers. Replace only those new links with the absolute repository review-branch report URL so the same canonical note works in every projection. Before: `(../../FINAL-REVIEW.md#phase-d-review)`. After: `(https://github.com/Lotus-King-Translation/Mu-Tig-Phreng-Ba/blob/review/phase-d-20261005/translations/FINAL-REVIEW.md#phase-d-review)`. Locations: the 268 existing note IDs already inventoried under PD-028. Classification: presentation/link correctness; severity low; confidence high. No root English, Tibetan, note ID or source allocation changes.
+
+## Working-view build scope
+
+Existing release builders reject changed chapter English and adopted policy pins by design. Preserve those gates and signatures. A separate explicit working-review command will reuse their parser, segmentation, source-audit, note/status, sequence-validation and Markdown-rendering functions, with fixed golden/source/segmentation checks and current English policy pins. It must regenerate chapter and aggregate projections from authored chapter English, never certify or republish a release, and label old release links as historical. Existing `translation-v1` and chapter tags remain the immutable release history; the current files are a working revision of that edition.
