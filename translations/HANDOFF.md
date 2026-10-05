@@ -103,3 +103,7 @@ Next finite task: Bounded translation publication complete; retain explicit huma
 ## Active Phase D session — 2026-10-05
 
 Current owner authorization starts review-and-revise, superseding the earlier unassigned/not-started handoff. Policy PR #1 is merged at `46110acd02a6caa14a00f91605c1a478eda72bcd`; reviewer/session GPT-6 Astra Pro / MTP-PhaseD-20261005 is distinct from all original authoring runs. All 674 current pairs are frozen for review. Chapter 1 body has been read; continue its active notes, then MTP-000031–000674. Three supported terminology findings are recorded before editing, with no corrections yet applied. Existing release gates fail on the already-adopted glossary; do not alter signatures or loosen release checks. Preserve fixed Tibetan, source metadata, original drafts and all tags. See [the current review package](FINAL-REVIEW.md#phase-d-review); coverage remains partial and readiness unassessed.
+
+### Phase D checkpoint — chapters 1–4 read
+
+Reviewer MTP-PhaseD-20261005 has now read all 185 pairs through MTP-000185 and their 848 active notes. Supported findings are recorded before correction in [the existing review report](FINAL-REVIEW.md#phase-d-review); no English repair has yet been applied. Continue at MTP-000186 (chapter 5), then through MTP-000674. Review coverage is partial; note/usage reconciliation, repairs, dependent-reader regeneration and verification remain.

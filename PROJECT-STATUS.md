@@ -44,3 +44,7 @@ Next finite task: Bounded translation publication complete; retain explicit huma
 ## Active post-translation review — 2026-10-05
 
 Phase D is assigned by the current owner instruction and in progress on `review/phase-d-20261005`, input `46110acd02a6caa14a00f91605c1a478eda72bcd`. Policy adoption is merged (PR #1), not pending. Reviewer: GPT-6 Astra Pro / MTP-PhaseD-20261005. Finite scope: all 674 pairs / eight chapters; source-order chapter 1 body read, note reconciliation and the remaining chapters pending. No English correction applied yet. Coverage is partial; readiness is not claimed. Current evidence and continuation: [Phase D review](translations/FINAL-REVIEW.md#phase-d-review). Historical release statements below/above retain their original scope.
+
+### Phase D checkpoint — chapters 1–4 read
+
+Reviewer MTP-PhaseD-20261005 has now read all 185 pairs through MTP-000185 and their 848 active notes. Supported findings are recorded before correction in [the existing review report](translations/FINAL-REVIEW.md#phase-d-review); no English repair has yet been applied. Continue at MTP-000186 (chapter 5), then through MTP-000674. Review coverage is partial; note/usage reconciliation, repairs, dependent-reader regeneration and verification remain.
